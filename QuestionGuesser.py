@@ -26,7 +26,7 @@ def initializeCamera():
 
 def shutdownCamera():
     global camera
-    del(camera)
+    camera.release()
 
 def encode_image(image):
     f = open(image, 'rb')
@@ -44,11 +44,13 @@ def save_image(camera_capture):
      return
  
 def runCamera():
+    for i in range (5):
         camera_capture = get_image()
-        save_image(camera_capture)
+    save_image(camera_capture)
+    return camera_capture
 
 def readQuestion():
-         encoded = encode_image("HQ_Screenshot.jpg")
+         encoded = encode_image("test_image.png")
          
          payload = {
               "requests": [
@@ -64,8 +66,10 @@ def readQuestion():
                 }
               ]
             }
+        
          r = requests.post(API_URI, params={'key':API_KEY}, json=payload)
          data = r.json()['responses'][0]['textAnnotations'][0]['description']
+         print(data)
          question = data[:data.index("?")].replace('\n',' ')
          answers = data.split("\n")[-4:-1]
          print("Question: ", question)
@@ -103,28 +107,29 @@ def getAnswer(question, answers):
 def calibrate():
     for i in range(4):
         input("Calibrate...")
-        runCamera()
-        
+        frame = runCamera()
         
 def app():
     initializeCamera()
-    try:
-        calibrate()
-        for i in range(12):
-             input("Ready?")
-             start = dt.now()
-             print("Taking image...")
-             runCamera()
-             print("Running OCR...")
-             question, answers = readQuestion()
-             print("Figuring out answer...")
-             answer = getAnswer(question, answers)
-             
-             print("Answer is: ", answer)
-             
-             print("Total Time: ", dt.now()-start)
-    except:  
-        shutdownCamera()
+    #try:
+    calibrate()
+    input("Ready?")
+
+    for i in range(12):
+         start = dt.now()
+         print("Taking image...")
+         runCamera()
+         print("Running OCR...")
+         question, answers = readQuestion()
+         print(question, answers)
+         print("Figuring out answer...")
+         answer = getAnswer(question, answers)
+         
+         print("Answer is: ", answer)
+         
+         print("Total Time: ", dt.now()-start)
+    #except:  
+        #shutdownCamera()
         
     shutdownCamera()
     
