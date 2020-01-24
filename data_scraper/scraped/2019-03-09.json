@@ -1,0 +1,806 @@
+[
+  {
+    "id": 85065,
+    "show_id": 9908,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-03-10T02:00:00Z",
+    "direct_link": "/us/game/2019-03-09/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,880",
+      "currency": "$",
+      "average_prize": "2.66"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 87613,
+        "text": "A common fairy tale ending is, âand they all livedâ how?",
+        "question_number": 1,
+        "eliminated": "2,310",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "339,727",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 205884,
+            "text": "Happily ever after",
+            "correct": true,
+            "count": "339,727",
+            "percent": "99.32%"
+          },
+          {
+            "id": 205885,
+            "text": "Next to Carl",
+            "correct": false,
+            "count": "1,789",
+            "percent": "0.52%"
+          },
+          {
+            "id": 205887,
+            "text": "Deep underground",
+            "correct": false,
+            "count": "521",
+            "percent": "0.15%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-09/1/1",
+        "game_link": "/us/game/2019-03-09/1",
+        "correct_answers": 339727,
+        "incorrect_answers": 2310,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87627,
+        "text": "How will the clocks change when daylight saving time starts in the US in a few hours?",
+        "question_number": 2,
+        "eliminated": "53,929",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "287,982",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 205905,
+            "text": "Backwards two hours",
+            "correct": false,
+            "count": "7,458",
+            "percent": "2.26%"
+          },
+          {
+            "id": 205906,
+            "text": "Forwards 24 hours",
+            "correct": false,
+            "count": "33,835",
+            "percent": "10.28%"
+          },
+          {
+            "id": 205908,
+            "text": "Forwards one hour",
+            "correct": true,
+            "count": "287,982",
+            "percent": "87.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-09/1/2",
+        "game_link": "/us/game/2019-03-09/1",
+        "correct_answers": 287982,
+        "incorrect_answers": 41293,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87644,
+        "text": "Which letter of the alphabet does the musical scale go up to?",
+        "question_number": 3,
+        "eliminated": "23,172",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "269,192",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 205930,
+            "text": "G",
+            "correct": true,
+            "count": "269,192",
+            "percent": "93.9%"
+          },
+          {
+            "id": 205933,
+            "text": "J",
+            "correct": false,
+            "count": "13,748",
+            "percent": "4.8%"
+          },
+          {
+            "id": 205936,
+            "text": "N",
+            "correct": false,
+            "count": "3,752",
+            "percent": "1.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-09/1/3",
+        "game_link": "/us/game/2019-03-09/1",
+        "correct_answers": 269192,
+        "incorrect_answers": 17500,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87662,
+        "text": "What computer operating system is starting up here?",
+        "question_number": 4,
+        "eliminated": "60,357",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "210,422",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 205958,
+            "text": "Linux",
+            "correct": false,
+            "count": "25,781",
+            "percent": "9.64%"
+          },
+          {
+            "id": 205963,
+            "text": "Vista",
+            "correct": true,
+            "count": "210,422",
+            "percent": "78.65%"
+          },
+          {
+            "id": 205965,
+            "text": "OSX",
+            "correct": false,
+            "count": "31,345",
+            "percent": "11.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-09/1/4",
+        "game_link": "/us/game/2019-03-09/1",
+        "correct_answers": 210422,
+        "incorrect_answers": 57126,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87677,
+        "text": "Which is NOT one of the thread directions in weaving?",
+        "question_number": 5,
+        "eliminated": "130,195",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "84,386",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 205980,
+            "text": "Warp",
+            "correct": false,
+            "count": "62,530",
+            "percent": "30.03%"
+          },
+          {
+            "id": 205983,
+            "text": "Wing",
+            "correct": true,
+            "count": "84,386",
+            "percent": "40.53%"
+          },
+          {
+            "id": 205986,
+            "text": "Weft",
+            "correct": false,
+            "count": "61,294",
+            "percent": "29.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-09/1/5",
+        "game_link": "/us/game/2019-03-09/1",
+        "correct_answers": 84386,
+        "incorrect_answers": 123824,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87690,
+        "text": "What role did Robert Kennedy play in his brotherâs administration?",
+        "question_number": 6,
+        "eliminated": "31,564",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "61,756",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 205999,
+            "text": "Secretary of State",
+            "correct": false,
+            "count": "13,733",
+            "percent": "15.24%"
+          },
+          {
+            "id": 206002,
+            "text": "Chief of Staff",
+            "correct": false,
+            "count": "14,636",
+            "percent": "16.24%"
+          },
+          {
+            "id": 206006,
+            "text": "Attorney General",
+            "correct": true,
+            "count": "61,756",
+            "percent": "68.52%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-09/1/6",
+        "game_link": "/us/game/2019-03-09/1",
+        "correct_answers": 61756,
+        "incorrect_answers": 28369,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87706,
+        "text": "Which of these places is NOT a Caribbean island?",
+        "question_number": 7,
+        "eliminated": "22,262",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "42,041",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 206023,
+            "text": "Bermuda",
+            "correct": true,
+            "count": "42,041",
+            "percent": "68.97%"
+          },
+          {
+            "id": 206026,
+            "text": "Saint Lucia",
+            "correct": false,
+            "count": "11,263",
+            "percent": "18.48%"
+          },
+          {
+            "id": 206030,
+            "text": "Barbados",
+            "correct": false,
+            "count": "7,655",
+            "percent": "12.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-09/1/7",
+        "game_link": "/us/game/2019-03-09/1",
+        "correct_answers": 42041,
+        "incorrect_answers": 18918,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87722,
+        "text": "A key developer of the âStar Trekâ Klingon language also played which character?",
+        "question_number": 8,
+        "eliminated": "36,695",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "7,910",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 206047,
+            "text": "Chekov",
+            "correct": false,
+            "count": "9,892",
+            "percent": "22.92%"
+          },
+          {
+            "id": 206049,
+            "text": "Spock",
+            "correct": false,
+            "count": "25,362",
+            "percent": "58.76%"
+          },
+          {
+            "id": 206052,
+            "text": "Scotty",
+            "correct": true,
+            "count": "7,910",
+            "percent": "18.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-09/1/8",
+        "game_link": "/us/game/2019-03-09/1",
+        "correct_answers": 7910,
+        "incorrect_answers": 35254,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87737,
+        "text": "What font was created for the publication of âThe Papers of Thomas Jeffersonâ?",
+        "question_number": 9,
+        "eliminated": "4,995",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "13,790",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 206070,
+            "text": "Monticello",
+            "correct": true,
+            "count": "13,790",
+            "percent": "77.37%"
+          },
+          {
+            "id": 206072,
+            "text": "Heritage",
+            "correct": false,
+            "count": "2,423",
+            "percent": "13.59%"
+          },
+          {
+            "id": 206074,
+            "text": "Baskerville",
+            "correct": false,
+            "count": "1,611",
+            "percent": "9.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-09/1/9",
+        "game_link": "/us/game/2019-03-09/1",
+        "correct_answers": 13790,
+        "incorrect_answers": 4034,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87753,
+        "text": "Manuel Noriega once tried to sue over his depiction in what video game series?",
+        "question_number": 10,
+        "eliminated": "4,407",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "10,213",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 206094,
+            "text": "Grand Theft Auto",
+            "correct": false,
+            "count": "3,003",
+            "percent": "21.0%"
+          },
+          {
+            "id": 206096,
+            "text": "Call of Duty",
+            "correct": true,
+            "count": "10,213",
+            "percent": "71.4%"
+          },
+          {
+            "id": 206098,
+            "text": "Tomb Raider",
+            "correct": false,
+            "count": "1,087",
+            "percent": "7.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-09/1/10",
+        "game_link": "/us/game/2019-03-09/1",
+        "correct_answers": 10213,
+        "incorrect_answers": 4090,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87769,
+        "text": "As a boy, Robin Thicke was babysat by a legendary athlete from what sport?",
+        "question_number": 11,
+        "eliminated": "2,279",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "8,871",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 206118,
+            "text": "Basketball",
+            "correct": false,
+            "count": "445",
+            "percent": "4.03%"
+          },
+          {
+            "id": 206121,
+            "text": "Football",
+            "correct": false,
+            "count": "1,714",
+            "percent": "15.54%"
+          },
+          {
+            "id": 206127,
+            "text": "Hockey",
+            "correct": true,
+            "count": "8,871",
+            "percent": "80.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-09/1/11",
+        "game_link": "/us/game/2019-03-09/1",
+        "correct_answers": 8871,
+        "incorrect_answers": 2159,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87786,
+        "text": "Which of the four classical elements is explicitly mentioned in Smash Mouthâs song âAll Starâ?",
+        "question_number": 12,
+        "eliminated": "7,281",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "1,880",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 206145,
+            "text": "Wind",
+            "correct": false,
+            "count": "3,208",
+            "percent": "36.36%"
+          },
+          {
+            "id": 206148,
+            "text": "Earth",
+            "correct": false,
+            "count": "3,734",
+            "percent": "42.33%"
+          },
+          {
+            "id": 206149,
+            "text": "Water",
+            "correct": true,
+            "count": "1,880",
+            "percent": "21.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-09/1/12",
+        "game_link": "/us/game/2019-03-09/1",
+        "correct_answers": 1880,
+        "incorrect_answers": 6942,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 85181,
+    "show_id": 9952,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-03-10T02:30:00Z",
+    "direct_link": "/us/game/2019-03-09/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "77.68"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "81.34"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "81.66"
+        },
+        {
+          "number": "5,130",
+          "amount": "0.15",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.1509838301188389,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-03-09/2/1",
+        "question_number": 1,
+        "text": "Sea Creature",
+        "answer": [
+          "MANATEE"
+        ],
+        "initial_letters": [
+          "M"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "T"
+        ],
+        "game_link": "/us/game/2019-03-09/2",
+        "eliminated": 7208,
+        "advancing": 136764,
+        "correct_answers": 136764,
+        "incorrect_answers": 7208
+      },
+      {
+        "direct_link": "/us/game/2019-03-09/2/2",
+        "question_number": 2,
+        "text": "Saved-up Money",
+        "answer": [
+          "NEST",
+          "EGG"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "S",
+          "T"
+        ],
+        "game_link": "/us/game/2019-03-09/2",
+        "eliminated": 11101,
+        "advancing": 125648,
+        "correct_answers": 125648,
+        "incorrect_answers": 11101
+      },
+      {
+        "direct_link": "/us/game/2019-03-09/2/3",
+        "question_number": 3,
+        "text": "Deli Classic",
+        "answer": [
+          "TURKEY",
+          "CLUB"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "T"
+        ],
+        "game_link": "/us/game/2019-03-09/2",
+        "eliminated": 47736,
+        "advancing": 77962,
+        "correct_answers": 77962,
+        "incorrect_answers": 47736
+      },
+      {
+        "direct_link": "/us/game/2019-03-09/2/4",
+        "question_number": 4,
+        "text": "Designer Dog Breed",
+        "answer": [
+          "SCHNOODLE"
+        ],
+        "initial_letters": [
+          "L"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "O"
+        ],
+        "game_link": "/us/game/2019-03-09/2",
+        "eliminated": 63774,
+        "advancing": 16346,
+        "correct_answers": 16346,
+        "incorrect_answers": 63774
+      },
+      {
+        "direct_link": "/us/game/2019-03-09/2/5",
+        "question_number": 5,
+        "text": "Arena Crowd-pleaser",
+        "answer": [
+          "T-SHIRT",
+          "CANNON"
+        ],
+        "initial_letters": [
+          "-",
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "N"
+        ],
+        "game_link": "/us/game/2019-03-09/2",
+        "eliminated": 3544,
+        "advancing": 17248,
+        "correct_answers": 17248,
+        "incorrect_answers": 3544
+      },
+      {
+        "direct_link": "/us/game/2019-03-09/2/6",
+        "question_number": 6,
+        "text": "Whatâs Happening Tonight?",
+        "answer": [
+          "SPRING",
+          "FORWARD"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "N"
+        ],
+        "game_link": "/us/game/2019-03-09/2",
+        "eliminated": 8842,
+        "advancing": 8736,
+        "correct_answers": 8736,
+        "incorrect_answers": 8842
+      },
+      {
+        "direct_link": "/us/game/2019-03-09/2/7",
+        "question_number": 7,
+        "text": "Sushi Option",
+        "answer": [
+          "YELLOWFIN",
+          "TUNA"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "L"
+        ],
+        "game_link": "/us/game/2019-03-09/2",
+        "eliminated": 2422,
+        "advancing": 7467,
+        "correct_answers": 7467,
+        "incorrect_answers": 2422
+      },
+      {
+        "direct_link": "/us/game/2019-03-09/2/8",
+        "question_number": 8,
+        "text": "Win Big",
+        "answer": [
+          "HIT",
+          "THE",
+          "JACKPOT"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "O"
+        ],
+        "game_link": "/us/game/2019-03-09/2",
+        "eliminated": 620,
+        "advancing": 7292,
+        "correct_answers": 7292,
+        "incorrect_answers": 620
+      },
+      {
+        "direct_link": "/us/game/2019-03-09/2/9",
+        "question_number": 9,
+        "text": "Big in the â60s",
+        "answer": [
+          "PSYCHEDELIC",
+          "ROCK"
+        ],
+        "initial_letters": [
+          " ",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "K",
+          "R"
+        ],
+        "game_link": "/us/game/2019-03-09/2",
+        "eliminated": 2574,
+        "advancing": 4829,
+        "correct_answers": 4829,
+        "incorrect_answers": 2574
+      },
+      {
+        "direct_link": "/us/game/2019-03-09/2/10",
+        "question_number": 10,
+        "text": "Movie Quote",
+        "answer": [
+          "YOU",
+          "CANâT",
+          "HANDLE",
+          "THE",
+          "TRUTH"
+        ],
+        "initial_letters": [
+          " ",
+          "â",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "R"
+        ],
+        "game_link": "/us/game/2019-03-09/2",
+        "eliminated": 337,
+        "advancing": 5133,
+        "correct_answers": 5133,
+        "incorrect_answers": 337
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

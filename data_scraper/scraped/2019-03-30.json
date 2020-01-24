@@ -1,0 +1,874 @@
+[
+  {
+    "id": 90935,
+    "show_id": 10205,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-03-31T01:00:00Z",
+    "direct_link": "/us/game/2019-03-30/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,485",
+      "currency": "$",
+      "average_prize": "3.37"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Smarter Day",
+        "slug": "smarter-day"
+      }
+    ],
+    "questions": [
+      {
+        "id": 93975,
+        "text": "What type of circuit is pictured here?",
+        "question_number": 1,
+        "eliminated": "-12,381",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "287,974",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215435,
+            "text": "Vaudeville",
+            "correct": false,
+            "count": "10,111",
+            "percent": "3.68%"
+          },
+          {
+            "id": 215436,
+            "text": "Formula 1",
+            "correct": false,
+            "count": "20,749",
+            "percent": "7.55%"
+          },
+          {
+            "id": 215437,
+            "text": "Electrical",
+            "correct": true,
+            "count": "244,116",
+            "percent": "88.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-30/1/1",
+        "game_link": "/us/game/2019-03-30/1",
+        "correct_answers": 244116,
+        "incorrect_answers": 30860,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 93988,
+        "text": "Which city does NOT host a Nobel Prize ceremony?",
+        "question_number": 2,
+        "eliminated": "13,475",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "276,399",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215454,
+            "text": "Stockholm",
+            "correct": false,
+            "count": "46,086",
+            "percent": "16.99%"
+          },
+          {
+            "id": 215456,
+            "text": "Oslo",
+            "correct": false,
+            "count": "85,088",
+            "percent": "31.36%"
+          },
+          {
+            "id": 215458,
+            "text": "Helsinki",
+            "correct": true,
+            "count": "140,131",
+            "percent": "51.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-30/1/2",
+        "game_link": "/us/game/2019-03-30/1",
+        "correct_answers": 140131,
+        "incorrect_answers": 131174,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94005,
+        "text": "Which of these Beatles songs is written in the first person?",
+        "question_number": 3,
+        "eliminated": "11,603",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "269,069",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215482,
+            "text": "Polythene Pam",
+            "correct": false,
+            "count": "46,484",
+            "percent": "17.92%"
+          },
+          {
+            "id": 215484,
+            "text": "Michelle",
+            "correct": true,
+            "count": "149,922",
+            "percent": "57.81%"
+          },
+          {
+            "id": 215486,
+            "text": "Lady Madonna",
+            "correct": false,
+            "count": "62,938",
+            "percent": "24.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-30/1/3",
+        "game_link": "/us/game/2019-03-30/1",
+        "correct_answers": 149922,
+        "incorrect_answers": 109422,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94024,
+        "text": "Which schoolâs mascot is a form of plant life?",
+        "question_number": 4,
+        "eliminated": "15,732",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "255,462",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215511,
+            "text": "Iowa State",
+            "correct": false,
+            "count": "62,062",
+            "percent": "24.73%"
+          },
+          {
+            "id": 215513,
+            "text": "Utah State",
+            "correct": false,
+            "count": "41,938",
+            "percent": "16.71%"
+          },
+          {
+            "id": 215515,
+            "text": "Ohio State",
+            "correct": true,
+            "count": "146,979",
+            "percent": "58.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-30/1/4",
+        "game_link": "/us/game/2019-03-30/1",
+        "correct_answers": 146979,
+        "incorrect_answers": 104000,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94036,
+        "text": "Which â90s TV show title contains a cardinal number?",
+        "question_number": 5,
+        "eliminated": "35,425",
+        "category": "Math",
+        "category_slug": "math",
+        "advancing": "222,228",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215526,
+            "text": "7th Heaven",
+            "correct": false,
+            "count": "105,268",
+            "percent": "44.95%"
+          },
+          {
+            "id": 215528,
+            "text": "Beverly Hills, 90210",
+            "correct": false,
+            "count": "41,481",
+            "percent": "17.71%"
+          },
+          {
+            "id": 215530,
+            "text": "Party of Five",
+            "correct": true,
+            "count": "87,429",
+            "percent": "37.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-30/1/5",
+        "game_link": "/us/game/2019-03-30/1",
+        "correct_answers": 87429,
+        "incorrect_answers": 146749,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94051,
+        "text": "According to old naval terminology, what was a âship of the lineâ best suited for?",
+        "question_number": 6,
+        "eliminated": "63,119",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "163,793",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215549,
+            "text": "Shipping",
+            "correct": false,
+            "count": "27,779",
+            "percent": "13.16%"
+          },
+          {
+            "id": 215552,
+            "text": "Battle",
+            "correct": true,
+            "count": "105,233",
+            "percent": "49.85%"
+          },
+          {
+            "id": 215557,
+            "text": "Ceremony",
+            "correct": false,
+            "count": "78,079",
+            "percent": "36.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-30/1/6",
+        "game_link": "/us/game/2019-03-30/1",
+        "correct_answers": 105233,
+        "incorrect_answers": 105858,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94067,
+        "text": "Which of these men became US president the soonest after becoming US vice president?",
+        "question_number": 7,
+        "eliminated": "128,016",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "41,292",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215573,
+            "text": "Lyndon B. Johnson",
+            "correct": false,
+            "count": "90,476",
+            "percent": "56.89%"
+          },
+          {
+            "id": 215576,
+            "text": "Richard Nixon",
+            "correct": false,
+            "count": "27,538",
+            "percent": "17.31%"
+          },
+          {
+            "id": 215580,
+            "text": "Harry S. Truman",
+            "correct": true,
+            "count": "41,028",
+            "percent": "25.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-30/1/7",
+        "game_link": "/us/game/2019-03-30/1",
+        "correct_answers": 41028,
+        "incorrect_answers": 118014,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94085,
+        "text": "Which part of the human eye is located the deepest inside?",
+        "question_number": 8,
+        "eliminated": "44,753",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "9,073",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215600,
+            "text": "Lens",
+            "correct": true,
+            "count": "9,071",
+            "percent": "17.23%"
+          },
+          {
+            "id": 215604,
+            "text": "Iris",
+            "correct": false,
+            "count": "12,085",
+            "percent": "22.95%"
+          },
+          {
+            "id": 215608,
+            "text": "Cornea",
+            "correct": false,
+            "count": "31,492",
+            "percent": "59.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-30/1/8",
+        "game_link": "/us/game/2019-03-30/1",
+        "correct_answers": 9071,
+        "incorrect_answers": 43577,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94100,
+        "text": "Which of these novels is NOT by an American woman who won the Nobel Prize in Literature?",
+        "question_number": 9,
+        "eliminated": "11,227",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "4,888",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215623,
+            "text": "Beloved",
+            "correct": false,
+            "count": "2,803",
+            "percent": "17.93%"
+          },
+          {
+            "id": 215627,
+            "text": "The Color Purple",
+            "correct": true,
+            "count": "4,888",
+            "percent": "31.27%"
+          },
+          {
+            "id": 215630,
+            "text": "The Good Earth",
+            "correct": false,
+            "count": "7,943",
+            "percent": "50.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-30/1/9",
+        "game_link": "/us/game/2019-03-30/1",
+        "correct_answers": 4888,
+        "incorrect_answers": 10746,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94116,
+        "text": "Whose law is demonstrated here?",
+        "question_number": 10,
+        "eliminated": "1,855",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "4,470",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215645,
+            "text": "Boyleâs Law",
+            "correct": true,
+            "count": "4,470",
+            "percent": "71.2%"
+          },
+          {
+            "id": 215647,
+            "text": "Grahamâs Law",
+            "correct": false,
+            "count": "964",
+            "percent": "15.36%"
+          },
+          {
+            "id": 215654,
+            "text": "Avogadroâs Law",
+            "correct": false,
+            "count": "844",
+            "percent": "13.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-30/1/10",
+        "game_link": "/us/game/2019-03-30/1",
+        "correct_answers": 4470,
+        "incorrect_answers": 1808,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94131,
+        "text": "What is the only official EU language that is both Semitic and written with Latin letters?",
+        "question_number": 11,
+        "eliminated": "2,074",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "2,761",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215669,
+            "text": "Albanian",
+            "correct": false,
+            "count": "986",
+            "percent": "21.5%"
+          },
+          {
+            "id": 215670,
+            "text": "Finnish",
+            "correct": false,
+            "count": "838",
+            "percent": "18.28%"
+          },
+          {
+            "id": 215673,
+            "text": "Maltese",
+            "correct": true,
+            "count": "2,761",
+            "percent": "60.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-30/1/11",
+        "game_link": "/us/game/2019-03-30/1",
+        "correct_answers": 2761,
+        "incorrect_answers": 1824,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94150,
+        "text": "Which television show was the first to receive captioning?",
+        "question_number": 12,
+        "eliminated": "1,756",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "1,485",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215697,
+            "text": "Sesame Street",
+            "correct": false,
+            "count": "1,147",
+            "percent": "35.78%"
+          },
+          {
+            "id": 215702,
+            "text": "The French Chef",
+            "correct": true,
+            "count": "1,485",
+            "percent": "46.32%"
+          },
+          {
+            "id": 215706,
+            "text": "This Old House",
+            "correct": false,
+            "count": "574",
+            "percent": "17.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-30/1/12",
+        "game_link": "/us/game/2019-03-30/1",
+        "correct_answers": 1485,
+        "incorrect_answers": 1721,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 91055,
+    "show_id": 10227,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-03-31T01:30:00Z",
+    "direct_link": "/us/game/2019-03-30/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "7,780",
+      "currency": "$",
+      "average_prize": "0.13"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Smarter Day",
+        "slug": "smarter-day"
+      }
+    ],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-03-30/2/1",
+        "question_number": 1,
+        "text": "Everyone is Speeding!",
+        "answer": [
+          "GIVE",
+          "ME",
+          "A",
+          "BRAKE"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "V"
+        ],
+        "game_link": "/us/game/2019-03-30/2",
+        "eliminated": 24155,
+        "advancing": 146455,
+        "correct_answers": 146455,
+        "incorrect_answers": 24155
+      },
+      {
+        "direct_link": "/us/game/2019-03-30/2/2",
+        "question_number": 2,
+        "text": "I Demand a Refund!",
+        "answer": [
+          "ITâS",
+          "PAYBACK",
+          "TIME"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "T"
+        ],
+        "game_link": "/us/game/2019-03-30/2",
+        "eliminated": 106253,
+        "advancing": 42391,
+        "correct_answers": 42391,
+        "incorrect_answers": 106253
+      },
+      {
+        "direct_link": "/us/game/2019-03-30/2/3",
+        "question_number": 3,
+        "text": "Too Many Tolls!",
+        "answer": [
+          "ITâS",
+          "HIGHWAY",
+          "ROBBERY"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "O"
+        ],
+        "game_link": "/us/game/2019-03-30/2",
+        "eliminated": 19497,
+        "advancing": 29722,
+        "correct_answers": 29722,
+        "incorrect_answers": 19497
+      },
+      {
+        "direct_link": "/us/game/2019-03-30/2/4",
+        "question_number": 4,
+        "text": "The Farmer's Out of Veggies!",
+        "answer": [
+          "YOU",
+          "NEED",
+          "TO",
+          "PRODUCE",
+          "MORE"
+        ],
+        "initial_letters": [
+          " ",
+          "Y"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "R"
+        ],
+        "game_link": "/us/game/2019-03-30/2",
+        "eliminated": 3798,
+        "advancing": 27555,
+        "correct_answers": 27555,
+        "incorrect_answers": 3798
+      },
+      {
+        "direct_link": "/us/game/2019-03-30/2/5",
+        "question_number": 5,
+        "text": "Too Much Miming!",
+        "answer": [
+          "TIRED",
+          "OF",
+          "THIS",
+          "CHARADE"
+        ],
+        "initial_letters": [
+          " ",
+          "F"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "T"
+        ],
+        "game_link": "/us/game/2019-03-30/2",
+        "eliminated": 3471,
+        "advancing": 24555,
+        "correct_answers": 24555,
+        "incorrect_answers": 3471
+      },
+      {
+        "direct_link": "/us/game/2019-03-30/2/6",
+        "question_number": 6,
+        "text": "Britney Trivia Was Too Hard!",
+        "answer": [
+          "HINT",
+          "ME",
+          "BABY",
+          "ONE",
+          "MORE",
+          "TIME"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "R"
+        ],
+        "game_link": "/us/game/2019-03-30/2",
+        "eliminated": 2798,
+        "advancing": 22235,
+        "correct_answers": 22235,
+        "incorrect_answers": 2798
+      },
+      {
+        "direct_link": "/us/game/2019-03-30/2/7",
+        "question_number": 7,
+        "text": "The Wedding Was Cold!",
+        "answer": [
+          "IT",
+          "WAS",
+          "AN",
+          "ICY",
+          "RECEPTION"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "P"
+        ],
+        "game_link": "/us/game/2019-03-30/2",
+        "eliminated": 1925,
+        "advancing": 20902,
+        "correct_answers": 20902,
+        "incorrect_answers": 1925
+      },
+      {
+        "direct_link": "/us/game/2019-03-30/2/8",
+        "question_number": 8,
+        "text": "I Don't Like That George Michael Song!",
+        "answer": [
+          "STOP",
+          "THE",
+          "BAD",
+          "âFAITHâ",
+          "ARGUMENTS"
+        ],
+        "initial_letters": [
+          " ",
+          "â",
+          "â",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "O"
+        ],
+        "game_link": "/us/game/2019-03-30/2",
+        "eliminated": 13402,
+        "advancing": 7886,
+        "correct_answers": 7886,
+        "incorrect_answers": 13402
+      },
+      {
+        "direct_link": "/us/game/2019-03-30/2/9",
+        "question_number": 9,
+        "text": "Hugh Jackman Was Tardy!",
+        "answer": [
+          "HEâS",
+          "THE",
+          "LATEST",
+          "SHOWMAN"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "H"
+        ],
+        "game_link": "/us/game/2019-03-30/2",
+        "eliminated": 875,
+        "advancing": 10775,
+        "correct_answers": 10775,
+        "incorrect_answers": 875
+      },
+      {
+        "direct_link": "/us/game/2019-03-30/2/10",
+        "question_number": 10,
+        "text": "The Chefs are Grunting!",
+        "answer": [
+          "TWO",
+          "MANLY",
+          "COOKS",
+          "IN",
+          "THE",
+          "KITCHEN"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "K",
+          "O"
+        ],
+        "game_link": "/us/game/2019-03-30/2",
+        "eliminated": 2919,
+        "advancing": 8092,
+        "correct_answers": 8092,
+        "incorrect_answers": 2919
+      },
+      {
+        "direct_link": "/us/game/2019-03-30/2/11",
+        "question_number": 11,
+        "text": "The Theater Was Noisy!",
+        "answer": [
+          "IT",
+          "RUINED",
+          "THE",
+          "NIGHT",
+          "FOR",
+          "âUSâ"
+        ],
+        "initial_letters": [
+          " ",
+          "â",
+          "â",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "U"
+        ],
+        "game_link": "/us/game/2019-03-30/2",
+        "eliminated": 530,
+        "advancing": 8397,
+        "correct_answers": 8397,
+        "incorrect_answers": 530
+      },
+      {
+        "direct_link": "/us/game/2019-03-30/2/12",
+        "question_number": 12,
+        "text": "I Typed the Wrong Letters!",
+        "answer": [
+          "THIS",
+          "IS",
+          "SPELLING",
+          "DISASTER"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "N"
+        ],
+        "game_link": "/us/game/2019-03-30/2",
+        "eliminated": 862,
+        "advancing": 7780,
+        "correct_answers": 7780,
+        "incorrect_answers": 862
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

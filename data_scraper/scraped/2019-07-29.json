@@ -1,0 +1,1448 @@
+[
+  {
+    "id": 124357,
+    "show_id": 11926,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-07-30T00:00:00Z",
+    "direct_link": "/us/game/2019-07-29/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "4,723",
+      "currency": "$",
+      "average_prize": "0.21"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 135715,
+        "text": "What is the maximum number of players that can be credited with an assist on a single ice hockey goal?",
+        "question_number": 1,
+        "eliminated": "-11,147",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "101,993",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278045,
+            "text": "None",
+            "correct": false,
+            "count": "1,997",
+            "percent": "2.27%"
+          },
+          {
+            "id": 278046,
+            "text": "Two",
+            "correct": true,
+            "count": "83,388",
+            "percent": "94.79%"
+          },
+          {
+            "id": 278047,
+            "text": "Seven",
+            "correct": false,
+            "count": "2,586",
+            "percent": "2.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/1/1",
+        "game_link": "/us/game/2019-07-29/1",
+        "correct_answers": 83388,
+        "incorrect_answers": 4583,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 135732,
+        "text": "Which sport leagueâs trade deadline takes place this week?",
+        "question_number": 2,
+        "eliminated": "2,931",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "99,101",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278070,
+            "text": "NBA",
+            "correct": false,
+            "count": "7,577",
+            "percent": "8.47%"
+          },
+          {
+            "id": 278072,
+            "text": "MLB",
+            "correct": true,
+            "count": "77,624",
+            "percent": "86.81%"
+          },
+          {
+            "id": 278076,
+            "text": "MLS",
+            "correct": false,
+            "count": "4,219",
+            "percent": "4.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/1/2",
+        "game_link": "/us/game/2019-07-29/1",
+        "correct_answers": 77624,
+        "incorrect_answers": 11796,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 135748,
+        "text": "Which of these teams traded for a high-profile starting pitcher this past weekend?",
+        "question_number": 3,
+        "eliminated": "3,461",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "95,757",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278096,
+            "text": "New York Mets",
+            "correct": true,
+            "count": "66,981",
+            "percent": "78.35%"
+          },
+          {
+            "id": 278097,
+            "text": "St. Louis Cardinals",
+            "correct": false,
+            "count": "8,276",
+            "percent": "9.68%"
+          },
+          {
+            "id": 278099,
+            "text": "New York Yankees",
+            "correct": false,
+            "count": "10,231",
+            "percent": "11.97%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/1/3",
+        "game_link": "/us/game/2019-07-29/1",
+        "correct_answers": 66981,
+        "incorrect_answers": 18507,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 135763,
+        "text": "What player has won the Home Run Derby the greatest number of times?",
+        "question_number": 4,
+        "eliminated": "10,186",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "85,680",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278117,
+            "text": "Ryan Howard",
+            "correct": false,
+            "count": "8,138",
+            "percent": "9.75%"
+          },
+          {
+            "id": 278118,
+            "text": "Ken Griffey Jr.",
+            "correct": true,
+            "count": "36,937",
+            "percent": "44.27%"
+          },
+          {
+            "id": 278119,
+            "text": "Prince Fielder",
+            "correct": false,
+            "count": "38,356",
+            "percent": "45.97%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/1/4",
+        "game_link": "/us/game/2019-07-29/1",
+        "correct_answers": 36937,
+        "incorrect_answers": 46494,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 135779,
+        "text": "The last player allowed to wear number 42 in MLB played what position?",
+        "question_number": 5,
+        "eliminated": "3,456",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "82,432",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278141,
+            "text": "2nd base",
+            "correct": false,
+            "count": "15,245",
+            "percent": "20.83%"
+          },
+          {
+            "id": 278142,
+            "text": "Pitcher",
+            "correct": true,
+            "count": "50,818",
+            "percent": "69.43%"
+          },
+          {
+            "id": 278143,
+            "text": "Catcher",
+            "correct": false,
+            "count": "7,134",
+            "percent": "9.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/1/5",
+        "game_link": "/us/game/2019-07-29/1",
+        "correct_answers": 50818,
+        "incorrect_answers": 22379,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 135795,
+        "text": "Who throws a pass considered a âlateralâ on this play?",
+        "question_number": 6,
+        "eliminated": "1,866",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "80,737",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278165,
+            "text": "Cris Carter",
+            "correct": false,
+            "count": "4,689",
+            "percent": "6.58%"
+          },
+          {
+            "id": 278166,
+            "text": "Daunte Culpepper",
+            "correct": false,
+            "count": "5,546",
+            "percent": "7.78%"
+          },
+          {
+            "id": 278167,
+            "text": "Randy Moss",
+            "correct": true,
+            "count": "61,056",
+            "percent": "85.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/1/6",
+        "game_link": "/us/game/2019-07-29/1",
+        "correct_answers": 61056,
+        "incorrect_answers": 10235,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 135811,
+        "text": "What team is currently in the longest MLB playoff drought?",
+        "question_number": 7,
+        "eliminated": "7,276",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "73,544",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278189,
+            "text": "Cincinnati Reds",
+            "correct": false,
+            "count": "18,511",
+            "percent": "26.6%"
+          },
+          {
+            "id": 278190,
+            "text": "Seattle Mariners",
+            "correct": true,
+            "count": "37,614",
+            "percent": "54.05%"
+          },
+          {
+            "id": 278193,
+            "text": "San Diego Padres",
+            "correct": false,
+            "count": "13,463",
+            "percent": "19.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/1/7",
+        "game_link": "/us/game/2019-07-29/1",
+        "correct_answers": 37614,
+        "incorrect_answers": 31974,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 135834,
+        "text": "On a per-game basis, which league had the lowest average attendance in its last complete season?",
+        "question_number": 8,
+        "eliminated": "17,870",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "56,170",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278223,
+            "text": "MLB",
+            "correct": false,
+            "count": "10,707",
+            "percent": "16.76%"
+          },
+          {
+            "id": 278226,
+            "text": "NBA",
+            "correct": true,
+            "count": "8,665",
+            "percent": "13.57%"
+          },
+          {
+            "id": 278229,
+            "text": "MLS",
+            "correct": false,
+            "count": "44,500",
+            "percent": "69.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/1/8",
+        "game_link": "/us/game/2019-07-29/1",
+        "correct_answers": 8665,
+        "incorrect_answers": 55207,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 135844,
+        "text": "Who was the last racer besides Lewis Hamilton to win the Formula One World Driversâ Championship?",
+        "question_number": 9,
+        "eliminated": "16,920",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "41,751",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278238,
+            "text": "Nico Rosberg",
+            "correct": true,
+            "count": "18,542",
+            "percent": "36.88%"
+          },
+          {
+            "id": 278242,
+            "text": "Sebastian Vettel",
+            "correct": false,
+            "count": "15,346",
+            "percent": "30.52%"
+          },
+          {
+            "id": 278248,
+            "text": "Kimi Raikkonen",
+            "correct": false,
+            "count": "16,386",
+            "percent": "32.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/1/9",
+        "game_link": "/us/game/2019-07-29/1",
+        "correct_answers": 18542,
+        "incorrect_answers": 31732,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 135859,
+        "text": "Who was the last American to win the PGA European Tourâs Rookie of the Year?",
+        "question_number": 10,
+        "eliminated": "20,137",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "23,033",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278261,
+            "text": "Brooks Koepka",
+            "correct": true,
+            "count": "18,535",
+            "percent": "48.09%"
+          },
+          {
+            "id": 278262,
+            "text": "Bryson DeChambeau",
+            "correct": false,
+            "count": "8,289",
+            "percent": "21.51%"
+          },
+          {
+            "id": 278263,
+            "text": "Jordan Spieth",
+            "correct": false,
+            "count": "11,719",
+            "percent": "30.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/1/10",
+        "game_link": "/us/game/2019-07-29/1",
+        "correct_answers": 18535,
+        "incorrect_answers": 20008,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 135875,
+        "text": "Which of these tennis greats has a lifetime winning record against Martina Navratilova?",
+        "question_number": 11,
+        "eliminated": "17,873",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "7,787",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278285,
+            "text": "Evonne Goolagong",
+            "correct": false,
+            "count": "13,410",
+            "percent": "56.31%"
+          },
+          {
+            "id": 278287,
+            "text": "Chris Evert",
+            "correct": false,
+            "count": "2,616",
+            "percent": "10.99%"
+          },
+          {
+            "id": 278289,
+            "text": "Monica Seles",
+            "correct": true,
+            "count": "7,787",
+            "percent": "32.7%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/1/11",
+        "game_link": "/us/game/2019-07-29/1",
+        "correct_answers": 7787,
+        "incorrect_answers": 16026,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 135892,
+        "text": "Based on the stats of the last regular season, what NBA team acquired the highest-scoring player this offseason?",
+        "question_number": 12,
+        "eliminated": "10,197",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,723",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278312,
+            "text": "Los Angeles Lakers",
+            "correct": false,
+            "count": "3,443",
+            "percent": "25.62%"
+          },
+          {
+            "id": 278313,
+            "text": "Los Angeles Clippers",
+            "correct": true,
+            "count": "4,723",
+            "percent": "35.14%"
+          },
+          {
+            "id": 278314,
+            "text": "Brooklyn Nets",
+            "correct": false,
+            "count": "5,274",
+            "percent": "39.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/1/12",
+        "game_link": "/us/game/2019-07-29/1",
+        "correct_answers": 4723,
+        "incorrect_answers": 8717,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 954,
+        "game_id": 124357,
+        "question": "Which team will break its drought first?",
+        "results": [
+          {
+            "id": 5720,
+            "display_count": "27",
+            "vote_count": 9172,
+            "text": "Mariners"
+          },
+          {
+            "id": 5715,
+            "display_count": "42",
+            "vote_count": 14643,
+            "text": "Padres"
+          },
+          {
+            "id": 5710,
+            "display_count": "31",
+            "vote_count": 10763,
+            "text": "Reds"
+          }
+        ],
+        "created_at": "2019-07-30T00:12:15Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 124478,
+    "show_id": 11927,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "235,000",
+    "currency": "$",
+    "start_time": "2019-07-30T01:00:00Z",
+    "direct_link": "/us/game/2019-07-29/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Checkpoints",
+        "slug": "checkpoints"
+      }
+    ],
+    "questions": [
+      {
+        "id": 135909,
+        "text": "Which of these is a real film title from the franchise?",
+        "question_number": 1,
+        "eliminated": "-22,308",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "239,234",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278336,
+            "text": "Fast & the Furriest",
+            "correct": false,
+            "count": "14,073",
+            "percent": "6.82%"
+          },
+          {
+            "id": 278337,
+            "text": "Fast Five",
+            "correct": true,
+            "count": "190,249",
+            "percent": "92.2%"
+          },
+          {
+            "id": 278338,
+            "text": "Sweet ân Sixy",
+            "correct": false,
+            "count": "2,017",
+            "percent": "0.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/2/1",
+        "game_link": "/us/game/2019-07-29/2",
+        "correct_answers": 190249,
+        "incorrect_answers": 16090,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 135919,
+        "text": "Who is featured on the incredibly popular âSee You Againâ from the seventh film?",
+        "question_number": 2,
+        "eliminated": "9,591",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "229,789",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278351,
+            "text": "Charlie Puth",
+            "correct": true,
+            "count": "155,092",
+            "percent": "76.45%"
+          },
+          {
+            "id": 278353,
+            "text": "Charli XCX",
+            "correct": false,
+            "count": "29,564",
+            "percent": "14.57%"
+          },
+          {
+            "id": 278356,
+            "text": "Charlie Chaplin",
+            "correct": false,
+            "count": "18,213",
+            "percent": "8.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/2/2",
+        "game_link": "/us/game/2019-07-29/2",
+        "correct_answers": 155092,
+        "incorrect_answers": 47777,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 135933,
+        "text": "Which wrestler has starred in multiple âFast and Furiousâ films?",
+        "question_number": 3,
+        "eliminated": "4,063",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "226,132",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278372,
+            "text": "Steve Austin",
+            "correct": false,
+            "count": "4,605",
+            "percent": "2.26%"
+          },
+          {
+            "id": 278373,
+            "text": "Randy Savage",
+            "correct": false,
+            "count": "3,276",
+            "percent": "1.61%"
+          },
+          {
+            "id": 278376,
+            "text": "The Rock",
+            "correct": true,
+            "count": "195,498",
+            "percent": "96.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/2/3",
+        "game_link": "/us/game/2019-07-29/2",
+        "correct_answers": 195498,
+        "incorrect_answers": 7881,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 135950,
+        "text": "As established in the first film, what is Jordana Brewsterâs characterâs relationship to Vin Dieselâs?",
+        "question_number": 4,
+        "eliminated": "20,355",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "205,849",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278398,
+            "text": "Ex-girlfriend",
+            "correct": false,
+            "count": "33,779",
+            "percent": "17.08%"
+          },
+          {
+            "id": 278400,
+            "text": "Sibling",
+            "correct": true,
+            "count": "92,605",
+            "percent": "46.82%"
+          },
+          {
+            "id": 278401,
+            "text": "Girlfriend",
+            "correct": false,
+            "count": "71,409",
+            "percent": "36.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/2/4",
+        "game_link": "/us/game/2019-07-29/2",
+        "correct_answers": 92605,
+        "incorrect_answers": 105188,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 135968,
+        "text": "Which of these characters started out as a villain?",
+        "question_number": 5,
+        "eliminated": "24,070",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "187,891",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278430,
+            "text": "Han",
+            "correct": false,
+            "count": "76,964",
+            "percent": "40.92%"
+          },
+          {
+            "id": 278433,
+            "text": "Tej",
+            "correct": false,
+            "count": "41,111",
+            "percent": "21.86%"
+          },
+          {
+            "id": 278437,
+            "text": "Gisele",
+            "correct": true,
+            "count": "70,023",
+            "percent": "37.23%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/2/5",
+        "game_link": "/us/game/2019-07-29/2",
+        "correct_answers": 70023,
+        "incorrect_answers": 118075,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 135981,
+        "text": "Which film was directed by an Oscar nominee?",
+        "question_number": 6,
+        "eliminated": "15,566",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "173,867",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278444,
+            "text": "2 Fast 2 Furious",
+            "correct": true,
+            "count": "97,825",
+            "percent": "58.6%"
+          },
+          {
+            "id": 278445,
+            "text": "Fast Five",
+            "correct": false,
+            "count": "19,577",
+            "percent": "11.73%"
+          },
+          {
+            "id": 278446,
+            "text": "Furious 7",
+            "correct": false,
+            "count": "49,539",
+            "percent": "29.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/2/6",
+        "game_link": "/us/game/2019-07-29/2",
+        "correct_answers": 97825,
+        "incorrect_answers": 69116,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 135997,
+        "text": "Which of these actors didnât have a driverâs license upon being cast in the first film?",
+        "question_number": 7,
+        "eliminated": "13,570",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "163,091",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278468,
+            "text": "Michelle Rodriguez",
+            "correct": true,
+            "count": "101,989",
+            "percent": "65.07%"
+          },
+          {
+            "id": 278469,
+            "text": "Rick Yune",
+            "correct": false,
+            "count": "14,878",
+            "percent": "9.49%"
+          },
+          {
+            "id": 278470,
+            "text": "Ja Rule",
+            "correct": false,
+            "count": "39,860",
+            "percent": "25.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/2/7",
+        "game_link": "/us/game/2019-07-29/2",
+        "correct_answers": 101989,
+        "incorrect_answers": 54738,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 136011,
+        "text": "The âFast and Furiousâ short film Vin Diesel directed chronologically takes place directly after which title?",
+        "question_number": 8,
+        "eliminated": "27,894",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "136,102",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278489,
+            "text": "Fast Five",
+            "correct": false,
+            "count": "17,253",
+            "percent": "12.19%"
+          },
+          {
+            "id": 278490,
+            "text": "2 Fast 2 Furious",
+            "correct": true,
+            "count": "50,454",
+            "percent": "35.64%"
+          },
+          {
+            "id": 278493,
+            "text": "Tokyo Drift",
+            "correct": false,
+            "count": "73,849",
+            "percent": "52.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/2/8",
+        "game_link": "/us/game/2019-07-29/2",
+        "correct_answers": 50454,
+        "incorrect_answers": 91102,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 136027,
+        "text": "What is the first thing Dom says after landing in this incredible scene?",
+        "question_number": 9,
+        "eliminated": "37,725",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "100,831",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278513,
+            "text": "Get out of the car!",
+            "correct": false,
+            "count": "14,295",
+            "percent": "11.43%"
+          },
+          {
+            "id": 278514,
+            "text": "No brakes!",
+            "correct": true,
+            "count": "68,693",
+            "percent": "54.9%"
+          },
+          {
+            "id": 278515,
+            "text": "I live for this!",
+            "correct": false,
+            "count": "42,131",
+            "percent": "33.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/2/9",
+        "game_link": "/us/game/2019-07-29/2",
+        "correct_answers": 68693,
+        "incorrect_answers": 56426,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 136044,
+        "text": "Which actor plays a character nicknamed for a âStar Warsâ icon?",
+        "question_number": 10,
+        "eliminated": "49,216",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "55,057",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278540,
+            "text": "Djimon Hounsou",
+            "correct": false,
+            "count": "23,408",
+            "percent": "24.18%"
+          },
+          {
+            "id": 278541,
+            "text": "Jason Statham",
+            "correct": false,
+            "count": "25,726",
+            "percent": "26.57%"
+          },
+          {
+            "id": 278543,
+            "text": "Sung Kang",
+            "correct": true,
+            "count": "47,688",
+            "percent": "49.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/2/10",
+        "game_link": "/us/game/2019-07-29/2",
+        "correct_answers": 47688,
+        "incorrect_answers": 49134,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 136059,
+        "text": "What does Dom tell Brian after this line?",
+        "question_number": 11,
+        "eliminated": "21,517",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "41,136",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278561,
+            "text": "You never had nothinâ.",
+            "correct": false,
+            "count": "13,648",
+            "percent": "22.29%"
+          },
+          {
+            "id": 278562,
+            "text": "You never had the drive.",
+            "correct": false,
+            "count": "6,433",
+            "percent": "10.51%"
+          },
+          {
+            "id": 278563,
+            "text": "You never had your car.",
+            "correct": true,
+            "count": "41,136",
+            "percent": "67.2%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/2/11",
+        "game_link": "/us/game/2019-07-29/2",
+        "correct_answers": 41136,
+        "incorrect_answers": 20081,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 32917,
+          "players_left_formatted": "32,917",
+          "num_winners": 8219,
+          "num_winners_formatted": "8,219",
+          "prize": 0.05,
+          "prize_formatted": "$0.05",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 136077,
+        "text": "What part of Romanâs physical appearance does Hobbs insult in the sixth film?",
+        "question_number": 12,
+        "eliminated": "15,901",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "24,235",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278588,
+            "text": "Weak hands",
+            "correct": false,
+            "count": "1,321",
+            "percent": "4.31%"
+          },
+          {
+            "id": 278589,
+            "text": "Big forehead",
+            "correct": true,
+            "count": "24,237",
+            "percent": "79.06%"
+          },
+          {
+            "id": 278591,
+            "text": "Small stature",
+            "correct": false,
+            "count": "5,100",
+            "percent": "16.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/2/12",
+        "game_link": "/us/game/2019-07-29/2",
+        "correct_answers": 24237,
+        "incorrect_answers": 6421,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 136093,
+        "text": "Dwayne Johnsonâs character was originally supposed to be played by a star of what film?",
+        "question_number": 13,
+        "eliminated": "19,406",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "10,074",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278611,
+            "text": "The Terminator",
+            "correct": false,
+            "count": "7,935",
+            "percent": "27.66%"
+          },
+          {
+            "id": 278614,
+            "text": "Die Hard",
+            "correct": false,
+            "count": "10,676",
+            "percent": "37.22%"
+          },
+          {
+            "id": 278618,
+            "text": "The Fugitive",
+            "correct": true,
+            "count": "10,074",
+            "percent": "35.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/2/13",
+        "game_link": "/us/game/2019-07-29/2",
+        "correct_answers": 10074,
+        "incorrect_answers": 18611,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 136110,
+        "text": "Which Avenger is NOT referenced in âFast & Furious 6â?",
+        "question_number": 14,
+        "eliminated": "7,672",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,400",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278638,
+            "text": "Iron Man",
+            "correct": true,
+            "count": "2,400",
+            "percent": "23.94%"
+          },
+          {
+            "id": 278642,
+            "text": "Thor",
+            "correct": false,
+            "count": "6,453",
+            "percent": "64.38%"
+          },
+          {
+            "id": 278645,
+            "text": "The Hulk",
+            "correct": false,
+            "count": "1,171",
+            "percent": "11.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/2/14",
+        "game_link": "/us/game/2019-07-29/2",
+        "correct_answers": 2400,
+        "incorrect_answers": 7624,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 136124,
+        "text": "According to a physicist, which stunt from âFurious 7â was probably the most far-fetched?",
+        "question_number": 15,
+        "eliminated": "1,597",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "802",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278657,
+            "text": "Donut passenger pass",
+            "correct": true,
+            "count": "802",
+            "percent": "33.88%"
+          },
+          {
+            "id": 278659,
+            "text": "Skydiving cars",
+            "correct": false,
+            "count": "781",
+            "percent": "33.0%"
+          },
+          {
+            "id": 278663,
+            "text": "Abu Dhabi jump",
+            "correct": false,
+            "count": "784",
+            "percent": "33.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/2/15",
+        "game_link": "/us/game/2019-07-29/2",
+        "correct_answers": 802,
+        "incorrect_answers": 1565,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 15,
+          "players_left": 404,
+          "players_left_formatted": "404",
+          "num_winners": 396,
+          "num_winners_formatted": "396",
+          "prize": 3.75,
+          "prize_formatted": "$3.75",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 136139,
+        "text": "Of these three US states, which has the fewest official languages?",
+        "question_number": 16,
+        "eliminated": "29",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "372",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278681,
+            "text": "Alaska",
+            "correct": false,
+            "count": "12",
+            "percent": "3.0%"
+          },
+          {
+            "id": 278682,
+            "text": "Hawaii",
+            "correct": false,
+            "count": "13",
+            "percent": "3.25%"
+          },
+          {
+            "id": 278684,
+            "text": "California",
+            "correct": true,
+            "count": "375",
+            "percent": "93.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/2/16",
+        "game_link": "/us/game/2019-07-29/2",
+        "correct_answers": 375,
+        "incorrect_answers": 25,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 136155,
+        "text": "What was French Montanaâs nickname in the Bronx before it was French Montana?",
+        "question_number": 17,
+        "eliminated": "34",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "336",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278705,
+            "text": "Kream",
+            "correct": false,
+            "count": "10",
+            "percent": "2.72%"
+          },
+          {
+            "id": 278706,
+            "text": "Tony",
+            "correct": false,
+            "count": "19",
+            "percent": "5.18%"
+          },
+          {
+            "id": 278707,
+            "text": "Bonjour",
+            "correct": true,
+            "count": "338",
+            "percent": "92.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/2/17",
+        "game_link": "/us/game/2019-07-29/2",
+        "correct_answers": 338,
+        "incorrect_answers": 29,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 136171,
+        "text": "The worldâs northernmost known cave painting is in the country with which capital?",
+        "question_number": 18,
+        "eliminated": "222",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "114",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278729,
+            "text": "Paris",
+            "correct": false,
+            "count": "114",
+            "percent": "33.93%"
+          },
+          {
+            "id": 278732,
+            "text": "Moscow",
+            "correct": true,
+            "count": "114",
+            "percent": "33.93%"
+          },
+          {
+            "id": 278736,
+            "text": "Helsinki",
+            "correct": false,
+            "count": "108",
+            "percent": "32.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/2/18",
+        "game_link": "/us/game/2019-07-29/2",
+        "correct_answers": 114,
+        "incorrect_answers": 222,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 18,
+          "players_left": 1,
+          "players_left_formatted": "1",
+          "num_winners": 111,
+          "num_winners_formatted": "111",
+          "prize": 17.55,
+          "prize_formatted": "$17.55",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 136187,
+        "text": "The name of this animal includes a synonym for what?",
+        "question_number": 19,
+        "eliminated": "1",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "0",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 278753,
+            "text": "Dictator",
+            "correct": true,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 278754,
+            "text": "Insect",
+            "correct": false,
+            "count": "1",
+            "percent": "100.0%"
+          },
+          {
+            "id": 278756,
+            "text": "Singer",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-29/2/19",
+        "game_link": "/us/game/2019-07-29/2",
+        "correct_answers": 0,
+        "incorrect_answers": 1,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 960,
+        "game_id": 124478,
+        "question": "Which character do you most relate to?",
+        "results": [
+          {
+            "id": 5760,
+            "display_count": "35",
+            "vote_count": 13730,
+            "text": "Dominic Toretto"
+          },
+          {
+            "id": 5765,
+            "display_count": "31",
+            "vote_count": 11898,
+            "text": "Letty Ortiz"
+          },
+          {
+            "id": 5754,
+            "display_count": "34",
+            "vote_count": 13380,
+            "text": "Luke Hobbs"
+          }
+        ],
+        "created_at": "2019-07-30T01:03:26Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 11,
+        "players_left": 32917,
+        "players_left_formatted": "32,917",
+        "num_winners": 8219,
+        "num_winners_formatted": "8,219",
+        "prize": 0.05,
+        "prize_formatted": "$0.05",
+        "currency": "$"
+      },
+      {
+        "round_number": 18,
+        "players_left": 1,
+        "players_left_formatted": "1",
+        "num_winners": 111,
+        "num_winners_formatted": "111",
+        "prize": 17.55,
+        "prize_formatted": "$17.55",
+        "currency": "$"
+      },
+      {
+        "round_number": 15,
+        "players_left": 404,
+        "players_left_formatted": "404",
+        "num_winners": 396,
+        "num_winners_formatted": "396",
+        "prize": 3.75,
+        "prize_formatted": "$3.75",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "3,844.00",
+    "total_checkpoint_winners": "8,726",
+    "smallest_checkpoint_prize": "$0.05",
+    "largest_checkpoint_prize": "$17.55",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

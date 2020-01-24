@@ -1,0 +1,121 @@
+[
+  {
+    "id": 126795,
+    "show_id": 12023,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-08-13T00:00:00Z",
+    "direct_link": "/us/game/2019-08-12/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "3,566",
+      "currency": "$",
+      "average_prize": "0.28"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "No Data",
+        "slug": "no-data"
+      }
+    ],
+    "questions": [],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1167,
+        "game_id": 126795,
+        "question": "What would you like to see more of this season?",
+        "results": [
+          {
+            "id": 7004,
+            "display_count": "22",
+            "vote_count": 2576,
+            "text": "Guests"
+          },
+          {
+            "id": 7009,
+            "display_count": "17",
+            "vote_count": 1943,
+            "text": "Questions"
+          },
+          {
+            "id": 7002,
+            "display_count": "61",
+            "vote_count": 7171,
+            "text": "Themes"
+          }
+        ],
+        "created_at": "2019-08-13T00:12:28Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 126823,
+    "show_id": 11930,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "10,000",
+    "currency": "$",
+    "start_time": "2019-08-13T01:00:00Z",
+    "direct_link": "/us/game/2019-08-12/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "No Data",
+        "slug": "no-data"
+      }
+    ],
+    "questions": [],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

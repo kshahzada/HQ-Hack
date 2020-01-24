@@ -1,0 +1,797 @@
+[
+  {
+    "id": 46739,
+    "show_id": 9364,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "0",
+    "currency": "$",
+    "start_time": "2019-01-26T02:00:00Z",
+    "direct_link": "/us/game/2019-01-25/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,506",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 43958,
+        "text": "Superman is often referred to as the âMan ofâ what?",
+        "question_number": 1,
+        "eliminated": "-2,962",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "310,095",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131768,
+            "text": "Steel",
+            "correct": true,
+            "count": "297,456",
+            "percent": "98.93%"
+          },
+          {
+            "id": 131770,
+            "text": "Few words",
+            "correct": false,
+            "count": "2,549",
+            "percent": "0.85%"
+          },
+          {
+            "id": 131771,
+            "text": "La Mancha",
+            "correct": false,
+            "count": "669",
+            "percent": "0.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-25/1/1",
+        "game_link": "/us/game/2019-01-25/1",
+        "correct_answers": 297456,
+        "incorrect_answers": 3218,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43967,
+        "text": "Which of these is grammatically correct?",
+        "question_number": 2,
+        "eliminated": "13,334",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "297,199",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131795,
+            "text": "Must of been",
+            "correct": false,
+            "count": "9,093",
+            "percent": "3.07%"
+          },
+          {
+            "id": 131797,
+            "text": "Must had been",
+            "correct": false,
+            "count": "9,411",
+            "percent": "3.18%"
+          },
+          {
+            "id": 131798,
+            "text": "Must have been",
+            "correct": true,
+            "count": "277,270",
+            "percent": "93.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-25/1/2",
+        "game_link": "/us/game/2019-01-25/1",
+        "correct_answers": 277270,
+        "incorrect_answers": 18504,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43974,
+        "text": "Which of these creatures has gills?",
+        "question_number": 3,
+        "eliminated": "7,777",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "290,054",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131817,
+            "text": "Turtle",
+            "correct": false,
+            "count": "3,198",
+            "percent": "1.11%"
+          },
+          {
+            "id": 131818,
+            "text": "Human",
+            "correct": false,
+            "count": "1,418",
+            "percent": "0.49%"
+          },
+          {
+            "id": 131823,
+            "text": "Shark",
+            "correct": true,
+            "count": "284,455",
+            "percent": "98.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-25/1/3",
+        "game_link": "/us/game/2019-01-25/1",
+        "correct_answers": 284455,
+        "incorrect_answers": 4616,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43985,
+        "text": "Which of these nations does NOT border a sea?",
+        "question_number": 4,
+        "eliminated": "107,496",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "183,179",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131850,
+            "text": "Switzerland",
+            "correct": true,
+            "count": "154,019",
+            "percent": "54.8%"
+          },
+          {
+            "id": 131851,
+            "text": "Belgium",
+            "correct": false,
+            "count": "97,135",
+            "percent": "34.56%"
+          },
+          {
+            "id": 131853,
+            "text": "Netherlands",
+            "correct": false,
+            "count": "29,918",
+            "percent": "10.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-25/1/4",
+        "game_link": "/us/game/2019-01-25/1",
+        "correct_answers": 154019,
+        "incorrect_answers": 127053,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43990,
+        "text": "Which of these people has been an âAmerican Idolâ judge?",
+        "question_number": 5,
+        "eliminated": "33,796",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "160,813",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131864,
+            "text": "Howard Stern",
+            "correct": false,
+            "count": "17,122",
+            "percent": "9.0%"
+          },
+          {
+            "id": 131865,
+            "text": "Ryan Seacrest",
+            "correct": false,
+            "count": "13,229",
+            "percent": "6.96%"
+          },
+          {
+            "id": 131866,
+            "text": "Paula Abdul",
+            "correct": true,
+            "count": "159,799",
+            "percent": "84.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-25/1/5",
+        "game_link": "/us/game/2019-01-25/1",
+        "correct_answers": 159799,
+        "incorrect_answers": 30351,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44000,
+        "text": "An au pair essentially does a fancy form of what kind of job?",
+        "question_number": 6,
+        "eliminated": "26,489",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "138,278",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131895,
+            "text": "Barista",
+            "correct": false,
+            "count": "5,498",
+            "percent": "3.37%"
+          },
+          {
+            "id": 131897,
+            "text": "Babysitter",
+            "correct": true,
+            "count": "138,278",
+            "percent": "84.88%"
+          },
+          {
+            "id": 131899,
+            "text": "Pastry chef",
+            "correct": false,
+            "count": "19,128",
+            "percent": "11.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-25/1/6",
+        "game_link": "/us/game/2019-01-25/1",
+        "correct_answers": 138278,
+        "incorrect_answers": 24626,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44006,
+        "text": "Which citrus fruit is a hybrid of two other species?",
+        "question_number": 7,
+        "eliminated": "124,798",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "16,239",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131913,
+            "text": "Kumquat",
+            "correct": false,
+            "count": "32,256",
+            "percent": "23.23%"
+          },
+          {
+            "id": 131914,
+            "text": "Pummelo",
+            "correct": false,
+            "count": "90,385",
+            "percent": "65.08%"
+          },
+          {
+            "id": 131915,
+            "text": "Lemon",
+            "correct": true,
+            "count": "16,239",
+            "percent": "11.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-25/1/7",
+        "game_link": "/us/game/2019-01-25/1",
+        "correct_answers": 16239,
+        "incorrect_answers": 122641,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44013,
+        "text": "What phrase does NOT appear in either of Lewis Carrollâs âAliceâ books?",
+        "question_number": 8,
+        "eliminated": "23,178",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "10,140",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131934,
+            "text": "Queen of Hearts",
+            "correct": false,
+            "count": "8,459",
+            "percent": "26.79%"
+          },
+          {
+            "id": 131935,
+            "text": "Mad Hatter",
+            "correct": true,
+            "count": "10,140",
+            "percent": "32.12%"
+          },
+          {
+            "id": 131936,
+            "text": "Cheshire Cat",
+            "correct": false,
+            "count": "12,973",
+            "percent": "41.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-25/1/8",
+        "game_link": "/us/game/2019-01-25/1",
+        "correct_answers": 10140,
+        "incorrect_answers": 21432,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44022,
+        "text": "New members of Congress take an oath containing what word NOT in the presidentâs oath?",
+        "question_number": 9,
+        "eliminated": "7,132",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "5,098",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131961,
+            "text": "Spiritual",
+            "correct": false,
+            "count": "3,508",
+            "percent": "29.68%"
+          },
+          {
+            "id": 131962,
+            "text": "Physical",
+            "correct": false,
+            "count": "3,214",
+            "percent": "27.19%"
+          },
+          {
+            "id": 131963,
+            "text": "Mental",
+            "correct": true,
+            "count": "5,098",
+            "percent": "43.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-25/1/9",
+        "game_link": "/us/game/2019-01-25/1",
+        "correct_answers": 5098,
+        "incorrect_answers": 6722,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44031,
+        "text": "Which âDonkey Kongâ game first featured an elderly gorilla named Cranky Kong?",
+        "question_number": 10,
+        "eliminated": "1,211",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "4,446",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131985,
+            "text": "Donkey Kong 3",
+            "correct": false,
+            "count": "669",
+            "percent": "12.0%"
+          },
+          {
+            "id": 131991,
+            "text": "Donkey Konga",
+            "correct": false,
+            "count": "462",
+            "percent": "8.28%"
+          },
+          {
+            "id": 131994,
+            "text": "Donkey Kong Country",
+            "correct": true,
+            "count": "4,446",
+            "percent": "79.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-25/1/10",
+        "game_link": "/us/game/2019-01-25/1",
+        "correct_answers": 4446,
+        "incorrect_answers": 1131,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44041,
+        "text": "As a boy, AndrÃ© the Giant was occasionally given rides to school by a future Nobel laureate in what?",
+        "question_number": 11,
+        "eliminated": "2,118",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "2,442",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132012,
+            "text": "Peace",
+            "correct": false,
+            "count": "560",
+            "percent": "12.62%"
+          },
+          {
+            "id": 132018,
+            "text": "Literature",
+            "correct": true,
+            "count": "2,442",
+            "percent": "55.02%"
+          },
+          {
+            "id": 132023,
+            "text": "Chemistry",
+            "correct": false,
+            "count": "1,436",
+            "percent": "32.36%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-25/1/11",
+        "game_link": "/us/game/2019-01-25/1",
+        "correct_answers": 2442,
+        "incorrect_answers": 1996,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44046,
+        "text": "What rock legendâs highest-charting single was a comedic double-entendre song?",
+        "question_number": 12,
+        "eliminated": "1,180",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "1,506",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132031,
+            "text": "Jerry Lee Lewis",
+            "correct": false,
+            "count": "468",
+            "percent": "17.67%"
+          },
+          {
+            "id": 132033,
+            "text": "Chuck Berry",
+            "correct": true,
+            "count": "1,506",
+            "percent": "56.87%"
+          },
+          {
+            "id": 132036,
+            "text": "Little Richard",
+            "correct": false,
+            "count": "674",
+            "percent": "25.45%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-25/1/12",
+        "game_link": "/us/game/2019-01-25/1",
+        "correct_answers": 1506,
+        "incorrect_answers": 1142,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 46859,
+    "show_id": 9455,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-01-26T02:30:00Z",
+    "direct_link": "/us/game/2019-01-25/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "42.84"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "64.06"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "64.80"
+        },
+        {
+          "number": "14,279",
+          "amount": "0.05",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.05426410866825375,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-01-25/2/1",
+        "question_number": 1,
+        "text": "Hairstyle",
+        "answer": [
+          "PONYTAIL"
+        ],
+        "initial_letters": [
+          "P"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-01-25/2",
+        "eliminated": 11903,
+        "advancing": 172325,
+        "correct_answers": 172325,
+        "incorrect_answers": 11903
+      },
+      {
+        "direct_link": "/us/game/2019-01-25/2/2",
+        "question_number": 2,
+        "text": "Brass Instrument",
+        "answer": [
+          "TRUMPET"
+        ],
+        "initial_letters": [
+          "T"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "U"
+        ],
+        "game_link": "/us/game/2019-01-25/2",
+        "eliminated": 3812,
+        "advancing": 168983,
+        "correct_answers": 168983,
+        "incorrect_answers": 3812
+      },
+      {
+        "direct_link": "/us/game/2019-01-25/2/3",
+        "question_number": 3,
+        "text": "At The Dinner Table",
+        "answer": [
+          "NAPKINS"
+        ],
+        "initial_letters": [
+          "N"
+        ],
+        "to_reveal_letters": [
+          "P",
+          "S"
+        ],
+        "game_link": "/us/game/2019-01-25/2",
+        "eliminated": 3224,
+        "advancing": 165581,
+        "correct_answers": 165581,
+        "incorrect_answers": 3224
+      },
+      {
+        "direct_link": "/us/game/2019-01-25/2/4",
+        "question_number": 4,
+        "text": "Kids Game",
+        "answer": [
+          "HIDE",
+          "&",
+          "SEEK"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-01-25/2",
+        "eliminated": 14540,
+        "advancing": 151057,
+        "correct_answers": 151057,
+        "incorrect_answers": 14540
+      },
+      {
+        "direct_link": "/us/game/2019-01-25/2/5",
+        "question_number": 5,
+        "text": "Fish",
+        "answer": [
+          "FLOUNDER"
+        ],
+        "initial_letters": [
+          "F"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "U"
+        ],
+        "game_link": "/us/game/2019-01-25/2",
+        "eliminated": 13448,
+        "advancing": 138289,
+        "correct_answers": 138289,
+        "incorrect_answers": 13448
+      },
+      {
+        "direct_link": "/us/game/2019-01-25/2/6",
+        "question_number": 6,
+        "text": "Annual TV Special",
+        "answer": [
+          "PUPPY",
+          "BOWL"
+        ],
+        "initial_letters": [
+          " ",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "O"
+        ],
+        "game_link": "/us/game/2019-01-25/2",
+        "eliminated": 75442,
+        "advancing": 63560,
+        "correct_answers": 63560,
+        "incorrect_answers": 75442
+      },
+      {
+        "direct_link": "/us/game/2019-01-25/2/7",
+        "question_number": 7,
+        "text": "European Dessert",
+        "answer": [
+          "TIRAMISU"
+        ],
+        "initial_letters": [
+          "T"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "U"
+        ],
+        "game_link": "/us/game/2019-01-25/2",
+        "eliminated": 5574,
+        "advancing": 64658,
+        "correct_answers": 64658,
+        "incorrect_answers": 5574
+      },
+      {
+        "direct_link": "/us/game/2019-01-25/2/8",
+        "question_number": 8,
+        "text": "Sing-A-Long",
+        "answer": [
+          "FOLLOW",
+          "THE",
+          "BOUNCING",
+          "BALL"
+        ],
+        "initial_letters": [
+          " ",
+          "F"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "B"
+        ],
+        "game_link": "/us/game/2019-01-25/2",
+        "eliminated": 43854,
+        "advancing": 21281,
+        "correct_answers": 21281,
+        "incorrect_answers": 43854
+      },
+      {
+        "direct_link": "/us/game/2019-01-25/2/9",
+        "question_number": 9,
+        "text": "Social Media Advice",
+        "answer": [
+          "DONâT",
+          "READ",
+          "THE",
+          "COMMENTS"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "S"
+        ],
+        "game_link": "/us/game/2019-01-25/2",
+        "eliminated": 4014,
+        "advancing": 22735,
+        "correct_answers": 22735,
+        "incorrect_answers": 4014
+      },
+      {
+        "direct_link": "/us/game/2019-01-25/2/10",
+        "question_number": 10,
+        "text": "Historical Explorers",
+        "answer": [
+          "SCANDINAVIAN",
+          "VIKINGS"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "V"
+        ],
+        "game_link": "/us/game/2019-01-25/2",
+        "eliminated": 8963,
+        "advancing": 14282,
+        "correct_answers": 14282,
+        "incorrect_answers": 8963
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

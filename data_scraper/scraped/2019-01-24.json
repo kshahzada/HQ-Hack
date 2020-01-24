@@ -1,0 +1,1335 @@
+[
+  {
+    "id": 46453,
+    "show_id": 9361,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-01-24T20:00:00Z",
+    "direct_link": "/us/game/2019-01-24/1",
+    "time": " 3:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "4,252",
+      "currency": "$",
+      "average_prize": "0.24"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 43769,
+        "text": "Which shape is considered ideal for wheels?",
+        "question_number": 1,
+        "eliminated": "-2,693",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "207,051",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131202,
+            "text": "Circle",
+            "correct": true,
+            "count": "200,003",
+            "percent": "99.34%"
+          },
+          {
+            "id": 131203,
+            "text": "Pentagon",
+            "correct": false,
+            "count": "831",
+            "percent": "0.41%"
+          },
+          {
+            "id": 131206,
+            "text": "Heptagon",
+            "correct": false,
+            "count": "497",
+            "percent": "0.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/1/1",
+        "game_link": "/us/game/2019-01-24/1",
+        "correct_answers": 200003,
+        "incorrect_answers": 1328,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43779,
+        "text": "James Bond is famous for introducing himself how?",
+        "question_number": 2,
+        "eliminated": "7,071",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "200,301",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131227,
+            "text": "Bond. James Bond.",
+            "correct": true,
+            "count": "191,333",
+            "percent": "95.85%"
+          },
+          {
+            "id": 131230,
+            "text": "James. James Bond.",
+            "correct": false,
+            "count": "7,631",
+            "percent": "3.82%"
+          },
+          {
+            "id": 131233,
+            "text": "Bond Bond James Bond Jim",
+            "correct": false,
+            "count": "659",
+            "percent": "0.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/1/2",
+        "game_link": "/us/game/2019-01-24/1",
+        "correct_answers": 191333,
+        "incorrect_answers": 8290,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43786,
+        "text": "Californiaâs longest border is with which state?",
+        "question_number": 3,
+        "eliminated": "35,650",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "165,082",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131253,
+            "text": "Oregon",
+            "correct": false,
+            "count": "19,125",
+            "percent": "9.98%"
+          },
+          {
+            "id": 131254,
+            "text": "Texas",
+            "correct": false,
+            "count": "19,621",
+            "percent": "10.24%"
+          },
+          {
+            "id": 131256,
+            "text": "Nevada",
+            "correct": true,
+            "count": "152,821",
+            "percent": "79.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/1/3",
+        "game_link": "/us/game/2019-01-24/1",
+        "correct_answers": 152821,
+        "incorrect_answers": 38746,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43793,
+        "text": "The son of James Gandolfini was just announced as playing what extremely appropriate role?",
+        "question_number": 4,
+        "eliminated": "41,247",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "126,621",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131274,
+            "text": "Young Indiana Jones",
+            "correct": false,
+            "count": "17,895",
+            "percent": "11.34%"
+          },
+          {
+            "id": 131275,
+            "text": "Young Tony Soprano",
+            "correct": true,
+            "count": "122,270",
+            "percent": "77.47%"
+          },
+          {
+            "id": 131277,
+            "text": "Young Luke Skywalker",
+            "correct": false,
+            "count": "17,657",
+            "percent": "11.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/1/4",
+        "game_link": "/us/game/2019-01-24/1",
+        "correct_answers": 122270,
+        "incorrect_answers": 35552,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43801,
+        "text": "What is rather improbably considered a woodwind instrument?",
+        "question_number": 5,
+        "eliminated": "52,034",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "77,552",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131298,
+            "text": "Saxophone",
+            "correct": true,
+            "count": "77,428",
+            "percent": "62.47%"
+          },
+          {
+            "id": 131299,
+            "text": "Xylophone",
+            "correct": false,
+            "count": "25,844",
+            "percent": "20.85%"
+          },
+          {
+            "id": 131301,
+            "text": "Timpani",
+            "correct": false,
+            "count": "20,682",
+            "percent": "16.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/1/5",
+        "game_link": "/us/game/2019-01-24/1",
+        "correct_answers": 77428,
+        "incorrect_answers": 46526,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43810,
+        "text": "The deepest naturally occurring place in all of Earthâs oceans is in which one?",
+        "question_number": 6,
+        "eliminated": "24,233",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "57,436",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131325,
+            "text": "Pacific",
+            "correct": true,
+            "count": "57,436",
+            "percent": "72.32%"
+          },
+          {
+            "id": 131327,
+            "text": "Atlantic",
+            "correct": false,
+            "count": "18,630",
+            "percent": "23.46%"
+          },
+          {
+            "id": 131331,
+            "text": "Southern",
+            "correct": false,
+            "count": "3,352",
+            "percent": "4.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/1/6",
+        "game_link": "/us/game/2019-01-24/1",
+        "correct_answers": 57436,
+        "incorrect_answers": 21982,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43815,
+        "text": "Which of these is a form of Thai food?",
+        "question_number": 7,
+        "eliminated": "28,190",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "31,770",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131340,
+            "text": "Tom yum goong",
+            "correct": true,
+            "count": "31,770",
+            "percent": "53.82%"
+          },
+          {
+            "id": 131348,
+            "text": "Bibimbap",
+            "correct": false,
+            "count": "15,518",
+            "percent": "26.29%"
+          },
+          {
+            "id": 131355,
+            "text": "Yakitori",
+            "correct": false,
+            "count": "11,738",
+            "percent": "19.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/1/7",
+        "game_link": "/us/game/2019-01-24/1",
+        "correct_answers": 31770,
+        "incorrect_answers": 27256,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43826,
+        "text": "What aspect of a glen determines how sylvan it is?",
+        "question_number": 8,
+        "eliminated": "19,253",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "15,629",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131370,
+            "text": "Trees",
+            "correct": true,
+            "count": "15,629",
+            "percent": "45.68%"
+          },
+          {
+            "id": 131374,
+            "text": "Color",
+            "correct": false,
+            "count": "9,425",
+            "percent": "27.54%"
+          },
+          {
+            "id": 131378,
+            "text": "Hills",
+            "correct": false,
+            "count": "9,163",
+            "percent": "26.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/1/8",
+        "game_link": "/us/game/2019-01-24/1",
+        "correct_answers": 15629,
+        "incorrect_answers": 18588,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43830,
+        "text": "Which of these is the name of a Kentucky Derby-winning horse?",
+        "question_number": 9,
+        "eliminated": "5,913",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "12,878",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131385,
+            "text": "Nyquist",
+            "correct": true,
+            "count": "12,878",
+            "percent": "69.22%"
+          },
+          {
+            "id": 131388,
+            "text": "Zicam",
+            "correct": false,
+            "count": "1,151",
+            "percent": "6.19%"
+          },
+          {
+            "id": 131392,
+            "text": "Sambucol",
+            "correct": false,
+            "count": "4,575",
+            "percent": "24.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/1/9",
+        "game_link": "/us/game/2019-01-24/1",
+        "correct_answers": 12878,
+        "incorrect_answers": 5726,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43842,
+        "text": "Which of these animals is an odd-toed ungulate?",
+        "question_number": 10,
+        "eliminated": "6,470",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "7,280",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131421,
+            "text": "Camel",
+            "correct": false,
+            "count": "4,424",
+            "percent": "32.49%"
+          },
+          {
+            "id": 131423,
+            "text": "Hippopotamus",
+            "correct": false,
+            "count": "1,914",
+            "percent": "14.05%"
+          },
+          {
+            "id": 131426,
+            "text": "Rhinoceros",
+            "correct": true,
+            "count": "7,280",
+            "percent": "53.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/1/10",
+        "game_link": "/us/game/2019-01-24/1",
+        "correct_answers": 7280,
+        "incorrect_answers": 6338,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43849,
+        "text": "Which villain did NOT appear in âSuper Mario Bros. 3â?",
+        "question_number": 11,
+        "eliminated": "1,639",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "6,911",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131441,
+            "text": "Fire Bro",
+            "correct": false,
+            "count": "642",
+            "percent": "7.57%"
+          },
+          {
+            "id": 131446,
+            "text": "Boomerang Bro",
+            "correct": false,
+            "count": "923",
+            "percent": "10.89%"
+          },
+          {
+            "id": 131449,
+            "text": "Sumo Bro",
+            "correct": true,
+            "count": "6,911",
+            "percent": "81.54%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/1/11",
+        "game_link": "/us/game/2019-01-24/1",
+        "correct_answers": 6911,
+        "incorrect_answers": 1565,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43854,
+        "text": "X and Henrietta from âMister Rogersâ Neighborhoodâ were likely inspired by a poem written by whom?",
+        "question_number": 12,
+        "eliminated": "2,991",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "4,252",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131457,
+            "text": "Lewis Carroll",
+            "correct": false,
+            "count": "1,745",
+            "percent": "25.21%"
+          },
+          {
+            "id": 131459,
+            "text": "Edward Lear",
+            "correct": true,
+            "count": "4,252",
+            "percent": "61.43%"
+          },
+          {
+            "id": 131463,
+            "text": "Ogden Nash",
+            "correct": false,
+            "count": "925",
+            "percent": "13.36%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/1/12",
+        "game_link": "/us/game/2019-01-24/1",
+        "correct_answers": 4252,
+        "incorrect_answers": 2670,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 46573,
+    "show_id": 9415,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-01-25T02:00:00Z",
+    "direct_link": "/us/game/2019-01-24/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,794",
+      "currency": "$",
+      "average_prize": "0.56"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Parks and Recreation",
+        "slug": "parks-and-recreation"
+      },
+      {
+        "name": "TV",
+        "slug": "tv"
+      }
+    ],
+    "questions": [
+      {
+        "id": 43862,
+        "text": "Pawneeâs beloved Li'l Sebastian was what kind of animal?",
+        "question_number": 1,
+        "eliminated": "16,171",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "421,843",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131481,
+            "text": "Fire-breathing dragon",
+            "correct": false,
+            "count": "34,375",
+            "percent": "7.97%"
+          },
+          {
+            "id": 131482,
+            "text": "Poisonous tree frog",
+            "correct": false,
+            "count": "47,479",
+            "percent": "11.0%"
+          },
+          {
+            "id": 131483,
+            "text": "Miniature horse",
+            "correct": true,
+            "count": "349,580",
+            "percent": "81.03%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/2/1",
+        "game_link": "/us/game/2019-01-24/2",
+        "correct_answers": 349580,
+        "incorrect_answers": 81854,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43873,
+        "text": "Councilman Jeremy Jamm is known for which appropriate catchphrase?",
+        "question_number": 2,
+        "eliminated": "19,682",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "403,670",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131511,
+            "text": "You just got jammed!",
+            "correct": true,
+            "count": "344,336",
+            "percent": "85.41%"
+          },
+          {
+            "id": 131512,
+            "text": "Eat my shorts!",
+            "correct": false,
+            "count": "37,746",
+            "percent": "9.36%"
+          },
+          {
+            "id": 131515,
+            "text": "Whoa!",
+            "correct": false,
+            "count": "21,097",
+            "percent": "5.23%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/2/2",
+        "game_link": "/us/game/2019-01-24/2",
+        "correct_answers": 344336,
+        "incorrect_answers": 58843,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43879,
+        "text": "Jean-Ralphioâs sister is named after a painting by which artist?",
+        "question_number": 3,
+        "eliminated": "127,652",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "276,994",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131531,
+            "text": "Vincent van Gogh",
+            "correct": false,
+            "count": "106,337",
+            "percent": "28.4%"
+          },
+          {
+            "id": 131533,
+            "text": "Banksy",
+            "correct": false,
+            "count": "59,681",
+            "percent": "15.94%"
+          },
+          {
+            "id": 131537,
+            "text": "Leonardo da Vinci",
+            "correct": true,
+            "count": "208,379",
+            "percent": "55.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/2/3",
+        "game_link": "/us/game/2019-01-24/2",
+        "correct_answers": 208379,
+        "incorrect_answers": 166018,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43886,
+        "text": "What date did April usually offer for meetings with Ron Swanson?",
+        "question_number": 4,
+        "eliminated": "85,056",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "205,330",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131558,
+            "text": "March 31",
+            "correct": true,
+            "count": "184,250",
+            "percent": "66.47%"
+          },
+          {
+            "id": 131561,
+            "text": "His birthday",
+            "correct": false,
+            "count": "65,487",
+            "percent": "23.62%"
+          },
+          {
+            "id": 131566,
+            "text": "Christmas",
+            "correct": false,
+            "count": "27,466",
+            "percent": "9.91%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/2/4",
+        "game_link": "/us/game/2019-01-24/2",
+        "correct_answers": 184250,
+        "incorrect_answers": 92953,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43893,
+        "text": "In âMs. Knope Goes to Washington,â what does Ronâs permit say?",
+        "question_number": 5,
+        "eliminated": "24,085",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "187,783",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131574,
+            "text": "Get Out of Rules Free",
+            "correct": false,
+            "count": "11,607",
+            "percent": "5.58%"
+          },
+          {
+            "id": 131575,
+            "text": "I can do what I want",
+            "correct": true,
+            "count": "187,654",
+            "percent": "90.29%"
+          },
+          {
+            "id": 131576,
+            "text": "Shhhh",
+            "correct": false,
+            "count": "8,568",
+            "percent": "4.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/2/5",
+        "game_link": "/us/game/2019-01-24/2",
+        "correct_answers": 187654,
+        "incorrect_answers": 20175,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43901,
+        "text": "Which of these activities do Donna and Tom mention when explaining âTreat Yo Selfâ?",
+        "question_number": 6,
+        "eliminated": "90,086",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "99,617",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131598,
+            "text": "Manicures",
+            "correct": false,
+            "count": "76,767",
+            "percent": "41.0%"
+          },
+          {
+            "id": 131599,
+            "text": "Malbec",
+            "correct": false,
+            "count": "10,842",
+            "percent": "5.79%"
+          },
+          {
+            "id": 131603,
+            "text": "Massages",
+            "correct": true,
+            "count": "99,617",
+            "percent": "53.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/2/6",
+        "game_link": "/us/game/2019-01-24/2",
+        "correct_answers": 99617,
+        "incorrect_answers": 87609,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43912,
+        "text": "Councilman Jamm and Leslie manage to have a nice time at karaoke singing a song from what?",
+        "question_number": 7,
+        "eliminated": "31,228",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "85,034",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131625,
+            "text": "Fiddler on the Roof",
+            "correct": false,
+            "count": "7,749",
+            "percent": "6.9%"
+          },
+          {
+            "id": 131628,
+            "text": "Mamma Mia!",
+            "correct": false,
+            "count": "19,560",
+            "percent": "17.41%"
+          },
+          {
+            "id": 131633,
+            "text": "Grease",
+            "correct": true,
+            "count": "85,034",
+            "percent": "75.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/2/7",
+        "game_link": "/us/game/2019-01-24/2",
+        "correct_answers": 85034,
+        "incorrect_answers": 27309,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43919,
+        "text": "Which of these is specifically listed as an ingredient in Snake Juice?",
+        "question_number": 8,
+        "eliminated": "53,374",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "35,672",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131652,
+            "text": "Orange juice",
+            "correct": false,
+            "count": "11,220",
+            "percent": "12.73%"
+          },
+          {
+            "id": 131653,
+            "text": "Sugar",
+            "correct": true,
+            "count": "35,672",
+            "percent": "40.49%"
+          },
+          {
+            "id": 131656,
+            "text": "Kahlua",
+            "correct": false,
+            "count": "41,214",
+            "percent": "46.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/2/8",
+        "game_link": "/us/game/2019-01-24/2",
+        "correct_answers": 35672,
+        "incorrect_answers": 52434,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43927,
+        "text": "Andyâs long-kept secrets included which of the following?",
+        "question_number": 9,
+        "eliminated": "31,497",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "14,714",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131676,
+            "text": "Yelling at a sandwich",
+            "correct": false,
+            "count": "13,064",
+            "percent": "29.12%"
+          },
+          {
+            "id": 131678,
+            "text": "Attacking an animal",
+            "correct": true,
+            "count": "14,714",
+            "percent": "32.8%"
+          },
+          {
+            "id": 131684,
+            "text": "Literal money laundering",
+            "correct": false,
+            "count": "17,081",
+            "percent": "38.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/2/9",
+        "game_link": "/us/game/2019-01-24/2",
+        "correct_answers": 14714,
+        "incorrect_answers": 30145,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43935,
+        "text": "Which of these is NOT a compliment Leslie gives to Ann?",
+        "question_number": 10,
+        "eliminated": "3,955",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "15,855",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131704,
+            "text": "Graceful mogwai",
+            "correct": true,
+            "count": "15,855",
+            "percent": "80.86%"
+          },
+          {
+            "id": 131708,
+            "text": "Noble land-mermaid",
+            "correct": false,
+            "count": "947",
+            "percent": "4.83%"
+          },
+          {
+            "id": 131711,
+            "text": "Beautiful spinster",
+            "correct": false,
+            "count": "2,806",
+            "percent": "14.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/2/10",
+        "game_link": "/us/game/2019-01-24/2",
+        "correct_answers": 15855,
+        "incorrect_answers": 3753,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43941,
+        "text": "What kind of topping does Leslie put on her waffles when she has the flu?",
+        "question_number": 11,
+        "eliminated": "11,966",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "4,330",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131720,
+            "text": "Whipped cream",
+            "correct": false,
+            "count": "5,420",
+            "percent": "33.51%"
+          },
+          {
+            "id": 131723,
+            "text": "Ice cream",
+            "correct": false,
+            "count": "6,425",
+            "percent": "39.72%"
+          },
+          {
+            "id": 131731,
+            "text": "No topping",
+            "correct": true,
+            "count": "4,330",
+            "percent": "26.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/2/11",
+        "game_link": "/us/game/2019-01-24/2",
+        "correct_answers": 4330,
+        "incorrect_answers": 11845,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43952,
+        "text": "Which of these headlines is visible on Leslieâs newspaper wedding dress?",
+        "question_number": 12,
+        "eliminated": "4,803",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "1,794",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131750,
+            "text": "Knope Wins!",
+            "correct": true,
+            "count": "1,794",
+            "percent": "27.39%"
+          },
+          {
+            "id": 131754,
+            "text": "Knope 2012!",
+            "correct": false,
+            "count": "1,122",
+            "percent": "17.13%"
+          },
+          {
+            "id": 131758,
+            "text": "Knope We Can!",
+            "correct": false,
+            "count": "3,633",
+            "percent": "55.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-24/2/12",
+        "game_link": "/us/game/2019-01-24/2",
+        "correct_answers": 1794,
+        "incorrect_answers": 4755,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 46691,
+    "show_id": 9452,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-01-25T02:30:00Z",
+    "direct_link": "/us/game/2019-01-24/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "73.15"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "80.91"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "81.14"
+        },
+        {
+          "number": "3,006",
+          "amount": "0.26",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.25756065137919576,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-01-24/3/1",
+        "question_number": 1,
+        "text": "Winter Activity",
+        "answer": [
+          "ICE",
+          "SKATING"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "N"
+        ],
+        "game_link": "/us/game/2019-01-24/3",
+        "eliminated": 10782,
+        "advancing": 183059,
+        "correct_answers": 183059,
+        "incorrect_answers": 10782
+      },
+      {
+        "direct_link": "/us/game/2019-01-24/3/2",
+        "question_number": 2,
+        "text": "US State",
+        "answer": [
+          "VERMONT"
+        ],
+        "initial_letters": [
+          "V"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "T"
+        ],
+        "game_link": "/us/game/2019-01-24/3",
+        "eliminated": 5417,
+        "advancing": 177948,
+        "correct_answers": 177948,
+        "incorrect_answers": 5417
+      },
+      {
+        "direct_link": "/us/game/2019-01-24/3/3",
+        "question_number": 3,
+        "text": "Futuristic Travel",
+        "answer": [
+          "SPACESHIP"
+        ],
+        "initial_letters": [
+          "S"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "H"
+        ],
+        "game_link": "/us/game/2019-01-24/3",
+        "eliminated": 21158,
+        "advancing": 156658,
+        "correct_answers": 156658,
+        "incorrect_answers": 21158
+      },
+      {
+        "direct_link": "/us/game/2019-01-24/3/4",
+        "question_number": 4,
+        "text": "Weekly Internet Post",
+        "answer": [
+          "THROWBACK",
+          "THURSDAY"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "S"
+        ],
+        "game_link": "/us/game/2019-01-24/3",
+        "eliminated": 89922,
+        "advancing": 67673,
+        "correct_answers": 67673,
+        "incorrect_answers": 89922
+      },
+      {
+        "direct_link": "/us/game/2019-01-24/3/5",
+        "question_number": 5,
+        "text": "Embarrassing Problem",
+        "answer": [
+          "WARDROBE",
+          "MALFUNCTION"
+        ],
+        "initial_letters": [
+          " ",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "L"
+        ],
+        "game_link": "/us/game/2019-01-24/3",
+        "eliminated": 52002,
+        "advancing": 20557,
+        "correct_answers": 20557,
+        "incorrect_answers": 52002
+      },
+      {
+        "direct_link": "/us/game/2019-01-24/3/6",
+        "question_number": 6,
+        "text": "Aquatic Animal",
+        "answer": [
+          "BELUGA",
+          "WHALE"
+        ],
+        "initial_letters": [
+          " ",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "L"
+        ],
+        "game_link": "/us/game/2019-01-24/3",
+        "eliminated": 2861,
+        "advancing": 21289,
+        "correct_answers": 21289,
+        "incorrect_answers": 2861
+      },
+      {
+        "direct_link": "/us/game/2019-01-24/3/7",
+        "question_number": 7,
+        "text": "At The Doctor",
+        "answer": [
+          "âOPEN",
+          "UP",
+          "AND",
+          "SAY",
+          "AHâ"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "â",
+          "â"
+        ],
+        "game_link": "/us/game/2019-01-24/3",
+        "eliminated": 13264,
+        "advancing": 8274,
+        "correct_answers": 8274,
+        "incorrect_answers": 13264
+      },
+      {
+        "direct_link": "/us/game/2019-01-24/3/8",
+        "question_number": 8,
+        "text": "What's For Dinner?",
+        "answer": [
+          "SPICY",
+          "SEAFOOD",
+          "GUMBO"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "M"
+        ],
+        "game_link": "/us/game/2019-01-24/3",
+        "eliminated": 6528,
+        "advancing": 3492,
+        "correct_answers": 3492,
+        "incorrect_answers": 6528
+      },
+      {
+        "direct_link": "/us/game/2019-01-24/3/9",
+        "question_number": 9,
+        "text": "Covert Operation",
+        "answer": [
+          "FOREIGN",
+          "ESPIONAGE"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "P",
+          "R"
+        ],
+        "game_link": "/us/game/2019-01-24/3",
+        "eliminated": 292,
+        "advancing": 4242,
+        "correct_answers": 4242,
+        "incorrect_answers": 292
+      },
+      {
+        "direct_link": "/us/game/2019-01-24/3/10",
+        "question_number": 10,
+        "text": "Old-Timey Saying",
+        "answer": [
+          "A",
+          "ROLLING",
+          "STONE",
+          "GATHERS",
+          "NO",
+          "MOSS"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "S",
+          "T"
+        ],
+        "game_link": "/us/game/2019-01-24/3",
+        "eliminated": 1255,
+        "advancing": 3009,
+        "correct_answers": 3009,
+        "incorrect_answers": 1255
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

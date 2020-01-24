@@ -1,0 +1,1343 @@
+[
+  {
+    "id": 48121,
+    "show_id": 9384,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "0",
+    "currency": "$",
+    "start_time": "2019-01-31T20:00:00Z",
+    "direct_link": "/us/game/2019-01-31/1",
+    "time": " 3:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "5,161",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 44839,
+        "text": "Which of these is a play by William Shakespeare?",
+        "question_number": 1,
+        "eliminated": "-2,643",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "196,520",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134412,
+            "text": "Much Ado About Nothing",
+            "correct": true,
+            "count": "178,414",
+            "percent": "94.06%"
+          },
+          {
+            "id": 134417,
+            "text": "Lotta Loose Chitchat",
+            "correct": false,
+            "count": "5,527",
+            "percent": "2.91%"
+          },
+          {
+            "id": 134427,
+            "text": "So Much Trash Talk",
+            "correct": false,
+            "count": "5,748",
+            "percent": "3.03%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/1/1",
+        "game_link": "/us/game/2019-01-31/1",
+        "correct_answers": 178414,
+        "incorrect_answers": 11275,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44849,
+        "text": "Which of these desserts usually contains at least some dairy?",
+        "question_number": 2,
+        "eliminated": "12,185",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "184,541",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134441,
+            "text": "Sherbet",
+            "correct": true,
+            "count": "163,610",
+            "percent": "89.81%"
+          },
+          {
+            "id": 134446,
+            "text": "Shaved ice",
+            "correct": false,
+            "count": "6,496",
+            "percent": "3.57%"
+          },
+          {
+            "id": 134452,
+            "text": "Snow cone",
+            "correct": false,
+            "count": "12,073",
+            "percent": "6.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/1/2",
+        "game_link": "/us/game/2019-01-31/1",
+        "correct_answers": 163610,
+        "incorrect_answers": 18569,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44859,
+        "text": "What pop star recently got an incorrect tattoo that was supposed to mean âseven ringsâ?",
+        "question_number": 3,
+        "eliminated": "10,711",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "174,126",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134472,
+            "text": "Ariana Grande",
+            "correct": true,
+            "count": "142,333",
+            "percent": "82.62%"
+          },
+          {
+            "id": 134475,
+            "text": "Adam Levine",
+            "correct": false,
+            "count": "17,057",
+            "percent": "9.9%"
+          },
+          {
+            "id": 134478,
+            "text": "Ja Rule",
+            "correct": false,
+            "count": "12,892",
+            "percent": "7.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/1/3",
+        "game_link": "/us/game/2019-01-31/1",
+        "correct_answers": 142333,
+        "incorrect_answers": 29949,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44865,
+        "text": "Which of these is the official name for residents of Sydney, Australia?",
+        "question_number": 4,
+        "eliminated": "27,505",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "147,011",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134490,
+            "text": "Sydneysiders",
+            "correct": true,
+            "count": "60,797",
+            "percent": "38.64%"
+          },
+          {
+            "id": 134491,
+            "text": "Sydneysians",
+            "correct": false,
+            "count": "80,071",
+            "percent": "50.89%"
+          },
+          {
+            "id": 134494,
+            "text": "Sydneywydneys",
+            "correct": false,
+            "count": "16,481",
+            "percent": "10.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/1/4",
+        "game_link": "/us/game/2019-01-31/1",
+        "correct_answers": 60797,
+        "incorrect_answers": 96552,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44872,
+        "text": "The haircut made famous by gymnastics legend Mary Lou Retton is commonly known as what?",
+        "question_number": 5,
+        "eliminated": "25,730",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "122,795",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134511,
+            "text": "Bowl cut",
+            "correct": true,
+            "count": "104,367",
+            "percent": "76.03%"
+          },
+          {
+            "id": 134515,
+            "text": "Beehive",
+            "correct": false,
+            "count": "19,988",
+            "percent": "14.56%"
+          },
+          {
+            "id": 134522,
+            "text": "The Rachel",
+            "correct": false,
+            "count": "12,913",
+            "percent": "9.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/1/5",
+        "game_link": "/us/game/2019-01-31/1",
+        "correct_answers": 104367,
+        "incorrect_answers": 32901,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44879,
+        "text": "In the modern Catholic Church, which of these titles ranks highest?",
+        "question_number": 6,
+        "eliminated": "51,620",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "73,266",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134532,
+            "text": "Cardinal",
+            "correct": true,
+            "count": "73,243",
+            "percent": "60.92%"
+          },
+          {
+            "id": 134538,
+            "text": "Archbishop",
+            "correct": false,
+            "count": "41,087",
+            "percent": "34.17%"
+          },
+          {
+            "id": 134543,
+            "text": "Deacon",
+            "correct": false,
+            "count": "5,905",
+            "percent": "4.91%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/1/6",
+        "game_link": "/us/game/2019-01-31/1",
+        "correct_answers": 73243,
+        "incorrect_answers": 46992,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44890,
+        "text": "Though itâs associated with the holidays, which plant is botanically considered a parasite?",
+        "question_number": 7,
+        "eliminated": "34,320",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "44,240",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134566,
+            "text": "Poinsettia",
+            "correct": false,
+            "count": "18,468",
+            "percent": "24.45%"
+          },
+          {
+            "id": 134570,
+            "text": "Mistletoe",
+            "correct": true,
+            "count": "44,240",
+            "percent": "58.57%"
+          },
+          {
+            "id": 134573,
+            "text": "Holly",
+            "correct": false,
+            "count": "12,820",
+            "percent": "16.97%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/1/7",
+        "game_link": "/us/game/2019-01-31/1",
+        "correct_answers": 44240,
+        "incorrect_answers": 31288,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44899,
+        "text": "The main governing body for international synchronized swimming recently renamed the sport what?",
+        "question_number": 8,
+        "eliminated": "10,443",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "37,458",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134592,
+            "text": "Ingenious swimming",
+            "correct": false,
+            "count": "1,092",
+            "percent": "2.4%"
+          },
+          {
+            "id": 134594,
+            "text": "Creative swimming",
+            "correct": false,
+            "count": "6,877",
+            "percent": "15.14%"
+          },
+          {
+            "id": 134596,
+            "text": "Artistic swimming",
+            "correct": true,
+            "count": "37,458",
+            "percent": "82.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/1/8",
+        "game_link": "/us/game/2019-01-31/1",
+        "correct_answers": 37458,
+        "incorrect_answers": 7969,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44907,
+        "text": "The Greek name Hieronymus corresponds with what English-language name?",
+        "question_number": 9,
+        "eliminated": "12,261",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "26,662",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134616,
+            "text": "Ira",
+            "correct": false,
+            "count": "7,702",
+            "percent": "19.99%"
+          },
+          {
+            "id": 134618,
+            "text": "Chad",
+            "correct": false,
+            "count": "4,157",
+            "percent": "10.79%"
+          },
+          {
+            "id": 134622,
+            "text": "Jerome",
+            "correct": true,
+            "count": "26,662",
+            "percent": "69.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/1/9",
+        "game_link": "/us/game/2019-01-31/1",
+        "correct_answers": 26662,
+        "incorrect_answers": 11859,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44915,
+        "text": "Which famous detective was NOT portrayed by Humphrey Bogart?",
+        "question_number": 10,
+        "eliminated": "9,280",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "19,802",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134639,
+            "text": "Dick Tracy",
+            "correct": true,
+            "count": "19,802",
+            "percent": "69.01%"
+          },
+          {
+            "id": 134643,
+            "text": "Sam Spade",
+            "correct": false,
+            "count": "4,760",
+            "percent": "16.59%"
+          },
+          {
+            "id": 134647,
+            "text": "Philip Marlowe",
+            "correct": false,
+            "count": "4,134",
+            "percent": "14.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/1/10",
+        "game_link": "/us/game/2019-01-31/1",
+        "correct_answers": 19802,
+        "incorrect_answers": 8894,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44923,
+        "text": "Which countryâs national anthem asks God to quash the âknavish tricksâ of enemies?",
+        "question_number": 11,
+        "eliminated": "15,556",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "6,600",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134660,
+            "text": "United Kingdom",
+            "correct": true,
+            "count": "6,600",
+            "percent": "30.47%"
+          },
+          {
+            "id": 134666,
+            "text": "Sweden",
+            "correct": false,
+            "count": "6,004",
+            "percent": "27.72%"
+          },
+          {
+            "id": 134671,
+            "text": "Norway",
+            "correct": false,
+            "count": "9,058",
+            "percent": "41.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/1/11",
+        "game_link": "/us/game/2019-01-31/1",
+        "correct_answers": 6600,
+        "incorrect_answers": 15062,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44931,
+        "text": "Bessie Stringfield is famous for being the first black woman to do what solo?",
+        "question_number": 12,
+        "eliminated": "6,872",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "5,161",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134688,
+            "text": "Motorcycle across US",
+            "correct": true,
+            "count": "5,161",
+            "percent": "44.76%"
+          },
+          {
+            "id": 134690,
+            "text": "Conduct an orchestra",
+            "correct": false,
+            "count": "3,741",
+            "percent": "32.45%"
+          },
+          {
+            "id": 134694,
+            "text": "Climb Denali",
+            "correct": false,
+            "count": "2,628",
+            "percent": "22.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/1/12",
+        "game_link": "/us/game/2019-01-31/1",
+        "correct_answers": 5161,
+        "incorrect_answers": 6369,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 48241,
+    "show_id": 9513,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-02-01T01:00:00Z",
+    "direct_link": "/us/game/2019-01-31/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "0.00"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "0.00"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "0.00"
+        },
+        {
+          "number": "-3",
+          "amount": "0.00",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.0,
+      "top_players_prize": 225.0
+    },
+    "time": " 8:00 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-01-31/2/1",
+        "question_number": 1,
+        "text": "Fast Ride",
+        "answer": [
+          "RACE",
+          "CAR"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "E"
+        ],
+        "game_link": "/us/game/2019-01-31/2",
+        "eliminated": 8105,
+        "advancing": 165380,
+        "correct_answers": 165380,
+        "incorrect_answers": 8105
+      },
+      {
+        "direct_link": "/us/game/2019-01-31/2/2",
+        "question_number": 2,
+        "text": "Leaderboard Achievement",
+        "answer": [
+          "TOP",
+          "SPOT"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "S"
+        ],
+        "game_link": "/us/game/2019-01-31/2",
+        "eliminated": 29473,
+        "advancing": 136136,
+        "correct_answers": 136136,
+        "incorrect_answers": 29473
+      },
+      {
+        "direct_link": "/us/game/2019-01-31/2/3",
+        "question_number": 3,
+        "text": "Internet Feline",
+        "answer": [
+          "TACOCAT"
+        ],
+        "initial_letters": [
+          "O"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "T"
+        ],
+        "game_link": "/us/game/2019-01-31/2",
+        "eliminated": 17436,
+        "advancing": 119666,
+        "correct_answers": 119666,
+        "incorrect_answers": 17436
+      },
+      {
+        "direct_link": "/us/game/2019-01-31/2/4",
+        "question_number": 4,
+        "text": "Moral Dilemma",
+        "answer": [
+          "BORROW",
+          "OR",
+          "ROB?"
+        ],
+        "initial_letters": [
+          " ",
+          "?",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "W"
+        ],
+        "game_link": "/us/game/2019-01-31/2",
+        "eliminated": 27547,
+        "advancing": 92483,
+        "correct_answers": 92483,
+        "incorrect_answers": 27547
+      },
+      {
+        "direct_link": "/us/game/2019-01-31/2/5",
+        "question_number": 5,
+        "text": "Why is the Trash Moving?",
+        "answer": [
+          "WAS",
+          "IT",
+          "A",
+          "RAT",
+          "I",
+          "SAW?"
+        ],
+        "initial_letters": [
+          " ",
+          "?",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "R"
+        ],
+        "game_link": "/us/game/2019-01-31/2",
+        "eliminated": 42891,
+        "advancing": 51037,
+        "correct_answers": 51037,
+        "incorrect_answers": 42891
+      },
+      {
+        "direct_link": "/us/game/2019-01-31/2/6",
+        "question_number": 6,
+        "text": "Christmas for Astronauts",
+        "answer": [
+          "A",
+          "SANTA",
+          "AT",
+          "NASA"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "S",
+          "T"
+        ],
+        "game_link": "/us/game/2019-01-31/2",
+        "eliminated": 951,
+        "advancing": 52798,
+        "correct_answers": 52798,
+        "incorrect_answers": 951
+      },
+      {
+        "direct_link": "/us/game/2019-01-31/2/7",
+        "question_number": 7,
+        "text": "Math Talk",
+        "answer": [
+          "NEVER",
+          "ODD",
+          "OR",
+          "EVEN"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "O"
+        ],
+        "game_link": "/us/game/2019-01-31/2",
+        "eliminated": 13600,
+        "advancing": 39227,
+        "correct_answers": 39227,
+        "incorrect_answers": 13600
+      },
+      {
+        "direct_link": "/us/game/2019-01-31/2/8",
+        "question_number": 8,
+        "text": "Out of Fruits",
+        "answer": [
+          "NO",
+          "LEMON,",
+          "NO",
+          "MELON"
+        ],
+        "initial_letters": [
+          " ",
+          ",",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "N"
+        ],
+        "game_link": "/us/game/2019-01-31/2",
+        "eliminated": 565,
+        "advancing": 40434,
+        "correct_answers": 40434,
+        "incorrect_answers": 565
+      },
+      {
+        "direct_link": "/us/game/2019-01-31/2/9",
+        "question_number": 9,
+        "text": "Want some Chinese Food?",
+        "answer": [
+          "WONTONS?",
+          "NOT",
+          "NOW"
+        ],
+        "initial_letters": [
+          "?",
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "S",
+          "W"
+        ],
+        "game_link": "/us/game/2019-01-31/2",
+        "eliminated": 1360,
+        "advancing": 39149,
+        "correct_answers": 39149,
+        "incorrect_answers": 1360
+      },
+      {
+        "direct_link": "/us/game/2019-01-31/2/10",
+        "question_number": 10,
+        "text": "Teddy Roosevelt in 1904",
+        "answer": [
+          "A",
+          "MAN,",
+          "A",
+          "PLAN,",
+          "A",
+          "CANAL:",
+          "PANAMA"
+        ],
+        "initial_letters": [
+          " ",
+          ",",
+          ":",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "P"
+        ],
+        "game_link": "/us/game/2019-01-31/2",
+        "eliminated": 3087,
+        "advancing": 36316,
+        "correct_answers": 36316,
+        "incorrect_answers": 3087
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  },
+  {
+    "id": 48286,
+    "show_id": 9444,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 3,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-02-01T02:00:00Z",
+    "direct_link": "/us/game/2019-01-31/3",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "5,818",
+      "currency": "$",
+      "average_prize": "0.17"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "TV",
+        "slug": "tv"
+      }
+    ],
+    "questions": [
+      {
+        "id": 44936,
+        "text": "What is the Gilmore Girlsâ favorite thing to drink?",
+        "question_number": 1,
+        "eliminated": "-2,696",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "394,738",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134703,
+            "text": "Four Loko",
+            "correct": false,
+            "count": "13,341",
+            "percent": "3.44%"
+          },
+          {
+            "id": 134704,
+            "text": "Coffee",
+            "correct": true,
+            "count": "360,669",
+            "percent": "92.89%"
+          },
+          {
+            "id": 134705,
+            "text": "Pamplemousse seltzer",
+            "correct": false,
+            "count": "14,257",
+            "percent": "3.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/3/1",
+        "game_link": "/us/game/2019-01-31/3",
+        "correct_answers": 360669,
+        "incorrect_answers": 27598,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44943,
+        "text": "Which famous actress played Sookie, Lorelaiâs best friend?",
+        "question_number": 2,
+        "eliminated": "10,858",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "384,271",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134724,
+            "text": "Melissa McCarthy",
+            "correct": true,
+            "count": "291,870",
+            "percent": "76.96%"
+          },
+          {
+            "id": 134726,
+            "text": "Tina Fey",
+            "correct": false,
+            "count": "32,793",
+            "percent": "8.65%"
+          },
+          {
+            "id": 134728,
+            "text": "Jane Lynch",
+            "correct": false,
+            "count": "54,599",
+            "percent": "14.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/3/2",
+        "game_link": "/us/game/2019-01-31/3",
+        "correct_answers": 291870,
+        "incorrect_answers": 87392,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44951,
+        "text": "What prestigious college does Rory end up attending?",
+        "question_number": 3,
+        "eliminated": "11,795",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "372,819",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134748,
+            "text": "Yale",
+            "correct": true,
+            "count": "310,806",
+            "percent": "85.14%"
+          },
+          {
+            "id": 134749,
+            "text": "Rutgers",
+            "correct": false,
+            "count": "36,811",
+            "percent": "10.08%"
+          },
+          {
+            "id": 134750,
+            "text": "Tulane",
+            "correct": false,
+            "count": "17,433",
+            "percent": "4.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/3/3",
+        "game_link": "/us/game/2019-01-31/3",
+        "correct_answers": 310806,
+        "incorrect_answers": 54244,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44960,
+        "text": "Who does Lorelai call off her wedding to toward the start of the second season?",
+        "question_number": 4,
+        "eliminated": "42,923",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "330,254",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134772,
+            "text": "Roryâs dad",
+            "correct": false,
+            "count": "87,668",
+            "percent": "25.07%"
+          },
+          {
+            "id": 134773,
+            "text": "Roryâs doctor",
+            "correct": false,
+            "count": "44,622",
+            "percent": "12.76%"
+          },
+          {
+            "id": 134775,
+            "text": "Roryâs teacher",
+            "correct": true,
+            "count": "217,399",
+            "percent": "62.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/3/4",
+        "game_link": "/us/game/2019-01-31/3",
+        "correct_answers": 217399,
+        "incorrect_answers": 132290,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44970,
+        "text": "What was unusual about Lorelai as a child?",
+        "question_number": 5,
+        "eliminated": "125,223",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "208,693",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134805,
+            "text": "Extra-long fingers",
+            "correct": false,
+            "count": "23,669",
+            "percent": "7.47%"
+          },
+          {
+            "id": 134806,
+            "text": "Didnât cry",
+            "correct": false,
+            "count": "168,855",
+            "percent": "53.31%"
+          },
+          {
+            "id": 134807,
+            "text": "Big head",
+            "correct": true,
+            "count": "124,191",
+            "percent": "39.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/3/5",
+        "game_link": "/us/game/2019-01-31/3",
+        "correct_answers": 124191,
+        "incorrect_answers": 192524,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44976,
+        "text": "Richard memorably insults Emily after she threatens to consume what at lunch in Europe?",
+        "question_number": 6,
+        "eliminated": "139,493",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "83,922",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134823,
+            "text": "Two glasses of wine",
+            "correct": true,
+            "count": "83,728",
+            "percent": "39.6%"
+          },
+          {
+            "id": 134824,
+            "text": "Steak cooked rare",
+            "correct": false,
+            "count": "36,641",
+            "percent": "17.33%"
+          },
+          {
+            "id": 134825,
+            "text": "Fast food",
+            "correct": false,
+            "count": "91,060",
+            "percent": "43.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/3/6",
+        "game_link": "/us/game/2019-01-31/3",
+        "correct_answers": 83728,
+        "incorrect_answers": 127701,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44982,
+        "text": "What does Rory yell as she runs away from Jess after their first kiss?",
+        "question_number": 7,
+        "eliminated": "56,688",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "42,608",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134841,
+            "text": "Call me!",
+            "correct": false,
+            "count": "19,507",
+            "percent": "20.28%"
+          },
+          {
+            "id": 134842,
+            "text": "See you later!",
+            "correct": false,
+            "count": "34,060",
+            "percent": "35.41%"
+          },
+          {
+            "id": 134843,
+            "text": "Welcome home!",
+            "correct": true,
+            "count": "42,608",
+            "percent": "44.3%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/3/7",
+        "game_link": "/us/game/2019-01-31/3",
+        "correct_answers": 42608,
+        "incorrect_answers": 53567,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44990,
+        "text": "When Emily visits Lukeâs to urge him to go back to Lorelai, what menu item does she learn about?",
+        "question_number": 8,
+        "eliminated": "20,563",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "30,384",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134865,
+            "text": "Mud pie",
+            "correct": true,
+            "count": "30,384",
+            "percent": "62.49%"
+          },
+          {
+            "id": 134866,
+            "text": "Banoffee pudding",
+            "correct": false,
+            "count": "6,544",
+            "percent": "13.46%"
+          },
+          {
+            "id": 134867,
+            "text": "Molten lava cake",
+            "correct": false,
+            "count": "11,696",
+            "percent": "24.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/3/8",
+        "game_link": "/us/game/2019-01-31/3",
+        "correct_answers": 30384,
+        "incorrect_answers": 18240,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45001,
+        "text": "In Roryâs valedictorian speech, who does she NOT mention as a Lorelai-approved role model?",
+        "question_number": 9,
+        "eliminated": "20,707",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "12,673",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134895,
+            "text": "Lucille Ball",
+            "correct": true,
+            "count": "12,673",
+            "percent": "39.41%"
+          },
+          {
+            "id": 134901,
+            "text": "Jane Austen",
+            "correct": false,
+            "count": "11,086",
+            "percent": "34.47%"
+          },
+          {
+            "id": 134905,
+            "text": "Patti Smith",
+            "correct": false,
+            "count": "8,399",
+            "percent": "26.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/3/9",
+        "game_link": "/us/game/2019-01-31/3",
+        "correct_answers": 12673,
+        "incorrect_answers": 19485,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45007,
+        "text": "When Paris and Jess are discussing books, what writing advice does Paris give for Jack Kerouac?",
+        "question_number": 10,
+        "eliminated": "9,066",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "7,719",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134915,
+            "text": "Stop",
+            "correct": false,
+            "count": "5,801",
+            "percent": "35.39%"
+          },
+          {
+            "id": 134917,
+            "text": "Develop the characters",
+            "correct": false,
+            "count": "2,870",
+            "percent": "17.51%"
+          },
+          {
+            "id": 134918,
+            "text": "Edit",
+            "correct": true,
+            "count": "7,719",
+            "percent": "47.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/3/10",
+        "game_link": "/us/game/2019-01-31/3",
+        "correct_answers": 7719,
+        "incorrect_answers": 8671,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45017,
+        "text": "What does Rory say after her first kiss with Dean?",
+        "question_number": 11,
+        "eliminated": "694",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "8,612",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134947,
+            "text": "Wow",
+            "correct": false,
+            "count": "535",
+            "percent": "5.75%"
+          },
+          {
+            "id": 134953,
+            "text": "Thank you",
+            "correct": true,
+            "count": "8,612",
+            "percent": "92.63%"
+          },
+          {
+            "id": 134957,
+            "text": "That's it?",
+            "correct": false,
+            "count": "150",
+            "percent": "1.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/3/11",
+        "game_link": "/us/game/2019-01-31/3",
+        "correct_answers": 8612,
+        "incorrect_answers": 685,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45022,
+        "text": "Which character is present when âOy, with the poodles already!â is first uttered?",
+        "question_number": 12,
+        "eliminated": "2,898",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "5,818",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134963,
+            "text": "Luke",
+            "correct": false,
+            "count": "1,994",
+            "percent": "23.03%"
+          },
+          {
+            "id": 134966,
+            "text": "Emily",
+            "correct": true,
+            "count": "5,818",
+            "percent": "67.18%"
+          },
+          {
+            "id": 134971,
+            "text": "Richard",
+            "correct": false,
+            "count": "848",
+            "percent": "9.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-31/3/12",
+        "game_link": "/us/game/2019-01-31/3",
+        "correct_answers": 5818,
+        "incorrect_answers": 2842,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

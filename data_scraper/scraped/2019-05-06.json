@@ -1,0 +1,1482 @@
+[
+  {
+    "id": 100829,
+    "show_id": 10658,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-05-07T00:00:00Z",
+    "direct_link": "/us/game/2019-05-06/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,502",
+      "currency": "$",
+      "average_prize": "0.67"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 104523,
+        "text": "What color line marks the separation of the attacking zone and the neutral zone in hockey?",
+        "question_number": 1,
+        "eliminated": "-1,280",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "79,278",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231257,
+            "text": "Yellow",
+            "correct": false,
+            "count": "4,815",
+            "percent": "6.17%"
+          },
+          {
+            "id": 231259,
+            "text": "Red",
+            "correct": false,
+            "count": "21,889",
+            "percent": "28.06%"
+          },
+          {
+            "id": 231261,
+            "text": "Blue",
+            "correct": true,
+            "count": "51,294",
+            "percent": "65.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/1/1",
+        "game_link": "/us/game/2019-05-06/1",
+        "correct_answers": 51294,
+        "incorrect_answers": 26704,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104531,
+        "text": "When a baseball pitch is thrown, which of these players is generally facing a different direction than the others?",
+        "question_number": 2,
+        "eliminated": "864",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "78,514",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231269,
+            "text": "First baseman",
+            "correct": false,
+            "count": "4,297",
+            "percent": "5.97%"
+          },
+          {
+            "id": 231271,
+            "text": "Pitcher",
+            "correct": false,
+            "count": "9,605",
+            "percent": "13.34%"
+          },
+          {
+            "id": 231274,
+            "text": "Catcher",
+            "correct": true,
+            "count": "58,079",
+            "percent": "80.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/1/2",
+        "game_link": "/us/game/2019-05-06/1",
+        "correct_answers": 58079,
+        "incorrect_answers": 13902,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104539,
+        "text": "At the scouting combine, what distance measures a potential NFL playerâs sprint speed?",
+        "question_number": 3,
+        "eliminated": "842",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "77,709",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231281,
+            "text": "100 yards",
+            "correct": false,
+            "count": "9,479",
+            "percent": "13.07%"
+          },
+          {
+            "id": 231283,
+            "text": "10 yards",
+            "correct": false,
+            "count": "2,968",
+            "percent": "4.09%"
+          },
+          {
+            "id": 231286,
+            "text": "40 yards",
+            "correct": true,
+            "count": "60,053",
+            "percent": "82.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/1/3",
+        "game_link": "/us/game/2019-05-06/1",
+        "correct_answers": 60053,
+        "incorrect_answers": 12447,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104547,
+        "text": "What player currently leads the 2019 NBA playoffs in dunks?",
+        "question_number": 4,
+        "eliminated": "6,264",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "71,465",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231293,
+            "text": "Andre Iguodala",
+            "correct": true,
+            "count": "9,653",
+            "percent": "13.66%"
+          },
+          {
+            "id": 231294,
+            "text": "Giannis Antetokounmpo",
+            "correct": false,
+            "count": "47,583",
+            "percent": "67.34%"
+          },
+          {
+            "id": 231297,
+            "text": "Kevin Durant",
+            "correct": false,
+            "count": "13,429",
+            "percent": "19.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/1/4",
+        "game_link": "/us/game/2019-05-06/1",
+        "correct_answers": 9653,
+        "incorrect_answers": 61012,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104555,
+        "text": "According to the National Dodgeball League, which of these is permitted during a game?",
+        "question_number": 5,
+        "eliminated": "8,922",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "63,506",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231305,
+            "text": "Blocking ball with ball",
+            "correct": true,
+            "count": "39,776",
+            "percent": "64.28%"
+          },
+          {
+            "id": 231307,
+            "text": "Headshots",
+            "correct": false,
+            "count": "14,400",
+            "percent": "23.27%"
+          },
+          {
+            "id": 231310,
+            "text": "Team timeouts",
+            "correct": false,
+            "count": "7,703",
+            "percent": "12.45%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/1/5",
+        "game_link": "/us/game/2019-05-06/1",
+        "correct_answers": 39776,
+        "incorrect_answers": 22103,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104563,
+        "text": "Who is currently the highest paid player in the NFL?",
+        "question_number": 6,
+        "eliminated": "2,085",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "61,647",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231317,
+            "text": "Tom Brady",
+            "correct": false,
+            "count": "10,135",
+            "percent": "16.98%"
+          },
+          {
+            "id": 231320,
+            "text": "Aaron Rodgers",
+            "correct": false,
+            "count": "9,927",
+            "percent": "16.63%"
+          },
+          {
+            "id": 231324,
+            "text": "Russell Wilson",
+            "correct": true,
+            "count": "39,625",
+            "percent": "66.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/1/6",
+        "game_link": "/us/game/2019-05-06/1",
+        "correct_answers": 39625,
+        "incorrect_answers": 20062,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104571,
+        "text": "The NBA player with the highest points per game average this postseason plays for what team?",
+        "question_number": 7,
+        "eliminated": "24,571",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "37,201",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231329,
+            "text": "Golden State Warriors",
+            "correct": true,
+            "count": "20,486",
+            "percent": "35.64%"
+          },
+          {
+            "id": 231332,
+            "text": "Toronto Raptors",
+            "correct": false,
+            "count": "16,593",
+            "percent": "28.87%"
+          },
+          {
+            "id": 231335,
+            "text": "Houston Rockets",
+            "correct": false,
+            "count": "20,400",
+            "percent": "35.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/1/7",
+        "game_link": "/us/game/2019-05-06/1",
+        "correct_answers": 20486,
+        "incorrect_answers": 36993,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104579,
+        "text": "Who was the NHLâs youngest player with a 100-point season?",
+        "question_number": 8,
+        "eliminated": "23,567",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "15,640",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231341,
+            "text": "Sidney Crosby",
+            "correct": true,
+            "count": "14,809",
+            "percent": "39.6%"
+          },
+          {
+            "id": 231344,
+            "text": "Connor McDavid",
+            "correct": false,
+            "count": "14,598",
+            "percent": "39.03%"
+          },
+          {
+            "id": 231347,
+            "text": "Wayne Gretzky",
+            "correct": false,
+            "count": "7,993",
+            "percent": "21.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/1/8",
+        "game_link": "/us/game/2019-05-06/1",
+        "correct_answers": 14809,
+        "incorrect_answers": 22591,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104587,
+        "text": "Which foul gives an NBA team the chance to score the greatest amount of points without losing possession?",
+        "question_number": 9,
+        "eliminated": "6,286",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "10,673",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231353,
+            "text": "Technical",
+            "correct": false,
+            "count": "3,408",
+            "percent": "20.74%"
+          },
+          {
+            "id": 231357,
+            "text": "Personal",
+            "correct": false,
+            "count": "2,413",
+            "percent": "14.69%"
+          },
+          {
+            "id": 231361,
+            "text": "Flagrant",
+            "correct": true,
+            "count": "10,610",
+            "percent": "64.57%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/1/9",
+        "game_link": "/us/game/2019-05-06/1",
+        "correct_answers": 10610,
+        "incorrect_answers": 5821,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104595,
+        "text": "The only female speed skater to win 500m gold in three straight Olympics competed for what nation?",
+        "question_number": 10,
+        "eliminated": "8,597",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,703",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231365,
+            "text": "South Korea",
+            "correct": false,
+            "count": "5,486",
+            "percent": "50.84%"
+          },
+          {
+            "id": 231369,
+            "text": "Soviet Union",
+            "correct": false,
+            "count": "2,622",
+            "percent": "24.3%"
+          },
+          {
+            "id": 231372,
+            "text": "USA",
+            "correct": true,
+            "count": "2,683",
+            "percent": "24.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/1/10",
+        "game_link": "/us/game/2019-05-06/1",
+        "correct_answers": 2683,
+        "incorrect_answers": 8108,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104603,
+        "text": "Who is the only active pitcher to homer and throw a complete game in a 1-0 win?",
+        "question_number": 11,
+        "eliminated": "1,229",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,985",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231377,
+            "text": "Madison Bumgarner",
+            "correct": false,
+            "count": "643",
+            "percent": "15.43%"
+          },
+          {
+            "id": 231378,
+            "text": "Noah Syndergaard",
+            "correct": true,
+            "count": "2,985",
+            "percent": "71.65%"
+          },
+          {
+            "id": 231381,
+            "text": "Max Scherzer",
+            "correct": false,
+            "count": "538",
+            "percent": "12.91%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/1/11",
+        "game_link": "/us/game/2019-05-06/1",
+        "correct_answers": 2985,
+        "incorrect_answers": 1181,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104611,
+        "text": "Which of these golfers spent a full calendar year as the worldâs No. 1-ranked player?",
+        "question_number": 12,
+        "eliminated": "1,801",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,502",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231389,
+            "text": "Greg Norman",
+            "correct": true,
+            "count": "1,502",
+            "percent": "46.3%"
+          },
+          {
+            "id": 231391,
+            "text": "Rory McIlroy",
+            "correct": false,
+            "count": "1,027",
+            "percent": "31.66%"
+          },
+          {
+            "id": 231395,
+            "text": "Phil Mickelson",
+            "correct": false,
+            "count": "715",
+            "percent": "22.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/1/12",
+        "game_link": "/us/game/2019-05-06/1",
+        "correct_answers": 1502,
+        "incorrect_answers": 1742,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 100889,
+    "show_id": 10689,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-05-07T01:00:00Z",
+    "direct_link": "/us/game/2019-05-06/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "8,906",
+      "currency": "$",
+      "average_prize": "0.56"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "questions": [
+      {
+        "id": 104619,
+        "text": "What song does Marty play for the students at the 1950s prom?",
+        "question_number": 1,
+        "eliminated": "-14,517",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "329,437",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231401,
+            "text": "Bodak Yellow",
+            "correct": false,
+            "count": "4,443",
+            "percent": "1.41%"
+          },
+          {
+            "id": 231402,
+            "text": "Johnny B. Goode",
+            "correct": true,
+            "count": "300,359",
+            "percent": "95.38%"
+          },
+          {
+            "id": 231403,
+            "text": "Old Town Road",
+            "correct": false,
+            "count": "10,118",
+            "percent": "3.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/2/1",
+        "game_link": "/us/game/2019-05-06/2",
+        "correct_answers": 300359,
+        "incorrect_answers": 14561,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104627,
+        "text": "Where do Marty and Doc go in âBack to the Future Part IIIâ?",
+        "question_number": 2,
+        "eliminated": "2,157",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "327,850",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231413,
+            "text": "Swinging â60s",
+            "correct": false,
+            "count": "16,504",
+            "percent": "5.22%"
+          },
+          {
+            "id": 231416,
+            "text": "Wild West",
+            "correct": true,
+            "count": "285,538",
+            "percent": "90.31%"
+          },
+          {
+            "id": 231419,
+            "text": "Roaring â20s",
+            "correct": false,
+            "count": "14,140",
+            "percent": "4.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/2/2",
+        "game_link": "/us/game/2019-05-06/2",
+        "correct_answers": 285538,
+        "incorrect_answers": 30644,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104635,
+        "text": "In the first film, Marty McFly famously often wears what outerwear?",
+        "question_number": 3,
+        "eliminated": "3,739",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "324,251",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231425,
+            "text": "Blazer",
+            "correct": false,
+            "count": "19,114",
+            "percent": "6.18%"
+          },
+          {
+            "id": 231426,
+            "text": "Trench coat",
+            "correct": false,
+            "count": "29,489",
+            "percent": "9.53%"
+          },
+          {
+            "id": 231427,
+            "text": "Puffy vest",
+            "correct": true,
+            "count": "260,671",
+            "percent": "84.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/2/3",
+        "game_link": "/us/game/2019-05-06/2",
+        "correct_answers": 260671,
+        "incorrect_answers": 48603,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104643,
+        "text": "In âBack to the Future Part II,â what surface does Martyâs hoverboard stall out on?",
+        "question_number": 4,
+        "eliminated": "4,560",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "319,945",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231437,
+            "text": "Grass",
+            "correct": false,
+            "count": "28,054",
+            "percent": "9.18%"
+          },
+          {
+            "id": 231439,
+            "text": "Water",
+            "correct": true,
+            "count": "259,705",
+            "percent": "84.94%"
+          },
+          {
+            "id": 231441,
+            "text": "Roads",
+            "correct": false,
+            "count": "17,989",
+            "percent": "5.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/2/4",
+        "game_link": "/us/game/2019-05-06/2",
+        "correct_answers": 259705,
+        "incorrect_answers": 46043,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104651,
+        "text": "In Martyâs photograph of his siblings, who is wearing jorts?",
+        "question_number": 5,
+        "eliminated": "26,035",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "294,189",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231449,
+            "text": "Sister",
+            "correct": false,
+            "count": "99,268",
+            "percent": "32.99%"
+          },
+          {
+            "id": 231451,
+            "text": "Brother",
+            "correct": true,
+            "count": "119,141",
+            "percent": "39.6%"
+          },
+          {
+            "id": 231453,
+            "text": "Neither",
+            "correct": false,
+            "count": "82,454",
+            "percent": "27.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/2/5",
+        "game_link": "/us/game/2019-05-06/2",
+        "correct_answers": 119141,
+        "incorrect_answers": 181722,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104659,
+        "text": "Which baseball team did âBack to the Futureâ predict would win the 2015 World Series?",
+        "question_number": 6,
+        "eliminated": "12,717",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "285,598",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231461,
+            "text": "Boston Red Sox",
+            "correct": false,
+            "count": "45,969",
+            "percent": "16.32%"
+          },
+          {
+            "id": 231462,
+            "text": "Chicago Cubs",
+            "correct": true,
+            "count": "228,305",
+            "percent": "81.07%"
+          },
+          {
+            "id": 231463,
+            "text": "Kansas City Royals",
+            "correct": false,
+            "count": "7,350",
+            "percent": "2.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/2/6",
+        "game_link": "/us/game/2019-05-06/2",
+        "correct_answers": 228305,
+        "incorrect_answers": 53319,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104667,
+        "text": "The actor of which of these roles was NOT replaced in âBack to the Future Part IIâ?",
+        "question_number": 7,
+        "eliminated": "141,850",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "144,525",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231473,
+            "text": "Mr. Strickland",
+            "correct": true,
+            "count": "94,690",
+            "percent": "35.94%"
+          },
+          {
+            "id": 231474,
+            "text": "George McFly",
+            "correct": false,
+            "count": "100,500",
+            "percent": "38.15%"
+          },
+          {
+            "id": 231475,
+            "text": "Jennifer Parker",
+            "correct": false,
+            "count": "68,270",
+            "percent": "25.91%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/2/7",
+        "game_link": "/us/game/2019-05-06/2",
+        "correct_answers": 94690,
+        "incorrect_answers": 168770,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104675,
+        "text": "Which role in âTitanicâ was played by an actor with a small role in âBack to the Futureâ?",
+        "question_number": 8,
+        "eliminated": "85,498",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "78,797",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231485,
+            "text": "The captain",
+            "correct": false,
+            "count": "37,709",
+            "percent": "24.03%"
+          },
+          {
+            "id": 231486,
+            "text": "The villain",
+            "correct": true,
+            "count": "77,252",
+            "percent": "49.22%"
+          },
+          {
+            "id": 231487,
+            "text": "The mom",
+            "correct": false,
+            "count": "41,993",
+            "percent": "26.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/2/8",
+        "game_link": "/us/game/2019-05-06/2",
+        "correct_answers": 77252,
+        "incorrect_answers": 79702,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104683,
+        "text": "What is Docâs response when Marty McFly finally exclaims, âGreat Scott!â?",
+        "question_number": 9,
+        "eliminated": "34,823",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "54,328",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231497,
+            "text": "And thatâs not all!",
+            "correct": false,
+            "count": "6,877",
+            "percent": "7.93%"
+          },
+          {
+            "id": 231499,
+            "text": "Youâre telling me!",
+            "correct": false,
+            "count": "25,555",
+            "percent": "29.47%"
+          },
+          {
+            "id": 231501,
+            "text": "I know, this is heavy!",
+            "correct": true,
+            "count": "54,276",
+            "percent": "62.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/2/9",
+        "game_link": "/us/game/2019-05-06/2",
+        "correct_answers": 54276,
+        "incorrect_answers": 32432,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104691,
+        "text": "The star of what movie franchise made their film debut in âBack to the Future Part IIâ?",
+        "question_number": 10,
+        "eliminated": "25,396",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "33,186",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231509,
+            "text": "Scream",
+            "correct": false,
+            "count": "13,651",
+            "percent": "23.85%"
+          },
+          {
+            "id": 231510,
+            "text": "The Mummy",
+            "correct": false,
+            "count": "10,421",
+            "percent": "18.2%"
+          },
+          {
+            "id": 231512,
+            "text": "The Lord of the Rings",
+            "correct": true,
+            "count": "33,174",
+            "percent": "57.95%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/2/10",
+        "game_link": "/us/game/2019-05-06/2",
+        "correct_answers": 33174,
+        "incorrect_answers": 24072,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104697,
+        "text": "How does Marty end this sentence?",
+        "question_number": 11,
+        "eliminated": "9,705",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "27,669",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231518,
+            "text": "Young",
+            "correct": false,
+            "count": "6,727",
+            "percent": "18.14%"
+          },
+          {
+            "id": 231519,
+            "text": "Thin",
+            "correct": true,
+            "count": "27,669",
+            "percent": "74.63%"
+          },
+          {
+            "id": 231521,
+            "text": "Pretty",
+            "correct": false,
+            "count": "2,681",
+            "percent": "7.23%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/2/11",
+        "game_link": "/us/game/2019-05-06/2",
+        "correct_answers": 27669,
+        "incorrect_answers": 9408,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104705,
+        "text": "What âUSA Todayâ headline does Martyâs son earn in the second film?",
+        "question_number": 12,
+        "eliminated": "4,689",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "24,726",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231530,
+            "text": "McFly Jr. Caught!",
+            "correct": false,
+            "count": "895",
+            "percent": "3.08%"
+          },
+          {
+            "id": 231531,
+            "text": "Teen Bandit Apprehended",
+            "correct": false,
+            "count": "3,471",
+            "percent": "11.93%"
+          },
+          {
+            "id": 231533,
+            "text": "Youth Jailed",
+            "correct": true,
+            "count": "24,726",
+            "percent": "84.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/2/12",
+        "game_link": "/us/game/2019-05-06/2",
+        "correct_answers": 24726,
+        "incorrect_answers": 4366,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104713,
+        "text": "In the start of the first film, old George McFly laughs hysterically at a TV show starring whom?",
+        "question_number": 13,
+        "eliminated": "2,190",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "23,287",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231542,
+            "text": "Jackie Gleason",
+            "correct": true,
+            "count": "23,287",
+            "percent": "92.25%"
+          },
+          {
+            "id": 231544,
+            "text": "Johnny Carson",
+            "correct": false,
+            "count": "553",
+            "percent": "2.19%"
+          },
+          {
+            "id": 231548,
+            "text": "Lucille Ball",
+            "correct": false,
+            "count": "1,403",
+            "percent": "5.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/2/13",
+        "game_link": "/us/game/2019-05-06/2",
+        "correct_answers": 23287,
+        "incorrect_answers": 1956,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104721,
+        "text": "Biff Tannen was NOT shown to have married the star of which classic film?",
+        "question_number": 14,
+        "eliminated": "12,593",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "11,301",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231554,
+            "text": "The Girl Canât Help It",
+            "correct": false,
+            "count": "1,481",
+            "percent": "6.33%"
+          },
+          {
+            "id": 231555,
+            "text": "Gentlemen Prefer Blondes",
+            "correct": false,
+            "count": "10,626",
+            "percent": "45.39%"
+          },
+          {
+            "id": 231556,
+            "text": "Gilda",
+            "correct": true,
+            "count": "11,301",
+            "percent": "48.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/2/14",
+        "game_link": "/us/game/2019-05-06/2",
+        "correct_answers": 11301,
+        "incorrect_answers": 12107,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104729,
+        "text": "What does Doc Brown exclaim after Einstein first time travels?",
+        "question_number": 15,
+        "eliminated": "5,367",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "8,906",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231566,
+            "text": "Marty, it worked!",
+            "correct": false,
+            "count": "3,281",
+            "percent": "23.61%"
+          },
+          {
+            "id": 231568,
+            "text": "Great Scott!",
+            "correct": false,
+            "count": "1,711",
+            "percent": "12.31%"
+          },
+          {
+            "id": 231571,
+            "text": "What did I tell you!",
+            "correct": true,
+            "count": "8,906",
+            "percent": "64.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-06/2/15",
+        "game_link": "/us/game/2019-05-06/2",
+        "correct_answers": 8906,
+        "incorrect_answers": 4992,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 100960,
+    "show_id": 10703,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-05-07T01:30:00Z",
+    "direct_link": "/us/game/2019-05-06/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "4,495",
+      "currency": "$",
+      "average_prize": "0.22"
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-05-06/3/1",
+        "question_number": 1,
+        "text": "Time Machine",
+        "answer": [
+          "DELOREAN"
+        ],
+        "initial_letters": [
+          "D"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "L"
+        ],
+        "game_link": "/us/game/2019-05-06/3",
+        "eliminated": 13222,
+        "advancing": 117572,
+        "correct_answers": 117572,
+        "incorrect_answers": 13222
+      },
+      {
+        "direct_link": "/us/game/2019-05-06/3/2",
+        "question_number": 2,
+        "text": "Pseudonym",
+        "answer": [
+          "CALVIN",
+          "KLEIN"
+        ],
+        "initial_letters": [
+          " ",
+          "V"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "I"
+        ],
+        "game_link": "/us/game/2019-05-06/3",
+        "eliminated": 28205,
+        "advancing": 89856,
+        "correct_answers": 89856,
+        "incorrect_answers": 28205
+      },
+      {
+        "direct_link": "/us/game/2019-05-06/3/3",
+        "question_number": 3,
+        "text": "Future Tech",
+        "answer": [
+          "FLUX",
+          "CAPACITOR"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "R",
+          "X"
+        ],
+        "game_link": "/us/game/2019-05-06/3",
+        "eliminated": 23209,
+        "advancing": 67729,
+        "correct_answers": 67729,
+        "incorrect_answers": 23209
+      },
+      {
+        "direct_link": "/us/game/2019-05-06/3/4",
+        "question_number": 4,
+        "text": "Timeline Tweaker",
+        "answer": [
+          "GRAYS",
+          "SPORTS",
+          "ALMANAC"
+        ],
+        "initial_letters": [
+          " ",
+          "Y"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "M"
+        ],
+        "game_link": "/us/game/2019-05-06/3",
+        "eliminated": 37028,
+        "advancing": 31631,
+        "correct_answers": 31631,
+        "incorrect_answers": 37028
+      },
+      {
+        "direct_link": "/us/game/2019-05-06/3/5",
+        "question_number": 5,
+        "text": "Georgeâs Declaration",
+        "answer": [
+          "I'M",
+          "YOUR",
+          "DENSITY"
+        ],
+        "initial_letters": [
+          "''",
+          " ",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-05-06/3",
+        "eliminated": 3543,
+        "advancing": 29995,
+        "correct_answers": 29995,
+        "incorrect_answers": 3543
+      },
+      {
+        "direct_link": "/us/game/2019-05-06/3/6",
+        "question_number": 6,
+        "text": "Future Tech",
+        "answer": [
+          "PIZZA",
+          "REHYDRATOR"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "O"
+        ],
+        "game_link": "/us/game/2019-05-06/3",
+        "eliminated": 13578,
+        "advancing": 16621,
+        "correct_answers": 16621,
+        "incorrect_answers": 13578
+      },
+      {
+        "direct_link": "/us/game/2019-05-06/3/7",
+        "question_number": 7,
+        "text": "Power Surge",
+        "answer": [
+          "ONE",
+          "POINT",
+          "TWENTY",
+          "ONE",
+          "GIGAWATTS"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "P"
+        ],
+        "game_link": "/us/game/2019-05-06/3",
+        "eliminated": 1647,
+        "advancing": 16174,
+        "correct_answers": 16174,
+        "incorrect_answers": 1647
+      },
+      {
+        "direct_link": "/us/game/2019-05-06/3/8",
+        "question_number": 8,
+        "text": "1955 Event",
+        "answer": [
+          "ENCHANTMENT",
+          "UNDER",
+          "THE",
+          "SEA"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "R",
+          "S"
+        ],
+        "game_link": "/us/game/2019-05-06/3",
+        "eliminated": 2428,
+        "advancing": 13903,
+        "correct_answers": 13903,
+        "incorrect_answers": 2428
+      },
+      {
+        "direct_link": "/us/game/2019-05-06/3/9",
+        "question_number": 9,
+        "text": "Future Fashion",
+        "answer": [
+          "SELF-LACING",
+          "NIKES"
+        ],
+        "initial_letters": [
+          "-",
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "F"
+        ],
+        "game_link": "/us/game/2019-05-06/3",
+        "eliminated": 2816,
+        "advancing": 11449,
+        "correct_answers": 11449,
+        "incorrect_answers": 2816
+      },
+      {
+        "direct_link": "/us/game/2019-05-06/3/10",
+        "question_number": 10,
+        "text": "Success Story",
+        "answer": [
+          "MAYOR",
+          "GOLDIE",
+          "WILSON"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-05-06/3",
+        "eliminated": 4431,
+        "advancing": 7518,
+        "correct_answers": 7518,
+        "incorrect_answers": 4431
+      },
+      {
+        "direct_link": "/us/game/2019-05-06/3/11",
+        "question_number": 11,
+        "text": "Nighttime Visitor",
+        "answer": [
+          "DARTH",
+          "VADER",
+          "FROM",
+          "PLANET",
+          "VULCAN"
+        ],
+        "initial_letters": [
+          " ",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "N"
+        ],
+        "game_link": "/us/game/2019-05-06/3",
+        "eliminated": 1771,
+        "advancing": 6766,
+        "correct_answers": 6766,
+        "incorrect_answers": 1771
+      },
+      {
+        "direct_link": "/us/game/2019-05-06/3/12",
+        "question_number": 12,
+        "text": "Happy Family",
+        "answer": [
+          "DOC,",
+          "CLARA,",
+          "JULES",
+          "&",
+          "VERNE"
+        ],
+        "initial_letters": [
+          ",",
+          " ",
+          "&",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "D"
+        ],
+        "game_link": "/us/game/2019-05-06/3",
+        "eliminated": 2721,
+        "advancing": 4495,
+        "correct_answers": 4495,
+        "incorrect_answers": 2721
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

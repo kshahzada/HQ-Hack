@@ -1,0 +1,1342 @@
+[
+  {
+    "id": 48743,
+    "show_id": 9500,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-02-03T23:00:00Z",
+    "direct_link": "/us/game/2019-02-03/1",
+    "time": " 6:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "4,012",
+      "currency": "$",
+      "average_prize": "1.25"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Super Bowl",
+        "slug": "super-bowl"
+      },
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 45222,
+        "text": "Since 1987, the Super Bowl MVP has often followed the game by saying âIâm going toâ what?",
+        "question_number": 1,
+        "eliminated": "-3,071",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "243,781",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 135561,
+            "text": "Disney World",
+            "correct": true,
+            "count": "221,219",
+            "percent": "92.41%"
+          },
+          {
+            "id": 135564,
+            "text": "Your neighborâs house",
+            "correct": false,
+            "count": "8,064",
+            "percent": "3.37%"
+          },
+          {
+            "id": 135568,
+            "text": "Brunch",
+            "correct": false,
+            "count": "10,116",
+            "percent": "4.23%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/1/1",
+        "game_link": "/us/game/2019-02-03/1",
+        "correct_answers": 221219,
+        "incorrect_answers": 18180,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45232,
+        "text": "What NFL championship teamâs players got a Grammy nomination for the song âSuper Bowl Shuffleâ?",
+        "question_number": 2,
+        "eliminated": "15,831",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "228,370",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 135591,
+            "text": "Seattle Seahawks",
+            "correct": false,
+            "count": "44,306",
+            "percent": "19.11%"
+          },
+          {
+            "id": 135592,
+            "text": "Chicago Bears",
+            "correct": true,
+            "count": "176,635",
+            "percent": "76.18%"
+          },
+          {
+            "id": 135596,
+            "text": "Jacksonville Jaguars",
+            "correct": false,
+            "count": "10,925",
+            "percent": "4.71%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/1/2",
+        "game_link": "/us/game/2019-02-03/1",
+        "correct_answers": 176635,
+        "incorrect_answers": 55231,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45236,
+        "text": "Who is the only player to kick a Super Bowl-winning field goal as time fully expired?",
+        "question_number": 3,
+        "eliminated": "14,146",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "214,839",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 135604,
+            "text": "Greg Zuerlein",
+            "correct": false,
+            "count": "21,604",
+            "percent": "10.12%"
+          },
+          {
+            "id": 135608,
+            "text": "Justin Tucker",
+            "correct": false,
+            "count": "22,993",
+            "percent": "10.77%"
+          },
+          {
+            "id": 135611,
+            "text": "Adam Vinatieri",
+            "correct": true,
+            "count": "168,824",
+            "percent": "79.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/1/3",
+        "game_link": "/us/game/2019-02-03/1",
+        "correct_answers": 168824,
+        "incorrect_answers": 44597,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45245,
+        "text": "What player once returned an interception for a 100-yard touchdown in a Super Bowl?",
+        "question_number": 4,
+        "eliminated": "28,228",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "187,138",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 135630,
+            "text": "Ray Lewis",
+            "correct": false,
+            "count": "27,126",
+            "percent": "13.63%"
+          },
+          {
+            "id": 135631,
+            "text": "James Harrison",
+            "correct": true,
+            "count": "100,962",
+            "percent": "50.75%"
+          },
+          {
+            "id": 135635,
+            "text": "Deion Sanders",
+            "correct": false,
+            "count": "70,860",
+            "percent": "35.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/1/4",
+        "game_link": "/us/game/2019-02-03/1",
+        "correct_answers": 100962,
+        "incorrect_answers": 97986,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45252,
+        "text": "Which of these NFL teams has NOT appeared in three straight Super Bowls?",
+        "question_number": 5,
+        "eliminated": "73,800",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "115,100",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 135651,
+            "text": "Pittsburgh Steelers",
+            "correct": true,
+            "count": "42,140",
+            "percent": "24.39%"
+          },
+          {
+            "id": 135653,
+            "text": "Buffalo Bills",
+            "correct": false,
+            "count": "41,002",
+            "percent": "23.73%"
+          },
+          {
+            "id": 135655,
+            "text": "Miami Dolphins",
+            "correct": false,
+            "count": "89,611",
+            "percent": "51.87%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/1/5",
+        "game_link": "/us/game/2019-02-03/1",
+        "correct_answers": 42140,
+        "incorrect_answers": 130613,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45263,
+        "text": "The only Super Bowl MVP from a losing team played what position?",
+        "question_number": 6,
+        "eliminated": "69,545",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "54,938",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 135684,
+            "text": "Quarterback",
+            "correct": false,
+            "count": "32,026",
+            "percent": "27.71%"
+          },
+          {
+            "id": 135687,
+            "text": "Linebacker",
+            "correct": true,
+            "count": "54,598",
+            "percent": "47.24%"
+          },
+          {
+            "id": 135692,
+            "text": "Cornerback",
+            "correct": false,
+            "count": "28,940",
+            "percent": "25.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/1/6",
+        "game_link": "/us/game/2019-02-03/1",
+        "correct_answers": 54598,
+        "incorrect_answers": 60966,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45270,
+        "text": "Which NFL team had the largest margin of victory in a single Super Bowl?",
+        "question_number": 7,
+        "eliminated": "22,073",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "38,745",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 135705,
+            "text": "New England Patriots",
+            "correct": false,
+            "count": "7,057",
+            "percent": "11.91%"
+          },
+          {
+            "id": 135710,
+            "text": "San Francisco 49ers",
+            "correct": true,
+            "count": "38,745",
+            "percent": "65.4%"
+          },
+          {
+            "id": 135716,
+            "text": "Dallas Cowboys",
+            "correct": false,
+            "count": "13,437",
+            "percent": "22.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/1/7",
+        "game_link": "/us/game/2019-02-03/1",
+        "correct_answers": 38745,
+        "incorrect_answers": 20494,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45276,
+        "text": "Which of these has NOT occurred in a Super Bowl?",
+        "question_number": 8,
+        "eliminated": "14,068",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "26,814",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 135725,
+            "text": "Shutout",
+            "correct": true,
+            "count": "26,814",
+            "percent": "67.17%"
+          },
+          {
+            "id": 135727,
+            "text": "Overtime",
+            "correct": false,
+            "count": "3,918",
+            "percent": "9.81%"
+          },
+          {
+            "id": 135736,
+            "text": "Blocked punt for TD",
+            "correct": false,
+            "count": "9,188",
+            "percent": "23.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/1/8",
+        "game_link": "/us/game/2019-02-03/1",
+        "correct_answers": 26814,
+        "incorrect_answers": 13106,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45286,
+        "text": "Which of these factors determines the Super Bowl âhome teamâ?",
+        "question_number": 9,
+        "eliminated": "15,243",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "13,922",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 135751,
+            "text": "Super Bowl number",
+            "correct": true,
+            "count": "13,922",
+            "percent": "48.46%"
+          },
+          {
+            "id": 135755,
+            "text": "Better team record",
+            "correct": false,
+            "count": "9,112",
+            "percent": "31.72%"
+          },
+          {
+            "id": 135758,
+            "text": "Coin flip",
+            "correct": false,
+            "count": "5,694",
+            "percent": "19.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/1/9",
+        "game_link": "/us/game/2019-02-03/1",
+        "correct_answers": 13922,
+        "incorrect_answers": 14806,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45295,
+        "text": "What Super Bowl matchup has happened the greatest number of times?",
+        "question_number": 10,
+        "eliminated": "8,102",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "8,638",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 135782,
+            "text": "Dallas / Pittsburgh",
+            "correct": true,
+            "count": "8,638",
+            "percent": "52.33%"
+          },
+          {
+            "id": 135785,
+            "text": "Miami / Washington",
+            "correct": false,
+            "count": "950",
+            "percent": "5.75%"
+          },
+          {
+            "id": 135788,
+            "text": "New England / New York",
+            "correct": false,
+            "count": "6,920",
+            "percent": "41.92%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/1/10",
+        "game_link": "/us/game/2019-02-03/1",
+        "correct_answers": 8638,
+        "incorrect_answers": 7870,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45300,
+        "text": "Which of these plays has happened on consecutive Super Bowl possessions?",
+        "question_number": 11,
+        "eliminated": "3,445",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "7,095",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 135795,
+            "text": "Safety",
+            "correct": false,
+            "count": "1,015",
+            "percent": "9.92%"
+          },
+          {
+            "id": 135803,
+            "text": "Kickoff return TD",
+            "correct": true,
+            "count": "7,095",
+            "percent": "69.31%"
+          },
+          {
+            "id": 135807,
+            "text": "Punt return TD",
+            "correct": false,
+            "count": "2,126",
+            "percent": "20.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/1/11",
+        "game_link": "/us/game/2019-02-03/1",
+        "correct_answers": 7095,
+        "incorrect_answers": 3141,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45312,
+        "text": "Who is the only QB with at least three Super Bowl wins to never throw a Super Bowl interception?",
+        "question_number": 12,
+        "eliminated": "3,749",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,012",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 135831,
+            "text": "Troy Aikman",
+            "correct": false,
+            "count": "1,969",
+            "percent": "25.81%"
+          },
+          {
+            "id": 135835,
+            "text": "Terry Bradshaw",
+            "correct": false,
+            "count": "1,647",
+            "percent": "21.59%"
+          },
+          {
+            "id": 135838,
+            "text": "Joe Montana",
+            "correct": true,
+            "count": "4,012",
+            "percent": "52.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/1/12",
+        "game_link": "/us/game/2019-02-03/1",
+        "correct_answers": 4012,
+        "incorrect_answers": 3616,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 48859,
+    "show_id": 9533,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "25,000",
+    "currency": "$",
+    "start_time": "2019-02-04T01:00:00Z",
+    "direct_link": "/us/game/2019-02-03/2",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "8,399",
+      "currency": "$",
+      "average_prize": "2.98"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Bacon",
+        "slug": "bacon"
+      }
+    ],
+    "questions": [
+      {
+        "id": 45317,
+        "text": "According to an old saying, if youâre doing well youâre âbringing home theâ what?",
+        "question_number": 1,
+        "eliminated": "9,082",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "602,385",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 135848,
+            "text": "Maroon 5",
+            "correct": false,
+            "count": "13,767",
+            "percent": "2.33%"
+          },
+          {
+            "id": 135851,
+            "text": "Bag of footballs",
+            "correct": false,
+            "count": "7,032",
+            "percent": "1.19%"
+          },
+          {
+            "id": 135853,
+            "text": "Bacon",
+            "correct": true,
+            "count": "569,692",
+            "percent": "96.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/2/1",
+        "game_link": "/us/game/2019-02-03/2",
+        "correct_answers": 569692,
+        "incorrect_answers": 20799,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45327,
+        "text": "When pork is cured to become bacon, which of these is most important?",
+        "question_number": 2,
+        "eliminated": "11,473",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "592,332",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 135876,
+            "text": "Baby Spice",
+            "correct": false,
+            "count": "9,453",
+            "percent": "1.63%"
+          },
+          {
+            "id": 135879,
+            "text": "Salt",
+            "correct": true,
+            "count": "565,341",
+            "percent": "97.56%"
+          },
+          {
+            "id": 135882,
+            "text": "Liz Lemon",
+            "correct": false,
+            "count": "4,713",
+            "percent": "0.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/2/2",
+        "game_link": "/us/game/2019-02-03/2",
+        "correct_answers": 565341,
+        "incorrect_answers": 14166,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45333,
+        "text": "A common movie trivia game based on Kevin Bacon is known as what?",
+        "question_number": 3,
+        "eliminated": "68,928",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "523,980",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 135893,
+            "text": "Five Films",
+            "correct": false,
+            "count": "34,712",
+            "percent": "6.3%"
+          },
+          {
+            "id": 135895,
+            "text": "Six Degrees",
+            "correct": true,
+            "count": "445,640",
+            "percent": "80.9%"
+          },
+          {
+            "id": 135897,
+            "text": "Four Questions",
+            "correct": false,
+            "count": "70,511",
+            "percent": "12.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/2/3",
+        "game_link": "/us/game/2019-02-03/2",
+        "correct_answers": 445640,
+        "incorrect_answers": 105223,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45339,
+        "text": "Bacon made specifically from pork loin is often called what in the US?",
+        "question_number": 4,
+        "eliminated": "17,282",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "511,888",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 135912,
+            "text": "Icelandic bacon",
+            "correct": false,
+            "count": "5,417",
+            "percent": "1.08%"
+          },
+          {
+            "id": 135913,
+            "text": "Canadian bacon",
+            "correct": true,
+            "count": "483,283",
+            "percent": "96.62%"
+          },
+          {
+            "id": 135914,
+            "text": "Swedish bacon",
+            "correct": false,
+            "count": "11,464",
+            "percent": "2.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/2/4",
+        "game_link": "/us/game/2019-02-03/2",
+        "correct_answers": 483283,
+        "incorrect_answers": 16881,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45347,
+        "text": "What Canadian legend starred in the â90s comedy âCanadian Baconâ?",
+        "question_number": 5,
+        "eliminated": "150,302",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "362,555",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 135936,
+            "text": "Martin Short",
+            "correct": false,
+            "count": "95,711",
+            "percent": "19.65%"
+          },
+          {
+            "id": 135937,
+            "text": "John Candy",
+            "correct": true,
+            "count": "298,524",
+            "percent": "61.28%"
+          },
+          {
+            "id": 135938,
+            "text": "Michael Myers",
+            "correct": false,
+            "count": "92,949",
+            "percent": "19.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/2/5",
+        "game_link": "/us/game/2019-02-03/2",
+        "correct_answers": 298524,
+        "incorrect_answers": 188660,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45356,
+        "text": "When cooking a strip of bacon on a hot skillet, which of the two main parts shrinks faster?",
+        "question_number": 6,
+        "eliminated": "140,745",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "235,600",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 135963,
+            "text": "Meat",
+            "correct": false,
+            "count": "89,890",
+            "percent": "24.77%"
+          },
+          {
+            "id": 135964,
+            "text": "Fat",
+            "correct": true,
+            "count": "235,261",
+            "percent": "64.83%"
+          },
+          {
+            "id": 135966,
+            "text": "Same rate",
+            "correct": false,
+            "count": "37,712",
+            "percent": "10.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/2/6",
+        "game_link": "/us/game/2019-02-03/2",
+        "correct_answers": 235261,
+        "incorrect_answers": 127602,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45365,
+        "text": "The English philosopher Francis Bacon is most closely associated with developing what?",
+        "question_number": 7,
+        "eliminated": "134,285",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "127,158",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 135989,
+            "text": "Metaphysics",
+            "correct": false,
+            "count": "47,671",
+            "percent": "18.69%"
+          },
+          {
+            "id": 135991,
+            "text": "Scientific method",
+            "correct": true,
+            "count": "127,158",
+            "percent": "49.85%"
+          },
+          {
+            "id": 135992,
+            "text": "Existentialism",
+            "correct": false,
+            "count": "80,254",
+            "percent": "31.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/2/7",
+        "game_link": "/us/game/2019-02-03/2",
+        "correct_answers": 127158,
+        "incorrect_answers": 127925,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45371,
+        "text": "Which of these meats is most similar to bacon?",
+        "question_number": 8,
+        "eliminated": "24,272",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "125,852",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 136008,
+            "text": "Bresaola",
+            "correct": false,
+            "count": "5,158",
+            "percent": "3.47%"
+          },
+          {
+            "id": 136009,
+            "text": "Pancetta",
+            "correct": true,
+            "count": "125,852",
+            "percent": "84.61%"
+          },
+          {
+            "id": 136012,
+            "text": "Capocollo",
+            "correct": false,
+            "count": "17,732",
+            "percent": "11.92%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/2/8",
+        "game_link": "/us/game/2019-02-03/2",
+        "correct_answers": 125852,
+        "incorrect_answers": 22890,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45381,
+        "text": "Which of these artists has released a single simply called âBaconâ?",
+        "question_number": 9,
+        "eliminated": "71,929",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "58,048",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 136040,
+            "text": "Nick Cannon",
+            "correct": false,
+            "count": "37,892",
+            "percent": "29.54%"
+          },
+          {
+            "id": 136043,
+            "text": "Nick Lachey",
+            "correct": false,
+            "count": "32,351",
+            "percent": "25.22%"
+          },
+          {
+            "id": 136045,
+            "text": "Nick Jonas",
+            "correct": true,
+            "count": "58,048",
+            "percent": "45.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/2/9",
+        "game_link": "/us/game/2019-02-03/2",
+        "correct_answers": 58048,
+        "incorrect_answers": 70243,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45388,
+        "text": "The word âbaconâ comes from a very old European word often translated as what?",
+        "question_number": 10,
+        "eliminated": "51,086",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "24,413",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 136058,
+            "text": "Cured",
+            "correct": false,
+            "count": "33,629",
+            "percent": "45.21%"
+          },
+          {
+            "id": 136060,
+            "text": "Pig",
+            "correct": false,
+            "count": "16,334",
+            "percent": "21.96%"
+          },
+          {
+            "id": 136065,
+            "text": "Buttock",
+            "correct": true,
+            "count": "24,413",
+            "percent": "32.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/2/10",
+        "game_link": "/us/game/2019-02-03/2",
+        "correct_answers": 24413,
+        "incorrect_answers": 49963,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45394,
+        "text": "One of the priciest paintings ever auctioned is a late â60s piece by Francis Bacon that depicts what?",
+        "question_number": 11,
+        "eliminated": "16,655",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "20,468",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 136085,
+            "text": "The pope",
+            "correct": false,
+            "count": "6,255",
+            "percent": "17.32%"
+          },
+          {
+            "id": 136089,
+            "text": "Another painter",
+            "correct": true,
+            "count": "20,468",
+            "percent": "56.69%"
+          },
+          {
+            "id": 136092,
+            "text": "An animal",
+            "correct": false,
+            "count": "9,383",
+            "percent": "25.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/2/11",
+        "game_link": "/us/game/2019-02-03/2",
+        "correct_answers": 20468,
+        "incorrect_answers": 15638,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45403,
+        "text": "Which of these actors is the most âdegreesâ separated from Kevin Bacon?",
+        "question_number": 12,
+        "eliminated": "14,776",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "8,399",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 136113,
+            "text": "Julia Roberts",
+            "correct": false,
+            "count": "5,597",
+            "percent": "24.37%"
+          },
+          {
+            "id": 136114,
+            "text": "Robert De Niro",
+            "correct": false,
+            "count": "8,973",
+            "percent": "39.07%"
+          },
+          {
+            "id": 136117,
+            "text": "Al Pacino",
+            "correct": true,
+            "count": "8,399",
+            "percent": "36.57%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-03/2/12",
+        "game_link": "/us/game/2019-02-03/2",
+        "correct_answers": 8399,
+        "incorrect_answers": 14570,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 48976,
+    "show_id": 9516,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-02-04T02:00:00Z",
+    "direct_link": "/us/game/2019-02-03/3",
+    "currency": "$",
+    "prize": "10,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "108.66"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "108.67"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "108.71"
+        },
+        {
+          "number": "997",
+          "amount": "9.78",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 9.775,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:00 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-02-03/3/1",
+        "question_number": 1,
+        "text": "Bite-Sized",
+        "answer": [
+          "SLIDERS"
+        ],
+        "initial_letters": [
+          "S"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "R"
+        ],
+        "game_link": "/us/game/2019-02-03/3",
+        "eliminated": 74050,
+        "advancing": 200435,
+        "correct_answers": 200435,
+        "incorrect_answers": 74050
+      },
+      {
+        "direct_link": "/us/game/2019-02-03/3/2",
+        "question_number": 2,
+        "text": "Requires Some Napkins",
+        "answer": [
+          "HOT",
+          "WINGS"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "N"
+        ],
+        "game_link": "/us/game/2019-02-03/3",
+        "eliminated": 26166,
+        "advancing": 177390,
+        "correct_answers": 177390,
+        "incorrect_answers": 26166
+      },
+      {
+        "direct_link": "/us/game/2019-02-03/3/3",
+        "question_number": 3,
+        "text": "Baked With Breadcrumbs",
+        "answer": [
+          "MAC",
+          "N",
+          "CHEESE"
+        ],
+        "initial_letters": [
+          " ",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "N"
+        ],
+        "game_link": "/us/game/2019-02-03/3",
+        "eliminated": 18893,
+        "advancing": 159569,
+        "correct_answers": 159569,
+        "incorrect_answers": 18893
+      },
+      {
+        "direct_link": "/us/game/2019-02-03/3/4",
+        "question_number": 4,
+        "text": "Whatâs the Cilantro For?",
+        "answer": [
+          "GUACAMOLE"
+        ],
+        "initial_letters": [
+          "E"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "O"
+        ],
+        "game_link": "/us/game/2019-02-03/3",
+        "eliminated": 29090,
+        "advancing": 131363,
+        "correct_answers": 131363,
+        "incorrect_answers": 29090
+      },
+      {
+        "direct_link": "/us/game/2019-02-03/3/5",
+        "question_number": 5,
+        "text": "Cute Name",
+        "answer": [
+          "PIGS",
+          "IN",
+          "A",
+          "BLANKET"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "N"
+        ],
+        "game_link": "/us/game/2019-02-03/3",
+        "eliminated": 5596,
+        "advancing": 127752,
+        "correct_answers": 127752,
+        "incorrect_answers": 5596
+      },
+      {
+        "direct_link": "/us/game/2019-02-03/3/6",
+        "question_number": 6,
+        "text": "Itâs Dip Time, Baby",
+        "answer": [
+          "CHIPS",
+          "&",
+          "QUESO"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "P",
+          "Q"
+        ],
+        "game_link": "/us/game/2019-02-03/3",
+        "eliminated": 6388,
+        "advancing": 121730,
+        "correct_answers": 121730,
+        "incorrect_answers": 6388
+      },
+      {
+        "direct_link": "/us/game/2019-02-03/3/7",
+        "question_number": 7,
+        "text": "Careful, Theyâre Hot",
+        "answer": [
+          "JALAPENO",
+          "POPPERS"
+        ],
+        "initial_letters": [
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "J",
+          "O"
+        ],
+        "game_link": "/us/game/2019-02-03/3",
+        "eliminated": 2941,
+        "advancing": 119387,
+        "correct_answers": 119387,
+        "incorrect_answers": 2941
+      },
+      {
+        "direct_link": "/us/game/2019-02-03/3/8",
+        "question_number": 8,
+        "text": "With the Works",
+        "answer": [
+          "LOADED",
+          "POTATO",
+          "SKINS"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "N"
+        ],
+        "game_link": "/us/game/2019-02-03/3",
+        "eliminated": 40552,
+        "advancing": 79213,
+        "correct_answers": 79213,
+        "incorrect_answers": 40552
+      },
+      {
+        "direct_link": "/us/game/2019-02-03/3/9",
+        "question_number": 9,
+        "text": "Which Side Are You On?",
+        "answer": [
+          "RANCH",
+          "OR",
+          "BLUE",
+          "CHEESE?"
+        ],
+        "initial_letters": [
+          " ",
+          "?",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "R"
+        ],
+        "game_link": "/us/game/2019-02-03/3",
+        "eliminated": 20546,
+        "advancing": 65404,
+        "correct_answers": 65404,
+        "incorrect_answers": 20546
+      },
+      {
+        "direct_link": "/us/game/2019-02-03/3/10",
+        "question_number": 10,
+        "text": "Super Bowl Spread",
+        "answer": [
+          "SNACK",
+          "FOOD",
+          "STADIUM"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "K",
+          "N"
+        ],
+        "game_link": "/us/game/2019-02-03/3",
+        "eliminated": 42616,
+        "advancing": 26835,
+        "correct_answers": 26835,
+        "incorrect_answers": 42616
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

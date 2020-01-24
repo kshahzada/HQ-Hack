@@ -1,0 +1,1231 @@
+[
+  {
+    "id": 116812,
+    "show_id": 11624,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "200,000",
+    "currency": "$",
+    "start_time": "2019-06-28T01:00:00Z",
+    "direct_link": "/us/game/2019-06-27/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Checkpoints",
+        "slug": "checkpoints"
+      }
+    ],
+    "questions": [
+      {
+        "id": 124072,
+        "text": "Which of these is a song from âThe Little Mermaidâ?",
+        "question_number": 1,
+        "eliminated": "-2,230",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "264,601",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260582,
+            "text": "Under the Sea",
+            "correct": true,
+            "count": "253,215",
+            "percent": "99.39%"
+          },
+          {
+            "id": 260583,
+            "text": "Under the Tree",
+            "correct": false,
+            "count": "1,143",
+            "percent": "0.45%"
+          },
+          {
+            "id": 260584,
+            "text": "Under the Chimpanzee",
+            "correct": false,
+            "count": "401",
+            "percent": "0.16%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-27/1/1",
+        "game_link": "/us/game/2019-06-27/1",
+        "correct_answers": 253215,
+        "incorrect_answers": 1544,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 124087,
+        "text": "Will Smith plays what role in the live-action version of âAladdinâ?",
+        "question_number": 2,
+        "eliminated": "4,142",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "260,636",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260603,
+            "text": "Jafar",
+            "correct": false,
+            "count": "7,512",
+            "percent": "2.91%"
+          },
+          {
+            "id": 260605,
+            "text": "Genie",
+            "correct": true,
+            "count": "238,092",
+            "percent": "92.19%"
+          },
+          {
+            "id": 260608,
+            "text": "Aladdin",
+            "correct": false,
+            "count": "12,654",
+            "percent": "4.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-27/1/2",
+        "game_link": "/us/game/2019-06-27/1",
+        "correct_answers": 238092,
+        "incorrect_answers": 20166,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 124105,
+        "text": "What is the name of Pinocchioâs parent figure?",
+        "question_number": 3,
+        "eliminated": "3,431",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "257,539",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260628,
+            "text": "Pinocchio Sr.",
+            "correct": false,
+            "count": "1,385",
+            "percent": "0.54%"
+          },
+          {
+            "id": 260632,
+            "text": "Gaston",
+            "correct": false,
+            "count": "5,285",
+            "percent": "2.08%"
+          },
+          {
+            "id": 260639,
+            "text": "Gepetto",
+            "correct": true,
+            "count": "247,656",
+            "percent": "97.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-27/1/3",
+        "game_link": "/us/game/2019-06-27/1",
+        "correct_answers": 247656,
+        "incorrect_answers": 6670,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 124119,
+        "text": "Who wrote this song?",
+        "question_number": 4,
+        "eliminated": "8,201",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "249,626",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260651,
+            "text": "Bruce Springsteen",
+            "correct": false,
+            "count": "4,306",
+            "percent": "1.71%"
+          },
+          {
+            "id": 260653,
+            "text": "Elton John",
+            "correct": false,
+            "count": "16,973",
+            "percent": "6.72%"
+          },
+          {
+            "id": 260654,
+            "text": "Phil Collins",
+            "correct": true,
+            "count": "231,253",
+            "percent": "91.57%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-27/1/4",
+        "game_link": "/us/game/2019-06-27/1",
+        "correct_answers": 231253,
+        "incorrect_answers": 21279,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 124137,
+        "text": "In which of these movies does a cat end up helping the heroes?",
+        "question_number": 5,
+        "eliminated": "54,051",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "196,422",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260677,
+            "text": "Lady and the Tramp",
+            "correct": false,
+            "count": "108,261",
+            "percent": "45.42%"
+          },
+          {
+            "id": 260680,
+            "text": "101 Dalmatians",
+            "correct": true,
+            "count": "84,622",
+            "percent": "35.5%"
+          },
+          {
+            "id": 260685,
+            "text": "Cinderella",
+            "correct": false,
+            "count": "45,494",
+            "percent": "19.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-27/1/5",
+        "game_link": "/us/game/2019-06-27/1",
+        "correct_answers": 84622,
+        "incorrect_answers": 153755,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 124153,
+        "text": "What task does Cinderella generally get saddled with, according to the lyrics of the miceâs song?",
+        "question_number": 6,
+        "eliminated": "62,113",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "143,242",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260703,
+            "text": "Fix the breakfast",
+            "correct": true,
+            "count": "24,665",
+            "percent": "12.86%"
+          },
+          {
+            "id": 260705,
+            "text": "Make the bed",
+            "correct": false,
+            "count": "37,971",
+            "percent": "19.81%"
+          },
+          {
+            "id": 260707,
+            "text": "Do the sewing",
+            "correct": false,
+            "count": "129,087",
+            "percent": "67.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-27/1/6",
+        "game_link": "/us/game/2019-06-27/1",
+        "correct_answers": 24665,
+        "incorrect_answers": 167058,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 124173,
+        "text": "What is Princess Aurora holding when sheâs awakened from her slumber?",
+        "question_number": 7,
+        "eliminated": "13,070",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "144,477",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260732,
+            "text": "Woven basket",
+            "correct": false,
+            "count": "8,113",
+            "percent": "5.34%"
+          },
+          {
+            "id": 260734,
+            "text": "Colorful bouquet",
+            "correct": false,
+            "count": "16,342",
+            "percent": "10.76%"
+          },
+          {
+            "id": 260741,
+            "text": "One rose",
+            "correct": true,
+            "count": "127,355",
+            "percent": "83.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-27/1/7",
+        "game_link": "/us/game/2019-06-27/1",
+        "correct_answers": 127355,
+        "incorrect_answers": 24455,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 124183,
+        "text": "What kind of animal does Pocahontas save from Johnâs weapon in the Oscar-nominated song sequence?",
+        "question_number": 8,
+        "eliminated": "66,013",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "81,219",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260747,
+            "text": "Wolf",
+            "correct": false,
+            "count": "14,812",
+            "percent": "10.31%"
+          },
+          {
+            "id": 260750,
+            "text": "Raccoon",
+            "correct": false,
+            "count": "88,065",
+            "percent": "61.32%"
+          },
+          {
+            "id": 260753,
+            "text": "Bear",
+            "correct": true,
+            "count": "40,735",
+            "percent": "28.36%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-27/1/8",
+        "game_link": "/us/game/2019-06-27/1",
+        "correct_answers": 40735,
+        "incorrect_answers": 102877,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 124200,
+        "text": "In âA Goofy Movie,â Goofyâs list of potential road trip activities specifically includes which game?",
+        "question_number": 9,
+        "eliminated": "55,261",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "47,852",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260772,
+            "text": "Simon Says",
+            "correct": true,
+            "count": "47,852",
+            "percent": "48.54%"
+          },
+          {
+            "id": 260775,
+            "text": "Name That Song",
+            "correct": false,
+            "count": "27,825",
+            "percent": "28.23%"
+          },
+          {
+            "id": 260779,
+            "text": "Musical Chairs",
+            "correct": false,
+            "count": "22,901",
+            "percent": "23.23%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-27/1/9",
+        "game_link": "/us/game/2019-06-27/1",
+        "correct_answers": 47852,
+        "incorrect_answers": 50726,
+        "savage": true,
+        "checkpoint": {
+          "round_number": 9,
+          "players_left": 36414,
+          "players_left_formatted": "36,414",
+          "num_winners": 11438,
+          "num_winners_formatted": "11,438",
+          "prize": 0.06,
+          "prize_formatted": "$0.06",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 124213,
+        "text": "What does the Hercules action figure do in the Disney movie of the same title?",
+        "question_number": 10,
+        "eliminated": "19,719",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "27,133",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260792,
+            "text": "Flex muscles",
+            "correct": true,
+            "count": "27,101",
+            "percent": "76.64%"
+          },
+          {
+            "id": 260793,
+            "text": "Make thunder sound",
+            "correct": false,
+            "count": "3,773",
+            "percent": "10.67%"
+          },
+          {
+            "id": 260795,
+            "text": "Swing sword",
+            "correct": false,
+            "count": "4,487",
+            "percent": "12.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-27/1/10",
+        "game_link": "/us/game/2019-06-27/1",
+        "correct_answers": 27101,
+        "incorrect_answers": 8260,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 124229,
+        "text": "What type of animal is NOT jailed during Frankâs escape scene in âRescuers Down Underâ?",
+        "question_number": 11,
+        "eliminated": "13,739",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "16,542",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260816,
+            "text": "Kangaroo",
+            "correct": false,
+            "count": "3,912",
+            "percent": "13.16%"
+          },
+          {
+            "id": 260817,
+            "text": "Koala",
+            "correct": false,
+            "count": "9,282",
+            "percent": "31.21%"
+          },
+          {
+            "id": 260818,
+            "text": "Mouse",
+            "correct": true,
+            "count": "16,542",
+            "percent": "55.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-27/1/11",
+        "game_link": "/us/game/2019-06-27/1",
+        "correct_answers": 16542,
+        "incorrect_answers": 13194,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 124245,
+        "text": "Which Disney Princess has the most costume changes?",
+        "question_number": 12,
+        "eliminated": "8,278",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "15,224",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260840,
+            "text": "Aurora",
+            "correct": false,
+            "count": "4,417",
+            "percent": "18.87%"
+          },
+          {
+            "id": 260841,
+            "text": "Ariel",
+            "correct": false,
+            "count": "3,767",
+            "percent": "16.09%"
+          },
+          {
+            "id": 260842,
+            "text": "Tiana",
+            "correct": true,
+            "count": "15,224",
+            "percent": "65.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-27/1/12",
+        "game_link": "/us/game/2019-06-27/1",
+        "correct_answers": 15224,
+        "incorrect_answers": 8184,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 124261,
+        "text": "The first Disney animated film to not feature any songs contained which sidekick?",
+        "question_number": 13,
+        "eliminated": "16,790",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,860",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260864,
+            "text": "Archimedes",
+            "correct": false,
+            "count": "12,598",
+            "percent": "66.64%"
+          },
+          {
+            "id": 260867,
+            "text": "Big Mama",
+            "correct": false,
+            "count": "3,447",
+            "percent": "18.23%"
+          },
+          {
+            "id": 260871,
+            "text": "Gurgi",
+            "correct": true,
+            "count": "2,860",
+            "percent": "15.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-27/1/13",
+        "game_link": "/us/game/2019-06-27/1",
+        "correct_answers": 2860,
+        "incorrect_answers": 16045,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 13,
+          "players_left": 1744,
+          "players_left_formatted": "1,744",
+          "num_winners": 1116,
+          "num_winners_formatted": "1,116",
+          "prize": 0.7,
+          "prize_formatted": "$0.70",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 124277,
+        "text": "The origin of the word âdudeâ is probably connected to which of these?",
+        "question_number": 14,
+        "eliminated": "1,555",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "301",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260888,
+            "text": "Horse",
+            "correct": false,
+            "count": "1,102",
+            "percent": "65.67%"
+          },
+          {
+            "id": 260891,
+            "text": "Clothing",
+            "correct": true,
+            "count": "301",
+            "percent": "17.94%"
+          },
+          {
+            "id": 260897,
+            "text": "Biblical verse",
+            "correct": false,
+            "count": "275",
+            "percent": "16.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-27/1/14",
+        "game_link": "/us/game/2019-06-27/1",
+        "correct_answers": 301,
+        "incorrect_answers": 1377,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 124294,
+        "text": "Which of these is NOT one of Singaporeâs official languages?",
+        "question_number": 15,
+        "eliminated": "113",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "188",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260914,
+            "text": "Hindi",
+            "correct": true,
+            "count": "188",
+            "percent": "62.46%"
+          },
+          {
+            "id": 260916,
+            "text": "English",
+            "correct": false,
+            "count": "38",
+            "percent": "12.62%"
+          },
+          {
+            "id": 260917,
+            "text": "Tamil",
+            "correct": false,
+            "count": "75",
+            "percent": "24.92%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-27/1/15",
+        "game_link": "/us/game/2019-06-27/1",
+        "correct_answers": 188,
+        "incorrect_answers": 113,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 124311,
+        "text": "Which artist painted this painting?",
+        "question_number": 16,
+        "eliminated": "58",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "128",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260940,
+            "text": "Pablo Picasso",
+            "correct": false,
+            "count": "10",
+            "percent": "5.43%"
+          },
+          {
+            "id": 260942,
+            "text": "Henri Matisse",
+            "correct": false,
+            "count": "45",
+            "percent": "24.46%"
+          },
+          {
+            "id": 260945,
+            "text": "Wassily Kandinsky",
+            "correct": true,
+            "count": "129",
+            "percent": "70.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-27/1/16",
+        "game_link": "/us/game/2019-06-27/1",
+        "correct_answers": 129,
+        "incorrect_answers": 55,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 124327,
+        "text": "Which of these actors portrayed the man known as âthe hero of two worldsâ?",
+        "question_number": 17,
+        "eliminated": "78",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "47",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260962,
+            "text": "Martin Sheen",
+            "correct": false,
+            "count": "22",
+            "percent": "18.03%"
+          },
+          {
+            "id": 260965,
+            "text": "Ed Harris",
+            "correct": false,
+            "count": "53",
+            "percent": "43.44%"
+          },
+          {
+            "id": 260970,
+            "text": "Daveed Diggs",
+            "correct": true,
+            "count": "47",
+            "percent": "38.52%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-27/1/17",
+        "game_link": "/us/game/2019-06-27/1",
+        "correct_answers": 47,
+        "incorrect_answers": 75,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 17,
+          "players_left": 5,
+          "players_left_formatted": "5",
+          "num_winners": 41,
+          "num_winners_formatted": "41",
+          "prize": 65.22,
+          "prize_formatted": "$65.22",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 124342,
+        "text": "Which is the capital of a US state whose name is NOT derived from a Native American word?",
+        "question_number": 18,
+        "eliminated": "3",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "2",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260986,
+            "text": "Carson City",
+            "correct": true,
+            "count": "3",
+            "percent": "60.0%"
+          },
+          {
+            "id": 260988,
+            "text": "Columbus",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 260990,
+            "text": "Montgomery",
+            "correct": false,
+            "count": "2",
+            "percent": "40.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-27/1/18",
+        "game_link": "/us/game/2019-06-27/1",
+        "correct_answers": 3,
+        "incorrect_answers": 2,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 124361,
+        "text": "Which of these is considered a meridian in the ancient meditation Qigong?",
+        "question_number": 19,
+        "eliminated": "1",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "1",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 261014,
+            "text": "Lung",
+            "correct": true,
+            "count": "1",
+            "percent": "50.0%"
+          },
+          {
+            "id": 261016,
+            "text": "Feet",
+            "correct": false,
+            "count": "1",
+            "percent": "50.0%"
+          },
+          {
+            "id": 261017,
+            "text": "Hands",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-27/1/19",
+        "game_link": "/us/game/2019-06-27/1",
+        "correct_answers": 1,
+        "incorrect_answers": 1,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 124373,
+        "text": "The planet in our solar system with the least atmosphere is named after the Roman god of what?",
+        "question_number": 20,
+        "eliminated": "1",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "0",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 261032,
+            "text": "Commerce",
+            "correct": true,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 261033,
+            "text": "Water",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 261034,
+            "text": "Love",
+            "correct": false,
+            "count": "1",
+            "percent": "100.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-27/1/20",
+        "game_link": "/us/game/2019-06-27/1",
+        "correct_answers": 0,
+        "incorrect_answers": 1,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [
+      {
+        "round_number": 9,
+        "players_left": 36414,
+        "players_left_formatted": "36,414",
+        "num_winners": 11438,
+        "num_winners_formatted": "11,438",
+        "prize": 0.06,
+        "prize_formatted": "$0.06",
+        "currency": "$"
+      },
+      {
+        "round_number": 13,
+        "players_left": 1744,
+        "players_left_formatted": "1,744",
+        "num_winners": 1116,
+        "num_winners_formatted": "1,116",
+        "prize": 0.7,
+        "prize_formatted": "$0.70",
+        "currency": "$"
+      },
+      {
+        "round_number": 17,
+        "players_left": 5,
+        "players_left_formatted": "5",
+        "num_winners": 41,
+        "num_winners_formatted": "41",
+        "prize": 65.22,
+        "prize_formatted": "$65.22",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "4,141.50",
+    "total_checkpoint_winners": "12,595",
+    "smallest_checkpoint_prize": "$0.06",
+    "largest_checkpoint_prize": "$65.22",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 116995,
+    "show_id": 11549,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-06-28T01:30:00Z",
+    "direct_link": "/us/game/2019-06-27/2",
+    "currency": "$",
+    "prize": "2,000",
+    "summary": {
+      "winner_count": "13,002",
+      "currency": "$",
+      "average_prize": "0.15"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-06-27/2/1",
+        "question_number": 1,
+        "text": "Animated Animals",
+        "answer": [
+          "ZOOTOPIA"
+        ],
+        "initial_letters": [
+          "\"Z\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "I"
+        ],
+        "game_link": "/us/game/2019-06-27/2",
+        "eliminated": 11148,
+        "advancing": 114897,
+        "correct_answers": 114897,
+        "incorrect_answers": 11148
+      },
+      {
+        "direct_link": "/us/game/2019-06-27/2/2",
+        "question_number": 2,
+        "text": "Classic Snoozer",
+        "answer": [
+          "SLEEPING",
+          "BEAUTY"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"U\""
+        ],
+        "to_reveal_letters": [
+          "B",
+          "S"
+        ],
+        "game_link": "/us/game/2019-06-27/2",
+        "eliminated": 21898,
+        "advancing": 93625,
+        "correct_answers": 93625,
+        "incorrect_answers": 21898
+      },
+      {
+        "direct_link": "/us/game/2019-06-27/2/3",
+        "question_number": 3,
+        "text": "Seasonal Contract",
+        "answer": [
+          "THE",
+          "SANTA",
+          "CLAUSE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"L\""
+        ],
+        "to_reveal_letters": [
+          "C",
+          "H"
+        ],
+        "game_link": "/us/game/2019-06-27/2",
+        "eliminated": 23338,
+        "advancing": 71593,
+        "correct_answers": 71593,
+        "incorrect_answers": 23338
+      },
+      {
+        "direct_link": "/us/game/2019-06-27/2/4",
+        "question_number": 4,
+        "text": "Recent Sequel",
+        "answer": [
+          "MARY",
+          "POPPINS",
+          "RETURNS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"E\""
+        ],
+        "to_reveal_letters": [
+          "P",
+          "R"
+        ],
+        "game_link": "/us/game/2019-06-27/2",
+        "eliminated": 11576,
+        "advancing": 61552,
+        "correct_answers": 61552,
+        "incorrect_answers": 11576
+      },
+      {
+        "direct_link": "/us/game/2019-06-27/2/5",
+        "question_number": 5,
+        "text": "Plot of Forest",
+        "answer": [
+          "HUNDRED",
+          "ACRE",
+          "WOOD"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"W\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "U"
+        ],
+        "game_link": "/us/game/2019-06-27/2",
+        "eliminated": 13555,
+        "advancing": 48917,
+        "correct_answers": 48917,
+        "incorrect_answers": 13555
+      },
+      {
+        "direct_link": "/us/game/2019-06-27/2/6",
+        "question_number": 6,
+        "text": "Villainous Song",
+        "answer": [
+          "POOR",
+          "UNFORTUNATE",
+          "SOULS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"U\""
+        ],
+        "to_reveal_letters": [
+          "F",
+          "O"
+        ],
+        "game_link": "/us/game/2019-06-27/2",
+        "eliminated": 7002,
+        "advancing": 42966,
+        "correct_answers": 42966,
+        "incorrect_answers": 7002
+      },
+      {
+        "direct_link": "/us/game/2019-06-27/2/7",
+        "question_number": 7,
+        "text": "Scientific Uh-Oh",
+        "answer": [
+          "HONEY,",
+          "I",
+          "SHRUNK",
+          "THE",
+          "KIDS"
+        ],
+        "initial_letters": [
+          "\",\"",
+          "\" \"",
+          "\"Y\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "N"
+        ],
+        "game_link": "/us/game/2019-06-27/2",
+        "eliminated": 3636,
+        "advancing": 40079,
+        "correct_answers": 40079,
+        "incorrect_answers": 3636
+      },
+      {
+        "direct_link": "/us/game/2019-06-27/2/8",
+        "question_number": 8,
+        "text": "Famous Romantic Scene",
+        "answer": [
+          "DOGS",
+          "SHARING",
+          "SPAGHETTI"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"O\""
+        ],
+        "to_reveal_letters": [
+          "R",
+          "T"
+        ],
+        "game_link": "/us/game/2019-06-27/2",
+        "eliminated": 8517,
+        "advancing": 32058,
+        "correct_answers": 32058,
+        "incorrect_answers": 8517
+      },
+      {
+        "direct_link": "/us/game/2019-06-27/2/9",
+        "question_number": 9,
+        "text": "Arielâs Stash",
+        "answer": [
+          "WHOZITS",
+          "&",
+          "WHATZITS",
+          "GALORE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"&\"",
+          "\"A\""
+        ],
+        "to_reveal_letters": [
+          "H",
+          "L"
+        ],
+        "game_link": "/us/game/2019-06-27/2",
+        "eliminated": 16914,
+        "advancing": 16623,
+        "correct_answers": 16623,
+        "incorrect_answers": 16914
+      },
+      {
+        "direct_link": "/us/game/2019-06-27/2/10",
+        "question_number": 10,
+        "text": "City You Forgot About",
+        "answer": [
+          "ATLANTIS:",
+          "THE",
+          "LOST",
+          "EMPIRE"
+        ],
+        "initial_letters": [
+          "\":\"",
+          "\" \"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "M",
+          "T"
+        ],
+        "game_link": "/us/game/2019-06-27/2",
+        "eliminated": 657,
+        "advancing": 19959,
+        "correct_answers": 19959,
+        "incorrect_answers": 657
+      },
+      {
+        "direct_link": "/us/game/2019-06-27/2/11",
+        "question_number": 11,
+        "text": "Character / Song",
+        "answer": [
+          "POCAHONTAS",
+          "/",
+          "COLORS",
+          "OF",
+          "THE",
+          "WIND"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"/\"",
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "D",
+          "P"
+        ],
+        "game_link": "/us/game/2019-06-27/2",
+        "eliminated": 2883,
+        "advancing": 17187,
+        "correct_answers": 17187,
+        "incorrect_answers": 2883
+      },
+      {
+        "direct_link": "/us/game/2019-06-27/2/12",
+        "question_number": 12,
+        "text": "Claymation Character / Nickname",
+        "answer": [
+          "JACK",
+          "SKELLINGTON",
+          "/",
+          "PUMPKIN",
+          "KING"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"/\"",
+          "\"I\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "P"
+        ],
+        "game_link": "/us/game/2019-06-27/2",
+        "eliminated": 4924,
+        "advancing": 13002,
+        "correct_answers": 13002,
+        "incorrect_answers": 4924
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

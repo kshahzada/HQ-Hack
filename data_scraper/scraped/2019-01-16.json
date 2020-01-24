@@ -1,0 +1,1338 @@
+[
+  {
+    "id": 44496,
+    "show_id": 8705,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-01-17T00:00:00Z",
+    "direct_link": "/us/game/2019-01-16/1",
+    "time": " 7:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "4,788",
+      "currency": "$",
+      "average_prize": "0.21"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "WWE",
+        "slug": "wwe"
+      },
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 42503,
+        "text": "According to a current guitar-playing WWE superstar, what does âWWEâ stand for?",
+        "question_number": 1,
+        "eliminated": "75,480",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "67,446",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127402,
+            "text": "Why Would Ernie?",
+            "correct": false,
+            "count": "6,316",
+            "percent": "5.07%"
+          },
+          {
+            "id": 127406,
+            "text": "Walk With Elias",
+            "correct": true,
+            "count": "67,446",
+            "percent": "54.09%"
+          },
+          {
+            "id": 127409,
+            "text": "Wild Wild East",
+            "correct": false,
+            "count": "50,920",
+            "percent": "40.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/1/1",
+        "game_link": "/us/game/2019-01-16/1",
+        "correct_answers": 67446,
+        "incorrect_answers": 57236,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42511,
+        "text": "In the WWE Universe, how often does the holiday known as âRusev Dayâ take place?",
+        "question_number": 2,
+        "eliminated": "24,316",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "48,129",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127427,
+            "text": "Every day",
+            "correct": true,
+            "count": "48,129",
+            "percent": "69.4%"
+          },
+          {
+            "id": 127429,
+            "text": "Only Mondays",
+            "correct": false,
+            "count": "14,023",
+            "percent": "20.22%"
+          },
+          {
+            "id": 127432,
+            "text": "Once a year",
+            "correct": false,
+            "count": "7,199",
+            "percent": "10.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/1/2",
+        "game_link": "/us/game/2019-01-16/1",
+        "correct_answers": 48129,
+        "incorrect_answers": 21222,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42520,
+        "text": "Who ended the Undertakerâs 21-match Wrestlemania winning streak?",
+        "question_number": 3,
+        "eliminated": "6,156",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "43,723",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127455,
+            "text": "Shawn Michaels",
+            "correct": false,
+            "count": "2,163",
+            "percent": "4.39%"
+          },
+          {
+            "id": 127462,
+            "text": "Brock Lesnar",
+            "correct": true,
+            "count": "43,723",
+            "percent": "88.73%"
+          },
+          {
+            "id": 127466,
+            "text": "Roman Reigns",
+            "correct": false,
+            "count": "3,389",
+            "percent": "6.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/1/3",
+        "game_link": "/us/game/2019-01-16/1",
+        "correct_answers": 43723,
+        "incorrect_answers": 5552,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42526,
+        "text": "Who was the first woman to win the Intercontinental Championship?",
+        "question_number": 4,
+        "eliminated": "4,618",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "39,975",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127481,
+            "text": "Chyna",
+            "correct": true,
+            "count": "39,975",
+            "percent": "90.25%"
+          },
+          {
+            "id": 127485,
+            "text": "Trish Stratus",
+            "correct": false,
+            "count": "2,404",
+            "percent": "5.43%"
+          },
+          {
+            "id": 127489,
+            "text": "Lita",
+            "correct": false,
+            "count": "1,916",
+            "percent": "4.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/1/4",
+        "game_link": "/us/game/2019-01-16/1",
+        "correct_answers": 39975,
+        "incorrect_answers": 4320,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42534,
+        "text": "What â90s ad catchphrase would the Dudley Boyz yell before landing a headbutt to the groin?",
+        "question_number": 5,
+        "eliminated": "2,527",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "38,211",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127497,
+            "text": "Wazzup?!",
+            "correct": true,
+            "count": "38,211",
+            "percent": "94.95%"
+          },
+          {
+            "id": 127500,
+            "text": "Youâve got mail",
+            "correct": false,
+            "count": "1,180",
+            "percent": "2.93%"
+          },
+          {
+            "id": 127505,
+            "text": "Avoid the Noid",
+            "correct": false,
+            "count": "854",
+            "percent": "2.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/1/5",
+        "game_link": "/us/game/2019-01-16/1",
+        "correct_answers": 38211,
+        "incorrect_answers": 2034,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42543,
+        "text": "What was the nickname of Goldustâs real-life father?",
+        "question_number": 6,
+        "eliminated": "1,718",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "36,836",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127521,
+            "text": "The American Dream",
+            "correct": true,
+            "count": "36,836",
+            "percent": "95.96%"
+          },
+          {
+            "id": 127523,
+            "text": "Mr. Wonderful",
+            "correct": false,
+            "count": "1,000",
+            "percent": "2.6%"
+          },
+          {
+            "id": 127529,
+            "text": "The Nature Boy",
+            "correct": false,
+            "count": "552",
+            "percent": "1.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/1/6",
+        "game_link": "/us/game/2019-01-16/1",
+        "correct_answers": 36836,
+        "incorrect_answers": 1552,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42550,
+        "text": "What wrestler held the WWE championship belt for the greatest combined number of days?",
+        "question_number": 7,
+        "eliminated": "9,404",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "27,647",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127545,
+            "text": "Bruno Sammartino",
+            "correct": true,
+            "count": "27,647",
+            "percent": "77.06%"
+          },
+          {
+            "id": 127546,
+            "text": "Stone Cold Steve Austin",
+            "correct": false,
+            "count": "2,572",
+            "percent": "7.17%"
+          },
+          {
+            "id": 127548,
+            "text": "Hulk Hogan",
+            "correct": false,
+            "count": "5,659",
+            "percent": "15.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/1/7",
+        "game_link": "/us/game/2019-01-16/1",
+        "correct_answers": 27647,
+        "incorrect_answers": 8231,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42559,
+        "text": "What wrestler was NOT part of the tag team known as âThe New Age Outlawsâ?",
+        "question_number": 8,
+        "eliminated": "1,206",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "28,204",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127569,
+            "text": "Road Dogg",
+            "correct": false,
+            "count": "394",
+            "percent": "1.35%"
+          },
+          {
+            "id": 127571,
+            "text": "X-Pac",
+            "correct": true,
+            "count": "28,208",
+            "percent": "96.34%"
+          },
+          {
+            "id": 127575,
+            "text": "Billy Gunn",
+            "correct": false,
+            "count": "679",
+            "percent": "2.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/1/8",
+        "game_link": "/us/game/2019-01-16/1",
+        "correct_answers": 28208,
+        "incorrect_answers": 1073,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42565,
+        "text": "Which wrestler won the Royal Rumble as one of the first two entrants?",
+        "question_number": 9,
+        "eliminated": "15,967",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "12,514",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127590,
+            "text": "Stone Cold Steve Austin",
+            "correct": false,
+            "count": "9,901",
+            "percent": "35.29%"
+          },
+          {
+            "id": 127591,
+            "text": "Ric Flair",
+            "correct": false,
+            "count": "5,639",
+            "percent": "20.1%"
+          },
+          {
+            "id": 127596,
+            "text": "Vince McMahon",
+            "correct": true,
+            "count": "12,514",
+            "percent": "44.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/1/9",
+        "game_link": "/us/game/2019-01-16/1",
+        "correct_answers": 12514,
+        "incorrect_answers": 15540,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42574,
+        "text": "Which event features the greatest number of turnbuckles?",
+        "question_number": 10,
+        "eliminated": "774",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "17,201",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127614,
+            "text": "Survivor Series",
+            "correct": false,
+            "count": "300",
+            "percent": "1.68%"
+          },
+          {
+            "id": 127617,
+            "text": "War Games",
+            "correct": true,
+            "count": "17,201",
+            "percent": "96.11%"
+          },
+          {
+            "id": 127622,
+            "text": "Royal Rumble",
+            "correct": false,
+            "count": "396",
+            "percent": "2.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/1/10",
+        "game_link": "/us/game/2019-01-16/1",
+        "correct_answers": 17201,
+        "incorrect_answers": 696,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42581,
+        "text": "What city is represented by the area code that lends its name to Rey Mysterioâs finishing move?",
+        "question_number": 11,
+        "eliminated": "1,354",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "15,944",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127638,
+            "text": "El Paso",
+            "correct": false,
+            "count": "708",
+            "percent": "4.13%"
+          },
+          {
+            "id": 127640,
+            "text": "Santa Fe",
+            "correct": false,
+            "count": "481",
+            "percent": "2.81%"
+          },
+          {
+            "id": 127644,
+            "text": "San Diego",
+            "correct": true,
+            "count": "15,945",
+            "percent": "93.06%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/1/11",
+        "game_link": "/us/game/2019-01-16/1",
+        "correct_answers": 15945,
+        "incorrect_answers": 1189,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42590,
+        "text": "Which of these wrestlers was at one time considered a âGrand Slamâ champion in WWE?",
+        "question_number": 12,
+        "eliminated": "11,406",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,788",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127662,
+            "text": "John Cena",
+            "correct": false,
+            "count": "7,158",
+            "percent": "45.74%"
+          },
+          {
+            "id": 127665,
+            "text": "CM Punk",
+            "correct": false,
+            "count": "3,702",
+            "percent": "23.66%"
+          },
+          {
+            "id": 127669,
+            "text": "Rob Van Dam",
+            "correct": true,
+            "count": "4,788",
+            "percent": "30.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/1/12",
+        "game_link": "/us/game/2019-01-16/1",
+        "correct_answers": 4788,
+        "incorrect_answers": 10860,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 44615,
+    "show_id": 9331,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-01-17T02:00:00Z",
+    "direct_link": "/us/game/2019-01-16/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,187",
+      "currency": "$",
+      "average_prize": "4.21"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "TV",
+        "slug": "tv"
+      }
+    ],
+    "questions": [
+      {
+        "id": 42597,
+        "text": "What TV show has long been associated with the phrase \"Winter is coming\"?",
+        "question_number": 1,
+        "eliminated": "39,736",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "295,651",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127686,
+            "text": "Grey's Anatomy",
+            "correct": false,
+            "count": "13,464",
+            "percent": "4.04%"
+          },
+          {
+            "id": 127687,
+            "text": "Parks and Recreation",
+            "correct": false,
+            "count": "24,293",
+            "percent": "7.29%"
+          },
+          {
+            "id": 127688,
+            "text": "Game of Thrones",
+            "correct": true,
+            "count": "295,651",
+            "percent": "88.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/2/1",
+        "game_link": "/us/game/2019-01-16/2",
+        "correct_answers": 295651,
+        "incorrect_answers": 37757,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42605,
+        "text": "The coldest natural temperatures on Earth have been recorded where?",
+        "question_number": 2,
+        "eliminated": "6,144",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "295,010",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127710,
+            "text": "Antarctica",
+            "correct": true,
+            "count": "295,010",
+            "percent": "99.51%"
+          },
+          {
+            "id": 127711,
+            "text": "Elon Muskâs bedroom",
+            "correct": false,
+            "count": "816",
+            "percent": "0.28%"
+          },
+          {
+            "id": 127715,
+            "text": "Dairy Queen",
+            "correct": false,
+            "count": "630",
+            "percent": "0.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/2/2",
+        "game_link": "/us/game/2019-01-16/2",
+        "correct_answers": 295010,
+        "incorrect_answers": 1446,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42613,
+        "text": "By definition, when does âaprÃ¨s-skiâ usually occur?",
+        "question_number": 3,
+        "eliminated": "95,108",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "200,282",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127734,
+            "text": "Before skiing",
+            "correct": false,
+            "count": "64,000",
+            "percent": "22.02%"
+          },
+          {
+            "id": 127735,
+            "text": "During skiing",
+            "correct": false,
+            "count": "26,371",
+            "percent": "9.07%"
+          },
+          {
+            "id": 127736,
+            "text": "After skiing",
+            "correct": true,
+            "count": "200,282",
+            "percent": "68.91%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/2/3",
+        "game_link": "/us/game/2019-01-16/2",
+        "correct_answers": 200282,
+        "incorrect_answers": 90371,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42621,
+        "text": "A âMay/December romanceâ typically describes what kind of relationship?",
+        "question_number": 4,
+        "eliminated": "99,286",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "108,667",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127758,
+            "text": "Summer fling",
+            "correct": false,
+            "count": "88,613",
+            "percent": "43.31%"
+          },
+          {
+            "id": 127759,
+            "text": "Significant age gap",
+            "correct": true,
+            "count": "108,667",
+            "percent": "53.11%"
+          },
+          {
+            "id": 127760,
+            "text": "More than two people",
+            "correct": false,
+            "count": "7,335",
+            "percent": "3.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/2/4",
+        "game_link": "/us/game/2019-01-16/2",
+        "correct_answers": 108667,
+        "incorrect_answers": 95948,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42629,
+        "text": "In which of these places is it winter in July?",
+        "question_number": 5,
+        "eliminated": "7,389",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "110,037",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127782,
+            "text": "France",
+            "correct": false,
+            "count": "1,038",
+            "percent": "0.89%"
+          },
+          {
+            "id": 127783,
+            "text": "Australia",
+            "correct": true,
+            "count": "110,037",
+            "percent": "94.52%"
+          },
+          {
+            "id": 127785,
+            "text": "Norway",
+            "correct": false,
+            "count": "5,343",
+            "percent": "4.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/2/5",
+        "game_link": "/us/game/2019-01-16/2",
+        "correct_answers": 110037,
+        "incorrect_answers": 6381,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42637,
+        "text": "Which of these âThe Sopranosâ episodes famously takes place in a very snowy setting?",
+        "question_number": 6,
+        "eliminated": "24,155",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "86,543",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127806,
+            "text": "Luxury Lounge",
+            "correct": false,
+            "count": "9,794",
+            "percent": "9.02%"
+          },
+          {
+            "id": 127808,
+            "text": "Pine Barrens",
+            "correct": true,
+            "count": "86,543",
+            "percent": "79.73%"
+          },
+          {
+            "id": 127810,
+            "text": "College",
+            "correct": false,
+            "count": "12,206",
+            "percent": "11.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/2/6",
+        "game_link": "/us/game/2019-01-16/2",
+        "correct_answers": 86543,
+        "incorrect_answers": 22000,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42645,
+        "text": "What is the title of Robert Frostâs classic poem about two roads?",
+        "question_number": 7,
+        "eliminated": "49,497",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "39,663",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127830,
+            "text": "The Road Not Taken",
+            "correct": true,
+            "count": "39,663",
+            "percent": "45.13%"
+          },
+          {
+            "id": 127831,
+            "text": "The Road Less Traveled",
+            "correct": false,
+            "count": "37,930",
+            "percent": "43.16%"
+          },
+          {
+            "id": 127832,
+            "text": "The Traveler",
+            "correct": false,
+            "count": "10,297",
+            "percent": "11.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/2/7",
+        "game_link": "/us/game/2019-01-16/2",
+        "correct_answers": 39663,
+        "incorrect_answers": 48227,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42654,
+        "text": "Which of these is featured in the âIce, Ice, Babyâ music video?",
+        "question_number": 8,
+        "eliminated": "26,000",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "20,690",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127855,
+            "text": "Ice cubes",
+            "correct": false,
+            "count": "22,022",
+            "percent": "47.96%"
+          },
+          {
+            "id": 127857,
+            "text": "Snow",
+            "correct": false,
+            "count": "3,204",
+            "percent": "6.98%"
+          },
+          {
+            "id": 127859,
+            "text": "Multiple vests",
+            "correct": true,
+            "count": "20,690",
+            "percent": "45.06%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/2/8",
+        "game_link": "/us/game/2019-01-16/2",
+        "correct_answers": 20690,
+        "incorrect_answers": 25226,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42662,
+        "text": "âThe Winterâs Taleâ features a heroine with the same name as a character from what series?",
+        "question_number": 9,
+        "eliminated": "13,981",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "15,232",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127879,
+            "text": "Twilight",
+            "correct": false,
+            "count": "8,403",
+            "percent": "29.53%"
+          },
+          {
+            "id": 127882,
+            "text": "The Da Vinci Code",
+            "correct": false,
+            "count": "4,823",
+            "percent": "16.95%"
+          },
+          {
+            "id": 127888,
+            "text": "Harry Potter",
+            "correct": true,
+            "count": "15,232",
+            "percent": "53.52%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/2/9",
+        "game_link": "/us/game/2019-01-16/2",
+        "correct_answers": 15232,
+        "incorrect_answers": 13226,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42669,
+        "text": "Which of these activities does the âFrozenâ snowman fantasize about in his musical number?",
+        "question_number": 10,
+        "eliminated": "10,979",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "6,819",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127902,
+            "text": "BBQing",
+            "correct": false,
+            "count": "4,288",
+            "percent": "24.72%"
+          },
+          {
+            "id": 127903,
+            "text": "Sailing",
+            "correct": true,
+            "count": "6,819",
+            "percent": "39.31%"
+          },
+          {
+            "id": 127906,
+            "text": "Water balloon fight",
+            "correct": false,
+            "count": "6,239",
+            "percent": "35.97%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/2/10",
+        "game_link": "/us/game/2019-01-16/2",
+        "correct_answers": 6819,
+        "incorrect_answers": 10527,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42677,
+        "text": "Which of these cold-weather flicks was released in the winter in the US?",
+        "question_number": 11,
+        "eliminated": "5,275",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "3,218",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127926,
+            "text": "The Revenant",
+            "correct": true,
+            "count": "3,218",
+            "percent": "38.44%"
+          },
+          {
+            "id": 127928,
+            "text": "Frozen",
+            "correct": false,
+            "count": "630",
+            "percent": "7.53%"
+          },
+          {
+            "id": 127930,
+            "text": "The Day After Tomorrow",
+            "correct": false,
+            "count": "4,524",
+            "percent": "54.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/2/11",
+        "game_link": "/us/game/2019-01-16/2",
+        "correct_answers": 3218,
+        "incorrect_answers": 5154,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42689,
+        "text": "Which of these is NOT a pun uttered by Mr. Freeze in âBatman & Robinâ?",
+        "question_number": 12,
+        "eliminated": "2,388",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "1,187",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127952,
+            "text": "It's a cold shoulder!",
+            "correct": true,
+            "count": "1,187",
+            "percent": "33.89%"
+          },
+          {
+            "id": 127956,
+            "text": "Cool party!",
+            "correct": false,
+            "count": "1,283",
+            "percent": "36.63%"
+          },
+          {
+            "id": 127961,
+            "text": "Stay cool, bird boy!",
+            "correct": false,
+            "count": "1,033",
+            "percent": "29.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-16/2/12",
+        "game_link": "/us/game/2019-01-16/2",
+        "correct_answers": 1187,
+        "incorrect_answers": 2316,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 44735,
+    "show_id": 9338,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-01-17T02:30:00Z",
+    "direct_link": "/us/game/2019-01-16/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "300.15",
+          "time": "60.07"
+        },
+        {
+          "number": "2",
+          "amount": "150.15",
+          "time": "60.10"
+        },
+        {
+          "number": "3",
+          "amount": "50.15",
+          "time": "61.11"
+        },
+        {
+          "number": "3,241",
+          "amount": "0.15",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.15413070283600494,
+      "top_players_prize": 500.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-01-16/3/1",
+        "question_number": 1,
+        "text": "Around The House",
+        "answer": [
+          "RECLINER"
+        ],
+        "initial_letters": [
+          "R"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-01-16/3",
+        "eliminated": 52259,
+        "advancing": 158850,
+        "correct_answers": 158850,
+        "incorrect_answers": 52259
+      },
+      {
+        "direct_link": "/us/game/2019-01-16/3/2",
+        "question_number": 2,
+        "text": "Tree",
+        "answer": [
+          "MAPLE"
+        ],
+        "initial_letters": [
+          "M"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "P"
+        ],
+        "game_link": "/us/game/2019-01-16/3",
+        "eliminated": 3036,
+        "advancing": 158690,
+        "correct_answers": 158690,
+        "incorrect_answers": 3036
+      },
+      {
+        "direct_link": "/us/game/2019-01-16/3/3",
+        "question_number": 3,
+        "text": "Body Part",
+        "answer": [
+          "KNEECAP"
+        ],
+        "initial_letters": [
+          "K"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "P"
+        ],
+        "game_link": "/us/game/2019-01-16/3",
+        "eliminated": 7839,
+        "advancing": 150219,
+        "correct_answers": 150219,
+        "incorrect_answers": 7839
+      },
+      {
+        "direct_link": "/us/game/2019-01-16/3/4",
+        "question_number": 4,
+        "text": "Modern Career",
+        "answer": [
+          "INFLUENCER"
+        ],
+        "initial_letters": [
+          "I"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "R"
+        ],
+        "game_link": "/us/game/2019-01-16/3",
+        "eliminated": 115881,
+        "advancing": 34659,
+        "correct_answers": 34659,
+        "incorrect_answers": 115881
+      },
+      {
+        "direct_link": "/us/game/2019-01-16/3/5",
+        "question_number": 5,
+        "text": "TV Characters",
+        "answer": [
+          "THE",
+          "ADDAMS",
+          "FAMILY"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "S"
+        ],
+        "game_link": "/us/game/2019-01-16/3",
+        "eliminated": 16003,
+        "advancing": 26527,
+        "correct_answers": 26527,
+        "incorrect_answers": 16003
+      },
+      {
+        "direct_link": "/us/game/2019-01-16/3/6",
+        "question_number": 6,
+        "text": "In the Fridge",
+        "answer": [
+          "CRISPER",
+          "DRAWER"
+        ],
+        "initial_letters": [
+          " ",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "C"
+        ],
+        "game_link": "/us/game/2019-01-16/3",
+        "eliminated": 13093,
+        "advancing": 14772,
+        "correct_answers": 14772,
+        "incorrect_answers": 13093
+      },
+      {
+        "direct_link": "/us/game/2019-01-16/3/7",
+        "question_number": 7,
+        "text": "Musical Showdown",
+        "answer": [
+          "DUELING",
+          "BANJOS"
+        ],
+        "initial_letters": [
+          " ",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "N"
+        ],
+        "game_link": "/us/game/2019-01-16/3",
+        "eliminated": 6634,
+        "advancing": 9498,
+        "correct_answers": 9498,
+        "incorrect_answers": 6634
+      },
+      {
+        "direct_link": "/us/game/2019-01-16/3/8",
+        "question_number": 8,
+        "text": "Sarcastic Saying",
+        "answer": [
+          "ITâS",
+          "NOT",
+          "BRAIN",
+          "SURGERY"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "I"
+        ],
+        "game_link": "/us/game/2019-01-16/3",
+        "eliminated": 5896,
+        "advancing": 4454,
+        "correct_answers": 4454,
+        "incorrect_answers": 5896
+      },
+      {
+        "direct_link": "/us/game/2019-01-16/3/9",
+        "question_number": 9,
+        "text": "High School Question",
+        "answer": [
+          "WILL",
+          "YOU",
+          "GO",
+          "TO",
+          "PROM",
+          "WITH",
+          "ME?"
+        ],
+        "initial_letters": [
+          " ",
+          "?",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-01-16/3",
+        "eliminated": 353,
+        "advancing": 5105,
+        "correct_answers": 5105,
+        "incorrect_answers": 353
+      },
+      {
+        "direct_link": "/us/game/2019-01-16/3/10",
+        "question_number": 10,
+        "text": "Fashionable Outerwear",
+        "answer": [
+          "HOUNDSTOOTH",
+          "COAT"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "S",
+          "U"
+        ],
+        "game_link": "/us/game/2019-01-16/3",
+        "eliminated": 1917,
+        "advancing": 3244,
+        "correct_answers": 3244,
+        "incorrect_answers": 1917
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

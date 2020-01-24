@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 141599,
+    "show_id": 13031,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-11-26T01:00:00Z",
+    "direct_link": "/us/game/2019-11-25/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,918",
+      "currency": "$",
+      "average_prize": "0.34"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 159178,
+        "text": "The team that changes tires on a racecar is called the what?",
+        "question_number": 1,
+        "eliminated": "-5,251",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "44,689",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313223,
+            "text": "Pit crew",
+            "correct": true,
+            "count": "36,297",
+            "percent": "98.4%"
+          },
+          {
+            "id": 313224,
+            "text": "Peach pits",
+            "correct": false,
+            "count": "352",
+            "percent": "0.95%"
+          },
+          {
+            "id": 313225,
+            "text": "Pit bosses",
+            "correct": false,
+            "count": "238",
+            "percent": "0.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/1/1",
+        "game_link": "/us/game/2019-11-25/1",
+        "correct_answers": 36297,
+        "incorrect_answers": 590,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159180,
+        "text": "Which continent hosts the greatest number of Grand Slam tournaments in tennis?",
+        "question_number": 2,
+        "eliminated": "1,079",
+        "category": "",
+        "category_slug": "",
+        "advancing": "43,692",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313226,
+            "text": "Europe",
+            "correct": true,
+            "count": "28,243",
+            "percent": "75.75%"
+          },
+          {
+            "id": 313227,
+            "text": "Australia",
+            "correct": false,
+            "count": "3,517",
+            "percent": "9.43%"
+          },
+          {
+            "id": 313228,
+            "text": "North America",
+            "correct": false,
+            "count": "5,526",
+            "percent": "14.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/1/2",
+        "game_link": "/us/game/2019-11-25/1",
+        "correct_answers": 28243,
+        "incorrect_answers": 9043,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159182,
+        "text": "Which college has a team name that is a kind of feline?",
+        "question_number": 3,
+        "eliminated": "2,196",
+        "category": "",
+        "category_slug": "",
+        "advancing": "41,554",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313229,
+            "text": "University of Minnesota",
+            "correct": false,
+            "count": "3,845",
+            "percent": "10.7%"
+          },
+          {
+            "id": 313230,
+            "text": "Arizona State University",
+            "correct": false,
+            "count": "11,674",
+            "percent": "32.48%"
+          },
+          {
+            "id": 313231,
+            "text": "University of Arizona",
+            "correct": true,
+            "count": "20,418",
+            "percent": "56.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/1/3",
+        "game_link": "/us/game/2019-11-25/1",
+        "correct_answers": 20418,
+        "incorrect_answers": 15519,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159184,
+        "text": "What was the last hockey team to win the Stanley Cup playing under an interim head coach?",
+        "question_number": 4,
+        "eliminated": "3,872",
+        "category": "",
+        "category_slug": "",
+        "advancing": "37,805",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313232,
+            "text": "St. Louis Blues",
+            "correct": true,
+            "count": "17,593",
+            "percent": "51.05%"
+          },
+          {
+            "id": 313233,
+            "text": "Detroit Red Wings",
+            "correct": false,
+            "count": "8,903",
+            "percent": "25.84%"
+          },
+          {
+            "id": 313234,
+            "text": "New Jersey Devils",
+            "correct": false,
+            "count": "7,963",
+            "percent": "23.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/1/4",
+        "game_link": "/us/game/2019-11-25/1",
+        "correct_answers": 17593,
+        "incorrect_answers": 16866,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159186,
+        "text": "In this unconventional double play, which position is credited with the putout?",
+        "question_number": 5,
+        "eliminated": "3,162",
+        "category": "",
+        "category_slug": "",
+        "advancing": "35,055",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313235,
+            "text": "2nd baseman",
+            "correct": false,
+            "count": "5,047",
+            "percent": "15.31%"
+          },
+          {
+            "id": 313236,
+            "text": "Center field",
+            "correct": false,
+            "count": "7,146",
+            "percent": "21.67%"
+          },
+          {
+            "id": 313237,
+            "text": "1st baseman",
+            "correct": true,
+            "count": "20,782",
+            "percent": "63.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/1/5",
+        "game_link": "/us/game/2019-11-25/1",
+        "correct_answers": 20782,
+        "incorrect_answers": 12193,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159188,
+        "text": "Which womenâs basketball team has NEVER missed the NCAA tournament?",
+        "question_number": 6,
+        "eliminated": "11,253",
+        "category": "",
+        "category_slug": "",
+        "advancing": "24,257",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313238,
+            "text": "Notre Dame",
+            "correct": false,
+            "count": "4,363",
+            "percent": "14.11%"
+          },
+          {
+            "id": 313239,
+            "text": "University of Tennessee",
+            "correct": true,
+            "count": "9,530",
+            "percent": "30.82%"
+          },
+          {
+            "id": 313240,
+            "text": "UConn",
+            "correct": false,
+            "count": "17,027",
+            "percent": "55.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/1/6",
+        "game_link": "/us/game/2019-11-25/1",
+        "correct_answers": 9530,
+        "incorrect_answers": 21390,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159190,
+        "text": "The man who holds the NFL record for single-season punting average also started at what position?",
+        "question_number": 7,
+        "eliminated": "8,484",
+        "category": "",
+        "category_slug": "",
+        "advancing": "18,399",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313241,
+            "text": "Quarterback",
+            "correct": true,
+            "count": "12,382",
+            "percent": "52.33%"
+          },
+          {
+            "id": 313242,
+            "text": "Kicker",
+            "correct": false,
+            "count": "4,310",
+            "percent": "18.21%"
+          },
+          {
+            "id": 313243,
+            "text": "Wide receiver",
+            "correct": false,
+            "count": "6,970",
+            "percent": "29.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/1/7",
+        "game_link": "/us/game/2019-11-25/1",
+        "correct_answers": 12382,
+        "incorrect_answers": 11280,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 7,
+          "players_left": 18274,
+          "players_left_formatted": "18,274",
+          "num_winners": 2698,
+          "num_winners_formatted": "2,698",
+          "prize": 5.0,
+          "prize_formatted": "5 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 159192,
+        "text": "In the last 50 years, who is the only golfer to have as many single-season wins on the PGA Tour as Tiger Woods?",
+        "question_number": 8,
+        "eliminated": "7,845",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "12,127",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313244,
+            "text": "Jack Nicklaus",
+            "correct": false,
+            "count": "6,970",
+            "percent": "43.6%"
+          },
+          {
+            "id": 313245,
+            "text": "Vijay Singh",
+            "correct": true,
+            "count": "5,557",
+            "percent": "34.76%"
+          },
+          {
+            "id": 313246,
+            "text": "Nick Faldo",
+            "correct": false,
+            "count": "3,460",
+            "percent": "21.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/1/8",
+        "game_link": "/us/game/2019-11-25/1",
+        "correct_answers": 5557,
+        "incorrect_answers": 10430,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159194,
+        "text": "Which career passing record is currently held by Peyton Manning?",
+        "question_number": 9,
+        "eliminated": "3,049",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "10,366",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313247,
+            "text": "Ratings",
+            "correct": false,
+            "count": "2,468",
+            "percent": "20.49%"
+          },
+          {
+            "id": 313248,
+            "text": "Yards",
+            "correct": false,
+            "count": "4,848",
+            "percent": "40.25%"
+          },
+          {
+            "id": 313249,
+            "text": "Touchdowns",
+            "correct": true,
+            "count": "4,730",
+            "percent": "39.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/1/9",
+        "game_link": "/us/game/2019-11-25/1",
+        "correct_answers": 4730,
+        "incorrect_answers": 7316,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159196,
+        "text": "Which MLB franchise has had exactly 10 different players win the Baseball Writersâ MVP award?",
+        "question_number": 10,
+        "eliminated": "2,428",
+        "category": "",
+        "category_slug": "",
+        "advancing": "8,830",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313250,
+            "text": "Boston Red Sox",
+            "correct": true,
+            "count": "4,388",
+            "percent": "44.44%"
+          },
+          {
+            "id": 313251,
+            "text": "New York Yankees",
+            "correct": false,
+            "count": "3,223",
+            "percent": "32.64%"
+          },
+          {
+            "id": 313252,
+            "text": "Baltimore Orioles",
+            "correct": false,
+            "count": "2,262",
+            "percent": "22.91%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/1/10",
+        "game_link": "/us/game/2019-11-25/1",
+        "correct_answers": 4388,
+        "incorrect_answers": 5485,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159198,
+        "text": "In which of these decades did the Yankees win the fewest number of World Series?",
+        "question_number": 11,
+        "eliminated": "7,992",
+        "category": "",
+        "category_slug": "",
+        "advancing": "1,836",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313253,
+            "text": "1950s",
+            "correct": false,
+            "count": "1,740",
+            "percent": "19.63%"
+          },
+          {
+            "id": 313254,
+            "text": "1920s",
+            "correct": true,
+            "count": "1,836",
+            "percent": "20.72%"
+          },
+          {
+            "id": 313255,
+            "text": "1940s",
+            "correct": false,
+            "count": "5,286",
+            "percent": "59.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/1/11",
+        "game_link": "/us/game/2019-11-25/1",
+        "correct_answers": 1836,
+        "incorrect_answers": 7026,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159200,
+        "text": "Which current NBA franchise has been based in the greatest number of states?",
+        "question_number": 12,
+        "eliminated": "3,676",
+        "category": "",
+        "category_slug": "",
+        "advancing": "2,918",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313256,
+            "text": "Utah Jazz",
+            "correct": false,
+            "count": "1,790",
+            "percent": "27.65%"
+          },
+          {
+            "id": 313257,
+            "text": "Charlotte Hornets",
+            "correct": false,
+            "count": "1,765",
+            "percent": "27.27%"
+          },
+          {
+            "id": 313258,
+            "text": "Sacramento Kings",
+            "correct": true,
+            "count": "2,918",
+            "percent": "45.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/1/12",
+        "game_link": "/us/game/2019-11-25/1",
+        "correct_answers": 2918,
+        "incorrect_answers": 3555,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [
+      {
+        "round_number": 7,
+        "players_left": 18274,
+        "players_left_formatted": "18,274",
+        "num_winners": 2698,
+        "num_winners_formatted": "2,698",
+        "prize": 5.0,
+        "prize_formatted": "5 coins",
+        "currency": "coins"
+      }
+    ],
+    "total_checkpoint_prize": "0.00",
+    "total_checkpoint_winners": "2,698",
+    "smallest_checkpoint_prize": "5 coins",
+    "largest_checkpoint_prize": "5 coins",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 141614,
+    "show_id": 13023,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-11-26T02:00:00Z",
+    "direct_link": "/us/game/2019-11-25/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "9,102",
+      "currency": "$",
+      "average_prize": "0.11"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "questions": [
+      null,
+      {
+        "id": 159202,
+        "text": "Which former SNL star plays the patriarch of âNational Lampoonâs Christmas Vacationâ?",
+        "question_number": 2,
+        "eliminated": "2,400",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "103,207",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313259,
+            "text": "Chris Farley",
+            "correct": false,
+            "count": "2,486",
+            "percent": "2.67%"
+          },
+          {
+            "id": 313260,
+            "text": "Chevy Chase",
+            "correct": true,
+            "count": "87,315",
+            "percent": "93.69%"
+          },
+          {
+            "id": 313261,
+            "text": "Will Ferrell",
+            "correct": false,
+            "count": "3,399",
+            "percent": "3.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/2/2",
+        "game_link": "/us/game/2019-11-25/2",
+        "correct_answers": 87315,
+        "incorrect_answers": 5885,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159204,
+        "text": "Which character narrates âThe Shawshank Redemptionâ?",
+        "question_number": 3,
+        "eliminated": "7,662",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "95,651",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313262,
+            "text": "Brooks Hatlen",
+            "correct": false,
+            "count": "17,401",
+            "percent": "19.45%"
+          },
+          {
+            "id": 313263,
+            "text": "Ellis Boyd âRedâ Redding",
+            "correct": true,
+            "count": "49,489",
+            "percent": "55.31%"
+          },
+          {
+            "id": 313264,
+            "text": "Andy Dufresne",
+            "correct": false,
+            "count": "22,587",
+            "percent": "25.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/2/3",
+        "game_link": "/us/game/2019-11-25/2",
+        "correct_answers": 49489,
+        "incorrect_answers": 39988,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159206,
+        "text": "Which of these people owned Han Soloâs iconic spaceship before he did?",
+        "question_number": 4,
+        "eliminated": "6,479",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "89,590",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313265,
+            "text": "Chewbacca",
+            "correct": false,
+            "count": "7,292",
+            "percent": "8.44%"
+          },
+          {
+            "id": 313266,
+            "text": "Princess Leia",
+            "correct": false,
+            "count": "5,789",
+            "percent": "6.7%"
+          },
+          {
+            "id": 313267,
+            "text": "Lando Calrissian",
+            "correct": true,
+            "count": "73,280",
+            "percent": "84.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/2/4",
+        "game_link": "/us/game/2019-11-25/2",
+        "correct_answers": 73280,
+        "incorrect_answers": 13081,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159208,
+        "text": "Which âPrincess Brideâ character was based on an actual person?",
+        "question_number": 5,
+        "eliminated": "18,114",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "71,844",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313268,
+            "text": "Prince Humperdinck",
+            "correct": false,
+            "count": "13,238",
+            "percent": "16.15%"
+          },
+          {
+            "id": 313269,
+            "text": "Inigo Montoya",
+            "correct": false,
+            "count": "46,889",
+            "percent": "57.21%"
+          },
+          {
+            "id": 313270,
+            "text": "Dread Pirate Roberts",
+            "correct": true,
+            "count": "21,831",
+            "percent": "26.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/2/5",
+        "game_link": "/us/game/2019-11-25/2",
+        "correct_answers": 21831,
+        "incorrect_answers": 60127,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159210,
+        "text": "In âJurassic Park,â which of these is the final thing said to happen after âman creates dinosaursâ?",
+        "question_number": 6,
+        "eliminated": "29,407",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "44,695",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313271,
+            "text": "Woman inherits the Earth",
+            "correct": true,
+            "count": "18,725",
+            "percent": "34.42%"
+          },
+          {
+            "id": 313272,
+            "text": "God destroys dinosaurs",
+            "correct": false,
+            "count": "17,249",
+            "percent": "31.71%"
+          },
+          {
+            "id": 313273,
+            "text": "Man becomes God",
+            "correct": false,
+            "count": "18,424",
+            "percent": "33.87%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/2/6",
+        "game_link": "/us/game/2019-11-25/2",
+        "correct_answers": 18725,
+        "incorrect_answers": 35673,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159212,
+        "text": "Which character was NOT part of the Fellowship in âThe Fellowship of the Ringâ?",
+        "question_number": 7,
+        "eliminated": "17,449",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "32,090",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313274,
+            "text": "Gandalf the Grey",
+            "correct": false,
+            "count": "7,046",
+            "percent": "15.23%"
+          },
+          {
+            "id": 313275,
+            "text": "Boromir",
+            "correct": false,
+            "count": "15,910",
+            "percent": "34.39%"
+          },
+          {
+            "id": 313276,
+            "text": "Bilbo Baggins",
+            "correct": true,
+            "count": "23,308",
+            "percent": "50.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/2/7",
+        "game_link": "/us/game/2019-11-25/2",
+        "correct_answers": 23308,
+        "incorrect_answers": 22956,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159214,
+        "text": "As Monty Python fans know, what do the Knights who say âNiâ require to let people pass?",
+        "question_number": 8,
+        "eliminated": "6,932",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "28,505",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313277,
+            "text": "Unladen Swallow",
+            "correct": false,
+            "count": "3,715",
+            "percent": "11.81%"
+          },
+          {
+            "id": 313278,
+            "text": "Holy Hand Grenade",
+            "correct": false,
+            "count": "4,642",
+            "percent": "14.76%"
+          },
+          {
+            "id": 313279,
+            "text": "Shrubbery",
+            "correct": true,
+            "count": "23,099",
+            "percent": "73.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/2/8",
+        "game_link": "/us/game/2019-11-25/2",
+        "correct_answers": 23099,
+        "incorrect_answers": 8357,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159216,
+        "text": "Which celebrity regretted turning down the role of Bubba in âForrest Gumpâ?",
+        "question_number": 9,
+        "eliminated": "12,640",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "17,769",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313280,
+            "text": "Forest Whitaker",
+            "correct": false,
+            "count": "9,717",
+            "percent": "33.02%"
+          },
+          {
+            "id": 313281,
+            "text": "Laurence Fishburn",
+            "correct": false,
+            "count": "10,405",
+            "percent": "35.35%"
+          },
+          {
+            "id": 313282,
+            "text": "Dave Chappelle",
+            "correct": true,
+            "count": "9,309",
+            "percent": "31.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/2/9",
+        "game_link": "/us/game/2019-11-25/2",
+        "correct_answers": 9309,
+        "incorrect_answers": 20122,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159218,
+        "text": "In âPlanes, Trains and Automobiles,â Neal Page travels with a man who sells what?",
+        "question_number": 10,
+        "eliminated": "1,700",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "19,800",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313283,
+            "text": "Light socket plugs",
+            "correct": false,
+            "count": "2,242",
+            "percent": "10.8%"
+          },
+          {
+            "id": 313284,
+            "text": "Shower curtain rings",
+            "correct": true,
+            "count": "17,800",
+            "percent": "85.71%"
+          },
+          {
+            "id": 313285,
+            "text": "Thanksgiving turkeys",
+            "correct": false,
+            "count": "725",
+            "percent": "3.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/2/10",
+        "game_link": "/us/game/2019-11-25/2",
+        "correct_answers": 17800,
+        "incorrect_answers": 2967,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159220,
+        "text": "This image appeared for years on the website for what â90s movie?",
+        "question_number": 11,
+        "eliminated": "5,247",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "15,099",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313286,
+            "text": "Philadelphia",
+            "correct": false,
+            "count": "3,074",
+            "percent": "15.52%"
+          },
+          {
+            "id": 313287,
+            "text": "Youâve Got Mail",
+            "correct": true,
+            "count": "15,099",
+            "percent": "76.25%"
+          },
+          {
+            "id": 313288,
+            "text": "Apollo 13",
+            "correct": false,
+            "count": "1,628",
+            "percent": "8.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/2/11",
+        "game_link": "/us/game/2019-11-25/2",
+        "correct_answers": 15099,
+        "incorrect_answers": 4702,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159222,
+        "text": "What is Noahâs last line in the film adaptation of âThe Notebookâ?",
+        "question_number": 12,
+        "eliminated": "10,064",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "7,391",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313289,
+            "text": "Good night",
+            "correct": false,
+            "count": "1,528",
+            "percent": "8.88%"
+          },
+          {
+            "id": 313290,
+            "text": "Iâll be seeing you",
+            "correct": true,
+            "count": "7,391",
+            "percent": "42.97%"
+          },
+          {
+            "id": 313291,
+            "text": "Iâm a bird too",
+            "correct": false,
+            "count": "8,282",
+            "percent": "48.15%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/2/12",
+        "game_link": "/us/game/2019-11-25/2",
+        "correct_answers": 7391,
+        "incorrect_answers": 9810,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159224,
+        "text": "A famous two-and-a-half minute long take in âGoodfellasâ takes place where?",
+        "question_number": 13,
+        "eliminated": "8,306",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "4,841",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313292,
+            "text": "Copacabana",
+            "correct": true,
+            "count": "4,841",
+            "percent": "37.74%"
+          },
+          {
+            "id": 313293,
+            "text": "The Cotton Club",
+            "correct": false,
+            "count": "5,476",
+            "percent": "42.69%"
+          },
+          {
+            "id": 313294,
+            "text": "Tropicana",
+            "correct": false,
+            "count": "2,510",
+            "percent": "19.57%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/2/13",
+        "game_link": "/us/game/2019-11-25/2",
+        "correct_answers": 4841,
+        "incorrect_answers": 7986,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159226,
+        "text": "Which actor had the same profession in âDie Hardâ and a TV show?",
+        "question_number": 14,
+        "eliminated": "2,051",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "8,122",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313295,
+            "text": "Bruce Willis",
+            "correct": false,
+            "count": "989",
+            "percent": "9.82%"
+          },
+          {
+            "id": 313296,
+            "text": "Alan Rickman",
+            "correct": false,
+            "count": "965",
+            "percent": "9.58%"
+          },
+          {
+            "id": 313297,
+            "text": "Reginald VelJohnson",
+            "correct": true,
+            "count": "8,122",
+            "percent": "80.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/2/14",
+        "game_link": "/us/game/2019-11-25/2",
+        "correct_answers": 8122,
+        "incorrect_answers": 1954,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159228,
+        "text": "What movie did this meme originate from?",
+        "question_number": 15,
+        "eliminated": "460",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "9,102",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313298,
+            "text": "Pulp Fiction",
+            "correct": true,
+            "count": "9,102",
+            "percent": "95.34%"
+          },
+          {
+            "id": 313299,
+            "text": "Reservoir Dogs",
+            "correct": false,
+            "count": "343",
+            "percent": "3.59%"
+          },
+          {
+            "id": 313300,
+            "text": "Grease",
+            "correct": false,
+            "count": "102",
+            "percent": "1.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-25/2/15",
+        "game_link": "/us/game/2019-11-25/2",
+        "correct_answers": 9102,
+        "incorrect_answers": 445,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2399,
+        "game_id": 141614,
+        "question": "If you had to pick one, which movie gotta go? ",
+        "results": [
+          {
+            "id": 13898,
+            "display_count": "24",
+            "vote_count": 9165,
+            "text": "Forrest Gump"
+          },
+          {
+            "id": 13899,
+            "display_count": "33",
+            "vote_count": 12803,
+            "text": "Jurassic Park"
+          },
+          {
+            "id": 13897,
+            "display_count": "43",
+            "vote_count": 16462,
+            "text": "Pulp Fiction"
+          }
+        ],
+        "created_at": "2019-11-26T02:04:42Z"
+      },
+      {
+        "id": 2400,
+        "game_id": 141614,
+        "question": "If you had to watch one of these movies once a day for the rest of your life, which would it be?",
+        "results": [
+          {
+            "id": 13905,
+            "display_count": "25",
+            "vote_count": 11944,
+            "text": "Dirty Dancing"
+          },
+          {
+            "id": 13903,
+            "display_count": "28",
+            "vote_count": 13400,
+            "text": "Grease"
+          },
+          {
+            "id": 13904,
+            "display_count": "46",
+            "vote_count": 21734,
+            "text": "Harry Potter"
+          }
+        ],
+        "created_at": "2019-11-26T02:05:24Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

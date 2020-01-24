@@ -1,0 +1,1333 @@
+[
+  {
+    "id": 47840,
+    "show_id": 9410,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "0",
+    "currency": "$",
+    "start_time": "2019-01-31T00:00:00Z",
+    "direct_link": "/us/game/2019-01-30/1",
+    "time": " 7:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "837",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 44649,
+        "text": "When a hockey player hits a shot without attempting to control the pass first, itâs called a what?",
+        "question_number": 1,
+        "eliminated": "1,325",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "114,793",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 133842,
+            "text": "German suplex",
+            "correct": false,
+            "count": "2,729",
+            "percent": "2.5%"
+          },
+          {
+            "id": 133843,
+            "text": "One timer",
+            "correct": true,
+            "count": "91,450",
+            "percent": "83.68%"
+          },
+          {
+            "id": 133844,
+            "text": "Sticky wicket",
+            "correct": false,
+            "count": "15,105",
+            "percent": "13.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/1/1",
+        "game_link": "/us/game/2019-01-30/1",
+        "correct_answers": 91450,
+        "incorrect_answers": 17834,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44658,
+        "text": "The âPro Bowlâ is the name of the all-star game in what league?",
+        "question_number": 2,
+        "eliminated": "791",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "114,104",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 133869,
+            "text": "PBA",
+            "correct": false,
+            "count": "3,558",
+            "percent": "3.22%"
+          },
+          {
+            "id": 133870,
+            "text": "NHL",
+            "correct": false,
+            "count": "3,879",
+            "percent": "3.51%"
+          },
+          {
+            "id": 133873,
+            "text": "NFL",
+            "correct": true,
+            "count": "102,933",
+            "percent": "93.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/1/2",
+        "game_link": "/us/game/2019-01-30/1",
+        "correct_answers": 102933,
+        "incorrect_answers": 7437,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44664,
+        "text": "What school has won the second-greatest number of womenâs NCAA basketball titles?",
+        "question_number": 3,
+        "eliminated": "10,428",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "103,706",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 133887,
+            "text": "Notre Dame",
+            "correct": false,
+            "count": "29,462",
+            "percent": "27.52%"
+          },
+          {
+            "id": 133888,
+            "text": "Tennessee",
+            "correct": true,
+            "count": "55,237",
+            "percent": "51.6%"
+          },
+          {
+            "id": 133891,
+            "text": "Baylor",
+            "correct": false,
+            "count": "22,346",
+            "percent": "20.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/1/3",
+        "game_link": "/us/game/2019-01-30/1",
+        "correct_answers": 55237,
+        "incorrect_answers": 51808,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44675,
+        "text": "What unit of time is the same in college basketball and the NBA?",
+        "question_number": 4,
+        "eliminated": "9,848",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "94,388",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 133916,
+            "text": "Quarter length",
+            "correct": false,
+            "count": "13,972",
+            "percent": "14.7%"
+          },
+          {
+            "id": 133920,
+            "text": "Shot clock",
+            "correct": false,
+            "count": "39,105",
+            "percent": "41.15%"
+          },
+          {
+            "id": 133923,
+            "text": "Overtime",
+            "correct": true,
+            "count": "41,958",
+            "percent": "44.15%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/1/4",
+        "game_link": "/us/game/2019-01-30/1",
+        "correct_answers": 41958,
+        "incorrect_answers": 53077,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44681,
+        "text": "What team will receive the first draft pick in the 2019 NFL Draft?",
+        "question_number": 5,
+        "eliminated": "27,179",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "67,842",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 133935,
+            "text": "Raiders",
+            "correct": false,
+            "count": "28,312",
+            "percent": "32.03%"
+          },
+          {
+            "id": 133938,
+            "text": "Cardinals",
+            "correct": true,
+            "count": "43,209",
+            "percent": "48.88%"
+          },
+          {
+            "id": 133943,
+            "text": "Buccaneers",
+            "correct": false,
+            "count": "16,873",
+            "percent": "19.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/1/5",
+        "game_link": "/us/game/2019-01-30/1",
+        "correct_answers": 43209,
+        "incorrect_answers": 45185,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44688,
+        "text": "Who has the most saves among players NOT inducted to the Baseball Hall of Fame?",
+        "question_number": 6,
+        "eliminated": "48,214",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "21,587",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 133959,
+            "text": "Francisco Rodriguez",
+            "correct": true,
+            "count": "21,534",
+            "percent": "32.71%"
+          },
+          {
+            "id": 133962,
+            "text": "Jonathan Pabelbon",
+            "correct": false,
+            "count": "16,868",
+            "percent": "25.63%"
+          },
+          {
+            "id": 133966,
+            "text": "Billy Wagner",
+            "correct": false,
+            "count": "27,423",
+            "percent": "41.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/1/6",
+        "game_link": "/us/game/2019-01-30/1",
+        "correct_answers": 21534,
+        "incorrect_answers": 44291,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44697,
+        "text": "What current hockey team used to be called the Whalers?",
+        "question_number": 7,
+        "eliminated": "9,446",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "16,177",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 133983,
+            "text": "Colorado Avalanche",
+            "correct": false,
+            "count": "3,629",
+            "percent": "14.58%"
+          },
+          {
+            "id": 133984,
+            "text": "Nashville Predators",
+            "correct": false,
+            "count": "5,086",
+            "percent": "20.43%"
+          },
+          {
+            "id": 133985,
+            "text": "Carolina Hurricanes",
+            "correct": true,
+            "count": "16,177",
+            "percent": "64.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/1/7",
+        "game_link": "/us/game/2019-01-30/1",
+        "correct_answers": 16177,
+        "incorrect_answers": 8715,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44705,
+        "text": "Since 2015, what MLB stadium has seen the greatest number of home runs?",
+        "question_number": 8,
+        "eliminated": "9,316",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "7,711",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134010,
+            "text": "Coors Field",
+            "correct": false,
+            "count": "7,032",
+            "percent": "42.66%"
+          },
+          {
+            "id": 134017,
+            "text": "Yankee Stadium",
+            "correct": true,
+            "count": "7,711",
+            "percent": "46.78%"
+          },
+          {
+            "id": 134021,
+            "text": "Globe Life Park",
+            "correct": false,
+            "count": "1,741",
+            "percent": "10.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/1/8",
+        "game_link": "/us/game/2019-01-30/1",
+        "correct_answers": 7711,
+        "incorrect_answers": 8773,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44712,
+        "text": "What running back once ran for a negative yardage total in a playoff loss?",
+        "question_number": 9,
+        "eliminated": "4,763",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,194",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134031,
+            "text": "Adrian Peterson",
+            "correct": false,
+            "count": "2,311",
+            "percent": "26.39%"
+          },
+          {
+            "id": 134032,
+            "text": "Emmitt Smith",
+            "correct": false,
+            "count": "2,253",
+            "percent": "25.73%"
+          },
+          {
+            "id": 134036,
+            "text": "Barry Sanders",
+            "correct": true,
+            "count": "4,194",
+            "percent": "47.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/1/9",
+        "game_link": "/us/game/2019-01-30/1",
+        "correct_answers": 4194,
+        "incorrect_answers": 4564,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44720,
+        "text": "Which country is NOT included in the rugby union tournament known as the Tri Nations Cup?",
+        "question_number": 10,
+        "eliminated": "2,904",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,988",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134055,
+            "text": "South Africa",
+            "correct": false,
+            "count": "1,561",
+            "percent": "33.01%"
+          },
+          {
+            "id": 134056,
+            "text": "Australia",
+            "correct": false,
+            "count": "1,180",
+            "percent": "24.95%"
+          },
+          {
+            "id": 134059,
+            "text": "England",
+            "correct": true,
+            "count": "1,988",
+            "percent": "42.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/1/10",
+        "game_link": "/us/game/2019-01-30/1",
+        "correct_answers": 1988,
+        "incorrect_answers": 2741,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44728,
+        "text": "At its minimum, which of these covers the greatest horizontal distance?",
+        "question_number": 11,
+        "eliminated": "1,461",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,073",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134079,
+            "text": "NBA corner 3-pointer",
+            "correct": false,
+            "count": "505",
+            "percent": "20.94%"
+          },
+          {
+            "id": 134081,
+            "text": "Soccer penalty kick",
+            "correct": true,
+            "count": "1,073",
+            "percent": "44.49%"
+          },
+          {
+            "id": 134084,
+            "text": "NFL 1st down",
+            "correct": false,
+            "count": "834",
+            "percent": "34.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/1/11",
+        "game_link": "/us/game/2019-01-30/1",
+        "correct_answers": 1073,
+        "incorrect_answers": 1339,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44737,
+        "text": "Who is the NBAâs all-time leading scorer among players who never made a regulation three-pointer?",
+        "question_number": 12,
+        "eliminated": "530",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "837",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134104,
+            "text": "Kareem Abdul-Jabbar",
+            "correct": false,
+            "count": "239",
+            "percent": "18.02%"
+          },
+          {
+            "id": 134108,
+            "text": "Wilt Chamberlain",
+            "correct": true,
+            "count": "837",
+            "percent": "63.12%"
+          },
+          {
+            "id": 134114,
+            "text": "Shaquille OâNeal",
+            "correct": false,
+            "count": "250",
+            "percent": "18.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/1/12",
+        "game_link": "/us/game/2019-01-30/1",
+        "correct_answers": 837,
+        "incorrect_answers": 489,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 47956,
+    "show_id": 9512,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-01-31T01:00:00Z",
+    "direct_link": "/us/game/2019-01-30/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "0.00"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "0.00"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "0.00"
+        },
+        {
+          "number": "-3",
+          "amount": "0.00",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.0,
+      "top_players_prize": 225.0
+    },
+    "time": " 8:00 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-01-30/2/1",
+        "question_number": 1,
+        "text": "Positive Attitude",
+        "answer": [
+          "HOPEFUL"
+        ],
+        "initial_letters": [
+          "H"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "U"
+        ],
+        "game_link": "/us/game/2019-01-30/2",
+        "eliminated": 23088,
+        "advancing": 149598,
+        "correct_answers": 149598,
+        "incorrect_answers": 23088
+      },
+      {
+        "direct_link": "/us/game/2019-01-30/2/2",
+        "question_number": 2,
+        "text": "US Branch of Government",
+        "answer": [
+          "CONGRESS"
+        ],
+        "initial_letters": [
+          "C"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "R"
+        ],
+        "game_link": "/us/game/2019-01-30/2",
+        "eliminated": 12603,
+        "advancing": 137868,
+        "correct_answers": 137868,
+        "incorrect_answers": 12603
+      },
+      {
+        "direct_link": "/us/game/2019-01-30/2/3",
+        "question_number": 3,
+        "text": "Motel Sign",
+        "answer": [
+          "NO",
+          "VACANCY"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-01-30/2",
+        "eliminated": 10049,
+        "advancing": 128278,
+        "correct_answers": 128278,
+        "incorrect_answers": 10049
+      },
+      {
+        "direct_link": "/us/game/2019-01-30/2/4",
+        "question_number": 4,
+        "text": "Archeological Find",
+        "answer": [
+          "DINOSAUR",
+          "FOSSIL"
+        ],
+        "initial_letters": [
+          " ",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "U"
+        ],
+        "game_link": "/us/game/2019-01-30/2",
+        "eliminated": 7531,
+        "advancing": 121142,
+        "correct_answers": 121142,
+        "incorrect_answers": 7531
+      },
+      {
+        "direct_link": "/us/game/2019-01-30/2/5",
+        "question_number": 5,
+        "text": "In The Driveway",
+        "answer": [
+          "BASKETBALL",
+          "HOOP"
+        ],
+        "initial_letters": [
+          " ",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "S"
+        ],
+        "game_link": "/us/game/2019-01-30/2",
+        "eliminated": 18679,
+        "advancing": 102863,
+        "correct_answers": 102863,
+        "incorrect_answers": 18679
+      },
+      {
+        "direct_link": "/us/game/2019-01-30/2/6",
+        "question_number": 6,
+        "text": "Hero / Villain",
+        "answer": [
+          "AUSTIN",
+          "POWERS",
+          "/",
+          "DR",
+          "EVIL"
+        ],
+        "initial_letters": [
+          " ",
+          "/",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "P",
+          "R"
+        ],
+        "game_link": "/us/game/2019-01-30/2",
+        "eliminated": 80053,
+        "advancing": 24176,
+        "correct_answers": 24176,
+        "incorrect_answers": 80053
+      },
+      {
+        "direct_link": "/us/game/2019-01-30/2/7",
+        "question_number": 7,
+        "text": "Fitness Goal",
+        "answer": [
+          "WASHBOARD",
+          "ABS"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "D"
+        ],
+        "game_link": "/us/game/2019-01-30/2",
+        "eliminated": 11816,
+        "advancing": 19733,
+        "correct_answers": 19733,
+        "incorrect_answers": 11816
+      },
+      {
+        "direct_link": "/us/game/2019-01-30/2/8",
+        "question_number": 8,
+        "text": "Wasting Time Online",
+        "answer": [
+          "SCROLLING",
+          "THROUGH",
+          "INSTAGRAM"
+        ],
+        "initial_letters": [
+          " ",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "L"
+        ],
+        "game_link": "/us/game/2019-01-30/2",
+        "eliminated": 5230,
+        "advancing": 15696,
+        "correct_answers": 15696,
+        "incorrect_answers": 5230
+      },
+      {
+        "direct_link": "/us/game/2019-01-30/2/9",
+        "question_number": 9,
+        "text": "Classic Video Game Shortcut",
+        "answer": [
+          "SUPER",
+          "MARIO",
+          "WARP",
+          "PIPE"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "I"
+        ],
+        "game_link": "/us/game/2019-01-30/2",
+        "eliminated": 6483,
+        "advancing": 9991,
+        "correct_answers": 9991,
+        "incorrect_answers": 6483
+      },
+      {
+        "direct_link": "/us/game/2019-01-30/2/10",
+        "question_number": 10,
+        "text": "Snack Supply",
+        "answer": [
+          "FAMILY",
+          "SIZED",
+          "BAG",
+          "OF",
+          "CHIPS"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "O"
+        ],
+        "game_link": "/us/game/2019-01-30/2",
+        "eliminated": 8518,
+        "advancing": 2913,
+        "correct_answers": 2913,
+        "incorrect_answers": 8518
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  },
+  {
+    "id": 48003,
+    "show_id": 9488,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 3,
+    "prize": "0",
+    "currency": "$",
+    "start_time": "2019-01-31T02:00:00Z",
+    "direct_link": "/us/game/2019-01-30/3",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "7,870",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Geography",
+        "slug": "geography"
+      }
+    ],
+    "questions": [
+      {
+        "id": 44745,
+        "text": "What movie was filmed and set in this city?",
+        "question_number": 1,
+        "eliminated": "160",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "331,575",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134130,
+            "text": "Chicago",
+            "correct": false,
+            "count": "21,990",
+            "percent": "6.81%"
+          },
+          {
+            "id": 134131,
+            "text": "LA Story",
+            "correct": false,
+            "count": "8,204",
+            "percent": "2.54%"
+          },
+          {
+            "id": 134134,
+            "text": "New York, New York",
+            "correct": true,
+            "count": "292,651",
+            "percent": "90.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/3/1",
+        "game_link": "/us/game/2019-01-30/3",
+        "correct_answers": 292651,
+        "incorrect_answers": 30194,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44754,
+        "text": "In what European city was this footage taken?",
+        "question_number": 2,
+        "eliminated": "3,296",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "328,559",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134157,
+            "text": "Venice",
+            "correct": true,
+            "count": "315,758",
+            "percent": "98.82%"
+          },
+          {
+            "id": 134159,
+            "text": "Toronto",
+            "correct": false,
+            "count": "2,298",
+            "percent": "0.72%"
+          },
+          {
+            "id": 134161,
+            "text": "Reykjavik",
+            "correct": false,
+            "count": "1,463",
+            "percent": "0.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/3/2",
+        "game_link": "/us/game/2019-01-30/3",
+        "correct_answers": 315758,
+        "incorrect_answers": 3761,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44762,
+        "text": "This landmark is known as both Uluru and what?",
+        "question_number": 3,
+        "eliminated": "14,964",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "313,630",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134181,
+            "text": "K2",
+            "correct": false,
+            "count": "13,034",
+            "percent": "4.09%"
+          },
+          {
+            "id": 134183,
+            "text": "Grand Canyon",
+            "correct": false,
+            "count": "52,169",
+            "percent": "16.36%"
+          },
+          {
+            "id": 134186,
+            "text": "Ayers Rock",
+            "correct": true,
+            "count": "253,635",
+            "percent": "79.55%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/3/3",
+        "game_link": "/us/game/2019-01-30/3",
+        "correct_answers": 253635,
+        "incorrect_answers": 65203,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44770,
+        "text": "This waterfall, the worldâs largest sheet of falling water, lies on the border between which two countries?",
+        "question_number": 4,
+        "eliminated": "40,628",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "273,913",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134202,
+            "text": "Canada / USA",
+            "correct": false,
+            "count": "130,032",
+            "percent": "42.97%"
+          },
+          {
+            "id": 134204,
+            "text": "Denmark / Norway",
+            "correct": false,
+            "count": "24,094",
+            "percent": "7.96%"
+          },
+          {
+            "id": 134207,
+            "text": "Zambia / Zimbabwe",
+            "correct": true,
+            "count": "148,501",
+            "percent": "49.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/3/4",
+        "game_link": "/us/game/2019-01-30/3",
+        "correct_answers": 148501,
+        "incorrect_answers": 154126,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44776,
+        "text": "As seen in an âIndiana Jonesâ movie, where is this landmark located?",
+        "question_number": 5,
+        "eliminated": "89,640",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "187,426",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134223,
+            "text": "Tunisia",
+            "correct": false,
+            "count": "39,328",
+            "percent": "14.88%"
+          },
+          {
+            "id": 134224,
+            "text": "Egypt",
+            "correct": false,
+            "count": "90,878",
+            "percent": "34.38%"
+          },
+          {
+            "id": 134225,
+            "text": "Jordan",
+            "correct": true,
+            "count": "134,105",
+            "percent": "50.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/3/5",
+        "game_link": "/us/game/2019-01-30/3",
+        "correct_answers": 134105,
+        "incorrect_answers": 130206,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44787,
+        "text": "What are these sculptures called by those who live near them?",
+        "question_number": 6,
+        "eliminated": "49,862",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "147,194",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134249,
+            "text": "Totem",
+            "correct": false,
+            "count": "16,021",
+            "percent": "8.29%"
+          },
+          {
+            "id": 134250,
+            "text": "Moai",
+            "correct": true,
+            "count": "147,178",
+            "percent": "76.11%"
+          },
+          {
+            "id": 134251,
+            "text": "Tiki",
+            "correct": false,
+            "count": "30,173",
+            "percent": "15.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/3/6",
+        "game_link": "/us/game/2019-01-30/3",
+        "correct_answers": 147178,
+        "incorrect_answers": 46194,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44792,
+        "text": "Linguists can guess from this creatureâs name that it is found where?",
+        "question_number": 7,
+        "eliminated": "90,914",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "63,424",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134271,
+            "text": "Sri Lanka",
+            "correct": false,
+            "count": "78,405",
+            "percent": "51.74%"
+          },
+          {
+            "id": 134273,
+            "text": "Mexico",
+            "correct": true,
+            "count": "63,424",
+            "percent": "41.85%"
+          },
+          {
+            "id": 134275,
+            "text": "Ukraine",
+            "correct": false,
+            "count": "9,717",
+            "percent": "6.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/3/7",
+        "game_link": "/us/game/2019-01-30/3",
+        "correct_answers": 63424,
+        "incorrect_answers": 88122,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44800,
+        "text": "What language is spoken in the communities near this massive radio telescope?",
+        "question_number": 8,
+        "eliminated": "32,259",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "47,756",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134295,
+            "text": "French",
+            "correct": false,
+            "count": "12,716",
+            "percent": "16.01%"
+          },
+          {
+            "id": 134297,
+            "text": "German",
+            "correct": false,
+            "count": "18,978",
+            "percent": "23.89%"
+          },
+          {
+            "id": 134302,
+            "text": "Spanish",
+            "correct": true,
+            "count": "47,756",
+            "percent": "60.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/3/8",
+        "game_link": "/us/game/2019-01-30/3",
+        "correct_answers": 47756,
+        "incorrect_answers": 31694,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44809,
+        "text": "This animal breed was named for the capital of what nation?",
+        "question_number": 9,
+        "eliminated": "36,745",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "16,186",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134321,
+            "text": "Bulgaria",
+            "correct": false,
+            "count": "11,402",
+            "percent": "21.9%"
+          },
+          {
+            "id": 134323,
+            "text": "Turkey",
+            "correct": true,
+            "count": "16,186",
+            "percent": "31.09%"
+          },
+          {
+            "id": 134325,
+            "text": "Morocco",
+            "correct": false,
+            "count": "24,478",
+            "percent": "47.01%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/3/9",
+        "game_link": "/us/game/2019-01-30/3",
+        "correct_answers": 16186,
+        "incorrect_answers": 35880,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44816,
+        "text": "Footage of this place briefly appeared in the opening ceremony to which Summer Olympics?",
+        "question_number": 10,
+        "eliminated": "8,730",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "14,946",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134343,
+            "text": "2008",
+            "correct": false,
+            "count": "6,541",
+            "percent": "28.05%"
+          },
+          {
+            "id": 134347,
+            "text": "2012",
+            "correct": true,
+            "count": "14,946",
+            "percent": "64.08%"
+          },
+          {
+            "id": 134352,
+            "text": "2016",
+            "correct": false,
+            "count": "1,836",
+            "percent": "7.87%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/3/10",
+        "game_link": "/us/game/2019-01-30/3",
+        "correct_answers": 14946,
+        "incorrect_answers": 8377,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44824,
+        "text": "This time-lapse footage of the Sun was taken close to where?",
+        "question_number": 11,
+        "eliminated": "6,299",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "10,117",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134364,
+            "text": "North Pole",
+            "correct": true,
+            "count": "10,117",
+            "percent": "62.11%"
+          },
+          {
+            "id": 134366,
+            "text": "South Pole",
+            "correct": false,
+            "count": "2,801",
+            "percent": "17.19%"
+          },
+          {
+            "id": 134369,
+            "text": "Equator",
+            "correct": false,
+            "count": "3,372",
+            "percent": "20.7%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/3/11",
+        "game_link": "/us/game/2019-01-30/3",
+        "correct_answers": 10117,
+        "incorrect_answers": 6173,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44831,
+        "text": "This animal, shown in its defensive posture, is found on what two continents?",
+        "question_number": 12,
+        "eliminated": "3,627",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "7,870",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 134388,
+            "text": "Africa / Asia",
+            "correct": true,
+            "count": "7,870",
+            "percent": "69.31%"
+          },
+          {
+            "id": 134389,
+            "text": "N. America / S. America",
+            "correct": false,
+            "count": "2,597",
+            "percent": "22.87%"
+          },
+          {
+            "id": 134390,
+            "text": "Australia / Europe",
+            "correct": false,
+            "count": "888",
+            "percent": "7.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-30/3/12",
+        "game_link": "/us/game/2019-01-30/3",
+        "correct_answers": 7870,
+        "incorrect_answers": 3485,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

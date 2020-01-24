@@ -1,0 +1,1376 @@
+[
+  {
+    "id": 57028,
+    "show_id": 9682,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "10,000",
+    "currency": "$",
+    "start_time": "2019-02-25T02:00:00Z",
+    "direct_link": "/us/game/2019-02-24/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1",
+      "currency": "$",
+      "average_prize": "10,000.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Oscars",
+        "slug": "oscars"
+      },
+      {
+        "name": "Winner Takes All",
+        "slug": "winner-takes-all"
+      },
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "questions": [
+      {
+        "id": 48564,
+        "text": "âIâll be backâ is an iconic quote from what action movie?",
+        "question_number": 1,
+        "eliminated": "-9,856",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "506,368",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 145587,
+            "text": "Bohemian Rhapsody",
+            "correct": false,
+            "count": "5,511",
+            "percent": "1.11%"
+          },
+          {
+            "id": 145588,
+            "text": "The Terminator",
+            "correct": true,
+            "count": "488,078",
+            "percent": "98.3%"
+          },
+          {
+            "id": 145590,
+            "text": "Roma",
+            "correct": false,
+            "count": "2,923",
+            "percent": "0.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/1",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 488078,
+        "incorrect_answers": 8434,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48573,
+        "text": "One of the biggest sleeper hits of all time is âMy Big Fat Greekâ what?",
+        "question_number": 2,
+        "eliminated": "768",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "505,897",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 145614,
+            "text": "Doink",
+            "correct": false,
+            "count": "3,144",
+            "percent": "0.64%"
+          },
+          {
+            "id": 145615,
+            "text": "Car",
+            "correct": false,
+            "count": "3,332",
+            "percent": "0.68%"
+          },
+          {
+            "id": 145616,
+            "text": "Wedding",
+            "correct": true,
+            "count": "483,365",
+            "percent": "98.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/2",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 483365,
+        "incorrect_answers": 6476,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48580,
+        "text": "What part of the US is most associated with this accent?",
+        "question_number": 3,
+        "eliminated": "2,327",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "503,578",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 145635,
+            "text": "Midwestern",
+            "correct": true,
+            "count": "381,574",
+            "percent": "77.57%"
+          },
+          {
+            "id": 145636,
+            "text": "Brooklyn",
+            "correct": false,
+            "count": "71,341",
+            "percent": "14.5%"
+          },
+          {
+            "id": 145638,
+            "text": "Southern",
+            "correct": false,
+            "count": "39,006",
+            "percent": "7.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/3",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 381574,
+        "incorrect_answers": 110347,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48588,
+        "text": "In which film did Al Pacino repeatedly shout âHOO AHâ?",
+        "question_number": 4,
+        "eliminated": "9,280",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "494,421",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 145659,
+            "text": "Serpico",
+            "correct": false,
+            "count": "96,749",
+            "percent": "20.29%"
+          },
+          {
+            "id": 145660,
+            "text": "Scent of a Woman",
+            "correct": true,
+            "count": "297,336",
+            "percent": "62.34%"
+          },
+          {
+            "id": 145661,
+            "text": "Dog Day Afternoon",
+            "correct": false,
+            "count": "82,862",
+            "percent": "17.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/4",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 297336,
+        "incorrect_answers": 179611,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48597,
+        "text": "Which of these movies was the film debut of Dolly Parton?",
+        "question_number": 5,
+        "eliminated": "18,211",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "476,707",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 145684,
+            "text": "Straight Talk",
+            "correct": false,
+            "count": "41,255",
+            "percent": "8.85%"
+          },
+          {
+            "id": 145687,
+            "text": "9 to 5",
+            "correct": true,
+            "count": "317,458",
+            "percent": "68.1%"
+          },
+          {
+            "id": 145690,
+            "text": "Steel Magnolias",
+            "correct": false,
+            "count": "107,440",
+            "percent": "23.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/5",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 317458,
+        "incorrect_answers": 148695,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48605,
+        "text": "The director of âDo the Right Thingâ also directed what Clive Owen movie?",
+        "question_number": 6,
+        "eliminated": "88,914",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "389,216",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 145710,
+            "text": "Closer",
+            "correct": false,
+            "count": "86,495",
+            "percent": "19.27%"
+          },
+          {
+            "id": 145711,
+            "text": "Inside Man",
+            "correct": true,
+            "count": "209,368",
+            "percent": "46.65%"
+          },
+          {
+            "id": 145713,
+            "text": "Children of Men",
+            "correct": false,
+            "count": "152,903",
+            "percent": "34.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/6",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 209368,
+        "incorrect_answers": 239398,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48613,
+        "text": "In âThe Fugitiveâ starring Harrison Ford, what is the famous response to, âI didnât kill my wifeâ?",
+        "question_number": 7,
+        "eliminated": "148,983",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "253,937",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 145734,
+            "text": "Oh, come on.",
+            "correct": false,
+            "count": "67,741",
+            "percent": "17.45%"
+          },
+          {
+            "id": 145735,
+            "text": "Yes you did!",
+            "correct": false,
+            "count": "67,601",
+            "percent": "17.41%"
+          },
+          {
+            "id": 145736,
+            "text": "I don't care.",
+            "correct": true,
+            "count": "252,946",
+            "percent": "65.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/7",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 252946,
+        "incorrect_answers": 135342,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48621,
+        "text": "Which of these talented child actors was NOT nominated for an Oscar for their breakout role?",
+        "question_number": 8,
+        "eliminated": "194,019",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "105,414",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 145758,
+            "text": "Haley Joel Osment",
+            "correct": false,
+            "count": "102,254",
+            "percent": "35.12%"
+          },
+          {
+            "id": 145759,
+            "text": "Jacob Tremblay",
+            "correct": true,
+            "count": "105,361",
+            "percent": "36.19%"
+          },
+          {
+            "id": 145762,
+            "text": "Saoirse Ronan",
+            "correct": false,
+            "count": "83,516",
+            "percent": "28.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/8",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 105361,
+        "incorrect_answers": 185770,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48630,
+        "text": "The mother in âThe Iron Giantâ was voiced by a lead actress on which TV show?",
+        "question_number": 9,
+        "eliminated": "98,821",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "64,467",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 145783,
+            "text": "Friends",
+            "correct": true,
+            "count": "64,467",
+            "percent": "39.9%"
+          },
+          {
+            "id": 145786,
+            "text": "Greyâs Anatomy",
+            "correct": false,
+            "count": "38,874",
+            "percent": "24.06%"
+          },
+          {
+            "id": 145787,
+            "text": "Sex and the City",
+            "correct": false,
+            "count": "58,213",
+            "percent": "36.03%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/9",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 64467,
+        "incorrect_answers": 97087,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48638,
+        "text": "âThe Last Action Heroâ had the bad luck of opening the week after what film?",
+        "question_number": 10,
+        "eliminated": "42,272",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "43,965",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 145807,
+            "text": "Jurassic Park",
+            "correct": true,
+            "count": "43,965",
+            "percent": "51.45%"
+          },
+          {
+            "id": 145809,
+            "text": "Rocky 2",
+            "correct": false,
+            "count": "7,495",
+            "percent": "8.77%"
+          },
+          {
+            "id": 145815,
+            "text": "Titanic",
+            "correct": false,
+            "count": "33,998",
+            "percent": "39.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/10",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 43965,
+        "incorrect_answers": 41493,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48644,
+        "text": "Which of these is a bridesmaid dress style Katherine Heigl wears in â27 Dressesâ?",
+        "question_number": 11,
+        "eliminated": "25,354",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "25,470",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 145827,
+            "text": "Flapper",
+            "correct": false,
+            "count": "19,353",
+            "percent": "38.43%"
+          },
+          {
+            "id": 145830,
+            "text": "Clown",
+            "correct": false,
+            "count": "5,531",
+            "percent": "10.98%"
+          },
+          {
+            "id": 145835,
+            "text": "Goth",
+            "correct": true,
+            "count": "25,470",
+            "percent": "50.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/11",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 25470,
+        "incorrect_answers": 24884,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48652,
+        "text": "What line ends this speech by Robin Williams?",
+        "question_number": 12,
+        "eliminated": "13,493",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "15,967",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 145851,
+            "text": "Your move, chief.",
+            "correct": true,
+            "count": "15,970",
+            "percent": "54.78%"
+          },
+          {
+            "id": 145853,
+            "text": "Think about it.",
+            "correct": false,
+            "count": "6,980",
+            "percent": "23.94%"
+          },
+          {
+            "id": 145856,
+            "text": "How âbout them apples?",
+            "correct": false,
+            "count": "6,203",
+            "percent": "21.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/12",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 15970,
+        "incorrect_answers": 13183,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48660,
+        "text": "Taraji P. Henson earned an Oscar nomination for a film with the same director as what?",
+        "question_number": 13,
+        "eliminated": "8,514",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "9,036",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 145875,
+            "text": "Django Unchained",
+            "correct": false,
+            "count": "4,879",
+            "percent": "28.36%"
+          },
+          {
+            "id": 145877,
+            "text": "Zodiac",
+            "correct": true,
+            "count": "9,039",
+            "percent": "52.53%"
+          },
+          {
+            "id": 145879,
+            "text": "Goodfellas",
+            "correct": false,
+            "count": "3,288",
+            "percent": "19.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/13",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 9039,
+        "incorrect_answers": 8167,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48670,
+        "text": "Which of these past Oscar nominees has NOT played a Keanu Reeves love interest?",
+        "question_number": 14,
+        "eliminated": "2,116",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "7,881",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 145903,
+            "text": "Charlize Theron",
+            "correct": false,
+            "count": "591",
+            "percent": "6.01%"
+          },
+          {
+            "id": 145908,
+            "text": "Margot Robbie",
+            "correct": true,
+            "count": "7,888",
+            "percent": "80.15%"
+          },
+          {
+            "id": 145914,
+            "text": "Diane Keaton",
+            "correct": false,
+            "count": "1,362",
+            "percent": "13.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/14",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 7888,
+        "incorrect_answers": 1953,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48676,
+        "text": "Ryan Gosling stars in âThe Nice Guysâ opposite the actor who played which part in 2012âs âLes MisÃ©rablesâ?",
+        "question_number": 15,
+        "eliminated": "2,654",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "5,429",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 145923,
+            "text": "Monsieur ThÃ©nardier",
+            "correct": false,
+            "count": "728",
+            "percent": "9.24%"
+          },
+          {
+            "id": 145924,
+            "text": "Jean Valjean",
+            "correct": false,
+            "count": "1,718",
+            "percent": "21.8%"
+          },
+          {
+            "id": 145929,
+            "text": "Javert",
+            "correct": true,
+            "count": "5,434",
+            "percent": "68.96%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/15",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 5434,
+        "incorrect_answers": 2446,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48684,
+        "text": "Which actor turned down the role of Shrek because he âdidnât want to play an ogreâ?",
+        "question_number": 16,
+        "eliminated": "1,771",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "3,654",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 145947,
+            "text": "Nicolas Cage",
+            "correct": true,
+            "count": "3,661",
+            "percent": "69.18%"
+          },
+          {
+            "id": 145950,
+            "text": "Danny DeVito",
+            "correct": false,
+            "count": "1,189",
+            "percent": "22.47%"
+          },
+          {
+            "id": 145960,
+            "text": "Willem Dafoe",
+            "correct": false,
+            "count": "442",
+            "percent": "8.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/16",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 3661,
+        "incorrect_answers": 1631,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48695,
+        "text": "During this famous scene, who speaks Spanish?",
+        "question_number": 17,
+        "eliminated": "3,095",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "546",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 145979,
+            "text": "Maya Rudolph",
+            "correct": false,
+            "count": "384",
+            "percent": "10.71%"
+          },
+          {
+            "id": 145981,
+            "text": "Rose Byrne",
+            "correct": false,
+            "count": "2,654",
+            "percent": "74.03%"
+          },
+          {
+            "id": 145986,
+            "text": "Kristen Wiig",
+            "correct": true,
+            "count": "547",
+            "percent": "15.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/17",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 547,
+        "incorrect_answers": 3038,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48701,
+        "text": "Samuel L. Jackson famously swore in his reaction shot after losing an Oscar to whom?",
+        "question_number": 18,
+        "eliminated": "309",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "232",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 145996,
+            "text": "Colin Firth",
+            "correct": false,
+            "count": "81",
+            "percent": "15.17%"
+          },
+          {
+            "id": 145999,
+            "text": "Ralph Fiennes",
+            "correct": false,
+            "count": "221",
+            "percent": "41.39%"
+          },
+          {
+            "id": 146002,
+            "text": "Martin Landau",
+            "correct": true,
+            "count": "232",
+            "percent": "43.45%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/18",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 232,
+        "incorrect_answers": 302,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48709,
+        "text": "The star of âA Simple Favorâ was nominated for an Oscar playing opposite what big-time actor?",
+        "question_number": 19,
+        "eliminated": "136",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "86",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146020,
+            "text": "Harrison Ford",
+            "correct": false,
+            "count": "55",
+            "percent": "26.44%"
+          },
+          {
+            "id": 146021,
+            "text": "George Clooney",
+            "correct": true,
+            "count": "92",
+            "percent": "44.23%"
+          },
+          {
+            "id": 146026,
+            "text": "Ben Affleck",
+            "correct": false,
+            "count": "61",
+            "percent": "29.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/19",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 92,
+        "incorrect_answers": 116,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48719,
+        "text": "Which Oscar-winning actor botched the pronunciation of this movieâs title at an awards show?",
+        "question_number": 20,
+        "eliminated": "52",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "24",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146049,
+            "text": "Jean Dujardin",
+            "correct": false,
+            "count": "27",
+            "percent": "36.49%"
+          },
+          {
+            "id": 146053,
+            "text": "Leonardo DiCaprio",
+            "correct": true,
+            "count": "24",
+            "percent": "32.43%"
+          },
+          {
+            "id": 146057,
+            "text": "John Travolta",
+            "correct": false,
+            "count": "23",
+            "percent": "31.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/20",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 24,
+        "incorrect_answers": 50,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48724,
+        "text": "The actor who plays Colin Powell in âViceâ has previously been nominated for what award?",
+        "question_number": 21,
+        "eliminated": "7",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "17",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146067,
+            "text": "Golden Globe",
+            "correct": false,
+            "count": "6",
+            "percent": "25.0%"
+          },
+          {
+            "id": 146070,
+            "text": "Oscar",
+            "correct": false,
+            "count": "1",
+            "percent": "4.17%"
+          },
+          {
+            "id": 146074,
+            "text": "Neither",
+            "correct": true,
+            "count": "17",
+            "percent": "70.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/21",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 17,
+        "incorrect_answers": 7,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48735,
+        "text": "Which of these Oscar winners did NOT lend their voice to the animated hit âSingâ?",
+        "question_number": 22,
+        "eliminated": "2",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "14",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146096,
+            "text": "Reese Witherspoon",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 146100,
+            "text": "Matthew McConaughey",
+            "correct": false,
+            "count": "1",
+            "percent": "6.67%"
+          },
+          {
+            "id": 146105,
+            "text": "Nicole Kidman",
+            "correct": true,
+            "count": "14",
+            "percent": "93.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/22",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 14,
+        "incorrect_answers": 1,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48742,
+        "text": "The star of which film went to an Olympic trials semifinals for archery?",
+        "question_number": 23,
+        "eliminated": "1",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "13",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146121,
+            "text": "A League of Their Own",
+            "correct": true,
+            "count": "13",
+            "percent": "92.86%"
+          },
+          {
+            "id": 146122,
+            "text": "Blade Runner",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 146124,
+            "text": "Working Girl",
+            "correct": false,
+            "count": "1",
+            "percent": "7.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/23",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 13,
+        "incorrect_answers": 1,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48748,
+        "text": "Glenn Close has NOT played which of these characters in film?",
+        "question_number": 24,
+        "eliminated": "8",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "5",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146139,
+            "text": "Robot creator",
+            "correct": false,
+            "count": "5",
+            "percent": "38.46%"
+          },
+          {
+            "id": 146141,
+            "text": "Mother bird",
+            "correct": true,
+            "count": "5",
+            "percent": "38.46%"
+          },
+          {
+            "id": 146144,
+            "text": "Meek pirate",
+            "correct": false,
+            "count": "3",
+            "percent": "23.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/24",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 5,
+        "incorrect_answers": 8,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48758,
+        "text": "Who played the princess in the Disney film that featured a theme song by Lana Del Rey?",
+        "question_number": 25,
+        "eliminated": "3",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146168,
+            "text": "Elle Fanning",
+            "correct": true,
+            "count": "2",
+            "percent": "40.0%"
+          },
+          {
+            "id": 146171,
+            "text": "Dakota Fanning",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 146176,
+            "text": "Emma Watson",
+            "correct": false,
+            "count": "3",
+            "percent": "60.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/25",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 2,
+        "incorrect_answers": 3,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48764,
+        "text": "In the film where Benicio Del Toro played a James Bond villain, who played Bond?",
+        "question_number": 26,
+        "eliminated": "1",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "1",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146187,
+            "text": "Timothy Dalton",
+            "correct": true,
+            "count": "1",
+            "percent": "50.0%"
+          },
+          {
+            "id": 146188,
+            "text": "Daniel Craig",
+            "correct": false,
+            "count": "1",
+            "percent": "50.0%"
+          },
+          {
+            "id": 146190,
+            "text": "Pierce Brosnan",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-24/1/26",
+        "game_link": "/us/game/2019-02-24/1",
+        "correct_answers": 1,
+        "incorrect_answers": 1,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 57268,
+    "show_id": 9756,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-02-25T02:30:00Z",
+    "direct_link": "/us/game/2019-02-24/2",
+    "currency": "$",
+    "prize": "10,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "0.00"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "0.00"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "0.00"
+        },
+        {
+          "number": "31,238",
+          "amount": "0.31",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.3128901123523575,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-02-24/2/1",
+        "question_number": 1,
+        "text": "Actor",
+        "answer": [
+          "HALLE",
+          "BERRY"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "R"
+        ],
+        "game_link": "/us/game/2019-02-24/2",
+        "eliminated": 27312,
+        "advancing": 206098,
+        "correct_answers": 206098,
+        "incorrect_answers": 27312
+      },
+      {
+        "direct_link": "/us/game/2019-02-24/2/2",
+        "question_number": 2,
+        "text": "Oscar Host City",
+        "answer": [
+          "LOS",
+          "ANGELES"
+        ],
+        "initial_letters": [
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "N"
+        ],
+        "game_link": "/us/game/2019-02-24/2",
+        "eliminated": 3414,
+        "advancing": 205310,
+        "correct_answers": 205310,
+        "incorrect_answers": 3414
+      },
+      {
+        "direct_link": "/us/game/2019-02-24/2/3",
+        "question_number": 3,
+        "text": "Comic Book Movie",
+        "answer": [
+          "BLACK",
+          "PANTHER"
+        ],
+        "initial_letters": [
+          " ",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "T"
+        ],
+        "game_link": "/us/game/2019-02-24/2",
+        "eliminated": 28553,
+        "advancing": 176663,
+        "correct_answers": 176663,
+        "incorrect_answers": 28553
+      },
+      {
+        "direct_link": "/us/game/2019-02-24/2/4",
+        "question_number": 4,
+        "text": "Streaming Nominee",
+        "answer": [
+          "ROMA",
+          "ON",
+          "NETFLIX"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "M"
+        ],
+        "game_link": "/us/game/2019-02-24/2",
+        "eliminated": 76418,
+        "advancing": 103787,
+        "correct_answers": 103787,
+        "incorrect_answers": 76418
+      },
+      {
+        "direct_link": "/us/game/2019-02-24/2/5",
+        "question_number": 5,
+        "text": "Surprising Best Picture",
+        "answer": [
+          "THE",
+          "HURT",
+          "LOCKER"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "R"
+        ],
+        "game_link": "/us/game/2019-02-24/2",
+        "eliminated": 13421,
+        "advancing": 80395,
+        "correct_answers": 80395,
+        "incorrect_answers": 13421
+      },
+      {
+        "direct_link": "/us/game/2019-02-24/2/6",
+        "question_number": 6,
+        "text": "Acclaimed Actor",
+        "answer": [
+          "SIDNEY",
+          "POITIER"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "R"
+        ],
+        "game_link": "/us/game/2019-02-24/2",
+        "eliminated": 40246,
+        "advancing": 44633,
+        "correct_answers": 44633,
+        "incorrect_answers": 40246
+      },
+      {
+        "direct_link": "/us/game/2019-02-24/2/7",
+        "question_number": 7,
+        "text": "Honored Sequel",
+        "answer": [
+          "THE",
+          "GODFATHER",
+          "PART",
+          "II"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "G"
+        ],
+        "game_link": "/us/game/2019-02-24/2",
+        "eliminated": 10683,
+        "advancing": 44397,
+        "correct_answers": 44397,
+        "incorrect_answers": 10683
+      },
+      {
+        "direct_link": "/us/game/2019-02-24/2/8",
+        "question_number": 8,
+        "text": "3D Best Picture Nominees",
+        "answer": [
+          "AVATAR",
+          "&",
+          "UP"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "U"
+        ],
+        "to_reveal_letters": [
+          "P",
+          "V"
+        ],
+        "game_link": "/us/game/2019-02-24/2",
+        "eliminated": 5162,
+        "advancing": 42007,
+        "correct_answers": 42007,
+        "incorrect_answers": 5162
+      },
+      {
+        "direct_link": "/us/game/2019-02-24/2/9",
+        "question_number": 9,
+        "text": "Oscars Goof",
+        "answer": [
+          "WRONG",
+          "ENVELOPE",
+          "OPENED"
+        ],
+        "initial_letters": [
+          " ",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "G"
+        ],
+        "game_link": "/us/game/2019-02-24/2",
+        "eliminated": 9447,
+        "advancing": 34476,
+        "correct_answers": 34476,
+        "incorrect_answers": 9447
+      },
+      {
+        "direct_link": "/us/game/2019-02-24/2/10",
+        "question_number": 10,
+        "text": "This Puzzleâs Theme",
+        "answer": [
+          "HISTORIC",
+          "OSCAR",
+          "FIRSTS"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "R"
+        ],
+        "game_link": "/us/game/2019-02-24/2",
+        "eliminated": 6819,
+        "advancing": 31241,
+        "correct_answers": 31241,
+        "incorrect_answers": 6819
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

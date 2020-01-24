@@ -1,0 +1,1347 @@
+[
+  {
+    "id": 134712,
+    "show_id": 12088,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "10,000",
+    "currency": "$",
+    "start_time": "2019-09-27T01:00:00Z",
+    "direct_link": "/us/game/2019-09-26/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 149882,
+        "text": "What is the center of an atom called?",
+        "question_number": 1,
+        "eliminated": "-12,803",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "138,598",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299279,
+            "text": "Nucleus",
+            "correct": true,
+            "count": "118,092",
+            "percent": "98.02%"
+          },
+          {
+            "id": 299280,
+            "text": "Electron shell",
+            "correct": false,
+            "count": "1,199",
+            "percent": "1.0%"
+          },
+          {
+            "id": 299281,
+            "text": "Orbit",
+            "correct": false,
+            "count": "1,190",
+            "percent": "0.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/1",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 118092,
+        "incorrect_answers": 2389,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149890,
+        "text": "âNothing but netâ is a catchphrase from what sport?",
+        "question_number": 2,
+        "eliminated": "2,215",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "136,437",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299291,
+            "text": "Lacrosse",
+            "correct": false,
+            "count": "5,412",
+            "percent": "4.44%"
+          },
+          {
+            "id": 299293,
+            "text": "Basketball",
+            "correct": true,
+            "count": "113,207",
+            "percent": "92.81%"
+          },
+          {
+            "id": 299297,
+            "text": "Hockey",
+            "correct": false,
+            "count": "3,358",
+            "percent": "2.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/2",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 113207,
+        "incorrect_answers": 8770,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149898,
+        "text": "What kind of pants are ideal for showing off oneâs ankles?",
+        "question_number": 3,
+        "eliminated": "5,059",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "131,437",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299303,
+            "text": "Parachute",
+            "correct": false,
+            "count": "1,447",
+            "percent": "1.19%"
+          },
+          {
+            "id": 299307,
+            "text": "Jeans",
+            "correct": false,
+            "count": "1,468",
+            "percent": "1.21%"
+          },
+          {
+            "id": 299311,
+            "text": "Capri",
+            "correct": true,
+            "count": "118,559",
+            "percent": "97.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/3",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 118559,
+        "incorrect_answers": 2915,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149906,
+        "text": "Where does the equator intersect the Americas?",
+        "question_number": 4,
+        "eliminated": "22,421",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "109,155",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299315,
+            "text": "Central America",
+            "correct": false,
+            "count": "46,557",
+            "percent": "38.67%"
+          },
+          {
+            "id": 299317,
+            "text": "North America",
+            "correct": false,
+            "count": "4,765",
+            "percent": "3.96%"
+          },
+          {
+            "id": 299320,
+            "text": "South America",
+            "correct": true,
+            "count": "69,076",
+            "percent": "57.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/4",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 69076,
+        "incorrect_answers": 51322,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149914,
+        "text": "Which is an example of Turkish cuisine?",
+        "question_number": 5,
+        "eliminated": "34,357",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "76,294",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299327,
+            "text": "Pastitsada",
+            "correct": false,
+            "count": "12,728",
+            "percent": "12.35%"
+          },
+          {
+            "id": 299331,
+            "text": "Couscous",
+            "correct": false,
+            "count": "44,995",
+            "percent": "43.65%"
+          },
+          {
+            "id": 299334,
+            "text": "Doner kebab",
+            "correct": true,
+            "count": "45,370",
+            "percent": "44.01%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/5",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 45370,
+        "incorrect_answers": 57723,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149922,
+        "text": "One-eighth of the memory in the original âSonic the Hedgehogâ game reportedly went toward what?",
+        "question_number": 6,
+        "eliminated": "25,826",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "53,877",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299339,
+            "text": "âSegaâ chant",
+            "correct": true,
+            "count": "38,935",
+            "percent": "52.46%"
+          },
+          {
+            "id": 299342,
+            "text": "Character sprites",
+            "correct": false,
+            "count": "10,943",
+            "percent": "14.75%"
+          },
+          {
+            "id": 299346,
+            "text": "The final level",
+            "correct": false,
+            "count": "24,335",
+            "percent": "32.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/6",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 38935,
+        "incorrect_answers": 35278,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149930,
+        "text": "In its original vinyl release, which of these Rolling Stones albums was two discs?",
+        "question_number": 7,
+        "eliminated": "21,049",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "35,242",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299351,
+            "text": "Sticky Fingers",
+            "correct": false,
+            "count": "12,355",
+            "percent": "22.91%"
+          },
+          {
+            "id": 299355,
+            "text": "Exile on Main St.",
+            "correct": true,
+            "count": "29,211",
+            "percent": "54.17%"
+          },
+          {
+            "id": 299359,
+            "text": "Let It Bleed",
+            "correct": false,
+            "count": "12,362",
+            "percent": "22.92%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/7",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 29211,
+        "incorrect_answers": 24717,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149938,
+        "text": "Which contains an example of a flat adverb?",
+        "question_number": 8,
+        "eliminated": "18,441",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "21,112",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299363,
+            "text": "See you next Wednesday",
+            "correct": false,
+            "count": "5,801",
+            "percent": "15.3%"
+          },
+          {
+            "id": 299367,
+            "text": "We got hit hard",
+            "correct": true,
+            "count": "16,065",
+            "percent": "42.38%"
+          },
+          {
+            "id": 299371,
+            "text": "Prompt, friendly service",
+            "correct": false,
+            "count": "16,037",
+            "percent": "42.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/8",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 16065,
+        "incorrect_answers": 21838,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149946,
+        "text": "A marshmallow dispenser was one of the promotional tie-in items for what âStar Trekâ film?",
+        "question_number": 9,
+        "eliminated": "10,841",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "12,856",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299375,
+            "text": "The Undiscovered Country",
+            "correct": false,
+            "count": "2,191",
+            "percent": "9.55%"
+          },
+          {
+            "id": 299379,
+            "text": "The Final Frontier",
+            "correct": true,
+            "count": "8,306",
+            "percent": "36.2%"
+          },
+          {
+            "id": 299383,
+            "text": "The Voyage Home",
+            "correct": false,
+            "count": "12,447",
+            "percent": "54.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/9",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 8306,
+        "incorrect_answers": 14638,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149954,
+        "text": "Which member of One Direction has the most Instagram followers?",
+        "question_number": 10,
+        "eliminated": "4,183",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "10,544",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299387,
+            "text": "Zayn Malik",
+            "correct": true,
+            "count": "8,302",
+            "percent": "57.76%"
+          },
+          {
+            "id": 299390,
+            "text": "Louis Tomlinson",
+            "correct": false,
+            "count": "630",
+            "percent": "4.38%"
+          },
+          {
+            "id": 299394,
+            "text": "Harry Styles",
+            "correct": false,
+            "count": "5,442",
+            "percent": "37.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/10",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 8302,
+        "incorrect_answers": 6072,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149962,
+        "text": "What is this architectural style?",
+        "question_number": 11,
+        "eliminated": "8,411",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "3,248",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299399,
+            "text": "Metaphoric",
+            "correct": false,
+            "count": "2,850",
+            "percent": "25.23%"
+          },
+          {
+            "id": 299401,
+            "text": "Blobitecture",
+            "correct": false,
+            "count": "5,196",
+            "percent": "46.01%"
+          },
+          {
+            "id": 299405,
+            "text": "Googie",
+            "correct": true,
+            "count": "3,248",
+            "percent": "28.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/11",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 3248,
+        "incorrect_answers": 8046,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149970,
+        "text": "The 1973 pilot âShopperâs Bazaarâ evolved into what modern game show?",
+        "question_number": 12,
+        "eliminated": "2,686",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "4,145",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299411,
+            "text": "The Price Is Right",
+            "correct": false,
+            "count": "1,502",
+            "percent": "22.33%"
+          },
+          {
+            "id": 299415,
+            "text": "Wheel of Fortune",
+            "correct": true,
+            "count": "4,146",
+            "percent": "61.64%"
+          },
+          {
+            "id": 299418,
+            "text": "Letâs Make a Deal",
+            "correct": false,
+            "count": "1,078",
+            "percent": "16.03%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/12",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 4146,
+        "incorrect_answers": 2580,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 12,
+          "players_left": 3794,
+          "players_left_formatted": "3,794",
+          "num_winners": 1160,
+          "num_winners_formatted": "1,160",
+          "prize": 0.25,
+          "prize_formatted": "$0.25",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 149978,
+        "text": "The star of âSecret Life of the American Teenagerâ has yet to be nominated for what award?",
+        "question_number": 13,
+        "eliminated": "2,470",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "1,484",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299423,
+            "text": "Golden Globe",
+            "correct": false,
+            "count": "452",
+            "percent": "12.27%"
+          },
+          {
+            "id": 299425,
+            "text": "Oscar",
+            "correct": true,
+            "count": "1,484",
+            "percent": "40.28%"
+          },
+          {
+            "id": 299427,
+            "text": "Emmy",
+            "correct": false,
+            "count": "1,748",
+            "percent": "47.45%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/13",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 1484,
+        "incorrect_answers": 2200,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149986,
+        "text": "Of these chili peppers, which is hottest on the Scoville scale?",
+        "question_number": 14,
+        "eliminated": "190",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "2,786",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299435,
+            "text": "JalapeÃ±o",
+            "correct": false,
+            "count": "21",
+            "percent": "0.72%"
+          },
+          {
+            "id": 299439,
+            "text": "Tabasco",
+            "correct": false,
+            "count": "121",
+            "percent": "4.13%"
+          },
+          {
+            "id": 299442,
+            "text": "Habanero",
+            "correct": true,
+            "count": "2,786",
+            "percent": "95.15%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/14",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 2786,
+        "incorrect_answers": 142,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149994,
+        "text": "Of these three songs, which one did Bruce Springsteen play live most frequently on his âBorn in the USAâ tour?",
+        "question_number": 15,
+        "eliminated": "2,277",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "609",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299447,
+            "text": "Cover Me",
+            "correct": false,
+            "count": "244",
+            "percent": "8.6%"
+          },
+          {
+            "id": 299450,
+            "text": "Glory Days",
+            "correct": true,
+            "count": "609",
+            "percent": "21.47%"
+          },
+          {
+            "id": 299455,
+            "text": "The River",
+            "correct": false,
+            "count": "1,984",
+            "percent": "69.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/15",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 609,
+        "incorrect_answers": 2228,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 15,
+          "players_left": 1256,
+          "players_left_formatted": "1,256",
+          "num_winners": 470,
+          "num_winners_formatted": "470",
+          "prize": 2.47,
+          "prize_formatted": "$2.47",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 150002,
+        "text": "Which of these celebrities lasted the longest on âDancing With the Starsâ?",
+        "question_number": 16,
+        "eliminated": "884",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "372",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299459,
+            "text": "Chaka Khan",
+            "correct": false,
+            "count": "62",
+            "percent": "5.04%"
+          },
+          {
+            "id": 299460,
+            "text": "Geraldo Rivera",
+            "correct": false,
+            "count": "795",
+            "percent": "64.69%"
+          },
+          {
+            "id": 299466,
+            "text": "Mischa Barton",
+            "correct": true,
+            "count": "372",
+            "percent": "30.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/16",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 372,
+        "incorrect_answers": 857,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150010,
+        "text": "What was the first US state to propose having an official state microbe?",
+        "question_number": 17,
+        "eliminated": "499",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "211",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299471,
+            "text": "Wisconsin",
+            "correct": true,
+            "count": "211",
+            "percent": "30.23%"
+          },
+          {
+            "id": 299474,
+            "text": "New Jersey",
+            "correct": false,
+            "count": "413",
+            "percent": "59.17%"
+          },
+          {
+            "id": 299477,
+            "text": "Hawaii",
+            "correct": false,
+            "count": "74",
+            "percent": "10.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/17",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 211,
+        "incorrect_answers": 487,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150018,
+        "text": "An artsy version of âUmbrellaâ played in what dramatic episode of âThe Hillsâ?",
+        "question_number": 18,
+        "eliminated": "81",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "194",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299483,
+            "text": "Paris Changes Everything",
+            "correct": false,
+            "count": "40",
+            "percent": "14.55%"
+          },
+          {
+            "id": 299486,
+            "text": "New City, New Drama",
+            "correct": false,
+            "count": "40",
+            "percent": "14.55%"
+          },
+          {
+            "id": 299489,
+            "text": "You Know What You Did",
+            "correct": true,
+            "count": "195",
+            "percent": "70.91%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/18",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 195,
+        "incorrect_answers": 80,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150026,
+        "text": "Which of these typically has the same number of chromosomes as a common strawberry?",
+        "question_number": 19,
+        "eliminated": "74",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "120",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299495,
+            "text": "Pigeon",
+            "correct": false,
+            "count": "17",
+            "percent": "9.19%"
+          },
+          {
+            "id": 299499,
+            "text": "Sugarcane",
+            "correct": false,
+            "count": "48",
+            "percent": "25.95%"
+          },
+          {
+            "id": 299503,
+            "text": "Elephant",
+            "correct": true,
+            "count": "120",
+            "percent": "64.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/19",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 120,
+        "incorrect_answers": 65,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150034,
+        "text": "Which of these is NOT included in Kehinde Wileyâs portrait of President Obama?",
+        "question_number": 20,
+        "eliminated": "74",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "46",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299507,
+            "text": "Chrysanthemum",
+            "correct": false,
+            "count": "14",
+            "percent": "11.76%"
+          },
+          {
+            "id": 299510,
+            "text": "Lily",
+            "correct": false,
+            "count": "58",
+            "percent": "48.74%"
+          },
+          {
+            "id": 299513,
+            "text": "Hibiscus",
+            "correct": true,
+            "count": "47",
+            "percent": "39.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/20",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 47,
+        "incorrect_answers": 72,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150042,
+        "text": "Jim Halpertâs British âThe Officeâ equivalent shares his last name with a work by which writer?",
+        "question_number": 21,
+        "eliminated": "21",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "24",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299519,
+            "text": "Agatha Christie",
+            "correct": false,
+            "count": "5",
+            "percent": "11.9%"
+          },
+          {
+            "id": 299523,
+            "text": "William Shakespeare",
+            "correct": false,
+            "count": "12",
+            "percent": "28.57%"
+          },
+          {
+            "id": 299527,
+            "text": "Geoffrey Chaucer",
+            "correct": true,
+            "count": "25",
+            "percent": "59.52%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-26/1/21",
+        "game_link": "/us/game/2019-09-26/1",
+        "correct_answers": 25,
+        "incorrect_answers": 17,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 21,
+          "players_left": 0,
+          "players_left_formatted": "0",
+          "num_winners": 24,
+          "num_winners_formatted": "24",
+          "prize": 70.84,
+          "prize_formatted": "$70.84",
+          "currency": "$"
+        },
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1829,
+        "game_id": 134712,
+        "question": "Where do you think Lenny Kravitz left his sunglasses?",
+        "results": [
+          {
+            "id": 10861,
+            "display_count": "33",
+            "vote_count": 11919,
+            "text": "Denim Vest Pocket "
+          },
+          {
+            "id": 10869,
+            "display_count": "37",
+            "vote_count": 13212,
+            "text": "Fluffy Shag Carpet"
+          },
+          {
+            "id": 10865,
+            "display_count": "30",
+            "vote_count": 10847,
+            "text": "Greenroom Couch"
+          }
+        ],
+        "created_at": "2019-09-27T01:04:13Z"
+      },
+      {
+        "id": 1821,
+        "game_id": 134712,
+        "question": "Which Batman villain should Jonah Hill play?",
+        "results": [
+          {
+            "id": 10815,
+            "display_count": "21",
+            "vote_count": 6899,
+            "text": "Riddler "
+          },
+          {
+            "id": 10813,
+            "display_count": "63",
+            "vote_count": 20479,
+            "text": "The Penguin"
+          },
+          {
+            "id": 10817,
+            "display_count": "15",
+            "vote_count": 4947,
+            "text": "Two Face"
+          }
+        ],
+        "created_at": "2019-09-27T01:03:11Z"
+      },
+      {
+        "id": 1825,
+        "game_id": 134712,
+        "question": "Which of these Abbey Road songs is your favorite?",
+        "results": [
+          {
+            "id": 10837,
+            "display_count": "39",
+            "vote_count": 13838,
+            "text": " Come Together"
+          },
+          {
+            "id": 10841,
+            "display_count": "46",
+            "vote_count": 16489,
+            "text": " Here Comes the Sun"
+          },
+          {
+            "id": 10845,
+            "display_count": "15",
+            "vote_count": 5360,
+            "text": "Something"
+          }
+        ],
+        "created_at": "2019-09-27T01:03:43Z"
+      },
+      {
+        "id": 1833,
+        "game_id": 134712,
+        "question": "Who should perform at Superbowl 2021?",
+        "results": [
+          {
+            "id": 10891,
+            "display_count": "30",
+            "vote_count": 11070,
+            "text": "BTS"
+          },
+          {
+            "id": 10887,
+            "display_count": "43",
+            "vote_count": 16145,
+            "text": "Drake"
+          },
+          {
+            "id": 10885,
+            "display_count": "27",
+            "vote_count": 10154,
+            "text": "Lil Nas X"
+          }
+        ],
+        "created_at": "2019-09-27T01:04:49Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 12,
+        "players_left": 3794,
+        "players_left_formatted": "3,794",
+        "num_winners": 1160,
+        "num_winners_formatted": "1,160",
+        "prize": 0.25,
+        "prize_formatted": "$0.25",
+        "currency": "$"
+      },
+      {
+        "round_number": 15,
+        "players_left": 1256,
+        "players_left_formatted": "1,256",
+        "num_winners": 470,
+        "num_winners_formatted": "470",
+        "prize": 2.47,
+        "prize_formatted": "$2.47",
+        "currency": "$"
+      },
+      {
+        "round_number": 21,
+        "players_left": 0,
+        "players_left_formatted": "0",
+        "num_winners": 24,
+        "num_winners_formatted": "24",
+        "prize": 70.84,
+        "prize_formatted": "$70.84",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "3,151.06",
+    "total_checkpoint_winners": "1,654",
+    "smallest_checkpoint_prize": "$0.25",
+    "largest_checkpoint_prize": "$70.84",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 134804,
+    "show_id": 12455,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-09-27T01:30:00Z",
+    "direct_link": "/us/game/2019-09-26/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "2,181",
+      "currency": "$",
+      "average_prize": "0.46"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-09-26/2/1",
+        "question_number": 1,
+        "text": "Seen at the Movies?",
+        "answer": [
+          "CINEPHILE"
+        ],
+        "initial_letters": [
+          "\"C\""
+        ],
+        "to_reveal_letters": [
+          "N",
+          "P"
+        ],
+        "game_link": "/us/game/2019-09-26/2",
+        "eliminated": 18487,
+        "advancing": 36856,
+        "correct_answers": 36856,
+        "incorrect_answers": 18487
+      },
+      {
+        "direct_link": "/us/game/2019-09-26/2/2",
+        "question_number": 2,
+        "text": "Big in the '90s",
+        "answer": [
+          "MACARENA"
+        ],
+        "initial_letters": [
+          "\"M\""
+        ],
+        "to_reveal_letters": [
+          "C",
+          "N"
+        ],
+        "game_link": "/us/game/2019-09-26/2",
+        "eliminated": 1984,
+        "advancing": 35654,
+        "correct_answers": 35654,
+        "incorrect_answers": 1984
+      },
+      {
+        "direct_link": "/us/game/2019-09-26/2/3",
+        "question_number": 3,
+        "text": "Online Goal",
+        "answer": [
+          "INBOX",
+          "ZERO"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"Z\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-09-26/2",
+        "eliminated": 25144,
+        "advancing": 10524,
+        "correct_answers": 10524,
+        "incorrect_answers": 25144
+      },
+      {
+        "direct_link": "/us/game/2019-09-26/2/4",
+        "question_number": 4,
+        "text": "Tot Tote",
+        "answer": [
+          "BABY",
+          "BJORN"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"B\""
+        ],
+        "to_reveal_letters": [
+          "J",
+          "R"
+        ],
+        "game_link": "/us/game/2019-09-26/2",
+        "eliminated": 1025,
+        "advancing": 10816,
+        "correct_answers": 10816,
+        "incorrect_answers": 1025
+      },
+      {
+        "direct_link": "/us/game/2019-09-26/2/5",
+        "question_number": 5,
+        "text": "Robot School",
+        "answer": [
+          "MACHINE",
+          "LEARNING"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"H\""
+        ],
+        "to_reveal_letters": [
+          "G",
+          "I"
+        ],
+        "game_link": "/us/game/2019-09-26/2",
+        "eliminated": 2851,
+        "advancing": 8025,
+        "correct_answers": 8025,
+        "incorrect_answers": 2851
+      },
+      {
+        "direct_link": "/us/game/2019-09-26/2/6",
+        "question_number": 6,
+        "text": "Dreaded Cost",
+        "answer": [
+          "OVERDRAFT",
+          "FEE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "F",
+          "O"
+        ],
+        "game_link": "/us/game/2019-09-26/2",
+        "eliminated": 798,
+        "advancing": 7463,
+        "correct_answers": 7463,
+        "incorrect_answers": 798
+      },
+      {
+        "direct_link": "/us/game/2019-09-26/2/7",
+        "question_number": 7,
+        "text": "Argumentative Extracurricular",
+        "answer": [
+          "MODEL",
+          "UNITED",
+          "NATIONS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"I\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "L"
+        ],
+        "game_link": "/us/game/2019-09-26/2",
+        "eliminated": 1561,
+        "advancing": 5998,
+        "correct_answers": 5998,
+        "incorrect_answers": 1561
+      },
+      {
+        "direct_link": "/us/game/2019-09-26/2/8",
+        "question_number": 8,
+        "text": "Teacherâs Gift",
+        "answer": [
+          "SHINY",
+          "RED",
+          "APPLE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"L\""
+        ],
+        "to_reveal_letters": [
+          "N",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-09-26/2",
+        "eliminated": 774,
+        "advancing": 5461,
+        "correct_answers": 5461,
+        "incorrect_answers": 774
+      },
+      {
+        "direct_link": "/us/game/2019-09-26/2/9",
+        "question_number": 9,
+        "text": "Spotted on Dick",
+        "answer": [
+          "FEDORA",
+          "&",
+          "TRENCH",
+          "COAT"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"&\"",
+          "\"O\""
+        ],
+        "to_reveal_letters": [
+          "C",
+          "T"
+        ],
+        "game_link": "/us/game/2019-09-26/2",
+        "eliminated": 971,
+        "advancing": 4669,
+        "correct_answers": 4669,
+        "incorrect_answers": 971
+      },
+      {
+        "direct_link": "/us/game/2019-09-26/2/10",
+        "question_number": 10,
+        "text": "National Anthem",
+        "answer": [
+          "GOD",
+          "SAVE",
+          "THE",
+          "QUEEN"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"G\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "S"
+        ],
+        "game_link": "/us/game/2019-09-26/2",
+        "eliminated": 467,
+        "advancing": 4453,
+        "correct_answers": 4453,
+        "incorrect_answers": 467
+      },
+      {
+        "direct_link": "/us/game/2019-09-26/2/11",
+        "question_number": 11,
+        "text": "Writerâs Dream",
+        "answer": [
+          "BEST-SELLING",
+          "DEBUT",
+          "NOVEL"
+        ],
+        "initial_letters": [
+          "\"-\"",
+          "\" \"",
+          "\"G\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "V"
+        ],
+        "game_link": "/us/game/2019-09-26/2",
+        "eliminated": 1081,
+        "advancing": 3525,
+        "correct_answers": 3525,
+        "incorrect_answers": 1081
+      },
+      {
+        "direct_link": "/us/game/2019-09-26/2/12",
+        "question_number": 12,
+        "text": "Writerâs Second Dream",
+        "answer": [
+          "MACARTHUR",
+          "FOUNDATION",
+          "GRANT"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "O",
+          "R"
+        ],
+        "game_link": "/us/game/2019-09-26/2",
+        "eliminated": 1806,
+        "advancing": 2181,
+        "correct_answers": 2181,
+        "incorrect_answers": 1806
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

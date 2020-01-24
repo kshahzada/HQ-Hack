@@ -1,0 +1,1528 @@
+[
+  {
+    "id": 119865,
+    "show_id": 11746,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-07-11T00:00:00Z",
+    "direct_link": "/us/game/2019-07-10/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "7,088",
+      "currency": "$",
+      "average_prize": "0.14"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 128715,
+        "text": "What color do all players wear at Wimbledon?",
+        "question_number": 1,
+        "eliminated": "-13,121",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "94,866",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 267545,
+            "text": "Red",
+            "correct": false,
+            "count": "1,821",
+            "percent": "2.3%"
+          },
+          {
+            "id": 267547,
+            "text": "White",
+            "correct": true,
+            "count": "75,754",
+            "percent": "95.85%"
+          },
+          {
+            "id": 267549,
+            "text": "Blue",
+            "correct": false,
+            "count": "1,461",
+            "percent": "1.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/1/1",
+        "game_link": "/us/game/2019-07-10/1",
+        "correct_answers": 75754,
+        "incorrect_answers": 3282,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 128727,
+        "text": "Which member of the Griffey family hit the most home runs?",
+        "question_number": 2,
+        "eliminated": "2,271",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "92,632",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 267563,
+            "text": "Ken Griffey, Sr.",
+            "correct": false,
+            "count": "4,231",
+            "percent": "5.38%"
+          },
+          {
+            "id": 267564,
+            "text": "Ken Griffey, Jr.",
+            "correct": true,
+            "count": "67,740",
+            "percent": "86.17%"
+          },
+          {
+            "id": 267565,
+            "text": "They hit the same number",
+            "correct": false,
+            "count": "6,639",
+            "percent": "8.45%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/1/2",
+        "game_link": "/us/game/2019-07-10/1",
+        "correct_answers": 67740,
+        "incorrect_answers": 10870,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 128744,
+        "text": "Which of these leagues has the fewest Canadian teams?",
+        "question_number": 3,
+        "eliminated": "4,923",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "87,778",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 267589,
+            "text": "NHL",
+            "correct": false,
+            "count": "11,906",
+            "percent": "15.5%"
+          },
+          {
+            "id": 267591,
+            "text": "MLS",
+            "correct": false,
+            "count": "17,537",
+            "percent": "22.84%"
+          },
+          {
+            "id": 267592,
+            "text": "MLB",
+            "correct": true,
+            "count": "47,352",
+            "percent": "61.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/1/3",
+        "game_link": "/us/game/2019-07-10/1",
+        "correct_answers": 47352,
+        "incorrect_answers": 29443,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 128763,
+        "text": "Who was Serena Williamsâ partner in mixed doubles at this yearâs Wimbledon?",
+        "question_number": 4,
+        "eliminated": "2,844",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "85,843",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 267619,
+            "text": "Andy Murray",
+            "correct": true,
+            "count": "43,355",
+            "percent": "57.8%"
+          },
+          {
+            "id": 267622,
+            "text": "John Isner",
+            "correct": false,
+            "count": "20,874",
+            "percent": "27.83%"
+          },
+          {
+            "id": 267624,
+            "text": "Andy Roddick",
+            "correct": false,
+            "count": "10,781",
+            "percent": "14.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/1/4",
+        "game_link": "/us/game/2019-07-10/1",
+        "correct_answers": 43355,
+        "incorrect_answers": 31655,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 128775,
+        "text": "Which of these continents has NOT hosted an official regular-season MLB game this year?",
+        "question_number": 5,
+        "eliminated": "3,688",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "82,290",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 267635,
+            "text": "Europe",
+            "correct": false,
+            "count": "5,784",
+            "percent": "8.11%"
+          },
+          {
+            "id": 267638,
+            "text": "Asia",
+            "correct": false,
+            "count": "13,800",
+            "percent": "19.35%"
+          },
+          {
+            "id": 267641,
+            "text": "South America",
+            "correct": true,
+            "count": "51,743",
+            "percent": "72.54%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/1/5",
+        "game_link": "/us/game/2019-07-10/1",
+        "correct_answers": 51743,
+        "incorrect_answers": 19584,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 128791,
+        "text": "Which former American college star was named an MVP in the Chinese Basketball Association?",
+        "question_number": 6,
+        "eliminated": "4,128",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "78,335",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 267659,
+            "text": "Jimmer Fredette",
+            "correct": true,
+            "count": "37,263",
+            "percent": "54.43%"
+          },
+          {
+            "id": 267660,
+            "text": "Adam Morrison",
+            "correct": false,
+            "count": "16,366",
+            "percent": "23.9%"
+          },
+          {
+            "id": 267661,
+            "text": "Tyler Hansbrough",
+            "correct": false,
+            "count": "14,835",
+            "percent": "21.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/1/6",
+        "game_link": "/us/game/2019-07-10/1",
+        "correct_answers": 37263,
+        "incorrect_answers": 31201,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 128807,
+        "text": "On Abby Wambachâs famous goal in stoppage time at the 2011 World Cup, who delivered the cross?",
+        "question_number": 7,
+        "eliminated": "9,185",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "69,329",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 267683,
+            "text": "Megan Rapinoe",
+            "correct": true,
+            "count": "24,794",
+            "percent": "38.03%"
+          },
+          {
+            "id": 267684,
+            "text": "Carli Lloyd",
+            "correct": false,
+            "count": "19,454",
+            "percent": "29.84%"
+          },
+          {
+            "id": 267685,
+            "text": "Alex Morgan",
+            "correct": false,
+            "count": "20,948",
+            "percent": "32.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/1/7",
+        "game_link": "/us/game/2019-07-10/1",
+        "correct_answers": 24794,
+        "incorrect_answers": 40402,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 128824,
+        "text": "To score a six in cricket, where must the batsman hit the ball?",
+        "question_number": 8,
+        "eliminated": "7,083",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "62,816",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 267708,
+            "text": "Off the wicket",
+            "correct": false,
+            "count": "12,799",
+            "percent": "21.48%"
+          },
+          {
+            "id": 267711,
+            "text": "Bounced over boundary",
+            "correct": false,
+            "count": "12,424",
+            "percent": "20.85%"
+          },
+          {
+            "id": 267714,
+            "text": "Flown over the boundary",
+            "correct": true,
+            "count": "34,361",
+            "percent": "57.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/1/8",
+        "game_link": "/us/game/2019-07-10/1",
+        "correct_answers": 34361,
+        "incorrect_answers": 25223,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 128839,
+        "text": "Who is the only college QB at the FBS level to top 5,000 passing yards in three different seasons?",
+        "question_number": 9,
+        "eliminated": "22,480",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "40,797",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 267731,
+            "text": "Case Keenum",
+            "correct": true,
+            "count": "16,693",
+            "percent": "30.87%"
+          },
+          {
+            "id": 267732,
+            "text": "Matt Leinart",
+            "correct": false,
+            "count": "19,514",
+            "percent": "36.09%"
+          },
+          {
+            "id": 267733,
+            "text": "Colt Brennan",
+            "correct": false,
+            "count": "17,870",
+            "percent": "33.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/1/9",
+        "game_link": "/us/game/2019-07-10/1",
+        "correct_answers": 16693,
+        "incorrect_answers": 37384,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 128855,
+        "text": "Which of these players has NOT won back-to-back Home Run Derbys?",
+        "question_number": 10,
+        "eliminated": "17,540",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "25,151",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 267755,
+            "text": "Yoenis Cespedes",
+            "correct": false,
+            "count": "5,005",
+            "percent": "13.05%"
+          },
+          {
+            "id": 267757,
+            "text": "Ken Griffey Jr.",
+            "correct": false,
+            "count": "10,224",
+            "percent": "26.66%"
+          },
+          {
+            "id": 267759,
+            "text": "Josh Hamilton",
+            "correct": true,
+            "count": "23,123",
+            "percent": "60.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/1/10",
+        "game_link": "/us/game/2019-07-10/1",
+        "correct_answers": 23123,
+        "incorrect_answers": 15229,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 128871,
+        "text": "The award for the NHLâs best goalie each year is named after a goalie who played for what team?",
+        "question_number": 11,
+        "eliminated": "9,544",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "19,079",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 267779,
+            "text": "Toronto Maple Leafs",
+            "correct": false,
+            "count": "2,384",
+            "percent": "8.68%"
+          },
+          {
+            "id": 267780,
+            "text": "Montreal Canadiens",
+            "correct": true,
+            "count": "19,079",
+            "percent": "69.5%"
+          },
+          {
+            "id": 267781,
+            "text": "Detroit Red Wings",
+            "correct": false,
+            "count": "5,988",
+            "percent": "21.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/1/11",
+        "game_link": "/us/game/2019-07-10/1",
+        "correct_answers": 19079,
+        "incorrect_answers": 8372,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 128887,
+        "text": "Who is the last player to win the NBA scoring title and the NBA Finals in the same year?",
+        "question_number": 12,
+        "eliminated": "13,979",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "7,088",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 267803,
+            "text": "LeBron James",
+            "correct": false,
+            "count": "4,817",
+            "percent": "23.25%"
+          },
+          {
+            "id": 267804,
+            "text": "Steph Curry",
+            "correct": false,
+            "count": "8,816",
+            "percent": "42.55%"
+          },
+          {
+            "id": 267805,
+            "text": "Shaquille OâNeal",
+            "correct": true,
+            "count": "7,088",
+            "percent": "34.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/1/12",
+        "game_link": "/us/game/2019-07-10/1",
+        "correct_answers": 7088,
+        "incorrect_answers": 13633,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 630,
+        "game_id": 119865,
+        "question": "What popular international sport would you play?",
+        "results": [
+          {
+            "id": 3788,
+            "display_count": "22",
+            "vote_count": 7949,
+            "text": "Cricket"
+          },
+          {
+            "id": 3790,
+            "display_count": "27",
+            "vote_count": 9671,
+            "text": "Rugby"
+          },
+          {
+            "id": 3787,
+            "display_count": "52",
+            "vote_count": 18718,
+            "text": "Table tennis"
+          }
+        ],
+        "created_at": "2019-07-11T00:12:25Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 119985,
+    "show_id": 11538,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "220,000",
+    "currency": "$",
+    "start_time": "2019-07-11T01:00:00Z",
+    "direct_link": "/us/game/2019-07-10/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Checkpoints",
+        "slug": "checkpoints"
+      }
+    ],
+    "questions": [
+      {
+        "id": 128905,
+        "text": "Which of these is a note on the musical scale?",
+        "question_number": 1,
+        "eliminated": "-24,442",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "253,996",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 267830,
+            "text": "H",
+            "correct": false,
+            "count": "5,567",
+            "percent": "2.55%"
+          },
+          {
+            "id": 267831,
+            "text": "Q",
+            "correct": false,
+            "count": "6,921",
+            "percent": "3.17%"
+          },
+          {
+            "id": 267832,
+            "text": "G",
+            "correct": true,
+            "count": "206,139",
+            "percent": "94.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/1",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 206139,
+        "incorrect_answers": 12488,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 128920,
+        "text": "In literature, who famously hunts for Moby Dick?",
+        "question_number": 2,
+        "eliminated": "6,325",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "247,880",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 267857,
+            "text": "Captain Hook",
+            "correct": false,
+            "count": "12,884",
+            "percent": "5.8%"
+          },
+          {
+            "id": 267858,
+            "text": "Capân Crunch",
+            "correct": false,
+            "count": "1,332",
+            "percent": "0.6%"
+          },
+          {
+            "id": 267859,
+            "text": "Captain Ahab",
+            "correct": true,
+            "count": "207,995",
+            "percent": "93.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/2",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 207995,
+        "incorrect_answers": 14216,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 128935,
+        "text": "What day of the week is Thanksgiving in Canada?",
+        "question_number": 3,
+        "eliminated": "17,620",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "230,492",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 267875,
+            "text": "Saturday",
+            "correct": false,
+            "count": "40,977",
+            "percent": "18.65%"
+          },
+          {
+            "id": 267877,
+            "text": "Thursday",
+            "correct": false,
+            "count": "46,452",
+            "percent": "21.14%"
+          },
+          {
+            "id": 267878,
+            "text": "Monday",
+            "correct": true,
+            "count": "132,264",
+            "percent": "60.2%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/3",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 132264,
+        "incorrect_answers": 87429,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 128953,
+        "text": "Which of these is one of the Romance languages?",
+        "question_number": 4,
+        "eliminated": "7,193",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "224,311",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 267902,
+            "text": "Russian",
+            "correct": false,
+            "count": "14,584",
+            "percent": "7.11%"
+          },
+          {
+            "id": 267903,
+            "text": "German",
+            "correct": false,
+            "count": "29,107",
+            "percent": "14.18%"
+          },
+          {
+            "id": 267905,
+            "text": "Portuguese",
+            "correct": true,
+            "count": "161,521",
+            "percent": "78.71%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/4",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 161521,
+        "incorrect_answers": 43691,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 128965,
+        "text": "Who was NOT present at 1945âs historic Yalta Conference?",
+        "question_number": 5,
+        "eliminated": "22,198",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "202,438",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 267920,
+            "text": "Dwight D. Eisenhower",
+            "correct": true,
+            "count": "87,372",
+            "percent": "44.58%"
+          },
+          {
+            "id": 267921,
+            "text": "Winston Churchill",
+            "correct": false,
+            "count": "38,180",
+            "percent": "19.48%"
+          },
+          {
+            "id": 267923,
+            "text": "Josef Stalin",
+            "correct": false,
+            "count": "70,442",
+            "percent": "35.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/5",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 87372,
+        "incorrect_answers": 108622,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 128982,
+        "text": "What are geologic epochs most directly subdivided into?",
+        "question_number": 6,
+        "eliminated": "23,734",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "180,026",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 267947,
+            "text": "Ages",
+            "correct": true,
+            "count": "40,864",
+            "percent": "22.65%"
+          },
+          {
+            "id": 267948,
+            "text": "Periods",
+            "correct": false,
+            "count": "55,831",
+            "percent": "30.94%"
+          },
+          {
+            "id": 267952,
+            "text": "Eras",
+            "correct": false,
+            "count": "83,727",
+            "percent": "46.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/6",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 40864,
+        "incorrect_answers": 139558,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 128997,
+        "text": "The NFL Man of the Year Award was renamed in honor of a player for what team?",
+        "question_number": 7,
+        "eliminated": "15,642",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "167,063",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 267968,
+            "text": "Oakland Raiders",
+            "correct": false,
+            "count": "9,667",
+            "percent": "5.95%"
+          },
+          {
+            "id": 267969,
+            "text": "Chicago Bears",
+            "correct": true,
+            "count": "107,133",
+            "percent": "65.91%"
+          },
+          {
+            "id": 267970,
+            "text": "Green Bay Packers",
+            "correct": false,
+            "count": "45,742",
+            "percent": "28.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/7",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 107133,
+        "incorrect_answers": 55409,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 129011,
+        "text": "Which of these massively popular âdigital petsâ was the first to sweep the world?",
+        "question_number": 8,
+        "eliminated": "15,066",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "152,895",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 267989,
+            "text": "Giga Pets",
+            "correct": false,
+            "count": "13,979",
+            "percent": "9.17%"
+          },
+          {
+            "id": 267990,
+            "text": "Nano Pets",
+            "correct": false,
+            "count": "22,213",
+            "percent": "14.58%"
+          },
+          {
+            "id": 267991,
+            "text": "Tamagotchi",
+            "correct": true,
+            "count": "116,204",
+            "percent": "76.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/8",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 116204,
+        "incorrect_answers": 36192,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 129027,
+        "text": "Which of these âDoctor Whoâ actors has also played a World Health Organization doctor in a film?",
+        "question_number": 9,
+        "eliminated": "63,834",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "90,409",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 268013,
+            "text": "Peter Capaldi",
+            "correct": true,
+            "count": "60,549",
+            "percent": "44.53%"
+          },
+          {
+            "id": 268014,
+            "text": "Jodie Whittaker",
+            "correct": false,
+            "count": "40,076",
+            "percent": "29.47%"
+          },
+          {
+            "id": 268015,
+            "text": "David Tennant",
+            "correct": false,
+            "count": "35,347",
+            "percent": "26.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/9",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 60549,
+        "incorrect_answers": 75423,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 129044,
+        "text": "Which kind of meal is typically vegetarian?",
+        "question_number": 10,
+        "eliminated": "45,868",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "50,511",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 268037,
+            "text": "Waterzooi",
+            "correct": false,
+            "count": "5,428",
+            "percent": "5.9%"
+          },
+          {
+            "id": 268040,
+            "text": "Pozole",
+            "correct": false,
+            "count": "39,700",
+            "percent": "43.17%"
+          },
+          {
+            "id": 268046,
+            "text": "Maccu",
+            "correct": true,
+            "count": "46,831",
+            "percent": "50.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/10",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 46831,
+        "incorrect_answers": 45128,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 129055,
+        "text": "Who controls the northernmost point of land in Oceania?",
+        "question_number": 11,
+        "eliminated": "50,811",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "14,220",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 268055,
+            "text": "United States",
+            "correct": true,
+            "count": "14,225",
+            "percent": "22.83%"
+          },
+          {
+            "id": 268057,
+            "text": "United Kingdom",
+            "correct": false,
+            "count": "25,858",
+            "percent": "41.5%"
+          },
+          {
+            "id": 268059,
+            "text": "France",
+            "correct": false,
+            "count": "22,232",
+            "percent": "35.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/11",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 14225,
+        "incorrect_answers": 48090,
+        "savage": true,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 10570,
+          "players_left_formatted": "10,570",
+          "num_winners": 3645,
+          "num_winners_formatted": "3,645",
+          "prize": 0.15,
+          "prize_formatted": "$0.15",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 129071,
+        "text": "Which of these animals is a canine?",
+        "question_number": 12,
+        "eliminated": "5,335",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "7,876",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 268079,
+            "text": "Jackal",
+            "correct": true,
+            "count": "7,878",
+            "percent": "76.52%"
+          },
+          {
+            "id": 268080,
+            "text": "Hyena",
+            "correct": false,
+            "count": "1,092",
+            "percent": "10.61%"
+          },
+          {
+            "id": 268082,
+            "text": "Wolverine",
+            "correct": false,
+            "count": "1,326",
+            "percent": "12.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/12",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 7878,
+        "incorrect_answers": 2418,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 129089,
+        "text": "In its original form, which of these paintings is the largest?",
+        "question_number": 13,
+        "eliminated": "6,108",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "2,837",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 268108,
+            "text": "American Gothic",
+            "correct": false,
+            "count": "2,967",
+            "percent": "34.46%"
+          },
+          {
+            "id": 268112,
+            "text": "The Kiss",
+            "correct": true,
+            "count": "2,837",
+            "percent": "32.95%"
+          },
+          {
+            "id": 268116,
+            "text": "Mona Lisa",
+            "correct": false,
+            "count": "2,806",
+            "percent": "32.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/13",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 2837,
+        "incorrect_answers": 5773,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 129104,
+        "text": "An âOceanâs 11â star tried out for which professional baseball team in high school?",
+        "question_number": 14,
+        "eliminated": "1,757",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "1,080",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 268130,
+            "text": "Cincinnati Reds",
+            "correct": true,
+            "count": "1,080",
+            "percent": "38.79%"
+          },
+          {
+            "id": 268133,
+            "text": "New York Yankees",
+            "correct": false,
+            "count": "681",
+            "percent": "24.46%"
+          },
+          {
+            "id": 268136,
+            "text": "Boston Red Sox",
+            "correct": false,
+            "count": "1,023",
+            "percent": "36.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/14",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 1080,
+        "incorrect_answers": 1704,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 129120,
+        "text": "Whose engagement ring is this?",
+        "question_number": 15,
+        "eliminated": "364",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "714",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 268154,
+            "text": "Mariah Carey",
+            "correct": false,
+            "count": "178",
+            "percent": "16.51%"
+          },
+          {
+            "id": 268156,
+            "text": "Jennifer Lopez",
+            "correct": true,
+            "count": "716",
+            "percent": "66.42%"
+          },
+          {
+            "id": 268159,
+            "text": "Ariana Grande",
+            "correct": false,
+            "count": "184",
+            "percent": "17.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/15",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 716,
+        "incorrect_answers": 362,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 15,
+          "players_left": 349,
+          "players_left_formatted": "349",
+          "num_winners": 362,
+          "num_winners_formatted": "362",
+          "prize": 4.21,
+          "prize_formatted": "$4.21",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 129136,
+        "text": "The origin of the word âcubicleâ is related with which of these?",
+        "question_number": 16,
+        "eliminated": "90",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "259",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 268176,
+            "text": "Sleep",
+            "correct": true,
+            "count": "259",
+            "percent": "76.85%"
+          },
+          {
+            "id": 268178,
+            "text": "Work",
+            "correct": false,
+            "count": "46",
+            "percent": "13.65%"
+          },
+          {
+            "id": 268180,
+            "text": "School",
+            "correct": false,
+            "count": "32",
+            "percent": "9.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/16",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 259,
+        "incorrect_answers": 78,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 129152,
+        "text": "Which of these teams has the highest winning percentage in the NFC Championship game?",
+        "question_number": 17,
+        "eliminated": "184",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "75",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 268202,
+            "text": "New York Giants",
+            "correct": true,
+            "count": "76",
+            "percent": "30.04%"
+          },
+          {
+            "id": 268204,
+            "text": "Dallas Cowboys",
+            "correct": false,
+            "count": "80",
+            "percent": "31.62%"
+          },
+          {
+            "id": 268209,
+            "text": "San Francisco 49ers",
+            "correct": false,
+            "count": "97",
+            "percent": "38.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/17",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 76,
+        "incorrect_answers": 177,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 129169,
+        "text": "The words to this piece came from a poem by the author who also wrote what?",
+        "question_number": 18,
+        "eliminated": "34",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "38",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 268228,
+            "text": "William Tell",
+            "correct": true,
+            "count": "39",
+            "percent": "55.71%"
+          },
+          {
+            "id": 268231,
+            "text": "Tristram Shandy",
+            "correct": false,
+            "count": "9",
+            "percent": "12.86%"
+          },
+          {
+            "id": 268233,
+            "text": "Faust",
+            "correct": false,
+            "count": "22",
+            "percent": "31.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/18",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 39,
+        "incorrect_answers": 31,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 18,
+          "players_left": 3,
+          "players_left_formatted": "3",
+          "num_winners": 32,
+          "num_winners_formatted": "32",
+          "prize": 52.64,
+          "prize_formatted": "$52.64",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 129183,
+        "text": "The first TV character to use âGoogleâ as a verb was played by an actor famous for which movie?",
+        "question_number": 19,
+        "eliminated": "1",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "2",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 268247,
+            "text": "Frozen",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 268248,
+            "text": "American Pie",
+            "correct": true,
+            "count": "2",
+            "percent": "100.0%"
+          },
+          {
+            "id": 268249,
+            "text": "Batman Begins",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/19",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 2,
+        "incorrect_answers": 0,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 129199,
+        "text": "Which of these people has been in the WWE Hall of Fame the longest?",
+        "question_number": 20,
+        "eliminated": "1",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 268271,
+            "text": "Pete Rose",
+            "correct": true,
+            "count": "1",
+            "percent": "50.0%"
+          },
+          {
+            "id": 268272,
+            "text": "Mr. T",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 268273,
+            "text": "Haystacks Calhoun",
+            "correct": false,
+            "count": "1",
+            "percent": "50.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/20",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 1,
+        "incorrect_answers": 1,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 129215,
+        "text": "Which of these countries did NOT have Norse settlements?",
+        "question_number": 21,
+        "eliminated": "1",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "0",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 268295,
+            "text": "Russia",
+            "correct": false,
+            "count": "1",
+            "percent": "100.0%"
+          },
+          {
+            "id": 268296,
+            "text": "Spain",
+            "correct": true,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 268297,
+            "text": "Syria",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-10/2/21",
+        "game_link": "/us/game/2019-07-10/2",
+        "correct_answers": 0,
+        "incorrect_answers": 1,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 639,
+        "game_id": 119985,
+        "question": "Which of the following is a lie about Matt?",
+        "results": [
+          {
+            "id": 3843,
+            "display_count": "31",
+            "vote_count": 18094,
+            "text": "Ate possum "
+          },
+          {
+            "id": 3851,
+            "display_count": "26",
+            "vote_count": 15357,
+            "text": "Hunted ghosts"
+          },
+          {
+            "id": 3837,
+            "display_count": "44",
+            "vote_count": 25821,
+            "text": "Ran away to carnival"
+          }
+        ],
+        "created_at": "2019-07-11T01:03:34Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 11,
+        "players_left": 10570,
+        "players_left_formatted": "10,570",
+        "num_winners": 3645,
+        "num_winners_formatted": "3,645",
+        "prize": 0.15,
+        "prize_formatted": "$0.15",
+        "currency": "$"
+      },
+      {
+        "round_number": 18,
+        "players_left": 3,
+        "players_left_formatted": "3",
+        "num_winners": 32,
+        "num_winners_formatted": "32",
+        "prize": 52.64,
+        "prize_formatted": "$52.64",
+        "currency": "$"
+      },
+      {
+        "round_number": 15,
+        "players_left": 349,
+        "players_left_formatted": "349",
+        "num_winners": 362,
+        "num_winners_formatted": "362",
+        "prize": 4.21,
+        "prize_formatted": "$4.21",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "3,755.25",
+    "total_checkpoint_winners": "4,039",
+    "smallest_checkpoint_prize": "$0.15",
+    "largest_checkpoint_prize": "$52.64",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

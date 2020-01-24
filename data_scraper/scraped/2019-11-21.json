@@ -1,0 +1,941 @@
+[
+  {
+    "id": 141516,
+    "show_id": 12949,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-11-22T02:00:00Z",
+    "direct_link": "/us/game/2019-11-21/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "5,186",
+      "currency": "$",
+      "average_prize": "0.19"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 159066,
+        "text": "Which fast food chainâs mascot was once known as âKurger Bingâ?",
+        "question_number": 1,
+        "eliminated": "-6,684",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "99,673",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313055,
+            "text": "Wendyâs",
+            "correct": false,
+            "count": "2,376",
+            "percent": "2.68%"
+          },
+          {
+            "id": 313056,
+            "text": "Taco Bell",
+            "correct": false,
+            "count": "2,488",
+            "percent": "2.8%"
+          },
+          {
+            "id": 313057,
+            "text": "Burger King",
+            "correct": true,
+            "count": "83,838",
+            "percent": "94.52%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-21/1/1",
+        "game_link": "/us/game/2019-11-21/1",
+        "correct_answers": 83838,
+        "incorrect_answers": 4864,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159068,
+        "text": "What is the westernmost landlocked state?",
+        "question_number": 2,
+        "eliminated": "3,198",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "96,626",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313058,
+            "text": "Ohio",
+            "correct": false,
+            "count": "4,311",
+            "percent": "4.84%"
+          },
+          {
+            "id": 313059,
+            "text": "Kansas",
+            "correct": false,
+            "count": "8,500",
+            "percent": "9.54%"
+          },
+          {
+            "id": 313060,
+            "text": "Nevada",
+            "correct": true,
+            "count": "76,246",
+            "percent": "85.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-21/1/2",
+        "game_link": "/us/game/2019-11-21/1",
+        "correct_answers": 76246,
+        "incorrect_answers": 12811,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159070,
+        "text": "Which biological unit is known as a âbuilding block of lifeâ?",
+        "question_number": 3,
+        "eliminated": "2,691",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "94,137",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313061,
+            "text": "Tissue",
+            "correct": false,
+            "count": "1,097",
+            "percent": "1.26%"
+          },
+          {
+            "id": 313062,
+            "text": "Cell",
+            "correct": true,
+            "count": "84,766",
+            "percent": "97.42%"
+          },
+          {
+            "id": 313063,
+            "text": "Organ",
+            "correct": false,
+            "count": "1,150",
+            "percent": "1.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-21/1/3",
+        "game_link": "/us/game/2019-11-21/1",
+        "correct_answers": 84766,
+        "incorrect_answers": 2247,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159072,
+        "text": "Which is NOT a synonym for pen name?",
+        "question_number": 4,
+        "eliminated": "13,986",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "80,214",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313064,
+            "text": "Nom Ã  la mode",
+            "correct": true,
+            "count": "44,804",
+            "percent": "53.63%"
+          },
+          {
+            "id": 313065,
+            "text": "Nom de guerre",
+            "correct": false,
+            "count": "16,909",
+            "percent": "20.24%"
+          },
+          {
+            "id": 313066,
+            "text": "Nom de plume",
+            "correct": false,
+            "count": "21,830",
+            "percent": "26.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-21/1/4",
+        "game_link": "/us/game/2019-11-21/1",
+        "correct_answers": 44804,
+        "incorrect_answers": 38739,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159074,
+        "text": "Superstitious fans of what team were long said to suffer from the âCurse of the Bambinoâ?",
+        "question_number": 5,
+        "eliminated": "7,996",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "73,327",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313067,
+            "text": "Boston Red Sox",
+            "correct": true,
+            "count": "59,442",
+            "percent": "79.75%"
+          },
+          {
+            "id": 313068,
+            "text": "New York Yankees",
+            "correct": false,
+            "count": "12,377",
+            "percent": "16.6%"
+          },
+          {
+            "id": 313069,
+            "text": "San Diego Padres",
+            "correct": false,
+            "count": "2,721",
+            "percent": "3.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-21/1/5",
+        "game_link": "/us/game/2019-11-21/1",
+        "correct_answers": 59442,
+        "incorrect_answers": 15098,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159076,
+        "text": "While in prison, Nelson Mandela wrote portions of an autobiography later published under what title?",
+        "question_number": 6,
+        "eliminated": "8,890",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "65,212",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313070,
+            "text": "Dare Not Linger",
+            "correct": false,
+            "count": "1,209",
+            "percent": "1.75%"
+          },
+          {
+            "id": 313071,
+            "text": "My Life",
+            "correct": false,
+            "count": "5,823",
+            "percent": "8.42%"
+          },
+          {
+            "id": 313072,
+            "text": "Long Walk to Freedom",
+            "correct": true,
+            "count": "62,107",
+            "percent": "89.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-21/1/6",
+        "game_link": "/us/game/2019-11-21/1",
+        "correct_answers": 62107,
+        "incorrect_answers": 7032,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159078,
+        "text": "Which Fleetwood Mac hit was written by Christine McVie?",
+        "question_number": 7,
+        "eliminated": "36,358",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "29,871",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313073,
+            "text": "Go Your Own Way",
+            "correct": false,
+            "count": "28,947",
+            "percent": "45.29%"
+          },
+          {
+            "id": 313074,
+            "text": "Dreams",
+            "correct": false,
+            "count": "13,141",
+            "percent": "20.56%"
+          },
+          {
+            "id": 313075,
+            "text": "You Make Loving Fun",
+            "correct": true,
+            "count": "21,830",
+            "percent": "34.15%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-21/1/7",
+        "game_link": "/us/game/2019-11-21/1",
+        "correct_answers": 21830,
+        "incorrect_answers": 42088,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159080,
+        "text": "Which massive airport was originally named after a golf course?",
+        "question_number": 8,
+        "eliminated": "18,196",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "17,217",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313076,
+            "text": "Chicago's OâHare",
+            "correct": false,
+            "count": "12,048",
+            "percent": "36.23%"
+          },
+          {
+            "id": 313077,
+            "text": "Washington's Dulles",
+            "correct": false,
+            "count": "12,841",
+            "percent": "38.62%"
+          },
+          {
+            "id": 313078,
+            "text": "New York's JFK",
+            "correct": true,
+            "count": "8,361",
+            "percent": "25.15%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-21/1/8",
+        "game_link": "/us/game/2019-11-21/1",
+        "correct_answers": 8361,
+        "incorrect_answers": 24889,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159082,
+        "text": "âHe Do the Police in Different Voicesâ was the working title of what iconic poem?",
+        "question_number": 9,
+        "eliminated": "5,447",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "15,587",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313079,
+            "text": "We Real Cool",
+            "correct": false,
+            "count": "6,144",
+            "percent": "32.21%"
+          },
+          {
+            "id": 313080,
+            "text": "Howl",
+            "correct": false,
+            "count": "3,304",
+            "percent": "17.32%"
+          },
+          {
+            "id": 313081,
+            "text": "The Waste Land",
+            "correct": true,
+            "count": "9,628",
+            "percent": "50.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-21/1/9",
+        "game_link": "/us/game/2019-11-21/1",
+        "correct_answers": 9628,
+        "incorrect_answers": 9448,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159084,
+        "text": "Snoop Doggâs debut album was released under what label?",
+        "question_number": 10,
+        "eliminated": "1,705",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "15,343",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313082,
+            "text": "No Limit Records",
+            "correct": false,
+            "count": "1,818",
+            "percent": "11.09%"
+          },
+          {
+            "id": 313083,
+            "text": "Death Row Records",
+            "correct": true,
+            "count": "12,972",
+            "percent": "79.13%"
+          },
+          {
+            "id": 313084,
+            "text": "Priority Records",
+            "correct": false,
+            "count": "1,604",
+            "percent": "9.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-21/1/10",
+        "game_link": "/us/game/2019-11-21/1",
+        "correct_answers": 12972,
+        "incorrect_answers": 3422,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159086,
+        "text": "Who is this man?",
+        "question_number": 11,
+        "eliminated": "11,040",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "4,862",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313085,
+            "text": "Bernie Sanders",
+            "correct": true,
+            "count": "4,862",
+            "percent": "31.59%"
+          },
+          {
+            "id": 313086,
+            "text": "J.D. Salinger",
+            "correct": false,
+            "count": "1,759",
+            "percent": "11.43%"
+          },
+          {
+            "id": 313087,
+            "text": "Buddy Holly",
+            "correct": false,
+            "count": "8,772",
+            "percent": "56.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-21/1/11",
+        "game_link": "/us/game/2019-11-21/1",
+        "correct_answers": 4862,
+        "incorrect_answers": 10531,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159088,
+        "text": "âAmericaâs Hometownâ is the nickname for what place?",
+        "question_number": 12,
+        "eliminated": "3,810",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "5,885",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313088,
+            "text": "Providence",
+            "correct": false,
+            "count": "2,054",
+            "percent": "21.45%"
+          },
+          {
+            "id": 313089,
+            "text": "Plymouth",
+            "correct": true,
+            "count": "5,885",
+            "percent": "61.45%"
+          },
+          {
+            "id": 313090,
+            "text": "Boston",
+            "correct": false,
+            "count": "1,638",
+            "percent": "17.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-21/1/12",
+        "game_link": "/us/game/2019-11-21/1",
+        "correct_answers": 5885,
+        "incorrect_answers": 3692,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159090,
+        "text": "Which president turned down offers to play pro sports?",
+        "question_number": 13,
+        "eliminated": "2,049",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "6,054",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313091,
+            "text": "Ronald Reagan",
+            "correct": false,
+            "count": "1,133",
+            "percent": "14.08%"
+          },
+          {
+            "id": 313092,
+            "text": "George HW Bush",
+            "correct": false,
+            "count": "860",
+            "percent": "10.69%"
+          },
+          {
+            "id": 313093,
+            "text": "Gerald Ford",
+            "correct": true,
+            "count": "6,054",
+            "percent": "75.23%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-21/1/13",
+        "game_link": "/us/game/2019-11-21/1",
+        "correct_answers": 6054,
+        "incorrect_answers": 1993,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159092,
+        "text": "Shakespeareâs âTitus Andronicusâ and âOthelloâ both have a speaking character named what?",
+        "question_number": 14,
+        "eliminated": "4,310",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "3,107",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313094,
+            "text": "Smith",
+            "correct": false,
+            "count": "750",
+            "percent": "10.39%"
+          },
+          {
+            "id": 313095,
+            "text": "Clown",
+            "correct": true,
+            "count": "3,107",
+            "percent": "43.05%"
+          },
+          {
+            "id": 313096,
+            "text": "Bard",
+            "correct": false,
+            "count": "3,361",
+            "percent": "46.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-21/1/14",
+        "game_link": "/us/game/2019-11-21/1",
+        "correct_answers": 3107,
+        "incorrect_answers": 4111,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159094,
+        "text": "What writer invented the word âpyrokinesisâ?",
+        "question_number": 15,
+        "eliminated": "1,012",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "5,186",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313097,
+            "text": "Dean Koontz",
+            "correct": false,
+            "count": "434",
+            "percent": "7.05%"
+          },
+          {
+            "id": 313098,
+            "text": "Stephen King",
+            "correct": true,
+            "count": "5,186",
+            "percent": "84.28%"
+          },
+          {
+            "id": 313099,
+            "text": "H.P. Lovecraft",
+            "correct": false,
+            "count": "533",
+            "percent": "8.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-21/1/15",
+        "game_link": "/us/game/2019-11-21/1",
+        "correct_answers": 5186,
+        "incorrect_answers": 967,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 141534,
+    "show_id": 13009,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-11-22T02:30:00Z",
+    "direct_link": "/us/game/2019-11-21/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "592",
+      "currency": "$",
+      "average_prize": "1.69"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-11-21/2/1",
+        "question_number": 1,
+        "text": "Ancient Grease",
+        "answer": [
+          "POMADE"
+        ],
+        "initial_letters": [
+          "\"P\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "O"
+        ],
+        "game_link": "/us/game/2019-11-21/2",
+        "eliminated": 23997,
+        "advancing": 22237,
+        "correct_answers": 22237,
+        "incorrect_answers": 23997
+      },
+      {
+        "direct_link": "/us/game/2019-11-21/2/2",
+        "question_number": 2,
+        "text": "Continental Double-Crosser",
+        "answer": [
+          "SOVIET",
+          "UNION"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"S\""
+        ],
+        "to_reveal_letters": [
+          "N",
+          "V"
+        ],
+        "game_link": "/us/game/2019-11-21/2",
+        "eliminated": 3505,
+        "advancing": 20622,
+        "correct_answers": 20622,
+        "incorrect_answers": 3505
+      },
+      {
+        "direct_link": "/us/game/2019-11-21/2/3",
+        "question_number": 3,
+        "text": "Experts in Their Field",
+        "answer": [
+          "ELITE",
+          "ATHLETES"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"A\""
+        ],
+        "to_reveal_letters": [
+          "L",
+          "T"
+        ],
+        "game_link": "/us/game/2019-11-21/2",
+        "eliminated": 2232,
+        "advancing": 18558,
+        "correct_answers": 18558,
+        "incorrect_answers": 2232
+      },
+      {
+        "direct_link": "/us/game/2019-11-21/2/4",
+        "question_number": 4,
+        "text": "All-Inclusive Re-Sort",
+        "answer": [
+          "SHUFFLING",
+          "CARDS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"H\""
+        ],
+        "to_reveal_letters": [
+          "F",
+          "L"
+        ],
+        "game_link": "/us/game/2019-11-21/2",
+        "eliminated": 11230,
+        "advancing": 7426,
+        "correct_answers": 7426,
+        "incorrect_answers": 11230
+      },
+      {
+        "direct_link": "/us/game/2019-11-21/2/5",
+        "question_number": 5,
+        "text": "Read Moor?",
+        "answer": [
+          "WUTHERING",
+          "HEIGHTS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"R\""
+        ],
+        "to_reveal_letters": [
+          "I",
+          "U"
+        ],
+        "game_link": "/us/game/2019-11-21/2",
+        "eliminated": 2571,
+        "advancing": 5901,
+        "correct_answers": 5901,
+        "incorrect_answers": 2571
+      },
+      {
+        "direct_link": "/us/game/2019-11-21/2/6",
+        "question_number": 6,
+        "text": "Read LES?",
+        "answer": [
+          "LONDON",
+          "EVENING",
+          "STANDARD"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"O\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "D"
+        ],
+        "game_link": "/us/game/2019-11-21/2",
+        "eliminated": 1781,
+        "advancing": 4452,
+        "correct_answers": 4452,
+        "incorrect_answers": 1781
+      },
+      {
+        "direct_link": "/us/game/2019-11-21/2/7",
+        "question_number": 7,
+        "text": "Got Mine",
+        "answer": [
+          "DE",
+          "BEERS",
+          "COMPANY"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"O\""
+        ],
+        "to_reveal_letters": [
+          "B",
+          "P"
+        ],
+        "game_link": "/us/game/2019-11-21/2",
+        "eliminated": 3800,
+        "advancing": 957,
+        "correct_answers": 957,
+        "incorrect_answers": 3800
+      },
+      {
+        "direct_link": "/us/game/2019-11-21/2/8",
+        "question_number": 8,
+        "text": "House Hunter",
+        "answer": [
+          "CANDIDATE",
+          "FOR",
+          "CONGRESS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"A\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-11-21/2",
+        "eliminated": 418,
+        "advancing": 1566,
+        "correct_answers": 1566,
+        "incorrect_answers": 418
+      },
+      {
+        "direct_link": "/us/game/2019-11-21/2/9",
+        "question_number": 9,
+        "text": "Toy Stories",
+        "answer": [
+          "BARBIEâS",
+          "DREAM",
+          "HOUSE"
+        ],
+        "initial_letters": [
+          "\"â\"",
+          "\" \"",
+          "\"M\""
+        ],
+        "to_reveal_letters": [
+          "R",
+          "U"
+        ],
+        "game_link": "/us/game/2019-11-21/2",
+        "eliminated": 120,
+        "advancing": 1549,
+        "correct_answers": 1549,
+        "incorrect_answers": 120
+      },
+      {
+        "direct_link": "/us/game/2019-11-21/2/10",
+        "question_number": 10,
+        "text": "Bubbly Behavior",
+        "answer": [
+          "BUYING",
+          "BOTTLES",
+          "OF",
+          "SODA"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"F\""
+        ],
+        "to_reveal_letters": [
+          "L",
+          "N"
+        ],
+        "game_link": "/us/game/2019-11-21/2",
+        "eliminated": 983,
+        "advancing": 601,
+        "correct_answers": 601,
+        "incorrect_answers": 983
+      },
+      {
+        "direct_link": "/us/game/2019-11-21/2/11",
+        "question_number": 11,
+        "text": "Mercury in Retrograde",
+        "answer": [
+          "THERMOMETER",
+          "DROPPING"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"O\""
+        ],
+        "to_reveal_letters": [
+          "D",
+          "H"
+        ],
+        "game_link": "/us/game/2019-11-21/2",
+        "eliminated": 166,
+        "advancing": 679,
+        "correct_answers": 679,
+        "incorrect_answers": 166
+      },
+      {
+        "direct_link": "/us/game/2019-11-21/2/12",
+        "question_number": 12,
+        "text": "Periodic Table",
+        "answer": [
+          "THANKSGIVING",
+          "DINNER",
+          "SPREAD"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"S\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "N"
+        ],
+        "game_link": "/us/game/2019-11-21/2",
+        "eliminated": 161,
+        "advancing": 592,
+        "correct_answers": 592,
+        "incorrect_answers": 161
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": null
+  }
+]

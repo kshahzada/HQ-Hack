@@ -1,0 +1,975 @@
+[
+  {
+    "id": 99266,
+    "show_id": 10502,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-04-28T01:00:00Z",
+    "direct_link": "/us/game/2019-04-27/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "790",
+      "currency": "$",
+      "average_prize": "6.33"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Smarter Day",
+        "slug": "smarter-day"
+      }
+    ],
+    "questions": [
+      {
+        "id": 102791,
+        "text": "Which queen ruled over the United Kingdom during the Victorian era?",
+        "question_number": 1,
+        "eliminated": "-11,683",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "304,892",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228659,
+            "text": "Elizabeth",
+            "correct": false,
+            "count": "67,760",
+            "percent": "23.11%"
+          },
+          {
+            "id": 228660,
+            "text": "Victoria",
+            "correct": true,
+            "count": "216,176",
+            "percent": "73.73%"
+          },
+          {
+            "id": 228661,
+            "text": "Anne",
+            "correct": false,
+            "count": "9,273",
+            "percent": "3.16%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-27/1/1",
+        "game_link": "/us/game/2019-04-27/1",
+        "correct_answers": 216176,
+        "incorrect_answers": 77033,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102799,
+        "text": "Compared to a regular year, how many days does a leap year have?",
+        "question_number": 2,
+        "eliminated": "1,123",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "304,690",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228671,
+            "text": "One more",
+            "correct": true,
+            "count": "246,509",
+            "percent": "84.99%"
+          },
+          {
+            "id": 228673,
+            "text": "One less",
+            "correct": false,
+            "count": "36,590",
+            "percent": "12.62%"
+          },
+          {
+            "id": 228675,
+            "text": "Two more",
+            "correct": false,
+            "count": "6,929",
+            "percent": "2.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-27/1/2",
+        "game_link": "/us/game/2019-04-27/1",
+        "correct_answers": 246509,
+        "incorrect_answers": 43519,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102807,
+        "text": "What color is the stitching on modern-day MLB baseballs?",
+        "question_number": 3,
+        "eliminated": "2,137",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "302,565",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228683,
+            "text": "Red",
+            "correct": true,
+            "count": "259,946",
+            "percent": "90.57%"
+          },
+          {
+            "id": 228684,
+            "text": "White",
+            "correct": false,
+            "count": "16,771",
+            "percent": "5.84%"
+          },
+          {
+            "id": 228686,
+            "text": "Blue",
+            "correct": false,
+            "count": "10,291",
+            "percent": "3.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-27/1/3",
+        "game_link": "/us/game/2019-04-27/1",
+        "correct_answers": 259946,
+        "incorrect_answers": 27062,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102815,
+        "text": "Which word is a synonym for âparsimoniousâ?",
+        "question_number": 4,
+        "eliminated": "18,893",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "283,720",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228695,
+            "text": "Profuse",
+            "correct": false,
+            "count": "72,288",
+            "percent": "26.23%"
+          },
+          {
+            "id": 228697,
+            "text": "Prodigal",
+            "correct": false,
+            "count": "74,842",
+            "percent": "27.16%"
+          },
+          {
+            "id": 228700,
+            "text": "Provident",
+            "correct": true,
+            "count": "128,453",
+            "percent": "46.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-27/1/4",
+        "game_link": "/us/game/2019-04-27/1",
+        "correct_answers": 128453,
+        "incorrect_answers": 147130,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102823,
+        "text": "Which type of pasta has a screw-like shape?",
+        "question_number": 5,
+        "eliminated": "7,022",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "279,986",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228707,
+            "text": "Farfalle",
+            "correct": false,
+            "count": "21,896",
+            "percent": "8.17%"
+          },
+          {
+            "id": 228709,
+            "text": "Ziti",
+            "correct": false,
+            "count": "19,708",
+            "percent": "7.35%"
+          },
+          {
+            "id": 228711,
+            "text": "Rotini",
+            "correct": true,
+            "count": "226,433",
+            "percent": "84.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-27/1/5",
+        "game_link": "/us/game/2019-04-27/1",
+        "correct_answers": 226433,
+        "incorrect_answers": 41604,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102831,
+        "text": "What author once wrote the line, âElementary, my dear Watsonâ?",
+        "question_number": 6,
+        "eliminated": "56,792",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "223,457",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228719,
+            "text": "Mark Twain",
+            "correct": false,
+            "count": "31,795",
+            "percent": "12.04%"
+          },
+          {
+            "id": 228721,
+            "text": "Sir Arthur Conan Doyle",
+            "correct": false,
+            "count": "221,418",
+            "percent": "83.86%"
+          },
+          {
+            "id": 228723,
+            "text": "PG Wodehouse",
+            "correct": true,
+            "count": "10,825",
+            "percent": "4.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-27/1/6",
+        "game_link": "/us/game/2019-04-27/1",
+        "correct_answers": 10825,
+        "incorrect_answers": 253213,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102839,
+        "text": "What US state has a seal that depicts the shape of the state itself in its design?",
+        "question_number": 7,
+        "eliminated": "157,478",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "75,663",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228731,
+            "text": "Alabama",
+            "correct": true,
+            "count": "39,554",
+            "percent": "18.07%"
+          },
+          {
+            "id": 228733,
+            "text": "Texas",
+            "correct": false,
+            "count": "143,573",
+            "percent": "65.59%"
+          },
+          {
+            "id": 228736,
+            "text": "Colorado",
+            "correct": false,
+            "count": "35,774",
+            "percent": "16.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-27/1/7",
+        "game_link": "/us/game/2019-04-27/1",
+        "correct_answers": 39554,
+        "incorrect_answers": 179347,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102847,
+        "text": "The Lone Rangerâs horse is named for an element with what chemical symbol?",
+        "question_number": 8,
+        "eliminated": "23,323",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "70,914",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228743,
+            "text": "Hg",
+            "correct": false,
+            "count": "9,354",
+            "percent": "10.28%"
+          },
+          {
+            "id": 228746,
+            "text": "Cu",
+            "correct": false,
+            "count": "10,758",
+            "percent": "11.83%"
+          },
+          {
+            "id": 228749,
+            "text": "Ag",
+            "correct": true,
+            "count": "70,838",
+            "percent": "77.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-27/1/8",
+        "game_link": "/us/game/2019-04-27/1",
+        "correct_answers": 70838,
+        "incorrect_answers": 20112,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102855,
+        "text": "One of the only unhyphenated common English words with three consecutive double letters means what?",
+        "question_number": 9,
+        "eliminated": "47,456",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "25,767",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228755,
+            "text": "Accountant",
+            "correct": true,
+            "count": "25,722",
+            "percent": "37.95%"
+          },
+          {
+            "id": 228756,
+            "text": "Horse shoer",
+            "correct": false,
+            "count": "22,888",
+            "percent": "33.77%"
+          },
+          {
+            "id": 228757,
+            "text": "Medical specialist",
+            "correct": false,
+            "count": "19,172",
+            "percent": "28.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-27/1/9",
+        "game_link": "/us/game/2019-04-27/1",
+        "correct_answers": 25722,
+        "incorrect_answers": 42060,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102863,
+        "text": "Which of these is NOT a chapter title in âThe Lord of the Ringsâ books?",
+        "question_number": 10,
+        "eliminated": "22,806",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "9,053",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228767,
+            "text": "The House of Harfang",
+            "correct": true,
+            "count": "9,051",
+            "percent": "28.72%"
+          },
+          {
+            "id": 228768,
+            "text": "Three Is Company",
+            "correct": false,
+            "count": "6,274",
+            "percent": "19.9%"
+          },
+          {
+            "id": 228769,
+            "text": "Flotsam and Jetsam",
+            "correct": false,
+            "count": "16,195",
+            "percent": "51.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-27/1/10",
+        "game_link": "/us/game/2019-04-27/1",
+        "correct_answers": 9051,
+        "incorrect_answers": 22469,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102871,
+        "text": "The worldâs second-most populated island is part of what country?",
+        "question_number": 11,
+        "eliminated": "7,857",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "4,027",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228779,
+            "text": "Japan",
+            "correct": true,
+            "count": "4,027",
+            "percent": "34.6%"
+          },
+          {
+            "id": 228782,
+            "text": "United Kingdom",
+            "correct": false,
+            "count": "1,731",
+            "percent": "14.87%"
+          },
+          {
+            "id": 228786,
+            "text": "Indonesia",
+            "correct": false,
+            "count": "5,881",
+            "percent": "50.53%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-27/1/11",
+        "game_link": "/us/game/2019-04-27/1",
+        "correct_answers": 4027,
+        "incorrect_answers": 7612,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102879,
+        "text": "What classic rock song has âWeird Alâ Yankovic recorded in its entirety, but as a polka?",
+        "question_number": 12,
+        "eliminated": "2,510",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "2,852",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228791,
+            "text": "Satisfaction",
+            "correct": false,
+            "count": "736",
+            "percent": "14.04%"
+          },
+          {
+            "id": 228793,
+            "text": "Hey Jude",
+            "correct": false,
+            "count": "1,653",
+            "percent": "31.54%"
+          },
+          {
+            "id": 228796,
+            "text": "Bohemian Rhapsody",
+            "correct": true,
+            "count": "2,852",
+            "percent": "54.42%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-27/1/12",
+        "game_link": "/us/game/2019-04-27/1",
+        "correct_answers": 2852,
+        "incorrect_answers": 2389,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102887,
+        "text": "One can walk from Cameroon to Libya only passing through what other country?",
+        "question_number": 13,
+        "eliminated": "1,059",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "2,214",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228803,
+            "text": "Sudan",
+            "correct": false,
+            "count": "577",
+            "percent": "17.91%"
+          },
+          {
+            "id": 228804,
+            "text": "Central African Republic",
+            "correct": false,
+            "count": "430",
+            "percent": "13.35%"
+          },
+          {
+            "id": 228806,
+            "text": "Chad",
+            "correct": true,
+            "count": "2,214",
+            "percent": "68.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-27/1/13",
+        "game_link": "/us/game/2019-04-27/1",
+        "correct_answers": 2214,
+        "incorrect_answers": 1007,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102895,
+        "text": "Which of these Roy Lichtenstein paintings is NOT based on a comic book panel?",
+        "question_number": 14,
+        "eliminated": "1,391",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "999",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228815,
+            "text": "Masterpiece",
+            "correct": false,
+            "count": "270",
+            "percent": "11.54%"
+          },
+          {
+            "id": 228817,
+            "text": "Woman with Flowered Hat",
+            "correct": true,
+            "count": "999",
+            "percent": "42.71%"
+          },
+          {
+            "id": 228822,
+            "text": "Sleeping Girl",
+            "correct": false,
+            "count": "1,070",
+            "percent": "45.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-27/1/14",
+        "game_link": "/us/game/2019-04-27/1",
+        "correct_answers": 999,
+        "incorrect_answers": 1340,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102903,
+        "text": "âDingdongâ is the name of a prominent academic theory regarding what?",
+        "question_number": 15,
+        "eliminated": "519",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "790",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228827,
+            "text": "Parenting",
+            "correct": false,
+            "count": "208",
+            "percent": "16.01%"
+          },
+          {
+            "id": 228829,
+            "text": "Language origin",
+            "correct": true,
+            "count": "790",
+            "percent": "60.82%"
+          },
+          {
+            "id": 228834,
+            "text": "Nuclear physics",
+            "correct": false,
+            "count": "301",
+            "percent": "23.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-27/1/15",
+        "game_link": "/us/game/2019-04-27/1",
+        "correct_answers": 790,
+        "incorrect_answers": 509,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 99338,
+    "show_id": 10592,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-04-28T01:30:00Z",
+    "direct_link": "/us/game/2019-04-27/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "5,443",
+      "currency": "$",
+      "average_prize": "0.18"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Smarter Day",
+        "slug": "smarter-day"
+      }
+    ],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-04-27/2/1",
+        "question_number": 1,
+        "text": "Serving Justice",
+        "answer": [
+          "TENNIS",
+          "COURT",
+          "OF",
+          "LAW"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "N"
+        ],
+        "game_link": "/us/game/2019-04-27/2",
+        "eliminated": 65307,
+        "advancing": 57787,
+        "correct_answers": 57787,
+        "incorrect_answers": 65307
+      },
+      {
+        "direct_link": "/us/game/2019-04-27/2/2",
+        "question_number": 2,
+        "text": "Verdict Reader in the Kitchen",
+        "answer": [
+          "JURY",
+          "FOREMAN",
+          "GRILL"
+        ],
+        "initial_letters": [
+          " ",
+          "J"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "G"
+        ],
+        "game_link": "/us/game/2019-04-27/2",
+        "eliminated": 19714,
+        "advancing": 40835,
+        "correct_answers": 40835,
+        "incorrect_answers": 19714
+      },
+      {
+        "direct_link": "/us/game/2019-04-27/2/3",
+        "question_number": 3,
+        "text": "Art Evidence",
+        "answer": [
+          "MUSEUM",
+          "EXHIBIT",
+          "A"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "U"
+        ],
+        "game_link": "/us/game/2019-04-27/2",
+        "eliminated": 7380,
+        "advancing": 34332,
+        "correct_answers": 34332,
+        "incorrect_answers": 7380
+      },
+      {
+        "direct_link": "/us/game/2019-04-27/2/4",
+        "question_number": 4,
+        "text": "Last Chance Offer",
+        "answer": [
+          "PLEA",
+          "BARGAIN",
+          "BASEMENT"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "R"
+        ],
+        "game_link": "/us/game/2019-04-27/2",
+        "eliminated": 5096,
+        "advancing": 29610,
+        "correct_answers": 29610,
+        "incorrect_answers": 5096
+      },
+      {
+        "direct_link": "/us/game/2019-04-27/2/5",
+        "question_number": 5,
+        "text": "The State Needs Gas",
+        "answer": [
+          "THE",
+          "PROSECUTION",
+          "REST",
+          "STOPS"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-27/2",
+        "eliminated": 11356,
+        "advancing": 18600,
+        "correct_answers": 18600,
+        "incorrect_answers": 11356
+      },
+      {
+        "direct_link": "/us/game/2019-04-27/2/6",
+        "question_number": 6,
+        "text": "Alec Baldwin Legal Advice",
+        "answer": [
+          "ALWAYS",
+          "BE",
+          "CLOSING",
+          "STATEMENTS"
+        ],
+        "initial_letters": [
+          " ",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "W"
+        ],
+        "game_link": "/us/game/2019-04-27/2",
+        "eliminated": 6877,
+        "advancing": 12726,
+        "correct_answers": 12726,
+        "incorrect_answers": 6877
+      },
+      {
+        "direct_link": "/us/game/2019-04-27/2/7",
+        "question_number": 7,
+        "text": "Thatâs Lunch",
+        "answer": [
+          "SEAMLESS",
+          "ORDER",
+          "IN",
+          "THE",
+          "COURT"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "T"
+        ],
+        "game_link": "/us/game/2019-04-27/2",
+        "eliminated": 3577,
+        "advancing": 9946,
+        "correct_answers": 9946,
+        "incorrect_answers": 3577
+      },
+      {
+        "direct_link": "/us/game/2019-04-27/2/8",
+        "question_number": 8,
+        "text": "Sue the Work Week?",
+        "answer": [
+          "CIVIL",
+          "CASE",
+          "OF",
+          "THE",
+          "MONDAYS"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "N"
+        ],
+        "game_link": "/us/game/2019-04-27/2",
+        "eliminated": 2905,
+        "advancing": 7598,
+        "correct_answers": 7598,
+        "incorrect_answers": 2905
+      },
+      {
+        "direct_link": "/us/game/2019-04-27/2/9",
+        "question_number": 9,
+        "text": "Fool Before the Judge",
+        "answer": [
+          "CONTEMPT",
+          "OF",
+          "COURT",
+          "JESTER"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "N"
+        ],
+        "game_link": "/us/game/2019-04-27/2",
+        "eliminated": 1011,
+        "advancing": 7163,
+        "correct_answers": 7163,
+        "incorrect_answers": 1011
+      },
+      {
+        "direct_link": "/us/game/2019-04-27/2/10",
+        "question_number": 10,
+        "text": "Weightlifterâs Case",
+        "answer": [
+          "HOW",
+          "MUCH",
+          "CAN",
+          "YOU",
+          "BENCH",
+          "TRIAL?"
+        ],
+        "initial_letters": [
+          " ",
+          "?",
+          "Y"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "T"
+        ],
+        "game_link": "/us/game/2019-04-27/2",
+        "eliminated": 1511,
+        "advancing": 5911,
+        "correct_answers": 5911,
+        "incorrect_answers": 1511
+      },
+      {
+        "direct_link": "/us/game/2019-04-27/2/11",
+        "question_number": 11,
+        "text": "Defenseâs Best Friend",
+        "answer": [
+          "REASONABLE",
+          "DOUBTING",
+          "THOMAS"
+        ],
+        "initial_letters": [
+          " ",
+          "U"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "I"
+        ],
+        "game_link": "/us/game/2019-04-27/2",
+        "eliminated": 830,
+        "advancing": 5488,
+        "correct_answers": 5488,
+        "incorrect_answers": 830
+      },
+      {
+        "direct_link": "/us/game/2019-04-27/2/12",
+        "question_number": 12,
+        "text": "This Theme",
+        "answer": [
+          "PRE",
+          "&",
+          "POST",
+          "TRIAL",
+          "SENTENCES"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "P"
+        ],
+        "game_link": "/us/game/2019-04-27/2",
+        "eliminated": 316,
+        "advancing": 5443,
+        "correct_answers": 5443,
+        "incorrect_answers": 316
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

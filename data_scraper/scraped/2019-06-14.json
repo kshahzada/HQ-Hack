@@ -1,0 +1,1250 @@
+[
+  {
+    "id": 113511,
+    "show_id": 11190,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "125,000",
+    "currency": "$",
+    "start_time": "2019-06-15T01:00:00Z",
+    "direct_link": "/us/game/2019-06-14/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Checkpoints",
+        "slug": "checkpoints"
+      }
+    ],
+    "questions": [
+      {
+        "id": 119370,
+        "text": "What type of diagram is this?",
+        "question_number": 1,
+        "eliminated": "-2,890",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "226,430",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 253528,
+            "text": "Blueprint",
+            "correct": true,
+            "count": "202,923",
+            "percent": "93.44%"
+          },
+          {
+            "id": 253530,
+            "text": "Pie chart",
+            "correct": false,
+            "count": "9,803",
+            "percent": "4.51%"
+          },
+          {
+            "id": 253531,
+            "text": "Rough sketch",
+            "correct": false,
+            "count": "4,448",
+            "percent": "2.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-14/1/1",
+        "game_link": "/us/game/2019-06-14/1",
+        "correct_answers": 202923,
+        "incorrect_answers": 14251,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 119388,
+        "text": "The scientific study of space and celestial objects is called what?",
+        "question_number": 2,
+        "eliminated": "9,067",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "217,618",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 253555,
+            "text": "Astronomy",
+            "correct": true,
+            "count": "194,139",
+            "percent": "89.33%"
+          },
+          {
+            "id": 253557,
+            "text": "Agronomy",
+            "correct": false,
+            "count": "782",
+            "percent": "0.36%"
+          },
+          {
+            "id": 253558,
+            "text": "Astrology",
+            "correct": false,
+            "count": "22,409",
+            "percent": "10.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-14/1/2",
+        "game_link": "/us/game/2019-06-14/1",
+        "correct_answers": 194139,
+        "incorrect_answers": 23191,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 119401,
+        "text": "Which of these TV shows is also a common variety of apple?",
+        "question_number": 3,
+        "eliminated": "17,369",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "200,872",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 253574,
+            "text": "Fargo",
+            "correct": false,
+            "count": "30,600",
+            "percent": "14.59%"
+          },
+          {
+            "id": 253576,
+            "text": "Empire",
+            "correct": true,
+            "count": "173,480",
+            "percent": "82.74%"
+          },
+          {
+            "id": 253579,
+            "text": "Power",
+            "correct": false,
+            "count": "5,582",
+            "percent": "2.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-14/1/3",
+        "game_link": "/us/game/2019-06-14/1",
+        "correct_answers": 173480,
+        "incorrect_answers": 36182,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 119417,
+        "text": "What is the SI base unit of temperature?",
+        "question_number": 4,
+        "eliminated": "28,386",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "173,932",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 253598,
+            "text": "Degree Celsius",
+            "correct": false,
+            "count": "44,703",
+            "percent": "23.09%"
+          },
+          {
+            "id": 253601,
+            "text": "Kelvin",
+            "correct": true,
+            "count": "126,272",
+            "percent": "65.22%"
+          },
+          {
+            "id": 253604,
+            "text": "Degree Fahrenheit",
+            "correct": false,
+            "count": "22,646",
+            "percent": "11.7%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-14/1/4",
+        "game_link": "/us/game/2019-06-14/1",
+        "correct_answers": 126272,
+        "incorrect_answers": 67349,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 119436,
+        "text": "In May, the World Health Organization recognized an addiction to what as a health problem?",
+        "question_number": 5,
+        "eliminated": "43,311",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "133,184",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 253626,
+            "text": "Smartphones",
+            "correct": false,
+            "count": "62,588",
+            "percent": "37.55%"
+          },
+          {
+            "id": 253630,
+            "text": "Video games",
+            "correct": true,
+            "count": "89,561",
+            "percent": "53.73%"
+          },
+          {
+            "id": 253635,
+            "text": "Internet",
+            "correct": false,
+            "count": "14,538",
+            "percent": "8.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-14/1/5",
+        "game_link": "/us/game/2019-06-14/1",
+        "correct_answers": 89561,
+        "incorrect_answers": 77126,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 119451,
+        "text": "Which of these toys is older than âToy Storyâ star Tim Allen?",
+        "question_number": 6,
+        "eliminated": "42,061",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "96,576",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 253649,
+            "text": "Mr. Potato Head",
+            "correct": true,
+            "count": "73,120",
+            "percent": "55.51%"
+          },
+          {
+            "id": 253651,
+            "text": "Barbie",
+            "correct": false,
+            "count": "36,411",
+            "percent": "27.64%"
+          },
+          {
+            "id": 253654,
+            "text": "Etch A Sketch",
+            "correct": false,
+            "count": "22,203",
+            "percent": "16.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-14/1/6",
+        "game_link": "/us/game/2019-06-14/1",
+        "correct_answers": 73120,
+        "incorrect_answers": 58614,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 119466,
+        "text": "Six dozen names engraved on Parisâs tallest structure honor Frenchmen who largely practiced in what field?",
+        "question_number": 7,
+        "eliminated": "48,807",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "53,535",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 253671,
+            "text": "Exploration",
+            "correct": false,
+            "count": "22,524",
+            "percent": "23.88%"
+          },
+          {
+            "id": 253673,
+            "text": "Arts",
+            "correct": false,
+            "count": "31,707",
+            "percent": "33.61%"
+          },
+          {
+            "id": 253675,
+            "text": "Science",
+            "correct": true,
+            "count": "40,095",
+            "percent": "42.51%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-14/1/7",
+        "game_link": "/us/game/2019-06-14/1",
+        "correct_answers": 40095,
+        "incorrect_answers": 54231,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 119482,
+        "text": "Which character appeared in the original âStreet Fighterâ arcade game?",
+        "question_number": 8,
+        "eliminated": "29,842",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "31,639",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 253695,
+            "text": "Sagat",
+            "correct": true,
+            "count": "27,473",
+            "percent": "46.03%"
+          },
+          {
+            "id": 253697,
+            "text": "M. Bison",
+            "correct": false,
+            "count": "15,242",
+            "percent": "25.54%"
+          },
+          {
+            "id": 253699,
+            "text": "Balrog",
+            "correct": false,
+            "count": "16,974",
+            "percent": "28.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-14/1/8",
+        "game_link": "/us/game/2019-06-14/1",
+        "correct_answers": 27473,
+        "incorrect_answers": 32216,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 119497,
+        "text": "Which of these countries entirely surrounds two other countries?",
+        "question_number": 9,
+        "eliminated": "20,321",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "17,293",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 253718,
+            "text": "Brazil",
+            "correct": false,
+            "count": "7,246",
+            "percent": "19.82%"
+          },
+          {
+            "id": 253719,
+            "text": "Italy",
+            "correct": true,
+            "count": "17,293",
+            "percent": "47.29%"
+          },
+          {
+            "id": 253720,
+            "text": "South Africa",
+            "correct": false,
+            "count": "12,027",
+            "percent": "32.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-14/1/9",
+        "game_link": "/us/game/2019-06-14/1",
+        "correct_answers": 17293,
+        "incorrect_answers": 19273,
+        "savage": true,
+        "checkpoint": {
+          "round_number": 9,
+          "players_left": 13309,
+          "players_left_formatted": "13,309",
+          "num_winners": 3984,
+          "num_winners_formatted": "3,984",
+          "prize": 0.15,
+          "prize_formatted": "$0.15",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 119517,
+        "text": "This music clip is based on a book by which BrontÃ« sister?",
+        "question_number": 10,
+        "eliminated": "5,398",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "10,895",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 253751,
+            "text": "Anne",
+            "correct": false,
+            "count": "344",
+            "percent": "2.68%"
+          },
+          {
+            "id": 253754,
+            "text": "Emily",
+            "correct": true,
+            "count": "10,895",
+            "percent": "84.96%"
+          },
+          {
+            "id": 253759,
+            "text": "Charlotte",
+            "correct": false,
+            "count": "1,585",
+            "percent": "12.36%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-14/1/10",
+        "game_link": "/us/game/2019-06-14/1",
+        "correct_answers": 10895,
+        "incorrect_answers": 1929,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 119531,
+        "text": "Which US state has a capital whose name is NOT also a common noun?",
+        "question_number": 11,
+        "eliminated": "1,631",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "9,911",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 253770,
+            "text": "Delaware",
+            "correct": true,
+            "count": "9,912",
+            "percent": "87.69%"
+          },
+          {
+            "id": 253774,
+            "text": "Rhode Island",
+            "correct": false,
+            "count": "465",
+            "percent": "4.11%"
+          },
+          {
+            "id": 253777,
+            "text": "Arizona",
+            "correct": false,
+            "count": "927",
+            "percent": "8.2%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-14/1/11",
+        "game_link": "/us/game/2019-06-14/1",
+        "correct_answers": 9912,
+        "incorrect_answers": 1392,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 119545,
+        "text": "Which of these women is mentioned in the Sugarhill Gangâs song âRapperâs Delightâ?",
+        "question_number": 12,
+        "eliminated": "8,588",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "2,039",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 253790,
+            "text": "Dolly Parton",
+            "correct": false,
+            "count": "7,743",
+            "percent": "73.95%"
+          },
+          {
+            "id": 253791,
+            "text": "Bo Derek",
+            "correct": false,
+            "count": "688",
+            "percent": "6.57%"
+          },
+          {
+            "id": 253792,
+            "text": "Farrah Fawcett",
+            "correct": true,
+            "count": "2,040",
+            "percent": "19.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-14/1/12",
+        "game_link": "/us/game/2019-06-14/1",
+        "correct_answers": 2040,
+        "incorrect_answers": 8431,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 119561,
+        "text": "The most complete Tyrannosaurus rex skeleton ever found is housed nearest to what MLB field?",
+        "question_number": 13,
+        "eliminated": "3,806",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "2,673",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 253814,
+            "text": "T-Mobile Park",
+            "correct": false,
+            "count": "2,626",
+            "percent": "41.5%"
+          },
+          {
+            "id": 253815,
+            "text": "Yankee Stadium",
+            "correct": false,
+            "count": "1,027",
+            "percent": "16.23%"
+          },
+          {
+            "id": 253816,
+            "text": "Guaranteed Rate Field",
+            "correct": true,
+            "count": "2,675",
+            "percent": "42.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-14/1/13",
+        "game_link": "/us/game/2019-06-14/1",
+        "correct_answers": 2675,
+        "incorrect_answers": 3653,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 13,
+          "players_left": 1607,
+          "players_left_formatted": "1,607",
+          "num_winners": 1065,
+          "num_winners_formatted": "1,065",
+          "prize": 0.75,
+          "prize_formatted": "$0.75",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 119577,
+        "text": "Of these actors, who has performed voice work in the fewest âIce Ageâ feature films?",
+        "question_number": 14,
+        "eliminated": "787",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "885",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 253838,
+            "text": "Seann William Scott",
+            "correct": true,
+            "count": "885",
+            "percent": "56.44%"
+          },
+          {
+            "id": 253839,
+            "text": "John Leguizamo",
+            "correct": false,
+            "count": "245",
+            "percent": "15.63%"
+          },
+          {
+            "id": 253843,
+            "text": "Denis Leary",
+            "correct": false,
+            "count": "438",
+            "percent": "27.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-14/1/14",
+        "game_link": "/us/game/2019-06-14/1",
+        "correct_answers": 885,
+        "incorrect_answers": 683,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 119596,
+        "text": "Which of these countriesâ capitals is farthest south?",
+        "question_number": 15,
+        "eliminated": "735",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "145",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 253866,
+            "text": "Iceland",
+            "correct": false,
+            "count": "219",
+            "percent": "26.13%"
+          },
+          {
+            "id": 253873,
+            "text": "Norway",
+            "correct": true,
+            "count": "147",
+            "percent": "17.54%"
+          },
+          {
+            "id": 253879,
+            "text": "Finland",
+            "correct": false,
+            "count": "472",
+            "percent": "56.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-14/1/15",
+        "game_link": "/us/game/2019-06-14/1",
+        "correct_answers": 147,
+        "incorrect_answers": 691,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 119610,
+        "text": "At the original Woodstock festival, Sha Na Na did NOT perform a â50s doo-wop hit made famous by whom?",
+        "question_number": 16,
+        "eliminated": "69",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "74",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 253887,
+            "text": "The Silhouettes",
+            "correct": false,
+            "count": "28",
+            "percent": "20.14%"
+          },
+          {
+            "id": 253889,
+            "text": "The Coasters",
+            "correct": true,
+            "count": "78",
+            "percent": "56.12%"
+          },
+          {
+            "id": 253892,
+            "text": "Danny & the Juniors",
+            "correct": false,
+            "count": "33",
+            "percent": "23.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-14/1/16",
+        "game_link": "/us/game/2019-06-14/1",
+        "correct_answers": 78,
+        "incorrect_answers": 61,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 119625,
+        "text": "Van Goghâs âStarry Nightâ uses paint with a pigment thatâs also used as what type of medicine?",
+        "question_number": 17,
+        "eliminated": "45",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "28",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 253910,
+            "text": "Antidote",
+            "correct": true,
+            "count": "30",
+            "percent": "43.48%"
+          },
+          {
+            "id": 253911,
+            "text": "Contraception",
+            "correct": false,
+            "count": "18",
+            "percent": "26.09%"
+          },
+          {
+            "id": 253912,
+            "text": "Antibiotic",
+            "correct": false,
+            "count": "21",
+            "percent": "30.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-14/1/17",
+        "game_link": "/us/game/2019-06-14/1",
+        "correct_answers": 30,
+        "incorrect_answers": 39,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 17,
+          "players_left": 1,
+          "players_left_formatted": "1",
+          "num_winners": 24,
+          "num_winners_formatted": "24",
+          "prize": 111.12,
+          "prize_formatted": "$111.12",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 119642,
+        "text": "Which of these movie characters did Marlon Brando play first?",
+        "question_number": 18,
+        "eliminated": "0",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "1",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 253935,
+            "text": "Mark Antony",
+            "correct": true,
+            "count": "1",
+            "percent": "100.0%"
+          },
+          {
+            "id": 253939,
+            "text": "Sky Masterson",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 253946,
+            "text": "Terry Malloy",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-14/1/18",
+        "game_link": "/us/game/2019-06-14/1",
+        "correct_answers": 1,
+        "incorrect_answers": 0,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 119659,
+        "text": "What is the most populous city on the third-largest continent by area?",
+        "question_number": 19,
+        "eliminated": "0",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "1",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 253964,
+            "text": "Shanghai",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 253966,
+            "text": "Mexico City",
+            "correct": true,
+            "count": "1",
+            "percent": "100.0%"
+          },
+          {
+            "id": 253969,
+            "text": "Lagos",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-14/1/19",
+        "game_link": "/us/game/2019-06-14/1",
+        "correct_answers": 1,
+        "incorrect_answers": 0,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 119673,
+        "text": "After its pilot, the showrunner for which HBO program received the note to âmake it more @#$%ed upâ?",
+        "question_number": 20,
+        "eliminated": "1",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "0",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 253982,
+            "text": "Six Feet Under",
+            "correct": true,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 253985,
+            "text": "Game of Thrones",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 253990,
+            "text": "Westworld",
+            "correct": false,
+            "count": "1",
+            "percent": "100.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-14/1/20",
+        "game_link": "/us/game/2019-06-14/1",
+        "correct_answers": 0,
+        "incorrect_answers": 1,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 242,
+        "game_id": 113511,
+        "question": "What would you do if you found $1,000 on the street?",
+        "results": [
+          {
+            "id": 1470,
+            "display_count": "11",
+            "vote_count": 7390,
+            "text": "Charity"
+          },
+          {
+            "id": 1474,
+            "display_count": "30",
+            "vote_count": 20073,
+            "text": "Police"
+          },
+          {
+            "id": 1462,
+            "display_count": "58",
+            "vote_count": 38565,
+            "text": "Spend"
+          }
+        ],
+        "created_at": "2019-06-15T01:03:50Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 9,
+        "players_left": 13309,
+        "players_left_formatted": "13,309",
+        "num_winners": 3984,
+        "num_winners_formatted": "3,984",
+        "prize": 0.15,
+        "prize_formatted": "$0.15",
+        "currency": "$"
+      },
+      {
+        "round_number": 13,
+        "players_left": 1607,
+        "players_left_formatted": "1,607",
+        "num_winners": 1065,
+        "num_winners_formatted": "1,065",
+        "prize": 0.75,
+        "prize_formatted": "$0.75",
+        "currency": "$"
+      },
+      {
+        "round_number": 17,
+        "players_left": 1,
+        "players_left_formatted": "1",
+        "num_winners": 24,
+        "num_winners_formatted": "24",
+        "prize": 111.12,
+        "prize_formatted": "$111.12",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "4,063.23",
+    "total_checkpoint_winners": "5,073",
+    "smallest_checkpoint_prize": "$0.15",
+    "largest_checkpoint_prize": "$111.12",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 113688,
+    "show_id": 11366,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-06-15T01:30:00Z",
+    "direct_link": "/us/game/2019-06-14/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "7,555",
+      "currency": "$",
+      "average_prize": "0.13"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-06-14/2/1",
+        "question_number": 1,
+        "text": "Fun Time",
+        "answer": [
+          "PIZZA",
+          "PARTY"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "T"
+        ],
+        "game_link": "/us/game/2019-06-14/2",
+        "eliminated": 23056,
+        "advancing": 74983,
+        "correct_answers": 74983,
+        "incorrect_answers": 23056
+      },
+      {
+        "direct_link": "/us/game/2019-06-14/2/2",
+        "question_number": 2,
+        "text": "Giving It Away",
+        "answer": [
+          "SPILL",
+          "THE",
+          "BEANS"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "N"
+        ],
+        "game_link": "/us/game/2019-06-14/2",
+        "eliminated": 16956,
+        "advancing": 58786,
+        "correct_answers": 58786,
+        "incorrect_answers": 16956
+      },
+      {
+        "direct_link": "/us/game/2019-06-14/2/3",
+        "question_number": 3,
+        "text": "European Hat",
+        "answer": [
+          "TAM",
+          "Oâ",
+          "SHANTER"
+        ],
+        "initial_letters": [
+          " ",
+          "â",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "N"
+        ],
+        "game_link": "/us/game/2019-06-14/2",
+        "eliminated": 33367,
+        "advancing": 26092,
+        "correct_answers": 26092,
+        "incorrect_answers": 33367
+      },
+      {
+        "direct_link": "/us/game/2019-06-14/2/4",
+        "question_number": 4,
+        "text": "Old-Timey Comparison",
+        "answer": [
+          "DOLLARS",
+          "TO",
+          "DOUGHNUTS"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "H"
+        ],
+        "game_link": "/us/game/2019-06-14/2",
+        "eliminated": 8634,
+        "advancing": 18752,
+        "correct_answers": 18752,
+        "incorrect_answers": 8634
+      },
+      {
+        "direct_link": "/us/game/2019-06-14/2/5",
+        "question_number": 5,
+        "text": "So Common",
+        "answer": [
+          "A",
+          "DIME",
+          "A",
+          "DOZEN"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "I"
+        ],
+        "game_link": "/us/game/2019-06-14/2",
+        "eliminated": 2901,
+        "advancing": 16267,
+        "correct_answers": 16267,
+        "incorrect_answers": 2901
+      },
+      {
+        "direct_link": "/us/game/2019-06-14/2/6",
+        "question_number": 6,
+        "text": "Kidsâ Game",
+        "answer": [
+          "FOLLOW",
+          "THE",
+          "LEADER"
+        ],
+        "initial_letters": [
+          " ",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "R"
+        ],
+        "game_link": "/us/game/2019-06-14/2",
+        "eliminated": 873,
+        "advancing": 15582,
+        "correct_answers": 15582,
+        "incorrect_answers": 873
+      },
+      {
+        "direct_link": "/us/game/2019-06-14/2/7",
+        "question_number": 7,
+        "text": "â90s Look",
+        "answer": [
+          "PLEATED",
+          "KHAKI",
+          "PANTS"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "T"
+        ],
+        "game_link": "/us/game/2019-06-14/2",
+        "eliminated": 5785,
+        "advancing": 9827,
+        "correct_answers": 9827,
+        "incorrect_answers": 5785
+      },
+      {
+        "direct_link": "/us/game/2019-06-14/2/8",
+        "question_number": 8,
+        "text": "Kitchen Gizmo",
+        "answer": [
+          "IMMERSION",
+          "BLENDER"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "O"
+        ],
+        "game_link": "/us/game/2019-06-14/2",
+        "eliminated": 1269,
+        "advancing": 9201,
+        "correct_answers": 9201,
+        "incorrect_answers": 1269
+      },
+      {
+        "direct_link": "/us/game/2019-06-14/2/9",
+        "question_number": 9,
+        "text": "Maybe Next Time",
+        "answer": [
+          "BACK",
+          "TO",
+          "THE",
+          "DRAWING",
+          "BOARD"
+        ],
+        "initial_letters": [
+          " ",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "N"
+        ],
+        "game_link": "/us/game/2019-06-14/2",
+        "eliminated": 1316,
+        "advancing": 8063,
+        "correct_answers": 8063,
+        "incorrect_answers": 1316
+      },
+      {
+        "direct_link": "/us/game/2019-06-14/2/10",
+        "question_number": 10,
+        "text": "Regional Order",
+        "answer": [
+          "PHILLY",
+          "CHEESESTEAK"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "K"
+        ],
+        "game_link": "/us/game/2019-06-14/2",
+        "eliminated": 483,
+        "advancing": 7822,
+        "correct_answers": 7822,
+        "incorrect_answers": 483
+      },
+      {
+        "direct_link": "/us/game/2019-06-14/2/11",
+        "question_number": 11,
+        "text": "Did Your Classroom Have One?",
+        "answer": [
+          "ELECTRIC",
+          "PENCIL",
+          "SHARPENER"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "S"
+        ],
+        "game_link": "/us/game/2019-06-14/2",
+        "eliminated": 241,
+        "advancing": 7720,
+        "correct_answers": 7720,
+        "incorrect_answers": 241
+      },
+      {
+        "direct_link": "/us/game/2019-06-14/2/12",
+        "question_number": 12,
+        "text": "Ciao for Now",
+        "answer": [
+          "SEE",
+          "YOU",
+          "LATER",
+          "ALLIGATOR"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "T"
+        ],
+        "game_link": "/us/game/2019-06-14/2",
+        "eliminated": 262,
+        "advancing": 7555,
+        "correct_answers": 7555,
+        "incorrect_answers": 262
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

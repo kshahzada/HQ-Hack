@@ -1,0 +1,1341 @@
+[
+  {
+    "id": 58357,
+    "show_id": 9735,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "2,500",
+    "currency": "$",
+    "start_time": "2019-02-28T20:00:00Z",
+    "direct_link": "/us/game/2019-02-28/1",
+    "time": " 3:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "10,069",
+      "currency": "$",
+      "average_prize": "0.25"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 49335,
+        "text": "What is a common place for keeping money?",
+        "question_number": 1,
+        "eliminated": "-7,059",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "193,021",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 147901,
+            "text": "Piggy bank",
+            "correct": true,
+            "count": "184,616",
+            "percent": "99.28%"
+          },
+          {
+            "id": 147902,
+            "text": "Monkey slide",
+            "correct": false,
+            "count": "1,025",
+            "percent": "0.55%"
+          },
+          {
+            "id": 147907,
+            "text": "Zebra pit",
+            "correct": false,
+            "count": "321",
+            "percent": "0.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/1/1",
+        "game_link": "/us/game/2019-02-28/1",
+        "correct_answers": 184616,
+        "incorrect_answers": 1346,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49342,
+        "text": "Which of these words rhymes with âpartâ?",
+        "question_number": 2,
+        "eliminated": "563",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "192,538",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 147921,
+            "text": "Trap",
+            "correct": false,
+            "count": "2,104",
+            "percent": "1.13%"
+          },
+          {
+            "id": 147922,
+            "text": "Tart",
+            "correct": true,
+            "count": "181,830",
+            "percent": "98.06%"
+          },
+          {
+            "id": 147923,
+            "text": "Rapt",
+            "correct": false,
+            "count": "1,486",
+            "percent": "0.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/1/2",
+        "game_link": "/us/game/2019-02-28/1",
+        "correct_answers": 181830,
+        "incorrect_answers": 3590,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49350,
+        "text": "Which of these metals is strongly attracted to magnets?",
+        "question_number": 3,
+        "eliminated": "2,739",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "189,832",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 147945,
+            "text": "Sodium",
+            "correct": false,
+            "count": "1,212",
+            "percent": "0.66%"
+          },
+          {
+            "id": 147946,
+            "text": "Iron",
+            "correct": true,
+            "count": "157,819",
+            "percent": "85.72%"
+          },
+          {
+            "id": 147947,
+            "text": "Aluminum",
+            "correct": false,
+            "count": "25,088",
+            "percent": "13.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/1/3",
+        "game_link": "/us/game/2019-02-28/1",
+        "correct_answers": 157819,
+        "incorrect_answers": 26300,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49359,
+        "text": "The newest trailer for a film in what superhero franchise features the character Jean Grey?",
+        "question_number": 4,
+        "eliminated": "6,088",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "183,913",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 147971,
+            "text": "X-Men",
+            "correct": true,
+            "count": "118,197",
+            "percent": "65.95%"
+          },
+          {
+            "id": 147974,
+            "text": "Avengers",
+            "correct": false,
+            "count": "44,382",
+            "percent": "24.76%"
+          },
+          {
+            "id": 147980,
+            "text": "Incredibles",
+            "correct": false,
+            "count": "16,645",
+            "percent": "9.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/1/4",
+        "game_link": "/us/game/2019-02-28/1",
+        "correct_answers": 118197,
+        "incorrect_answers": 61027,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49366,
+        "text": "Who is this performer?",
+        "question_number": 5,
+        "eliminated": "4,399",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "179,821",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 147993,
+            "text": "Bo Diddley",
+            "correct": false,
+            "count": "13,232",
+            "percent": "7.58%"
+          },
+          {
+            "id": 147994,
+            "text": "Chuck Berry",
+            "correct": true,
+            "count": "144,049",
+            "percent": "82.53%"
+          },
+          {
+            "id": 147999,
+            "text": "Little Richard",
+            "correct": false,
+            "count": "17,268",
+            "percent": "9.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/1/5",
+        "game_link": "/us/game/2019-02-28/1",
+        "correct_answers": 144049,
+        "incorrect_answers": 30500,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49376,
+        "text": "Which Nintendo game was designed to be used with the Power Glove accessory?",
+        "question_number": 6,
+        "eliminated": "20,506",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "159,547",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 148019,
+            "text": "Track & Field II",
+            "correct": false,
+            "count": "21,684",
+            "percent": "13.26%"
+          },
+          {
+            "id": 148022,
+            "text": "Bad Street Brawler",
+            "correct": true,
+            "count": "93,391",
+            "percent": "57.12%"
+          },
+          {
+            "id": 148025,
+            "text": "Rad Racer",
+            "correct": false,
+            "count": "48,433",
+            "percent": "29.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/1/6",
+        "game_link": "/us/game/2019-02-28/1",
+        "correct_answers": 93391,
+        "incorrect_answers": 70117,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49385,
+        "text": "Which European country is this?",
+        "question_number": 7,
+        "eliminated": "74,331",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "87,427",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 148045,
+            "text": "Norway",
+            "correct": false,
+            "count": "40,436",
+            "percent": "26.2%"
+          },
+          {
+            "id": 148051,
+            "text": "Finland",
+            "correct": false,
+            "count": "45,841",
+            "percent": "29.71%"
+          },
+          {
+            "id": 148054,
+            "text": "Sweden",
+            "correct": true,
+            "count": "68,033",
+            "percent": "44.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/1/7",
+        "game_link": "/us/game/2019-02-28/1",
+        "correct_answers": 68033,
+        "incorrect_answers": 86277,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49389,
+        "text": "âAn eye for an eye, a tooth for a toothâ first appeared in what ancient legal code?",
+        "question_number": 8,
+        "eliminated": "35,785",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "59,650",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 148062,
+            "text": "Code of Hammurabi",
+            "correct": true,
+            "count": "59,571",
+            "percent": "64.8%"
+          },
+          {
+            "id": 148065,
+            "text": "Quran",
+            "correct": false,
+            "count": "19,593",
+            "percent": "21.31%"
+          },
+          {
+            "id": 148069,
+            "text": "Talmud",
+            "correct": false,
+            "count": "12,763",
+            "percent": "13.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/1/8",
+        "game_link": "/us/game/2019-02-28/1",
+        "correct_answers": 59571,
+        "incorrect_answers": 32356,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49397,
+        "text": "In the early 2000s, fans of what team got together to blow up an infamous baseball?",
+        "question_number": 9,
+        "eliminated": "24,790",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "37,971",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 148086,
+            "text": "Chicago Cubs",
+            "correct": true,
+            "count": "37,961",
+            "percent": "63.51%"
+          },
+          {
+            "id": 148088,
+            "text": "Florida Marlins",
+            "correct": false,
+            "count": "4,281",
+            "percent": "7.16%"
+          },
+          {
+            "id": 148089,
+            "text": "New York Mets",
+            "correct": false,
+            "count": "17,532",
+            "percent": "29.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/1/9",
+        "game_link": "/us/game/2019-02-28/1",
+        "correct_answers": 37961,
+        "incorrect_answers": 21813,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49406,
+        "text": "This fontâs name comes from the Latin name for where?",
+        "question_number": 10,
+        "eliminated": "16,507",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "25,244",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 148111,
+            "text": "Germany",
+            "correct": false,
+            "count": "10,421",
+            "percent": "25.49%"
+          },
+          {
+            "id": 148117,
+            "text": "Switzerland",
+            "correct": true,
+            "count": "25,244",
+            "percent": "61.75%"
+          },
+          {
+            "id": 148121,
+            "text": "Scotland",
+            "correct": false,
+            "count": "5,215",
+            "percent": "12.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/1/10",
+        "game_link": "/us/game/2019-02-28/1",
+        "correct_answers": 25244,
+        "incorrect_answers": 15636,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49413,
+        "text": "The idea that highly advanced technology is indistinguishable from magic is named for what author?",
+        "question_number": 11,
+        "eliminated": "11,894",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "16,386",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 148135,
+            "text": "Ray Bradbury",
+            "correct": false,
+            "count": "2,721",
+            "percent": "10.17%"
+          },
+          {
+            "id": 148138,
+            "text": "Arthur C. Clarke",
+            "correct": true,
+            "count": "16,386",
+            "percent": "61.24%"
+          },
+          {
+            "id": 148142,
+            "text": "Isaac Asimov",
+            "correct": false,
+            "count": "7,650",
+            "percent": "28.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/1/11",
+        "game_link": "/us/game/2019-02-28/1",
+        "correct_answers": 16386,
+        "incorrect_answers": 10371,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49422,
+        "text": "What classic Aerosmith single was partially inspired by a Mel Brooks movie?",
+        "question_number": 12,
+        "eliminated": "9,682",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "10,069",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 148161,
+            "text": "Walk This Way",
+            "correct": true,
+            "count": "10,069",
+            "percent": "52.55%"
+          },
+          {
+            "id": 148165,
+            "text": "Dude (Looks Like a Lady)",
+            "correct": false,
+            "count": "5,453",
+            "percent": "28.46%"
+          },
+          {
+            "id": 148171,
+            "text": "Back in the Saddle",
+            "correct": false,
+            "count": "3,638",
+            "percent": "18.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/1/12",
+        "game_link": "/us/game/2019-02-28/1",
+        "correct_answers": 10069,
+        "incorrect_answers": 9091,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 58475,
+    "show_id": 9815,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "2,500",
+    "currency": "$",
+    "start_time": "2019-03-01T02:00:00Z",
+    "direct_link": "/us/game/2019-02-28/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "27,294",
+      "currency": "$",
+      "average_prize": "0.09"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "questions": [
+      {
+        "id": 49429,
+        "text": "What was Gollumâs original name?",
+        "question_number": 1,
+        "eliminated": "-12,316",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "397,839",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 148182,
+            "text": "SmÃ©agol",
+            "correct": true,
+            "count": "372,061",
+            "percent": "96.51%"
+          },
+          {
+            "id": 148183,
+            "text": "Skinny Pete",
+            "correct": false,
+            "count": "10,155",
+            "percent": "2.63%"
+          },
+          {
+            "id": 148184,
+            "text": "Nasty Boi",
+            "correct": false,
+            "count": "3,307",
+            "percent": "0.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/2/1",
+        "game_link": "/us/game/2019-02-28/2",
+        "correct_answers": 372061,
+        "incorrect_answers": 13462,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49437,
+        "text": "According to Boromir, what does one simply not do?",
+        "question_number": 2,
+        "eliminated": "365",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "397,663",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 148203,
+            "text": "Shave Hobbit feet",
+            "correct": false,
+            "count": "20,843",
+            "percent": "5.51%"
+          },
+          {
+            "id": 148205,
+            "text": "Mansplain to Galadriel",
+            "correct": false,
+            "count": "8,554",
+            "percent": "2.26%"
+          },
+          {
+            "id": 148208,
+            "text": "Walk into Mordor",
+            "correct": true,
+            "count": "348,853",
+            "percent": "92.23%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/2/2",
+        "game_link": "/us/game/2019-02-28/2",
+        "correct_answers": 348853,
+        "incorrect_answers": 29397,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49444,
+        "text": "Which âLord of the Ringsâ movie won Best Picture at the Academy Awards?",
+        "question_number": 3,
+        "eliminated": "2,946",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "394,721",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 148227,
+            "text": "The Two Towers",
+            "correct": false,
+            "count": "52,586",
+            "percent": "14.0%"
+          },
+          {
+            "id": 148229,
+            "text": "Fellowship of the Ring",
+            "correct": false,
+            "count": "118,928",
+            "percent": "31.66%"
+          },
+          {
+            "id": 148232,
+            "text": "The Return of the King",
+            "correct": true,
+            "count": "204,135",
+            "percent": "54.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/2/3",
+        "game_link": "/us/game/2019-02-28/2",
+        "correct_answers": 204135,
+        "incorrect_answers": 171514,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49455,
+        "text": "At the Council of Elrond, who is the next to join the Fellowship after Gandalf?",
+        "question_number": 4,
+        "eliminated": "10,233",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "384,603",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 148257,
+            "text": "Legolas",
+            "correct": false,
+            "count": "104,532",
+            "percent": "28.76%"
+          },
+          {
+            "id": 148260,
+            "text": "Aragorn",
+            "correct": true,
+            "count": "209,513",
+            "percent": "57.65%"
+          },
+          {
+            "id": 148262,
+            "text": "Samwise",
+            "correct": false,
+            "count": "49,368",
+            "percent": "13.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/2/4",
+        "game_link": "/us/game/2019-02-28/2",
+        "correct_answers": 209513,
+        "incorrect_answers": 153900,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49462,
+        "text": "Which of these lines is part of the inscription inside the One Ring?",
+        "question_number": 5,
+        "eliminated": "14,805",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "370,401",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 148280,
+            "text": "One ring of darkness",
+            "correct": false,
+            "count": "30,926",
+            "percent": "8.74%"
+          },
+          {
+            "id": 148282,
+            "text": "One ring of power",
+            "correct": false,
+            "count": "111,231",
+            "percent": "31.45%"
+          },
+          {
+            "id": 148284,
+            "text": "One ring to find them",
+            "correct": true,
+            "count": "211,487",
+            "percent": "59.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/2/5",
+        "game_link": "/us/game/2019-02-28/2",
+        "correct_answers": 211487,
+        "incorrect_answers": 142157,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49468,
+        "text": "Which of these was a gift that Galadriel gave a member of the fellowship?",
+        "question_number": 6,
+        "eliminated": "36,183",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "335,272",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 148299,
+            "text": "Hair",
+            "correct": true,
+            "count": "178,538",
+            "percent": "51.67%"
+          },
+          {
+            "id": 148300,
+            "text": "Insect",
+            "correct": false,
+            "count": "28,385",
+            "percent": "8.22%"
+          },
+          {
+            "id": 148301,
+            "text": "Tree branch",
+            "correct": false,
+            "count": "138,580",
+            "percent": "40.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/2/6",
+        "game_link": "/us/game/2019-02-28/2",
+        "correct_answers": 178538,
+        "incorrect_answers": 166965,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49476,
+        "text": "Before the One Ring, which of these groups bore the most Great Rings?",
+        "question_number": 7,
+        "eliminated": "157,884",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "180,450",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 148323,
+            "text": "Men",
+            "correct": true,
+            "count": "142,120",
+            "percent": "44.25%"
+          },
+          {
+            "id": 148324,
+            "text": "Elves",
+            "correct": false,
+            "count": "118,527",
+            "percent": "36.9%"
+          },
+          {
+            "id": 148326,
+            "text": "Dwarves",
+            "correct": false,
+            "count": "60,551",
+            "percent": "18.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/2/7",
+        "game_link": "/us/game/2019-02-28/2",
+        "correct_answers": 142120,
+        "incorrect_answers": 179078,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49483,
+        "text": "In the films, which of these is NOT one of the Hobbit meals Pippin asks for?",
+        "question_number": 8,
+        "eliminated": "90,887",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "109,172",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 148344,
+            "text": "Supper",
+            "correct": false,
+            "count": "16,005",
+            "percent": "8.31%"
+          },
+          {
+            "id": 148345,
+            "text": "Second luncheon",
+            "correct": true,
+            "count": "108,848",
+            "percent": "56.5%"
+          },
+          {
+            "id": 148346,
+            "text": "Dinner",
+            "correct": false,
+            "count": "67,802",
+            "percent": "35.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/2/8",
+        "game_link": "/us/game/2019-02-28/2",
+        "correct_answers": 108848,
+        "incorrect_answers": 83807,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49492,
+        "text": "Which of these is the full name of a Hobbit?",
+        "question_number": 9,
+        "eliminated": "36,999",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "87,606",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 148370,
+            "text": "Samwell",
+            "correct": false,
+            "count": "23,027",
+            "percent": "18.88%"
+          },
+          {
+            "id": 148372,
+            "text": "Peregrin",
+            "correct": true,
+            "count": "87,603",
+            "percent": "71.81%"
+          },
+          {
+            "id": 148373,
+            "text": "Frodioc",
+            "correct": false,
+            "count": "11,356",
+            "percent": "9.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/2/9",
+        "game_link": "/us/game/2019-02-28/2",
+        "correct_answers": 87603,
+        "incorrect_answers": 34383,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49499,
+        "text": "The giant battle at Minas Tirith features what fantastic creatures?",
+        "question_number": 10,
+        "eliminated": "36,457",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "57,452",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 148392,
+            "text": "Ents",
+            "correct": false,
+            "count": "14,725",
+            "percent": "16.1%"
+          },
+          {
+            "id": 148393,
+            "text": "Great Eagles",
+            "correct": false,
+            "count": "19,259",
+            "percent": "21.06%"
+          },
+          {
+            "id": 148395,
+            "text": "Oliphaunts",
+            "correct": true,
+            "count": "57,451",
+            "percent": "62.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/2/10",
+        "game_link": "/us/game/2019-02-28/2",
+        "correct_answers": 57451,
+        "incorrect_answers": 33984,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49510,
+        "text": "In the films, which of these characters is the tallest?",
+        "question_number": 11,
+        "eliminated": "39,534",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "28,482",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 148422,
+            "text": "Gimli",
+            "correct": true,
+            "count": "28,482",
+            "percent": "43.37%"
+          },
+          {
+            "id": 148427,
+            "text": "Frodo",
+            "correct": false,
+            "count": "11,897",
+            "percent": "18.12%"
+          },
+          {
+            "id": 148431,
+            "text": "Gollum",
+            "correct": false,
+            "count": "25,287",
+            "percent": "38.51%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/2/11",
+        "game_link": "/us/game/2019-02-28/2",
+        "correct_answers": 28482,
+        "incorrect_answers": 37184,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 49518,
+        "text": "Which of these Middle-Earth places is by far the closest to Mordor?",
+        "question_number": 12,
+        "eliminated": "12,507",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "27,294",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 148446,
+            "text": "The Misty Mountains",
+            "correct": false,
+            "count": "8,938",
+            "percent": "22.89%"
+          },
+          {
+            "id": 148450,
+            "text": "Gondor",
+            "correct": true,
+            "count": "27,294",
+            "percent": "69.91%"
+          },
+          {
+            "id": 148452,
+            "text": "LothlÃ³rien",
+            "correct": false,
+            "count": "2,808",
+            "percent": "7.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-28/2/12",
+        "game_link": "/us/game/2019-02-28/2",
+        "correct_answers": 27294,
+        "incorrect_answers": 11746,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 58596,
+    "show_id": 9798,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-03-01T02:30:00Z",
+    "direct_link": "/us/game/2019-02-28/3",
+    "currency": "$",
+    "prize": "2,500",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "51.90"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "61.46"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "65.66"
+        },
+        {
+          "number": "32,241",
+          "amount": "0.07",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.0705557623123682,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-02-28/3/1",
+        "question_number": 1,
+        "text": "Shire Residents",
+        "answer": [
+          "HOBBITS"
+        ],
+        "initial_letters": [
+          "H"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "T"
+        ],
+        "game_link": "/us/game/2019-02-28/3",
+        "eliminated": 12519,
+        "advancing": 181292,
+        "correct_answers": 181292,
+        "incorrect_answers": 12519
+      },
+      {
+        "direct_link": "/us/game/2019-02-28/3/2",
+        "question_number": 2,
+        "text": "Fellowship Member",
+        "answer": [
+          "LEGOLAS"
+        ],
+        "initial_letters": [
+          "L"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "G"
+        ],
+        "game_link": "/us/game/2019-02-28/3",
+        "eliminated": 29038,
+        "advancing": 152423,
+        "correct_answers": 152423,
+        "incorrect_answers": 29038
+      },
+      {
+        "direct_link": "/us/game/2019-02-28/3/3",
+        "question_number": 3,
+        "text": "Fearsome Sight",
+        "answer": [
+          "EYE",
+          "OF",
+          "SAURON"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "U"
+        ],
+        "game_link": "/us/game/2019-02-28/3",
+        "eliminated": 43363,
+        "advancing": 109012,
+        "correct_answers": 109012,
+        "incorrect_answers": 43363
+      },
+      {
+        "direct_link": "/us/game/2019-02-28/3/4",
+        "question_number": 4,
+        "text": "Scenic Location",
+        "answer": [
+          "MISTY",
+          "MOUNTAINS"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-02-28/3",
+        "eliminated": 21314,
+        "advancing": 89322,
+        "correct_answers": 89322,
+        "incorrect_answers": 21314
+      },
+      {
+        "direct_link": "/us/game/2019-02-28/3/5",
+        "question_number": 5,
+        "text": "Good / Bad",
+        "answer": [
+          "SMEAGOL",
+          "/",
+          "GOLLUM"
+        ],
+        "initial_letters": [
+          " ",
+          "/",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "G"
+        ],
+        "game_link": "/us/game/2019-02-28/3",
+        "eliminated": 9516,
+        "advancing": 81056,
+        "correct_answers": 81056,
+        "incorrect_answers": 9516
+      },
+      {
+        "direct_link": "/us/game/2019-02-28/3/6",
+        "question_number": 6,
+        "text": "Famous Declaration",
+        "answer": [
+          "YOU",
+          "SHALL",
+          "NOT",
+          "PASS"
+        ],
+        "initial_letters": [
+          " ",
+          "Y"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "P"
+        ],
+        "game_link": "/us/game/2019-02-28/3",
+        "eliminated": 9332,
+        "advancing": 72248,
+        "correct_answers": 72248,
+        "incorrect_answers": 9332
+      },
+      {
+        "direct_link": "/us/game/2019-02-28/3/7",
+        "question_number": 7,
+        "text": "Part of a Title",
+        "answer": [
+          "THERE",
+          "AND",
+          "BACK",
+          "AGAIN"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "R"
+        ],
+        "game_link": "/us/game/2019-02-28/3",
+        "eliminated": 22289,
+        "advancing": 50909,
+        "correct_answers": 50909,
+        "incorrect_answers": 22289
+      },
+      {
+        "direct_link": "/us/game/2019-02-28/3/8",
+        "question_number": 8,
+        "text": "Epic Showdown",
+        "answer": [
+          "BATTLE",
+          "OF",
+          "HELMâS",
+          "DEEP"
+        ],
+        "initial_letters": [
+          " ",
+          "â",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "O"
+        ],
+        "game_link": "/us/game/2019-02-28/3",
+        "eliminated": 18387,
+        "advancing": 35538,
+        "correct_answers": 35538,
+        "incorrect_answers": 18387
+      },
+      {
+        "direct_link": "/us/game/2019-02-28/3/9",
+        "question_number": 9,
+        "text": "Magic User",
+        "answer": [
+          "SARUMAN",
+          "THE",
+          "WHITE"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "T"
+        ],
+        "game_link": "/us/game/2019-02-28/3",
+        "eliminated": 6332,
+        "advancing": 32550,
+        "correct_answers": 32550,
+        "incorrect_answers": 6332
+      },
+      {
+        "direct_link": "/us/game/2019-02-28/3/10",
+        "question_number": 10,
+        "text": "Frodoâs Goal",
+        "answer": [
+          "TAKE",
+          "THE",
+          "RING",
+          "TO",
+          "MORDOR"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "T"
+        ],
+        "game_link": "/us/game/2019-02-28/3",
+        "eliminated": 1764,
+        "advancing": 32244,
+        "correct_answers": 32244,
+        "incorrect_answers": 1764
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

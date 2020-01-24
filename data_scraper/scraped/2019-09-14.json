@@ -1,0 +1,1392 @@
+[
+  {
+    "id": 132723,
+    "show_id": 12389,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "100",
+    "currency": "$",
+    "start_time": "2019-09-14T06:00:00Z",
+    "direct_link": "/us/game/2019-09-14/1",
+    "time": " 2:00 am",
+    "country": "us",
+    "summary": {
+      "winner_count": "3,628",
+      "currency": "$",
+      "average_prize": "0.03"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 146978,
+        "text": "Who is featured on the United States one dollar bill?",
+        "question_number": 1,
+        "eliminated": "-4,413",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "65,224",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 294923,
+            "text": "Morgan Freeman",
+            "correct": false,
+            "count": "487",
+            "percent": "0.83%"
+          },
+          {
+            "id": 294925,
+            "text": "George Washington",
+            "correct": true,
+            "count": "55,589",
+            "percent": "95.3%"
+          },
+          {
+            "id": 294929,
+            "text": "Abraham Lincoln",
+            "correct": false,
+            "count": "2,254",
+            "percent": "3.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/1/1",
+        "game_link": "/us/game/2019-09-14/1",
+        "correct_answers": 55589,
+        "incorrect_answers": 2741,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 146994,
+        "text": "Who is the mayor of McDonaldland, the magical world seen in McDonald's commercials?",
+        "question_number": 2,
+        "eliminated": "6,138",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "59,609",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 294947,
+            "text": "Mayor Bloomberg",
+            "correct": false,
+            "count": "2,327",
+            "percent": "4.06%"
+          },
+          {
+            "id": 294950,
+            "text": "Mayor McCheese",
+            "correct": true,
+            "count": "51,176",
+            "percent": "89.27%"
+          },
+          {
+            "id": 294953,
+            "text": "Mayor Quimby",
+            "correct": false,
+            "count": "3,822",
+            "percent": "6.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/1/2",
+        "game_link": "/us/game/2019-09-14/1",
+        "correct_answers": 51176,
+        "incorrect_answers": 6149,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147010,
+        "text": "What cartoon bear likes to say \"Only you can prevent forest fire\"?",
+        "question_number": 3,
+        "eliminated": "8,297",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "52,669",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 294971,
+            "text": "Paddington Bear",
+            "correct": false,
+            "count": "221",
+            "percent": "0.41%"
+          },
+          {
+            "id": 294974,
+            "text": "Yogi Bear",
+            "correct": false,
+            "count": "1,717",
+            "percent": "3.21%"
+          },
+          {
+            "id": 294977,
+            "text": "Smokey Bear",
+            "correct": true,
+            "count": "51,501",
+            "percent": "96.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/1/3",
+        "game_link": "/us/game/2019-09-14/1",
+        "correct_answers": 51501,
+        "incorrect_answers": 1938,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147026,
+        "text": "Peaches are the official state fruit of what state?",
+        "question_number": 4,
+        "eliminated": "2,942",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "50,618",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 294995,
+            "text": "Georgia",
+            "correct": true,
+            "count": "50,385",
+            "percent": "97.85%"
+          },
+          {
+            "id": 294998,
+            "text": "Florida",
+            "correct": false,
+            "count": "892",
+            "percent": "1.73%"
+          },
+          {
+            "id": 295001,
+            "text": "Utah",
+            "correct": false,
+            "count": "214",
+            "percent": "0.42%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/1/4",
+        "game_link": "/us/game/2019-09-14/1",
+        "correct_answers": 50385,
+        "incorrect_answers": 1106,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147042,
+        "text": "Beignets are to France as zeppoli are to what country?",
+        "question_number": 5,
+        "eliminated": "6,915",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "44,392",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295019,
+            "text": "Portugal",
+            "correct": false,
+            "count": "2,802",
+            "percent": "5.6%"
+          },
+          {
+            "id": 295020,
+            "text": "Italy",
+            "correct": true,
+            "count": "44,267",
+            "percent": "88.51%"
+          },
+          {
+            "id": 295023,
+            "text": "Spain",
+            "correct": false,
+            "count": "2,947",
+            "percent": "5.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/1/5",
+        "game_link": "/us/game/2019-09-14/1",
+        "correct_answers": 44267,
+        "incorrect_answers": 5749,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147058,
+        "text": "About how many kilometers are in one mile?",
+        "question_number": 6,
+        "eliminated": "14,207",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "32,857",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295043,
+            "text": "0.6 km",
+            "correct": false,
+            "count": "5,323",
+            "percent": "11.49%"
+          },
+          {
+            "id": 295045,
+            "text": "2.2 km",
+            "correct": false,
+            "count": "8,415",
+            "percent": "18.16%"
+          },
+          {
+            "id": 295049,
+            "text": "1.6 km",
+            "correct": true,
+            "count": "32,590",
+            "percent": "70.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/1/6",
+        "game_link": "/us/game/2019-09-14/1",
+        "correct_answers": 32590,
+        "incorrect_answers": 13738,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147074,
+        "text": "Which of these actors was not a cast member of Third Rock from the Sun?",
+        "question_number": 7,
+        "eliminated": "2,853",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "36,484",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295067,
+            "text": "Joseph Gordon-Levitt",
+            "correct": false,
+            "count": "1,289",
+            "percent": "3.31%"
+          },
+          {
+            "id": 295069,
+            "text": "John Lithgow",
+            "correct": false,
+            "count": "1,194",
+            "percent": "3.07%"
+          },
+          {
+            "id": 295072,
+            "text": "Jimmy Fallon",
+            "correct": true,
+            "count": "36,439",
+            "percent": "93.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/1/7",
+        "game_link": "/us/game/2019-09-14/1",
+        "correct_answers": 36439,
+        "incorrect_answers": 2483,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147090,
+        "text": "What foul-mouthed comedian rose to fame with his 'dirty nursery rhymes' in the early 90s?",
+        "question_number": 8,
+        "eliminated": "7,738",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "29,732",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295091,
+            "text": "Richard Pryor",
+            "correct": false,
+            "count": "4,768",
+            "percent": "13.07%"
+          },
+          {
+            "id": 295094,
+            "text": "Andrew Dice Clay",
+            "correct": true,
+            "count": "29,683",
+            "percent": "81.38%"
+          },
+          {
+            "id": 295097,
+            "text": "Bill Hicks",
+            "correct": false,
+            "count": "2,023",
+            "percent": "5.55%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/1/8",
+        "game_link": "/us/game/2019-09-14/1",
+        "correct_answers": 29683,
+        "incorrect_answers": 6791,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147106,
+        "text": "What massive hurricane caused $26.5 billion in damages when it struck Florida in 1992?",
+        "question_number": 9,
+        "eliminated": "8,388",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "24,287",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295115,
+            "text": "Hugo",
+            "correct": false,
+            "count": "7,524",
+            "percent": "23.25%"
+          },
+          {
+            "id": 295117,
+            "text": "Andrew",
+            "correct": true,
+            "count": "24,244",
+            "percent": "74.93%"
+          },
+          {
+            "id": 295119,
+            "text": "Bob",
+            "correct": false,
+            "count": "588",
+            "percent": "1.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/1/9",
+        "game_link": "/us/game/2019-09-14/1",
+        "correct_answers": 24244,
+        "incorrect_answers": 8112,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147122,
+        "text": "Which country has the highest population of Catholics in the world?",
+        "question_number": 10,
+        "eliminated": "18,695",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "9,620",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295139,
+            "text": "Brazil",
+            "correct": true,
+            "count": "9,571",
+            "percent": "34.27%"
+          },
+          {
+            "id": 295142,
+            "text": "Italy",
+            "correct": false,
+            "count": "6,718",
+            "percent": "24.05%"
+          },
+          {
+            "id": 295145,
+            "text": "Mexico",
+            "correct": false,
+            "count": "11,641",
+            "percent": "41.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/1/10",
+        "game_link": "/us/game/2019-09-14/1",
+        "correct_answers": 9571,
+        "incorrect_answers": 18359,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147138,
+        "text": "Which of these universities is public?",
+        "question_number": 11,
+        "eliminated": "17,353",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "2,222",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295163,
+            "text": "Rice University",
+            "correct": true,
+            "count": "2,222",
+            "percent": "11.62%"
+          },
+          {
+            "id": 295166,
+            "text": "University of Chicago",
+            "correct": false,
+            "count": "5,461",
+            "percent": "28.55%"
+          },
+          {
+            "id": 295169,
+            "text": "Clemson University",
+            "correct": false,
+            "count": "11,447",
+            "percent": "59.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/1/11",
+        "game_link": "/us/game/2019-09-14/1",
+        "correct_answers": 2222,
+        "incorrect_answers": 16908,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147154,
+        "text": "What famous American has a museum in his hometown of Springfield, MA?",
+        "question_number": 12,
+        "eliminated": "5,541",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "3,628",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295187,
+            "text": "Jim Henson",
+            "correct": false,
+            "count": "1,769",
+            "percent": "20.02%"
+          },
+          {
+            "id": 295189,
+            "text": "Andy Warhol",
+            "correct": false,
+            "count": "3,437",
+            "percent": "38.91%"
+          },
+          {
+            "id": 295193,
+            "text": "Dr. Seuss",
+            "correct": true,
+            "count": "3,628",
+            "percent": "41.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/1/12",
+        "game_link": "/us/game/2019-09-14/1",
+        "correct_answers": 3628,
+        "incorrect_answers": 5206,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1643,
+        "game_id": 132723,
+        "question": "Should we do this again?",
+        "results": [
+          {
+            "id": 9746,
+            "display_count": "13",
+            "vote_count": 4685,
+            "text": "DFTYL"
+          },
+          {
+            "id": 9736,
+            "display_count": "5",
+            "vote_count": 1954,
+            "text": "Okay"
+          },
+          {
+            "id": 9735,
+            "display_count": "81",
+            "vote_count": 29113,
+            "text": "Yes"
+          }
+        ],
+        "created_at": "2019-09-14T06:18:55Z"
+      },
+      {
+        "id": 1634,
+        "game_id": 132723,
+        "question": "What did Matt have today? ",
+        "results": [
+          {
+            "id": 9691,
+            "display_count": "26",
+            "vote_count": 11206,
+            "text": "Coffee"
+          },
+          {
+            "id": 9685,
+            "display_count": "17",
+            "vote_count": 7414,
+            "text": "Matcha Tea"
+          },
+          {
+            "id": 9699,
+            "display_count": "57",
+            "vote_count": 24972,
+            "text": "Wacky Tobacky"
+          }
+        ],
+        "created_at": "2019-09-14T06:09:38Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 132845,
+    "show_id": 12361,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-09-15T01:00:00Z",
+    "direct_link": "/us/game/2019-09-14/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "9,606",
+      "currency": "$",
+      "average_prize": "0.52"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 147170,
+        "text": "Which character shares his name with the Greek poet thought to have written the \"Iliad\"?",
+        "question_number": 1,
+        "eliminated": "-10,876",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "168,749",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295211,
+            "text": "Bugs Bunny",
+            "correct": false,
+            "count": "5,488",
+            "percent": "3.63%"
+          },
+          {
+            "id": 295212,
+            "text": "Porky Pig",
+            "correct": false,
+            "count": "5,637",
+            "percent": "3.73%"
+          },
+          {
+            "id": 295213,
+            "text": "Homer Simpson",
+            "correct": true,
+            "count": "139,964",
+            "percent": "92.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/2/1",
+        "game_link": "/us/game/2019-09-14/2",
+        "correct_answers": 139964,
+        "incorrect_answers": 11125,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147186,
+        "text": "Which of these descriptors could be applied to a âSisypheanâ task?",
+        "question_number": 2,
+        "eliminated": "12,503",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "156,530",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295235,
+            "text": "Hard and pointless",
+            "correct": true,
+            "count": "110,521",
+            "percent": "75.11%"
+          },
+          {
+            "id": 295237,
+            "text": "Weird but rewarding",
+            "correct": false,
+            "count": "13,289",
+            "percent": "9.03%"
+          },
+          {
+            "id": 295240,
+            "text": "Creative and educational",
+            "correct": false,
+            "count": "23,336",
+            "percent": "15.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/2/2",
+        "game_link": "/us/game/2019-09-14/2",
+        "correct_answers": 110521,
+        "incorrect_answers": 36625,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147202,
+        "text": "Whatâs the answer to the Riddle of the Sphinx?",
+        "question_number": 3,
+        "eliminated": "43,652",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "113,453",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295259,
+            "text": "Time",
+            "correct": false,
+            "count": "43,484",
+            "percent": "31.34%"
+          },
+          {
+            "id": 295260,
+            "text": "Cheese",
+            "correct": false,
+            "count": "1,790",
+            "percent": "1.29%"
+          },
+          {
+            "id": 295262,
+            "text": "Man",
+            "correct": true,
+            "count": "93,485",
+            "percent": "67.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/2/3",
+        "game_link": "/us/game/2019-09-14/2",
+        "correct_answers": 93485,
+        "incorrect_answers": 45274,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147218,
+        "text": "Which of these monsters has its origin in Greek mythology?",
+        "question_number": 4,
+        "eliminated": "20,625",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "95,475",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295283,
+            "text": "Harpy",
+            "correct": true,
+            "count": "92,018",
+            "percent": "82.86%"
+          },
+          {
+            "id": 295285,
+            "text": "Banshee",
+            "correct": false,
+            "count": "15,929",
+            "percent": "14.34%"
+          },
+          {
+            "id": 295288,
+            "text": "Elf",
+            "correct": false,
+            "count": "3,106",
+            "percent": "2.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/2/4",
+        "game_link": "/us/game/2019-09-14/2",
+        "correct_answers": 92018,
+        "incorrect_answers": 19035,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147234,
+        "text": "Which Greek god of myth was famous for his faithful hound sidekick?",
+        "question_number": 5,
+        "eliminated": "15,258",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "81,924",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295307,
+            "text": "Hades",
+            "correct": true,
+            "count": "80,017",
+            "percent": "86.78%"
+          },
+          {
+            "id": 295308,
+            "text": "Hermes",
+            "correct": false,
+            "count": "7,561",
+            "percent": "8.2%"
+          },
+          {
+            "id": 295315,
+            "text": "Hecate",
+            "correct": false,
+            "count": "4,634",
+            "percent": "5.03%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/2/5",
+        "game_link": "/us/game/2019-09-14/2",
+        "correct_answers": 80017,
+        "incorrect_answers": 12195,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147250,
+        "text": "The Greek titan who created humankind also did which of these?",
+        "question_number": 6,
+        "eliminated": "13,455",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "70,500",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295331,
+            "text": "Stole fire",
+            "correct": true,
+            "count": "69,157",
+            "percent": "83.82%"
+          },
+          {
+            "id": 295333,
+            "text": "Transformed into a bull",
+            "correct": false,
+            "count": "11,641",
+            "percent": "14.11%"
+          },
+          {
+            "id": 295336,
+            "text": "Hid in a wooden horse",
+            "correct": false,
+            "count": "1,706",
+            "percent": "2.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/2/6",
+        "game_link": "/us/game/2019-09-14/2",
+        "correct_answers": 69157,
+        "incorrect_answers": 13347,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147266,
+        "text": "Who made Icarus's ill-fated wings?",
+        "question_number": 7,
+        "eliminated": "3,249",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "69,275",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295355,
+            "text": "His dad",
+            "correct": true,
+            "count": "68,733",
+            "percent": "95.38%"
+          },
+          {
+            "id": 295358,
+            "text": "His son",
+            "correct": false,
+            "count": "1,269",
+            "percent": "1.76%"
+          },
+          {
+            "id": 295362,
+            "text": "His brother",
+            "correct": false,
+            "count": "2,063",
+            "percent": "2.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/2/7",
+        "game_link": "/us/game/2019-09-14/2",
+        "correct_answers": 68733,
+        "incorrect_answers": 3332,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147282,
+        "text": "Which of these actors has literally played Hercules?",
+        "question_number": 8,
+        "eliminated": "23,741",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "46,051",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295379,
+            "text": "Brad Pitt",
+            "correct": false,
+            "count": "5,582",
+            "percent": "8.09%"
+          },
+          {
+            "id": 295380,
+            "text": "Sam Worthington",
+            "correct": false,
+            "count": "18,160",
+            "percent": "26.31%"
+          },
+          {
+            "id": 295384,
+            "text": "Arnold Schwarzenegger",
+            "correct": true,
+            "count": "45,294",
+            "percent": "65.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/2/8",
+        "game_link": "/us/game/2019-09-14/2",
+        "correct_answers": 45294,
+        "incorrect_answers": 23742,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147298,
+        "text": "The zodiac sign Capricorn is thought to be a depiction of which of these figures?",
+        "question_number": 9,
+        "eliminated": "11,644",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "39,296",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295403,
+            "text": "Silenus",
+            "correct": false,
+            "count": "2,426",
+            "percent": "5.24%"
+          },
+          {
+            "id": 295404,
+            "text": "Pan",
+            "correct": true,
+            "count": "38,961",
+            "percent": "84.22%"
+          },
+          {
+            "id": 295407,
+            "text": "Dionysus",
+            "correct": false,
+            "count": "4,874",
+            "percent": "10.54%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/2/9",
+        "game_link": "/us/game/2019-09-14/2",
+        "correct_answers": 38961,
+        "incorrect_answers": 7300,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147314,
+        "text": "According to legend, the Amazons lived in what modern day country?",
+        "question_number": 10,
+        "eliminated": "10,281",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "30,886",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295427,
+            "text": "Bolivia",
+            "correct": false,
+            "count": "1,064",
+            "percent": "2.6%"
+          },
+          {
+            "id": 295429,
+            "text": "Brazil",
+            "correct": false,
+            "count": "9,126",
+            "percent": "22.33%"
+          },
+          {
+            "id": 295432,
+            "text": "Turkey",
+            "correct": true,
+            "count": "30,672",
+            "percent": "75.06%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/2/10",
+        "game_link": "/us/game/2019-09-14/2",
+        "correct_answers": 30672,
+        "incorrect_answers": 10190,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147330,
+        "text": "Of these categories of nymphs, which did NOT live in the water?",
+        "question_number": 11,
+        "eliminated": "4,537",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "28,914",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295451,
+            "text": "Naiads",
+            "correct": false,
+            "count": "524",
+            "percent": "1.59%"
+          },
+          {
+            "id": 295456,
+            "text": "Nereids",
+            "correct": false,
+            "count": "3,488",
+            "percent": "10.59%"
+          },
+          {
+            "id": 295467,
+            "text": "Dryades",
+            "correct": true,
+            "count": "28,914",
+            "percent": "87.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/2/11",
+        "game_link": "/us/game/2019-09-14/2",
+        "correct_answers": 28914,
+        "incorrect_answers": 4012,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147346,
+        "text": "Characters named Castor and Pollux appear in what massive film franchise?",
+        "question_number": 12,
+        "eliminated": "981",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "28,934",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295475,
+            "text": "The Avengers",
+            "correct": false,
+            "count": "214",
+            "percent": "0.72%"
+          },
+          {
+            "id": 295477,
+            "text": "The Fast & The Furious",
+            "correct": false,
+            "count": "682",
+            "percent": "2.29%"
+          },
+          {
+            "id": 295481,
+            "text": "The Hunger Games",
+            "correct": true,
+            "count": "28,934",
+            "percent": "97.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/2/12",
+        "game_link": "/us/game/2019-09-14/2",
+        "correct_answers": 28934,
+        "incorrect_answers": 896,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147362,
+        "text": "In most legends, what god gave Cassandra her famous curse?",
+        "question_number": 13,
+        "eliminated": "4,246",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "25,034",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295499,
+            "text": "Apollo",
+            "correct": true,
+            "count": "25,034",
+            "percent": "85.64%"
+          },
+          {
+            "id": 295500,
+            "text": "Hera",
+            "correct": false,
+            "count": "3,829",
+            "percent": "13.1%"
+          },
+          {
+            "id": 295501,
+            "text": "Zeus",
+            "correct": false,
+            "count": "369",
+            "percent": "1.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/2/13",
+        "game_link": "/us/game/2019-09-14/2",
+        "correct_answers": 25034,
+        "incorrect_answers": 4198,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147378,
+        "text": "Which of these mythological figures is immortal?",
+        "question_number": 14,
+        "eliminated": "2,534",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "24,085",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295523,
+            "text": "Ganymede",
+            "correct": true,
+            "count": "24,085",
+            "percent": "90.68%"
+          },
+          {
+            "id": 295524,
+            "text": "Io",
+            "correct": false,
+            "count": "1,728",
+            "percent": "6.51%"
+          },
+          {
+            "id": 295527,
+            "text": "Leda",
+            "correct": false,
+            "count": "747",
+            "percent": "2.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/2/14",
+        "game_link": "/us/game/2019-09-14/2",
+        "correct_answers": 24085,
+        "incorrect_answers": 2475,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147394,
+        "text": "The expression âyouâre between Scylla and Charybdisâ can be interpreted to mean which of these?",
+        "question_number": 15,
+        "eliminated": "858",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "24,267",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295547,
+            "text": "Don't look back",
+            "correct": false,
+            "count": "100",
+            "percent": "0.4%"
+          },
+          {
+            "id": 295548,
+            "text": "Choose the lesser evil",
+            "correct": true,
+            "count": "24,267",
+            "percent": "96.92%"
+          },
+          {
+            "id": 295551,
+            "text": "Youâre indecisive",
+            "correct": false,
+            "count": "672",
+            "percent": "2.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/2/15",
+        "game_link": "/us/game/2019-09-14/2",
+        "correct_answers": 24267,
+        "incorrect_answers": 772,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147410,
+        "text": "Which of these writers has NOT written a work with direct origins in âThe Odysseyâ?",
+        "question_number": 16,
+        "eliminated": "2,843",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "21,621",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295571,
+            "text": "Thomas Pynchon",
+            "correct": true,
+            "count": "21,621",
+            "percent": "88.55%"
+          },
+          {
+            "id": 295573,
+            "text": "Margaret Atwood",
+            "correct": false,
+            "count": "558",
+            "percent": "2.29%"
+          },
+          {
+            "id": 295576,
+            "text": "James Joyce",
+            "correct": false,
+            "count": "2,239",
+            "percent": "9.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/2/16",
+        "game_link": "/us/game/2019-09-14/2",
+        "correct_answers": 21621,
+        "incorrect_answers": 2797,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147426,
+        "text": "Which of these was one of the labors of Hercules?",
+        "question_number": 17,
+        "eliminated": "1,267",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "20,935",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295596,
+            "text": "Behead the Gorgon Medusa",
+            "correct": false,
+            "count": "94",
+            "percent": "0.42%"
+          },
+          {
+            "id": 295599,
+            "text": "Capture the Cretan Bull",
+            "correct": true,
+            "count": "20,937",
+            "percent": "94.48%"
+          },
+          {
+            "id": 295604,
+            "text": "Untie the Gordian Knot",
+            "correct": false,
+            "count": "1,130",
+            "percent": "5.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/2/17",
+        "game_link": "/us/game/2019-09-14/2",
+        "correct_answers": 20937,
+        "incorrect_answers": 1224,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 147442,
+        "text": "Which of these figures lives on Mt. Olympus?",
+        "question_number": 18,
+        "eliminated": "11,479",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "9,607",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 295619,
+            "text": "Hermes",
+            "correct": true,
+            "count": "9,607",
+            "percent": "45.89%"
+          },
+          {
+            "id": 295621,
+            "text": "Hades",
+            "correct": false,
+            "count": "6,673",
+            "percent": "31.87%"
+          },
+          {
+            "id": 295625,
+            "text": "Thetis",
+            "correct": false,
+            "count": "4,657",
+            "percent": "22.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-14/2/18",
+        "game_link": "/us/game/2019-09-14/2",
+        "correct_answers": 9607,
+        "incorrect_answers": 11330,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1657,
+        "game_id": 132845,
+        "question": "Best mythical monster?",
+        "results": [
+          {
+            "id": 9832,
+            "display_count": "21",
+            "vote_count": 11346,
+            "text": " Cyclopes"
+          },
+          {
+            "id": 9829,
+            "display_count": "61",
+            "vote_count": 33105,
+            "text": "Medusa"
+          },
+          {
+            "id": 9839,
+            "display_count": "18",
+            "vote_count": 9718,
+            "text": "Sphinx"
+          }
+        ],
+        "created_at": "2019-09-15T01:04:25Z"
+      },
+      {
+        "id": 1649,
+        "game_id": 132845,
+        "question": "Which of these films is based on Greek mythology?",
+        "results": [
+          {
+            "id": 9781,
+            "display_count": "27",
+            "vote_count": 12443,
+            "text": "Moulin Rouge!"
+          },
+          {
+            "id": 9790,
+            "display_count": "44",
+            "vote_count": 20465,
+            "text": "Sheâs the Man"
+          },
+          {
+            "id": 9785,
+            "display_count": "29",
+            "vote_count": 13238,
+            "text": "West Side Story"
+          }
+        ],
+        "created_at": "2019-09-15T01:03:53Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

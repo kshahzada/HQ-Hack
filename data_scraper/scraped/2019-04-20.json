@@ -1,0 +1,968 @@
+[
+  {
+    "id": 97719,
+    "show_id": 10489,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-04-21T01:00:00Z",
+    "direct_link": "/us/game/2019-04-20/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "7,175",
+      "currency": "$",
+      "average_prize": "0.70"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Smarter Day",
+        "slug": "smarter-day"
+      }
+    ],
+    "questions": [
+      {
+        "id": 101099,
+        "text": "What kind of life-form is the cartoon character Garfield?",
+        "question_number": 1,
+        "eliminated": "-16,254",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "300,665",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 226121,
+            "text": "Feline",
+            "correct": true,
+            "count": "280,190",
+            "percent": "98.52%"
+          },
+          {
+            "id": 226122,
+            "text": "Flatworm",
+            "correct": false,
+            "count": "2,620",
+            "percent": "0.92%"
+          },
+          {
+            "id": 226125,
+            "text": "Fungal spore",
+            "correct": false,
+            "count": "1,601",
+            "percent": "0.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-20/1/1",
+        "game_link": "/us/game/2019-04-20/1",
+        "correct_answers": 280190,
+        "incorrect_answers": 4221,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101117,
+        "text": "British comedian Rowan Atkinson is famous for playing what character?",
+        "question_number": 2,
+        "eliminated": "2,820",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "298,112",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 226147,
+            "text": "Lord Pudding",
+            "correct": false,
+            "count": "3,948",
+            "percent": "1.38%"
+          },
+          {
+            "id": 226150,
+            "text": "Dr. Bangers",
+            "correct": false,
+            "count": "5,662",
+            "percent": "1.97%"
+          },
+          {
+            "id": 226154,
+            "text": "Mr. Bean",
+            "correct": true,
+            "count": "277,180",
+            "percent": "96.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-20/1/2",
+        "game_link": "/us/game/2019-04-20/1",
+        "correct_answers": 277180,
+        "incorrect_answers": 9610,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101132,
+        "text": "In math, what is one way to write âx over y?â",
+        "question_number": 3,
+        "eliminated": "3,348",
+        "category": "Math",
+        "category_slug": "math",
+        "advancing": "294,870",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 226170,
+            "text": "x ^ y",
+            "correct": false,
+            "count": "14,563",
+            "percent": "5.17%"
+          },
+          {
+            "id": 226172,
+            "text": "x * y",
+            "correct": false,
+            "count": "6,040",
+            "percent": "2.14%"
+          },
+          {
+            "id": 226176,
+            "text": "x / y",
+            "correct": true,
+            "count": "261,174",
+            "percent": "92.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-20/1/3",
+        "game_link": "/us/game/2019-04-20/1",
+        "correct_answers": 261174,
+        "incorrect_answers": 20603,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101147,
+        "text": "Wikipedia is named in part for the Hawaiian word for what?",
+        "question_number": 4,
+        "eliminated": "26,266",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "269,230",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 226193,
+            "text": "Connection",
+            "correct": false,
+            "count": "12,182",
+            "percent": "4.37%"
+          },
+          {
+            "id": 226195,
+            "text": "Knowledge",
+            "correct": false,
+            "count": "194,838",
+            "percent": "69.83%"
+          },
+          {
+            "id": 226197,
+            "text": "Quick",
+            "correct": true,
+            "count": "71,985",
+            "percent": "25.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-20/1/4",
+        "game_link": "/us/game/2019-04-20/1",
+        "correct_answers": 71985,
+        "incorrect_answers": 207020,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101163,
+        "text": "What does âbenightedâ mean?",
+        "question_number": 5,
+        "eliminated": "19,341",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "253,587",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 226218,
+            "text": "Ignorant",
+            "correct": true,
+            "count": "70,278",
+            "percent": "27.7%"
+          },
+          {
+            "id": 226220,
+            "text": "Honored",
+            "correct": false,
+            "count": "128,353",
+            "percent": "50.59%"
+          },
+          {
+            "id": 226222,
+            "text": "Dignified",
+            "correct": false,
+            "count": "55,086",
+            "percent": "21.71%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-20/1/5",
+        "game_link": "/us/game/2019-04-20/1",
+        "correct_answers": 70278,
+        "incorrect_answers": 183439,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101181,
+        "text": "Which fact about Earth makes it unique in our solar system?",
+        "question_number": 6,
+        "eliminated": "20,260",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "234,436",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 226242,
+            "text": "Gaseous atmosphere",
+            "correct": false,
+            "count": "41,442",
+            "percent": "17.63%"
+          },
+          {
+            "id": 226246,
+            "text": "Only one moon",
+            "correct": true,
+            "count": "163,749",
+            "percent": "69.67%"
+          },
+          {
+            "id": 226251,
+            "text": "Polar ice caps",
+            "correct": false,
+            "count": "29,851",
+            "percent": "12.7%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-20/1/6",
+        "game_link": "/us/game/2019-04-20/1",
+        "correct_answers": 163749,
+        "incorrect_answers": 71293,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101195,
+        "text": "Which ocean journey was made much shorter by the Panama Canal?",
+        "question_number": 7,
+        "eliminated": "132,572",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "103,025",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 226265,
+            "text": "Belize / El Salvador",
+            "correct": true,
+            "count": "94,049",
+            "percent": "44.8%"
+          },
+          {
+            "id": 226266,
+            "text": "Florida / Honduras",
+            "correct": false,
+            "count": "51,489",
+            "percent": "24.53%"
+          },
+          {
+            "id": 226267,
+            "text": "Peru / Uruguay",
+            "correct": false,
+            "count": "64,383",
+            "percent": "30.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-20/1/7",
+        "game_link": "/us/game/2019-04-20/1",
+        "correct_answers": 94049,
+        "incorrect_answers": 115872,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101211,
+        "text": "What 19th-century industry was revolutionized by Englishman Henry Bessemer?",
+        "question_number": 8,
+        "eliminated": "27,952",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "84,992",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 226289,
+            "text": "Lumber",
+            "correct": false,
+            "count": "7,922",
+            "percent": "7.23%"
+          },
+          {
+            "id": 226290,
+            "text": "Coal",
+            "correct": false,
+            "count": "16,734",
+            "percent": "15.26%"
+          },
+          {
+            "id": 226291,
+            "text": "Steel",
+            "correct": true,
+            "count": "84,980",
+            "percent": "77.51%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-20/1/8",
+        "game_link": "/us/game/2019-04-20/1",
+        "correct_answers": 84980,
+        "incorrect_answers": 24656,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101228,
+        "text": "When put in all-caps, which of these synonyms for failures is a measurement of computing performance?",
+        "question_number": 9,
+        "eliminated": "35,430",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "51,312",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 226314,
+            "text": "Duds",
+            "correct": false,
+            "count": "22,529",
+            "percent": "27.23%"
+          },
+          {
+            "id": 226316,
+            "text": "Flops",
+            "correct": true,
+            "count": "51,312",
+            "percent": "62.01%"
+          },
+          {
+            "id": 226319,
+            "text": "Bombs",
+            "correct": false,
+            "count": "8,908",
+            "percent": "10.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-20/1/9",
+        "game_link": "/us/game/2019-04-20/1",
+        "correct_answers": 51312,
+        "incorrect_answers": 31437,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101243,
+        "text": "Which of these state capitals is NOT located on the Mississippi River?",
+        "question_number": 10,
+        "eliminated": "27,514",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "27,151",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 226337,
+            "text": "Baton Rouge",
+            "correct": false,
+            "count": "5,286",
+            "percent": "10.39%"
+          },
+          {
+            "id": 226338,
+            "text": "Jackson",
+            "correct": true,
+            "count": "27,151",
+            "percent": "53.36%"
+          },
+          {
+            "id": 226339,
+            "text": "St. Paul",
+            "correct": false,
+            "count": "18,443",
+            "percent": "36.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-20/1/10",
+        "game_link": "/us/game/2019-04-20/1",
+        "correct_answers": 27151,
+        "incorrect_answers": 23729,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101259,
+        "text": "What 1982 âPac-Manâ follow-up had a video screen mounted above a small pinball table?",
+        "question_number": 11,
+        "eliminated": "6,729",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "26,749",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 226361,
+            "text": "Pac-Pin",
+            "correct": false,
+            "count": "1,330",
+            "percent": "4.08%"
+          },
+          {
+            "id": 226363,
+            "text": "Pac-Manâs Pinball Land",
+            "correct": false,
+            "count": "4,521",
+            "percent": "13.87%"
+          },
+          {
+            "id": 226366,
+            "text": "Baby Pac-Man",
+            "correct": true,
+            "count": "26,749",
+            "percent": "82.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-20/1/11",
+        "game_link": "/us/game/2019-04-20/1",
+        "correct_answers": 26749,
+        "incorrect_answers": 5851,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101275,
+        "text": "In physics and electrical engineering, the Hertz unit is used to measure what?",
+        "question_number": 12,
+        "eliminated": "1,735",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "25,996",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 226386,
+            "text": "Frequency",
+            "correct": true,
+            "count": "25,996",
+            "percent": "94.25%"
+          },
+          {
+            "id": 226391,
+            "text": "Capacitance",
+            "correct": false,
+            "count": "843",
+            "percent": "3.06%"
+          },
+          {
+            "id": 226399,
+            "text": "Charge",
+            "correct": false,
+            "count": "742",
+            "percent": "2.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-20/1/12",
+        "game_link": "/us/game/2019-04-20/1",
+        "correct_answers": 25996,
+        "incorrect_answers": 1585,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101291,
+        "text": "Maya Angelou got her first book deal thanks to a dinner party she attended with what fellow writer?",
+        "question_number": 13,
+        "eliminated": "7,414",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "18,899",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 226409,
+            "text": "Langston Hughes",
+            "correct": false,
+            "count": "3,790",
+            "percent": "14.79%"
+          },
+          {
+            "id": 226413,
+            "text": "James Baldwin",
+            "correct": true,
+            "count": "18,899",
+            "percent": "73.73%"
+          },
+          {
+            "id": 226420,
+            "text": "Toni Morrison",
+            "correct": false,
+            "count": "2,945",
+            "percent": "11.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-20/1/13",
+        "game_link": "/us/game/2019-04-20/1",
+        "correct_answers": 18899,
+        "incorrect_answers": 6735,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101309,
+        "text": "What is the capital of the nation that only borders both the largest country and the most populous country?",
+        "question_number": 14,
+        "eliminated": "6,828",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "13,862",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 226436,
+            "text": "Astana",
+            "correct": false,
+            "count": "593",
+            "percent": "2.92%"
+          },
+          {
+            "id": 226441,
+            "text": "Ulaanbaatar",
+            "correct": true,
+            "count": "13,862",
+            "percent": "68.36%"
+          },
+          {
+            "id": 226446,
+            "text": "Bishkek",
+            "correct": false,
+            "count": "5,824",
+            "percent": "28.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-20/1/14",
+        "game_link": "/us/game/2019-04-20/1",
+        "correct_answers": 13862,
+        "incorrect_answers": 6417,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101324,
+        "text": "Who made a cameo in a âWeird Alâ Yankovic music video parodying their own song?",
+        "question_number": 15,
+        "eliminated": "8,401",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "7,175",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 226458,
+            "text": "Mark Knopfler",
+            "correct": false,
+            "count": "4,822",
+            "percent": "31.5%"
+          },
+          {
+            "id": 226463,
+            "text": "Madonna",
+            "correct": false,
+            "count": "3,310",
+            "percent": "21.62%"
+          },
+          {
+            "id": 226471,
+            "text": "Greg Kihn",
+            "correct": true,
+            "count": "7,175",
+            "percent": "46.87%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-20/1/15",
+        "game_link": "/us/game/2019-04-20/1",
+        "correct_answers": 7175,
+        "incorrect_answers": 8132,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 97868,
+    "show_id": 10499,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-04-21T01:30:00Z",
+    "direct_link": "/us/game/2019-04-20/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "1,073",
+      "currency": "$",
+      "average_prize": "0.93"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Smarter Day",
+        "slug": "smarter-day"
+      }
+    ],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-04-20/2/1",
+        "question_number": 1,
+        "text": "Singled Out",
+        "answer": [
+          "NO",
+          "CHANGE"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "H"
+        ],
+        "game_link": "/us/game/2019-04-20/2",
+        "eliminated": 15962,
+        "advancing": 112480,
+        "correct_answers": 112480,
+        "incorrect_answers": 15962
+      },
+      {
+        "direct_link": "/us/game/2019-04-20/2/2",
+        "question_number": 2,
+        "text": "Hollywood Squares",
+        "answer": [
+          "TIC",
+          "TAC",
+          "DOUGH"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "G"
+        ],
+        "game_link": "/us/game/2019-04-20/2",
+        "eliminated": 34209,
+        "advancing": 78963,
+        "correct_answers": 78963,
+        "incorrect_answers": 34209
+      },
+      {
+        "direct_link": "/us/game/2019-04-20/2/3",
+        "question_number": 3,
+        "text": "Family Feud",
+        "answer": [
+          "SIBLING",
+          "RIVALRY"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "R"
+        ],
+        "game_link": "/us/game/2019-04-20/2",
+        "eliminated": 15240,
+        "advancing": 64949,
+        "correct_answers": 64949,
+        "incorrect_answers": 15240
+      },
+      {
+        "direct_link": "/us/game/2019-04-20/2/4",
+        "question_number": 4,
+        "text": "Remote Control",
+        "answer": [
+          "MTV",
+          "GUIDE"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "I"
+        ],
+        "game_link": "/us/game/2019-04-20/2",
+        "eliminated": 46156,
+        "advancing": 19500,
+        "correct_answers": 19500,
+        "incorrect_answers": 46156
+      },
+      {
+        "direct_link": "/us/game/2019-04-20/2/5",
+        "question_number": 5,
+        "text": "The Price is Right",
+        "answer": [
+          "WHEEL",
+          "OF",
+          "FORTUNE"
+        ],
+        "initial_letters": [
+          " ",
+          "U"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-20/2",
+        "eliminated": 2155,
+        "advancing": 19451,
+        "correct_answers": 19451,
+        "incorrect_answers": 2155
+      },
+      {
+        "direct_link": "/us/game/2019-04-20/2/6",
+        "question_number": 6,
+        "text": "Guts",
+        "answer": [
+          "AGGRO",
+          "CULTURE"
+        ],
+        "initial_letters": [
+          " ",
+          "U"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-20/2",
+        "eliminated": 11986,
+        "advancing": 7580,
+        "correct_answers": 7580,
+        "incorrect_answers": 11986
+      },
+      {
+        "direct_link": "/us/game/2019-04-20/2/7",
+        "question_number": 7,
+        "text": "Supermarket Sweep",
+        "answer": [
+          "AISLE",
+          "CLEANUP"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "N"
+        ],
+        "game_link": "/us/game/2019-04-20/2",
+        "eliminated": 3360,
+        "advancing": 5184,
+        "correct_answers": 5184,
+        "incorrect_answers": 3360
+      },
+      {
+        "direct_link": "/us/game/2019-04-20/2/8",
+        "question_number": 8,
+        "text": "Double Dare",
+        "answer": [
+          "ON",
+          "YOUR",
+          "MARC,",
+          "GET",
+          "SET,",
+          "GO"
+        ],
+        "initial_letters": [
+          " ",
+          ",",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-04-20/2",
+        "eliminated": 2997,
+        "advancing": 2653,
+        "correct_answers": 2653,
+        "incorrect_answers": 2997
+      },
+      {
+        "direct_link": "/us/game/2019-04-20/2/9",
+        "question_number": 9,
+        "text": "Where in the World is Carmen Sandiego?",
+        "answer": [
+          "CHIEFâS",
+          "CONCERN"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "S"
+        ],
+        "game_link": "/us/game/2019-04-20/2",
+        "eliminated": 1390,
+        "advancing": 1931,
+        "correct_answers": 1931,
+        "incorrect_answers": 1390
+      },
+      {
+        "direct_link": "/us/game/2019-04-20/2/10",
+        "question_number": 10,
+        "text": "Rock & Roll Jeopardy",
+        "answer": [
+          "WHAT",
+          "IS",
+          "THIS",
+          "SONG?"
+        ],
+        "initial_letters": [
+          " ",
+          "?",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "W"
+        ],
+        "game_link": "/us/game/2019-04-20/2",
+        "eliminated": 54,
+        "advancing": 2118,
+        "correct_answers": 2118,
+        "incorrect_answers": 54
+      },
+      {
+        "direct_link": "/us/game/2019-04-20/2/11",
+        "question_number": 11,
+        "text": "American Gladiators",
+        "answer": [
+          "JOUST",
+          "FRIENDS"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "S",
+          "U"
+        ],
+        "game_link": "/us/game/2019-04-20/2",
+        "eliminated": 938,
+        "advancing": 1144,
+        "correct_answers": 1144,
+        "incorrect_answers": 938
+      },
+      {
+        "direct_link": "/us/game/2019-04-20/2/12",
+        "question_number": 12,
+        "text": "Who Wants to Be Millionaire?",
+        "answer": [
+          "FINAL",
+          "ANSWER",
+          "EXAM"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "M"
+        ],
+        "game_link": "/us/game/2019-04-20/2",
+        "eliminated": 183,
+        "advancing": 1073,
+        "correct_answers": 1073,
+        "incorrect_answers": 183
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

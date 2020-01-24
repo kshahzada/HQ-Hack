@@ -1,0 +1,1327 @@
+[
+  {
+    "id": 49340,
+    "show_id": 9437,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "0",
+    "currency": "$",
+    "start_time": "2019-02-05T20:00:00Z",
+    "direct_link": "/us/game/2019-02-05/1",
+    "time": " 3:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "864",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 45599,
+        "text": "Which of these is a common form of punctuation?",
+        "question_number": 1,
+        "eliminated": "-2,527",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "199,768",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 136692,
+            "text": "Marky Mark",
+            "correct": false,
+            "count": "1,679",
+            "percent": "0.88%"
+          },
+          {
+            "id": 136693,
+            "text": "Question mark",
+            "correct": true,
+            "count": "189,348",
+            "percent": "98.87%"
+          },
+          {
+            "id": 136694,
+            "text": "Deutsche mark",
+            "correct": false,
+            "count": "488",
+            "percent": "0.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/1/1",
+        "game_link": "/us/game/2019-02-05/1",
+        "correct_answers": 189348,
+        "incorrect_answers": 2167,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45607,
+        "text": "According to the Chinese zodiac, todayâs Lunar New Year kicks off the Year of the what?",
+        "question_number": 2,
+        "eliminated": "4,591",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "195,289",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 136716,
+            "text": "Instagram Receipt",
+            "correct": false,
+            "count": "1,107",
+            "percent": "0.59%"
+          },
+          {
+            "id": 136719,
+            "text": "LEGO Aquaman",
+            "correct": false,
+            "count": "2,508",
+            "percent": "1.33%"
+          },
+          {
+            "id": 136721,
+            "text": "Pig",
+            "correct": true,
+            "count": "184,320",
+            "percent": "98.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/1/2",
+        "game_link": "/us/game/2019-02-05/1",
+        "correct_answers": 184320,
+        "incorrect_answers": 3615,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45615,
+        "text": "Which US state is the smallest by area?",
+        "question_number": 3,
+        "eliminated": "5,441",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "189,928",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 136740,
+            "text": "Rhode Island",
+            "correct": true,
+            "count": "179,061",
+            "percent": "95.92%"
+          },
+          {
+            "id": 136742,
+            "text": "Arkansas",
+            "correct": false,
+            "count": "3,797",
+            "percent": "2.03%"
+          },
+          {
+            "id": 136744,
+            "text": "Virginia",
+            "correct": false,
+            "count": "3,819",
+            "percent": "2.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/1/3",
+        "game_link": "/us/game/2019-02-05/1",
+        "correct_answers": 179061,
+        "incorrect_answers": 7616,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45625,
+        "text": "Which type of alcohol is traditionally found in sangria?",
+        "question_number": 4,
+        "eliminated": "10,677",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "179,475",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 136767,
+            "text": "Rum",
+            "correct": false,
+            "count": "24,162",
+            "percent": "13.27%"
+          },
+          {
+            "id": 136770,
+            "text": "Cider",
+            "correct": false,
+            "count": "2,873",
+            "percent": "1.58%"
+          },
+          {
+            "id": 136774,
+            "text": "Wine",
+            "correct": true,
+            "count": "155,097",
+            "percent": "85.16%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/1/4",
+        "game_link": "/us/game/2019-02-05/1",
+        "correct_answers": 155097,
+        "incorrect_answers": 27035,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45631,
+        "text": "What color is the bottom stripe on the US flag?",
+        "question_number": 5,
+        "eliminated": "39,050",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "140,952",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 136788,
+            "text": "Red",
+            "correct": true,
+            "count": "100,046",
+            "percent": "58.66%"
+          },
+          {
+            "id": 136790,
+            "text": "White",
+            "correct": false,
+            "count": "50,086",
+            "percent": "29.36%"
+          },
+          {
+            "id": 136793,
+            "text": "Blue",
+            "correct": false,
+            "count": "20,434",
+            "percent": "11.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/1/5",
+        "game_link": "/us/game/2019-02-05/1",
+        "correct_answers": 100046,
+        "incorrect_answers": 70520,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45639,
+        "text": "The Inca Empire was primarily located in what present-day place?",
+        "question_number": 6,
+        "eliminated": "53,397",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "89,982",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 136812,
+            "text": "Mexico",
+            "correct": false,
+            "count": "40,190",
+            "percent": "29.18%"
+          },
+          {
+            "id": 136814,
+            "text": "Nicaragua",
+            "correct": false,
+            "count": "7,748",
+            "percent": "5.63%"
+          },
+          {
+            "id": 136816,
+            "text": "Peru",
+            "correct": true,
+            "count": "89,771",
+            "percent": "65.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/1/6",
+        "game_link": "/us/game/2019-02-05/1",
+        "correct_answers": 89771,
+        "incorrect_answers": 47938,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45650,
+        "text": "Who famously painted a smoking pipe with the French-language caption âThis is not a pipeâ?",
+        "question_number": 7,
+        "eliminated": "57,865",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "35,875",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 136845,
+            "text": "Rene Magritte",
+            "correct": true,
+            "count": "35,875",
+            "percent": "40.68%"
+          },
+          {
+            "id": 136846,
+            "text": "Max Ernst",
+            "correct": false,
+            "count": "19,736",
+            "percent": "22.38%"
+          },
+          {
+            "id": 136848,
+            "text": "Marcel Duchamp",
+            "correct": false,
+            "count": "32,572",
+            "percent": "36.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/1/7",
+        "game_link": "/us/game/2019-02-05/1",
+        "correct_answers": 35875,
+        "incorrect_answers": 52308,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45658,
+        "text": "Which jazz legend was known for playing a trumpet with its bell bent upward?",
+        "question_number": 8,
+        "eliminated": "19,758",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "19,221",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 136870,
+            "text": "Miles Davis",
+            "correct": false,
+            "count": "5,227",
+            "percent": "13.77%"
+          },
+          {
+            "id": 136872,
+            "text": "Dizzy Gillespie",
+            "correct": true,
+            "count": "19,221",
+            "percent": "50.62%"
+          },
+          {
+            "id": 136876,
+            "text": "Louis Armstrong",
+            "correct": false,
+            "count": "13,525",
+            "percent": "35.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/1/8",
+        "game_link": "/us/game/2019-02-05/1",
+        "correct_answers": 19221,
+        "incorrect_answers": 18752,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45663,
+        "text": "What key can you press to pause a YouTube video?",
+        "question_number": 9,
+        "eliminated": "10,372",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "10,333",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 136884,
+            "text": "K",
+            "correct": true,
+            "count": "10,333",
+            "percent": "50.68%"
+          },
+          {
+            "id": 136885,
+            "text": "V",
+            "correct": false,
+            "count": "5,198",
+            "percent": "25.49%"
+          },
+          {
+            "id": 136886,
+            "text": "H",
+            "correct": false,
+            "count": "4,858",
+            "percent": "23.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/1/9",
+        "game_link": "/us/game/2019-02-05/1",
+        "correct_answers": 10333,
+        "incorrect_answers": 10056,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45672,
+        "text": "A NASA probe found last year that the Solar System is losing which feature faster than expected?",
+        "question_number": 10,
+        "eliminated": "4,118",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "7,439",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 136911,
+            "text": "Jupiterâs red spot",
+            "correct": false,
+            "count": "1,569",
+            "percent": "14.35%"
+          },
+          {
+            "id": 136915,
+            "text": "Marsâ polar caps",
+            "correct": false,
+            "count": "1,922",
+            "percent": "17.58%"
+          },
+          {
+            "id": 136920,
+            "text": "Saturnâs rings",
+            "correct": true,
+            "count": "7,439",
+            "percent": "68.06%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/1/10",
+        "game_link": "/us/game/2019-02-05/1",
+        "correct_answers": 7439,
+        "incorrect_answers": 3491,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45679,
+        "text": "Which of these all-time sports legends competed in a prime number jersey?",
+        "question_number": 11,
+        "eliminated": "5,527",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,599",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 136932,
+            "text": "Cal Ripken Jr.",
+            "correct": false,
+            "count": "1,175",
+            "percent": "14.89%"
+          },
+          {
+            "id": 136934,
+            "text": "Larry Bird",
+            "correct": false,
+            "count": "4,118",
+            "percent": "52.18%"
+          },
+          {
+            "id": 136938,
+            "text": "Dan Marino",
+            "correct": true,
+            "count": "2,599",
+            "percent": "32.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/1/11",
+        "game_link": "/us/game/2019-02-05/1",
+        "correct_answers": 2599,
+        "incorrect_answers": 5293,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45687,
+        "text": "Which video game does NOT have an official Monopoly edition?",
+        "question_number": 12,
+        "eliminated": "3,084",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "864",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 136957,
+            "text": "Street Fighter",
+            "correct": false,
+            "count": "1,547",
+            "percent": "39.92%"
+          },
+          {
+            "id": 136961,
+            "text": "Fallout",
+            "correct": false,
+            "count": "1,464",
+            "percent": "37.78%"
+          },
+          {
+            "id": 136966,
+            "text": "Minecraft",
+            "correct": true,
+            "count": "864",
+            "percent": "22.3%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/1/12",
+        "game_link": "/us/game/2019-02-05/1",
+        "correct_answers": 864,
+        "incorrect_answers": 3011,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 49459,
+    "show_id": 9544,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "0",
+    "currency": "$",
+    "start_time": "2019-02-06T02:00:00Z",
+    "direct_link": "/us/game/2019-02-05/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "4,884",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 45695,
+        "text": "Which of these was a hot â80s toy?",
+        "question_number": 1,
+        "eliminated": "-4,628",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "368,226",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 136980,
+            "text": "Wooden milk wagon",
+            "correct": false,
+            "count": "3,702",
+            "percent": "1.02%"
+          },
+          {
+            "id": 136982,
+            "text": "Rubikâs Cube",
+            "correct": true,
+            "count": "356,275",
+            "percent": "98.35%"
+          },
+          {
+            "id": 136984,
+            "text": "iPod",
+            "correct": false,
+            "count": "2,265",
+            "percent": "0.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/2/1",
+        "game_link": "/us/game/2019-02-05/2",
+        "correct_answers": 356275,
+        "incorrect_answers": 5967,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45705,
+        "text": "In 1987, Ronald Reagan famously said, âMr. Gorbachev, tear down thisâ what?",
+        "question_number": 2,
+        "eliminated": "4,561",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "363,777",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137004,
+            "text": "Wall",
+            "correct": true,
+            "count": "350,635",
+            "percent": "98.72%"
+          },
+          {
+            "id": 137008,
+            "text": "Ice luge",
+            "correct": false,
+            "count": "1,763",
+            "percent": "0.5%"
+          },
+          {
+            "id": 137013,
+            "text": "Lamborghini poster",
+            "correct": false,
+            "count": "2,770",
+            "percent": "0.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/2/2",
+        "game_link": "/us/game/2019-02-05/2",
+        "correct_answers": 350635,
+        "incorrect_answers": 4533,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45712,
+        "text": "Which of these was the name of a popular â80s jacket brand?",
+        "question_number": 3,
+        "eliminated": "8,559",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "355,283",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137031,
+            "text": "Please RSVP",
+            "correct": false,
+            "count": "11,678",
+            "percent": "3.33%"
+          },
+          {
+            "id": 137033,
+            "text": "Hello Guests",
+            "correct": false,
+            "count": "14,471",
+            "percent": "4.12%"
+          },
+          {
+            "id": 137037,
+            "text": "Members Only",
+            "correct": true,
+            "count": "324,883",
+            "percent": "92.55%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/2/3",
+        "game_link": "/us/game/2019-02-05/2",
+        "correct_answers": 324883,
+        "incorrect_answers": 26149,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45720,
+        "text": "Which dungeon-crawling arcade game was playable by four people simultaneously?",
+        "question_number": 4,
+        "eliminated": "22,815",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "332,805",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137054,
+            "text": "Space Invaders",
+            "correct": false,
+            "count": "55,320",
+            "percent": "16.24%"
+          },
+          {
+            "id": 137056,
+            "text": "Frogger",
+            "correct": false,
+            "count": "21,770",
+            "percent": "6.39%"
+          },
+          {
+            "id": 137057,
+            "text": "Gauntlet",
+            "correct": true,
+            "count": "263,503",
+            "percent": "77.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/2/4",
+        "game_link": "/us/game/2019-02-05/2",
+        "correct_answers": 263503,
+        "incorrect_answers": 77090,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45730,
+        "text": "Who directed the highest-grossing â80s movie that was NOT part of a franchise?",
+        "question_number": 5,
+        "eliminated": "78,344",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "255,814",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137085,
+            "text": "Tim Burton",
+            "correct": false,
+            "count": "83,410",
+            "percent": "27.0%"
+          },
+          {
+            "id": 137086,
+            "text": "John Landis",
+            "correct": false,
+            "count": "83,771",
+            "percent": "27.11%"
+          },
+          {
+            "id": 137087,
+            "text": "Steven Spielberg",
+            "correct": true,
+            "count": "141,783",
+            "percent": "45.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/2/5",
+        "game_link": "/us/game/2019-02-05/2",
+        "correct_answers": 141783,
+        "incorrect_answers": 167181,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45735,
+        "text": "What memorably happened during the womenâs 3000-meter race in the 1984 Olympics?",
+        "question_number": 6,
+        "eliminated": "139,262",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "122,561",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137100,
+            "text": "Everyone ran 3400m",
+            "correct": false,
+            "count": "18,808",
+            "percent": "8.11%"
+          },
+          {
+            "id": 137101,
+            "text": "Cat on the track",
+            "correct": false,
+            "count": "92,877",
+            "percent": "40.04%"
+          },
+          {
+            "id": 137102,
+            "text": "Runner taken down",
+            "correct": true,
+            "count": "120,264",
+            "percent": "51.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/2/6",
+        "game_link": "/us/game/2019-02-05/2",
+        "correct_answers": 120264,
+        "incorrect_answers": 111685,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45743,
+        "text": "What â80s prime time TV show had an eight-month cliffhanger thanks to a writers strike?",
+        "question_number": 7,
+        "eliminated": "37,318",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "99,731",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137124,
+            "text": "Miami Vice",
+            "correct": false,
+            "count": "18,156",
+            "percent": "13.49%"
+          },
+          {
+            "id": 137126,
+            "text": "MacGyver",
+            "correct": false,
+            "count": "16,677",
+            "percent": "12.39%"
+          },
+          {
+            "id": 137129,
+            "text": "Dallas",
+            "correct": true,
+            "count": "99,731",
+            "percent": "74.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/2/7",
+        "game_link": "/us/game/2019-02-05/2",
+        "correct_answers": 99731,
+        "incorrect_answers": 34833,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45751,
+        "text": "Which of these Tom Cruise movies did NOT give a sales boost to Ray-Ban sunglasses?",
+        "question_number": 8,
+        "eliminated": "29,450",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "73,595",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137148,
+            "text": "Risky Business",
+            "correct": false,
+            "count": "13,298",
+            "percent": "13.1%"
+          },
+          {
+            "id": 137150,
+            "text": "Top Gun",
+            "correct": false,
+            "count": "14,602",
+            "percent": "14.39%"
+          },
+          {
+            "id": 137152,
+            "text": "Cocktail",
+            "correct": true,
+            "count": "73,595",
+            "percent": "72.51%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/2/8",
+        "game_link": "/us/game/2019-02-05/2",
+        "correct_answers": 73595,
+        "incorrect_answers": 27900,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45759,
+        "text": "What all-girl group had the No. 4 Billboard hit âI Heard a Rumourâ?",
+        "question_number": 9,
+        "eliminated": "41,718",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "36,952",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137172,
+            "text": "Bananarama",
+            "correct": true,
+            "count": "36,952",
+            "percent": "47.5%"
+          },
+          {
+            "id": 137175,
+            "text": "The Go-Gos",
+            "correct": false,
+            "count": "18,188",
+            "percent": "23.38%"
+          },
+          {
+            "id": 137181,
+            "text": "The Bangles",
+            "correct": false,
+            "count": "22,657",
+            "percent": "29.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/2/9",
+        "game_link": "/us/game/2019-02-05/2",
+        "correct_answers": 36952,
+        "incorrect_answers": 40845,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45767,
+        "text": "In the iconic âTop Thatâ scene in âTeen Witch,â which of these accessories is a boy NOT wearing?",
+        "question_number": 10,
+        "eliminated": "31,809",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "13,890",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137200,
+            "text": "Suspenders",
+            "correct": false,
+            "count": "10,227",
+            "percent": "23.99%"
+          },
+          {
+            "id": 137209,
+            "text": "Fedora",
+            "correct": true,
+            "count": "13,890",
+            "percent": "32.59%"
+          },
+          {
+            "id": 137211,
+            "text": "Vest",
+            "correct": false,
+            "count": "18,506",
+            "percent": "43.42%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/2/10",
+        "game_link": "/us/game/2019-02-05/2",
+        "correct_answers": 13890,
+        "incorrect_answers": 28733,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45776,
+        "text": "What not-as-successful toy line came from the inventor of Cabbage Patch Kids?",
+        "question_number": 11,
+        "eliminated": "13,326",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "8,066",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137222,
+            "text": "The Hugga Bunch",
+            "correct": false,
+            "count": "5,245",
+            "percent": "24.89%"
+          },
+          {
+            "id": 137227,
+            "text": "My Pet Monster",
+            "correct": false,
+            "count": "7,761",
+            "percent": "36.83%"
+          },
+          {
+            "id": 137231,
+            "text": "Furskins",
+            "correct": true,
+            "count": "8,066",
+            "percent": "38.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/2/11",
+        "game_link": "/us/game/2019-02-05/2",
+        "correct_answers": 8066,
+        "incorrect_answers": 13006,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45784,
+        "text": "Whose music video still holds the record for most VMAs awarded to a single video?",
+        "question_number": 12,
+        "eliminated": "5,866",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "4,884",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137245,
+            "text": "A-ha",
+            "correct": false,
+            "count": "4,181",
+            "percent": "39.17%"
+          },
+          {
+            "id": 137248,
+            "text": "Herbie Hancock",
+            "correct": false,
+            "count": "1,609",
+            "percent": "15.07%"
+          },
+          {
+            "id": 137257,
+            "text": "Peter Gabriel",
+            "correct": true,
+            "count": "4,884",
+            "percent": "45.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-05/2/12",
+        "game_link": "/us/game/2019-02-05/2",
+        "correct_answers": 4884,
+        "incorrect_answers": 5790,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 49583,
+    "show_id": 9573,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-02-06T02:20:00Z",
+    "direct_link": "/us/game/2019-02-05/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "43.40"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "46.79"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "49.62"
+        },
+        {
+          "number": "997",
+          "amount": "0.78",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.775,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:20 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-02-05/3/1",
+        "question_number": 1,
+        "text": "Where's the Princess?",
+        "answer": [
+          "CASTLE"
+        ],
+        "initial_letters": [
+          "C"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "E"
+        ],
+        "game_link": "/us/game/2019-02-05/3",
+        "eliminated": 12667,
+        "advancing": 164692,
+        "correct_answers": 164692,
+        "incorrect_answers": 12667
+      },
+      {
+        "direct_link": "/us/game/2019-02-05/3/2",
+        "question_number": 2,
+        "text": "Fruit",
+        "answer": [
+          "APRICOT"
+        ],
+        "initial_letters": [
+          "A"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "O"
+        ],
+        "game_link": "/us/game/2019-02-05/3",
+        "eliminated": 16327,
+        "advancing": 148913,
+        "correct_answers": 148913,
+        "incorrect_answers": 16327
+      },
+      {
+        "direct_link": "/us/game/2019-02-05/3/3",
+        "question_number": 3,
+        "text": "Wireless Tech",
+        "answer": [
+          "BLUETOOTH"
+        ],
+        "initial_letters": [
+          "B"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "O"
+        ],
+        "game_link": "/us/game/2019-02-05/3",
+        "eliminated": 5993,
+        "advancing": 143203,
+        "correct_answers": 143203,
+        "incorrect_answers": 5993
+      },
+      {
+        "direct_link": "/us/game/2019-02-05/3/4",
+        "question_number": 4,
+        "text": "In the Theater",
+        "answer": [
+          "OPERA",
+          "SINGER"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-02-05/3",
+        "eliminated": 63959,
+        "advancing": 79368,
+        "correct_answers": 79368,
+        "incorrect_answers": 63959
+      },
+      {
+        "direct_link": "/us/game/2019-02-05/3/5",
+        "question_number": 5,
+        "text": "What's on the Mug?",
+        "answer": [
+          "WORLDâS",
+          "BEST",
+          "DAD"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "D"
+        ],
+        "game_link": "/us/game/2019-02-05/3",
+        "eliminated": 8261,
+        "advancing": 73419,
+        "correct_answers": 73419,
+        "incorrect_answers": 8261
+      },
+      {
+        "direct_link": "/us/game/2019-02-05/3/6",
+        "question_number": 6,
+        "text": "Household Annoyance",
+        "answer": [
+          "CLUTTERED",
+          "DRAWERS"
+        ],
+        "initial_letters": [
+          " ",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "R",
+          "U"
+        ],
+        "game_link": "/us/game/2019-02-05/3",
+        "eliminated": 40442,
+        "advancing": 33280,
+        "correct_answers": 33280,
+        "incorrect_answers": 40442
+      },
+      {
+        "direct_link": "/us/game/2019-02-05/3/7",
+        "question_number": 7,
+        "text": "Olympic Competition",
+        "answer": [
+          "RHYTHMIC",
+          "GYMNASTICS"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "S",
+          "T"
+        ],
+        "game_link": "/us/game/2019-02-05/3",
+        "eliminated": 8985,
+        "advancing": 26591,
+        "correct_answers": 26591,
+        "incorrect_answers": 8985
+      },
+      {
+        "direct_link": "/us/game/2019-02-05/3/8",
+        "question_number": 8,
+        "text": "Weekly Social Media Post",
+        "answer": [
+          "WOMAN",
+          "CRUSH",
+          "WEDNESDAY"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-02-05/3",
+        "eliminated": 10915,
+        "advancing": 16437,
+        "correct_answers": 16437,
+        "incorrect_answers": 10915
+      },
+      {
+        "direct_link": "/us/game/2019-02-05/3/9",
+        "question_number": 9,
+        "text": "Relaxing Spot",
+        "answer": [
+          "BACKYARD",
+          "HAMMOCK"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "D"
+        ],
+        "game_link": "/us/game/2019-02-05/3",
+        "eliminated": 7013,
+        "advancing": 10570,
+        "correct_answers": 10570,
+        "incorrect_answers": 7013
+      },
+      {
+        "direct_link": "/us/game/2019-02-05/3/10",
+        "question_number": 10,
+        "text": "Classic Rivalry",
+        "answer": [
+          "BUGS",
+          "BUNNY",
+          "VS.",
+          "ELMER",
+          "FUDD"
+        ],
+        "initial_letters": [
+          " ",
+          ".",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "U"
+        ],
+        "game_link": "/us/game/2019-02-05/3",
+        "eliminated": 5888,
+        "advancing": 5827,
+        "correct_answers": 5827,
+        "incorrect_answers": 5888
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

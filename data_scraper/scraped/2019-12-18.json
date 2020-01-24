@@ -1,0 +1,1608 @@
+[
+  {
+    "id": 142308,
+    "show_id": 13236,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-12-19T01:00:00Z",
+    "direct_link": "/us/game/2019-12-18/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "634",
+      "currency": "$",
+      "average_prize": "1.58"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 160164,
+        "text": "What city does Rocky call home?",
+        "question_number": 1,
+        "eliminated": "-2,980",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "37,332",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314702,
+            "text": "Rockford, IL",
+            "correct": false,
+            "count": "900",
+            "percent": "2.81%"
+          },
+          {
+            "id": 314703,
+            "text": "Hollywood, CA",
+            "correct": false,
+            "count": "732",
+            "percent": "2.29%"
+          },
+          {
+            "id": 314704,
+            "text": "Philadelphia, PA",
+            "correct": true,
+            "count": "30,372",
+            "percent": "94.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/1/1",
+        "game_link": "/us/game/2019-12-18/1",
+        "correct_answers": 30372,
+        "incorrect_answers": 1632,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160166,
+        "text": "During training, what does Mickey want Rocky to âspitâ before âeating lightningâ?",
+        "question_number": 2,
+        "eliminated": "1,737",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "35,682",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314705,
+            "text": "Bullets",
+            "correct": false,
+            "count": "6,492",
+            "percent": "20.71%"
+          },
+          {
+            "id": 314706,
+            "text": "Nails",
+            "correct": true,
+            "count": "21,299",
+            "percent": "67.96%"
+          },
+          {
+            "id": 314707,
+            "text": "Hellfire",
+            "correct": false,
+            "count": "3,550",
+            "percent": "11.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/1/2",
+        "game_link": "/us/game/2019-12-18/1",
+        "correct_answers": 21299,
+        "incorrect_answers": 10042,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160168,
+        "text": "This restaurant, where Ivan Drago proposes a fight between his son and Adonis, is named after whom?",
+        "question_number": 3,
+        "eliminated": "3,066",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "32,760",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314708,
+            "text": "Adrian",
+            "correct": true,
+            "count": "9,998",
+            "percent": "32.47%"
+          },
+          {
+            "id": 314709,
+            "text": "Apollo Creed",
+            "correct": false,
+            "count": "8,465",
+            "percent": "27.49%"
+          },
+          {
+            "id": 314710,
+            "text": "Mickey",
+            "correct": false,
+            "count": "12,332",
+            "percent": "40.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/1/3",
+        "game_link": "/us/game/2019-12-18/1",
+        "correct_answers": 9998,
+        "incorrect_answers": 20797,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160170,
+        "text": "Which pro wrestling superstar played a character who fights Rocky for charity?",
+        "question_number": 4,
+        "eliminated": "3,366",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "29,611",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314711,
+            "text": "Andre the Giant",
+            "correct": false,
+            "count": "4,137",
+            "percent": "14.71%"
+          },
+          {
+            "id": 314712,
+            "text": "Macho Man",
+            "correct": false,
+            "count": "2,416",
+            "percent": "8.59%"
+          },
+          {
+            "id": 314713,
+            "text": "Hulk Hogan",
+            "correct": true,
+            "count": "21,568",
+            "percent": "76.7%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/1/4",
+        "game_link": "/us/game/2019-12-18/1",
+        "correct_answers": 21568,
+        "incorrect_answers": 6553,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160172,
+        "text": "Repeating advice he got from Mickey, Rocky tells Adonis that âwomen weakenâ what?",
+        "question_number": 5,
+        "eliminated": "6,426",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "23,361",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314714,
+            "text": "Heart",
+            "correct": false,
+            "count": "2,448",
+            "percent": "9.26%"
+          },
+          {
+            "id": 314715,
+            "text": "Legs",
+            "correct": true,
+            "count": "15,526",
+            "percent": "58.74%"
+          },
+          {
+            "id": 314716,
+            "text": "Mind",
+            "correct": false,
+            "count": "8,457",
+            "percent": "32.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/1/5",
+        "game_link": "/us/game/2019-12-18/1",
+        "correct_answers": 15526,
+        "incorrect_answers": 10905,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160174,
+        "text": "Which film did NOT get Sylvester Stallone an Oscar nomination for acting?",
+        "question_number": 6,
+        "eliminated": "5,555",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "18,554",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314717,
+            "text": "Rocky",
+            "correct": false,
+            "count": "2,696",
+            "percent": "12.28%"
+          },
+          {
+            "id": 314718,
+            "text": "Rocky III",
+            "correct": true,
+            "count": "14,119",
+            "percent": "64.33%"
+          },
+          {
+            "id": 314719,
+            "text": "Creed",
+            "correct": false,
+            "count": "5,134",
+            "percent": "23.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/1/6",
+        "game_link": "/us/game/2019-12-18/1",
+        "correct_answers": 14119,
+        "incorrect_answers": 7830,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160176,
+        "text": "According to Michael B. Jordan, what did Stallone âpeer pressureâ him into doing for âCreedâ?",
+        "question_number": 7,
+        "eliminated": "9,002",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "10,608",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314720,
+            "text": "Catching a chicken",
+            "correct": false,
+            "count": "2,090",
+            "percent": "12.8%"
+          },
+          {
+            "id": 314721,
+            "text": "Taking a real punch",
+            "correct": true,
+            "count": "4,168",
+            "percent": "25.54%"
+          },
+          {
+            "id": 314722,
+            "text": "Eating a raw egg",
+            "correct": false,
+            "count": "10,064",
+            "percent": "61.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/1/7",
+        "game_link": "/us/game/2019-12-18/1",
+        "correct_answers": 4168,
+        "incorrect_answers": 12154,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 7,
+          "players_left": 10666,
+          "players_left_formatted": "10,666",
+          "num_winners": 1692,
+          "num_winners_formatted": "1,692",
+          "prize": 264.0,
+          "prize_formatted": "264 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160178,
+        "text": "Which rival was married to a character played by Stalloneâs then real-life wife?",
+        "question_number": 8,
+        "eliminated": "1,821",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "9,539",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314723,
+            "text": "Tommy Gunn",
+            "correct": false,
+            "count": "1,726",
+            "percent": "17.91%"
+          },
+          {
+            "id": 314724,
+            "text": "Ivan Drago",
+            "correct": true,
+            "count": "6,593",
+            "percent": "68.4%"
+          },
+          {
+            "id": 314725,
+            "text": "Spider Rico",
+            "correct": false,
+            "count": "1,320",
+            "percent": "13.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/1/8",
+        "game_link": "/us/game/2019-12-18/1",
+        "correct_answers": 6593,
+        "incorrect_answers": 3046,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160180,
+        "text": "Which fighter was NOT in the match that inspired the screenplay for âRockyâ?",
+        "question_number": 9,
+        "eliminated": "2,650",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "7,249",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314726,
+            "text": "Chuck Wepner",
+            "correct": false,
+            "count": "1,711",
+            "percent": "19.58%"
+          },
+          {
+            "id": 314727,
+            "text": "Muhammad Ali",
+            "correct": false,
+            "count": "4,173",
+            "percent": "47.75%"
+          },
+          {
+            "id": 314728,
+            "text": "Rocky Marciano",
+            "correct": true,
+            "count": "2,855",
+            "percent": "32.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/1/9",
+        "game_link": "/us/game/2019-12-18/1",
+        "correct_answers": 2855,
+        "incorrect_answers": 5884,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160182,
+        "text": "In training, Adonis wears a shirt that says he fights because he canât what?",
+        "question_number": 10,
+        "eliminated": "1,802",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "6,422",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314729,
+            "text": "Sing or dance",
+            "correct": true,
+            "count": "3,303",
+            "percent": "45.82%"
+          },
+          {
+            "id": 314730,
+            "text": "Not fight",
+            "correct": false,
+            "count": "1,206",
+            "percent": "16.73%"
+          },
+          {
+            "id": 314731,
+            "text": "Do anything else",
+            "correct": false,
+            "count": "2,699",
+            "percent": "37.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/1/10",
+        "game_link": "/us/game/2019-12-18/1",
+        "correct_answers": 3303,
+        "incorrect_answers": 3905,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160184,
+        "text": "What animals reprised their roles from âRockyâ in âCreed IIâ?",
+        "question_number": 11,
+        "eliminated": "2,360",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "4,851",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314732,
+            "text": "Dogs",
+            "correct": false,
+            "count": "458",
+            "percent": "6.88%"
+          },
+          {
+            "id": 314733,
+            "text": "Turtles",
+            "correct": true,
+            "count": "4,851",
+            "percent": "72.9%"
+          },
+          {
+            "id": 314734,
+            "text": "Chickens",
+            "correct": false,
+            "count": "1,345",
+            "percent": "20.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/1/11",
+        "game_link": "/us/game/2019-12-18/1",
+        "correct_answers": 4851,
+        "incorrect_answers": 1803,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 4078,
+          "players_left_formatted": "4,078",
+          "num_winners": 1740,
+          "num_winners_formatted": "1,740",
+          "prize": 330.0,
+          "prize_formatted": "330 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160186,
+        "text": "Rockyâs license plate is a play on which of these words?",
+        "question_number": 12,
+        "eliminated": "2,181",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,637",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314735,
+            "text": "Knockout",
+            "correct": false,
+            "count": "750",
+            "percent": "18.77%"
+          },
+          {
+            "id": 314736,
+            "text": "Southpaw",
+            "correct": true,
+            "count": "2,637",
+            "percent": "66.01%"
+          },
+          {
+            "id": 314737,
+            "text": "Adrian",
+            "correct": false,
+            "count": "608",
+            "percent": "15.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/1/12",
+        "game_link": "/us/game/2019-12-18/1",
+        "correct_answers": 2637,
+        "incorrect_answers": 1358,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160188,
+        "text": "Which fighter has a winning record against Rocky in officially sanctioned matches?",
+        "question_number": 13,
+        "eliminated": "2,280",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,432",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314738,
+            "text": "Mason Dixon",
+            "correct": true,
+            "count": "1,432",
+            "percent": "44.12%"
+          },
+          {
+            "id": 314739,
+            "text": "James âClubberâ Lang",
+            "correct": false,
+            "count": "902",
+            "percent": "27.79%"
+          },
+          {
+            "id": 314740,
+            "text": "Apollo Creed",
+            "correct": false,
+            "count": "912",
+            "percent": "28.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/1/13",
+        "game_link": "/us/game/2019-12-18/1",
+        "correct_answers": 1432,
+        "incorrect_answers": 1814,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160190,
+        "text": "Which of these fighters can be seen on this belt that Rocky wins in âRocky IIâ?",
+        "question_number": 14,
+        "eliminated": "2,755",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "547",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314741,
+            "text": "George Foreman",
+            "correct": true,
+            "count": "547",
+            "percent": "16.74%"
+          },
+          {
+            "id": 314742,
+            "text": "Joe Frazier",
+            "correct": false,
+            "count": "700",
+            "percent": "21.43%"
+          },
+          {
+            "id": 314743,
+            "text": "Sugar Ray Robinson",
+            "correct": false,
+            "count": "2,020",
+            "percent": "61.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/1/14",
+        "game_link": "/us/game/2019-12-18/1",
+        "correct_answers": 547,
+        "incorrect_answers": 2720,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160192,
+        "text": "Who is the only trainer to throw in the towel for his fighter in the series?",
+        "question_number": 15,
+        "eliminated": "2,119",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "634",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314744,
+            "text": "Mickey",
+            "correct": false,
+            "count": "540",
+            "percent": "20.4%"
+          },
+          {
+            "id": 314745,
+            "text": "Ivan Drago",
+            "correct": true,
+            "count": "634",
+            "percent": "23.95%"
+          },
+          {
+            "id": 314746,
+            "text": "Rocky",
+            "correct": false,
+            "count": "1,473",
+            "percent": "55.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/1/15",
+        "game_link": "/us/game/2019-12-18/1",
+        "correct_answers": 634,
+        "incorrect_answers": 2013,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2443,
+        "game_id": 142308,
+        "question": "Which Rocky character is your favorite?",
+        "results": [
+          {
+            "id": 14163,
+            "display_count": "30",
+            "vote_count": 2271,
+            "text": "Mickey"
+          },
+          {
+            "id": 14162,
+            "display_count": "17",
+            "vote_count": 1267,
+            "text": "Paulie"
+          },
+          {
+            "id": 14161,
+            "display_count": "54",
+            "vote_count": 4089,
+            "text": "Rocky"
+          }
+        ],
+        "created_at": "2019-12-19T01:11:18Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 7,
+        "players_left": 10666,
+        "players_left_formatted": "10,666",
+        "num_winners": 1692,
+        "num_winners_formatted": "1,692",
+        "prize": 264.0,
+        "prize_formatted": "264 coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 11,
+        "players_left": 4078,
+        "players_left_formatted": "4,078",
+        "num_winners": 1740,
+        "num_winners_formatted": "1,740",
+        "prize": 330.0,
+        "prize_formatted": "330 coins",
+        "currency": "coins"
+      }
+    ],
+    "total_checkpoint_prize": "0.00",
+    "total_checkpoint_winners": "3,432",
+    "smallest_checkpoint_prize": "264 coins",
+    "largest_checkpoint_prize": "330 coins",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 142326,
+    "show_id": 13183,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-12-19T02:00:00Z",
+    "direct_link": "/us/game/2019-12-18/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "153",
+      "currency": "$",
+      "average_prize": "6.54"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "",
+        "slug": ""
+      }
+    ],
+    "questions": [
+      null,
+      {
+        "id": 160194,
+        "text": "âWest Side Storyâ was based on what Shakespeare play?",
+        "question_number": 2,
+        "eliminated": "2,868",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "83,034",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314747,
+            "text": "Macbeth",
+            "correct": false,
+            "count": "8,627",
+            "percent": "11.49%"
+          },
+          {
+            "id": 314748,
+            "text": "Romeo and Juliet",
+            "correct": true,
+            "count": "64,650",
+            "percent": "86.1%"
+          },
+          {
+            "id": 314749,
+            "text": "Julius Caesar",
+            "correct": false,
+            "count": "1,812",
+            "percent": "2.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/2/2",
+        "game_link": "/us/game/2019-12-18/2",
+        "correct_answers": 64650,
+        "incorrect_answers": 10439,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160196,
+        "text": "Which âWickedâ character sings âPopularâ?",
+        "question_number": 3,
+        "eliminated": "4,714",
+        "category": "",
+        "category_slug": "",
+        "advancing": "78,463",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314750,
+            "text": "Nessarose",
+            "correct": false,
+            "count": "4,635",
+            "percent": "6.27%"
+          },
+          {
+            "id": 314751,
+            "text": "Glinda",
+            "correct": true,
+            "count": "58,449",
+            "percent": "79.07%"
+          },
+          {
+            "id": 314752,
+            "text": "Elphaba",
+            "correct": false,
+            "count": "10,835",
+            "percent": "14.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/2/3",
+        "game_link": "/us/game/2019-12-18/2",
+        "correct_answers": 58449,
+        "incorrect_answers": 15470,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160198,
+        "text": "The title character of âThe Music Manâ appropriately sells what?",
+        "question_number": 4,
+        "eliminated": "5,979",
+        "category": "",
+        "category_slug": "",
+        "advancing": "72,757",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314753,
+            "text": "Candygrams",
+            "correct": false,
+            "count": "4,564",
+            "percent": "6.43%"
+          },
+          {
+            "id": 314754,
+            "text": "Carbon offsets",
+            "correct": false,
+            "count": "617",
+            "percent": "0.87%"
+          },
+          {
+            "id": 314755,
+            "text": "Musical instruments",
+            "correct": true,
+            "count": "65,854",
+            "percent": "92.71%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/2/4",
+        "game_link": "/us/game/2019-12-18/2",
+        "correct_answers": 65854,
+        "incorrect_answers": 5181,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160200,
+        "text": "What is one of the insults lobbied at Maria by the nuns in âThe Sound of Musicâ?",
+        "question_number": 5,
+        "eliminated": "19,818",
+        "category": "",
+        "category_slug": "",
+        "advancing": "53,298",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314756,
+            "text": "Ninnyhammer",
+            "correct": false,
+            "count": "20,023",
+            "percent": "29.98%"
+          },
+          {
+            "id": 314757,
+            "text": "Flibbertigibbet",
+            "correct": true,
+            "count": "40,854",
+            "percent": "61.18%"
+          },
+          {
+            "id": 314758,
+            "text": "Lickspittle",
+            "correct": false,
+            "count": "5,905",
+            "percent": "8.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/2/5",
+        "game_link": "/us/game/2019-12-18/2",
+        "correct_answers": 40854,
+        "incorrect_answers": 25928,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160202,
+        "text": "What role does Taylor Swift play in the 2019 adaptation of âCatsâ?",
+        "question_number": 6,
+        "eliminated": "8,449",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "47,248",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314759,
+            "text": "Rum Tum Tugger",
+            "correct": false,
+            "count": "6,414",
+            "percent": "12.11%"
+          },
+          {
+            "id": 314760,
+            "text": "Munkustrap",
+            "correct": false,
+            "count": "2,788",
+            "percent": "5.26%"
+          },
+          {
+            "id": 314761,
+            "text": "Bombalurina",
+            "correct": true,
+            "count": "43,763",
+            "percent": "82.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/2/6",
+        "game_link": "/us/game/2019-12-18/2",
+        "correct_answers": 43763,
+        "incorrect_answers": 9202,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 6,
+          "players_left": 38351,
+          "players_left_formatted": "38,351",
+          "num_winners": 10330,
+          "num_winners_formatted": "10,330",
+          "prize": 80.0,
+          "prize_formatted": "80 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160204,
+        "text": "This song is in what musical?",
+        "question_number": 7,
+        "eliminated": "13,683",
+        "category": "",
+        "category_slug": "",
+        "advancing": "34,002",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314762,
+            "text": "Cinderella",
+            "correct": false,
+            "count": "2,475",
+            "percent": "6.66%"
+          },
+          {
+            "id": 314763,
+            "text": "Beauty and the Beast",
+            "correct": false,
+            "count": "4,408",
+            "percent": "11.86%"
+          },
+          {
+            "id": 314764,
+            "text": "Into the Woods",
+            "correct": true,
+            "count": "30,284",
+            "percent": "81.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/2/7",
+        "game_link": "/us/game/2019-12-18/2",
+        "correct_answers": 30284,
+        "incorrect_answers": 6883,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160206,
+        "text": "âThe Phantom of the Operaâ film from 2004 starred an actor from which comic book movie?",
+        "question_number": 8,
+        "eliminated": "9,897",
+        "category": "",
+        "category_slug": "",
+        "advancing": "25,208",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314765,
+            "text": "Iron Man",
+            "correct": false,
+            "count": "5,524",
+            "percent": "17.3%"
+          },
+          {
+            "id": 314766,
+            "text": "Man of Steel",
+            "correct": false,
+            "count": "6,076",
+            "percent": "19.03%"
+          },
+          {
+            "id": 314767,
+            "text": "300",
+            "correct": true,
+            "count": "20,324",
+            "percent": "63.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/2/8",
+        "game_link": "/us/game/2019-12-18/2",
+        "correct_answers": 20324,
+        "incorrect_answers": 11600,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160208,
+        "text": "Which Tim Burton film was adapted into a Broadway musical?",
+        "question_number": 9,
+        "eliminated": "2,326",
+        "category": "",
+        "category_slug": "",
+        "advancing": "25,940",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314768,
+            "text": "Edward Scissorhands",
+            "correct": false,
+            "count": "2,435",
+            "percent": "9.0%"
+          },
+          {
+            "id": 314769,
+            "text": "The Corpse Bride",
+            "correct": false,
+            "count": "926",
+            "percent": "3.42%"
+          },
+          {
+            "id": 314770,
+            "text": "Beetlejuice",
+            "correct": true,
+            "count": "23,708",
+            "percent": "87.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/2/9",
+        "game_link": "/us/game/2019-12-18/2",
+        "correct_answers": 23708,
+        "incorrect_answers": 3361,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160210,
+        "text": "Which âPoseâ star originated a role in âKinky Bootsâ?",
+        "question_number": 10,
+        "eliminated": "2,496",
+        "category": "",
+        "category_slug": "",
+        "advancing": "24,174",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314771,
+            "text": "Billy Porter",
+            "correct": true,
+            "count": "22,127",
+            "percent": "86.11%"
+          },
+          {
+            "id": 314772,
+            "text": "Indya Moore",
+            "correct": false,
+            "count": "2,272",
+            "percent": "8.84%"
+          },
+          {
+            "id": 314773,
+            "text": "Mj Rodriguez",
+            "correct": false,
+            "count": "1,296",
+            "percent": "5.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/2/10",
+        "game_link": "/us/game/2019-12-18/2",
+        "correct_answers": 22127,
+        "incorrect_answers": 3568,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160212,
+        "text": "Which musical had a book by legendary choreographer Bob Fosse?",
+        "question_number": 11,
+        "eliminated": "10,963",
+        "category": "",
+        "category_slug": "",
+        "advancing": "14,095",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314774,
+            "text": "The Pajama Game",
+            "correct": false,
+            "count": "4,294",
+            "percent": "18.32%"
+          },
+          {
+            "id": 314775,
+            "text": "Kiss Me Kate",
+            "correct": false,
+            "count": "5,050",
+            "percent": "21.55%"
+          },
+          {
+            "id": 314776,
+            "text": "Chicago",
+            "correct": true,
+            "count": "14,095",
+            "percent": "60.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/2/11",
+        "game_link": "/us/game/2019-12-18/2",
+        "correct_answers": 14095,
+        "incorrect_answers": 9344,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 12102,
+          "players_left_formatted": "12,102",
+          "num_winners": 6135,
+          "num_winners_formatted": "6,135",
+          "prize": 355.0,
+          "prize_formatted": "355 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160214,
+        "text": "Which âMamma Miaâ film star had previously performed on Broadway?",
+        "question_number": 12,
+        "eliminated": "12,633",
+        "category": "",
+        "category_slug": "",
+        "advancing": "4,604",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314777,
+            "text": "Colin Firth",
+            "correct": false,
+            "count": "5,153",
+            "percent": "43.82%"
+          },
+          {
+            "id": 314778,
+            "text": "Amanda Seyfried",
+            "correct": false,
+            "count": "2,003",
+            "percent": "17.03%"
+          },
+          {
+            "id": 314779,
+            "text": "Christine Baranski",
+            "correct": true,
+            "count": "4,604",
+            "percent": "39.15%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/2/12",
+        "game_link": "/us/game/2019-12-18/2",
+        "correct_answers": 4604,
+        "incorrect_answers": 7156,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160216,
+        "text": "âRentâ was loosely based on an opera by which composer?",
+        "question_number": 13,
+        "eliminated": "1,857",
+        "category": "",
+        "category_slug": "",
+        "advancing": "6,453",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314780,
+            "text": "Giacomo Puccini",
+            "correct": true,
+            "count": "6,453",
+            "percent": "79.04%"
+          },
+          {
+            "id": 314781,
+            "text": "Richard Wagner",
+            "correct": false,
+            "count": "1,058",
+            "percent": "12.96%"
+          },
+          {
+            "id": 314782,
+            "text": "Wolfgang Amadeus Mozart",
+            "correct": false,
+            "count": "653",
+            "percent": "8.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/2/13",
+        "game_link": "/us/game/2019-12-18/2",
+        "correct_answers": 6453,
+        "incorrect_answers": 1711,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160218,
+        "text": "Which song is in the same musical as âThereâs No Business Like Show Businessâ?",
+        "question_number": 14,
+        "eliminated": "3,974",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "3,541",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314783,
+            "text": "Luck Be A Lady",
+            "correct": false,
+            "count": "1,722",
+            "percent": "23.89%"
+          },
+          {
+            "id": 314784,
+            "text": "Let Me Entertain You",
+            "correct": false,
+            "count": "1,945",
+            "percent": "26.98%"
+          },
+          {
+            "id": 314785,
+            "text": "Anything You Can Do",
+            "correct": true,
+            "count": "3,541",
+            "percent": "49.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/2/14",
+        "game_link": "/us/game/2019-12-18/2",
+        "correct_answers": 3541,
+        "incorrect_answers": 3667,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160220,
+        "text": "âThe Lion Kingâ made Julie Taymor the first woman to win a Tony for which of these musical categories?",
+        "question_number": 15,
+        "eliminated": "2,616",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "3,407",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314786,
+            "text": "Book",
+            "correct": false,
+            "count": "231",
+            "percent": "3.89%"
+          },
+          {
+            "id": 314787,
+            "text": "Directing",
+            "correct": true,
+            "count": "3,407",
+            "percent": "57.35%"
+          },
+          {
+            "id": 314788,
+            "text": "Lighting Design",
+            "correct": false,
+            "count": "2,303",
+            "percent": "38.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/2/15",
+        "game_link": "/us/game/2019-12-18/2",
+        "correct_answers": 3407,
+        "incorrect_answers": 2534,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160222,
+        "text": "Which âHamiltonâ character was played by the same actor from its Vassar workshop to Broadway premiere?",
+        "question_number": 16,
+        "eliminated": "2,968",
+        "category": "",
+        "category_slug": "",
+        "advancing": "1,983",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314789,
+            "text": "Aaron Burr",
+            "correct": false,
+            "count": "1,627",
+            "percent": "34.51%"
+          },
+          {
+            "id": 314790,
+            "text": "George Washington",
+            "correct": true,
+            "count": "1,983",
+            "percent": "42.07%"
+          },
+          {
+            "id": 314791,
+            "text": "Angelica Schuyler",
+            "correct": false,
+            "count": "1,104",
+            "percent": "23.42%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/2/16",
+        "game_link": "/us/game/2019-12-18/2",
+        "correct_answers": 1983,
+        "incorrect_answers": 2731,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160224,
+        "text": "The actress who originated the role of Mrs. Lovett in âSweeney Toddâ played what TV character?",
+        "question_number": 17,
+        "eliminated": "1,006",
+        "category": "",
+        "category_slug": "",
+        "advancing": "2,671",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314792,
+            "text": "Daphne Moon",
+            "correct": false,
+            "count": "242",
+            "percent": "6.67%"
+          },
+          {
+            "id": 314793,
+            "text": "Rhoda Morgenstern",
+            "correct": false,
+            "count": "716",
+            "percent": "19.73%"
+          },
+          {
+            "id": 314794,
+            "text": "Jessica Fletcher",
+            "correct": true,
+            "count": "2,671",
+            "percent": "73.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/2/17",
+        "game_link": "/us/game/2019-12-18/2",
+        "correct_answers": 2671,
+        "incorrect_answers": 958,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160226,
+        "text": "Which âGolden Girlâ starred in the original production of âFiddler on the Roofâ?",
+        "question_number": 18,
+        "eliminated": "1,194",
+        "category": "",
+        "category_slug": "",
+        "advancing": "1,896",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314795,
+            "text": "Bea Arthur",
+            "correct": true,
+            "count": "1,896",
+            "percent": "62.2%"
+          },
+          {
+            "id": 314796,
+            "text": "Estelle Getty",
+            "correct": false,
+            "count": "1,035",
+            "percent": "33.96%"
+          },
+          {
+            "id": 314797,
+            "text": "Betty White",
+            "correct": false,
+            "count": "117",
+            "percent": "3.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/2/18",
+        "game_link": "/us/game/2019-12-18/2",
+        "correct_answers": 1896,
+        "incorrect_answers": 1152,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 18,
+          "players_left": 1353,
+          "players_left_formatted": "1,353",
+          "num_winners": 543,
+          "num_winners_formatted": "543",
+          "prize": 1000.0,
+          "prize_formatted": "1K coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160228,
+        "text": "One of the âAvenue Qâ writers co-created what musical?",
+        "question_number": 19,
+        "eliminated": "254",
+        "category": "",
+        "category_slug": "",
+        "advancing": "1,099",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314798,
+            "text": "Book of Mormon",
+            "correct": true,
+            "count": "1,099",
+            "percent": "81.59%"
+          },
+          {
+            "id": 314799,
+            "text": "Little Shop of Horrors",
+            "correct": false,
+            "count": "153",
+            "percent": "11.36%"
+          },
+          {
+            "id": 314800,
+            "text": "The Producers",
+            "correct": false,
+            "count": "95",
+            "percent": "7.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/2/19",
+        "game_link": "/us/game/2019-12-18/2",
+        "correct_answers": 1099,
+        "incorrect_answers": 248,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160230,
+        "text": "âCourtney, take your breakâ is an oft-memed line from what musical?",
+        "question_number": 20,
+        "eliminated": "276",
+        "category": "",
+        "category_slug": "",
+        "advancing": "823",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314801,
+            "text": "Mean Girls",
+            "correct": false,
+            "count": "149",
+            "percent": "13.66%"
+          },
+          {
+            "id": 314802,
+            "text": "Legally Blonde",
+            "correct": true,
+            "count": "823",
+            "percent": "75.44%"
+          },
+          {
+            "id": 314803,
+            "text": "School of Rock",
+            "correct": false,
+            "count": "119",
+            "percent": "10.91%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/2/20",
+        "game_link": "/us/game/2019-12-18/2",
+        "correct_answers": 823,
+        "incorrect_answers": 268,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160232,
+        "text": "âLes MisÃ©rablesâ originally premiered in what city?",
+        "question_number": 21,
+        "eliminated": "670",
+        "category": "",
+        "category_slug": "",
+        "advancing": "153",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314804,
+            "text": "Paris",
+            "correct": true,
+            "count": "153",
+            "percent": "18.8%"
+          },
+          {
+            "id": 314805,
+            "text": "New York City",
+            "correct": false,
+            "count": "50",
+            "percent": "6.14%"
+          },
+          {
+            "id": 314806,
+            "text": "London",
+            "correct": false,
+            "count": "611",
+            "percent": "75.06%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-18/2/21",
+        "game_link": "/us/game/2019-12-18/2",
+        "correct_answers": 153,
+        "incorrect_answers": 661,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [
+      {
+        "round_number": 6,
+        "players_left": 38351,
+        "players_left_formatted": "38,351",
+        "num_winners": 10330,
+        "num_winners_formatted": "10,330",
+        "prize": 80.0,
+        "prize_formatted": "80 coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 11,
+        "players_left": 12102,
+        "players_left_formatted": "12,102",
+        "num_winners": 6135,
+        "num_winners_formatted": "6,135",
+        "prize": 355.0,
+        "prize_formatted": "355 coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 18,
+        "players_left": 1353,
+        "players_left_formatted": "1,353",
+        "num_winners": 543,
+        "num_winners_formatted": "543",
+        "prize": 1000.0,
+        "prize_formatted": "1K coins",
+        "currency": "coins"
+      }
+    ],
+    "total_checkpoint_prize": "0.00",
+    "total_checkpoint_winners": "17,008",
+    "smallest_checkpoint_prize": "80 coins",
+    "largest_checkpoint_prize": "1K coins",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

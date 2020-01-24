@@ -1,0 +1,1477 @@
+[
+  {
+    "id": 100188,
+    "show_id": 10620,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "2,500",
+    "currency": "$",
+    "start_time": "2019-05-02T19:00:00Z",
+    "direct_link": "/us/game/2019-05-02/1",
+    "time": " 3:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,010",
+      "currency": "$",
+      "average_prize": "1.24"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 103831,
+        "text": "Whose opening number at the Billboard Music Awards has been criticized for being too similar to BeyoncÃ©?",
+        "question_number": 1,
+        "eliminated": "-5,772",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "132,092",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230219,
+            "text": "Montell Jordan",
+            "correct": false,
+            "count": "3,987",
+            "percent": "3.16%"
+          },
+          {
+            "id": 230220,
+            "text": "Led Zeppelin",
+            "correct": false,
+            "count": "2,595",
+            "percent": "2.05%"
+          },
+          {
+            "id": 230221,
+            "text": "Taylor Swift",
+            "correct": true,
+            "count": "119,738",
+            "percent": "94.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/1/1",
+        "game_link": "/us/game/2019-05-02/1",
+        "correct_answers": 119738,
+        "incorrect_answers": 6582,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103839,
+        "text": "The official motto of the United States is âIn God Weâ what?",
+        "question_number": 2,
+        "eliminated": "601",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "131,616",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230231,
+            "text": "Confide",
+            "correct": false,
+            "count": "346",
+            "percent": "0.27%"
+          },
+          {
+            "id": 230234,
+            "text": "Invest",
+            "correct": false,
+            "count": "399",
+            "percent": "0.31%"
+          },
+          {
+            "id": 230237,
+            "text": "Trust",
+            "correct": true,
+            "count": "126,330",
+            "percent": "99.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/1/2",
+        "game_link": "/us/game/2019-05-02/1",
+        "correct_answers": 126330,
+        "incorrect_answers": 745,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103847,
+        "text": "Which of these casino games is traditionally played with dice?",
+        "question_number": 3,
+        "eliminated": "1,547",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "130,079",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230243,
+            "text": "Keno",
+            "correct": false,
+            "count": "1,832",
+            "percent": "1.46%"
+          },
+          {
+            "id": 230245,
+            "text": "Roulette",
+            "correct": false,
+            "count": "8,659",
+            "percent": "6.89%"
+          },
+          {
+            "id": 230247,
+            "text": "Craps",
+            "correct": true,
+            "count": "115,130",
+            "percent": "91.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/1/3",
+        "game_link": "/us/game/2019-05-02/1",
+        "correct_answers": 115130,
+        "incorrect_answers": 10491,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103855,
+        "text": "Where is human life believed to have begun?",
+        "question_number": 4,
+        "eliminated": "1,780",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "128,408",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230255,
+            "text": "Africa",
+            "correct": true,
+            "count": "103,382",
+            "percent": "82.89%"
+          },
+          {
+            "id": 230257,
+            "text": "Asia",
+            "correct": false,
+            "count": "15,502",
+            "percent": "12.43%"
+          },
+          {
+            "id": 230259,
+            "text": "Europe",
+            "correct": false,
+            "count": "5,840",
+            "percent": "4.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/1/4",
+        "game_link": "/us/game/2019-05-02/1",
+        "correct_answers": 103382,
+        "incorrect_answers": 21342,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103863,
+        "text": "A high school in New Jersey recently made headlines for staging what horror film as its spring play?",
+        "question_number": 5,
+        "eliminated": "7,716",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "120,799",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230267,
+            "text": "Alien",
+            "correct": true,
+            "count": "69,272",
+            "percent": "57.61%"
+          },
+          {
+            "id": 230269,
+            "text": "Psycho",
+            "correct": false,
+            "count": "42,754",
+            "percent": "35.56%"
+          },
+          {
+            "id": 230272,
+            "text": "Predator",
+            "correct": false,
+            "count": "8,215",
+            "percent": "6.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/1/5",
+        "game_link": "/us/game/2019-05-02/1",
+        "correct_answers": 69272,
+        "incorrect_answers": 50969,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103871,
+        "text": "In the 19th century, where would you have most likely seen a cuspidor?",
+        "question_number": 6,
+        "eliminated": "7,413",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "114,361",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230279,
+            "text": "Stable",
+            "correct": false,
+            "count": "23,279",
+            "percent": "20.27%"
+          },
+          {
+            "id": 230281,
+            "text": "Saloon",
+            "correct": true,
+            "count": "73,443",
+            "percent": "63.94%"
+          },
+          {
+            "id": 230285,
+            "text": "Jail",
+            "correct": false,
+            "count": "18,149",
+            "percent": "15.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/1/6",
+        "game_link": "/us/game/2019-05-02/1",
+        "correct_answers": 73443,
+        "incorrect_answers": 41428,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103879,
+        "text": "The âNew York Timesâ publishes its most difficult crossword on which day of the week?",
+        "question_number": 7,
+        "eliminated": "75,445",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "39,352",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230291,
+            "text": "Friday",
+            "correct": false,
+            "count": "6,679",
+            "percent": "6.21%"
+          },
+          {
+            "id": 230293,
+            "text": "Saturday",
+            "correct": true,
+            "count": "14,737",
+            "percent": "13.71%"
+          },
+          {
+            "id": 230295,
+            "text": "Sunday",
+            "correct": false,
+            "count": "86,109",
+            "percent": "80.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/1/7",
+        "game_link": "/us/game/2019-05-02/1",
+        "correct_answers": 14737,
+        "incorrect_answers": 92788,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103887,
+        "text": "Which of these is a brand of cough drop?",
+        "question_number": 8,
+        "eliminated": "19,059",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "32,695",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230303,
+            "text": "Mills Brothers",
+            "correct": false,
+            "count": "11,126",
+            "percent": "22.63%"
+          },
+          {
+            "id": 230304,
+            "text": "Hills Brothers",
+            "correct": false,
+            "count": "5,655",
+            "percent": "11.5%"
+          },
+          {
+            "id": 230305,
+            "text": "Smith Brothers",
+            "correct": true,
+            "count": "32,385",
+            "percent": "65.87%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/1/8",
+        "game_link": "/us/game/2019-05-02/1",
+        "correct_answers": 32385,
+        "incorrect_answers": 16781,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103895,
+        "text": "Which is NOT one of the six Celtic nations?",
+        "question_number": 9,
+        "eliminated": "16,000",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "17,981",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230315,
+            "text": "Cornwall",
+            "correct": false,
+            "count": "7,201",
+            "percent": "21.67%"
+          },
+          {
+            "id": 230316,
+            "text": "Brittany",
+            "correct": false,
+            "count": "8,072",
+            "percent": "24.29%"
+          },
+          {
+            "id": 230318,
+            "text": "Isle of Wight",
+            "correct": true,
+            "count": "17,961",
+            "percent": "54.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/1/9",
+        "game_link": "/us/game/2019-05-02/1",
+        "correct_answers": 17961,
+        "incorrect_answers": 15273,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103903,
+        "text": "Who performs the song played right after the Boston Red Sox win a home game?",
+        "question_number": 10,
+        "eliminated": "17,429",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,303",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230327,
+            "text": "The Standells",
+            "correct": true,
+            "count": "2,294",
+            "percent": "11.85%"
+          },
+          {
+            "id": 230330,
+            "text": "Dropkick Murphys",
+            "correct": false,
+            "count": "2,511",
+            "percent": "12.97%"
+          },
+          {
+            "id": 230333,
+            "text": "Neil Diamond",
+            "correct": false,
+            "count": "14,551",
+            "percent": "75.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/1/10",
+        "game_link": "/us/game/2019-05-02/1",
+        "correct_answers": 2294,
+        "incorrect_answers": 17062,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103911,
+        "text": "What nation is this island part of?",
+        "question_number": 11,
+        "eliminated": "1,662",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "4,287",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230339,
+            "text": "Somalia",
+            "correct": false,
+            "count": "623",
+            "percent": "10.59%"
+          },
+          {
+            "id": 230342,
+            "text": "Oman",
+            "correct": false,
+            "count": "973",
+            "percent": "16.54%"
+          },
+          {
+            "id": 230346,
+            "text": "Yemen",
+            "correct": true,
+            "count": "4,287",
+            "percent": "72.87%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/1/11",
+        "game_link": "/us/game/2019-05-02/1",
+        "correct_answers": 4287,
+        "incorrect_answers": 1596,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103919,
+        "text": "DC Comics is named after the comic book in which what superhero first appeared?",
+        "question_number": 12,
+        "eliminated": "2,544",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "2,010",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230351,
+            "text": "Superman",
+            "correct": false,
+            "count": "1,567",
+            "percent": "35.59%"
+          },
+          {
+            "id": 230353,
+            "text": "Batman",
+            "correct": true,
+            "count": "2,010",
+            "percent": "45.65%"
+          },
+          {
+            "id": 230357,
+            "text": "The Flash",
+            "correct": false,
+            "count": "826",
+            "percent": "18.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/1/12",
+        "game_link": "/us/game/2019-05-02/1",
+        "correct_answers": 2010,
+        "incorrect_answers": 2393,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 100248,
+    "show_id": 10636,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-05-03T01:00:00Z",
+    "direct_link": "/us/game/2019-05-02/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,741",
+      "currency": "$",
+      "average_prize": "1.82"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "questions": [
+      {
+        "id": 103927,
+        "text": "At the beginning of the first âShrekâ film, where is Shrek living?",
+        "question_number": 1,
+        "eliminated": "-15,141",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "362,800",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230363,
+            "text": "Swamp",
+            "correct": true,
+            "count": "339,288",
+            "percent": "97.59%"
+          },
+          {
+            "id": 230364,
+            "text": "Australia",
+            "correct": false,
+            "count": "5,502",
+            "percent": "1.58%"
+          },
+          {
+            "id": 230366,
+            "text": "Disneyland",
+            "correct": false,
+            "count": "2,869",
+            "percent": "0.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/2/1",
+        "game_link": "/us/game/2019-05-02/2",
+        "correct_answers": 339288,
+        "incorrect_answers": 8371,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103935,
+        "text": "Princess Fiona is voiced by which actress?",
+        "question_number": 2,
+        "eliminated": "1,693",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "361,305",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230375,
+            "text": "Awkwafina",
+            "correct": false,
+            "count": "2,196",
+            "percent": "0.63%"
+          },
+          {
+            "id": 230376,
+            "text": "Cameron Diaz",
+            "correct": true,
+            "count": "340,518",
+            "percent": "98.0%"
+          },
+          {
+            "id": 230378,
+            "text": "Betty White",
+            "correct": false,
+            "count": "4,759",
+            "percent": "1.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/2/2",
+        "game_link": "/us/game/2019-05-02/2",
+        "correct_answers": 340518,
+        "incorrect_answers": 6955,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103943,
+        "text": "Who does Shrek yell at when weâre first introduced to him?",
+        "question_number": 3,
+        "eliminated": "13,527",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "347,783",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230387,
+            "text": "Townspeople",
+            "correct": true,
+            "count": "141,825",
+            "percent": "41.25%"
+          },
+          {
+            "id": 230389,
+            "text": "Donkey",
+            "correct": false,
+            "count": "170,127",
+            "percent": "49.49%"
+          },
+          {
+            "id": 230392,
+            "text": "Fairies",
+            "correct": false,
+            "count": "31,838",
+            "percent": "9.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/2/3",
+        "game_link": "/us/game/2019-05-02/2",
+        "correct_answers": 141825,
+        "incorrect_answers": 201965,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103951,
+        "text": "Which of these Smash Mouth songs is NOT on the âShrekâ soundtrack?",
+        "question_number": 4,
+        "eliminated": "9,621",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "343,457",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230399,
+            "text": "Walking on the Sun",
+            "correct": true,
+            "count": "254,116",
+            "percent": "79.0%"
+          },
+          {
+            "id": 230400,
+            "text": "Iâm a Believer",
+            "correct": false,
+            "count": "21,908",
+            "percent": "6.81%"
+          },
+          {
+            "id": 230401,
+            "text": "All Star",
+            "correct": false,
+            "count": "45,650",
+            "percent": "14.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/2/4",
+        "game_link": "/us/game/2019-05-02/2",
+        "correct_answers": 254116,
+        "incorrect_answers": 67558,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103959,
+        "text": "In âShrek 2,â what warrants the famous quote, âEnough, Reggie!â?",
+        "question_number": 5,
+        "eliminated": "20,035",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "324,001",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230411,
+            "text": "Shrieking cat",
+            "correct": false,
+            "count": "56,412",
+            "percent": "18.22%"
+          },
+          {
+            "id": 230412,
+            "text": "Rude father-in-law",
+            "correct": false,
+            "count": "55,274",
+            "percent": "17.85%"
+          },
+          {
+            "id": 230414,
+            "text": "Excessive trumpeting",
+            "correct": true,
+            "count": "197,925",
+            "percent": "63.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/2/5",
+        "game_link": "/us/game/2019-05-02/2",
+        "correct_answers": 197925,
+        "incorrect_answers": 111686,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103967,
+        "text": "The actor who voices this character was a star on what popular sitcom?",
+        "question_number": 6,
+        "eliminated": "23,642",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "301,780",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230423,
+            "text": "Rules of Engagement",
+            "correct": false,
+            "count": "13,748",
+            "percent": "4.5%"
+          },
+          {
+            "id": 230424,
+            "text": "3rd Rock from the Sun",
+            "correct": true,
+            "count": "242,598",
+            "percent": "79.47%"
+          },
+          {
+            "id": 230425,
+            "text": "Frasier",
+            "correct": false,
+            "count": "48,929",
+            "percent": "16.03%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/2/6",
+        "game_link": "/us/game/2019-05-02/2",
+        "correct_answers": 242598,
+        "incorrect_answers": 62677,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103975,
+        "text": "Who first angrily says âDonkey!â in âShrekâ?",
+        "question_number": 7,
+        "eliminated": "123,876",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "179,832",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230435,
+            "text": "Fiona",
+            "correct": false,
+            "count": "39,709",
+            "percent": "13.82%"
+          },
+          {
+            "id": 230437,
+            "text": "Shrek",
+            "correct": false,
+            "count": "97,933",
+            "percent": "34.09%"
+          },
+          {
+            "id": 230440,
+            "text": "Old lady",
+            "correct": true,
+            "count": "149,620",
+            "percent": "52.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/2/7",
+        "game_link": "/us/game/2019-05-02/2",
+        "correct_answers": 149620,
+        "incorrect_answers": 137642,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103983,
+        "text": "What is the name of the âCopsâ homage in âShrek 2â?",
+        "question_number": 8,
+        "eliminated": "49,610",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "149,617",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230447,
+            "text": "Stops",
+            "correct": false,
+            "count": "19,359",
+            "percent": "9.99%"
+          },
+          {
+            "id": 230448,
+            "text": "Heroes",
+            "correct": false,
+            "count": "25,080",
+            "percent": "12.94%"
+          },
+          {
+            "id": 230451,
+            "text": "Knights",
+            "correct": true,
+            "count": "149,390",
+            "percent": "77.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/2/8",
+        "game_link": "/us/game/2019-05-02/2",
+        "correct_answers": 149390,
+        "incorrect_answers": 44439,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103991,
+        "text": "What does Puss in Boots first say in Spanish to Shrek?",
+        "question_number": 9,
+        "eliminated": "90,996",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "65,944",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230459,
+            "text": "Que?",
+            "correct": false,
+            "count": "48,853",
+            "percent": "32.15%"
+          },
+          {
+            "id": 230460,
+            "text": "Hola!",
+            "correct": false,
+            "count": "37,197",
+            "percent": "24.48%"
+          },
+          {
+            "id": 230462,
+            "text": "Por favor!",
+            "correct": true,
+            "count": "65,882",
+            "percent": "43.36%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/2/9",
+        "game_link": "/us/game/2019-05-02/2",
+        "correct_answers": 65882,
+        "incorrect_answers": 86050,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103999,
+        "text": "Which of Shrekâs grooming rituals did the filmâs special effects team try for themselves?",
+        "question_number": 10,
+        "eliminated": "20,177",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "63,978",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230471,
+            "text": "Slug loofah",
+            "correct": false,
+            "count": "3,597",
+            "percent": "4.6%"
+          },
+          {
+            "id": 230473,
+            "text": "Bug toothpaste",
+            "correct": false,
+            "count": "10,696",
+            "percent": "13.67%"
+          },
+          {
+            "id": 230475,
+            "text": "Mud shower",
+            "correct": true,
+            "count": "63,975",
+            "percent": "81.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/2/10",
+        "game_link": "/us/game/2019-05-02/2",
+        "correct_answers": 63975,
+        "incorrect_answers": 14293,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104007,
+        "text": "What physical attribute does Donkey compliment to win over the Dragon in âShrekâ?",
+        "question_number": 11,
+        "eliminated": "40,584",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "27,059",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230483,
+            "text": "Teeth",
+            "correct": true,
+            "count": "27,059",
+            "percent": "40.41%"
+          },
+          {
+            "id": 230485,
+            "text": "Fire breath",
+            "correct": false,
+            "count": "7,044",
+            "percent": "10.52%"
+          },
+          {
+            "id": 230486,
+            "text": "Eyes",
+            "correct": false,
+            "count": "32,857",
+            "percent": "49.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/2/11",
+        "game_link": "/us/game/2019-05-02/2",
+        "correct_answers": 27059,
+        "incorrect_answers": 39901,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104015,
+        "text": "During the Gingerbread Manâs life flashback scene in âShrek 3,â what do we NOT see Gingy doing?",
+        "question_number": 12,
+        "eliminated": "17,821",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "18,488",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230495,
+            "text": "Buying gingerbread house",
+            "correct": true,
+            "count": "18,488",
+            "percent": "55.77%"
+          },
+          {
+            "id": 230496,
+            "text": "Driving a car",
+            "correct": false,
+            "count": "9,204",
+            "percent": "27.77%"
+          },
+          {
+            "id": 230497,
+            "text": "Getting married",
+            "correct": false,
+            "count": "5,456",
+            "percent": "16.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/2/12",
+        "game_link": "/us/game/2019-05-02/2",
+        "correct_answers": 18488,
+        "incorrect_answers": 14660,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104023,
+        "text": "Animators from which film were sent to work on Shrek as âpunishmentâ?",
+        "question_number": 13,
+        "eliminated": "9,062",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "13,194",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230507,
+            "text": "Shark Tale",
+            "correct": false,
+            "count": "4,388",
+            "percent": "20.04%"
+          },
+          {
+            "id": 230508,
+            "text": "The Prince of Egypt",
+            "correct": true,
+            "count": "13,194",
+            "percent": "60.25%"
+          },
+          {
+            "id": 230510,
+            "text": "Bee Movie",
+            "correct": false,
+            "count": "4,317",
+            "percent": "19.71%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/2/13",
+        "game_link": "/us/game/2019-05-02/2",
+        "correct_answers": 13194,
+        "incorrect_answers": 8705,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104031,
+        "text": "What does Shrek say after seeing Fiona as an ogre for the first time?",
+        "question_number": 14,
+        "eliminated": "3,404",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "11,402",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230519,
+            "text": "Why didnât you tell me?",
+            "correct": false,
+            "count": "767",
+            "percent": "5.29%"
+          },
+          {
+            "id": 230523,
+            "text": "Well that explains a lot",
+            "correct": true,
+            "count": "11,402",
+            "percent": "78.57%"
+          },
+          {
+            "id": 230527,
+            "text": "Youâre beautiful",
+            "correct": false,
+            "count": "2,342",
+            "percent": "16.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/2/14",
+        "game_link": "/us/game/2019-05-02/2",
+        "correct_answers": 11402,
+        "incorrect_answers": 3109,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104039,
+        "text": "What is the final line of âShrek the Thirdâ?",
+        "question_number": 15,
+        "eliminated": "9,207",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,741",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 230531,
+            "text": "Letâs have another.",
+            "correct": false,
+            "count": "5,274",
+            "percent": "45.94%"
+          },
+          {
+            "id": 230532,
+            "text": "I got it.",
+            "correct": true,
+            "count": "2,741",
+            "percent": "23.88%"
+          },
+          {
+            "id": 230533,
+            "text": "Happily ever after?",
+            "correct": false,
+            "count": "3,464",
+            "percent": "30.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-02/2/15",
+        "game_link": "/us/game/2019-05-02/2",
+        "correct_answers": 2741,
+        "incorrect_answers": 8738,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 100320,
+    "show_id": 10657,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-05-03T01:30:00Z",
+    "direct_link": "/us/game/2019-05-02/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "5,900",
+      "currency": "$",
+      "average_prize": "0.17"
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-05-02/3/1",
+        "question_number": 1,
+        "text": "Fairytale Land",
+        "answer": [
+          "FAR",
+          "FAR",
+          "AWAY"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "W"
+        ],
+        "game_link": "/us/game/2019-05-02/3",
+        "eliminated": 4517,
+        "advancing": 128467,
+        "correct_answers": 128467,
+        "incorrect_answers": 4517
+      },
+      {
+        "direct_link": "/us/game/2019-05-02/3/2",
+        "question_number": 2,
+        "text": "Feline Friend",
+        "answer": [
+          "PUSS",
+          "IN",
+          "BOOTS"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "I"
+        ],
+        "game_link": "/us/game/2019-05-02/3",
+        "eliminated": 5538,
+        "advancing": 123075,
+        "correct_answers": 123075,
+        "incorrect_answers": 5538
+      },
+      {
+        "direct_link": "/us/game/2019-05-02/3/3",
+        "question_number": 3,
+        "text": "Gingerbread Fashion",
+        "answer": [
+          "GUMDROP",
+          "BUTTONS"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "S"
+        ],
+        "game_link": "/us/game/2019-05-02/3",
+        "eliminated": 48226,
+        "advancing": 74987,
+        "correct_answers": 74987,
+        "incorrect_answers": 48226
+      },
+      {
+        "direct_link": "/us/game/2019-05-02/3/4",
+        "question_number": 4,
+        "text": "Shrek Quote",
+        "answer": [
+          "OGRES",
+          "ARE",
+          "LIKE",
+          "ONIONS"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "L"
+        ],
+        "game_link": "/us/game/2019-05-02/3",
+        "eliminated": 14377,
+        "advancing": 63211,
+        "correct_answers": 63211,
+        "incorrect_answers": 14377
+      },
+      {
+        "direct_link": "/us/game/2019-05-02/3/5",
+        "question_number": 5,
+        "text": "Halloween Tales",
+        "answer": [
+          "SCARED",
+          "SHREKLESS"
+        ],
+        "initial_letters": [
+          " ",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "R"
+        ],
+        "game_link": "/us/game/2019-05-02/3",
+        "eliminated": 22894,
+        "advancing": 41076,
+        "correct_answers": 41076,
+        "incorrect_answers": 22894
+      },
+      {
+        "direct_link": "/us/game/2019-05-02/3/6",
+        "question_number": 6,
+        "text": "Stolen Drink",
+        "answer": [
+          "HAPPILY",
+          "EVER",
+          "AFTER",
+          "POTION"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "L"
+        ],
+        "game_link": "/us/game/2019-05-02/3",
+        "eliminated": 5972,
+        "advancing": 36881,
+        "correct_answers": 36881,
+        "incorrect_answers": 5972
+      },
+      {
+        "direct_link": "/us/game/2019-05-02/3/7",
+        "question_number": 7,
+        "text": "Hot Couple",
+        "answer": [
+          "DRAGON",
+          "&",
+          "DONKEY"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "N"
+        ],
+        "game_link": "/us/game/2019-05-02/3",
+        "eliminated": 3403,
+        "advancing": 34013,
+        "correct_answers": 34013,
+        "incorrect_answers": 3403
+      },
+      {
+        "direct_link": "/us/game/2019-05-02/3/8",
+        "question_number": 8,
+        "text": "Getaway Vehicle",
+        "answer": [
+          "WHITE",
+          "BRONCO"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "O"
+        ],
+        "game_link": "/us/game/2019-05-02/3",
+        "eliminated": 15031,
+        "advancing": 19290,
+        "correct_answers": 19290,
+        "incorrect_answers": 15031
+      },
+      {
+        "direct_link": "/us/game/2019-05-02/3/9",
+        "question_number": 9,
+        "text": "Shrekâs Affirmation",
+        "answer": [
+          "BUT",
+          "YOU",
+          "ARE",
+          "BEAUTIFUL"
+        ],
+        "initial_letters": [
+          " ",
+          "Y"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "O"
+        ],
+        "game_link": "/us/game/2019-05-02/3",
+        "eliminated": 1497,
+        "advancing": 19919,
+        "correct_answers": 19919,
+        "incorrect_answers": 1497
+      },
+      {
+        "direct_link": "/us/game/2019-05-02/3/10",
+        "question_number": 10,
+        "text": "Lie Detector",
+        "answer": [
+          "PINOCCHIO'S",
+          "NOSE"
+        ],
+        "initial_letters": [
+          "''",
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "O"
+        ],
+        "game_link": "/us/game/2019-05-02/3",
+        "eliminated": 3991,
+        "advancing": 16163,
+        "correct_answers": 16163,
+        "incorrect_answers": 3991
+      },
+      {
+        "direct_link": "/us/game/2019-05-02/3/11",
+        "question_number": 11,
+        "text": "Fairy Tale Foe",
+        "answer": [
+          "LORD",
+          "MAXIMUS",
+          "FARQUAAD"
+        ],
+        "initial_letters": [
+          " ",
+          "Q"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "S"
+        ],
+        "game_link": "/us/game/2019-05-02/3",
+        "eliminated": 6612,
+        "advancing": 10452,
+        "correct_answers": 10452,
+        "incorrect_answers": 6612
+      },
+      {
+        "direct_link": "/us/game/2019-05-02/3/12",
+        "question_number": 12,
+        "text": "Gang Green",
+        "answer": [
+          "FERGUS,",
+          "FARKLE",
+          "&",
+          "FELICIA"
+        ],
+        "initial_letters": [
+          ",",
+          " ",
+          "&",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "E"
+        ],
+        "game_link": "/us/game/2019-05-02/3",
+        "eliminated": 6302,
+        "advancing": 5900,
+        "correct_answers": 5900,
+        "incorrect_answers": 6302
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

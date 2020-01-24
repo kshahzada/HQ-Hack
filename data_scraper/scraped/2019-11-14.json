@@ -1,0 +1,1212 @@
+[
+  {
+    "id": 141315,
+    "show_id": 12727,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "10,000",
+    "currency": "$",
+    "start_time": "2019-11-15T02:00:00Z",
+    "direct_link": "/us/game/2019-11-14/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      null,
+      {
+        "id": 158794,
+        "text": "What is a regulation ice hockey puck made of?",
+        "question_number": 2,
+        "eliminated": "1,245",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "105,749",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312647,
+            "text": "Rubber",
+            "correct": true,
+            "count": "92,847",
+            "percent": "96.93%"
+          },
+          {
+            "id": 312648,
+            "text": "Steel",
+            "correct": false,
+            "count": "1,823",
+            "percent": "1.9%"
+          },
+          {
+            "id": 312649,
+            "text": "Coal",
+            "correct": false,
+            "count": "1,114",
+            "percent": "1.16%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-14/1/2",
+        "game_link": "/us/game/2019-11-14/1",
+        "correct_answers": 92847,
+        "incorrect_answers": 2937,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158796,
+        "text": "What is NOT a holding of Amazon.com, Inc.?",
+        "question_number": 3,
+        "eliminated": "7,059",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "98,747",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312650,
+            "text": "L.L. Bean",
+            "correct": true,
+            "count": "56,462",
+            "percent": "59.6%"
+          },
+          {
+            "id": 312651,
+            "text": "Whole Foods",
+            "correct": false,
+            "count": "7,591",
+            "percent": "8.01%"
+          },
+          {
+            "id": 312652,
+            "text": "Twitch.tv",
+            "correct": false,
+            "count": "30,689",
+            "percent": "32.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-14/1/3",
+        "game_link": "/us/game/2019-11-14/1",
+        "correct_answers": 56462,
+        "incorrect_answers": 38280,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158798,
+        "text": "Of these US presidents, who served an entire term?",
+        "question_number": 4,
+        "eliminated": "12,480",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "86,623",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312653,
+            "text": "Warren Harding",
+            "correct": false,
+            "count": "27,292",
+            "percent": "31.17%"
+          },
+          {
+            "id": 312654,
+            "text": "William H. Taft",
+            "correct": true,
+            "count": "41,561",
+            "percent": "47.47%"
+          },
+          {
+            "id": 312655,
+            "text": "James Garfield",
+            "correct": false,
+            "count": "18,696",
+            "percent": "21.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-14/1/4",
+        "game_link": "/us/game/2019-11-14/1",
+        "correct_answers": 41561,
+        "incorrect_answers": 45988,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158800,
+        "text": "âHava Nagilaâ is a Hebrew folk song about what?",
+        "question_number": 5,
+        "eliminated": "6,833",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "80,922",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312656,
+            "text": "Romance",
+            "correct": false,
+            "count": "4,890",
+            "percent": "6.03%"
+          },
+          {
+            "id": 312657,
+            "text": "Atonement",
+            "correct": false,
+            "count": "9,784",
+            "percent": "12.06%"
+          },
+          {
+            "id": 312658,
+            "text": "Celebration",
+            "correct": true,
+            "count": "66,480",
+            "percent": "81.92%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-14/1/5",
+        "game_link": "/us/game/2019-11-14/1",
+        "correct_answers": 66480,
+        "incorrect_answers": 14674,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158802,
+        "text": "What island holds most of the population of The Bahamas?",
+        "question_number": 6,
+        "eliminated": "27,684",
+        "category": "",
+        "category_slug": "",
+        "advancing": "53,813",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312659,
+            "text": "Great Inagua",
+            "correct": false,
+            "count": "8,163",
+            "percent": "10.69%"
+          },
+          {
+            "id": 312660,
+            "text": "New Providence",
+            "correct": true,
+            "count": "34,293",
+            "percent": "44.92%"
+          },
+          {
+            "id": 312661,
+            "text": "Grand Bahama",
+            "correct": false,
+            "count": "33,888",
+            "percent": "44.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-14/1/6",
+        "game_link": "/us/game/2019-11-14/1",
+        "correct_answers": 34293,
+        "incorrect_answers": 42051,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158804,
+        "text": "When a sailor faces portside, what is on their left?",
+        "question_number": 7,
+        "eliminated": "21,520",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "37,558",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312662,
+            "text": "Bow",
+            "correct": false,
+            "count": "9,772",
+            "percent": "17.77%"
+          },
+          {
+            "id": 312663,
+            "text": "Starboard",
+            "correct": false,
+            "count": "16,985",
+            "percent": "30.89%"
+          },
+          {
+            "id": 312664,
+            "text": "Stern",
+            "correct": true,
+            "count": "28,228",
+            "percent": "51.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-14/1/7",
+        "game_link": "/us/game/2019-11-14/1",
+        "correct_answers": 28228,
+        "incorrect_answers": 26757,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158806,
+        "text": "This film was adapted from a book by whom?",
+        "question_number": 8,
+        "eliminated": "7,919",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "35,496",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312665,
+            "text": "EM Forster",
+            "correct": false,
+            "count": "4,875",
+            "percent": "11.48%"
+          },
+          {
+            "id": 312666,
+            "text": "Henry James",
+            "correct": false,
+            "count": "6,682",
+            "percent": "15.73%"
+          },
+          {
+            "id": 312667,
+            "text": "Edith Wharton",
+            "correct": true,
+            "count": "30,923",
+            "percent": "72.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-14/1/8",
+        "game_link": "/us/game/2019-11-14/1",
+        "correct_answers": 30923,
+        "incorrect_answers": 11557,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158808,
+        "text": "According to Elon Musk, what does the design of the letter âXâ represent on the SpaceX logo?",
+        "question_number": 9,
+        "eliminated": "19,751",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "18,284",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312668,
+            "text": "A rocket's path",
+            "correct": true,
+            "count": "9,022",
+            "percent": "28.23%"
+          },
+          {
+            "id": 312669,
+            "text": "A tunnel cross-section",
+            "correct": false,
+            "count": "14,827",
+            "percent": "46.39%"
+          },
+          {
+            "id": 312670,
+            "text": "An electric motor",
+            "correct": false,
+            "count": "8,112",
+            "percent": "25.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-14/1/9",
+        "game_link": "/us/game/2019-11-14/1",
+        "correct_answers": 9022,
+        "incorrect_answers": 22939,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158810,
+        "text": "What chemical elementâs name is NOT derived from another element?",
+        "question_number": 10,
+        "eliminated": "13,250",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "12,959",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312671,
+            "text": "Palladium",
+            "correct": true,
+            "count": "4,730",
+            "percent": "18.74%"
+          },
+          {
+            "id": 312672,
+            "text": "Molybdenum",
+            "correct": false,
+            "count": "5,560",
+            "percent": "22.03%"
+          },
+          {
+            "id": 312673,
+            "text": "Zirconium",
+            "correct": false,
+            "count": "14,954",
+            "percent": "59.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-14/1/10",
+        "game_link": "/us/game/2019-11-14/1",
+        "correct_answers": 4730,
+        "incorrect_answers": 20514,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 10,
+          "players_left": 16418,
+          "players_left_formatted": "16,418",
+          "num_winners": 1946,
+          "num_winners_formatted": "1,946",
+          "prize": 0.11,
+          "prize_formatted": "$0.11",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 158812,
+        "text": "Benedict Cumberbatch was Oscar-nominated for playing a scientist immortalized in what acronym?",
+        "question_number": 11,
+        "eliminated": "9,681",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "7,686",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312674,
+            "text": "COBOL",
+            "correct": false,
+            "count": "2,885",
+            "percent": "18.53%"
+          },
+          {
+            "id": 312675,
+            "text": "CAPTCHA",
+            "correct": true,
+            "count": "7,686",
+            "percent": "49.37%"
+          },
+          {
+            "id": 312676,
+            "text": "LASER",
+            "correct": false,
+            "count": "4,996",
+            "percent": "32.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-14/1/11",
+        "game_link": "/us/game/2019-11-14/1",
+        "correct_answers": 7686,
+        "incorrect_answers": 7881,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158814,
+        "text": "Bock lagers often feature which of these designs on their labels?",
+        "question_number": 12,
+        "eliminated": "5,324",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "7,091",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312677,
+            "text": "Animal",
+            "correct": true,
+            "count": "7,091",
+            "percent": "58.29%"
+          },
+          {
+            "id": 312678,
+            "text": "Machine",
+            "correct": false,
+            "count": "1,519",
+            "percent": "12.49%"
+          },
+          {
+            "id": 312679,
+            "text": "Mountain",
+            "correct": false,
+            "count": "3,555",
+            "percent": "29.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-14/1/12",
+        "game_link": "/us/game/2019-11-14/1",
+        "correct_answers": 7091,
+        "incorrect_answers": 5074,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158816,
+        "text": "Whose most famous book was sometimes published without a crucial passage, leading to bad reviews?",
+        "question_number": 13,
+        "eliminated": "7,803",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "2,773",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312680,
+            "text": "Edgar Allan Poe",
+            "correct": false,
+            "count": "1,888",
+            "percent": "18.58%"
+          },
+          {
+            "id": 312681,
+            "text": "Herman Melville",
+            "correct": true,
+            "count": "2,773",
+            "percent": "27.29%"
+          },
+          {
+            "id": 312682,
+            "text": "Charles Dickens",
+            "correct": false,
+            "count": "5,499",
+            "percent": "54.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-14/1/13",
+        "game_link": "/us/game/2019-11-14/1",
+        "correct_answers": 2773,
+        "incorrect_answers": 7387,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158818,
+        "text": "The actor with the shortest performance to win an acting Oscar later appeared in what horror film?",
+        "question_number": 14,
+        "eliminated": "5,822",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,436",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312683,
+            "text": "Exorcist II",
+            "correct": false,
+            "count": "2,110",
+            "percent": "26.58%"
+          },
+          {
+            "id": 312684,
+            "text": "Ghost Story",
+            "correct": false,
+            "count": "3,392",
+            "percent": "42.73%"
+          },
+          {
+            "id": 312685,
+            "text": "Poltergeist",
+            "correct": true,
+            "count": "2,436",
+            "percent": "30.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-14/1/14",
+        "game_link": "/us/game/2019-11-14/1",
+        "correct_answers": 2436,
+        "incorrect_answers": 5502,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158820,
+        "text": "Which late night host has NOT appeared as a guest on âBetween Two Fernsâ?",
+        "question_number": 15,
+        "eliminated": "4,759",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "1,678",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312686,
+            "text": "Conan O'Brien",
+            "correct": false,
+            "count": "3,294",
+            "percent": "52.18%"
+          },
+          {
+            "id": 312687,
+            "text": "Jimmy Kimmel",
+            "correct": false,
+            "count": "1,341",
+            "percent": "21.24%"
+          },
+          {
+            "id": 312688,
+            "text": "Jimmy Fallon",
+            "correct": true,
+            "count": "1,678",
+            "percent": "26.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-14/1/15",
+        "game_link": "/us/game/2019-11-14/1",
+        "correct_answers": 1678,
+        "incorrect_answers": 4635,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 15,
+          "players_left": 516,
+          "players_left_formatted": "516",
+          "num_winners": 1162,
+          "num_winners_formatted": "1,162",
+          "prize": 0.6,
+          "prize_formatted": "$0.60",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 158822,
+        "text": "Which of these game birds is typically the heaviest?",
+        "question_number": 16,
+        "eliminated": "527",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "151",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312689,
+            "text": "Golden Pheasant",
+            "correct": false,
+            "count": "262",
+            "percent": "51.07%"
+          },
+          {
+            "id": 312690,
+            "text": "Wood Grouse",
+            "correct": true,
+            "count": "151",
+            "percent": "29.43%"
+          },
+          {
+            "id": 312691,
+            "text": "California Quail",
+            "correct": false,
+            "count": "100",
+            "percent": "19.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-14/1/16",
+        "game_link": "/us/game/2019-11-14/1",
+        "correct_answers": 151,
+        "incorrect_answers": 362,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158824,
+        "text": "The highest number of female recipients of a Nobel Prize has come in which category?",
+        "question_number": 17,
+        "eliminated": "119",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "32",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312692,
+            "text": "Literature",
+            "correct": false,
+            "count": "40",
+            "percent": "26.67%"
+          },
+          {
+            "id": 312693,
+            "text": "Chemistry",
+            "correct": false,
+            "count": "78",
+            "percent": "52.0%"
+          },
+          {
+            "id": 312694,
+            "text": "Peace",
+            "correct": true,
+            "count": "32",
+            "percent": "21.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-14/1/17",
+        "game_link": "/us/game/2019-11-14/1",
+        "correct_answers": 32,
+        "incorrect_answers": 118,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158826,
+        "text": "In US Army slang, who or what is âshake & bakeâ?",
+        "question_number": 18,
+        "eliminated": "11",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "21",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312695,
+            "text": "Inexperienced sergeant",
+            "correct": true,
+            "count": "21",
+            "percent": "67.74%"
+          },
+          {
+            "id": 312696,
+            "text": "Barbed wire",
+            "correct": false,
+            "count": "2",
+            "percent": "6.45%"
+          },
+          {
+            "id": 312697,
+            "text": "Inaccurate news",
+            "correct": false,
+            "count": "8",
+            "percent": "25.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-14/1/18",
+        "game_link": "/us/game/2019-11-14/1",
+        "correct_answers": 21,
+        "incorrect_answers": 10,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158828,
+        "text": "The first US president to talk on the telephone and the first to talk on radio shared what distinction?",
+        "question_number": 19,
+        "eliminated": "9",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "12",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312698,
+            "text": "Both Democrats",
+            "correct": false,
+            "count": "2",
+            "percent": "9.52%"
+          },
+          {
+            "id": 312699,
+            "text": "Both former senators",
+            "correct": false,
+            "count": "7",
+            "percent": "33.33%"
+          },
+          {
+            "id": 312700,
+            "text": "Both from Ohio",
+            "correct": true,
+            "count": "12",
+            "percent": "57.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-14/1/19",
+        "game_link": "/us/game/2019-11-14/1",
+        "correct_answers": 12,
+        "incorrect_answers": 9,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158830,
+        "text": "Which of these words does NOT derive from Japanese?",
+        "question_number": 20,
+        "eliminated": "1",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "11",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312701,
+            "text": "Kahuna",
+            "correct": true,
+            "count": "11",
+            "percent": "91.67%"
+          },
+          {
+            "id": 312702,
+            "text": "Honcho",
+            "correct": false,
+            "count": "1",
+            "percent": "8.33%"
+          },
+          {
+            "id": 312703,
+            "text": "Tycoon",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-14/1/20",
+        "game_link": "/us/game/2019-11-14/1",
+        "correct_answers": 11,
+        "incorrect_answers": 1,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158832,
+        "text": "The Apollo 11 moon landing logo appeared on the back of a dollar coin depicting what American?",
+        "question_number": 21,
+        "eliminated": "4",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "7",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312704,
+            "text": "Dwight D. Eisenhower",
+            "correct": true,
+            "count": "7",
+            "percent": "63.64%"
+          },
+          {
+            "id": 312705,
+            "text": "John F. Kennedy",
+            "correct": false,
+            "count": "3",
+            "percent": "27.27%"
+          },
+          {
+            "id": 312706,
+            "text": "Susan B. Anthony",
+            "correct": false,
+            "count": "1",
+            "percent": "9.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-14/1/21",
+        "game_link": "/us/game/2019-11-14/1",
+        "correct_answers": 7,
+        "incorrect_answers": 4,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 21,
+          "players_left": 0,
+          "players_left_formatted": "0",
+          "num_winners": 7,
+          "num_winners_formatted": "7",
+          "prize": 357.15,
+          "prize_formatted": "$357.15",
+          "currency": "$"
+        },
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [
+      {
+        "round_number": 10,
+        "players_left": 16418,
+        "players_left_formatted": "16,418",
+        "num_winners": 1946,
+        "num_winners_formatted": "1,946",
+        "prize": 0.11,
+        "prize_formatted": "$0.11",
+        "currency": "$"
+      },
+      {
+        "round_number": 15,
+        "players_left": 516,
+        "players_left_formatted": "516",
+        "num_winners": 1162,
+        "num_winners_formatted": "1,162",
+        "prize": 0.6,
+        "prize_formatted": "$0.60",
+        "currency": "$"
+      },
+      {
+        "round_number": 21,
+        "players_left": 0,
+        "players_left_formatted": "0",
+        "num_winners": 7,
+        "num_winners_formatted": "7",
+        "prize": 357.15,
+        "prize_formatted": "$357.15",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "3,411.31",
+    "total_checkpoint_winners": "3,115",
+    "smallest_checkpoint_prize": "$0.11",
+    "largest_checkpoint_prize": "$357.15",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 141339,
+    "show_id": 12955,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-11-15T02:30:00Z",
+    "direct_link": "/us/game/2019-11-14/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "3,809",
+      "currency": "$",
+      "average_prize": "0.26"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-11-14/2/1",
+        "question_number": 1,
+        "text": "Eternal Childhood Cooking Style",
+        "answer": [
+          "PETER",
+          "PAN",
+          "FRY"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"P\""
+        ],
+        "to_reveal_letters": [
+          "T",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-11-14/2",
+        "eliminated": 8857,
+        "advancing": 33532,
+        "correct_answers": 33532,
+        "incorrect_answers": 8857
+      },
+      {
+        "direct_link": "/us/game/2019-11-14/2/2",
+        "question_number": 2,
+        "text": "Biblical Rock Star",
+        "answer": [
+          "KING",
+          "DAVID",
+          "BOWIE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"K\""
+        ],
+        "to_reveal_letters": [
+          "I",
+          "O"
+        ],
+        "game_link": "/us/game/2019-11-14/2",
+        "eliminated": 20684,
+        "advancing": 13574,
+        "correct_answers": 13574,
+        "incorrect_answers": 20684
+      },
+      {
+        "direct_link": "/us/game/2019-11-14/2/3",
+        "question_number": 3,
+        "text": "Musical Peninsula",
+        "answer": [
+          "FRENCH",
+          "HORN",
+          "OF",
+          "AFRICA"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "F",
+          "R"
+        ],
+        "game_link": "/us/game/2019-11-14/2",
+        "eliminated": 1844,
+        "advancing": 13747,
+        "correct_answers": 13747,
+        "incorrect_answers": 1844
+      },
+      {
+        "direct_link": "/us/game/2019-11-14/2/4",
+        "question_number": 4,
+        "text": "Movie Equipment?",
+        "answer": [
+          "BOX",
+          "OFFICE",
+          "SUPPLIES"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"E\""
+        ],
+        "to_reveal_letters": [
+          "C",
+          "P"
+        ],
+        "game_link": "/us/game/2019-11-14/2",
+        "eliminated": 4695,
+        "advancing": 9199,
+        "correct_answers": 9199,
+        "incorrect_answers": 4695
+      },
+      {
+        "direct_link": "/us/game/2019-11-14/2/5",
+        "question_number": 5,
+        "text": "R&B Baseball",
+        "answer": [
+          "WHITNEY",
+          "HOUSTON",
+          "ASTROS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"O\""
+        ],
+        "to_reveal_letters": [
+          "R",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-11-14/2",
+        "eliminated": 1996,
+        "advancing": 7768,
+        "correct_answers": 7768,
+        "incorrect_answers": 1996
+      },
+      {
+        "direct_link": "/us/game/2019-11-14/2/6",
+        "question_number": 6,
+        "text": "The Pope Goes Hollywood",
+        "answer": [
+          "VATICAN",
+          "CITY",
+          "OF",
+          "ANGELS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"Y\""
+        ],
+        "to_reveal_letters": [
+          "C",
+          "T"
+        ],
+        "game_link": "/us/game/2019-11-14/2",
+        "eliminated": 1089,
+        "advancing": 7002,
+        "correct_answers": 7002,
+        "incorrect_answers": 1089
+      },
+      {
+        "direct_link": "/us/game/2019-11-14/2/7",
+        "question_number": 7,
+        "text": "Chemical Etiquette",
+        "answer": [
+          "PERIODIC",
+          "TABLE",
+          "MANNERS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"A\""
+        ],
+        "to_reveal_letters": [
+          "B",
+          "S"
+        ],
+        "game_link": "/us/game/2019-11-14/2",
+        "eliminated": 1529,
+        "advancing": 5680,
+        "correct_answers": 5680,
+        "incorrect_answers": 1529
+      },
+      {
+        "direct_link": "/us/game/2019-11-14/2/8",
+        "question_number": 8,
+        "text": "Unrefined Snack?",
+        "answer": [
+          "PETROLEUM",
+          "JELLY",
+          "BEANS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"L\""
+        ],
+        "to_reveal_letters": [
+          "B",
+          "N"
+        ],
+        "game_link": "/us/game/2019-11-14/2",
+        "eliminated": 1189,
+        "advancing": 4914,
+        "correct_answers": 4914,
+        "incorrect_answers": 1189
+      },
+      {
+        "direct_link": "/us/game/2019-11-14/2/9",
+        "question_number": 9,
+        "text": "Antiquated Trivia Lifeline",
+        "answer": [
+          "ROTARY",
+          "PHONE",
+          "A",
+          "FRIEND"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"P\""
+        ],
+        "to_reveal_letters": [
+          "D",
+          "N"
+        ],
+        "game_link": "/us/game/2019-11-14/2",
+        "eliminated": 171,
+        "advancing": 5089,
+        "correct_answers": 5089,
+        "incorrect_answers": 171
+      },
+      {
+        "direct_link": "/us/game/2019-11-14/2/10",
+        "question_number": 10,
+        "text": "Nicely Dressed Executives",
+        "answer": [
+          "IRONING",
+          "BOARD",
+          "OF",
+          "DIRECTORS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"C\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "D"
+        ],
+        "game_link": "/us/game/2019-11-14/2",
+        "eliminated": 333,
+        "advancing": 4815,
+        "correct_answers": 4815,
+        "incorrect_answers": 333
+      },
+      {
+        "direct_link": "/us/game/2019-11-14/2/11",
+        "question_number": 11,
+        "text": "Hamilton Wears Prada",
+        "answer": [
+          "LIN-MANUEL",
+          "MIRANDA",
+          "PRIESTLY"
+        ],
+        "initial_letters": [
+          "\"-\"",
+          "\" \"",
+          "\"D\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "S"
+        ],
+        "game_link": "/us/game/2019-11-14/2",
+        "eliminated": 1677,
+        "advancing": 3260,
+        "correct_answers": 3260,
+        "incorrect_answers": 1677
+      },
+      {
+        "direct_link": "/us/game/2019-11-14/2/12",
+        "question_number": 12,
+        "text": "This Specific Time of Year",
+        "answer": [
+          "BASEBALL",
+          "OFF-SEASON",
+          "FINALE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"-\"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "B",
+          "L"
+        ],
+        "game_link": "/us/game/2019-11-14/2",
+        "eliminated": 135,
+        "advancing": 3809,
+        "correct_answers": 3809,
+        "incorrect_answers": 135
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": null
+  }
+]

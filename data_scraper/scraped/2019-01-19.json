@@ -1,0 +1,805 @@
+[
+  {
+    "id": 45237,
+    "show_id": 9280,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-01-20T02:00:00Z",
+    "direct_link": "/us/game/2019-01-19/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "4,608",
+      "currency": "$",
+      "average_prize": "1.09"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 42982,
+        "text": "What is a name for the raised skin that occurs when someone is cold or excited?",
+        "question_number": 1,
+        "eliminated": "4,408",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "288,835",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128839,
+            "text": "Frog toes",
+            "correct": false,
+            "count": "1,677",
+            "percent": "0.57%"
+          },
+          {
+            "id": 128841,
+            "text": "Duck lips",
+            "correct": false,
+            "count": "2,731",
+            "percent": "0.93%"
+          },
+          {
+            "id": 128843,
+            "text": "Goose bumps",
+            "correct": true,
+            "count": "288,835",
+            "percent": "98.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-19/1/1",
+        "game_link": "/us/game/2019-01-19/1",
+        "correct_answers": 288835,
+        "incorrect_answers": 4408,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42989,
+        "text": "Which of these terms describes a maker of hats?",
+        "question_number": 2,
+        "eliminated": "15,448",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "275,519",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128860,
+            "text": "Milliner",
+            "correct": true,
+            "count": "275,519",
+            "percent": "96.45%"
+          },
+          {
+            "id": 128864,
+            "text": "Millionaire",
+            "correct": false,
+            "count": "4,509",
+            "percent": "1.58%"
+          },
+          {
+            "id": 128868,
+            "text": "Millie Bobby Brown",
+            "correct": false,
+            "count": "5,635",
+            "percent": "1.97%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-19/1/2",
+        "game_link": "/us/game/2019-01-19/1",
+        "correct_answers": 275519,
+        "incorrect_answers": 10144,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42996,
+        "text": "Which social media appâs mascot is a ghost?",
+        "question_number": 3,
+        "eliminated": "27,493",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "249,041",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128883,
+            "text": "Instagram",
+            "correct": false,
+            "count": "10,285",
+            "percent": "3.77%"
+          },
+          {
+            "id": 128884,
+            "text": "WhatsApp",
+            "correct": false,
+            "count": "13,746",
+            "percent": "5.03%"
+          },
+          {
+            "id": 128885,
+            "text": "Snapchat",
+            "correct": true,
+            "count": "249,041",
+            "percent": "91.2%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-19/1/3",
+        "game_link": "/us/game/2019-01-19/1",
+        "correct_answers": 249041,
+        "incorrect_answers": 24031,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43005,
+        "text": "What was Charlemagne the Emperorâs given name?",
+        "question_number": 4,
+        "eliminated": "113,705",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "137,274",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128910,
+            "text": "Charles",
+            "correct": true,
+            "count": "137,274",
+            "percent": "55.98%"
+          },
+          {
+            "id": 128912,
+            "text": "Chadwick",
+            "correct": false,
+            "count": "51,031",
+            "percent": "20.81%"
+          },
+          {
+            "id": 128914,
+            "text": "Charbonneau",
+            "correct": false,
+            "count": "56,924",
+            "percent": "23.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-19/1/4",
+        "game_link": "/us/game/2019-01-19/1",
+        "correct_answers": 137274,
+        "incorrect_answers": 107955,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43013,
+        "text": "Ouroboros is the name of what ancient symbol?",
+        "question_number": 5,
+        "eliminated": "53,452",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "92,485",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128932,
+            "text": "Golden rectangle",
+            "correct": false,
+            "count": "16,196",
+            "percent": "11.37%"
+          },
+          {
+            "id": 128933,
+            "text": "Snake eating own tail",
+            "correct": true,
+            "count": "92,485",
+            "percent": "64.95%"
+          },
+          {
+            "id": 128935,
+            "text": "Obelisk",
+            "correct": false,
+            "count": "33,713",
+            "percent": "23.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-19/1/5",
+        "game_link": "/us/game/2019-01-19/1",
+        "correct_answers": 92485,
+        "incorrect_answers": 49909,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43020,
+        "text": "Which cast member from âParty of Fiveâ also released a pop single?",
+        "question_number": 6,
+        "eliminated": "29,537",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "66,935",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128955,
+            "text": "Neve Campbell",
+            "correct": false,
+            "count": "11,066",
+            "percent": "11.82%"
+          },
+          {
+            "id": 128957,
+            "text": "Scott Wolf",
+            "correct": false,
+            "count": "15,634",
+            "percent": "16.7%"
+          },
+          {
+            "id": 128959,
+            "text": "Jennifer Love Hewitt",
+            "correct": true,
+            "count": "66,935",
+            "percent": "71.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-19/1/6",
+        "game_link": "/us/game/2019-01-19/1",
+        "correct_answers": 66935,
+        "incorrect_answers": 26700,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43028,
+        "text": "What is the name of Harvardâs student newspaper?",
+        "question_number": 7,
+        "eliminated": "22,045",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "49,546",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128979,
+            "text": "The Crimson",
+            "correct": true,
+            "count": "49,546",
+            "percent": "69.77%"
+          },
+          {
+            "id": 128980,
+            "text": "The Lantern",
+            "correct": false,
+            "count": "11,651",
+            "percent": "16.41%"
+          },
+          {
+            "id": 128981,
+            "text": "The Spectator",
+            "correct": false,
+            "count": "9,821",
+            "percent": "13.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-19/1/7",
+        "game_link": "/us/game/2019-01-19/1",
+        "correct_answers": 49546,
+        "incorrect_answers": 21472,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43039,
+        "text": "The NBA basketball player nicknamed âThe Mailmanâ played for what team?",
+        "question_number": 8,
+        "eliminated": "14,139",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "38,069",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129007,
+            "text": "New York Knicks",
+            "correct": false,
+            "count": "7,739",
+            "percent": "15.08%"
+          },
+          {
+            "id": 129012,
+            "text": "Utah Jazz",
+            "correct": true,
+            "count": "38,069",
+            "percent": "74.19%"
+          },
+          {
+            "id": 129017,
+            "text": "Houston Rockets",
+            "correct": false,
+            "count": "5,505",
+            "percent": "10.73%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-19/1/8",
+        "game_link": "/us/game/2019-01-19/1",
+        "correct_answers": 38069,
+        "incorrect_answers": 13244,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43045,
+        "text": "In mathematics, the â37 percent ruleâ is also known by what name?",
+        "question_number": 9,
+        "eliminated": "21,500",
+        "category": "Math",
+        "category_slug": "math",
+        "advancing": "18,580",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129030,
+            "text": "Waiting room theory",
+            "correct": false,
+            "count": "10,501",
+            "percent": "27.37%"
+          },
+          {
+            "id": 129031,
+            "text": "Interruption logic",
+            "correct": false,
+            "count": "9,292",
+            "percent": "24.21%"
+          },
+          {
+            "id": 129032,
+            "text": "Secretary problem",
+            "correct": true,
+            "count": "18,580",
+            "percent": "48.42%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-19/1/9",
+        "game_link": "/us/game/2019-01-19/1",
+        "correct_answers": 18580,
+        "incorrect_answers": 19793,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43054,
+        "text": "âCultivate your own gardenâ is the life philosophy made famous by what literary mind?",
+        "question_number": 10,
+        "eliminated": "4,097",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "19,061",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129052,
+            "text": "Voltaire",
+            "correct": true,
+            "count": "19,061",
+            "percent": "83.8%"
+          },
+          {
+            "id": 129056,
+            "text": "Sophocles",
+            "correct": false,
+            "count": "2,903",
+            "percent": "12.76%"
+          },
+          {
+            "id": 129061,
+            "text": "Shakespeare",
+            "correct": false,
+            "count": "782",
+            "percent": "3.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-19/1/10",
+        "game_link": "/us/game/2019-01-19/1",
+        "correct_answers": 19061,
+        "incorrect_answers": 3685,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43060,
+        "text": "In Shania Twainâs âMan! I Feel Like A Womanâ lyrics, what does NOT get mentioned?",
+        "question_number": 11,
+        "eliminated": "4,597",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "15,090",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129075,
+            "text": "Cute flirts",
+            "correct": true,
+            "count": "15,090",
+            "percent": "78.97%"
+          },
+          {
+            "id": 129080,
+            "text": "Menâs shirts",
+            "correct": false,
+            "count": "1,186",
+            "percent": "6.21%"
+          },
+          {
+            "id": 129084,
+            "text": "Short skirts",
+            "correct": false,
+            "count": "2,833",
+            "percent": "14.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-19/1/11",
+        "game_link": "/us/game/2019-01-19/1",
+        "correct_answers": 15090,
+        "incorrect_answers": 4019,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43070,
+        "text": "Which classic âStar Warsâ line is recreated in âSolo: A Star Wars Storyâ?",
+        "question_number": 12,
+        "eliminated": "11,399",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "4,608",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129102,
+            "text": "Chewie, weâre home.",
+            "correct": false,
+            "count": "3,290",
+            "percent": "21.05%"
+          },
+          {
+            "id": 129107,
+            "text": "I know.",
+            "correct": true,
+            "count": "4,608",
+            "percent": "29.48%"
+          },
+          {
+            "id": 129112,
+            "text": "Do or do not.",
+            "correct": false,
+            "count": "7,735",
+            "percent": "49.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-19/1/12",
+        "game_link": "/us/game/2019-01-19/1",
+        "correct_answers": 4608,
+        "incorrect_answers": 11025,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 45357,
+    "show_id": 9341,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-01-20T02:30:00Z",
+    "direct_link": "/us/game/2019-01-19/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "65.62"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "66.03"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "68.47"
+        },
+        {
+          "number": "5,778",
+          "amount": "0.13",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.13405985123681025,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-01-19/2/1",
+        "question_number": 1,
+        "text": "Graffiti Tool",
+        "answer": [
+          "SPRAY",
+          "PAINT"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-01-19/2",
+        "eliminated": 14715,
+        "advancing": 169496,
+        "correct_answers": 169496,
+        "incorrect_answers": 14715
+      },
+      {
+        "direct_link": "/us/game/2019-01-19/2/2",
+        "question_number": 2,
+        "text": "Young Pet",
+        "answer": [
+          "PUPPY"
+        ],
+        "initial_letters": [
+          "Y"
+        ],
+        "to_reveal_letters": [
+          "P",
+          "U"
+        ],
+        "game_link": "/us/game/2019-01-19/2",
+        "eliminated": 6377,
+        "advancing": 163847,
+        "correct_answers": 163847,
+        "incorrect_answers": 6377
+      },
+      {
+        "direct_link": "/us/game/2019-01-19/2/3",
+        "question_number": 3,
+        "text": "On Your Weather App",
+        "answer": [
+          "FORECAST"
+        ],
+        "initial_letters": [
+          "F"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "S"
+        ],
+        "game_link": "/us/game/2019-01-19/2",
+        "eliminated": 30306,
+        "advancing": 132092,
+        "correct_answers": 132092,
+        "incorrect_answers": 30306
+      },
+      {
+        "direct_link": "/us/game/2019-01-19/2/4",
+        "question_number": 4,
+        "text": "Workout",
+        "answer": [
+          "SPIN",
+          "CLASS"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "L"
+        ],
+        "game_link": "/us/game/2019-01-19/2",
+        "eliminated": 42835,
+        "advancing": 90756,
+        "correct_answers": 90756,
+        "incorrect_answers": 42835
+      },
+      {
+        "direct_link": "/us/game/2019-01-19/2/5",
+        "question_number": 5,
+        "text": "On the Bookshelf",
+        "answer": [
+          "ENCYCLOPEDIA"
+        ],
+        "initial_letters": [
+          "I"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "P"
+        ],
+        "game_link": "/us/game/2019-01-19/2",
+        "eliminated": 25451,
+        "advancing": 67907,
+        "correct_answers": 67907,
+        "incorrect_answers": 25451
+      },
+      {
+        "direct_link": "/us/game/2019-01-19/2/6",
+        "question_number": 6,
+        "text": "Night Job",
+        "answer": [
+          "COCKTAIL",
+          "WAITRESS"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "W"
+        ],
+        "game_link": "/us/game/2019-01-19/2",
+        "eliminated": 18778,
+        "advancing": 51011,
+        "correct_answers": 51011,
+        "incorrect_answers": 18778
+      },
+      {
+        "direct_link": "/us/game/2019-01-19/2/7",
+        "question_number": 7,
+        "text": "Small Talk",
+        "answer": [
+          "SO,",
+          "WHAT",
+          "DO",
+          "YOU",
+          "DO?"
+        ],
+        "initial_letters": [
+          ",",
+          " ",
+          "?",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "S"
+        ],
+        "game_link": "/us/game/2019-01-19/2",
+        "eliminated": 8618,
+        "advancing": 44237,
+        "correct_answers": 44237,
+        "incorrect_answers": 8618
+      },
+      {
+        "direct_link": "/us/game/2019-01-19/2/8",
+        "question_number": 8,
+        "text": "In the Fruit Basket",
+        "answer": [
+          "BUNCH",
+          "OF",
+          "BANANAS"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "U"
+        ],
+        "game_link": "/us/game/2019-01-19/2",
+        "eliminated": 5446,
+        "advancing": 39752,
+        "correct_answers": 39752,
+        "incorrect_answers": 5446
+      },
+      {
+        "direct_link": "/us/game/2019-01-19/2/9",
+        "question_number": 9,
+        "text": "Why Are We Cursed?",
+        "answer": [
+          "WISHED",
+          "ON",
+          "A",
+          "MONKEYâS",
+          "PAW"
+        ],
+        "initial_letters": [
+          " ",
+          "â",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-01-19/2",
+        "eliminated": 35233,
+        "advancing": 5431,
+        "correct_answers": 5431,
+        "incorrect_answers": 35233
+      },
+      {
+        "direct_link": "/us/game/2019-01-19/2/10",
+        "question_number": 10,
+        "text": "Winter Worry",
+        "answer": [
+          "COMMON",
+          "COLD",
+          "SYMPTOMS"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "T"
+        ],
+        "game_link": "/us/game/2019-01-19/2",
+        "eliminated": 6441,
+        "advancing": 5781,
+        "correct_answers": 5781,
+        "incorrect_answers": 6441
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

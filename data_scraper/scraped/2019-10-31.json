@@ -1,0 +1,1255 @@
+[
+  {
+    "id": 139306,
+    "show_id": 12820,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "25,000",
+    "currency": "$",
+    "start_time": "2019-11-01T01:00:00Z",
+    "direct_link": "/us/game/2019-10-31/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 156401,
+        "text": "Where did the Boston Red Sox get their name?",
+        "question_number": 1,
+        "eliminated": "-9,891",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "112,319",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309074,
+            "text": "Boston, Alabama",
+            "correct": false,
+            "count": "14,479",
+            "percent": "15.04%"
+          },
+          {
+            "id": 309076,
+            "text": "Tribute to Ben Affleck",
+            "correct": false,
+            "count": "1,174",
+            "percent": "1.22%"
+          },
+          {
+            "id": 309078,
+            "text": "Color of their stockings",
+            "correct": true,
+            "count": "80,638",
+            "percent": "83.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/1",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 80638,
+        "incorrect_answers": 15653,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156409,
+        "text": "What would you correctly call more than one E. coli cell?",
+        "question_number": 2,
+        "eliminated": "3,091",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "109,348",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309086,
+            "text": "Bacterium",
+            "correct": false,
+            "count": "33,338",
+            "percent": "34.52%"
+          },
+          {
+            "id": 309087,
+            "text": "Bacterias",
+            "correct": false,
+            "count": "2,379",
+            "percent": "2.46%"
+          },
+          {
+            "id": 309088,
+            "text": "Bacteria",
+            "correct": true,
+            "count": "60,872",
+            "percent": "63.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/2",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 60872,
+        "incorrect_answers": 35717,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156417,
+        "text": "Which of these is technically a crystal?",
+        "question_number": 3,
+        "eliminated": "3,173",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "106,326",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309099,
+            "text": "Lead crystal",
+            "correct": false,
+            "count": "5,504",
+            "percent": "5.76%"
+          },
+          {
+            "id": 309100,
+            "text": "Crystal glass",
+            "correct": false,
+            "count": "5,546",
+            "percent": "5.8%"
+          },
+          {
+            "id": 309102,
+            "text": "Table salt",
+            "correct": true,
+            "count": "84,537",
+            "percent": "88.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/3",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 84537,
+        "incorrect_answers": 11050,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156427,
+        "text": "A zonkey has what animals as parents?",
+        "question_number": 4,
+        "eliminated": "7,382",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "99,068",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309113,
+            "text": "None - it doesnât exist",
+            "correct": false,
+            "count": "19,108",
+            "percent": "20.3%"
+          },
+          {
+            "id": 309115,
+            "text": "Two zonkeys",
+            "correct": false,
+            "count": "1,183",
+            "percent": "1.26%"
+          },
+          {
+            "id": 309118,
+            "text": "Zebra / donkey",
+            "correct": true,
+            "count": "73,846",
+            "percent": "78.45%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/4",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 73846,
+        "incorrect_answers": 20291,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156435,
+        "text": "Which famous figure was NOT given their double name at birth?",
+        "question_number": 5,
+        "eliminated": "17,610",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "81,747",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309125,
+            "text": "SofÃ­a Vergara Vergara",
+            "correct": false,
+            "count": "21,707",
+            "percent": "26.39%"
+          },
+          {
+            "id": 309129,
+            "text": "Lauren Bush Lauren",
+            "correct": true,
+            "count": "41,789",
+            "percent": "50.8%"
+          },
+          {
+            "id": 309133,
+            "text": "William Carlos Williams",
+            "correct": false,
+            "count": "18,766",
+            "percent": "22.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/5",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 41789,
+        "incorrect_answers": 40473,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156445,
+        "text": "Which is the most recent âFriday the 13thâ movie?",
+        "question_number": 6,
+        "eliminated": "29,053",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "55,977",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309140,
+            "text": "Freddy vs. Jason",
+            "correct": false,
+            "count": "19,357",
+            "percent": "24.68%"
+          },
+          {
+            "id": 309142,
+            "text": "Friday the 13th",
+            "correct": true,
+            "count": "32,281",
+            "percent": "41.16%"
+          },
+          {
+            "id": 309145,
+            "text": "The Final Chapter",
+            "correct": false,
+            "count": "26,798",
+            "percent": "34.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/6",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 32281,
+        "incorrect_answers": 46155,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156455,
+        "text": "Where in the adult human body can you typically find the most bones?",
+        "question_number": 7,
+        "eliminated": "21,298",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "38,454",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309155,
+            "text": "Both hands",
+            "correct": true,
+            "count": "30,563",
+            "percent": "54.01%"
+          },
+          {
+            "id": 309157,
+            "text": "Both feet",
+            "correct": false,
+            "count": "22,693",
+            "percent": "40.1%"
+          },
+          {
+            "id": 309160,
+            "text": "Chest",
+            "correct": false,
+            "count": "3,328",
+            "percent": "5.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/7",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 30563,
+        "incorrect_answers": 26021,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156465,
+        "text": "Which of these words as written means the same thing in Dutch and German?",
+        "question_number": 8,
+        "eliminated": "21,967",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "21,004",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309170,
+            "text": "Gift",
+            "correct": false,
+            "count": "3,763",
+            "percent": "9.03%"
+          },
+          {
+            "id": 309171,
+            "text": "Boot",
+            "correct": true,
+            "count": "14,015",
+            "percent": "33.64%"
+          },
+          {
+            "id": 309173,
+            "text": "Die",
+            "correct": false,
+            "count": "23,880",
+            "percent": "57.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/8",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 14015,
+        "incorrect_answers": 27643,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156473,
+        "text": "Which capital city is in a state whose first two letters are NOT its state abbreviation?",
+        "question_number": 9,
+        "eliminated": "8,405",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "20,663",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309182,
+            "text": "Annapolis",
+            "correct": true,
+            "count": "16,321",
+            "percent": "63.26%"
+          },
+          {
+            "id": 309183,
+            "text": "Lincoln",
+            "correct": false,
+            "count": "4,910",
+            "percent": "19.03%"
+          },
+          {
+            "id": 309184,
+            "text": "Salem",
+            "correct": false,
+            "count": "4,570",
+            "percent": "17.71%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/9",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 16321,
+        "incorrect_answers": 9480,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 9,
+          "players_left": 19493,
+          "players_left_formatted": "19,493",
+          "num_winners": 4143,
+          "num_winners_formatted": "4,143",
+          "prize": 0.04,
+          "prize_formatted": "$0.04",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 156483,
+        "text": "Where was Indiana Jones a professor?",
+        "question_number": 10,
+        "eliminated": "6,918",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "15,719",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309197,
+            "text": "Indiana University",
+            "correct": false,
+            "count": "2,718",
+            "percent": "14.41%"
+          },
+          {
+            "id": 309199,
+            "text": "Indiana College",
+            "correct": false,
+            "count": "3,237",
+            "percent": "17.16%"
+          },
+          {
+            "id": 309200,
+            "text": "Barnett College",
+            "correct": true,
+            "count": "12,913",
+            "percent": "68.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/10",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 12913,
+        "incorrect_answers": 5955,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156493,
+        "text": "Which rapper was once an intern for a future president?",
+        "question_number": 11,
+        "eliminated": "6,670",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "11,157",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309212,
+            "text": "Chance the Rapper",
+            "correct": true,
+            "count": "11,157",
+            "percent": "65.8%"
+          },
+          {
+            "id": 309213,
+            "text": "Kanye West",
+            "correct": false,
+            "count": "3,151",
+            "percent": "18.58%"
+          },
+          {
+            "id": 309215,
+            "text": "Jay-Z",
+            "correct": false,
+            "count": "2,648",
+            "percent": "15.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/11",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 11157,
+        "incorrect_answers": 5799,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156501,
+        "text": "Which can you NOT find in Alabama?",
+        "question_number": 12,
+        "eliminated": "8,084",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "6,442",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309224,
+            "text": "Ducks",
+            "correct": false,
+            "count": "1,814",
+            "percent": "12.82%"
+          },
+          {
+            "id": 309226,
+            "text": "Duck River",
+            "correct": false,
+            "count": "5,892",
+            "percent": "41.65%"
+          },
+          {
+            "id": 309227,
+            "text": "Duck Lake",
+            "correct": true,
+            "count": "6,442",
+            "percent": "45.53%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/12",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 6442,
+        "incorrect_answers": 7706,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156511,
+        "text": "Which of the BrontÃ« sisters wrote the fewest novels?",
+        "question_number": 13,
+        "eliminated": "5,783",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "5,708",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309239,
+            "text": "Anne",
+            "correct": false,
+            "count": "2,429",
+            "percent": "21.54%"
+          },
+          {
+            "id": 309242,
+            "text": "Charlotte",
+            "correct": false,
+            "count": "3,140",
+            "percent": "27.84%"
+          },
+          {
+            "id": 309246,
+            "text": "Emily",
+            "correct": true,
+            "count": "5,708",
+            "percent": "50.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/13",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 5708,
+        "incorrect_answers": 5569,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156519,
+        "text": "How much âstufâ do Double-Stuf Oreos actually contain compared to regular Oreos?",
+        "question_number": 14,
+        "eliminated": "4,539",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "5,415",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309251,
+            "text": "Double",
+            "correct": false,
+            "count": "1,072",
+            "percent": "11.0%"
+          },
+          {
+            "id": 309253,
+            "text": "More than double",
+            "correct": false,
+            "count": "3,256",
+            "percent": "33.42%"
+          },
+          {
+            "id": 309256,
+            "text": "Less than double",
+            "correct": true,
+            "count": "5,415",
+            "percent": "55.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/14",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 5415,
+        "incorrect_answers": 4328,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156527,
+        "text": "Which of these typically has the most bones?",
+        "question_number": 15,
+        "eliminated": "2,994",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "5,419",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309263,
+            "text": "Human baby",
+            "correct": true,
+            "count": "5,419",
+            "percent": "65.29%"
+          },
+          {
+            "id": 309265,
+            "text": "Human adolescent",
+            "correct": false,
+            "count": "1,354",
+            "percent": "16.31%"
+          },
+          {
+            "id": 309267,
+            "text": "Human adult",
+            "correct": false,
+            "count": "1,527",
+            "percent": "18.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/15",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 5419,
+        "incorrect_answers": 2881,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 15,
+          "players_left": 3418,
+          "players_left_formatted": "3,418",
+          "num_winners": 2009,
+          "num_winners_formatted": "2,009",
+          "prize": 0.19,
+          "prize_formatted": "$0.19",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 156537,
+        "text": "This painting is set in the state with which capital?",
+        "question_number": 16,
+        "eliminated": "1,269",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "3,158",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309278,
+            "text": "Jefferson",
+            "correct": false,
+            "count": "88",
+            "percent": "2.51%"
+          },
+          {
+            "id": 309280,
+            "text": "Des Moines",
+            "correct": true,
+            "count": "3,159",
+            "percent": "90.03%"
+          },
+          {
+            "id": 309284,
+            "text": "Lincoln",
+            "correct": false,
+            "count": "262",
+            "percent": "7.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/16",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 3159,
+        "incorrect_answers": 350,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156547,
+        "text": "In which Chekov play does the titular animal physically appear?",
+        "question_number": 17,
+        "eliminated": "1,141",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "2,015",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309293,
+            "text": "The Seagull",
+            "correct": true,
+            "count": "2,015",
+            "percent": "64.85%"
+          },
+          {
+            "id": 309295,
+            "text": "The Bear",
+            "correct": false,
+            "count": "665",
+            "percent": "21.4%"
+          },
+          {
+            "id": 309297,
+            "text": "Swansong",
+            "correct": false,
+            "count": "427",
+            "percent": "13.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/17",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 2015,
+        "incorrect_answers": 1092,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156557,
+        "text": "Which of these classic dishes was named after a historical monarch?",
+        "question_number": 18,
+        "eliminated": "1,247",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "769",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309308,
+            "text": "Eggs Benedict",
+            "correct": false,
+            "count": "439",
+            "percent": "22.27%"
+          },
+          {
+            "id": 309310,
+            "text": "Veal Oscar",
+            "correct": true,
+            "count": "769",
+            "percent": "39.02%"
+          },
+          {
+            "id": 309312,
+            "text": "Chicken Ã  la King",
+            "correct": false,
+            "count": "763",
+            "percent": "38.71%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/18",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 769,
+        "incorrect_answers": 1202,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156567,
+        "text": "In terms of land area, what is the second largest country in the European Union?",
+        "question_number": 19,
+        "eliminated": "490",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "279",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309323,
+            "text": "Germany",
+            "correct": false,
+            "count": "185",
+            "percent": "24.37%"
+          },
+          {
+            "id": 309324,
+            "text": "Spain",
+            "correct": true,
+            "count": "279",
+            "percent": "36.76%"
+          },
+          {
+            "id": 309326,
+            "text": "France",
+            "correct": false,
+            "count": "295",
+            "percent": "38.87%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/19",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 279,
+        "incorrect_answers": 480,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156575,
+        "text": "Which is the name of a real Belgian actor?",
+        "question_number": 20,
+        "eliminated": "29",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "250",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309335,
+            "text": "Cristophe Hemsworth",
+            "correct": false,
+            "count": "17",
+            "percent": "6.12%"
+          },
+          {
+            "id": 309337,
+            "text": "Robert DownÃ©, Jr.",
+            "correct": false,
+            "count": "11",
+            "percent": "3.96%"
+          },
+          {
+            "id": 309338,
+            "text": "JÃ©rÃ©mie Renier",
+            "correct": true,
+            "count": "250",
+            "percent": "89.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/20",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 250,
+        "incorrect_answers": 28,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156585,
+        "text": "When was the full name of Mr. Big in âSex and the Cityâ finally revealed?",
+        "question_number": 21,
+        "eliminated": "201",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "49",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309350,
+            "text": "Series finale",
+            "correct": false,
+            "count": "129",
+            "percent": "51.81%"
+          },
+          {
+            "id": 309354,
+            "text": "First movie",
+            "correct": true,
+            "count": "49",
+            "percent": "19.68%"
+          },
+          {
+            "id": 309360,
+            "text": "Neither",
+            "correct": false,
+            "count": "71",
+            "percent": "28.51%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-31/1/21",
+        "game_link": "/us/game/2019-10-31/1",
+        "correct_answers": 49,
+        "incorrect_answers": 200,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 21,
+          "players_left": 0,
+          "players_left_formatted": "0",
+          "num_winners": 49,
+          "num_winners_formatted": "49",
+          "prize": 30.62,
+          "prize_formatted": "$30.62",
+          "currency": "$"
+        },
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [
+      {
+        "round_number": 9,
+        "players_left": 19493,
+        "players_left_formatted": "19,493",
+        "num_winners": 4143,
+        "num_winners_formatted": "4,143",
+        "prize": 0.04,
+        "prize_formatted": "$0.04",
+        "currency": "$"
+      },
+      {
+        "round_number": 15,
+        "players_left": 3418,
+        "players_left_formatted": "3,418",
+        "num_winners": 2009,
+        "num_winners_formatted": "2,009",
+        "prize": 0.19,
+        "prize_formatted": "$0.19",
+        "currency": "$"
+      },
+      {
+        "round_number": 21,
+        "players_left": 0,
+        "players_left_formatted": "0",
+        "num_winners": 49,
+        "num_winners_formatted": "49",
+        "prize": 30.62,
+        "prize_formatted": "$30.62",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "2,047.81",
+    "total_checkpoint_winners": "6,201",
+    "smallest_checkpoint_prize": "$0.04",
+    "largest_checkpoint_prize": "$30.62",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 139426,
+    "show_id": 12853,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-11-01T01:30:00Z",
+    "direct_link": "/us/game/2019-10-31/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "5,999",
+      "currency": "$",
+      "average_prize": "0.17"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-10-31/2/1",
+        "question_number": 1,
+        "text": "Trick Alternative",
+        "answer": [
+          "TREATING"
+        ],
+        "initial_letters": [
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "G",
+          "R"
+        ],
+        "game_link": "/us/game/2019-10-31/2",
+        "eliminated": 3658,
+        "advancing": 41999,
+        "correct_answers": 41999,
+        "incorrect_answers": 3658
+      },
+      {
+        "direct_link": "/us/game/2019-10-31/2/2",
+        "question_number": 2,
+        "text": "Cereal Thief",
+        "answer": [
+          "SILLY",
+          "RABBIT"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"S\""
+        ],
+        "to_reveal_letters": [
+          "L",
+          "T"
+        ],
+        "game_link": "/us/game/2019-10-31/2",
+        "eliminated": 6926,
+        "advancing": 35439,
+        "correct_answers": 35439,
+        "incorrect_answers": 6926
+      },
+      {
+        "direct_link": "/us/game/2019-10-31/2/3",
+        "question_number": 3,
+        "text": "Classic Prank",
+        "answer": [
+          "DING",
+          "DONG",
+          "DITCH"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"I\""
+        ],
+        "to_reveal_letters": [
+          "G",
+          "T"
+        ],
+        "game_link": "/us/game/2019-10-31/2",
+        "eliminated": 6913,
+        "advancing": 28918,
+        "correct_answers": 28918,
+        "incorrect_answers": 6913
+      },
+      {
+        "direct_link": "/us/game/2019-10-31/2/4",
+        "question_number": 4,
+        "text": "Tricky Games?",
+        "answer": [
+          "SPADES",
+          "&",
+          "HEARTS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"&\"",
+          "\"A\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "S"
+        ],
+        "game_link": "/us/game/2019-10-31/2",
+        "eliminated": 4279,
+        "advancing": 25160,
+        "correct_answers": 25160,
+        "incorrect_answers": 4279
+      },
+      {
+        "direct_link": "/us/game/2019-10-31/2/5",
+        "question_number": 5,
+        "text": "Tricky Shot Location",
+        "answer": [
+          "BILLIARDS",
+          "TABLE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"L\""
+        ],
+        "to_reveal_letters": [
+          "D",
+          "T"
+        ],
+        "game_link": "/us/game/2019-10-31/2",
+        "eliminated": 3664,
+        "advancing": 21782,
+        "correct_answers": 21782,
+        "incorrect_answers": 3664
+      },
+      {
+        "direct_link": "/us/game/2019-10-31/2/6",
+        "question_number": 6,
+        "text": "Trickster God",
+        "answer": [
+          "BROTHER",
+          "OF",
+          "THOR"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"B\""
+        ],
+        "to_reveal_letters": [
+          "O",
+          "T"
+        ],
+        "game_link": "/us/game/2019-10-31/2",
+        "eliminated": 2042,
+        "advancing": 20072,
+        "correct_answers": 20072,
+        "incorrect_answers": 2042
+      },
+      {
+        "direct_link": "/us/game/2019-10-31/2/7",
+        "question_number": 7,
+        "text": "Gretzky Record",
+        "answer": [
+          "CAREER",
+          "HAT",
+          "TRICKS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"I\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "T"
+        ],
+        "game_link": "/us/game/2019-10-31/2",
+        "eliminated": 2919,
+        "advancing": 17353,
+        "correct_answers": 17353,
+        "incorrect_answers": 2919
+      },
+      {
+        "direct_link": "/us/game/2019-10-31/2/8",
+        "question_number": 8,
+        "text": "âPimp My Rideâ Outcome",
+        "answer": [
+          "TRICKED",
+          "OUT",
+          "HATCHBACK"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"U\""
+        ],
+        "to_reveal_letters": [
+          "D",
+          "T"
+        ],
+        "game_link": "/us/game/2019-10-31/2",
+        "eliminated": 5774,
+        "advancing": 11978,
+        "correct_answers": 11978,
+        "incorrect_answers": 5774
+      },
+      {
+        "direct_link": "/us/game/2019-10-31/2/9",
+        "question_number": 9,
+        "text": "Classic Trick",
+        "answer": [
+          "SAWING",
+          "SOMEONE",
+          "IN",
+          "HALF"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"W\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "O"
+        ],
+        "game_link": "/us/game/2019-10-31/2",
+        "eliminated": 2317,
+        "advancing": 10815,
+        "correct_answers": 10815,
+        "incorrect_answers": 2317
+      },
+      {
+        "direct_link": "/us/game/2019-10-31/2/10",
+        "question_number": 10,
+        "text": "'80s Theory",
+        "answer": [
+          "TRICKLE-DOWN",
+          "ECONOMICS"
+        ],
+        "initial_letters": [
+          "\"-\"",
+          "\" \"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "O",
+          "T"
+        ],
+        "game_link": "/us/game/2019-10-31/2",
+        "eliminated": 4038,
+        "advancing": 7378,
+        "correct_answers": 7378,
+        "incorrect_answers": 4038
+      },
+      {
+        "direct_link": "/us/game/2019-10-31/2/11",
+        "question_number": 11,
+        "text": "Tricky Question?",
+        "answer": [
+          "WHATâS",
+          "BEHIND",
+          "YOUR",
+          "EAR?"
+        ],
+        "initial_letters": [
+          "\"â\"",
+          "\" \"",
+          "\"?\"",
+          "\"D\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "W"
+        ],
+        "game_link": "/us/game/2019-10-31/2",
+        "eliminated": 2023,
+        "advancing": 6632,
+        "correct_answers": 6632,
+        "incorrect_answers": 2023
+      },
+      {
+        "direct_link": "/us/game/2019-10-31/2/12",
+        "question_number": 12,
+        "text": "Run-DMC Song & Sample",
+        "answer": [
+          "âITâS",
+          "TRICKYâ",
+          "&",
+          "âMY",
+          "SHARONAâ"
+        ],
+        "initial_letters": [
+          "\"â\"",
+          "\"â\"",
+          "\" \"",
+          "\"â\"",
+          "\"&\"",
+          "\"O\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "C"
+        ],
+        "game_link": "/us/game/2019-10-31/2",
+        "eliminated": 1336,
+        "advancing": 5999,
+        "correct_answers": 5999,
+        "incorrect_answers": 1336
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": null
+  }
+]

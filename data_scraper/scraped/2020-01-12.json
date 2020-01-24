@@ -1,0 +1,1382 @@
+[
+  {
+    "id": 143106,
+    "show_id": 13393,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "250",
+    "currency": "$",
+    "start_time": "2020-01-12T05:50:00Z",
+    "direct_link": "/us/game/2020-01-12/1",
+    "time": "12:50 am",
+    "country": "us",
+    "summary": {
+      "winner_count": "6,142",
+      "currency": "$",
+      "average_prize": "0.04"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      null,
+      {
+        "id": 161342,
+        "text": "What dance are these fathers doing with their daughters?",
+        "question_number": 2,
+        "eliminated": "903",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "40,506",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316469,
+            "text": "Lambada",
+            "correct": false,
+            "count": "997",
+            "percent": "2.91%"
+          },
+          {
+            "id": 316470,
+            "text": "Electric slide",
+            "correct": false,
+            "count": "480",
+            "percent": "1.4%"
+          },
+          {
+            "id": 316471,
+            "text": "Ballet",
+            "correct": true,
+            "count": "32,769",
+            "percent": "95.69%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/1/2",
+        "game_link": "/us/game/2020-01-12/1",
+        "correct_answers": 32769,
+        "incorrect_answers": 1477,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161344,
+        "text": "This week police said someone released what into an Ohio Walmart?",
+        "question_number": 3,
+        "eliminated": "3,654",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "36,890",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316472,
+            "text": "Reindeer",
+            "correct": false,
+            "count": "3,795",
+            "percent": "11.31%"
+          },
+          {
+            "id": 316473,
+            "text": "Bedbugs",
+            "correct": true,
+            "count": "23,645",
+            "percent": "70.46%"
+          },
+          {
+            "id": 316474,
+            "text": "Lobsters",
+            "correct": false,
+            "count": "6,117",
+            "percent": "18.23%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/1/3",
+        "game_link": "/us/game/2020-01-12/1",
+        "correct_answers": 23645,
+        "incorrect_answers": 9912,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161346,
+        "text": "This visual marked one of the first extensive uses of what technology in Indian music videos?",
+        "question_number": 4,
+        "eliminated": "3,129",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "33,972",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316475,
+            "text": "Green screen",
+            "correct": true,
+            "count": "28,502",
+            "percent": "89.88%"
+          },
+          {
+            "id": 316476,
+            "text": "Motion capture",
+            "correct": false,
+            "count": "2,850",
+            "percent": "8.99%"
+          },
+          {
+            "id": 316477,
+            "text": "Smoke machine",
+            "correct": false,
+            "count": "359",
+            "percent": "1.13%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/1/4",
+        "game_link": "/us/game/2020-01-12/1",
+        "correct_answers": 28502,
+        "incorrect_answers": 3209,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161348,
+        "text": "Which celebrity owns the house in these viral pictures?",
+        "question_number": 5,
+        "eliminated": "6,687",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "27,427",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316478,
+            "text": "Dennis Rodman",
+            "correct": false,
+            "count": "9,291",
+            "percent": "30.21%"
+          },
+          {
+            "id": 316479,
+            "text": "Kim Kardashian",
+            "correct": false,
+            "count": "1,461",
+            "percent": "4.75%"
+          },
+          {
+            "id": 316480,
+            "text": "Dr. Phil",
+            "correct": true,
+            "count": "19,998",
+            "percent": "65.03%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/1/5",
+        "game_link": "/us/game/2020-01-12/1",
+        "correct_answers": 19998,
+        "incorrect_answers": 10752,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161350,
+        "text": "Which classic video game character is based on a fictional animal?",
+        "question_number": 6,
+        "eliminated": "7,769",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "20,268",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316481,
+            "text": "Crash Bandicoot",
+            "correct": false,
+            "count": "6,623",
+            "percent": "26.35%"
+          },
+          {
+            "id": 316482,
+            "text": "Spyro",
+            "correct": true,
+            "count": "15,866",
+            "percent": "63.11%"
+          },
+          {
+            "id": 316483,
+            "text": "Knuckles",
+            "correct": false,
+            "count": "2,650",
+            "percent": "10.54%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/1/6",
+        "game_link": "/us/game/2020-01-12/1",
+        "correct_answers": 15866,
+        "incorrect_answers": 9273,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161352,
+        "text": "A song from the new Netflix show âThe Witcherâ encourages people to toss what to their Witcher?",
+        "question_number": 7,
+        "eliminated": "3,893",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "17,601",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316484,
+            "text": "Merkin",
+            "correct": false,
+            "count": "1,793",
+            "percent": "9.39%"
+          },
+          {
+            "id": 316485,
+            "text": "Coin",
+            "correct": true,
+            "count": "14,705",
+            "percent": "77.0%"
+          },
+          {
+            "id": 316486,
+            "text": "Kiss",
+            "correct": false,
+            "count": "2,599",
+            "percent": "13.61%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/1/7",
+        "game_link": "/us/game/2020-01-12/1",
+        "correct_answers": 14705,
+        "incorrect_answers": 4392,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161354,
+        "text": "Which word is typically considered insulting?",
+        "question_number": 8,
+        "eliminated": "9,424",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "9,026",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316487,
+            "text": "Quire",
+            "correct": false,
+            "count": "6,885",
+            "percent": "41.15%"
+          },
+          {
+            "id": 316488,
+            "text": "Hobbledehoy",
+            "correct": true,
+            "count": "4,246",
+            "percent": "25.38%"
+          },
+          {
+            "id": 316489,
+            "text": "Snickersnee",
+            "correct": false,
+            "count": "5,600",
+            "percent": "33.47%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/1/8",
+        "game_link": "/us/game/2020-01-12/1",
+        "correct_answers": 4246,
+        "incorrect_answers": 12485,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161356,
+        "text": "Which birdâs natural habitat does NOT include North America?",
+        "question_number": 9,
+        "eliminated": "2,816",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "8,544",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316490,
+            "text": "Cackling goose",
+            "correct": false,
+            "count": "1,962",
+            "percent": "18.76%"
+          },
+          {
+            "id": 316491,
+            "text": "Common shag",
+            "correct": true,
+            "count": "5,544",
+            "percent": "53.0%"
+          },
+          {
+            "id": 316492,
+            "text": "Northern shoveler",
+            "correct": false,
+            "count": "2,954",
+            "percent": "28.24%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/1/9",
+        "game_link": "/us/game/2020-01-12/1",
+        "correct_answers": 5544,
+        "incorrect_answers": 4916,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161358,
+        "text": "What did Larry David ask Stephen Colbert to do to Bernie Sanders?",
+        "question_number": 10,
+        "eliminated": "3,890",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "5,596",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316493,
+            "text": "Comb his hair",
+            "correct": false,
+            "count": "4,909",
+            "percent": "55.6%"
+          },
+          {
+            "id": 316494,
+            "text": "Duet with him on bongos",
+            "correct": false,
+            "count": "1,583",
+            "percent": "17.93%"
+          },
+          {
+            "id": 316495,
+            "text": "Beg him to drop out",
+            "correct": true,
+            "count": "2,337",
+            "percent": "26.47%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/1/10",
+        "game_link": "/us/game/2020-01-12/1",
+        "correct_answers": 2337,
+        "incorrect_answers": 6492,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161360,
+        "text": "By definition, what does an ichthyologist study?",
+        "question_number": 11,
+        "eliminated": "1,246",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "6,142",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316496,
+            "text": "Waste management",
+            "correct": false,
+            "count": "399",
+            "percent": "5.76%"
+          },
+          {
+            "id": 316497,
+            "text": "Fish",
+            "correct": true,
+            "count": "6,142",
+            "percent": "88.68%"
+          },
+          {
+            "id": 316498,
+            "text": "Diseases",
+            "correct": false,
+            "count": "385",
+            "percent": "5.56%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/1/11",
+        "game_link": "/us/game/2020-01-12/1",
+        "correct_answers": 6142,
+        "incorrect_answers": 784,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 143120,
+    "show_id": 13345,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2020-01-13T02:00:00Z",
+    "direct_link": "/us/game/2020-01-12/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "212",
+      "currency": "$",
+      "average_prize": "4.72"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Literature",
+        "slug": "literature"
+      }
+    ],
+    "questions": [
+      {
+        "id": 161362,
+        "text": "In the original âJack and the Beanstalk,â what does Jack trade for magic beans?",
+        "question_number": 1,
+        "eliminated": "-5,048",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "81,936",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316499,
+            "text": "His hair",
+            "correct": false,
+            "count": "1,653",
+            "percent": "2.33%"
+          },
+          {
+            "id": 316500,
+            "text": "His voice",
+            "correct": false,
+            "count": "1,553",
+            "percent": "2.19%"
+          },
+          {
+            "id": 316501,
+            "text": "His cow",
+            "correct": true,
+            "count": "67,804",
+            "percent": "95.49%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/1",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 67804,
+        "incorrect_answers": 3206,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161364,
+        "text": "In the original story of âThe Red Shoes,â a young girl is cursed to never be able to stop what?",
+        "question_number": 2,
+        "eliminated": "1,709",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "80,771",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316502,
+            "text": "Dancing",
+            "correct": true,
+            "count": "65,889",
+            "percent": "90.38%"
+          },
+          {
+            "id": 316503,
+            "text": "Laughing",
+            "correct": false,
+            "count": "3,584",
+            "percent": "4.92%"
+          },
+          {
+            "id": 316504,
+            "text": "Sleeping",
+            "correct": false,
+            "count": "3,427",
+            "percent": "4.7%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/2",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 65889,
+        "incorrect_answers": 7011,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161366,
+        "text": "In the first known version of âBeauty and the Beast,â what does Beauty ask her father for as a present?",
+        "question_number": 3,
+        "eliminated": "3,040",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "77,838",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316505,
+            "text": "Chest of gold",
+            "correct": false,
+            "count": "8,397",
+            "percent": "11.74%"
+          },
+          {
+            "id": 316506,
+            "text": "Basket of corgis",
+            "correct": false,
+            "count": "2,251",
+            "percent": "3.15%"
+          },
+          {
+            "id": 316507,
+            "text": "Rose",
+            "correct": true,
+            "count": "60,871",
+            "percent": "85.11%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/3",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 60871,
+        "incorrect_answers": 10648,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161368,
+        "text": "What does Rumpelstiltskin magically spin for the millerâs daughter, in most versions of the story?",
+        "question_number": 4,
+        "eliminated": "3,497",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "74,542",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316508,
+            "text": "Spiderwebs into diamonds",
+            "correct": false,
+            "count": "1,311",
+            "percent": "1.82%"
+          },
+          {
+            "id": 316509,
+            "text": "Straw into gold",
+            "correct": true,
+            "count": "69,281",
+            "percent": "96.4%"
+          },
+          {
+            "id": 316510,
+            "text": "Wheat into silver",
+            "correct": false,
+            "count": "1,279",
+            "percent": "1.78%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/4",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 69281,
+        "incorrect_answers": 2590,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161370,
+        "text": "What is Rapunzelâs namesake?",
+        "question_number": 5,
+        "eliminated": "18,204",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "56,495",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316511,
+            "text": "Her mother",
+            "correct": false,
+            "count": "16,221",
+            "percent": "22.96%"
+          },
+          {
+            "id": 316512,
+            "text": "German river",
+            "correct": false,
+            "count": "19,963",
+            "percent": "28.25%"
+          },
+          {
+            "id": 316513,
+            "text": "Type of vegetable",
+            "correct": true,
+            "count": "34,473",
+            "percent": "48.79%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/5",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 34473,
+        "incorrect_answers": 36184,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161372,
+        "text": "According to the original âLittle Mermaid,â what happens to mermaids when they perish?",
+        "question_number": 6,
+        "eliminated": "9,321",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "49,714",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316514,
+            "text": "Reborn as dolphins",
+            "correct": false,
+            "count": "6,675",
+            "percent": "11.91%"
+          },
+          {
+            "id": 316515,
+            "text": "Turn into sea foam",
+            "correct": true,
+            "count": "44,428",
+            "percent": "79.3%"
+          },
+          {
+            "id": 316516,
+            "text": "Sink to bottom of sea",
+            "correct": false,
+            "count": "4,925",
+            "percent": "8.79%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/6",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 44428,
+        "incorrect_answers": 11600,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 6,
+          "players_left": 42357,
+          "players_left_formatted": "42,357",
+          "num_winners": 8855,
+          "num_winners_formatted": "8,855",
+          "prize": 91.0,
+          "prize_formatted": "91 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 161374,
+        "text": "In the Brothers Grimm's âCinderella,â what measures do the stepsisters take to win the prince?",
+        "question_number": 7,
+        "eliminated": "14,066",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "36,147",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316517,
+            "text": "Set fire to the ballroom",
+            "correct": false,
+            "count": "1,342",
+            "percent": "3.34%"
+          },
+          {
+            "id": 316518,
+            "text": "Kidnap Cinderella",
+            "correct": false,
+            "count": "9,865",
+            "percent": "24.52%"
+          },
+          {
+            "id": 316519,
+            "text": "Mangle her foot",
+            "correct": true,
+            "count": "29,027",
+            "percent": "72.15%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/7",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 29027,
+        "incorrect_answers": 11207,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161376,
+        "text": "The titular hero in the original âPuss in Bootsâ convinces an ogre to turn into what?",
+        "question_number": 8,
+        "eliminated": "13,250",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "25,025",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316520,
+            "text": "Human baby",
+            "correct": false,
+            "count": "10,648",
+            "percent": "29.99%"
+          },
+          {
+            "id": 316521,
+            "text": "Cat",
+            "correct": false,
+            "count": "8,047",
+            "percent": "22.66%"
+          },
+          {
+            "id": 316522,
+            "text": "Mouse",
+            "correct": true,
+            "count": "16,816",
+            "percent": "47.35%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/8",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 16816,
+        "incorrect_answers": 18695,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161378,
+        "text": "In the original âHansel and Gretel,â why are the children abandoned in the woods?",
+        "question_number": 9,
+        "eliminated": "6,568",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "22,854",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316523,
+            "text": "Enchanted ice cream",
+            "correct": false,
+            "count": "832",
+            "percent": "3.04%"
+          },
+          {
+            "id": 316524,
+            "text": "Regional famine",
+            "correct": true,
+            "count": "16,636",
+            "percent": "60.84%"
+          },
+          {
+            "id": 316525,
+            "text": "Parents forgot them",
+            "correct": false,
+            "count": "9,878",
+            "percent": "36.12%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/9",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 16636,
+        "incorrect_answers": 10710,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161380,
+        "text": "What makes the Pied Piper take the children of Hamelin in the classic version of the tale?",
+        "question_number": 10,
+        "eliminated": "3,120",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "22,516",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316526,
+            "text": "Mayorâs insult",
+            "correct": false,
+            "count": "1,495",
+            "percent": "6.11%"
+          },
+          {
+            "id": 316527,
+            "text": "Unpaid wages",
+            "correct": true,
+            "count": "19,538",
+            "percent": "79.83%"
+          },
+          {
+            "id": 316528,
+            "text": "Witchâs curse",
+            "correct": false,
+            "count": "3,443",
+            "percent": "14.07%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/10",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 19538,
+        "incorrect_answers": 4938,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161382,
+        "text": "In the Brothers Grimm's âThe Six Swans,â how are the six brothers transformed into swans?",
+        "question_number": 11,
+        "eliminated": "16,976",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "6,914",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316529,
+            "text": "Magical shirts",
+            "correct": true,
+            "count": "6,914",
+            "percent": "32.03%"
+          },
+          {
+            "id": 316530,
+            "text": "Accidentally eating swan",
+            "correct": false,
+            "count": "4,027",
+            "percent": "18.65%"
+          },
+          {
+            "id": 316531,
+            "text": "River spirit",
+            "correct": false,
+            "count": "10,647",
+            "percent": "49.32%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/11",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 6914,
+        "incorrect_answers": 14674,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 10460,
+          "players_left_formatted": "10,460",
+          "num_winners": 3395,
+          "num_winners_formatted": "3,395",
+          "prize": 651.0,
+          "prize_formatted": "651 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 161384,
+        "text": "In the Brothers Grimmâs âSnow White,â what is one way the Evil Queen attempts to kill Snow White?",
+        "question_number": 12,
+        "eliminated": "3,864",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "8,991",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316532,
+            "text": "Enchanted bed",
+            "correct": false,
+            "count": "826",
+            "percent": "8.1%"
+          },
+          {
+            "id": 316533,
+            "text": "Poison comb",
+            "correct": true,
+            "count": "8,991",
+            "percent": "88.16%"
+          },
+          {
+            "id": 316534,
+            "text": "Bewitched dwarf",
+            "correct": false,
+            "count": "381",
+            "percent": "3.74%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/12",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 8991,
+        "incorrect_answers": 1207,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161386,
+        "text": "In a lesser-known Brothers Grimm fairy tale, a bird and a mouse live with a what?",
+        "question_number": 13,
+        "eliminated": "8,078",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "1,778",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316535,
+            "text": "Giant frog",
+            "correct": false,
+            "count": "4,944",
+            "percent": "52.32%"
+          },
+          {
+            "id": 316536,
+            "text": "Evil snail",
+            "correct": false,
+            "count": "2,727",
+            "percent": "28.86%"
+          },
+          {
+            "id": 316537,
+            "text": "Sentient sausage",
+            "correct": true,
+            "count": "1,778",
+            "percent": "18.82%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/13",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 1778,
+        "incorrect_answers": 7671,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161388,
+        "text": "In the classic story âThe Twelve Dancing Princesses,â why does the king suspect his daughters have been dancing?",
+        "question_number": 14,
+        "eliminated": "1,608",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "5,016",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316538,
+            "text": "Worn-out shoes",
+            "correct": true,
+            "count": "5,016",
+            "percent": "78.99%"
+          },
+          {
+            "id": 316539,
+            "text": "Fairy spy",
+            "correct": false,
+            "count": "548",
+            "percent": "8.63%"
+          },
+          {
+            "id": 316540,
+            "text": "Damaged floor",
+            "correct": false,
+            "count": "786",
+            "percent": "12.38%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/14",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 5016,
+        "incorrect_answers": 1334,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161390,
+        "text": "In the Brothers Grimmâs version of the âLittle Red Riding Hoodâ story, what happens to her grandmother?",
+        "question_number": 15,
+        "eliminated": "4,749",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "1,314",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316541,
+            "text": "Killed by the wolf",
+            "correct": false,
+            "count": "3,361",
+            "percent": "56.83%"
+          },
+          {
+            "id": 316542,
+            "text": "Murdered by a huntsman",
+            "correct": false,
+            "count": "1,239",
+            "percent": "20.95%"
+          },
+          {
+            "id": 316543,
+            "text": "She lives",
+            "correct": true,
+            "count": "1,314",
+            "percent": "22.22%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/15",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 1314,
+        "incorrect_answers": 4600,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161392,
+        "text": "In the French tale âDiamonds and Toads,â a witch blesses a woman by making diamonds do what?",
+        "question_number": 16,
+        "eliminated": "2,149",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "2,303",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316544,
+            "text": "Appear in her fireplace",
+            "correct": false,
+            "count": "167",
+            "percent": "3.96%"
+          },
+          {
+            "id": 316545,
+            "text": "Grow in her garden",
+            "correct": false,
+            "count": "1,751",
+            "percent": "41.48%"
+          },
+          {
+            "id": 316546,
+            "text": "Fall from her mouth",
+            "correct": true,
+            "count": "2,303",
+            "percent": "54.56%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/16",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 2303,
+        "incorrect_answers": 1918,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161394,
+        "text": "In the Brothers Grimmâs âStraw, Coal and Bean,â who is the only survivor?",
+        "question_number": 17,
+        "eliminated": "1,377",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "1,649",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316547,
+            "text": "Bean",
+            "correct": true,
+            "count": "1,649",
+            "percent": "54.8%"
+          },
+          {
+            "id": 316548,
+            "text": "Coal",
+            "correct": false,
+            "count": "804",
+            "percent": "26.72%"
+          },
+          {
+            "id": 316549,
+            "text": "Straw",
+            "correct": false,
+            "count": "556",
+            "percent": "18.48%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/17",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 1649,
+        "incorrect_answers": 1360,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161396,
+        "text": "How was Thumbelina born, in Hans Christian Andersen's version of the tale?",
+        "question_number": 18,
+        "eliminated": "391",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "1,708",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316550,
+            "text": "Transformed from a shell",
+            "correct": false,
+            "count": "182",
+            "percent": "8.76%"
+          },
+          {
+            "id": 316551,
+            "text": "Fell in a raindrop",
+            "correct": false,
+            "count": "187",
+            "percent": "9.0%"
+          },
+          {
+            "id": 316552,
+            "text": "Emerged from a flower",
+            "correct": true,
+            "count": "1,708",
+            "percent": "82.23%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/18",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 1708,
+        "incorrect_answers": 369,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 18,
+          "players_left": 1386,
+          "players_left_formatted": "1,386",
+          "num_winners": 322,
+          "num_winners_formatted": "322",
+          "prize": 879.0,
+          "prize_formatted": "879 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 161398,
+        "text": "In Hans Christian Andersenâs âThe Princess and the Pea,â what happens to the pea?",
+        "question_number": 19,
+        "eliminated": "482",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "904",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316553,
+            "text": "Planted in a garden",
+            "correct": false,
+            "count": "264",
+            "percent": "19.16%"
+          },
+          {
+            "id": 316554,
+            "text": "Put in a museum",
+            "correct": true,
+            "count": "904",
+            "percent": "65.6%"
+          },
+          {
+            "id": 316555,
+            "text": "Eaten by the princess",
+            "correct": false,
+            "count": "210",
+            "percent": "15.24%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/19",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 904,
+        "incorrect_answers": 474,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161400,
+        "text": "In the Brothers Grimmâs version of âThe Frog Prince,â how does the princess turn the frog into a prince?",
+        "question_number": 20,
+        "eliminated": "475",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "429",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316556,
+            "text": "Says its true name",
+            "correct": false,
+            "count": "284",
+            "percent": "32.87%"
+          },
+          {
+            "id": 316557,
+            "text": "Feeds it to a snake",
+            "correct": false,
+            "count": "151",
+            "percent": "17.48%"
+          },
+          {
+            "id": 316558,
+            "text": "Throws it at a wall",
+            "correct": true,
+            "count": "429",
+            "percent": "49.65%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/20",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 429,
+        "incorrect_answers": 435,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161402,
+        "text": "In the first recorded version of âGoldilocks and the Three Bears,â what is Goldilocks?",
+        "question_number": 21,
+        "eliminated": "217",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "212",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316559,
+            "text": "Old woman",
+            "correct": true,
+            "count": "212",
+            "percent": "49.65%"
+          },
+          {
+            "id": 316560,
+            "text": "Beautiful princess",
+            "correct": false,
+            "count": "48",
+            "percent": "11.24%"
+          },
+          {
+            "id": 316561,
+            "text": "Bear",
+            "correct": false,
+            "count": "167",
+            "percent": "39.11%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-12/2/21",
+        "game_link": "/us/game/2020-01-12/2",
+        "correct_answers": 212,
+        "incorrect_answers": 215,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [
+      {
+        "round_number": 6,
+        "players_left": 42357,
+        "players_left_formatted": "42,357",
+        "num_winners": 8855,
+        "num_winners_formatted": "8,855",
+        "prize": 91.0,
+        "prize_formatted": "91 coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 11,
+        "players_left": 10460,
+        "players_left_formatted": "10,460",
+        "num_winners": 3395,
+        "num_winners_formatted": "3,395",
+        "prize": 651.0,
+        "prize_formatted": "651 coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 18,
+        "players_left": 1386,
+        "players_left_formatted": "1,386",
+        "num_winners": 322,
+        "num_winners_formatted": "322",
+        "prize": 879.0,
+        "prize_formatted": "879 coins",
+        "currency": "coins"
+      }
+    ],
+    "total_checkpoint_prize": "0.00",
+    "total_checkpoint_winners": "12,572",
+    "smallest_checkpoint_prize": "91 coins",
+    "largest_checkpoint_prize": "879 coins",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

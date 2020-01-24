@@ -1,0 +1,986 @@
+[
+  {
+    "id": 141905,
+    "show_id": 13114,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-12-06T02:00:00Z",
+    "direct_link": "/us/game/2019-12-05/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,390",
+      "currency": "$",
+      "average_prize": "0.42"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 159600,
+        "text": "The âMad Menâ finale ended with an iconic commercial for what?",
+        "question_number": 1,
+        "eliminated": "-5,229",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "96,876",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313856,
+            "text": "Coca-cola",
+            "correct": true,
+            "count": "70,394",
+            "percent": "80.93%"
+          },
+          {
+            "id": 313857,
+            "text": "Tesla Roadster",
+            "correct": false,
+            "count": "8,610",
+            "percent": "9.9%"
+          },
+          {
+            "id": 313858,
+            "text": "Apple Watch",
+            "correct": false,
+            "count": "7,977",
+            "percent": "9.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-05/1/1",
+        "game_link": "/us/game/2019-12-05/1",
+        "correct_answers": 70394,
+        "incorrect_answers": 16587,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159602,
+        "text": "Who was Kate Middletonâs maid of honor?",
+        "question_number": 2,
+        "eliminated": "2,723",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "94,353",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313859,
+            "text": "Pepper Middleton",
+            "correct": false,
+            "count": "4,895",
+            "percent": "5.66%"
+          },
+          {
+            "id": 313860,
+            "text": "Paisley Middleton",
+            "correct": false,
+            "count": "5,180",
+            "percent": "5.99%"
+          },
+          {
+            "id": 313861,
+            "text": "Pippa Middleton",
+            "correct": true,
+            "count": "76,356",
+            "percent": "88.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-05/1/2",
+        "game_link": "/us/game/2019-12-05/1",
+        "correct_answers": 76356,
+        "incorrect_answers": 10075,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159604,
+        "text": "âThe Red Weddingâ is a particularly intense scene from what TV show?",
+        "question_number": 3,
+        "eliminated": "4,308",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "90,163",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313862,
+            "text": "Breaking Bad",
+            "correct": false,
+            "count": "2,361",
+            "percent": "2.8%"
+          },
+          {
+            "id": 313863,
+            "text": "The Good Wife",
+            "correct": false,
+            "count": "3,404",
+            "percent": "4.03%"
+          },
+          {
+            "id": 313864,
+            "text": "Game of Thrones",
+            "correct": true,
+            "count": "78,697",
+            "percent": "93.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-05/1/3",
+        "game_link": "/us/game/2019-12-05/1",
+        "correct_answers": 78697,
+        "incorrect_answers": 5765,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159606,
+        "text": "Megan Rapinoe is a champion in what sport?",
+        "question_number": 4,
+        "eliminated": "8,695",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "81,599",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313865,
+            "text": "Ice skating",
+            "correct": false,
+            "count": "5,725",
+            "percent": "6.89%"
+          },
+          {
+            "id": 313866,
+            "text": "Soccer",
+            "correct": true,
+            "count": "74,559",
+            "percent": "89.67%"
+          },
+          {
+            "id": 313867,
+            "text": "Basketball",
+            "correct": false,
+            "count": "2,861",
+            "percent": "3.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-05/1/4",
+        "game_link": "/us/game/2019-12-05/1",
+        "correct_answers": 74559,
+        "incorrect_answers": 8586,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159608,
+        "text": "Who sings the original version of this song?",
+        "question_number": 5,
+        "eliminated": "10,828",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "71,398",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313868,
+            "text": "Meghan Trainor",
+            "correct": false,
+            "count": "9,261",
+            "percent": "11.76%"
+          },
+          {
+            "id": 313869,
+            "text": "Rebecca Black",
+            "correct": false,
+            "count": "3,618",
+            "percent": "4.59%"
+          },
+          {
+            "id": 313870,
+            "text": "Carly Rae Jepsen",
+            "correct": true,
+            "count": "65,895",
+            "percent": "83.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-05/1/5",
+        "game_link": "/us/game/2019-12-05/1",
+        "correct_answers": 65895,
+        "incorrect_answers": 12879,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159610,
+        "text": "When Tesla launched a Roadster into space, what did the display on the dashboard say?",
+        "question_number": 6,
+        "eliminated": "25,328",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "47,380",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313871,
+            "text": "Donât Panic",
+            "correct": true,
+            "count": "40,743",
+            "percent": "58.73%"
+          },
+          {
+            "id": 313872,
+            "text": "Hello Friends",
+            "correct": false,
+            "count": "24,180",
+            "percent": "34.85%"
+          },
+          {
+            "id": 313873,
+            "text": "Elon Musk",
+            "correct": false,
+            "count": "4,455",
+            "percent": "6.42%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-05/1/6",
+        "game_link": "/us/game/2019-12-05/1",
+        "correct_answers": 40743,
+        "incorrect_answers": 28635,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159612,
+        "text": "According to âThe Social Network,â what advice did Sean Parker give Mark Zuckerberg?",
+        "question_number": 7,
+        "eliminated": "12,833",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "38,490",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313874,
+            "text": "Settle your lawsuits",
+            "correct": false,
+            "count": "5,097",
+            "percent": "10.98%"
+          },
+          {
+            "id": 313875,
+            "text": "Rename the website",
+            "correct": true,
+            "count": "34,216",
+            "percent": "73.71%"
+          },
+          {
+            "id": 313876,
+            "text": "Order the sashimi",
+            "correct": false,
+            "count": "7,106",
+            "percent": "15.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-05/1/7",
+        "game_link": "/us/game/2019-12-05/1",
+        "correct_answers": 34216,
+        "incorrect_answers": 12203,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159614,
+        "text": "The college admissions scandal involving Lori Loughlin is named âOperationâ what?",
+        "question_number": 8,
+        "eliminated": "5,597",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "35,513",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313877,
+            "text": "Empty Nest",
+            "correct": false,
+            "count": "4,311",
+            "percent": "10.72%"
+          },
+          {
+            "id": 313878,
+            "text": "Varsity Blues",
+            "correct": true,
+            "count": "33,492",
+            "percent": "83.28%"
+          },
+          {
+            "id": 313879,
+            "text": "All-American",
+            "correct": false,
+            "count": "2,413",
+            "percent": "6.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-05/1/8",
+        "game_link": "/us/game/2019-12-05/1",
+        "correct_answers": 33492,
+        "incorrect_answers": 6724,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159616,
+        "text": "Which Destinyâs Child song did the group perform at Beychella?",
+        "question_number": 9,
+        "eliminated": "18,765",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "18,076",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313880,
+            "text": "Bills, Bills, Bills",
+            "correct": false,
+            "count": "14,438",
+            "percent": "40.29%"
+          },
+          {
+            "id": 313881,
+            "text": "Soldier",
+            "correct": true,
+            "count": "13,047",
+            "percent": "36.41%"
+          },
+          {
+            "id": 313882,
+            "text": "Bootylicious",
+            "correct": false,
+            "count": "8,347",
+            "percent": "23.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-05/1/9",
+        "game_link": "/us/game/2019-12-05/1",
+        "correct_answers": 13047,
+        "incorrect_answers": 22785,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159618,
+        "text": "After Anthony Weiner resigned from Congress, he announced he would return to run for what?",
+        "question_number": 10,
+        "eliminated": "5,940",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "17,111",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313883,
+            "text": "Co-op President",
+            "correct": false,
+            "count": "974",
+            "percent": "4.5%"
+          },
+          {
+            "id": 313884,
+            "text": "âBest Husbandâ",
+            "correct": false,
+            "count": "5,409",
+            "percent": "24.98%"
+          },
+          {
+            "id": 313885,
+            "text": "New York City Mayor",
+            "correct": true,
+            "count": "15,270",
+            "percent": "70.52%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-05/1/10",
+        "game_link": "/us/game/2019-12-05/1",
+        "correct_answers": 15270,
+        "incorrect_answers": 6383,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159620,
+        "text": "Who raps âWilly Wonkaâ in their verse on Kanye Westâs âMonsterâ?",
+        "question_number": 11,
+        "eliminated": "4,597",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "14,301",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313886,
+            "text": "Jay-Z",
+            "correct": false,
+            "count": "1,812",
+            "percent": "9.78%"
+          },
+          {
+            "id": 313887,
+            "text": "Rick Ross",
+            "correct": false,
+            "count": "2,419",
+            "percent": "13.05%"
+          },
+          {
+            "id": 313888,
+            "text": "Nicki Minaj",
+            "correct": true,
+            "count": "14,301",
+            "percent": "77.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-05/1/11",
+        "game_link": "/us/game/2019-12-05/1",
+        "correct_answers": 14301,
+        "incorrect_answers": 4231,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159622,
+        "text": "What Internet event happened on the same day pictures of this dress went viral?",
+        "question_number": 12,
+        "eliminated": "6,185",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "10,255",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313889,
+            "text": "McKayla is not impressed",
+            "correct": false,
+            "count": "2,307",
+            "percent": "14.22%"
+          },
+          {
+            "id": 313890,
+            "text": "Kony 2012",
+            "correct": false,
+            "count": "3,666",
+            "percent": "22.59%"
+          },
+          {
+            "id": 313891,
+            "text": "Llamas escaped",
+            "correct": true,
+            "count": "10,255",
+            "percent": "63.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-05/1/12",
+        "game_link": "/us/game/2019-12-05/1",
+        "correct_answers": 10255,
+        "incorrect_answers": 5973,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159624,
+        "text": "The stars of what classic film accidentally named âLa La Landâ Best Picture at the Oscars?",
+        "question_number": 13,
+        "eliminated": "2,538",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "11,217",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313892,
+            "text": "Kramer vs. Kramer",
+            "correct": false,
+            "count": "1,091",
+            "percent": "8.01%"
+          },
+          {
+            "id": 313893,
+            "text": "Chinatown",
+            "correct": false,
+            "count": "1,313",
+            "percent": "9.64%"
+          },
+          {
+            "id": 313894,
+            "text": "Bonnie and Clyde",
+            "correct": true,
+            "count": "11,217",
+            "percent": "82.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-05/1/13",
+        "game_link": "/us/game/2019-12-05/1",
+        "correct_answers": 11217,
+        "incorrect_answers": 2404,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159626,
+        "text": "Which of these famous people did NOT do the Ice Bucket Challenge?",
+        "question_number": 14,
+        "eliminated": "6,940",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "5,927",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313895,
+            "text": "Bono",
+            "correct": true,
+            "count": "5,927",
+            "percent": "47.53%"
+          },
+          {
+            "id": 313896,
+            "text": "Bill Gates",
+            "correct": false,
+            "count": "3,490",
+            "percent": "27.98%"
+          },
+          {
+            "id": 313897,
+            "text": "George W. Bush",
+            "correct": false,
+            "count": "3,054",
+            "percent": "24.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-05/1/14",
+        "game_link": "/us/game/2019-12-05/1",
+        "correct_answers": 5927,
+        "incorrect_answers": 6544,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159628,
+        "text": "According to Lady Gaga, her âmeat dressâ was a comment on what cultural issue?",
+        "question_number": 15,
+        "eliminated": "8,509",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "2,390",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313898,
+            "text": "Animal rights",
+            "correct": false,
+            "count": "6,471",
+            "percent": "61.26%"
+          },
+          {
+            "id": 313899,
+            "text": "Donât ask, donât tell",
+            "correct": true,
+            "count": "2,390",
+            "percent": "22.63%"
+          },
+          {
+            "id": 313900,
+            "text": "Immigration",
+            "correct": false,
+            "count": "1,702",
+            "percent": "16.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-05/1/15",
+        "game_link": "/us/game/2019-12-05/1",
+        "correct_answers": 2390,
+        "incorrect_answers": 8173,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2418,
+        "game_id": 141905,
+        "question": "Which of these trends gotta go?",
+        "results": [
+          {
+            "id": 14013,
+            "display_count": "18",
+            "vote_count": 4979,
+            "text": "Boomerangs"
+          },
+          {
+            "id": 14012,
+            "display_count": "43",
+            "vote_count": 11498,
+            "text": "In My Feelings"
+          },
+          {
+            "id": 14011,
+            "display_count": "39",
+            "vote_count": 10545,
+            "text": "Uggs"
+          }
+        ],
+        "created_at": "2019-12-06T02:04:17Z"
+      },
+      {
+        "id": 2419,
+        "game_id": 141905,
+        "question": "Which trend was the best?",
+        "results": [
+          {
+            "id": 14019,
+            "display_count": "46",
+            "vote_count": 15689,
+            "text": "Lizzo"
+          },
+          {
+            "id": 14017,
+            "display_count": "41",
+            "vote_count": 14038,
+            "text": "TikTok"
+          },
+          {
+            "id": 14018,
+            "display_count": "13",
+            "vote_count": 4480,
+            "text": "Yeezys"
+          }
+        ],
+        "created_at": "2019-12-06T02:04:45Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 141924,
+    "show_id": 13128,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-12-06T02:30:00Z",
+    "direct_link": "/us/game/2019-12-05/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "2,642",
+      "currency": "$",
+      "average_prize": "0.38"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-12-05/2/1",
+        "question_number": 1,
+        "text": "Patriot Act",
+        "answer": [
+          "HAMILTON"
+        ],
+        "initial_letters": [
+          "\"H\""
+        ],
+        "to_reveal_letters": [
+          "L"
+        ],
+        "game_link": "/us/game/2019-12-05/2",
+        "eliminated": 5172,
+        "advancing": 39094,
+        "correct_answers": 39094,
+        "incorrect_answers": 5172
+      },
+      {
+        "direct_link": "/us/game/2019-12-05/2/2",
+        "question_number": 2,
+        "text": "Hulk Smash",
+        "answer": [
+          "THE",
+          "AVENGERS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "H",
+          "R"
+        ],
+        "game_link": "/us/game/2019-12-05/2",
+        "eliminated": 10831,
+        "advancing": 28705,
+        "correct_answers": 28705,
+        "incorrect_answers": 10831
+      },
+      {
+        "direct_link": "/us/game/2019-12-05/2/3",
+        "question_number": 3,
+        "text": "Patriot Act?",
+        "answer": [
+          "DEFLATEGATE"
+        ],
+        "initial_letters": [
+          "\"D\""
+        ],
+        "to_reveal_letters": [
+          "G"
+        ],
+        "game_link": "/us/game/2019-12-05/2",
+        "eliminated": 10101,
+        "advancing": 19489,
+        "correct_answers": 19489,
+        "incorrect_answers": 10101
+      },
+      {
+        "direct_link": "/us/game/2019-12-05/2/4",
+        "question_number": 4,
+        "text": "Filmed Family Feud",
+        "answer": [
+          "SOLANGE",
+          "&",
+          "JAY-Z"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"&\"",
+          "\"-\"",
+          "\"S\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "N"
+        ],
+        "game_link": "/us/game/2019-12-05/2",
+        "eliminated": 9304,
+        "advancing": 11097,
+        "correct_answers": 11097,
+        "incorrect_answers": 9304
+      },
+      {
+        "direct_link": "/us/game/2019-12-05/2/5",
+        "question_number": 5,
+        "text": "Frozen Flub",
+        "answer": [
+          "ADELE",
+          "DAZEEM"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"A\""
+        ],
+        "to_reveal_letters": [
+          "E"
+        ],
+        "game_link": "/us/game/2019-12-05/2",
+        "eliminated": 5833,
+        "advancing": 6235,
+        "correct_answers": 6235,
+        "incorrect_answers": 5833
+      },
+      {
+        "direct_link": "/us/game/2019-12-05/2/6",
+        "question_number": 6,
+        "text": "Popular Asian Job",
+        "answer": [
+          "K-POP",
+          "SUPERSTAR"
+        ],
+        "initial_letters": [
+          "\"-\"",
+          "\" \"",
+          "\"K\""
+        ],
+        "to_reveal_letters": [
+          "O",
+          "S"
+        ],
+        "game_link": "/us/game/2019-12-05/2",
+        "eliminated": 405,
+        "advancing": 6662,
+        "correct_answers": 6662,
+        "incorrect_answers": 405
+      },
+      {
+        "direct_link": "/us/game/2019-12-05/2/7",
+        "question_number": 7,
+        "text": "Brit Pops",
+        "answer": [
+          "BREXIT",
+          "REFERENDUM"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"F\""
+        ],
+        "to_reveal_letters": [
+          "E"
+        ],
+        "game_link": "/us/game/2019-12-05/2",
+        "eliminated": 2401,
+        "advancing": 4333,
+        "correct_answers": 4333,
+        "incorrect_answers": 2401
+      },
+      {
+        "direct_link": "/us/game/2019-12-05/2/8",
+        "question_number": 8,
+        "text": "Crossing The Streams",
+        "answer": [
+          "NETFLIX",
+          "ORIGINAL",
+          "SERIES"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "A"
+        ],
+        "game_link": "/us/game/2019-12-05/2",
+        "eliminated": 801,
+        "advancing": 4056,
+        "correct_answers": 4056,
+        "incorrect_answers": 801
+      },
+      {
+        "direct_link": "/us/game/2019-12-05/2/9",
+        "question_number": 9,
+        "text": "Dirty Affair",
+        "answer": [
+          "ASHLEY",
+          "MADISON",
+          "HACK"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"A\""
+        ],
+        "to_reveal_letters": [
+          "C"
+        ],
+        "game_link": "/us/game/2019-12-05/2",
+        "eliminated": 1937,
+        "advancing": 2327,
+        "correct_answers": 2327,
+        "incorrect_answers": 1937
+      },
+      {
+        "direct_link": "/us/game/2019-12-05/2/10",
+        "question_number": 10,
+        "text": "Photo Synthesis",
+        "answer": [
+          "ELLENâS",
+          "OSCAR",
+          "SELFIE"
+        ],
+        "initial_letters": [
+          "\"â\"",
+          "\" \"",
+          "\"A\""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2019-12-05/2",
+        "eliminated": 333,
+        "advancing": 2654,
+        "correct_answers": 2654,
+        "incorrect_answers": 333
+      },
+      {
+        "direct_link": "/us/game/2019-12-05/2/11",
+        "question_number": 11,
+        "text": "Divided Union",
+        "answer": [
+          "KIM",
+          "KARDASHIAN",
+          "&",
+          "KRIS",
+          "HUMPHRIES"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"&\"",
+          "\"K\""
+        ],
+        "to_reveal_letters": [
+          "I"
+        ],
+        "game_link": "/us/game/2019-12-05/2",
+        "eliminated": 122,
+        "advancing": 2629,
+        "correct_answers": 2629,
+        "incorrect_answers": 122
+      },
+      {
+        "direct_link": "/us/game/2019-12-05/2/12",
+        "question_number": 12,
+        "text": "Soaking Stunt",
+        "answer": [
+          "ICE",
+          "BUCKET",
+          "CHALLENGE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"I\""
+        ],
+        "to_reveal_letters": [
+          "K"
+        ],
+        "game_link": "/us/game/2019-12-05/2",
+        "eliminated": 57,
+        "advancing": 2642,
+        "correct_answers": 2642,
+        "incorrect_answers": 57
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": null
+  }
+]

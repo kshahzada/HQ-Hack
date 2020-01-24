@@ -1,0 +1,1636 @@
+[
+  {
+    "id": 136456,
+    "show_id": 12692,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-10-15T00:00:00Z",
+    "direct_link": "/us/game/2019-10-14/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,476",
+      "currency": "$",
+      "average_prize": "0.40"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 152553,
+        "text": "Which of these is considered a personal foul?",
+        "question_number": 1,
+        "eliminated": "-5,837",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "57,388",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303302,
+            "text": "Blocking",
+            "correct": true,
+            "count": "39,387",
+            "percent": "83.51%"
+          },
+          {
+            "id": 303303,
+            "text": "Traveling",
+            "correct": false,
+            "count": "4,955",
+            "percent": "10.51%"
+          },
+          {
+            "id": 303304,
+            "text": "Double dribble",
+            "correct": false,
+            "count": "2,820",
+            "percent": "5.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/1/1",
+        "game_link": "/us/game/2019-10-14/1",
+        "correct_answers": 39387,
+        "incorrect_answers": 7775,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152561,
+        "text": "Which of these teams joined the NBA from the ABA?",
+        "question_number": 2,
+        "eliminated": "1,830",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "55,638",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303314,
+            "text": "Charlotte Hornets",
+            "correct": false,
+            "count": "6,467",
+            "percent": "13.4%"
+          },
+          {
+            "id": 303315,
+            "text": "Denver Nuggets",
+            "correct": true,
+            "count": "29,169",
+            "percent": "60.42%"
+          },
+          {
+            "id": 303317,
+            "text": "Sacramento Kings",
+            "correct": false,
+            "count": "12,641",
+            "percent": "26.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/1/2",
+        "game_link": "/us/game/2019-10-14/1",
+        "correct_answers": 29169,
+        "incorrect_answers": 19108,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152569,
+        "text": "On what team did LeBron play during his best season for rebounds and assists per game?",
+        "question_number": 3,
+        "eliminated": "6,934",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "48,803",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303326,
+            "text": "Miami Heat",
+            "correct": false,
+            "count": "19,061",
+            "percent": "41.85%"
+          },
+          {
+            "id": 303327,
+            "text": "LA Lakers",
+            "correct": false,
+            "count": "4,846",
+            "percent": "10.64%"
+          },
+          {
+            "id": 303329,
+            "text": "Cleveland Cavaliers",
+            "correct": true,
+            "count": "21,639",
+            "percent": "47.51%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/1/3",
+        "game_link": "/us/game/2019-10-14/1",
+        "correct_answers": 21639,
+        "incorrect_answers": 23907,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152577,
+        "text": "What D1 school has reached the semis in the NCAA tournament the greatest number of times?",
+        "question_number": 4,
+        "eliminated": "8,079",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "41,528",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303338,
+            "text": "Kentucky",
+            "correct": false,
+            "count": "9,467",
+            "percent": "22.44%"
+          },
+          {
+            "id": 303341,
+            "text": "UCLA",
+            "correct": false,
+            "count": "18,691",
+            "percent": "44.31%"
+          },
+          {
+            "id": 303345,
+            "text": "North Carolina",
+            "correct": true,
+            "count": "14,027",
+            "percent": "33.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/1/4",
+        "game_link": "/us/game/2019-10-14/1",
+        "correct_answers": 14027,
+        "incorrect_answers": 28158,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152585,
+        "text": "In the 2016 playoffs, what team besides the Cavs came back from a 3-1 deficit to win a series?",
+        "question_number": 5,
+        "eliminated": "5,667",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "36,732",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303350,
+            "text": "Thunder",
+            "correct": false,
+            "count": "5,778",
+            "percent": "15.88%"
+          },
+          {
+            "id": 303352,
+            "text": "Warriors",
+            "correct": true,
+            "count": "24,613",
+            "percent": "67.66%"
+          },
+          {
+            "id": 303355,
+            "text": "Rockets",
+            "correct": false,
+            "count": "5,984",
+            "percent": "16.45%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/1/5",
+        "game_link": "/us/game/2019-10-14/1",
+        "correct_answers": 24613,
+        "incorrect_answers": 11762,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152593,
+        "text": "What menâs college basketball team won the title while scoring more than 100 points in the championship?",
+        "question_number": 6,
+        "eliminated": "8,913",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "28,219",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303362,
+            "text": "UNLV",
+            "correct": true,
+            "count": "15,407",
+            "percent": "46.88%"
+          },
+          {
+            "id": 303364,
+            "text": "Duke",
+            "correct": false,
+            "count": "11,352",
+            "percent": "34.54%"
+          },
+          {
+            "id": 303367,
+            "text": "UCLA",
+            "correct": false,
+            "count": "6,107",
+            "percent": "18.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/1/6",
+        "game_link": "/us/game/2019-10-14/1",
+        "correct_answers": 15407,
+        "incorrect_answers": 17459,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152602,
+        "text": "Who is the only WNBA player to hit a thousand 3-pointers?",
+        "question_number": 7,
+        "eliminated": "6,408",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "22,793",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303374,
+            "text": "Sue Bird",
+            "correct": false,
+            "count": "4,483",
+            "percent": "17.01%"
+          },
+          {
+            "id": 303378,
+            "text": "Diana Taurasi",
+            "correct": true,
+            "count": "15,156",
+            "percent": "57.52%"
+          },
+          {
+            "id": 303380,
+            "text": "Becky Hammon",
+            "correct": false,
+            "count": "6,711",
+            "percent": "25.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/1/7",
+        "game_link": "/us/game/2019-10-14/1",
+        "correct_answers": 15156,
+        "incorrect_answers": 11194,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152609,
+        "text": "What shoes were once supposedly banned by the NBA?",
+        "question_number": 8,
+        "eliminated": "6,696",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "16,989",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303386,
+            "text": "Air Jordans",
+            "correct": true,
+            "count": "11,363",
+            "percent": "52.0%"
+          },
+          {
+            "id": 303389,
+            "text": "Big Baller Brand",
+            "correct": false,
+            "count": "4,137",
+            "percent": "18.93%"
+          },
+          {
+            "id": 303393,
+            "text": "Converse All-Stars",
+            "correct": false,
+            "count": "6,354",
+            "percent": "29.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/1/8",
+        "game_link": "/us/game/2019-10-14/1",
+        "correct_answers": 11363,
+        "incorrect_answers": 10491,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152617,
+        "text": "Which of these players did NOT average a double-double for his career?",
+        "question_number": 9,
+        "eliminated": "5,925",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "11,949",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303398,
+            "text": "Larry Bird",
+            "correct": false,
+            "count": "3,791",
+            "percent": "22.99%"
+          },
+          {
+            "id": 303400,
+            "text": "Patrick Ewing",
+            "correct": true,
+            "count": "8,309",
+            "percent": "50.38%"
+          },
+          {
+            "id": 303403,
+            "text": "Magic Johnson",
+            "correct": false,
+            "count": "4,393",
+            "percent": "26.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/1/9",
+        "game_link": "/us/game/2019-10-14/1",
+        "correct_answers": 8309,
+        "incorrect_answers": 8184,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152625,
+        "text": "What player led both the ABA and NBA in scoring?",
+        "question_number": 10,
+        "eliminated": "3,030",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "9,939",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303410,
+            "text": "George Gervin",
+            "correct": false,
+            "count": "1,825",
+            "percent": "14.76%"
+          },
+          {
+            "id": 303413,
+            "text": "Rick Barry",
+            "correct": true,
+            "count": "7,661",
+            "percent": "61.97%"
+          },
+          {
+            "id": 303417,
+            "text": "Julius Erving",
+            "correct": false,
+            "count": "2,877",
+            "percent": "23.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/1/10",
+        "game_link": "/us/game/2019-10-14/1",
+        "correct_answers": 7661,
+        "incorrect_answers": 4702,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152633,
+        "text": "What is the only team besides the Celtics to win a title with a player-coach?",
+        "question_number": 11,
+        "eliminated": "6,628",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,065",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303422,
+            "text": "Bullets",
+            "correct": true,
+            "count": "4,065",
+            "percent": "39.65%"
+          },
+          {
+            "id": 303424,
+            "text": "Sonics",
+            "correct": false,
+            "count": "1,554",
+            "percent": "15.16%"
+          },
+          {
+            "id": 303428,
+            "text": "Lakers",
+            "correct": false,
+            "count": "4,633",
+            "percent": "45.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/1/11",
+        "game_link": "/us/game/2019-10-14/1",
+        "correct_answers": 4065,
+        "incorrect_answers": 6187,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152641,
+        "text": "Which player did NOT lead Team USA in scoring at more than one Olympics?",
+        "question_number": 12,
+        "eliminated": "4,280",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,476",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303434,
+            "text": "Kobe Bryant",
+            "correct": true,
+            "count": "2,476",
+            "percent": "37.48%"
+          },
+          {
+            "id": 303436,
+            "text": "Charles Barkley",
+            "correct": false,
+            "count": "1,962",
+            "percent": "29.7%"
+          },
+          {
+            "id": 303439,
+            "text": "Kevin Durant",
+            "correct": false,
+            "count": "2,168",
+            "percent": "32.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/1/12",
+        "game_link": "/us/game/2019-10-14/1",
+        "correct_answers": 2476,
+        "incorrect_answers": 4130,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2025,
+        "game_id": 136456,
+        "question": "Which of this year's Finals favorites are most likely to blow it?",
+        "results": [
+          {
+            "id": 11879,
+            "display_count": "25",
+            "vote_count": 3988,
+            "text": "Bucks"
+          },
+          {
+            "id": 11876,
+            "display_count": "25",
+            "vote_count": 4017,
+            "text": "Clippers"
+          },
+          {
+            "id": 11872,
+            "display_count": "51",
+            "vote_count": 8196,
+            "text": "Lakers"
+          }
+        ],
+        "created_at": "2019-10-15T00:10:53Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 136516,
+    "show_id": 12380,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "25,000",
+    "currency": "$",
+    "start_time": "2019-10-15T01:00:00Z",
+    "direct_link": "/us/game/2019-10-14/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      null,
+      {
+        "id": 152649,
+        "text": "Which color is in the middle of the visible spectrum?",
+        "question_number": 2,
+        "eliminated": "4,299",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "140,434",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303446,
+            "text": "Violet",
+            "correct": false,
+            "count": "14,222",
+            "percent": "10.78%"
+          },
+          {
+            "id": 303447,
+            "text": "Red",
+            "correct": false,
+            "count": "15,716",
+            "percent": "11.91%"
+          },
+          {
+            "id": 303448,
+            "text": "Green",
+            "correct": true,
+            "count": "101,982",
+            "percent": "77.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/2",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 101982,
+        "incorrect_answers": 29938,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152657,
+        "text": "Fenty Beauty is a cosmetics brand launched by what celebrity?",
+        "question_number": 3,
+        "eliminated": "9,983",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "130,663",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303458,
+            "text": "Jennifer Lawrence",
+            "correct": false,
+            "count": "8,908",
+            "percent": "6.92%"
+          },
+          {
+            "id": 303459,
+            "text": "Kelly Ripa",
+            "correct": false,
+            "count": "9,767",
+            "percent": "7.59%"
+          },
+          {
+            "id": 303460,
+            "text": "Rihanna",
+            "correct": true,
+            "count": "109,971",
+            "percent": "85.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/3",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 109971,
+        "incorrect_answers": 18675,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152665,
+        "text": "French presses are commonly used in the making of which of these?",
+        "question_number": 4,
+        "eliminated": "8,944",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "122,057",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303470,
+            "text": "Olive oil",
+            "correct": false,
+            "count": "7,073",
+            "percent": "5.73%"
+          },
+          {
+            "id": 303471,
+            "text": "Wine",
+            "correct": false,
+            "count": "7,879",
+            "percent": "6.38%"
+          },
+          {
+            "id": 303472,
+            "text": "Coffee",
+            "correct": true,
+            "count": "108,473",
+            "percent": "87.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/4",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 108473,
+        "incorrect_answers": 14952,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152673,
+        "text": "What part of a stage musical is in the âbookâ?",
+        "question_number": 5,
+        "eliminated": "38,022",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "84,738",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303482,
+            "text": "Lyrics",
+            "correct": false,
+            "count": "20,590",
+            "percent": "17.68%"
+          },
+          {
+            "id": 303484,
+            "text": "Music",
+            "correct": false,
+            "count": "40,461",
+            "percent": "34.74%"
+          },
+          {
+            "id": 303486,
+            "text": "Spoken lines",
+            "correct": true,
+            "count": "55,415",
+            "percent": "47.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/5",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 55415,
+        "incorrect_answers": 61051,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152681,
+        "text": "Which of these bays is contained completely within Canada?",
+        "question_number": 6,
+        "eliminated": "21,571",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "73,194",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303494,
+            "text": "Hudson Bay",
+            "correct": true,
+            "count": "57,794",
+            "percent": "64.02%"
+          },
+          {
+            "id": 303495,
+            "text": "Biscayne Bay",
+            "correct": false,
+            "count": "17,555",
+            "percent": "19.45%"
+          },
+          {
+            "id": 303496,
+            "text": "Buzzards Bay",
+            "correct": false,
+            "count": "14,927",
+            "percent": "16.53%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/6",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 57794,
+        "incorrect_answers": 32482,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152689,
+        "text": "What band mentions Frank Zappa in their best-selling single?",
+        "question_number": 7,
+        "eliminated": "13,107",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "63,748",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303506,
+            "text": "Iron Butterfly",
+            "correct": false,
+            "count": "9,613",
+            "percent": "13.01%"
+          },
+          {
+            "id": 303507,
+            "text": "Deep Purple",
+            "correct": true,
+            "count": "56,320",
+            "percent": "76.24%"
+          },
+          {
+            "id": 303508,
+            "text": "Derek & The Dominos",
+            "correct": false,
+            "count": "7,943",
+            "percent": "10.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/7",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 56320,
+        "incorrect_answers": 17556,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152697,
+        "text": "In filmmaking, what is physically moving a camera along tracks called?",
+        "question_number": 8,
+        "eliminated": "32,316",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "34,326",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303518,
+            "text": "Bridging",
+            "correct": false,
+            "count": "2,833",
+            "percent": "4.42%"
+          },
+          {
+            "id": 303519,
+            "text": "Panning",
+            "correct": false,
+            "count": "36,092",
+            "percent": "56.26%"
+          },
+          {
+            "id": 303520,
+            "text": "Trucking",
+            "correct": true,
+            "count": "25,225",
+            "percent": "39.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/8",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 25225,
+        "incorrect_answers": 38925,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152705,
+        "text": "Which of these animals is known to have passed the âmirror testâ?",
+        "question_number": 9,
+        "eliminated": "20,297",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "24,047",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303530,
+            "text": "Panda",
+            "correct": false,
+            "count": "6,247",
+            "percent": "14.38%"
+          },
+          {
+            "id": 303532,
+            "text": "Orca",
+            "correct": true,
+            "count": "18,970",
+            "percent": "43.67%"
+          },
+          {
+            "id": 303536,
+            "text": "Dog",
+            "correct": false,
+            "count": "18,219",
+            "percent": "41.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/9",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 18970,
+        "incorrect_answers": 24466,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152713,
+        "text": "Which is NOT in the title of any âGarfieldâ books?",
+        "question_number": 10,
+        "eliminated": "16,997",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "15,496",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303542,
+            "text": "Blot out the sun",
+            "correct": false,
+            "count": "8,241",
+            "percent": "26.38%"
+          },
+          {
+            "id": 303543,
+            "text": "Crash through the floor",
+            "correct": true,
+            "count": "11,691",
+            "percent": "37.42%"
+          },
+          {
+            "id": 303546,
+            "text": "Lose his feet",
+            "correct": false,
+            "count": "11,307",
+            "percent": "36.2%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/10",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 11691,
+        "incorrect_answers": 19548,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152721,
+        "text": "What TV cop show was set in a fictional city?",
+        "question_number": 11,
+        "eliminated": "9,445",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "13,797",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303554,
+            "text": "Mannix",
+            "correct": false,
+            "count": "3,813",
+            "percent": "16.71%"
+          },
+          {
+            "id": 303557,
+            "text": "Columbo",
+            "correct": false,
+            "count": "5,212",
+            "percent": "22.84%"
+          },
+          {
+            "id": 303561,
+            "text": "Starsky & Hutch",
+            "correct": true,
+            "count": "13,797",
+            "percent": "60.45%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/11",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 13797,
+        "incorrect_answers": 9025,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152729,
+        "text": "What is the capital of a US state whose state motto is in Italian?",
+        "question_number": 12,
+        "eliminated": "12,642",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "6,563",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303566,
+            "text": "Lansing",
+            "correct": false,
+            "count": "10,388",
+            "percent": "55.22%"
+          },
+          {
+            "id": 303568,
+            "text": "Annapolis",
+            "correct": true,
+            "count": "6,563",
+            "percent": "34.89%"
+          },
+          {
+            "id": 303571,
+            "text": "Charleston",
+            "correct": false,
+            "count": "1,862",
+            "percent": "9.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/12",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 6563,
+        "incorrect_answers": 12250,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 12,
+          "players_left": 10198,
+          "players_left_formatted": "10,198",
+          "num_winners": 1910,
+          "num_winners_formatted": "1,910",
+          "prize": 0.08,
+          "prize_formatted": "$0.08",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 152737,
+        "text": "The idea that posting misinformation online will bring about the truth is credited to a man with what job?",
+        "question_number": 13,
+        "eliminated": "9,037",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "2,071",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303578,
+            "text": "Economist",
+            "correct": false,
+            "count": "2,120",
+            "percent": "22.02%"
+          },
+          {
+            "id": 303579,
+            "text": "Cartoonist",
+            "correct": false,
+            "count": "5,437",
+            "percent": "56.47%"
+          },
+          {
+            "id": 303580,
+            "text": "Programmer",
+            "correct": true,
+            "count": "2,071",
+            "percent": "21.51%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/13",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 2071,
+        "incorrect_answers": 7557,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152745,
+        "text": "Which of these characters appears in both a classic novel and its movie adaptation?",
+        "question_number": 14,
+        "eliminated": "3,695",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "2,780",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303590,
+            "text": "Apollonia Corleone",
+            "correct": true,
+            "count": "2,780",
+            "percent": "46.1%"
+          },
+          {
+            "id": 303591,
+            "text": "Tattypoo",
+            "correct": false,
+            "count": "1,073",
+            "percent": "17.79%"
+          },
+          {
+            "id": 303592,
+            "text": "Alexandra Finch",
+            "correct": false,
+            "count": "2,177",
+            "percent": "36.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/14",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 2780,
+        "incorrect_answers": 3250,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152753,
+        "text": "How many times does Scatman John sing âSki-bi dibby dipâ in âScatman (Ski-Ba-Bop-Ba-Dop-Bop)â?",
+        "question_number": 15,
+        "eliminated": "2,725",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "2,087",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303602,
+            "text": "Three",
+            "correct": false,
+            "count": "727",
+            "percent": "16.46%"
+          },
+          {
+            "id": 303604,
+            "text": "Six",
+            "correct": false,
+            "count": "1,602",
+            "percent": "36.28%"
+          },
+          {
+            "id": 303606,
+            "text": "Twelve",
+            "correct": true,
+            "count": "2,087",
+            "percent": "47.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/15",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 2087,
+        "incorrect_answers": 2329,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 15,
+          "players_left": 1832,
+          "players_left_formatted": "1,832",
+          "num_winners": 1250,
+          "num_winners_formatted": "1,250",
+          "prize": 0.48,
+          "prize_formatted": "$0.48",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 152761,
+        "text": "Which of these pilgrims in âThe Canterbury Talesâ tells his tale earlier than the other two?",
+        "question_number": 16,
+        "eliminated": "1,409",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "667",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303614,
+            "text": "The Pardoner",
+            "correct": false,
+            "count": "383",
+            "percent": "21.28%"
+          },
+          {
+            "id": 303615,
+            "text": "The Cook",
+            "correct": true,
+            "count": "667",
+            "percent": "37.06%"
+          },
+          {
+            "id": 303616,
+            "text": "The Wife of Bath",
+            "correct": false,
+            "count": "750",
+            "percent": "41.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/16",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 667,
+        "incorrect_answers": 1133,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152769,
+        "text": "Actors who play James Bond are allegedly contractually prohibited from doing what in other films?",
+        "question_number": 17,
+        "eliminated": "347",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "765",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303626,
+            "text": "Wearing a tux",
+            "correct": true,
+            "count": "767",
+            "percent": "70.11%"
+          },
+          {
+            "id": 303627,
+            "text": "Firing a gun",
+            "correct": false,
+            "count": "64",
+            "percent": "5.85%"
+          },
+          {
+            "id": 303628,
+            "text": "Mixing a cocktail",
+            "correct": false,
+            "count": "263",
+            "percent": "24.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/17",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 767,
+        "incorrect_answers": 327,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152777,
+        "text": "As a prisoner, which of these figures mentored the British's monarch's son?",
+        "question_number": 18,
+        "eliminated": "592",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "282",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303638,
+            "text": "Walter Raleigh",
+            "correct": false,
+            "count": "237",
+            "percent": "27.56%"
+          },
+          {
+            "id": 303639,
+            "text": "William Shakespeare",
+            "correct": false,
+            "count": "341",
+            "percent": "39.65%"
+          },
+          {
+            "id": 303640,
+            "text": "Guy Fawkes",
+            "correct": true,
+            "count": "282",
+            "percent": "32.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/18",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 282,
+        "incorrect_answers": 578,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152785,
+        "text": "Which celebrity's Twitter handle references his birthplace?",
+        "question_number": 19,
+        "eliminated": "117",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "164",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303650,
+            "text": "Chris Pratt",
+            "correct": false,
+            "count": "27",
+            "percent": "9.64%"
+          },
+          {
+            "id": 303651,
+            "text": "Ryan Reynolds",
+            "correct": true,
+            "count": "164",
+            "percent": "58.57%"
+          },
+          {
+            "id": 303653,
+            "text": "LeBron James",
+            "correct": false,
+            "count": "89",
+            "percent": "31.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/19",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 164,
+        "incorrect_answers": 116,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152793,
+        "text": "Of these three companies, which has filed the most Artificial Intelligence patents?",
+        "question_number": 20,
+        "eliminated": "63",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "101",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303662,
+            "text": "Qualcomm",
+            "correct": true,
+            "count": "101",
+            "percent": "62.73%"
+          },
+          {
+            "id": 303665,
+            "text": "Intel",
+            "correct": false,
+            "count": "31",
+            "percent": "19.25%"
+          },
+          {
+            "id": 303668,
+            "text": "Sony",
+            "correct": false,
+            "count": "29",
+            "percent": "18.01%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/20",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 101,
+        "incorrect_answers": 60,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152801,
+        "text": "According to his published schedule, what does Mark Wahlberg do for exactly half an hour every day?",
+        "question_number": 21,
+        "eliminated": "82",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "19",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303674,
+            "text": "Play golf",
+            "correct": true,
+            "count": "19",
+            "percent": "18.81%"
+          },
+          {
+            "id": 303677,
+            "text": "Nap",
+            "correct": false,
+            "count": "22",
+            "percent": "21.78%"
+          },
+          {
+            "id": 303680,
+            "text": "Cryo chamber",
+            "correct": false,
+            "count": "60",
+            "percent": "59.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/21",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 19,
+        "incorrect_answers": 82,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 21,
+          "players_left": 4,
+          "players_left_formatted": "4",
+          "num_winners": 15,
+          "num_winners_formatted": "15",
+          "prize": 78.95,
+          "prize_formatted": "$78.95",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 152809,
+        "text": "As a child, which world leader visited London for the wedding of Prince Charles and Lady Diana?",
+        "question_number": 22,
+        "eliminated": "1",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "3",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303686,
+            "text": "Angela Merkel",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 303689,
+            "text": "Justin Trudeau",
+            "correct": true,
+            "count": "3",
+            "percent": "100.0%"
+          },
+          {
+            "id": 303692,
+            "text": "Barack Obama",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/22",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 3,
+        "incorrect_answers": 0,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152817,
+        "text": "The longest winning streak in âJeopardy!â history was eventually stopped by a question about what?",
+        "question_number": 23,
+        "eliminated": "0",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "3",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303698,
+            "text": "Seasonal working",
+            "correct": true,
+            "count": "3",
+            "percent": "100.0%"
+          },
+          {
+            "id": 303701,
+            "text": "Computer chips",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 303706,
+            "text": "Rail routes",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/23",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 3,
+        "incorrect_answers": 0,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152825,
+        "text": "Which of these celebrated childrenâs authors had children of their own?",
+        "question_number": 24,
+        "eliminated": "0",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "3",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303710,
+            "text": "Dr. Seuss",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 303711,
+            "text": "Roald Dahl",
+            "correct": true,
+            "count": "3",
+            "percent": "100.0%"
+          },
+          {
+            "id": 303712,
+            "text": "Beatrix Potter",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/24",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 3,
+        "incorrect_answers": 0,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152833,
+        "text": "Which member of the Spice Girls once challenged a member of Oasis to a fight?",
+        "question_number": 25,
+        "eliminated": "3",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "0",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 303722,
+            "text": "Ginger",
+            "correct": false,
+            "count": "3",
+            "percent": "100.0%"
+          },
+          {
+            "id": 303723,
+            "text": "Sporty",
+            "correct": true,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 303725,
+            "text": "Scary",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-14/2/25",
+        "game_link": "/us/game/2019-10-14/2",
+        "correct_answers": 0,
+        "incorrect_answers": 3,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2029,
+        "game_id": 136516,
+        "question": "What was your favorite season 7 show?",
+        "results": [
+          {
+            "id": 11897,
+            "display_count": "34",
+            "vote_count": 11740,
+            "text": "After Dark"
+          },
+          {
+            "id": 11896,
+            "display_count": "41",
+            "vote_count": 14113,
+            "text": "Friends Trivia"
+          },
+          {
+            "id": 11900,
+            "display_count": "24",
+            "vote_count": 8380,
+            "text": "Tunes"
+          }
+        ],
+        "created_at": "2019-10-15T01:03:38Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 15,
+        "players_left": 1832,
+        "players_left_formatted": "1,832",
+        "num_winners": 1250,
+        "num_winners_formatted": "1,250",
+        "prize": 0.48,
+        "prize_formatted": "$0.48",
+        "currency": "$"
+      },
+      {
+        "round_number": 21,
+        "players_left": 4,
+        "players_left_formatted": "4",
+        "num_winners": 15,
+        "num_winners_formatted": "15",
+        "prize": 78.95,
+        "prize_formatted": "$78.95",
+        "currency": "$"
+      },
+      {
+        "round_number": 12,
+        "players_left": 10198,
+        "players_left_formatted": "10,198",
+        "num_winners": 1910,
+        "num_winners_formatted": "1,910",
+        "prize": 0.08,
+        "prize_formatted": "$0.08",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "1,937.05",
+    "total_checkpoint_winners": "3,175",
+    "smallest_checkpoint_prize": "$0.08",
+    "largest_checkpoint_prize": "$78.95",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

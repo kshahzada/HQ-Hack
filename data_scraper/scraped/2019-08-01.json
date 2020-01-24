@@ -1,0 +1,1211 @@
+[
+  {
+    "id": 125236,
+    "show_id": 11962,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "235,000",
+    "currency": "$",
+    "start_time": "2019-08-02T01:00:00Z",
+    "direct_link": "/us/game/2019-08-01/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Star Trek",
+        "slug": "star-trek"
+      },
+      {
+        "name": "Checkpoints",
+        "slug": "checkpoints"
+      }
+    ],
+    "questions": [
+      {
+        "id": 137060,
+        "text": "What catchphrase is Jean-Luc Picard known for?",
+        "question_number": 1,
+        "eliminated": "-25,091",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "235,652",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 280063,
+            "text": "Your way, right away.",
+            "correct": false,
+            "count": "18,730",
+            "percent": "9.42%"
+          },
+          {
+            "id": 280066,
+            "text": "Thick thighs save lives.",
+            "correct": false,
+            "count": "9,536",
+            "percent": "4.8%"
+          },
+          {
+            "id": 280068,
+            "text": "Make it so.",
+            "correct": true,
+            "count": "170,515",
+            "percent": "85.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-01/1/1",
+        "game_link": "/us/game/2019-08-01/1",
+        "correct_answers": 170515,
+        "incorrect_answers": 28266,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 137076,
+        "text": "The hive mind of the Borg is known as what?",
+        "question_number": 2,
+        "eliminated": "6,665",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "229,145",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 280087,
+            "text": "The Collective",
+            "correct": true,
+            "count": "182,891",
+            "percent": "90.49%"
+          },
+          {
+            "id": 280090,
+            "text": "The Collection",
+            "correct": false,
+            "count": "9,897",
+            "percent": "4.9%"
+          },
+          {
+            "id": 280096,
+            "text": "The Collaboration",
+            "correct": false,
+            "count": "9,325",
+            "percent": "4.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-01/1/2",
+        "game_link": "/us/game/2019-08-01/1",
+        "correct_answers": 182891,
+        "incorrect_answers": 19222,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 137093,
+        "text": "In the classic episode âMirror Mirror,â how was evil Spock visually different from regular Spock?",
+        "question_number": 3,
+        "eliminated": "8,102",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "221,170",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 280111,
+            "text": "Goatee",
+            "correct": true,
+            "count": "158,639",
+            "percent": "81.26%"
+          },
+          {
+            "id": 280114,
+            "text": "Man bun",
+            "correct": false,
+            "count": "8,689",
+            "percent": "4.45%"
+          },
+          {
+            "id": 280118,
+            "text": "Doubly-pointed ears",
+            "correct": false,
+            "count": "27,885",
+            "percent": "14.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-01/1/3",
+        "game_link": "/us/game/2019-08-01/1",
+        "correct_answers": 158639,
+        "incorrect_answers": 36574,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 137108,
+        "text": "A maneuver involving a short jump at warp speed is named what?",
+        "question_number": 4,
+        "eliminated": "10,557",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "210,911",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 280135,
+            "text": "Archer Maneuver",
+            "correct": false,
+            "count": "50,664",
+            "percent": "26.55%"
+          },
+          {
+            "id": 280140,
+            "text": "Picard Maneuver",
+            "correct": true,
+            "count": "107,517",
+            "percent": "56.35%"
+          },
+          {
+            "id": 280145,
+            "text": "Janeway Maneuver",
+            "correct": false,
+            "count": "32,630",
+            "percent": "17.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-01/1/4",
+        "game_link": "/us/game/2019-08-01/1",
+        "correct_answers": 107517,
+        "incorrect_answers": 83294,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 137124,
+        "text": "What âVoyagerâ character physically merged with another in a transporter mishap?",
+        "question_number": 5,
+        "eliminated": "8,442",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "203,192",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 280158,
+            "text": "Chakotay",
+            "correct": false,
+            "count": "32,015",
+            "percent": "17.63%"
+          },
+          {
+            "id": 280166,
+            "text": "Neelix",
+            "correct": true,
+            "count": "132,689",
+            "percent": "73.09%"
+          },
+          {
+            "id": 280173,
+            "text": "Tom Paris",
+            "correct": false,
+            "count": "16,843",
+            "percent": "9.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-01/1/5",
+        "game_link": "/us/game/2019-08-01/1",
+        "correct_answers": 132689,
+        "incorrect_answers": 48858,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 137140,
+        "text": "How do male Starfleet officers typically wear their sideburns?",
+        "question_number": 6,
+        "eliminated": "10,214",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "193,365",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 280182,
+            "text": "Rounded",
+            "correct": false,
+            "count": "10,165",
+            "percent": "5.76%"
+          },
+          {
+            "id": 280184,
+            "text": "Squared",
+            "correct": false,
+            "count": "45,662",
+            "percent": "25.9%"
+          },
+          {
+            "id": 280186,
+            "text": "Pointed",
+            "correct": true,
+            "count": "120,502",
+            "percent": "68.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-01/1/6",
+        "game_link": "/us/game/2019-08-01/1",
+        "correct_answers": 120502,
+        "incorrect_answers": 55827,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 137158,
+        "text": "What âNext Generationâ role was NOT played by the longtime wife of Gene Roddenberry?",
+        "question_number": 7,
+        "eliminated": "17,025",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "177,007",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 280211,
+            "text": "Lwaxana Troi",
+            "correct": false,
+            "count": "26,604",
+            "percent": "15.91%"
+          },
+          {
+            "id": 280214,
+            "text": "Dr. Pulaski",
+            "correct": true,
+            "count": "93,963",
+            "percent": "56.19%"
+          },
+          {
+            "id": 280216,
+            "text": "Shipâs computer",
+            "correct": false,
+            "count": "46,662",
+            "percent": "27.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-01/1/7",
+        "game_link": "/us/game/2019-08-01/1",
+        "correct_answers": 93963,
+        "incorrect_answers": 73266,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 137173,
+        "text": "The actor behind which of these characters also had a role in  âStar Trek VI: The Undiscovered Countryâ?",
+        "question_number": 8,
+        "eliminated": "16,157",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "163,556",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 280232,
+            "text": "Odo",
+            "correct": true,
+            "count": "91,543",
+            "percent": "58.9%"
+          },
+          {
+            "id": 280238,
+            "text": "Seven of Nine",
+            "correct": false,
+            "count": "36,111",
+            "percent": "23.24%"
+          },
+          {
+            "id": 280245,
+            "text": "Chakotay",
+            "correct": false,
+            "count": "27,759",
+            "percent": "17.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-01/1/8",
+        "game_link": "/us/game/2019-08-01/1",
+        "correct_answers": 91543,
+        "incorrect_answers": 63870,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 137187,
+        "text": "In what episode was this music first heard?",
+        "question_number": 9,
+        "eliminated": "30,930",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "133,825",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 280253,
+            "text": "Operation: Annihilate!",
+            "correct": false,
+            "count": "15,731",
+            "percent": "10.68%"
+          },
+          {
+            "id": 280255,
+            "text": "Amok Time",
+            "correct": true,
+            "count": "103,198",
+            "percent": "70.04%"
+          },
+          {
+            "id": 280262,
+            "text": "Bread and Circuses",
+            "correct": false,
+            "count": "28,423",
+            "percent": "19.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-01/1/9",
+        "game_link": "/us/game/2019-08-01/1",
+        "correct_answers": 103198,
+        "incorrect_answers": 44154,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 137201,
+        "text": "What billionaire CEO has played an alien in the âStar Trekâ universe?",
+        "question_number": 10,
+        "eliminated": "46,471",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "90,169",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 280274,
+            "text": "Bill Gates",
+            "correct": false,
+            "count": "18,267",
+            "percent": "14.38%"
+          },
+          {
+            "id": 280276,
+            "text": "Jeff Bezos",
+            "correct": true,
+            "count": "82,012",
+            "percent": "64.56%"
+          },
+          {
+            "id": 280278,
+            "text": "Elon Musk",
+            "correct": false,
+            "count": "26,753",
+            "percent": "21.06%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-01/1/10",
+        "game_link": "/us/game/2019-08-01/1",
+        "correct_answers": 82012,
+        "incorrect_answers": 45020,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 137217,
+        "text": "Which is NOT one of the ways Dr. McCoy completes his famous âIâm a doctor, not a _____â line?",
+        "question_number": 11,
+        "eliminated": "63,693",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "33,551",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 280298,
+            "text": "Coal miner",
+            "correct": false,
+            "count": "30,212",
+            "percent": "32.36%"
+          },
+          {
+            "id": 280300,
+            "text": "Escalator",
+            "correct": false,
+            "count": "29,596",
+            "percent": "31.7%"
+          },
+          {
+            "id": 280304,
+            "text": "Dentist",
+            "correct": true,
+            "count": "33,551",
+            "percent": "35.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-01/1/11",
+        "game_link": "/us/game/2019-08-01/1",
+        "correct_answers": 33551,
+        "incorrect_answers": 59808,
+        "savage": true,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 28284,
+          "players_left_formatted": "28,284",
+          "num_winners": 5267,
+          "num_winners_formatted": "5,267",
+          "prize": 0.06,
+          "prize_formatted": "$0.06",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 137233,
+        "text": "Who composed two different theme songs for âStar Trekâ TV series?",
+        "question_number": 12,
+        "eliminated": "10,080",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "22,471",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 280322,
+            "text": "Jeff Russo",
+            "correct": false,
+            "count": "1,252",
+            "percent": "4.42%"
+          },
+          {
+            "id": 280325,
+            "text": "Jerry Goldsmith",
+            "correct": true,
+            "count": "22,471",
+            "percent": "79.41%"
+          },
+          {
+            "id": 280329,
+            "text": "Dennis McCarthy",
+            "correct": false,
+            "count": "4,573",
+            "percent": "16.16%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-01/1/12",
+        "game_link": "/us/game/2019-08-01/1",
+        "correct_answers": 22471,
+        "incorrect_answers": 5825,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 137249,
+        "text": "Jonathan Archerâs pet was named for a character from what?",
+        "question_number": 13,
+        "eliminated": "12,587",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "14,212",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 280346,
+            "text": "Literature",
+            "correct": true,
+            "count": "14,212",
+            "percent": "53.43%"
+          },
+          {
+            "id": 280348,
+            "text": "Opera",
+            "correct": false,
+            "count": "4,479",
+            "percent": "16.84%"
+          },
+          {
+            "id": 280351,
+            "text": "Mythology",
+            "correct": false,
+            "count": "7,908",
+            "percent": "29.73%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-01/1/13",
+        "game_link": "/us/game/2019-08-01/1",
+        "correct_answers": 14212,
+        "incorrect_answers": 12387,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 137265,
+        "text": "A popular game at Quarkâs is spelled almost exactly the same as the name of the actress behind what character?",
+        "question_number": 14,
+        "eliminated": "10,108",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "4,104",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 280370,
+            "text": "Ro Laren",
+            "correct": false,
+            "count": "5,654",
+            "percent": "40.76%"
+          },
+          {
+            "id": 280371,
+            "text": "Amanda Rogers",
+            "correct": true,
+            "count": "4,104",
+            "percent": "29.59%"
+          },
+          {
+            "id": 280372,
+            "text": "Leah Brahms",
+            "correct": false,
+            "count": "4,112",
+            "percent": "29.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-01/1/14",
+        "game_link": "/us/game/2019-08-01/1",
+        "correct_answers": 4104,
+        "incorrect_answers": 9766,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 137281,
+        "text": "Which of these âStar Trekâ series features an episode mainly set at the farthest time in the future?",
+        "question_number": 15,
+        "eliminated": "2,659",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "1,441",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 280394,
+            "text": "Enterprise",
+            "correct": false,
+            "count": "1,287",
+            "percent": "31.8%"
+          },
+          {
+            "id": 280395,
+            "text": "The Next Generation",
+            "correct": false,
+            "count": "1,319",
+            "percent": "32.59%"
+          },
+          {
+            "id": 280398,
+            "text": "Discovery",
+            "correct": true,
+            "count": "1,441",
+            "percent": "35.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-01/1/15",
+        "game_link": "/us/game/2019-08-01/1",
+        "correct_answers": 1441,
+        "incorrect_answers": 2606,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 15,
+          "players_left": 791,
+          "players_left_formatted": "791",
+          "num_winners": 647,
+          "num_winners_formatted": "647",
+          "prize": 2.09,
+          "prize_formatted": "$2.09",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 137298,
+        "text": "The French manicure was allegedly created for what kind of client?",
+        "question_number": 16,
+        "eliminated": "588",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "201",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 280418,
+            "text": "Singer",
+            "correct": false,
+            "count": "262",
+            "percent": "33.38%"
+          },
+          {
+            "id": 280421,
+            "text": "Athlete",
+            "correct": false,
+            "count": "322",
+            "percent": "41.02%"
+          },
+          {
+            "id": 280424,
+            "text": "Actress",
+            "correct": true,
+            "count": "201",
+            "percent": "25.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-01/1/16",
+        "game_link": "/us/game/2019-08-01/1",
+        "correct_answers": 201,
+        "incorrect_answers": 584,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 137314,
+        "text": "The first African-born heavyweight boxing champion was known by what nickname?",
+        "question_number": 17,
+        "eliminated": "145",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "55",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 280443,
+            "text": "The Bionic Hand",
+            "correct": true,
+            "count": "55",
+            "percent": "27.78%"
+          },
+          {
+            "id": 280448,
+            "text": "The Executioner",
+            "correct": false,
+            "count": "73",
+            "percent": "36.87%"
+          },
+          {
+            "id": 280456,
+            "text": "The Desert Fox",
+            "correct": false,
+            "count": "70",
+            "percent": "35.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-01/1/17",
+        "game_link": "/us/game/2019-08-01/1",
+        "correct_answers": 55,
+        "incorrect_answers": 143,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 137332,
+        "text": "Which of the following was NOT rationed in the US during World War II?",
+        "question_number": 18,
+        "eliminated": "37",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "16",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 280472,
+            "text": "Typewriters",
+            "correct": false,
+            "count": "21",
+            "percent": "40.38%"
+          },
+          {
+            "id": 280475,
+            "text": "Bread",
+            "correct": true,
+            "count": "16",
+            "percent": "30.77%"
+          },
+          {
+            "id": 280480,
+            "text": "Nylon",
+            "correct": false,
+            "count": "15",
+            "percent": "28.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-01/1/18",
+        "game_link": "/us/game/2019-08-01/1",
+        "correct_answers": 16,
+        "incorrect_answers": 36,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 18,
+          "players_left": 0,
+          "players_left_formatted": "0",
+          "num_winners": 14,
+          "num_winners_formatted": "14",
+          "prize": 125.0,
+          "prize_formatted": "$125",
+          "currency": "$"
+        },
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1000,
+        "game_id": 125236,
+        "question": "Of these Starfleet captains, which did the best job?",
+        "results": [
+          {
+            "id": 6007,
+            "display_count": "9",
+            "vote_count": 4418,
+            "text": "Janeway"
+          },
+          {
+            "id": 6000,
+            "display_count": "48",
+            "vote_count": 22855,
+            "text": "Kirk"
+          },
+          {
+            "id": 5993,
+            "display_count": "43",
+            "vote_count": 20175,
+            "text": "Picard"
+          }
+        ],
+        "created_at": "2019-08-02T01:03:20Z"
+      },
+      {
+        "id": 1016,
+        "game_id": 125236,
+        "question": "Of these three, which is your favorite series?",
+        "results": [
+          {
+            "id": 6090,
+            "display_count": "10",
+            "vote_count": 5578,
+            "text": "DS9"
+          },
+          {
+            "id": 6094,
+            "display_count": "45",
+            "vote_count": 24710,
+            "text": "Next Gen"
+          },
+          {
+            "id": 6101,
+            "display_count": "45",
+            "vote_count": 25161,
+            "text": "Original"
+          }
+        ],
+        "created_at": "2019-08-02T01:04:11Z"
+      },
+      {
+        "id": 1006,
+        "game_id": 125236,
+        "question": "Whoâs the coolest villain? ",
+        "results": [
+          {
+            "id": 6050,
+            "display_count": "69",
+            "vote_count": 35317,
+            "text": "Borg"
+          },
+          {
+            "id": 6040,
+            "display_count": "16",
+            "vote_count": 8082,
+            "text": "Dukat"
+          },
+          {
+            "id": 6042,
+            "display_count": "15",
+            "vote_count": 7721,
+            "text": "Lore"
+          }
+        ],
+        "created_at": "2019-08-02T01:03:46Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 11,
+        "players_left": 28284,
+        "players_left_formatted": "28,284",
+        "num_winners": 5267,
+        "num_winners_formatted": "5,267",
+        "prize": 0.06,
+        "prize_formatted": "$0.06",
+        "currency": "$"
+      },
+      {
+        "round_number": 15,
+        "players_left": 791,
+        "players_left_formatted": "791",
+        "num_winners": 647,
+        "num_winners_formatted": "647",
+        "prize": 2.09,
+        "prize_formatted": "$2.09",
+        "currency": "$"
+      },
+      {
+        "round_number": 18,
+        "players_left": 0,
+        "players_left_formatted": "0",
+        "num_winners": 14,
+        "num_winners_formatted": "14",
+        "prize": 125.0,
+        "prize_formatted": "$125",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "3,418.25",
+    "total_checkpoint_winners": "5,928",
+    "smallest_checkpoint_prize": "$0.06",
+    "largest_checkpoint_prize": "$125",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 125398,
+    "show_id": 11977,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-08-02T01:30:00Z",
+    "direct_link": "/us/game/2019-08-01/2",
+    "currency": "$",
+    "prize": "2,000",
+    "summary": {
+      "winner_count": "12,544",
+      "currency": "$",
+      "average_prize": "0.16"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-08-01/2/1",
+        "question_number": 1,
+        "text": "Loud Monster",
+        "answer": [
+          "BANSHEE"
+        ],
+        "initial_letters": [
+          "\"B\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "S"
+        ],
+        "game_link": "/us/game/2019-08-01/2",
+        "eliminated": 7394,
+        "advancing": 66724,
+        "correct_answers": 66724,
+        "incorrect_answers": 7394
+      },
+      {
+        "direct_link": "/us/game/2019-08-01/2/2",
+        "question_number": 2,
+        "text": "Cheesy Appetizer",
+        "answer": [
+          "QUESADILLA"
+        ],
+        "initial_letters": [
+          "\"Q\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-08-01/2",
+        "eliminated": 4334,
+        "advancing": 62806,
+        "correct_answers": 62806,
+        "incorrect_answers": 4334
+      },
+      {
+        "direct_link": "/us/game/2019-08-01/2/3",
+        "question_number": 3,
+        "text": "Sleep Aid",
+        "answer": [
+          "WARM",
+          "MILK"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"L\""
+        ],
+        "to_reveal_letters": [
+          "R",
+          "W"
+        ],
+        "game_link": "/us/game/2019-08-01/2",
+        "eliminated": 9123,
+        "advancing": 53801,
+        "correct_answers": 53801,
+        "incorrect_answers": 9123
+      },
+      {
+        "direct_link": "/us/game/2019-08-01/2/4",
+        "question_number": 4,
+        "text": "Identifying Clue",
+        "answer": [
+          "DNA",
+          "SAMPLE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"E\""
+        ],
+        "to_reveal_letters": [
+          "D",
+          "P"
+        ],
+        "game_link": "/us/game/2019-08-01/2",
+        "eliminated": 8462,
+        "advancing": 45835,
+        "correct_answers": 45835,
+        "incorrect_answers": 8462
+      },
+      {
+        "direct_link": "/us/game/2019-08-01/2/5",
+        "question_number": 5,
+        "text": "City Activity",
+        "answer": [
+          "HAILING",
+          "TAXIS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"X\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "G"
+        ],
+        "game_link": "/us/game/2019-08-01/2",
+        "eliminated": 8079,
+        "advancing": 38225,
+        "correct_answers": 38225,
+        "incorrect_answers": 8079
+      },
+      {
+        "direct_link": "/us/game/2019-08-01/2/6",
+        "question_number": 6,
+        "text": "Refreshing Summer Cocktail",
+        "answer": [
+          "MOSCOW",
+          "MULE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"W\""
+        ],
+        "to_reveal_letters": [
+          "C",
+          "E"
+        ],
+        "game_link": "/us/game/2019-08-01/2",
+        "eliminated": 2925,
+        "advancing": 35838,
+        "correct_answers": 35838,
+        "incorrect_answers": 2925
+      },
+      {
+        "direct_link": "/us/game/2019-08-01/2/7",
+        "question_number": 7,
+        "text": "Movie Trend",
+        "answer": [
+          "FRANCHISE",
+          "REBOOT"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"B\""
+        ],
+        "to_reveal_letters": [
+          "O",
+          "R"
+        ],
+        "game_link": "/us/game/2019-08-01/2",
+        "eliminated": 12521,
+        "advancing": 23525,
+        "correct_answers": 23525,
+        "incorrect_answers": 12521
+      },
+      {
+        "direct_link": "/us/game/2019-08-01/2/8",
+        "question_number": 8,
+        "text": "Artificial Addition",
+        "answer": [
+          "ACRYLIC",
+          "NAILS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"S\""
+        ],
+        "to_reveal_letters": [
+          "R",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-08-01/2",
+        "eliminated": 4782,
+        "advancing": 20424,
+        "correct_answers": 20424,
+        "incorrect_answers": 4782
+      },
+      {
+        "direct_link": "/us/game/2019-08-01/2/9",
+        "question_number": 9,
+        "text": "A Lot to Look At",
+        "answer": [
+          "PANORAMIC",
+          "PICTURE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"U\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "O"
+        ],
+        "game_link": "/us/game/2019-08-01/2",
+        "eliminated": 4260,
+        "advancing": 16869,
+        "correct_answers": 16869,
+        "incorrect_answers": 4260
+      },
+      {
+        "direct_link": "/us/game/2019-08-01/2/10",
+        "question_number": 10,
+        "text": "Summer Tradition",
+        "answer": [
+          "OUTDOOR",
+          "CONCERT",
+          "SERIES"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"E\""
+        ],
+        "to_reveal_letters": [
+          "R",
+          "S"
+        ],
+        "game_link": "/us/game/2019-08-01/2",
+        "eliminated": 4412,
+        "advancing": 13313,
+        "correct_answers": 13313,
+        "incorrect_answers": 4412
+      },
+      {
+        "direct_link": "/us/game/2019-08-01/2/11",
+        "question_number": 11,
+        "text": "Swimming Accessory",
+        "answer": [
+          "INFLATABLE",
+          "POOL",
+          "FLOAT"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"B\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "O"
+        ],
+        "game_link": "/us/game/2019-08-01/2",
+        "eliminated": 803,
+        "advancing": 13739,
+        "correct_answers": 13739,
+        "incorrect_answers": 803
+      },
+      {
+        "direct_link": "/us/game/2019-08-01/2/12",
+        "question_number": 12,
+        "text": "âPartyâ House?",
+        "answer": [
+          "POLITICAL",
+          "CONVENTION",
+          "CENTER"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"L\""
+        ],
+        "to_reveal_letters": [
+          "I",
+          "P"
+        ],
+        "game_link": "/us/game/2019-08-01/2",
+        "eliminated": 1551,
+        "advancing": 12544,
+        "correct_answers": 12544,
+        "incorrect_answers": 1551
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

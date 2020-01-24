@@ -1,0 +1,1261 @@
+[
+  {
+    "id": 141807,
+    "show_id": 13091,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-12-03T01:00:00Z",
+    "direct_link": "/us/game/2019-12-02/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,205",
+      "currency": "$",
+      "average_prize": "0.83"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "",
+        "slug": ""
+      }
+    ],
+    "questions": [
+      {
+        "id": 159466,
+        "text": "In which sport do you want to get a negative score?",
+        "question_number": 1,
+        "eliminated": "-3,545",
+        "category": "",
+        "category_slug": "",
+        "advancing": "42,414",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313655,
+            "text": "Gymnastics",
+            "correct": false,
+            "count": "1,081",
+            "percent": "2.89%"
+          },
+          {
+            "id": 313656,
+            "text": "Tennis",
+            "correct": false,
+            "count": "1,660",
+            "percent": "4.44%"
+          },
+          {
+            "id": 313657,
+            "text": "Golf",
+            "correct": true,
+            "count": "34,657",
+            "percent": "92.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/1/1",
+        "game_link": "/us/game/2019-12-02/1",
+        "correct_answers": 34657,
+        "incorrect_answers": 2741,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159468,
+        "text": "Which place is home to an NBA team whose name is based on basketball equipment?",
+        "question_number": 2,
+        "eliminated": "2,236",
+        "category": "",
+        "category_slug": "",
+        "advancing": "40,279",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313658,
+            "text": "Minnesota",
+            "correct": false,
+            "count": "2,714",
+            "percent": "7.37%"
+          },
+          {
+            "id": 313659,
+            "text": "Brooklyn",
+            "correct": true,
+            "count": "29,196",
+            "percent": "79.26%"
+          },
+          {
+            "id": 313660,
+            "text": "Indiana",
+            "correct": false,
+            "count": "4,928",
+            "percent": "13.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/1/2",
+        "game_link": "/us/game/2019-12-02/1",
+        "correct_answers": 29196,
+        "incorrect_answers": 7642,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159470,
+        "text": "What team hosted the first NFL prime time Thanksgiving Day game?",
+        "question_number": 3,
+        "eliminated": "10,682",
+        "category": "",
+        "category_slug": "",
+        "advancing": "29,735",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313661,
+            "text": "Kansas City Chiefs",
+            "correct": true,
+            "count": "4,154",
+            "percent": "11.61%"
+          },
+          {
+            "id": 313662,
+            "text": "Detroit Lions",
+            "correct": false,
+            "count": "23,629",
+            "percent": "66.06%"
+          },
+          {
+            "id": 313663,
+            "text": "Dallas Cowboys",
+            "correct": false,
+            "count": "7,985",
+            "percent": "22.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/1/3",
+        "game_link": "/us/game/2019-12-02/1",
+        "correct_answers": 4154,
+        "incorrect_answers": 31614,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159472,
+        "text": "What technique is demonstrated on this save?",
+        "question_number": 4,
+        "eliminated": "6,548",
+        "category": "",
+        "category_slug": "",
+        "advancing": "23,927",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313664,
+            "text": "Blocker",
+            "correct": false,
+            "count": "2,966",
+            "percent": "10.88%"
+          },
+          {
+            "id": 313665,
+            "text": "Stacking the pads",
+            "correct": true,
+            "count": "18,402",
+            "percent": "67.53%"
+          },
+          {
+            "id": 313666,
+            "text": "Butterfly",
+            "correct": false,
+            "count": "5,884",
+            "percent": "21.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/1/4",
+        "game_link": "/us/game/2019-12-02/1",
+        "correct_answers": 18402,
+        "incorrect_answers": 8850,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159474,
+        "text": "What was the last womenâs basketball team besides UConn to be preseason #1?",
+        "question_number": 5,
+        "eliminated": "8,599",
+        "category": "",
+        "category_slug": "",
+        "advancing": "15,744",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313667,
+            "text": "Baylor",
+            "correct": false,
+            "count": "7,188",
+            "percent": "31.76%"
+          },
+          {
+            "id": 313668,
+            "text": "Notre Dame",
+            "correct": false,
+            "count": "5,559",
+            "percent": "24.56%"
+          },
+          {
+            "id": 313669,
+            "text": "Oregon",
+            "correct": true,
+            "count": "9,884",
+            "percent": "43.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/1/5",
+        "game_link": "/us/game/2019-12-02/1",
+        "correct_answers": 9884,
+        "incorrect_answers": 12747,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159476,
+        "text": "In which league do more than half the players score left-handed?",
+        "question_number": 6,
+        "eliminated": "5,666",
+        "category": "",
+        "category_slug": "",
+        "advancing": "10,844",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313670,
+            "text": "NHL",
+            "correct": true,
+            "count": "6,673",
+            "percent": "42.89%"
+          },
+          {
+            "id": 313671,
+            "text": "MLB",
+            "correct": false,
+            "count": "6,603",
+            "percent": "42.44%"
+          },
+          {
+            "id": 313672,
+            "text": "NBA",
+            "correct": false,
+            "count": "2,284",
+            "percent": "14.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/1/6",
+        "game_link": "/us/game/2019-12-02/1",
+        "correct_answers": 6673,
+        "incorrect_answers": 8887,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159478,
+        "text": "What color jersey goes to the Tour de France racer with the most stage points?",
+        "question_number": 7,
+        "eliminated": "3,650",
+        "category": "",
+        "category_slug": "",
+        "advancing": "7,771",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313673,
+            "text": "Yellow",
+            "correct": false,
+            "count": "5,167",
+            "percent": "48.11%"
+          },
+          {
+            "id": 313674,
+            "text": "Green",
+            "correct": true,
+            "count": "4,438",
+            "percent": "41.32%"
+          },
+          {
+            "id": 313675,
+            "text": "Blue",
+            "correct": false,
+            "count": "1,136",
+            "percent": "10.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/1/7",
+        "game_link": "/us/game/2019-12-02/1",
+        "correct_answers": 4438,
+        "incorrect_answers": 6303,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159480,
+        "text": "Which of these golfers shares the record number of individual NCAA championships?",
+        "question_number": 8,
+        "eliminated": "2,464",
+        "category": "",
+        "category_slug": "",
+        "advancing": "6,050",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313676,
+            "text": "Tiger Woods",
+            "correct": false,
+            "count": "1,681",
+            "percent": "21.06%"
+          },
+          {
+            "id": 313677,
+            "text": "Phil Mickelson",
+            "correct": true,
+            "count": "3,551",
+            "percent": "44.48%"
+          },
+          {
+            "id": 313678,
+            "text": "Jack Nicklaus",
+            "correct": false,
+            "count": "2,751",
+            "percent": "34.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/1/8",
+        "game_link": "/us/game/2019-12-02/1",
+        "correct_answers": 3551,
+        "incorrect_answers": 4432,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159482,
+        "text": "The last time Alex Ovechkin did NOT lead the league in goals for a full season, who did?",
+        "question_number": 9,
+        "eliminated": "2,248",
+        "category": "",
+        "category_slug": "",
+        "advancing": "4,604",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313679,
+            "text": "Patrick Kane",
+            "correct": false,
+            "count": "1,147",
+            "percent": "18.26%"
+          },
+          {
+            "id": 313680,
+            "text": "Sidney Crosby",
+            "correct": true,
+            "count": "2,143",
+            "percent": "34.11%"
+          },
+          {
+            "id": 313681,
+            "text": "Steven Stamkos",
+            "correct": false,
+            "count": "2,993",
+            "percent": "47.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/1/9",
+        "game_link": "/us/game/2019-12-02/1",
+        "correct_answers": 2143,
+        "incorrect_answers": 4140,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159484,
+        "text": "What state had the greatest number of teams in the NFLâs original 1920 line up?",
+        "question_number": 10,
+        "eliminated": "1,350",
+        "category": "",
+        "category_slug": "",
+        "advancing": "4,175",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313682,
+            "text": "New York",
+            "correct": false,
+            "count": "970",
+            "percent": "18.44%"
+          },
+          {
+            "id": 313683,
+            "text": "Ohio",
+            "correct": true,
+            "count": "2,985",
+            "percent": "56.75%"
+          },
+          {
+            "id": 313684,
+            "text": "Illinois",
+            "correct": false,
+            "count": "1,305",
+            "percent": "24.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/1/10",
+        "game_link": "/us/game/2019-12-02/1",
+        "correct_answers": 2985,
+        "incorrect_answers": 2275,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159486,
+        "text": "What franchise had the worst single-season run differential in MLB history?",
+        "question_number": 11,
+        "eliminated": "3,137",
+        "category": "",
+        "category_slug": "",
+        "advancing": "1,697",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313685,
+            "text": "Red Sox",
+            "correct": true,
+            "count": "1,697",
+            "percent": "36.35%"
+          },
+          {
+            "id": 313686,
+            "text": "Mets",
+            "correct": false,
+            "count": "704",
+            "percent": "15.08%"
+          },
+          {
+            "id": 313687,
+            "text": "Orioles",
+            "correct": false,
+            "count": "2,267",
+            "percent": "48.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/1/11",
+        "game_link": "/us/game/2019-12-02/1",
+        "correct_answers": 1697,
+        "incorrect_answers": 2971,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159488,
+        "text": "Who was the last to win a scoring title, MVP, Finals MVP and 1st team All-Defense in the same year?",
+        "question_number": 12,
+        "eliminated": "2,781",
+        "category": "",
+        "category_slug": "",
+        "advancing": "1,205",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313688,
+            "text": "LeBron James",
+            "correct": false,
+            "count": "465",
+            "percent": "12.3%"
+          },
+          {
+            "id": 313689,
+            "text": "Michael Jordan",
+            "correct": true,
+            "count": "1,205",
+            "percent": "31.88%"
+          },
+          {
+            "id": 313690,
+            "text": "Kareem Abdul-Jabbar",
+            "correct": false,
+            "count": "2,110",
+            "percent": "55.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/1/12",
+        "game_link": "/us/game/2019-12-02/1",
+        "correct_answers": 1205,
+        "incorrect_answers": 2575,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2411,
+        "game_id": 141807,
+        "question": "Who spiked the punch?",
+        "results": [
+          {
+            "id": 13969,
+            "display_count": "69",
+            "vote_count": 4934,
+            "text": "Gronk"
+          },
+          {
+            "id": 13971,
+            "display_count": "17",
+            "vote_count": 1217,
+            "text": "J.R. Smith"
+          },
+          {
+            "id": 13970,
+            "display_count": "14",
+            "vote_count": 1022,
+            "text": "Ovie"
+          }
+        ],
+        "created_at": "2019-12-03T01:13:23Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 141822,
+    "show_id": 13090,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-12-03T02:00:00Z",
+    "direct_link": "/us/game/2019-12-02/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,171",
+      "currency": "$",
+      "average_prize": "0.46"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "",
+        "slug": ""
+      }
+    ],
+    "questions": [
+      null,
+      {
+        "id": 159490,
+        "text": "âBlack Pantherâ chiefly takes place in what fictional land?",
+        "question_number": 2,
+        "eliminated": "3,142",
+        "category": "",
+        "category_slug": "",
+        "advancing": "100,055",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313691,
+            "text": "Wakanda",
+            "correct": true,
+            "count": "90,092",
+            "percent": "92.61%"
+          },
+          {
+            "id": 313692,
+            "text": "Belgravia",
+            "correct": false,
+            "count": "4,375",
+            "percent": "4.5%"
+          },
+          {
+            "id": 313693,
+            "text": "New Connecticut",
+            "correct": false,
+            "count": "2,809",
+            "percent": "2.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/2/2",
+        "game_link": "/us/game/2019-12-02/2",
+        "correct_answers": 90092,
+        "incorrect_answers": 7184,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159492,
+        "text": "âJurassic Worldâ created controversy when Bryce Dallas Howardâs character wore what?",
+        "question_number": 3,
+        "eliminated": "17,456",
+        "category": "",
+        "category_slug": "",
+        "advancing": "82,813",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313694,
+            "text": "Cargo shorts",
+            "correct": false,
+            "count": "23,667",
+            "percent": "25.06%"
+          },
+          {
+            "id": 313695,
+            "text": "Jeggings",
+            "correct": false,
+            "count": "13,317",
+            "percent": "14.1%"
+          },
+          {
+            "id": 313696,
+            "text": "High heels",
+            "correct": true,
+            "count": "57,458",
+            "percent": "60.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/2/3",
+        "game_link": "/us/game/2019-12-02/2",
+        "correct_answers": 57458,
+        "incorrect_answers": 36984,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159494,
+        "text": "In 2019âs âThe Lion King,â which of these characters was voiced by a talk show host?",
+        "question_number": 4,
+        "eliminated": "21,101",
+        "category": "",
+        "category_slug": "",
+        "advancing": "63,151",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313697,
+            "text": "Simba",
+            "correct": false,
+            "count": "10,272",
+            "percent": "12.85%"
+          },
+          {
+            "id": 313698,
+            "text": "Pumbaa",
+            "correct": false,
+            "count": "16,807",
+            "percent": "21.02%"
+          },
+          {
+            "id": 313699,
+            "text": "Zazu",
+            "correct": true,
+            "count": "52,875",
+            "percent": "66.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/2/4",
+        "game_link": "/us/game/2019-12-02/2",
+        "correct_answers": 52875,
+        "incorrect_answers": 27079,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159496,
+        "text": "Charlie Puthâs contribution to the âFurious 7â soundtrack honored what actor?",
+        "question_number": 5,
+        "eliminated": "2,977",
+        "category": "",
+        "category_slug": "",
+        "advancing": "62,732",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313700,
+            "text": "Paul Walker",
+            "correct": true,
+            "count": "61,051",
+            "percent": "94.85%"
+          },
+          {
+            "id": 313701,
+            "text": "Michelle Rodriguez",
+            "correct": false,
+            "count": "1,005",
+            "percent": "1.56%"
+          },
+          {
+            "id": 313702,
+            "text": "Vin Diesel",
+            "correct": false,
+            "count": "2,309",
+            "percent": "3.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/2/5",
+        "game_link": "/us/game/2019-12-02/2",
+        "correct_answers": 61051,
+        "incorrect_answers": 3314,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159498,
+        "text": "In âAvengers: Infinity War,â who is the first hero to turn to dust on screen after the Thanos snap?",
+        "question_number": 6,
+        "eliminated": "29,865",
+        "category": "",
+        "category_slug": "",
+        "advancing": "33,219",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313703,
+            "text": "Black Panther",
+            "correct": false,
+            "count": "8,456",
+            "percent": "14.03%"
+          },
+          {
+            "id": 313704,
+            "text": "Spider-Man",
+            "correct": false,
+            "count": "24,781",
+            "percent": "41.1%"
+          },
+          {
+            "id": 313705,
+            "text": "Winter Soldier",
+            "correct": true,
+            "count": "27,051",
+            "percent": "44.87%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/2/6",
+        "game_link": "/us/game/2019-12-02/2",
+        "correct_answers": 27051,
+        "incorrect_answers": 33237,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159500,
+        "text": "Which âThe Force Awakensâ character NEVER uses a lightsaber?",
+        "question_number": 7,
+        "eliminated": "7,863",
+        "category": "",
+        "category_slug": "",
+        "advancing": "30,580",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313706,
+            "text": "Finn",
+            "correct": false,
+            "count": "7,033",
+            "percent": "18.53%"
+          },
+          {
+            "id": 313707,
+            "text": "Poe",
+            "correct": true,
+            "count": "28,277",
+            "percent": "74.51%"
+          },
+          {
+            "id": 313708,
+            "text": "Rey",
+            "correct": false,
+            "count": "2,643",
+            "percent": "6.96%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/2/7",
+        "game_link": "/us/game/2019-12-02/2",
+        "correct_answers": 28277,
+        "incorrect_answers": 9676,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159502,
+        "text": "Before their spin-off movie, Hobbs and Shaw first worked together doing what?",
+        "question_number": 8,
+        "eliminated": "8,105",
+        "category": "",
+        "category_slug": "",
+        "advancing": "24,172",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313709,
+            "text": "Escaping prison",
+            "correct": true,
+            "count": "21,914",
+            "percent": "69.13%"
+          },
+          {
+            "id": 313710,
+            "text": "Dismantling a bomb",
+            "correct": false,
+            "count": "4,570",
+            "percent": "14.42%"
+          },
+          {
+            "id": 313711,
+            "text": "Stealing a helicopter",
+            "correct": false,
+            "count": "5,217",
+            "percent": "16.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/2/8",
+        "game_link": "/us/game/2019-12-02/2",
+        "correct_answers": 21914,
+        "incorrect_answers": 9787,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159504,
+        "text": "The director of âIncredibles 2â voiced what character?",
+        "question_number": 9,
+        "eliminated": "11,645",
+        "category": "",
+        "category_slug": "",
+        "advancing": "14,413",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313712,
+            "text": "Frozone",
+            "correct": false,
+            "count": "3,329",
+            "percent": "12.94%"
+          },
+          {
+            "id": 313713,
+            "text": "Jack-Jack",
+            "correct": false,
+            "count": "11,425",
+            "percent": "44.42%"
+          },
+          {
+            "id": 313714,
+            "text": "Edna Mode",
+            "correct": true,
+            "count": "10,964",
+            "percent": "42.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/2/9",
+        "game_link": "/us/game/2019-12-02/2",
+        "correct_answers": 10964,
+        "incorrect_answers": 14754,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159506,
+        "text": "Which of these original âJurassic Parkâ characters reappeared in âJurassic World: Fallen Kingdomâ?",
+        "question_number": 10,
+        "eliminated": "2,869",
+        "category": "",
+        "category_slug": "",
+        "advancing": "14,910",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313715,
+            "text": "Ellie",
+            "correct": false,
+            "count": "1,622",
+            "percent": "9.26%"
+          },
+          {
+            "id": 313716,
+            "text": "Malcolm",
+            "correct": true,
+            "count": "13,715",
+            "percent": "78.27%"
+          },
+          {
+            "id": 313717,
+            "text": "Grant",
+            "correct": false,
+            "count": "2,186",
+            "percent": "12.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/2/10",
+        "game_link": "/us/game/2019-12-02/2",
+        "correct_answers": 13715,
+        "incorrect_answers": 3808,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159508,
+        "text": "Which Marvel character was originally included in an early draft of âThe Avengersâ?",
+        "question_number": 11,
+        "eliminated": "6,897",
+        "category": "",
+        "category_slug": "",
+        "advancing": "9,060",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313718,
+            "text": "The Wasp",
+            "correct": true,
+            "count": "9,060",
+            "percent": "57.51%"
+          },
+          {
+            "id": 313719,
+            "text": "Black Panther",
+            "correct": false,
+            "count": "1,632",
+            "percent": "10.36%"
+          },
+          {
+            "id": 313720,
+            "text": "Dr. Strange",
+            "correct": false,
+            "count": "5,062",
+            "percent": "32.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/2/11",
+        "game_link": "/us/game/2019-12-02/2",
+        "correct_answers": 9060,
+        "incorrect_answers": 6694,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159510,
+        "text": "The composer for both âHarry Potter and the Deathly Hallowsâ films also scored what other movie?",
+        "question_number": 12,
+        "eliminated": "5,079",
+        "category": "",
+        "category_slug": "",
+        "advancing": "7,198",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313721,
+            "text": "Jaws",
+            "correct": false,
+            "count": "1,896",
+            "percent": "15.65%"
+          },
+          {
+            "id": 313722,
+            "text": "The Shape of Water",
+            "correct": true,
+            "count": "7,198",
+            "percent": "59.41%"
+          },
+          {
+            "id": 313723,
+            "text": "Dunkirk",
+            "correct": false,
+            "count": "3,022",
+            "percent": "24.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/2/12",
+        "game_link": "/us/game/2019-12-02/2",
+        "correct_answers": 7198,
+        "incorrect_answers": 4918,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159512,
+        "text": "Which âThe Last Jediâ actor said âpew pewâ when they fired a blaster?",
+        "question_number": 13,
+        "eliminated": "3,699",
+        "category": "",
+        "category_slug": "",
+        "advancing": "6,339",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313724,
+            "text": "Benicio Del Toro",
+            "correct": false,
+            "count": "2,072",
+            "percent": "20.87%"
+          },
+          {
+            "id": 313725,
+            "text": "Mark Hamill",
+            "correct": false,
+            "count": "1,517",
+            "percent": "15.28%"
+          },
+          {
+            "id": 313726,
+            "text": "Laura Dern",
+            "correct": true,
+            "count": "6,339",
+            "percent": "63.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/2/13",
+        "game_link": "/us/game/2019-12-02/2",
+        "correct_answers": 6339,
+        "incorrect_answers": 3589,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159514,
+        "text": "The brother and sister in âAvengers: Age of Ultronâ previously co-starred in what movie?",
+        "question_number": 14,
+        "eliminated": "4,045",
+        "category": "",
+        "category_slug": "",
+        "advancing": "4,540",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313727,
+            "text": "Godzilla",
+            "correct": true,
+            "count": "4,540",
+            "percent": "53.59%"
+          },
+          {
+            "id": 313728,
+            "text": "Kong: Skull Island",
+            "correct": false,
+            "count": "2,606",
+            "percent": "30.76%"
+          },
+          {
+            "id": 313729,
+            "text": "Pacific Rim",
+            "correct": false,
+            "count": "1,325",
+            "percent": "15.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/2/14",
+        "game_link": "/us/game/2019-12-02/2",
+        "correct_answers": 4540,
+        "incorrect_answers": 3931,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159516,
+        "text": "The lyrics to a song in âBeauty and the Beastâ contain a quote from what Shakespeare play?",
+        "question_number": 15,
+        "eliminated": "5,078",
+        "category": "",
+        "category_slug": "",
+        "advancing": "2,171",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313730,
+            "text": "Romeo and Juliet",
+            "correct": false,
+            "count": "3,759",
+            "percent": "52.51%"
+          },
+          {
+            "id": 313731,
+            "text": "Macbeth",
+            "correct": true,
+            "count": "2,171",
+            "percent": "30.33%"
+          },
+          {
+            "id": 313732,
+            "text": "Hamlet",
+            "correct": false,
+            "count": "1,228",
+            "percent": "17.16%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-02/2/15",
+        "game_link": "/us/game/2019-12-02/2",
+        "correct_answers": 2171,
+        "incorrect_answers": 4987,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2414,
+        "game_id": 141822,
+        "question": "Alice in Wonderland (Tim Burton)",
+        "results": [
+          {
+            "id": 13989,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "Didn't see it"
+          },
+          {
+            "id": 13988,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "Hate it"
+          },
+          {
+            "id": 13987,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "Love it"
+          }
+        ],
+        "created_at": "2019-12-03T02:03:49Z"
+      },
+      {
+        "id": 2415,
+        "game_id": 141822,
+        "question": "Live Action Aladdin",
+        "results": [
+          {
+            "id": 13995,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "Didn't see it"
+          },
+          {
+            "id": 13994,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "Hate it"
+          },
+          {
+            "id": 13993,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "Love it"
+          }
+        ],
+        "created_at": "2019-12-03T02:04:25Z"
+      },
+      {
+        "id": 2412,
+        "game_id": 141822,
+        "question": "Live Action Lion King",
+        "results": [
+          {
+            "id": 13977,
+            "display_count": "66",
+            "vote_count": 30321,
+            "text": "Didn't see it"
+          },
+          {
+            "id": 13976,
+            "display_count": "9",
+            "vote_count": 3960,
+            "text": "Hate it"
+          },
+          {
+            "id": 13975,
+            "display_count": "22",
+            "vote_count": 5813,
+            "text": "Love it "
+          }
+        ],
+        "created_at": "2019-12-03T02:02:39Z"
+      },
+      {
+        "id": 2413,
+        "game_id": 141822,
+        "question": "Shrek the Third",
+        "results": [
+          {
+            "id": 13983,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "Didn't see it"
+          },
+          {
+            "id": 13982,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "Hate it"
+          },
+          {
+            "id": 13981,
+            "display_count": "25",
+            "vote_count": 11631,
+            "text": "Love it"
+          }
+        ],
+        "created_at": "2019-12-03T02:03:18Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

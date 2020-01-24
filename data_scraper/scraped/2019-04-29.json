@@ -1,0 +1,1464 @@
+[
+  {
+    "id": 99568,
+    "show_id": 10552,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-04-30T00:00:00Z",
+    "direct_link": "/us/game/2019-04-29/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "3,638",
+      "currency": "$",
+      "average_prize": "0.27"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 103091,
+        "text": "Which of these nicknames was given to MLBâs first 700-home run man?",
+        "question_number": 1,
+        "eliminated": "-3,805",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "83,425",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229109,
+            "text": "The Texas Rattlesnake",
+            "correct": false,
+            "count": "4,186",
+            "percent": "5.26%"
+          },
+          {
+            "id": 229110,
+            "text": "The Great Bambino",
+            "correct": true,
+            "count": "74,275",
+            "percent": "93.29%"
+          },
+          {
+            "id": 229113,
+            "text": "Kung Fu Panda",
+            "correct": false,
+            "count": "1,159",
+            "percent": "1.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/1/1",
+        "game_link": "/us/game/2019-04-29/1",
+        "correct_answers": 74275,
+        "incorrect_answers": 5345,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103099,
+        "text": "For the past two years, the No. 1 overall NFL Draft pick has come from what school?",
+        "question_number": 2,
+        "eliminated": "1,547",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "81,938",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229121,
+            "text": "Clemson",
+            "correct": false,
+            "count": "6,379",
+            "percent": "8.03%"
+          },
+          {
+            "id": 229123,
+            "text": "Alabama",
+            "correct": false,
+            "count": "14,788",
+            "percent": "18.61%"
+          },
+          {
+            "id": 229127,
+            "text": "Oklahoma",
+            "correct": true,
+            "count": "58,288",
+            "percent": "73.36%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/1/2",
+        "game_link": "/us/game/2019-04-29/1",
+        "correct_answers": 58288,
+        "incorrect_answers": 21167,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103107,
+        "text": "Which soccer player just reached the 100-goal mark with the US Womenâs National Team?",
+        "question_number": 3,
+        "eliminated": "483",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "81,476",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229133,
+            "text": "Tobin Heath",
+            "correct": false,
+            "count": "4,445",
+            "percent": "5.68%"
+          },
+          {
+            "id": 229135,
+            "text": "Julie Ertz",
+            "correct": false,
+            "count": "12,573",
+            "percent": "16.06%"
+          },
+          {
+            "id": 229138,
+            "text": "Alex Morgan",
+            "correct": true,
+            "count": "61,290",
+            "percent": "78.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/1/3",
+        "game_link": "/us/game/2019-04-29/1",
+        "correct_answers": 61290,
+        "incorrect_answers": 17018,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103115,
+        "text": "What player joined his father and brother as a first-round NFL Draft pick last week?",
+        "question_number": 4,
+        "eliminated": "1,925",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "79,579",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229145,
+            "text": "Dwayne Haskins",
+            "correct": false,
+            "count": "11,415",
+            "percent": "14.81%"
+          },
+          {
+            "id": 229148,
+            "text": "Kyler Murray",
+            "correct": false,
+            "count": "10,184",
+            "percent": "13.21%"
+          },
+          {
+            "id": 229152,
+            "text": "Nick Bosa",
+            "correct": true,
+            "count": "55,480",
+            "percent": "71.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/1/4",
+        "game_link": "/us/game/2019-04-29/1",
+        "correct_answers": 55480,
+        "incorrect_answers": 21599,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103123,
+        "text": "Rhys Hoskinsâs home run against Jacob Rhame last week set what Statcast-era record?",
+        "question_number": 5,
+        "eliminated": "2,041",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "77,817",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229157,
+            "text": "Highest peak",
+            "correct": false,
+            "count": "19,985",
+            "percent": "27.62%"
+          },
+          {
+            "id": 229159,
+            "text": "Longest distance",
+            "correct": false,
+            "count": "12,975",
+            "percent": "17.93%"
+          },
+          {
+            "id": 229161,
+            "text": "Slowest trot",
+            "correct": true,
+            "count": "39,391",
+            "percent": "54.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/1/5",
+        "game_link": "/us/game/2019-04-29/1",
+        "correct_answers": 39391,
+        "incorrect_answers": 32960,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103131,
+        "text": "Which of these NBA franchises has NOT upset a 1-seed in the first round of the playoffs?",
+        "question_number": 6,
+        "eliminated": "8,793",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "69,165",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229169,
+            "text": "Warriors",
+            "correct": false,
+            "count": "15,841",
+            "percent": "21.92%"
+          },
+          {
+            "id": 229171,
+            "text": "Nuggets",
+            "correct": false,
+            "count": "24,940",
+            "percent": "34.51%"
+          },
+          {
+            "id": 229174,
+            "text": "Heat",
+            "correct": true,
+            "count": "31,498",
+            "percent": "43.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/1/6",
+        "game_link": "/us/game/2019-04-29/1",
+        "correct_answers": 31498,
+        "incorrect_answers": 40781,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103139,
+        "text": "Which is NOT one of the two NHL franchises to have won four straight Stanley Cups in the past 70 years?",
+        "question_number": 7,
+        "eliminated": "32,044",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "38,549",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229181,
+            "text": "Red Wings",
+            "correct": true,
+            "count": "25,259",
+            "percent": "39.89%"
+          },
+          {
+            "id": 229183,
+            "text": "Canadiens",
+            "correct": false,
+            "count": "14,055",
+            "percent": "22.19%"
+          },
+          {
+            "id": 229185,
+            "text": "Islanders",
+            "correct": false,
+            "count": "24,015",
+            "percent": "37.92%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/1/7",
+        "game_link": "/us/game/2019-04-29/1",
+        "correct_answers": 25259,
+        "incorrect_answers": 38070,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103145,
+        "text": "Who is the player seen here, winning men's Wimbledon after a tiebreaker?",
+        "question_number": 8,
+        "eliminated": "8,477",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "33,021",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229190,
+            "text": "Ivan Lendl",
+            "correct": false,
+            "count": "1,728",
+            "percent": "4.29%"
+          },
+          {
+            "id": 229193,
+            "text": "John McEnroe",
+            "correct": false,
+            "count": "5,677",
+            "percent": "14.09%"
+          },
+          {
+            "id": 229197,
+            "text": "Bjorn Borg",
+            "correct": true,
+            "count": "32,883",
+            "percent": "81.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/1/8",
+        "game_link": "/us/game/2019-04-29/1",
+        "correct_answers": 32883,
+        "incorrect_answers": 7405,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103153,
+        "text": "What is the only school to have two tight ends picked in the first round of the NFL Draft?",
+        "question_number": 9,
+        "eliminated": "11,819",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "21,960",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229202,
+            "text": "Alabama",
+            "correct": false,
+            "count": "7,176",
+            "percent": "21.5%"
+          },
+          {
+            "id": 229203,
+            "text": "Florida State",
+            "correct": false,
+            "count": "4,244",
+            "percent": "12.72%"
+          },
+          {
+            "id": 229205,
+            "text": "Iowa",
+            "correct": true,
+            "count": "21,950",
+            "percent": "65.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/1/9",
+        "game_link": "/us/game/2019-04-29/1",
+        "correct_answers": 21950,
+        "incorrect_answers": 11420,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103161,
+        "text": "What NBA center had the highest single-season assists per game rate since Wilt Chamberlain?",
+        "question_number": 10,
+        "eliminated": "5,660",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "17,177",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229214,
+            "text": "Tim Duncan",
+            "correct": false,
+            "count": "2,413",
+            "percent": "10.71%"
+          },
+          {
+            "id": 229217,
+            "text": "Nikola Jokic",
+            "correct": true,
+            "count": "17,175",
+            "percent": "76.2%"
+          },
+          {
+            "id": 229221,
+            "text": "Vlade Divac",
+            "correct": false,
+            "count": "2,951",
+            "percent": "13.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/1/10",
+        "game_link": "/us/game/2019-04-29/1",
+        "correct_answers": 17175,
+        "incorrect_answers": 5364,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103169,
+        "text": "Which team has the greatest number of players on this yearâs Premier League Team of the Year?",
+        "question_number": 11,
+        "eliminated": "7,630",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "10,713",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229226,
+            "text": "Manchester City",
+            "correct": true,
+            "count": "10,713",
+            "percent": "59.06%"
+          },
+          {
+            "id": 229227,
+            "text": "Chelsea",
+            "correct": false,
+            "count": "1,404",
+            "percent": "7.74%"
+          },
+          {
+            "id": 229231,
+            "text": "Liverpool",
+            "correct": false,
+            "count": "6,023",
+            "percent": "33.2%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/1/11",
+        "game_link": "/us/game/2019-04-29/1",
+        "correct_answers": 10713,
+        "incorrect_answers": 7427,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103177,
+        "text": "Which player currently leads MLB in wins above replacement?",
+        "question_number": 12,
+        "eliminated": "9,966",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "3,638",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229238,
+            "text": "Mike Trout",
+            "correct": false,
+            "count": "6,265",
+            "percent": "46.65%"
+          },
+          {
+            "id": 229240,
+            "text": "Christian Yelich",
+            "correct": false,
+            "count": "3,526",
+            "percent": "26.26%"
+          },
+          {
+            "id": 229244,
+            "text": "Cody Bellinger",
+            "correct": true,
+            "count": "3,638",
+            "percent": "27.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/1/12",
+        "game_link": "/us/game/2019-04-29/1",
+        "correct_answers": 3638,
+        "incorrect_answers": 9791,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 99627,
+    "show_id": 10584,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-04-30T01:00:00Z",
+    "direct_link": "/us/game/2019-04-29/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "11,559",
+      "currency": "$",
+      "average_prize": "0.43"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "TV",
+        "slug": "tv"
+      }
+    ],
+    "questions": [
+      {
+        "id": 103185,
+        "text": "The âTeenage Mutant Ninja Turtlesâ theme song lyrics celebrated what?",
+        "question_number": 1,
+        "eliminated": "-14,754",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "392,204",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229250,
+            "text": "Turtle power!",
+            "correct": true,
+            "count": "375,139",
+            "percent": "99.39%"
+          },
+          {
+            "id": 229251,
+            "text": "Horse power!",
+            "correct": false,
+            "count": "1,673",
+            "percent": "0.44%"
+          },
+          {
+            "id": 229252,
+            "text": "Cat power!",
+            "correct": false,
+            "count": "638",
+            "percent": "0.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/2/1",
+        "game_link": "/us/game/2019-04-29/2",
+        "correct_answers": 375139,
+        "incorrect_answers": 2311,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103193,
+        "text": "Who is shown playing the sax in the âAnimaniacsâ opening credits?",
+        "question_number": 2,
+        "eliminated": "8,013",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "384,399",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229262,
+            "text": "Alexander Hamilton",
+            "correct": false,
+            "count": "41,206",
+            "percent": "10.88%"
+          },
+          {
+            "id": 229263,
+            "text": "Bill Clinton",
+            "correct": true,
+            "count": "280,185",
+            "percent": "73.99%"
+          },
+          {
+            "id": 229264,
+            "text": "George Washington",
+            "correct": false,
+            "count": "57,294",
+            "percent": "15.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/2/2",
+        "game_link": "/us/game/2019-04-29/2",
+        "correct_answers": 280185,
+        "incorrect_answers": 98500,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103201,
+        "text": "Which TV show had a theme song with rhyming lyrics about âa two-way twisterâ?",
+        "question_number": 3,
+        "eliminated": "5,816",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "379,281",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229274,
+            "text": "Boy Meets World",
+            "correct": false,
+            "count": "25,030",
+            "percent": "6.97%"
+          },
+          {
+            "id": 229275,
+            "text": "Clarissa Explains It All",
+            "correct": false,
+            "count": "13,848",
+            "percent": "3.85%"
+          },
+          {
+            "id": 229276,
+            "text": "Sister, Sister",
+            "correct": true,
+            "count": "320,460",
+            "percent": "89.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/2/3",
+        "game_link": "/us/game/2019-04-29/2",
+        "correct_answers": 320460,
+        "incorrect_answers": 38878,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103209,
+        "text": "This is the theme song to what show?",
+        "question_number": 4,
+        "eliminated": "4,479",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "375,147",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229286,
+            "text": "The Golden Girls",
+            "correct": false,
+            "count": "6,652",
+            "percent": "1.84%"
+          },
+          {
+            "id": 229287,
+            "text": "Parks and Recreation",
+            "correct": false,
+            "count": "5,714",
+            "percent": "1.58%"
+          },
+          {
+            "id": 229288,
+            "text": "Stranger Things",
+            "correct": true,
+            "count": "348,458",
+            "percent": "96.57%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/2/4",
+        "game_link": "/us/game/2019-04-29/2",
+        "correct_answers": 348458,
+        "incorrect_answers": 12366,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103217,
+        "text": "Which of these phrases is part of the âHey Dudeâ theme song?",
+        "question_number": 5,
+        "eliminated": "32,391",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "342,897",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229298,
+            "text": "Yippy-ti-yi-yay",
+            "correct": true,
+            "count": "136,676",
+            "percent": "38.94%"
+          },
+          {
+            "id": 229299,
+            "text": "Howdy partner",
+            "correct": false,
+            "count": "174,327",
+            "percent": "49.66%"
+          },
+          {
+            "id": 229303,
+            "text": "Draw!",
+            "correct": false,
+            "count": "40,006",
+            "percent": "11.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/2/5",
+        "game_link": "/us/game/2019-04-29/2",
+        "correct_answers": 136676,
+        "incorrect_answers": 214333,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103225,
+        "text": "According to its composer, the âdun-dunâ of the âLaw & Orderâ theme song is supposed to evoke what?",
+        "question_number": 6,
+        "eliminated": "35,319",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "311,317",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229310,
+            "text": "Banging gavel",
+            "correct": false,
+            "count": "113,360",
+            "percent": "36.43%"
+          },
+          {
+            "id": 229311,
+            "text": "Clinking handcuff",
+            "correct": false,
+            "count": "13,192",
+            "percent": "4.24%"
+          },
+          {
+            "id": 229312,
+            "text": "Locking jail cell",
+            "correct": true,
+            "count": "184,647",
+            "percent": "59.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/2/6",
+        "game_link": "/us/game/2019-04-29/2",
+        "correct_answers": 184647,
+        "incorrect_answers": 126552,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103233,
+        "text": "The original \"Muppet Babies\" opening credits features an homage to which classic character?",
+        "question_number": 7,
+        "eliminated": "148,948",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "165,235",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229322,
+            "text": "ET",
+            "correct": false,
+            "count": "109,742",
+            "percent": "37.46%"
+          },
+          {
+            "id": 229323,
+            "text": "Marty McFly",
+            "correct": false,
+            "count": "41,804",
+            "percent": "14.27%"
+          },
+          {
+            "id": 229324,
+            "text": "Indiana Jones",
+            "correct": true,
+            "count": "141,435",
+            "percent": "48.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/2/7",
+        "game_link": "/us/game/2019-04-29/2",
+        "correct_answers": 141435,
+        "incorrect_answers": 151546,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103241,
+        "text": "Which TV sitcom originally had a Louis Armstrong song as its theme?",
+        "question_number": 8,
+        "eliminated": "76,636",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "109,477",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229334,
+            "text": "The Wonder Years",
+            "correct": false,
+            "count": "52,538",
+            "percent": "28.88%"
+          },
+          {
+            "id": 229335,
+            "text": "Family Matters",
+            "correct": true,
+            "count": "109,253",
+            "percent": "60.06%"
+          },
+          {
+            "id": 229337,
+            "text": "Step by Step",
+            "correct": false,
+            "count": "20,110",
+            "percent": "11.06%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/2/8",
+        "game_link": "/us/game/2019-04-29/2",
+        "correct_answers": 109253,
+        "incorrect_answers": 72648,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103249,
+        "text": "According to their showâs theme song lyrics, which character was âmuch too cool for seventh gradeâ?",
+        "question_number": 9,
+        "eliminated": "48,663",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "70,213",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229346,
+            "text": "Pepper Ann",
+            "correct": true,
+            "count": "70,199",
+            "percent": "60.43%"
+          },
+          {
+            "id": 229347,
+            "text": "Doug",
+            "correct": false,
+            "count": "29,074",
+            "percent": "25.03%"
+          },
+          {
+            "id": 229348,
+            "text": "Ashley Spinelli",
+            "correct": false,
+            "count": "16,899",
+            "percent": "14.55%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/2/9",
+        "game_link": "/us/game/2019-04-29/2",
+        "correct_answers": 70199,
+        "incorrect_answers": 45973,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103257,
+        "text": "What kind of activity does NOT appear during the âUnbreakable Kimmy Schmidtâ opening credits?",
+        "question_number": 10,
+        "eliminated": "23,789",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "52,632",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229358,
+            "text": "Tap dancing",
+            "correct": false,
+            "count": "7,225",
+            "percent": "9.66%"
+          },
+          {
+            "id": 229360,
+            "text": "Plate spinning",
+            "correct": true,
+            "count": "52,631",
+            "percent": "70.4%"
+          },
+          {
+            "id": 229362,
+            "text": "Hula hooping",
+            "correct": false,
+            "count": "14,905",
+            "percent": "19.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/2/10",
+        "game_link": "/us/game/2019-04-29/2",
+        "correct_answers": 52631,
+        "incorrect_answers": 22130,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103265,
+        "text": "Which of these streaming TV series shows exploding luxury goods during its opening credits?",
+        "question_number": 11,
+        "eliminated": "30,578",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "27,891",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229370,
+            "text": "Marvelous Mrs. Maisel",
+            "correct": false,
+            "count": "12,061",
+            "percent": "21.31%"
+          },
+          {
+            "id": 229372,
+            "text": "The Romanoffs",
+            "correct": false,
+            "count": "16,644",
+            "percent": "29.41%"
+          },
+          {
+            "id": 229374,
+            "text": "The Good Fight",
+            "correct": true,
+            "count": "27,891",
+            "percent": "49.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/2/11",
+        "game_link": "/us/game/2019-04-29/2",
+        "correct_answers": 27891,
+        "incorrect_answers": 28705,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103273,
+        "text": "âOpen up the dirty window, let the sun illuminate the words that you could not findâ are lyrics to what TV theme?",
+        "question_number": 12,
+        "eliminated": "5,782",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "28,551",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229382,
+            "text": "The Hills",
+            "correct": true,
+            "count": "28,551",
+            "percent": "85.2%"
+          },
+          {
+            "id": 229384,
+            "text": "One Tree Hill",
+            "correct": false,
+            "count": "1,864",
+            "percent": "5.56%"
+          },
+          {
+            "id": 229386,
+            "text": "Dawsonâs Creek",
+            "correct": false,
+            "count": "3,094",
+            "percent": "9.23%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/2/12",
+        "game_link": "/us/game/2019-04-29/2",
+        "correct_answers": 28551,
+        "incorrect_answers": 4958,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103281,
+        "text": "This TV theme song accompanied a show about what?",
+        "question_number": 13,
+        "eliminated": "11,709",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "17,589",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229394,
+            "text": "Politics",
+            "correct": false,
+            "count": "2,615",
+            "percent": "9.18%"
+          },
+          {
+            "id": 229397,
+            "text": "Undercover spies",
+            "correct": false,
+            "count": "8,273",
+            "percent": "29.05%"
+          },
+          {
+            "id": 229401,
+            "text": "High school teachers",
+            "correct": true,
+            "count": "17,589",
+            "percent": "61.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/2/13",
+        "game_link": "/us/game/2019-04-29/2",
+        "correct_answers": 17589,
+        "incorrect_answers": 10888,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103289,
+        "text": "What type of tales are NOT mentioned in the lyrics to the âDucktalesâ theme song?",
+        "question_number": 14,
+        "eliminated": "2,418",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "17,388",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229406,
+            "text": "Whale",
+            "correct": true,
+            "count": "17,388",
+            "percent": "89.18%"
+          },
+          {
+            "id": 229408,
+            "text": "Pony",
+            "correct": false,
+            "count": "705",
+            "percent": "3.62%"
+          },
+          {
+            "id": 229410,
+            "text": "Cotton",
+            "correct": false,
+            "count": "1,404",
+            "percent": "7.2%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/2/14",
+        "game_link": "/us/game/2019-04-29/2",
+        "correct_answers": 17388,
+        "incorrect_answers": 2109,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103297,
+        "text": "What is the official name of this theme song?",
+        "question_number": 15,
+        "eliminated": "6,467",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "11,559",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229418,
+            "text": "Survive the Wild",
+            "correct": false,
+            "count": "4,236",
+            "percent": "23.81%"
+          },
+          {
+            "id": 229420,
+            "text": "Ancient Voices",
+            "correct": true,
+            "count": "11,559",
+            "percent": "64.96%"
+          },
+          {
+            "id": 229424,
+            "text": "Outlasting Theme",
+            "correct": false,
+            "count": "1,999",
+            "percent": "11.23%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-29/2/15",
+        "game_link": "/us/game/2019-04-29/2",
+        "correct_answers": 11559,
+        "incorrect_answers": 6235,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 99699,
+    "show_id": 10595,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-04-30T01:30:00Z",
+    "direct_link": "/us/game/2019-04-29/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "5,629",
+      "currency": "$",
+      "average_prize": "0.18"
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-04-29/3/1",
+        "question_number": 1,
+        "text": "Fresh Intro Rapper",
+        "answer": [
+          "WILL",
+          "SMITH"
+        ],
+        "initial_letters": [
+          " ",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "T"
+        ],
+        "game_link": "/us/game/2019-04-29/3",
+        "eliminated": 6196,
+        "advancing": 110609,
+        "correct_answers": 110609,
+        "incorrect_answers": 6196
+      },
+      {
+        "direct_link": "/us/game/2019-04-29/3/2",
+        "question_number": 2,
+        "text": "So Many Sax Solos",
+        "answer": [
+          "THE",
+          "SIMPSONS"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "P"
+        ],
+        "game_link": "/us/game/2019-04-29/3",
+        "eliminated": 7422,
+        "advancing": 103743,
+        "correct_answers": 103743,
+        "incorrect_answers": 7422
+      },
+      null,
+      {
+        "direct_link": "/us/game/2019-04-29/3/4",
+        "question_number": 4,
+        "text": "I Donât Wanna Wait",
+        "answer": [
+          "DAWSONâS",
+          "CREEK"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "S"
+        ],
+        "game_link": "/us/game/2019-04-29/3",
+        "eliminated": 9345,
+        "advancing": 68723,
+        "correct_answers": 68723,
+        "incorrect_answers": 9345
+      },
+      {
+        "direct_link": "/us/game/2019-04-29/3/5",
+        "question_number": 5,
+        "text": "Wonder-Ful Request?",
+        "answer": [
+          "LEND",
+          "ME",
+          "YOUR",
+          "EARS"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "R"
+        ],
+        "game_link": "/us/game/2019-04-29/3",
+        "eliminated": 32901,
+        "advancing": 36442,
+        "correct_answers": 36442,
+        "incorrect_answers": 32901
+      },
+      {
+        "direct_link": "/us/game/2019-04-29/3/6",
+        "question_number": 6,
+        "text": "Heard on One Tree Hill",
+        "answer": [
+          "I",
+          "DONâT",
+          "WANT",
+          "TO",
+          "BE"
+        ],
+        "initial_letters": [
+          " ",
+          "â",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "T"
+        ],
+        "game_link": "/us/game/2019-04-29/3",
+        "eliminated": 3177,
+        "advancing": 36718,
+        "correct_answers": 36718,
+        "incorrect_answers": 3177
+      },
+      {
+        "direct_link": "/us/game/2019-04-29/3/7",
+        "question_number": 7,
+        "text": "Good As Gold",
+        "answer": [
+          "A",
+          "PAL",
+          "AND",
+          "A",
+          "CONFIDANTE"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "P"
+        ],
+        "game_link": "/us/game/2019-04-29/3",
+        "eliminated": 11427,
+        "advancing": 25608,
+        "correct_answers": 25608,
+        "incorrect_answers": 11427
+      },
+      {
+        "direct_link": "/us/game/2019-04-29/3/8",
+        "question_number": 8,
+        "text": "Maniacal Claim",
+        "answer": [
+          "WEâRE",
+          "ZANY",
+          "TO",
+          "THE",
+          "MAX"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "M"
+        ],
+        "game_link": "/us/game/2019-04-29/3",
+        "eliminated": 20660,
+        "advancing": 6578,
+        "correct_answers": 6578,
+        "incorrect_answers": 20660
+      },
+      {
+        "direct_link": "/us/game/2019-04-29/3/9",
+        "question_number": 9,
+        "text": "Cheers!",
+        "answer": [
+          "ALWAYS",
+          "GLAD",
+          "YOU",
+          "CAME"
+        ],
+        "initial_letters": [
+          " ",
+          "Y"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "W"
+        ],
+        "game_link": "/us/game/2019-04-29/3",
+        "eliminated": 1138,
+        "advancing": 9706,
+        "correct_answers": 9706,
+        "incorrect_answers": 1138
+      },
+      {
+        "direct_link": "/us/game/2019-04-29/3/10",
+        "question_number": 10,
+        "text": "Friday Night Chorus",
+        "answer": [
+          "EVERYWHERE",
+          "YOU",
+          "LOOK"
+        ],
+        "initial_letters": [
+          " ",
+          "V"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-29/3",
+        "eliminated": 293,
+        "advancing": 9613,
+        "correct_answers": 9613,
+        "incorrect_answers": 293
+      },
+      {
+        "direct_link": "/us/game/2019-04-29/3/11",
+        "question_number": 11,
+        "text": "Fraggled Advice",
+        "answer": [
+          "DANCE",
+          "YOUR",
+          "CARES",
+          "AWAY"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "N"
+        ],
+        "game_link": "/us/game/2019-04-29/3",
+        "eliminated": 622,
+        "advancing": 9036,
+        "correct_answers": 9036,
+        "incorrect_answers": 622
+      },
+      {
+        "direct_link": "/us/game/2019-04-29/3/12",
+        "question_number": 12,
+        "text": "Whatâs Up?",
+        "answer": [
+          "DELUXE",
+          "APARTMENT",
+          "IN",
+          "THE",
+          "SKY"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "S"
+        ],
+        "game_link": "/us/game/2019-04-29/3",
+        "eliminated": 3530,
+        "advancing": 5629,
+        "correct_answers": 5629,
+        "incorrect_answers": 3530
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

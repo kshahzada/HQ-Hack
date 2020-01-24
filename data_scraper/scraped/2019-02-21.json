@@ -1,0 +1,1334 @@
+[
+  {
+    "id": 56179,
+    "show_id": 9527,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "2,500",
+    "currency": "$",
+    "start_time": "2019-02-21T20:00:00Z",
+    "direct_link": "/us/game/2019-02-21/1",
+    "time": " 3:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,344",
+      "currency": "$",
+      "average_prize": "1.86"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 48189,
+        "text": "Which of these is a horror film directed by Jordan Peele?",
+        "question_number": 1,
+        "eliminated": "-8,120",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "196,939",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144460,
+            "text": "Just Relax, OK?",
+            "correct": false,
+            "count": "6,387",
+            "percent": "3.38%"
+          },
+          {
+            "id": 144462,
+            "text": "Stay Right There",
+            "correct": false,
+            "count": "9,589",
+            "percent": "5.08%"
+          },
+          {
+            "id": 144467,
+            "text": "Get Out",
+            "correct": true,
+            "count": "172,843",
+            "percent": "91.54%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/1/1",
+        "game_link": "/us/game/2019-02-21/1",
+        "correct_answers": 172843,
+        "incorrect_answers": 15976,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48195,
+        "text": "What is it called when performers return to the stage to thunderous applause?",
+        "question_number": 2,
+        "eliminated": "3,171",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "193,971",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144480,
+            "text": "Intermission",
+            "correct": false,
+            "count": "7,437",
+            "percent": "4.01%"
+          },
+          {
+            "id": 144481,
+            "text": "Overture",
+            "correct": false,
+            "count": "31,175",
+            "percent": "16.82%"
+          },
+          {
+            "id": 144482,
+            "text": "Curtain call",
+            "correct": true,
+            "count": "146,684",
+            "percent": "79.16%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/1/2",
+        "game_link": "/us/game/2019-02-21/1",
+        "correct_answers": 146684,
+        "incorrect_answers": 38612,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48204,
+        "text": "âHippocampâ is the name of a moon that was just discovered orbiting what planet?",
+        "question_number": 3,
+        "eliminated": "6,228",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "187,914",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144504,
+            "text": "Earth",
+            "correct": false,
+            "count": "5,457",
+            "percent": "3.02%"
+          },
+          {
+            "id": 144507,
+            "text": "Mars",
+            "correct": false,
+            "count": "52,192",
+            "percent": "28.9%"
+          },
+          {
+            "id": 144509,
+            "text": "Neptune",
+            "correct": true,
+            "count": "122,921",
+            "percent": "68.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/1/3",
+        "game_link": "/us/game/2019-02-21/1",
+        "correct_answers": 122921,
+        "incorrect_answers": 57649,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48212,
+        "text": "Which film did NOT sweep the âbig fiveâ Academy Awards?",
+        "question_number": 4,
+        "eliminated": "8,819",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "179,431",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144527,
+            "text": "Argo",
+            "correct": true,
+            "count": "67,500",
+            "percent": "38.99%"
+          },
+          {
+            "id": 144533,
+            "text": "The Silence of the Lambs",
+            "correct": false,
+            "count": "38,633",
+            "percent": "22.32%"
+          },
+          {
+            "id": 144539,
+            "text": "It Happened One Night",
+            "correct": false,
+            "count": "66,972",
+            "percent": "38.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/1/4",
+        "game_link": "/us/game/2019-02-21/1",
+        "correct_answers": 67500,
+        "incorrect_answers": 105605,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48219,
+        "text": "What time of year was the Declaration of Independence signed?",
+        "question_number": 5,
+        "eliminated": "9,233",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "170,772",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144548,
+            "text": "Winter",
+            "correct": false,
+            "count": "26,413",
+            "percent": "15.88%"
+          },
+          {
+            "id": 144550,
+            "text": "Spring",
+            "correct": false,
+            "count": "30,091",
+            "percent": "18.1%"
+          },
+          {
+            "id": 144554,
+            "text": "Summer",
+            "correct": true,
+            "count": "109,780",
+            "percent": "66.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/1/5",
+        "game_link": "/us/game/2019-02-21/1",
+        "correct_answers": 109780,
+        "incorrect_answers": 56504,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48224,
+        "text": "What was the first movie with sound to win Best Picture at the Oscars?",
+        "question_number": 6,
+        "eliminated": "44,218",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "127,223",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144567,
+            "text": "The Broadway Melody",
+            "correct": true,
+            "count": "51,023",
+            "percent": "32.42%"
+          },
+          {
+            "id": 144569,
+            "text": "Wings",
+            "correct": false,
+            "count": "47,707",
+            "percent": "30.32%"
+          },
+          {
+            "id": 144571,
+            "text": "The Gold Rush",
+            "correct": false,
+            "count": "58,640",
+            "percent": "37.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/1/6",
+        "game_link": "/us/game/2019-02-21/1",
+        "correct_answers": 51023,
+        "incorrect_answers": 106347,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48231,
+        "text": "Botanically speaking, what is a cashew apple?",
+        "question_number": 7,
+        "eliminated": "93,864",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "38,758",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144588,
+            "text": "Nut",
+            "correct": false,
+            "count": "49,716",
+            "percent": "39.91%"
+          },
+          {
+            "id": 144589,
+            "text": "Vegetable",
+            "correct": false,
+            "count": "36,759",
+            "percent": "29.51%"
+          },
+          {
+            "id": 144590,
+            "text": "Stem",
+            "correct": true,
+            "count": "38,107",
+            "percent": "30.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/1/7",
+        "game_link": "/us/game/2019-02-21/1",
+        "correct_answers": 38107,
+        "incorrect_answers": 86475,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48241,
+        "text": "Which of these artists dedicated an album to their cats?",
+        "question_number": 8,
+        "eliminated": "24,541",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "24,811",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144617,
+            "text": "Patti LaBelle",
+            "correct": false,
+            "count": "8,282",
+            "percent": "17.33%"
+          },
+          {
+            "id": 144619,
+            "text": "BjÃ¶rk",
+            "correct": false,
+            "count": "14,699",
+            "percent": "30.76%"
+          },
+          {
+            "id": 144620,
+            "text": "Freddie Mercury",
+            "correct": true,
+            "count": "24,811",
+            "percent": "51.91%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/1/8",
+        "game_link": "/us/game/2019-02-21/1",
+        "correct_answers": 24811,
+        "incorrect_answers": 22981,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48247,
+        "text": "Which of these Oscar winners also has an Oscar-winning sibling?",
+        "question_number": 9,
+        "eliminated": "17,541",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "9,787",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144636,
+            "text": "Warren Beatty",
+            "correct": true,
+            "count": "9,787",
+            "percent": "36.5%"
+          },
+          {
+            "id": 144638,
+            "text": "Julia Roberts",
+            "correct": false,
+            "count": "5,173",
+            "percent": "19.29%"
+          },
+          {
+            "id": 144643,
+            "text": "John Cusack",
+            "correct": false,
+            "count": "11,857",
+            "percent": "44.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/1/9",
+        "game_link": "/us/game/2019-02-21/1",
+        "correct_answers": 9787,
+        "incorrect_answers": 17030,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48258,
+        "text": "Whose grave is widely said to carry a curse against whomever disturbs it?",
+        "question_number": 10,
+        "eliminated": "7,556",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "5,101",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144664,
+            "text": "William Shakespeare",
+            "correct": true,
+            "count": "5,101",
+            "percent": "40.77%"
+          },
+          {
+            "id": 144668,
+            "text": "Edgar Allan Poe",
+            "correct": false,
+            "count": "5,574",
+            "percent": "44.55%"
+          },
+          {
+            "id": 144673,
+            "text": "HP Lovecraft",
+            "correct": false,
+            "count": "1,836",
+            "percent": "14.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/1/10",
+        "game_link": "/us/game/2019-02-21/1",
+        "correct_answers": 5101,
+        "incorrect_answers": 7410,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48264,
+        "text": "Which was NOT a 1980s cartoon based on the âStar Warsâ movies?",
+        "question_number": 11,
+        "eliminated": "1,664",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "5,055",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144685,
+            "text": "Droids",
+            "correct": false,
+            "count": "773",
+            "percent": "11.61%"
+          },
+          {
+            "id": 144688,
+            "text": "Ewoks",
+            "correct": false,
+            "count": "830",
+            "percent": "12.47%"
+          },
+          {
+            "id": 144693,
+            "text": "Bounty Hunters",
+            "correct": true,
+            "count": "5,055",
+            "percent": "75.92%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/1/11",
+        "game_link": "/us/game/2019-02-21/1",
+        "correct_answers": 5055,
+        "incorrect_answers": 1603,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48271,
+        "text": "Which actor has definitely NOT been taken out onscreen by an alien, a predator, and a terminator?",
+        "question_number": 12,
+        "eliminated": "3,955",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "1,344",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144708,
+            "text": "Michael Biehn",
+            "correct": true,
+            "count": "1,344",
+            "percent": "26.42%"
+          },
+          {
+            "id": 144710,
+            "text": "Lance Henriksen",
+            "correct": false,
+            "count": "2,884",
+            "percent": "56.69%"
+          },
+          {
+            "id": 144713,
+            "text": "Bill Paxton",
+            "correct": false,
+            "count": "859",
+            "percent": "16.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/1/12",
+        "game_link": "/us/game/2019-02-21/1",
+        "correct_answers": 1344,
+        "incorrect_answers": 3743,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 56295,
+    "show_id": 9742,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "2,500",
+    "currency": "$",
+    "start_time": "2019-02-22T02:00:00Z",
+    "direct_link": "/us/game/2019-02-21/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "5,120",
+      "currency": "$",
+      "average_prize": "0.49"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "TV",
+        "slug": "tv"
+      }
+    ],
+    "questions": [
+      {
+        "id": 48280,
+        "text": "Which food did Rick famously turn himself into?",
+        "question_number": 1,
+        "eliminated": "-12,409",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "413,914",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144734,
+            "text": "Spicy Plumbus",
+            "correct": false,
+            "count": "10,450",
+            "percent": "2.63%"
+          },
+          {
+            "id": 144736,
+            "text": "Pickle",
+            "correct": true,
+            "count": "366,079",
+            "percent": "92.22%"
+          },
+          {
+            "id": 144737,
+            "text": "Rickâs Nest Soup",
+            "correct": false,
+            "count": "20,439",
+            "percent": "5.15%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/2/1",
+        "game_link": "/us/game/2019-02-21/2",
+        "correct_answers": 366079,
+        "incorrect_answers": 30889,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48288,
+        "text": "What is the name of Rickâs handy device that allows him to jump dimensions?",
+        "question_number": 2,
+        "eliminated": "974",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "413,180",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144757,
+            "text": "Portal Gun",
+            "correct": true,
+            "count": "369,991",
+            "percent": "94.15%"
+          },
+          {
+            "id": 144759,
+            "text": "Mario Party Phaser",
+            "correct": false,
+            "count": "12,865",
+            "percent": "3.27%"
+          },
+          {
+            "id": 144763,
+            "text": "Fortnite Super Soaker",
+            "correct": false,
+            "count": "10,109",
+            "percent": "2.57%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/2/2",
+        "game_link": "/us/game/2019-02-21/2",
+        "correct_answers": 369991,
+        "incorrect_answers": 22974,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48298,
+        "text": "Rickâs feathered friend who pops up throughout the series is known as who?",
+        "question_number": 3,
+        "eliminated": "13,078",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "400,115",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144789,
+            "text": "Real Big Bird",
+            "correct": false,
+            "count": "24,733",
+            "percent": "6.35%"
+          },
+          {
+            "id": 144791,
+            "text": "Birdperson",
+            "correct": true,
+            "count": "196,917",
+            "percent": "50.58%"
+          },
+          {
+            "id": 144793,
+            "text": "Birdman",
+            "correct": false,
+            "count": "167,632",
+            "percent": "43.06%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/2/3",
+        "game_link": "/us/game/2019-02-21/2",
+        "correct_answers": 196917,
+        "incorrect_answers": 192365,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48303,
+        "text": "According to the lyrics, which of these actions should you do if you want to âGet Schwiftyâ?",
+        "question_number": 4,
+        "eliminated": "15,655",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "385,493",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144804,
+            "text": "Sit on the floor",
+            "correct": false,
+            "count": "65,712",
+            "percent": "18.15%"
+          },
+          {
+            "id": 144805,
+            "text": "Clap your butt",
+            "correct": false,
+            "count": "102,406",
+            "percent": "28.29%"
+          },
+          {
+            "id": 144806,
+            "text": "Take off your pants",
+            "correct": true,
+            "count": "193,873",
+            "percent": "53.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/2/4",
+        "game_link": "/us/game/2019-02-21/2",
+        "correct_answers": 193873,
+        "incorrect_answers": 168118,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48312,
+        "text": "The space city where millions of Ricks and Mortys formed their own society is known as what?",
+        "question_number": 5,
+        "eliminated": "20,585",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "366,393",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144831,
+            "text": "New Rick City",
+            "correct": false,
+            "count": "72,165",
+            "percent": "20.36%"
+          },
+          {
+            "id": 144833,
+            "text": "The Citadel",
+            "correct": true,
+            "count": "176,644",
+            "percent": "49.83%"
+          },
+          {
+            "id": 144835,
+            "text": "Ricklantis",
+            "correct": false,
+            "count": "105,679",
+            "percent": "29.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/2/5",
+        "game_link": "/us/game/2019-02-21/2",
+        "correct_answers": 176644,
+        "incorrect_answers": 177844,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48320,
+        "text": "What is the first task Rick gives to a Mr. Meeseeks?",
+        "question_number": 6,
+        "eliminated": "52,951",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "314,832",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144853,
+            "text": "Help Jerryâs golf game",
+            "correct": false,
+            "count": "55,263",
+            "percent": "16.24%"
+          },
+          {
+            "id": 144855,
+            "text": "Open a mayonnaise jar",
+            "correct": true,
+            "count": "245,686",
+            "percent": "72.2%"
+          },
+          {
+            "id": 144857,
+            "text": "Clean the bathroom",
+            "correct": false,
+            "count": "39,321",
+            "percent": "11.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/2/6",
+        "game_link": "/us/game/2019-02-21/2",
+        "correct_answers": 245686,
+        "incorrect_answers": 94584,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48327,
+        "text": "Which of these is NOT a featured attraction at Anatomy Park?",
+        "question_number": 7,
+        "eliminated": "214,122",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "107,082",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144876,
+            "text": "Bladder Falls",
+            "correct": false,
+            "count": "56,184",
+            "percent": "18.55%"
+          },
+          {
+            "id": 144881,
+            "text": "Tilt A Hurl",
+            "correct": true,
+            "count": "105,847",
+            "percent": "34.95%"
+          },
+          {
+            "id": 144887,
+            "text": "Alveoli Forest",
+            "correct": false,
+            "count": "140,851",
+            "percent": "46.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/2/7",
+        "game_link": "/us/game/2019-02-21/2",
+        "correct_answers": 105847,
+        "incorrect_answers": 197035,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48336,
+        "text": "Which filmâs director lends his name to the misshapen humans that Rick and Morty abandon?",
+        "question_number": 8,
+        "eliminated": "97,664",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "48,801",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144899,
+            "text": "Dune",
+            "correct": false,
+            "count": "36,232",
+            "percent": "25.62%"
+          },
+          {
+            "id": 144904,
+            "text": "Fitzcarraldo",
+            "correct": false,
+            "count": "56,377",
+            "percent": "39.87%"
+          },
+          {
+            "id": 144907,
+            "text": "Videodrome",
+            "correct": true,
+            "count": "48,801",
+            "percent": "34.51%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/2/8",
+        "game_link": "/us/game/2019-02-21/2",
+        "correct_answers": 48801,
+        "incorrect_answers": 92609,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48342,
+        "text": "While channel-surfing his interdimensional TV, Rick comes across an ad for which of these products?",
+        "question_number": 9,
+        "eliminated": "43,502",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "18,692",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144922,
+            "text": "A car that sneezes",
+            "correct": true,
+            "count": "18,692",
+            "percent": "31.81%"
+          },
+          {
+            "id": 144926,
+            "text": "Augmented Crocodile",
+            "correct": false,
+            "count": "16,005",
+            "percent": "27.24%"
+          },
+          {
+            "id": 144933,
+            "text": "Gazorpazorp Pops cereal",
+            "correct": false,
+            "count": "24,059",
+            "percent": "40.95%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/2/9",
+        "game_link": "/us/game/2019-02-21/2",
+        "correct_answers": 18692,
+        "incorrect_answers": 40064,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48350,
+        "text": "Which of these is a listed reason for dropping off your Jerry at the Jerryboree daycare center?",
+        "question_number": 10,
+        "eliminated": "9,877",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "15,794",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144945,
+            "text": "Beth dumped him again",
+            "correct": false,
+            "count": "4,758",
+            "percent": "18.9%"
+          },
+          {
+            "id": 144951,
+            "text": "Annoying me",
+            "correct": true,
+            "count": "15,794",
+            "percent": "62.74%"
+          },
+          {
+            "id": 144958,
+            "text": "Earth went missing",
+            "correct": false,
+            "count": "4,620",
+            "percent": "18.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/2/10",
+        "game_link": "/us/game/2019-02-21/2",
+        "correct_answers": 15794,
+        "incorrect_answers": 9378,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48359,
+        "text": "Which hitmaker does Earthâs president NOT call for when the giant Cromulon head demands a hit song?",
+        "question_number": 11,
+        "eliminated": "8,396",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "8,872",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144970,
+            "text": "Pharrell",
+            "correct": false,
+            "count": "2,597",
+            "percent": "15.43%"
+          },
+          {
+            "id": 144972,
+            "text": "Justin Bieber",
+            "correct": true,
+            "count": "8,872",
+            "percent": "52.7%"
+          },
+          {
+            "id": 144976,
+            "text": "Billy Corgan",
+            "correct": false,
+            "count": "5,366",
+            "percent": "31.87%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/2/11",
+        "game_link": "/us/game/2019-02-21/2",
+        "correct_answers": 8872,
+        "incorrect_answers": 7963,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48365,
+        "text": "What is the correct name of the characters in the original animated short that inspired âRick & Mortyâ?",
+        "question_number": 12,
+        "eliminated": "5,366",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "5,120",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 144990,
+            "text": "Doc & Mharti",
+            "correct": true,
+            "count": "5,120",
+            "percent": "50.0%"
+          },
+          {
+            "id": 144992,
+            "text": "Dr. & Martee",
+            "correct": false,
+            "count": "1,604",
+            "percent": "15.66%"
+          },
+          {
+            "id": 144996,
+            "text": "Dock & Marty",
+            "correct": false,
+            "count": "3,517",
+            "percent": "34.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-21/2/12",
+        "game_link": "/us/game/2019-02-21/2",
+        "correct_answers": 5120,
+        "incorrect_answers": 5121,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 56419,
+    "show_id": 9747,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-02-22T02:30:00Z",
+    "direct_link": "/us/game/2019-02-21/3",
+    "currency": "$",
+    "prize": "2,500",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "64.90"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "66.92"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "68.13"
+        },
+        {
+          "number": "21,830",
+          "amount": "0.10",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.10420006412311639,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-02-21/3/1",
+        "question_number": 1,
+        "text": "Sparkly Stuff",
+        "answer": [
+          "GLITTER"
+        ],
+        "initial_letters": [
+          "G"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "R"
+        ],
+        "game_link": "/us/game/2019-02-21/3",
+        "eliminated": 7903,
+        "advancing": 186146,
+        "correct_answers": 186146,
+        "incorrect_answers": 7903
+      },
+      {
+        "direct_link": "/us/game/2019-02-21/3/2",
+        "question_number": 2,
+        "text": "Sound in the Home",
+        "answer": [
+          "DOORBELL"
+        ],
+        "initial_letters": [
+          "D"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "R"
+        ],
+        "game_link": "/us/game/2019-02-21/3",
+        "eliminated": 3326,
+        "advancing": 183587,
+        "correct_answers": 183587,
+        "incorrect_answers": 3326
+      },
+      {
+        "direct_link": "/us/game/2019-02-21/3/3",
+        "question_number": 3,
+        "text": "Travel Annoyance",
+        "answer": [
+          "JET",
+          "LAG"
+        ],
+        "initial_letters": [
+          " ",
+          "J"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "G"
+        ],
+        "game_link": "/us/game/2019-02-21/3",
+        "eliminated": 3394,
+        "advancing": 180169,
+        "correct_answers": 180169,
+        "incorrect_answers": 3394
+      },
+      {
+        "direct_link": "/us/game/2019-02-21/3/4",
+        "question_number": 4,
+        "text": "Sink Problem",
+        "answer": [
+          "LEAKY",
+          "FAUCET"
+        ],
+        "initial_letters": [
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "F"
+        ],
+        "game_link": "/us/game/2019-02-21/3",
+        "eliminated": 15782,
+        "advancing": 164573,
+        "correct_answers": 164573,
+        "incorrect_answers": 15782
+      },
+      {
+        "direct_link": "/us/game/2019-02-21/3/5",
+        "question_number": 5,
+        "text": "Whatâs for Lunch?",
+        "answer": [
+          "BLT",
+          "SANDWICH"
+        ],
+        "initial_letters": [
+          " ",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "N"
+        ],
+        "game_link": "/us/game/2019-02-21/3",
+        "eliminated": 66414,
+        "advancing": 99885,
+        "correct_answers": 99885,
+        "incorrect_answers": 66414
+      },
+      {
+        "direct_link": "/us/game/2019-02-21/3/6",
+        "question_number": 6,
+        "text": "Hair Care",
+        "answer": [
+          "DRY",
+          "SHAMPOO"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "M"
+        ],
+        "game_link": "/us/game/2019-02-21/3",
+        "eliminated": 7863,
+        "advancing": 100921,
+        "correct_answers": 100921,
+        "incorrect_answers": 7863
+      },
+      {
+        "direct_link": "/us/game/2019-02-21/3/7",
+        "question_number": 7,
+        "text": "Google Prompt",
+        "answer": [
+          "TRANSLATE",
+          "THIS",
+          "PAGE?"
+        ],
+        "initial_letters": [
+          " ",
+          "?",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "H"
+        ],
+        "game_link": "/us/game/2019-02-21/3",
+        "eliminated": 77546,
+        "advancing": 24324,
+        "correct_answers": 24324,
+        "incorrect_answers": 77546
+      },
+      {
+        "direct_link": "/us/game/2019-02-21/3/8",
+        "question_number": 8,
+        "text": "Help in the Kitchen",
+        "answer": [
+          "EMPTY",
+          "THE",
+          "DISHWASHER"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "P"
+        ],
+        "game_link": "/us/game/2019-02-21/3",
+        "eliminated": 5312,
+        "advancing": 34786,
+        "correct_answers": 34786,
+        "incorrect_answers": 5312
+      },
+      {
+        "direct_link": "/us/game/2019-02-21/3/9",
+        "question_number": 9,
+        "text": "Kidâs Game",
+        "answer": [
+          "HUNGRY",
+          "HUNGRY",
+          "HIPPOS"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "N"
+        ],
+        "game_link": "/us/game/2019-02-21/3",
+        "eliminated": 12428,
+        "advancing": 23077,
+        "correct_answers": 23077,
+        "incorrect_answers": 12428
+      },
+      {
+        "direct_link": "/us/game/2019-02-21/3/10",
+        "question_number": 10,
+        "text": "Actor / Film",
+        "answer": [
+          "RUSSELL",
+          "CROWE",
+          "/",
+          "GLADIATOR"
+        ],
+        "initial_letters": [
+          " ",
+          "/",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "R",
+          "W"
+        ],
+        "game_link": "/us/game/2019-02-21/3",
+        "eliminated": 4364,
+        "advancing": 21833,
+        "correct_answers": 21833,
+        "incorrect_answers": 4364
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

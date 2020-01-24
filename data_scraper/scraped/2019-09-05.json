@@ -1,0 +1,1041 @@
+[
+  {
+    "id": 130845,
+    "show_id": 12257,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "2,000",
+    "currency": "$",
+    "start_time": "2019-09-06T01:00:00Z",
+    "direct_link": "/us/game/2019-09-05/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "64",
+      "currency": "$",
+      "average_prize": "31.25"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 144422,
+        "text": "Stephen King is primarily known for writing in what genre?",
+        "question_number": 1,
+        "eliminated": "-34,321",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "185,738",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 291089,
+            "text": "Horror",
+            "correct": true,
+            "count": "149,611",
+            "percent": "98.81%"
+          },
+          {
+            "id": 291090,
+            "text": "Romance",
+            "correct": false,
+            "count": "1,245",
+            "percent": "0.82%"
+          },
+          {
+            "id": 291091,
+            "text": "Poetry",
+            "correct": false,
+            "count": "561",
+            "percent": "0.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-05/1/1",
+        "game_link": "/us/game/2019-09-05/1",
+        "correct_answers": 149611,
+        "incorrect_answers": 1806,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 144441,
+        "text": "What is the name of the clown in \"It\"?",
+        "question_number": 2,
+        "eliminated": "3,590",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "182,197",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 291122,
+            "text": "Bozo",
+            "correct": false,
+            "count": "7,771",
+            "percent": "5.02%"
+          },
+          {
+            "id": 291124,
+            "text": "Pennywise",
+            "correct": true,
+            "count": "142,781",
+            "percent": "92.21%"
+          },
+          {
+            "id": 291127,
+            "text": "Doink",
+            "correct": false,
+            "count": "4,293",
+            "percent": "2.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-05/1/2",
+        "game_link": "/us/game/2019-09-05/1",
+        "correct_answers": 142781,
+        "incorrect_answers": 12064,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 144450,
+        "text": "What kind of dog was \"Cujo\"?",
+        "question_number": 3,
+        "eliminated": "18,405",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "163,868",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 291131,
+            "text": "Rottweiler",
+            "correct": false,
+            "count": "40,183",
+            "percent": "25.99%"
+          },
+          {
+            "id": 291133,
+            "text": "St. Bernard",
+            "correct": true,
+            "count": "105,646",
+            "percent": "68.33%"
+          },
+          {
+            "id": 291135,
+            "text": "Pit bull",
+            "correct": false,
+            "count": "8,783",
+            "percent": "5.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-05/1/3",
+        "game_link": "/us/game/2019-09-05/1",
+        "correct_answers": 105646,
+        "incorrect_answers": 48966,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 144464,
+        "text": "Which of these Stephen King works was released under a pseudonym?",
+        "question_number": 4,
+        "eliminated": "24,129",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "140,340",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 291152,
+            "text": "Christine",
+            "correct": false,
+            "count": "15,521",
+            "percent": "11.36%"
+          },
+          {
+            "id": 291154,
+            "text": "'Salemâs Lot",
+            "correct": false,
+            "count": "21,773",
+            "percent": "15.94%"
+          },
+          {
+            "id": 291156,
+            "text": "The Running Man",
+            "correct": true,
+            "count": "99,311",
+            "percent": "72.7%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-05/1/4",
+        "game_link": "/us/game/2019-09-05/1",
+        "correct_answers": 99311,
+        "incorrect_answers": 37294,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 144478,
+        "text": "Which Stephen King character has won its on-screen portrayer an Oscar?",
+        "question_number": 5,
+        "eliminated": "47,418",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "92,994",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 291173,
+            "text": "Dolores Claiborne",
+            "correct": false,
+            "count": "53,800",
+            "percent": "47.3%"
+          },
+          {
+            "id": 291175,
+            "text": "Annie Wilkes",
+            "correct": true,
+            "count": "46,687",
+            "percent": "41.04%"
+          },
+          {
+            "id": 291177,
+            "text": "Paul Sheldon",
+            "correct": false,
+            "count": "13,260",
+            "percent": "11.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-05/1/5",
+        "game_link": "/us/game/2019-09-05/1",
+        "correct_answers": 46687,
+        "incorrect_answers": 67060,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 144492,
+        "text": "Stephen King reportedly didnât like which film adaptation of his book?",
+        "question_number": 6,
+        "eliminated": "17,933",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "75,324",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 291194,
+            "text": "The Shining",
+            "correct": true,
+            "count": "59,152",
+            "percent": "72.84%"
+          },
+          {
+            "id": 291196,
+            "text": "The Green Mile",
+            "correct": false,
+            "count": "12,148",
+            "percent": "14.96%"
+          },
+          {
+            "id": 291198,
+            "text": "The Shawshank Redemption",
+            "correct": false,
+            "count": "9,909",
+            "percent": "12.2%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-05/1/6",
+        "game_link": "/us/game/2019-09-05/1",
+        "correct_answers": 59152,
+        "incorrect_answers": 22057,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 144506,
+        "text": "Which of these Stephen King characters is NOT also a notable character in \"The Dark Tower\" series?",
+        "question_number": 7,
+        "eliminated": "22,326",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "52,998",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 291215,
+            "text": "Danny Torrance",
+            "correct": true,
+            "count": "43,636",
+            "percent": "65.48%"
+          },
+          {
+            "id": 291216,
+            "text": "Ted Brautigan",
+            "correct": false,
+            "count": "10,758",
+            "percent": "16.14%"
+          },
+          {
+            "id": 291218,
+            "text": "Father Callahan",
+            "correct": false,
+            "count": "12,243",
+            "percent": "18.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-05/1/7",
+        "game_link": "/us/game/2019-09-05/1",
+        "correct_answers": 43636,
+        "incorrect_answers": 23001,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 144520,
+        "text": "Which novel was partially rescued by Stephen Kingâs wife fishing pages out of the trash?",
+        "question_number": 8,
+        "eliminated": "6,725",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "46,371",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 291236,
+            "text": "'Salemâs Lot",
+            "correct": false,
+            "count": "3,491",
+            "percent": "6.91%"
+          },
+          {
+            "id": 291238,
+            "text": "Dolores Claiborne",
+            "correct": false,
+            "count": "2,986",
+            "percent": "5.91%"
+          },
+          {
+            "id": 291241,
+            "text": "Carrie",
+            "correct": true,
+            "count": "44,024",
+            "percent": "87.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-05/1/8",
+        "game_link": "/us/game/2019-09-05/1",
+        "correct_answers": 44024,
+        "incorrect_answers": 6477,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 144526,
+        "text": "Stephen Kingâs directorial debut featured a soundtrack by the band behind what hit?",
+        "question_number": 9,
+        "eliminated": "22,259",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "24,112",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 291245,
+            "text": "Smoke on the Water",
+            "correct": false,
+            "count": "15,743",
+            "percent": "35.15%"
+          },
+          {
+            "id": 291247,
+            "text": "Detroit Rock City",
+            "correct": false,
+            "count": "8,721",
+            "percent": "19.47%"
+          },
+          {
+            "id": 291248,
+            "text": "Thunderstruck",
+            "correct": true,
+            "count": "20,328",
+            "percent": "45.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-05/1/9",
+        "game_link": "/us/game/2019-09-05/1",
+        "correct_answers": 20328,
+        "incorrect_answers": 24464,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 144532,
+        "text": "What role did Stephen King cameo as in the original \"Pet Sematary\" movie?",
+        "question_number": 10,
+        "eliminated": "7,993",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "16,120",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 291254,
+            "text": "Grave digger",
+            "correct": false,
+            "count": "3,756",
+            "percent": "16.37%"
+          },
+          {
+            "id": 291256,
+            "text": "Minister",
+            "correct": true,
+            "count": "13,842",
+            "percent": "60.34%"
+          },
+          {
+            "id": 291259,
+            "text": "Bus driver",
+            "correct": false,
+            "count": "5,341",
+            "percent": "23.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-05/1/10",
+        "game_link": "/us/game/2019-09-05/1",
+        "correct_answers": 13842,
+        "incorrect_answers": 9097,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 144538,
+        "text": "Which Stephen King work is widely considered a prequel to his \"Dark Tower\" series?",
+        "question_number": 11,
+        "eliminated": "3,232",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "12,888",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 291263,
+            "text": "Crouch End",
+            "correct": false,
+            "count": "530",
+            "percent": "3.47%"
+          },
+          {
+            "id": 291264,
+            "text": "The Eyes of the Dragon",
+            "correct": true,
+            "count": "12,888",
+            "percent": "84.38%"
+          },
+          {
+            "id": 291266,
+            "text": "The Woman in the Room",
+            "correct": false,
+            "count": "1,855",
+            "percent": "12.15%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-05/1/11",
+        "game_link": "/us/game/2019-09-05/1",
+        "correct_answers": 12888,
+        "incorrect_answers": 2385,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 144544,
+        "text": "What were the child actors actually scared of in the filming of this shot?",
+        "question_number": 12,
+        "eliminated": "10,260",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,678",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 291272,
+            "text": "Screaming director",
+            "correct": true,
+            "count": "2,678",
+            "percent": "21.13%"
+          },
+          {
+            "id": 291273,
+            "text": "Oncoming train",
+            "correct": false,
+            "count": "8,211",
+            "percent": "64.78%"
+          },
+          {
+            "id": 291275,
+            "text": "Loose rats",
+            "correct": false,
+            "count": "1,786",
+            "percent": "14.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-05/1/12",
+        "game_link": "/us/game/2019-09-05/1",
+        "correct_answers": 2678,
+        "incorrect_answers": 9997,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 12,
+          "players_left": 2658,
+          "players_left_formatted": "2,658",
+          "num_winners": 364,
+          "num_winners_formatted": "364",
+          "prize": 0.19,
+          "prize_formatted": "$0.19",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 144550,
+        "text": "Which of these is reportedly the international title to a film adapted from a Stephen King novella?",
+        "question_number": 13,
+        "eliminated": "2,199",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "459",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 291281,
+            "text": "Drafty Cell",
+            "correct": false,
+            "count": "384",
+            "percent": "14.67%"
+          },
+          {
+            "id": 291283,
+            "text": "Big Mistake",
+            "correct": false,
+            "count": "1,775",
+            "percent": "67.8%"
+          },
+          {
+            "id": 291285,
+            "text": "1995: Fantastic",
+            "correct": true,
+            "count": "459",
+            "percent": "17.53%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-05/1/13",
+        "game_link": "/us/game/2019-09-05/1",
+        "correct_answers": 459,
+        "incorrect_answers": 2159,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 13,
+          "players_left": 281,
+          "players_left_formatted": "281",
+          "num_winners": 233,
+          "num_winners_formatted": "233",
+          "prize": 2.18,
+          "prize_formatted": "$2.18",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 144560,
+        "text": "Which of these Stephen King short stories has NOT been adapted into any kind of film?",
+        "question_number": 14,
+        "eliminated": "60",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "221",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 291296,
+            "text": "Slade",
+            "correct": true,
+            "count": "221",
+            "percent": "87.35%"
+          },
+          {
+            "id": 291298,
+            "text": "I Am the Doorway",
+            "correct": false,
+            "count": "23",
+            "percent": "9.09%"
+          },
+          {
+            "id": 291301,
+            "text": "The Ledge",
+            "correct": false,
+            "count": "9",
+            "percent": "3.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-05/1/14",
+        "game_link": "/us/game/2019-09-05/1",
+        "correct_answers": 221,
+        "incorrect_answers": 32,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 14,
+          "players_left": 206,
+          "players_left_formatted": "206",
+          "num_winners": 15,
+          "num_winners_formatted": "15",
+          "prize": 6.79,
+          "prize_formatted": "$6.79",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 144570,
+        "text": "Stephen Kingâs longest stand-alone novel is allegedly named for a lyric by what artist?",
+        "question_number": 15,
+        "eliminated": "139",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "64",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 291311,
+            "text": "Elton John",
+            "correct": false,
+            "count": "65",
+            "percent": "32.99%"
+          },
+          {
+            "id": 291314,
+            "text": "Bruce Springsteen",
+            "correct": true,
+            "count": "64",
+            "percent": "32.49%"
+          },
+          {
+            "id": 291317,
+            "text": "The Rolling Stones",
+            "correct": false,
+            "count": "68",
+            "percent": "34.52%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-05/1/15",
+        "game_link": "/us/game/2019-09-05/1",
+        "correct_answers": 64,
+        "incorrect_answers": 133,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1539,
+        "game_id": 130845,
+        "question": "Which is your favorite type of creepy character? ",
+        "results": [
+          {
+            "id": 9117,
+            "display_count": "23",
+            "vote_count": 10850,
+            "text": "Evil Doll"
+          },
+          {
+            "id": 9111,
+            "display_count": "36",
+            "vote_count": 17174,
+            "text": "Scary Clown"
+          },
+          {
+            "id": 9125,
+            "display_count": "41",
+            "vote_count": 19301,
+            "text": "Vengeful Spirit"
+          }
+        ],
+        "created_at": "2019-09-06T01:04:23Z"
+      },
+      {
+        "id": 1530,
+        "game_id": 130845,
+        "question": "Which of these is your favorite Stephen King film?",
+        "results": [
+          {
+            "id": 9042,
+            "display_count": "21",
+            "vote_count": 9242,
+            "text": "Carrie"
+          },
+          {
+            "id": 9046,
+            "display_count": "25",
+            "vote_count": 10747,
+            "text": "Misery"
+          },
+          {
+            "id": 9038,
+            "display_count": "54",
+            "vote_count": 23383,
+            "text": "The Shining"
+          }
+        ],
+        "created_at": "2019-09-06T01:03:56Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 12,
+        "players_left": 2658,
+        "players_left_formatted": "2,658",
+        "num_winners": 364,
+        "num_winners_formatted": "364",
+        "prize": 0.19,
+        "prize_formatted": "$0.19",
+        "currency": "$"
+      },
+      {
+        "round_number": 13,
+        "players_left": 281,
+        "players_left_formatted": "281",
+        "num_winners": 233,
+        "num_winners_formatted": "233",
+        "prize": 2.18,
+        "prize_formatted": "$2.18",
+        "currency": "$"
+      },
+      {
+        "round_number": 14,
+        "players_left": 206,
+        "players_left_formatted": "206",
+        "num_winners": 15,
+        "num_winners_formatted": "15",
+        "prize": 6.79,
+        "prize_formatted": "$6.79",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "678.95",
+    "total_checkpoint_winners": "612",
+    "smallest_checkpoint_prize": "$0.19",
+    "largest_checkpoint_prize": "$6.79",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 130949,
+    "show_id": 12297,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-09-06T01:30:00Z",
+    "direct_link": "/us/game/2019-09-05/2",
+    "currency": "$",
+    "prize": "2,000",
+    "summary": {
+      "winner_count": "2,335",
+      "currency": "$",
+      "average_prize": "0.86"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-09-05/2/2",
+        "question_number": 2,
+        "text": "Dangerous Ride",
+        "answer": [
+          "CHRISTINE"
+        ],
+        "initial_letters": [
+          "\"C\""
+        ],
+        "to_reveal_letters": [
+          "I",
+          "T"
+        ],
+        "game_link": "/us/game/2019-09-05/2",
+        "eliminated": 15176,
+        "advancing": 46382,
+        "correct_answers": 46382,
+        "incorrect_answers": 15176
+      },
+      {
+        "direct_link": "/us/game/2019-09-05/2/3",
+        "question_number": 3,
+        "text": "A-maze-ing Resort",
+        "answer": [
+          "OVERLOOK",
+          "HOTEL"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"K\""
+        ],
+        "to_reveal_letters": [
+          "H",
+          "T"
+        ],
+        "game_link": "/us/game/2019-09-05/2",
+        "eliminated": 6844,
+        "advancing": 39410,
+        "correct_answers": 39410,
+        "incorrect_answers": 6844
+      },
+      {
+        "direct_link": "/us/game/2019-09-05/2/4",
+        "question_number": 4,
+        "text": "Titular Misspelling",
+        "answer": [
+          "PET",
+          "SEMATARY"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"Y\""
+        ],
+        "to_reveal_letters": [
+          "P",
+          "S"
+        ],
+        "game_link": "/us/game/2019-09-05/2",
+        "eliminated": 4411,
+        "advancing": 34942,
+        "correct_answers": 34942,
+        "incorrect_answers": 4411
+      },
+      {
+        "direct_link": "/us/game/2019-09-05/2/5",
+        "question_number": 5,
+        "text": "âStand By Meâ Stand-Out",
+        "answer": [
+          "RIVER",
+          "PHOENIX"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"E\""
+        ],
+        "to_reveal_letters": [
+          "N",
+          "X"
+        ],
+        "game_link": "/us/game/2019-09-05/2",
+        "eliminated": 6421,
+        "advancing": 28486,
+        "correct_answers": 28486,
+        "incorrect_answers": 6421
+      },
+      {
+        "direct_link": "/us/game/2019-09-05/2/6",
+        "question_number": 6,
+        "text": "Novel-Within-A-Novel",
+        "answer": [
+          "MISERYâS",
+          "CHILD"
+        ],
+        "initial_letters": [
+          "\"â\"",
+          "\" \"",
+          "\"S\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-09-05/2",
+        "eliminated": 18114,
+        "advancing": 10318,
+        "correct_answers": 10318,
+        "incorrect_answers": 18114
+      },
+      {
+        "direct_link": "/us/game/2019-09-05/2/7",
+        "question_number": 7,
+        "text": "The It Crowd",
+        "answer": [
+          "LOSERS",
+          "CLUB"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"R\""
+        ],
+        "to_reveal_letters": [
+          "B",
+          "E"
+        ],
+        "game_link": "/us/game/2019-09-05/2",
+        "eliminated": 1692,
+        "advancing": 8622,
+        "correct_answers": 8622,
+        "incorrect_answers": 1692
+      },
+      {
+        "direct_link": "/us/game/2019-09-05/2/8",
+        "question_number": 8,
+        "text": "Famous AKA",
+        "answer": [
+          "RICHARD",
+          "BACHMAN"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "H",
+          "I"
+        ],
+        "game_link": "/us/game/2019-09-05/2",
+        "eliminated": 2285,
+        "advancing": 6336,
+        "correct_answers": 6336,
+        "incorrect_answers": 2285
+      },
+      {
+        "direct_link": "/us/game/2019-09-05/2/9",
+        "question_number": 9,
+        "text": "âFirestarterâ Pair",
+        "answer": [
+          "FATHER",
+          "&",
+          "DAUGHTER"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"&\"",
+          "\"R\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "E"
+        ],
+        "game_link": "/us/game/2019-09-05/2",
+        "eliminated": 1654,
+        "advancing": 4684,
+        "correct_answers": 4684,
+        "incorrect_answers": 1654
+      },
+      {
+        "direct_link": "/us/game/2019-09-05/2/10",
+        "question_number": 10,
+        "text": "Creepy Place",
+        "answer": [
+          "CASTLE",
+          "ROCK,",
+          "MAINE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\",\"",
+          "\"E\""
+        ],
+        "to_reveal_letters": [
+          "L",
+          "R"
+        ],
+        "game_link": "/us/game/2019-09-05/2",
+        "eliminated": 692,
+        "advancing": 3992,
+        "correct_answers": 3992,
+        "incorrect_answers": 692
+      },
+      {
+        "direct_link": "/us/game/2019-09-05/2/11",
+        "question_number": 11,
+        "text": "Big in the â90s",
+        "answer": [
+          "THE",
+          "SHAWSHANK",
+          "REDEMPTION"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"I\""
+        ],
+        "to_reveal_letters": [
+          "K",
+          "R"
+        ],
+        "game_link": "/us/game/2019-09-05/2",
+        "eliminated": 415,
+        "advancing": 3578,
+        "correct_answers": 3578,
+        "incorrect_answers": 415
+      },
+      {
+        "direct_link": "/us/game/2019-09-05/2/12",
+        "question_number": 12,
+        "text": "Pyre-ic Victory?",
+        "answer": [
+          "CROWNED",
+          "AS",
+          "PROM",
+          "QUEEN"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"Q\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "S"
+        ],
+        "game_link": "/us/game/2019-09-05/2",
+        "eliminated": 1243,
+        "advancing": 2335,
+        "correct_answers": 2335,
+        "incorrect_answers": 1243
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

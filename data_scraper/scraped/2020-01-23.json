@@ -1,0 +1,1393 @@
+[
+  {
+    "id": 143503,
+    "show_id": 12496,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2020-01-24T02:00:00Z",
+    "direct_link": "/us/game/2020-01-23/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "3",
+      "currency": "$",
+      "average_prize": "1,666.67"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 161936,
+        "text": "âPicardâ is a new sci-fi series in what hit franchise?",
+        "question_number": 1,
+        "eliminated": "-8,071",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "85,744",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317360,
+            "text": "Harry Potter",
+            "correct": false,
+            "count": "1,315",
+            "percent": "1.76%"
+          },
+          {
+            "id": 317361,
+            "text": "PokÃ©mon",
+            "correct": false,
+            "count": "4,640",
+            "percent": "6.22%"
+          },
+          {
+            "id": 317362,
+            "text": "Star Trek",
+            "correct": true,
+            "count": "68,670",
+            "percent": "92.02%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/1",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 68670,
+        "incorrect_answers": 5955,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161938,
+        "text": "Which period came first in American history?",
+        "question_number": 2,
+        "eliminated": "919",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "84,924",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317363,
+            "text": "Biebermania",
+            "correct": false,
+            "count": "1,810",
+            "percent": "2.42%"
+          },
+          {
+            "id": 317364,
+            "text": "Westward Expansion",
+            "correct": true,
+            "count": "70,459",
+            "percent": "94.35%"
+          },
+          {
+            "id": 317365,
+            "text": "Dot-com bubble",
+            "correct": false,
+            "count": "2,412",
+            "percent": "3.23%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/2",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 70459,
+        "incorrect_answers": 4222,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161940,
+        "text": "In politics, a speech coded to mean something to a particular group of people is known as what?",
+        "question_number": 3,
+        "eliminated": "3,313",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "81,641",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317366,
+            "text": "Horse whisper",
+            "correct": false,
+            "count": "20,542",
+            "percent": "28.59%"
+          },
+          {
+            "id": 317367,
+            "text": "Dog whistle",
+            "correct": true,
+            "count": "46,026",
+            "percent": "64.05%"
+          },
+          {
+            "id": 317368,
+            "text": "Snake hiss",
+            "correct": false,
+            "count": "5,292",
+            "percent": "7.36%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/3",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 46026,
+        "incorrect_answers": 25834,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161942,
+        "text": "Which of these terms is commonly used in astrology?",
+        "question_number": 4,
+        "eliminated": "3,574",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "78,200",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317369,
+            "text": "Gamma-ray",
+            "correct": false,
+            "count": "7,725",
+            "percent": "10.6%"
+          },
+          {
+            "id": 317370,
+            "text": "Aquarius",
+            "correct": true,
+            "count": "63,802",
+            "percent": "87.51%"
+          },
+          {
+            "id": 317371,
+            "text": "Symbiosis",
+            "correct": false,
+            "count": "1,379",
+            "percent": "1.89%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/4",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 63802,
+        "incorrect_answers": 9104,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161944,
+        "text": "The New England Patriots got in trouble for allegedly doing what to footballs?",
+        "question_number": 5,
+        "eliminated": "2,555",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "75,768",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317372,
+            "text": "Deflating",
+            "correct": true,
+            "count": "67,873",
+            "percent": "94.66%"
+          },
+          {
+            "id": 317373,
+            "text": "Over-inflating",
+            "correct": false,
+            "count": "2,979",
+            "percent": "4.15%"
+          },
+          {
+            "id": 317374,
+            "text": "Stealing",
+            "correct": false,
+            "count": "848",
+            "percent": "1.18%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/5",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 67873,
+        "incorrect_answers": 3827,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161946,
+        "text": "Soft drinks get their name from being what?",
+        "question_number": 6,
+        "eliminated": "17,906",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "57,960",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317375,
+            "text": "Sugary",
+            "correct": false,
+            "count": "3,194",
+            "percent": "4.52%"
+          },
+          {
+            "id": 317376,
+            "text": "Non-alcoholic",
+            "correct": true,
+            "count": "26,810",
+            "percent": "37.91%"
+          },
+          {
+            "id": 317377,
+            "text": "Carbonated",
+            "correct": false,
+            "count": "40,713",
+            "percent": "57.57%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/6",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 26810,
+        "incorrect_answers": 43907,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161948,
+        "text": "The liquid form of what element is used to both remove warts and make ice cream?",
+        "question_number": 7,
+        "eliminated": "5,248",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "55,114",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317378,
+            "text": "Mercury",
+            "correct": false,
+            "count": "647",
+            "percent": "1.14%"
+          },
+          {
+            "id": 317379,
+            "text": "Hydrogen",
+            "correct": false,
+            "count": "5,688",
+            "percent": "9.98%"
+          },
+          {
+            "id": 317380,
+            "text": "Nitrogen",
+            "correct": true,
+            "count": "50,640",
+            "percent": "88.88%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/7",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 50640,
+        "incorrect_answers": 6335,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161950,
+        "text": "Where was this picture taken?",
+        "question_number": 8,
+        "eliminated": "5,863",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "50,209",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317381,
+            "text": "Grammys",
+            "correct": false,
+            "count": "5,304",
+            "percent": "9.73%"
+          },
+          {
+            "id": 317382,
+            "text": "Oscars",
+            "correct": false,
+            "count": "3,353",
+            "percent": "6.15%"
+          },
+          {
+            "id": 317383,
+            "text": "Met Gala",
+            "correct": true,
+            "count": "45,862",
+            "percent": "84.12%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/8",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 45862,
+        "incorrect_answers": 8657,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161952,
+        "text": "Which song title contains a demonym?",
+        "question_number": 9,
+        "eliminated": "18,805",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "32,822",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317384,
+            "text": "Young Americans",
+            "correct": true,
+            "count": "21,268",
+            "percent": "43.28%"
+          },
+          {
+            "id": 317385,
+            "text": "Nice For What",
+            "correct": false,
+            "count": "10,842",
+            "percent": "22.07%"
+          },
+          {
+            "id": 317386,
+            "text": "That's Not My Name",
+            "correct": false,
+            "count": "17,026",
+            "percent": "34.65%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/9",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 21268,
+        "incorrect_answers": 27868,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161954,
+        "text": "The viral meme Left Shark was a performer during which musicianâs Super Bowl set?",
+        "question_number": 10,
+        "eliminated": "2,952",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "36,204",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317387,
+            "text": "Britney Spears",
+            "correct": false,
+            "count": "1,252",
+            "percent": "3.31%"
+          },
+          {
+            "id": 317388,
+            "text": "BeyoncÃ©",
+            "correct": false,
+            "count": "3,649",
+            "percent": "9.65%"
+          },
+          {
+            "id": 317389,
+            "text": "Katy Perry",
+            "correct": true,
+            "count": "32,925",
+            "percent": "87.04%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/10",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 32925,
+        "incorrect_answers": 4901,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161956,
+        "text": "Which is NOT a Mozart composition?",
+        "question_number": 11,
+        "eliminated": "10,642",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "26,736",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317390,
+            "text": "A Little Night Music",
+            "correct": false,
+            "count": "5,604",
+            "percent": "15.33%"
+          },
+          {
+            "id": 317391,
+            "text": "The Magic Flute",
+            "correct": false,
+            "count": "4,209",
+            "percent": "11.52%"
+          },
+          {
+            "id": 317392,
+            "text": "Ode to Joy",
+            "correct": true,
+            "count": "26,736",
+            "percent": "73.15%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/11",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 26736,
+        "incorrect_answers": 9813,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 20989,
+          "players_left_formatted": "20,989",
+          "num_winners": 10177,
+          "num_winners_formatted": "10,177",
+          "prize": 113.0,
+          "prize_formatted": "113 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 161958,
+        "text": "What country that ends in -stan borders the fewest other countries that end in -stan?",
+        "question_number": 12,
+        "eliminated": "19,976",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "10,201",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317393,
+            "text": "Kyrgyzstan",
+            "correct": false,
+            "count": "5,148",
+            "percent": "27.71%"
+          },
+          {
+            "id": 317394,
+            "text": "Pakistan",
+            "correct": true,
+            "count": "10,201",
+            "percent": "54.91%"
+          },
+          {
+            "id": 317395,
+            "text": "Kazakhstan",
+            "correct": false,
+            "count": "3,229",
+            "percent": "17.38%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/12",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 10201,
+        "incorrect_answers": 8377,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161960,
+        "text": "Which of these states was NOT admitted to the Union in the same decade as the other two?",
+        "question_number": 13,
+        "eliminated": "8,995",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "7,312",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317396,
+            "text": "Missouri",
+            "correct": true,
+            "count": "7,312",
+            "percent": "46.92%"
+          },
+          {
+            "id": 317397,
+            "text": "Alabama",
+            "correct": false,
+            "count": "4,438",
+            "percent": "28.48%"
+          },
+          {
+            "id": 317398,
+            "text": "Mississippi",
+            "correct": false,
+            "count": "3,833",
+            "percent": "24.6%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/13",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 7312,
+        "incorrect_answers": 8271,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161962,
+        "text": "Sounds from which animal were used as one of the noises of the T-Rex in âJurassic Parkâ?",
+        "question_number": 14,
+        "eliminated": "9,470",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "3,621",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317399,
+            "text": "Jack Russell terrier",
+            "correct": true,
+            "count": "3,621",
+            "percent": "28.74%"
+          },
+          {
+            "id": 317400,
+            "text": "Rattlesnake",
+            "correct": false,
+            "count": "760",
+            "percent": "6.03%"
+          },
+          {
+            "id": 317401,
+            "text": "Barn owl",
+            "correct": false,
+            "count": "8,218",
+            "percent": "65.23%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/14",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 3621,
+        "incorrect_answers": 8978,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161964,
+        "text": "Which of these is the correct spelling of a Biblical book?",
+        "question_number": 15,
+        "eliminated": "4,895",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "4,917",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317402,
+            "text": "Hezekiah",
+            "correct": false,
+            "count": "2,917",
+            "percent": "30.19%"
+          },
+          {
+            "id": 317403,
+            "text": "Obadiah",
+            "correct": true,
+            "count": "4,917",
+            "percent": "50.88%"
+          },
+          {
+            "id": 317404,
+            "text": "Zacharia",
+            "correct": false,
+            "count": "1,829",
+            "percent": "18.93%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/15",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 4917,
+        "incorrect_answers": 4746,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161966,
+        "text": "Which song would you hear first when viewing a production of âWest Side Storyâ?",
+        "question_number": 16,
+        "eliminated": "3,262",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "4,521",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317405,
+            "text": "Tonight",
+            "correct": true,
+            "count": "4,521",
+            "percent": "58.76%"
+          },
+          {
+            "id": 317406,
+            "text": "I Feel Pretty",
+            "correct": false,
+            "count": "2,140",
+            "percent": "27.81%"
+          },
+          {
+            "id": 317407,
+            "text": "Somewhere",
+            "correct": false,
+            "count": "1,033",
+            "percent": "13.43%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/16",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 4521,
+        "incorrect_answers": 3173,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161968,
+        "text": "Which is NOT a real-life Simpsons-branded breakfast cereal?",
+        "question_number": 17,
+        "eliminated": "3,716",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "2,492",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317408,
+            "text": "No ProblemO's",
+            "correct": false,
+            "count": "2,947",
+            "percent": "48.69%"
+          },
+          {
+            "id": 317409,
+            "text": "D'Oh's",
+            "correct": true,
+            "count": "2,492",
+            "percent": "41.18%"
+          },
+          {
+            "id": 317410,
+            "text": "Krusty-O's",
+            "correct": false,
+            "count": "613",
+            "percent": "10.13%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/17",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 2492,
+        "incorrect_answers": 3560,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161970,
+        "text": "The credits to the first âTerminatorâ film include an acknowledgement to which science-fiction author?",
+        "question_number": 18,
+        "eliminated": "2,243",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,052",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317411,
+            "text": "Isaac Asimov",
+            "correct": false,
+            "count": "1,004",
+            "percent": "24.37%"
+          },
+          {
+            "id": 317412,
+            "text": "Robert Heinlein",
+            "correct": false,
+            "count": "1,064",
+            "percent": "25.83%"
+          },
+          {
+            "id": 317413,
+            "text": "Harlan Ellison",
+            "correct": true,
+            "count": "2,052",
+            "percent": "49.81%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/18",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 2052,
+        "incorrect_answers": 2068,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161972,
+        "text": "Which Japanese carmaker frequently builds and sponsors race cars aptly numbered â23â?",
+        "question_number": 19,
+        "eliminated": "863",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "1,189",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317414,
+            "text": "Nissan",
+            "correct": true,
+            "count": "1,189",
+            "percent": "58.95%"
+          },
+          {
+            "id": 317415,
+            "text": "Mazda",
+            "correct": false,
+            "count": "202",
+            "percent": "10.01%"
+          },
+          {
+            "id": 317416,
+            "text": "Honda",
+            "correct": false,
+            "count": "626",
+            "percent": "31.04%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/19",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 1189,
+        "incorrect_answers": 828,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161974,
+        "text": "What puppet was operated by someone who co-wrote a Star Trek episode?",
+        "question_number": 20,
+        "eliminated": "968",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "221",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317417,
+            "text": "Bert",
+            "correct": false,
+            "count": "859",
+            "percent": "73.42%"
+          },
+          {
+            "id": 317418,
+            "text": "Howdy Doody",
+            "correct": false,
+            "count": "90",
+            "percent": "7.69%"
+          },
+          {
+            "id": 317419,
+            "text": "Lamb Chop",
+            "correct": true,
+            "count": "221",
+            "percent": "18.89%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/20",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 221,
+        "incorrect_answers": 949,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161976,
+        "text": "The majority of the top ten bestselling cellphones of all time have been made by which company?",
+        "question_number": 21,
+        "eliminated": "35",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "186",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317420,
+            "text": "Nokia",
+            "correct": true,
+            "count": "186",
+            "percent": "84.93%"
+          },
+          {
+            "id": 317421,
+            "text": "Apple",
+            "correct": false,
+            "count": "13",
+            "percent": "5.94%"
+          },
+          {
+            "id": 317422,
+            "text": "Samsung",
+            "correct": false,
+            "count": "20",
+            "percent": "9.13%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/21",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 186,
+        "incorrect_answers": 33,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 21,
+          "players_left": 77,
+          "players_left_formatted": "77",
+          "num_winners": 109,
+          "num_winners_formatted": "109",
+          "prize": 5.38,
+          "prize_formatted": "$5.38",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 161978,
+        "text": "The actress who played which character in âBridesmaidsâ has a chart-topping mother?",
+        "question_number": 22,
+        "eliminated": "50",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "27",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317423,
+            "text": "Brynn",
+            "correct": false,
+            "count": "10",
+            "percent": "13.7%"
+          },
+          {
+            "id": 317424,
+            "text": "Annie",
+            "correct": false,
+            "count": "36",
+            "percent": "49.32%"
+          },
+          {
+            "id": 317425,
+            "text": "Lillian",
+            "correct": true,
+            "count": "27",
+            "percent": "36.99%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/22",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 27,
+        "incorrect_answers": 46,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161980,
+        "text": "Which of these sitcoms had the lowest episode count?",
+        "question_number": 23,
+        "eliminated": "18",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "9",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317426,
+            "text": "Cheers",
+            "correct": false,
+            "count": "14",
+            "percent": "51.85%"
+          },
+          {
+            "id": 317427,
+            "text": "M*A*S*H",
+            "correct": true,
+            "count": "9",
+            "percent": "33.33%"
+          },
+          {
+            "id": 317428,
+            "text": "The Big Bang Theory",
+            "correct": false,
+            "count": "4",
+            "percent": "14.81%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/23",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 9,
+        "incorrect_answers": 18,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161982,
+        "text": "According to an old saying, eleven hours of sleep is tied to what?",
+        "question_number": 24,
+        "eliminated": "2",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "7",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317429,
+            "text": "Laziness",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 317430,
+            "text": "Wickedness",
+            "correct": true,
+            "count": "7",
+            "percent": "77.78%"
+          },
+          {
+            "id": 317431,
+            "text": "Happiness",
+            "correct": false,
+            "count": "2",
+            "percent": "22.22%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/24",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 7,
+        "incorrect_answers": 2,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161984,
+        "text": "Which of these establishments has produced the most billionaires?",
+        "question_number": 25,
+        "eliminated": "4",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "3",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317432,
+            "text": "Harvard",
+            "correct": true,
+            "count": "3",
+            "percent": "42.86%"
+          },
+          {
+            "id": 317433,
+            "text": "Stamford",
+            "correct": false,
+            "count": "2",
+            "percent": "28.57%"
+          },
+          {
+            "id": 317434,
+            "text": "Yale",
+            "correct": false,
+            "count": "2",
+            "percent": "28.57%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-23/1/25",
+        "game_link": "/us/game/2020-01-23/1",
+        "correct_answers": 3,
+        "incorrect_answers": 4,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2499,
+        "game_id": 143503,
+        "question": "How many points did Dan115d have this season?",
+        "results": [
+          {
+            "id": 14499,
+            "display_count": "21",
+            "vote_count": 5252,
+            "text": "Can't Decide"
+          },
+          {
+            "id": 14497,
+            "display_count": "43",
+            "vote_count": 10899,
+            "text": "Over 500M"
+          },
+          {
+            "id": 14498,
+            "display_count": "36",
+            "vote_count": 8966,
+            "text": "Under 500M"
+          }
+        ],
+        "created_at": "2020-01-24T02:04:52Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 11,
+        "players_left": 20989,
+        "players_left_formatted": "20,989",
+        "num_winners": 10177,
+        "num_winners_formatted": "10,177",
+        "prize": 113.0,
+        "prize_formatted": "113 coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 21,
+        "players_left": 77,
+        "players_left_formatted": "77",
+        "num_winners": 109,
+        "num_winners_formatted": "109",
+        "prize": 5.38,
+        "prize_formatted": "$5.38",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "586.42",
+    "total_checkpoint_winners": "10,286",
+    "smallest_checkpoint_prize": "$5.38",
+    "largest_checkpoint_prize": "113 coins",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 143531,
+    "show_id": 13460,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2020-01-24T02:40:00Z",
+    "direct_link": "/us/game/2020-01-23/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "2,089",
+      "currency": "$",
+      "average_prize": "0.48"
+    },
+    "time": " 9:40 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2020-01-23/2/1",
+        "question_number": 1,
+        "text": "Billie Eilish AKA",
+        "answer": [
+          "BAD",
+          "GUY"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"B\""
+        ],
+        "to_reveal_letters": [
+          "G"
+        ],
+        "game_link": "/us/game/2020-01-23/2",
+        "eliminated": 3952,
+        "advancing": 29367,
+        "correct_answers": 29367,
+        "incorrect_answers": 3952
+      },
+      {
+        "direct_link": "/us/game/2020-01-23/2/2",
+        "question_number": 2,
+        "text": "Camila and Shawn's Pet Name",
+        "answer": [
+          "SENORITA"
+        ],
+        "initial_letters": [
+          "\"S\""
+        ],
+        "to_reveal_letters": [
+          "T"
+        ],
+        "game_link": "/us/game/2020-01-23/2",
+        "eliminated": 5116,
+        "advancing": 24708,
+        "correct_answers": 24708,
+        "incorrect_answers": 5116
+      },
+      {
+        "direct_link": "/us/game/2020-01-23/2/3",
+        "question_number": 3,
+        "text": "Lizzo Claim",
+        "answer": [
+          "TRUTH",
+          "HURTS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "S"
+        ],
+        "game_link": "/us/game/2020-01-23/2",
+        "eliminated": 2403,
+        "advancing": 22587,
+        "correct_answers": 22587,
+        "incorrect_answers": 2403
+      },
+      {
+        "direct_link": "/us/game/2020-01-23/2/4",
+        "question_number": 4,
+        "text": "Inspi-REY-tional Icon",
+        "answer": [
+          "NORMAN",
+          "ROCKWELL"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "M",
+          "R"
+        ],
+        "game_link": "/us/game/2020-01-23/2",
+        "eliminated": 5741,
+        "advancing": 17008,
+        "correct_answers": 17008,
+        "incorrect_answers": 5741
+      },
+      {
+        "direct_link": "/us/game/2020-01-23/2/5",
+        "question_number": 5,
+        "text": "Twangy Pair",
+        "answer": [
+          "BEST",
+          "COUNTRY",
+          "DUO"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"B\""
+        ],
+        "to_reveal_letters": [
+          "D",
+          "T"
+        ],
+        "game_link": "/us/game/2020-01-23/2",
+        "eliminated": 3702,
+        "advancing": 14005,
+        "correct_answers": 14005,
+        "incorrect_answers": 3702
+      },
+      {
+        "direct_link": "/us/game/2020-01-23/2/6",
+        "question_number": 6,
+        "text": "Big Deal",
+        "answer": [
+          "RECORD",
+          "OF",
+          "THE",
+          "YEAR"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"R\""
+        ],
+        "to_reveal_letters": [
+          "C",
+          "Y"
+        ],
+        "game_link": "/us/game/2020-01-23/2",
+        "eliminated": 420,
+        "advancing": 14007,
+        "correct_answers": 14007,
+        "incorrect_answers": 420
+      },
+      {
+        "direct_link": "/us/game/2020-01-23/2/7",
+        "question_number": 7,
+        "text": "Ariana's New Addiction",
+        "answer": [
+          "RETAIL",
+          "THERAPY"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"R\""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2020-01-23/2",
+        "eliminated": 2508,
+        "advancing": 11553,
+        "correct_answers": 11553,
+        "incorrect_answers": 2508
+      },
+      {
+        "direct_link": "/us/game/2020-01-23/2/8",
+        "question_number": 8,
+        "text": "Group Achievement",
+        "answer": [
+          "MUSICAL",
+          "THEATER",
+          "ALBUM"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"S\""
+        ],
+        "to_reveal_letters": [
+          "E"
+        ],
+        "game_link": "/us/game/2020-01-23/2",
+        "eliminated": 3733,
+        "advancing": 8413,
+        "correct_answers": 8413,
+        "incorrect_answers": 3733
+      },
+      {
+        "direct_link": "/us/game/2020-01-23/2/9",
+        "question_number": 9,
+        "text": "Movie / Song",
+        "answer": [
+          "THE",
+          "LION",
+          "KING",
+          "/",
+          "SPIRIT"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"/\"",
+          "\"E\""
+        ],
+        "to_reveal_letters": [
+          "K"
+        ],
+        "game_link": "/us/game/2020-01-23/2",
+        "eliminated": 2703,
+        "advancing": 6731,
+        "correct_answers": 6731,
+        "incorrect_answers": 2703
+      },
+      {
+        "direct_link": "/us/game/2020-01-23/2/10",
+        "question_number": 10,
+        "text": "Lil Nas X's Attire",
+        "answer": [
+          "COWBOY",
+          "HAT",
+          "FROM",
+          "GUCCI"
+        ],
+        "initial_letters": [
+          "\" \""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2020-01-23/2",
+        "eliminated": 4701,
+        "advancing": 2930,
+        "correct_answers": 2930,
+        "incorrect_answers": 4701
+      },
+      {
+        "direct_link": "/us/game/2020-01-23/2/11",
+        "question_number": 11,
+        "text": "One Man Band",
+        "answer": [
+          "IMPROVISED",
+          "JAZZ",
+          "SOLO"
+        ],
+        "initial_letters": [
+          "\" \""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2020-01-23/2",
+        "eliminated": 3910,
+        "advancing": 1104,
+        "correct_answers": 1104,
+        "incorrect_answers": 3910
+      },
+      {
+        "direct_link": "/us/game/2020-01-23/2/12",
+        "question_number": 12,
+        "text": "Taylor's Request",
+        "answer": [
+          "YOU",
+          "NEED",
+          "TO",
+          "CALM",
+          "DOWN"
+        ],
+        "initial_letters": [
+          "\" \""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2020-01-23/2",
+        "eliminated": 326,
+        "advancing": 2089,
+        "correct_answers": 2089,
+        "incorrect_answers": 326
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": null
+  }
+]

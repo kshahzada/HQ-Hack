@@ -1,0 +1,1191 @@
+[
+  {
+    "id": 110709,
+    "show_id": 11191,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "45,000",
+    "currency": "$",
+    "start_time": "2019-06-07T01:00:00Z",
+    "direct_link": "/us/game/2019-06-06/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Theater",
+        "slug": "theater"
+      },
+      {
+        "name": "Checkpoints",
+        "slug": "checkpoints"
+      }
+    ],
+    "questions": [
+      {
+        "id": 116043,
+        "text": "What musical moppet famously sings that tomorrow is âonly a day awayâ?",
+        "question_number": 1,
+        "eliminated": "363",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "248,292",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 248537,
+            "text": "Annie",
+            "correct": true,
+            "count": "222,144",
+            "percent": "93.93%"
+          },
+          {
+            "id": 248538,
+            "text": "Oliver",
+            "correct": false,
+            "count": "8,691",
+            "percent": "3.67%"
+          },
+          {
+            "id": 248539,
+            "text": "Matilda",
+            "correct": false,
+            "count": "5,662",
+            "percent": "2.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-06/1/1",
+        "game_link": "/us/game/2019-06-06/1",
+        "correct_answers": 222144,
+        "incorrect_answers": 14353,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 116056,
+        "text": "Which of these musicals mainly stars puppets?",
+        "question_number": 2,
+        "eliminated": "21,562",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "227,053",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 248556,
+            "text": "Carousel",
+            "correct": false,
+            "count": "52,889",
+            "percent": "22.2%"
+          },
+          {
+            "id": 248558,
+            "text": "Avenue Q",
+            "correct": true,
+            "count": "174,467",
+            "percent": "73.24%"
+          },
+          {
+            "id": 248560,
+            "text": "Hamilton",
+            "correct": false,
+            "count": "10,866",
+            "percent": "4.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-06/1/2",
+        "game_link": "/us/game/2019-06-06/1",
+        "correct_answers": 174467,
+        "incorrect_answers": 63755,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 116068,
+        "text": "Which of these musicals is subtitled âThe Super Soul Musicalâ?",
+        "question_number": 3,
+        "eliminated": "17,483",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "210,697",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 248574,
+            "text": "An American in Paris",
+            "correct": false,
+            "count": "21,505",
+            "percent": "9.93%"
+          },
+          {
+            "id": 248577,
+            "text": "White Christmas",
+            "correct": false,
+            "count": "12,132",
+            "percent": "5.6%"
+          },
+          {
+            "id": 248580,
+            "text": "The Wiz",
+            "correct": true,
+            "count": "182,987",
+            "percent": "84.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-06/1/3",
+        "game_link": "/us/game/2019-06-06/1",
+        "correct_answers": 182987,
+        "incorrect_answers": 33637,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 116084,
+        "text": "What is this famous musical opening?",
+        "question_number": 4,
+        "eliminated": "49,988",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "161,697",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 248599,
+            "text": "A Chorus Line",
+            "correct": false,
+            "count": "99,821",
+            "percent": "48.68%"
+          },
+          {
+            "id": 248601,
+            "text": "The Producers",
+            "correct": false,
+            "count": "20,905",
+            "percent": "10.19%"
+          },
+          {
+            "id": 248602,
+            "text": "42nd Street",
+            "correct": true,
+            "count": "84,332",
+            "percent": "41.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-06/1/4",
+        "game_link": "/us/game/2019-06-06/1",
+        "correct_answers": 84332,
+        "incorrect_answers": 120726,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 116100,
+        "text": "âSouth Pacificâ was written by the same composer and lyricist as what?",
+        "question_number": 5,
+        "eliminated": "29,883",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "138,410",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 248622,
+            "text": "Wicked",
+            "correct": false,
+            "count": "19,301",
+            "percent": "11.91%"
+          },
+          {
+            "id": 248625,
+            "text": "The Sound of Music",
+            "correct": true,
+            "count": "119,237",
+            "percent": "73.57%"
+          },
+          {
+            "id": 248630,
+            "text": "Follies",
+            "correct": false,
+            "count": "23,527",
+            "percent": "14.52%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-06/1/5",
+        "game_link": "/us/game/2019-06-06/1",
+        "correct_answers": 119237,
+        "incorrect_answers": 42828,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 116117,
+        "text": "Which of these shows is based on a graphic novel?",
+        "question_number": 6,
+        "eliminated": "47,181",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "94,322",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 248647,
+            "text": "Hadestown",
+            "correct": false,
+            "count": "32,992",
+            "percent": "23.86%"
+          },
+          {
+            "id": 248650,
+            "text": "Fun Home",
+            "correct": true,
+            "count": "83,654",
+            "percent": "60.51%"
+          },
+          {
+            "id": 248653,
+            "text": "The Prom",
+            "correct": false,
+            "count": "21,600",
+            "percent": "15.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-06/1/6",
+        "game_link": "/us/game/2019-06-06/1",
+        "correct_answers": 83654,
+        "incorrect_answers": 54592,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 116137,
+        "text": "In âBook of Mormon,â where does Elder Price âprayâ to do his mission work?",
+        "question_number": 7,
+        "eliminated": "29,331",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "70,520",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 248677,
+            "text": "Orlando",
+            "correct": true,
+            "count": "68,254",
+            "percent": "69.74%"
+          },
+          {
+            "id": 248680,
+            "text": "Las Vegas",
+            "correct": false,
+            "count": "13,141",
+            "percent": "13.43%"
+          },
+          {
+            "id": 248684,
+            "text": "Salt Lake City",
+            "correct": false,
+            "count": "16,468",
+            "percent": "16.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-06/1/7",
+        "game_link": "/us/game/2019-06-06/1",
+        "correct_answers": 68254,
+        "incorrect_answers": 29609,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 116150,
+        "text": "The music for âBilly Elliotâ was written by the musician behind what song?",
+        "question_number": 8,
+        "eliminated": "44,760",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "29,891",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 248697,
+            "text": "Levon",
+            "correct": true,
+            "count": "29,449",
+            "percent": "40.16%"
+          },
+          {
+            "id": 248701,
+            "text": "Bohemian Rhapsody",
+            "correct": false,
+            "count": "3,353",
+            "percent": "4.57%"
+          },
+          {
+            "id": 248708,
+            "text": "Starman",
+            "correct": false,
+            "count": "40,532",
+            "percent": "55.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-06/1/8",
+        "game_link": "/us/game/2019-06-06/1",
+        "correct_answers": 29449,
+        "incorrect_answers": 43885,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 116163,
+        "text": "If the chandelier malfunctions in Broadwayâs âThe Phantom of the Opera,â the cast is directed to do what?",
+        "question_number": 9,
+        "eliminated": "26,489",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "12,432",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 248717,
+            "text": "Dramatically exit",
+            "correct": true,
+            "count": "12,432",
+            "percent": "34.17%"
+          },
+          {
+            "id": 248720,
+            "text": "Start next song",
+            "correct": false,
+            "count": "17,340",
+            "percent": "47.66%"
+          },
+          {
+            "id": 248723,
+            "text": "Improv until itâs fixed",
+            "correct": false,
+            "count": "6,610",
+            "percent": "18.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-06/1/9",
+        "game_link": "/us/game/2019-06-06/1",
+        "correct_answers": 12432,
+        "incorrect_answers": 23950,
+        "savage": true,
+        "checkpoint": {
+          "round_number": 9,
+          "players_left": 8649,
+          "players_left_formatted": "8,649",
+          "num_winners": 3783,
+          "num_winners_formatted": "3,783",
+          "prize": 0.25,
+          "prize_formatted": "$0.25",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 116180,
+        "text": "The song âHomeâ was written for the Broadway version of which Disney show?",
+        "question_number": 10,
+        "eliminated": "4,820",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "6,612",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 248742,
+            "text": "Mary Poppins",
+            "correct": false,
+            "count": "1,285",
+            "percent": "14.96%"
+          },
+          {
+            "id": 248746,
+            "text": "Aladdin",
+            "correct": false,
+            "count": "695",
+            "percent": "8.09%"
+          },
+          {
+            "id": 248750,
+            "text": "Beauty and the Beast",
+            "correct": true,
+            "count": "6,612",
+            "percent": "76.96%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-06/1/10",
+        "game_link": "/us/game/2019-06-06/1",
+        "correct_answers": 6612,
+        "incorrect_answers": 1980,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 116195,
+        "text": "In which Broadway revival did the actors double as the orchestra?",
+        "question_number": 11,
+        "eliminated": "1,825",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "5,696",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 248765,
+            "text": "Sweeney Todd",
+            "correct": true,
+            "count": "5,696",
+            "percent": "76.19%"
+          },
+          {
+            "id": 248767,
+            "text": "Into the Woods",
+            "correct": false,
+            "count": "1,158",
+            "percent": "15.49%"
+          },
+          {
+            "id": 248770,
+            "text": "Kiss Me Kate",
+            "correct": false,
+            "count": "622",
+            "percent": "8.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-06/1/11",
+        "game_link": "/us/game/2019-06-06/1",
+        "correct_answers": 5696,
+        "incorrect_answers": 1780,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 116212,
+        "text": "Patti LuPone famously took a texting audience memberâs phone away during a performance of what?",
+        "question_number": 12,
+        "eliminated": "3,810",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "2,770",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 248792,
+            "text": "Evita",
+            "correct": false,
+            "count": "844",
+            "percent": "12.9%"
+          },
+          {
+            "id": 248798,
+            "text": "Shows for Days",
+            "correct": true,
+            "count": "2,770",
+            "percent": "42.34%"
+          },
+          {
+            "id": 248806,
+            "text": "Gypsy",
+            "correct": false,
+            "count": "2,928",
+            "percent": "44.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-06/1/12",
+        "game_link": "/us/game/2019-06-06/1",
+        "correct_answers": 2770,
+        "incorrect_answers": 3772,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 12,
+          "players_left": 2335,
+          "players_left_formatted": "2,335",
+          "num_winners": 435,
+          "num_winners_formatted": "435",
+          "prize": 0.73,
+          "prize_formatted": "$0.73",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 116229,
+        "text": "Taylor Swift will play the film version of a character in âCats!â who sings in which song?",
+        "question_number": 13,
+        "eliminated": "949",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "1,385",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 248816,
+            "text": "The Rum Tum Tugger",
+            "correct": true,
+            "count": "1,385",
+            "percent": "60.67%"
+          },
+          {
+            "id": 248819,
+            "text": "Gus: The Theatre Cat",
+            "correct": false,
+            "count": "77",
+            "percent": "3.37%"
+          },
+          {
+            "id": 248824,
+            "text": "Memory",
+            "correct": false,
+            "count": "821",
+            "percent": "35.96%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-06/1/13",
+        "game_link": "/us/game/2019-06-06/1",
+        "correct_answers": 1385,
+        "incorrect_answers": 898,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 116243,
+        "text": "The creative team behind âDear Evan Hansenâ collaborated on songs for what hit movie musical?",
+        "question_number": 14,
+        "eliminated": "31",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "1,353",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 248837,
+            "text": "La La Land",
+            "correct": true,
+            "count": "1,353",
+            "percent": "97.9%"
+          },
+          {
+            "id": 248838,
+            "text": "Sing Street",
+            "correct": false,
+            "count": "16",
+            "percent": "1.16%"
+          },
+          {
+            "id": 248839,
+            "text": "A Star Is Born",
+            "correct": false,
+            "count": "13",
+            "percent": "0.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-06/1/14",
+        "game_link": "/us/game/2019-06-06/1",
+        "correct_answers": 1353,
+        "incorrect_answers": 29,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 116259,
+        "text": "The first actress to play the matchmaker in âFiddler On the Roofâ on Broadway later starred in what musical?",
+        "question_number": 15,
+        "eliminated": "1,156",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "197",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 248861,
+            "text": "Hello, Dolly!",
+            "correct": false,
+            "count": "987",
+            "percent": "73.49%"
+          },
+          {
+            "id": 248862,
+            "text": "Sweet Charity",
+            "correct": false,
+            "count": "159",
+            "percent": "11.84%"
+          },
+          {
+            "id": 248868,
+            "text": "Mame",
+            "correct": true,
+            "count": "197",
+            "percent": "14.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-06/1/15",
+        "game_link": "/us/game/2019-06-06/1",
+        "correct_answers": 197,
+        "incorrect_answers": 1146,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 15,
+          "players_left": 17,
+          "players_left_formatted": "17",
+          "num_winners": 180,
+          "num_winners_formatted": "180",
+          "prize": 15.23,
+          "prize_formatted": "$15.23",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 116278,
+        "text": "Which of these musicals was written by a husband-and-wife duo?",
+        "question_number": 16,
+        "eliminated": "3",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "14",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 248890,
+            "text": "Come From Away",
+            "correct": true,
+            "count": "14",
+            "percent": "87.5%"
+          },
+          {
+            "id": 248893,
+            "text": "Waitress",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 248897,
+            "text": "School of Rock",
+            "correct": false,
+            "count": "2",
+            "percent": "12.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-06/1/16",
+        "game_link": "/us/game/2019-06-06/1",
+        "correct_answers": 14,
+        "incorrect_answers": 2,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 116291,
+        "text": "The actor who plays which superhero recently appeared in the Broadway revival of âShe Loves Meâ?",
+        "question_number": 17,
+        "eliminated": "0",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "14",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 248909,
+            "text": "Shazam",
+            "correct": true,
+            "count": "14",
+            "percent": "100.0%"
+          },
+          {
+            "id": 248910,
+            "text": "Wolverine",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 248911,
+            "text": "Black Widow",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-06/1/17",
+        "game_link": "/us/game/2019-06-06/1",
+        "correct_answers": 14,
+        "incorrect_answers": 0,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 116307,
+        "text": "âShe certainly died wellâ was which Broadway legendâs response to Madonnaâs âEvitaâ performance?",
+        "question_number": 18,
+        "eliminated": "10",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "4",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 248933,
+            "text": "Elaine Stritch",
+            "correct": false,
+            "count": "3",
+            "percent": "23.08%"
+          },
+          {
+            "id": 248939,
+            "text": "Elaine Paige",
+            "correct": true,
+            "count": "4",
+            "percent": "30.77%"
+          },
+          {
+            "id": 248945,
+            "text": "Patti LuPone",
+            "correct": false,
+            "count": "6",
+            "percent": "46.15%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-06/1/18",
+        "game_link": "/us/game/2019-06-06/1",
+        "correct_answers": 4,
+        "incorrect_answers": 9,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 18,
+          "players_left": 0,
+          "players_left_formatted": "0",
+          "num_winners": 4,
+          "num_winners_formatted": "4",
+          "prize": 437.5,
+          "prize_formatted": "$437.50",
+          "currency": "$"
+        },
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 137,
+        "game_id": 110709,
+        "question": "Which is the correct \"Rent\" lyric?",
+        "results": [
+          {
+            "id": 841,
+            "display_count": "48",
+            "vote_count": 48907,
+            "text": "Baby so sweet"
+          },
+          {
+            "id": 856,
+            "display_count": "39",
+            "vote_count": 39699,
+            "text": "Make me complete"
+          },
+          {
+            "id": 847,
+            "display_count": "13",
+            "vote_count": 13094,
+            "text": "Something to eat?"
+          }
+        ],
+        "created_at": "2019-06-07T01:04:43Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 9,
+        "players_left": 8649,
+        "players_left_formatted": "8,649",
+        "num_winners": 3783,
+        "num_winners_formatted": "3,783",
+        "prize": 0.25,
+        "prize_formatted": "$0.25",
+        "currency": "$"
+      },
+      {
+        "round_number": 12,
+        "players_left": 2335,
+        "players_left_formatted": "2,335",
+        "num_winners": 435,
+        "num_winners_formatted": "435",
+        "prize": 0.73,
+        "prize_formatted": "$0.73",
+        "currency": "$"
+      },
+      {
+        "round_number": 15,
+        "players_left": 17,
+        "players_left_formatted": "17",
+        "num_winners": 180,
+        "num_winners_formatted": "180",
+        "prize": 15.23,
+        "prize_formatted": "$15.23",
+        "currency": "$"
+      },
+      {
+        "round_number": 18,
+        "players_left": 0,
+        "players_left_formatted": "0",
+        "num_winners": 4,
+        "num_winners_formatted": "4",
+        "prize": 437.5,
+        "prize_formatted": "$437.50",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "5,754.70",
+    "total_checkpoint_winners": "4,402",
+    "smallest_checkpoint_prize": "$0.25",
+    "largest_checkpoint_prize": "$437.50",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 110867,
+    "show_id": 11214,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-06-07T01:30:00Z",
+    "direct_link": "/us/game/2019-06-06/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "4,680",
+      "currency": "$",
+      "average_prize": "0.21"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-06-06/2/1",
+        "question_number": 1,
+        "text": "Vietnamese Love Story",
+        "answer": [
+          "MISS",
+          "SAIGON"
+        ],
+        "initial_letters": [
+          " ",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "O"
+        ],
+        "game_link": "/us/game/2019-06-06/2",
+        "eliminated": 15465,
+        "advancing": 99559,
+        "correct_answers": 99559,
+        "incorrect_answers": 15465
+      },
+      {
+        "direct_link": "/us/game/2019-06-06/2/2",
+        "question_number": 2,
+        "text": "Musical Street",
+        "answer": [
+          "AVENUE",
+          "Q"
+        ],
+        "initial_letters": [
+          " ",
+          "Q"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "U"
+        ],
+        "game_link": "/us/game/2019-06-06/2",
+        "eliminated": 8882,
+        "advancing": 91232,
+        "correct_answers": 91232,
+        "incorrect_answers": 8882
+      },
+      {
+        "direct_link": "/us/game/2019-06-06/2/3",
+        "question_number": 3,
+        "text": "Dreamgirl",
+        "answer": [
+          "EFFIE",
+          "WHITE"
+        ],
+        "initial_letters": [
+          " ",
+          "F"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "T"
+        ],
+        "game_link": "/us/game/2019-06-06/2",
+        "eliminated": 43160,
+        "advancing": 48237,
+        "correct_answers": 48237,
+        "incorrect_answers": 43160
+      },
+      {
+        "direct_link": "/us/game/2019-06-06/2/4",
+        "question_number": 4,
+        "text": "Beautiful Subject Matter",
+        "answer": [
+          "CAROLE",
+          "KING"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-06-06/2",
+        "eliminated": 32928,
+        "advancing": 16986,
+        "correct_answers": 16986,
+        "incorrect_answers": 32928
+      },
+      {
+        "direct_link": "/us/game/2019-06-06/2/5",
+        "question_number": 5,
+        "text": "Miserable Topic",
+        "answer": [
+          "FRENCH",
+          "REVOLUTION"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "V"
+        ],
+        "game_link": "/us/game/2019-06-06/2",
+        "eliminated": 3508,
+        "advancing": 14901,
+        "correct_answers": 14901,
+        "incorrect_answers": 3508
+      },
+      {
+        "direct_link": "/us/game/2019-06-06/2/6",
+        "question_number": 6,
+        "text": "Tuxedoed Dancer",
+        "answer": [
+          "MR.",
+          "MISTOFFELEES"
+        ],
+        "initial_letters": [
+          ".",
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "O"
+        ],
+        "game_link": "/us/game/2019-06-06/2",
+        "eliminated": 5952,
+        "advancing": 9202,
+        "correct_answers": 9202,
+        "incorrect_answers": 5952
+      },
+      {
+        "direct_link": "/us/game/2019-06-06/2/7",
+        "question_number": 7,
+        "text": "Itâs A Drag",
+        "answer": [
+          "KINKY",
+          "BOOTS"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "T"
+        ],
+        "game_link": "/us/game/2019-06-06/2",
+        "eliminated": 1101,
+        "advancing": 8623,
+        "correct_answers": 8623,
+        "incorrect_answers": 1101
+      },
+      {
+        "direct_link": "/us/game/2019-06-06/2/8",
+        "question_number": 8,
+        "text": "Musical Rivalry",
+        "answer": [
+          "SHARKS",
+          "VS.",
+          "JETS"
+        ],
+        "initial_letters": [
+          " ",
+          ".",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "R",
+          "T"
+        ],
+        "game_link": "/us/game/2019-06-06/2",
+        "eliminated": 1102,
+        "advancing": 7606,
+        "correct_answers": 7606,
+        "incorrect_answers": 1102
+      },
+      {
+        "direct_link": "/us/game/2019-06-06/2/9",
+        "question_number": 9,
+        "text": "Cutting Nickname",
+        "answer": [
+          "DEMON",
+          "BARBER",
+          "OF",
+          "FLEET",
+          "STREET"
+        ],
+        "initial_letters": [
+          " ",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "F"
+        ],
+        "game_link": "/us/game/2019-06-06/2",
+        "eliminated": 586,
+        "advancing": 7188,
+        "correct_answers": 7188,
+        "incorrect_answers": 586
+      },
+      {
+        "direct_link": "/us/game/2019-06-06/2/10",
+        "question_number": 10,
+        "text": "Tribute Show",
+        "answer": [
+          "JUKEBOX",
+          "MUSICAL"
+        ],
+        "initial_letters": [
+          " ",
+          "K"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "O"
+        ],
+        "game_link": "/us/game/2019-06-06/2",
+        "eliminated": 1155,
+        "advancing": 6153,
+        "correct_answers": 6153,
+        "incorrect_answers": 1155
+      },
+      {
+        "direct_link": "/us/game/2019-06-06/2/11",
+        "question_number": 11,
+        "text": "Successful Composer",
+        "answer": [
+          "ANDREW",
+          "LLOYD",
+          "WEBBER"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "W"
+        ],
+        "game_link": "/us/game/2019-06-06/2",
+        "eliminated": 156,
+        "advancing": 6287,
+        "correct_answers": 6287,
+        "incorrect_answers": 156
+      },
+      {
+        "direct_link": "/us/game/2019-06-06/2/12",
+        "question_number": 12,
+        "text": "Less Successful Webber",
+        "answer": [
+          "SPIDER-MAN:",
+          "TURN",
+          "OFF",
+          "THE",
+          "DARK"
+        ],
+        "initial_letters": [
+          "-",
+          ":",
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "U"
+        ],
+        "game_link": "/us/game/2019-06-06/2",
+        "eliminated": 1682,
+        "advancing": 4680,
+        "correct_answers": 4680,
+        "incorrect_answers": 1682
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

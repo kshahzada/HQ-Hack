@@ -1,0 +1,1507 @@
+[
+  {
+    "id": 96720,
+    "show_id": 10473,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-04-18T00:00:00Z",
+    "direct_link": "/us/game/2019-04-17/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,562",
+      "currency": "$",
+      "average_prize": "0.64"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 100003,
+        "text": "What is the name of the vehicle that leads a field of race cars until the beginning of the first lap?",
+        "question_number": 1,
+        "eliminated": "-3,096",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "93,577",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224477,
+            "text": "Love Bug",
+            "correct": false,
+            "count": "2,081",
+            "percent": "2.3%"
+          },
+          {
+            "id": 224482,
+            "text": "Pace car",
+            "correct": true,
+            "count": "87,459",
+            "percent": "96.66%"
+          },
+          {
+            "id": 224488,
+            "text": "Rocket booster",
+            "correct": false,
+            "count": "941",
+            "percent": "1.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/1/1",
+        "game_link": "/us/game/2019-04-17/1",
+        "correct_answers": 87459,
+        "incorrect_answers": 3022,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100019,
+        "text": "In what category did Russell Westbrook lead the NBA during this regular season?",
+        "question_number": 2,
+        "eliminated": "1,224",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "92,425",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224501,
+            "text": "Assists",
+            "correct": true,
+            "count": "54,258",
+            "percent": "60.41%"
+          },
+          {
+            "id": 224502,
+            "text": "Points",
+            "correct": false,
+            "count": "19,722",
+            "percent": "21.96%"
+          },
+          {
+            "id": 224504,
+            "text": "Turnovers",
+            "correct": false,
+            "count": "15,837",
+            "percent": "17.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/1/2",
+        "game_link": "/us/game/2019-04-17/1",
+        "correct_answers": 54258,
+        "incorrect_answers": 35559,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100035,
+        "text": "Before this yearâs Masters, what was the last major won by Tiger Woods?",
+        "question_number": 3,
+        "eliminated": "2,609",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "89,979",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224525,
+            "text": "Masters",
+            "correct": false,
+            "count": "12,270",
+            "percent": "14.07%"
+          },
+          {
+            "id": 224527,
+            "text": "US Open",
+            "correct": true,
+            "count": "48,452",
+            "percent": "55.55%"
+          },
+          {
+            "id": 224528,
+            "text": "PGA Championship",
+            "correct": false,
+            "count": "26,508",
+            "percent": "30.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/1/3",
+        "game_link": "/us/game/2019-04-17/1",
+        "correct_answers": 48452,
+        "incorrect_answers": 38778,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100049,
+        "text": "What team tied the modern record for wins in an NHL season this year?",
+        "question_number": 4,
+        "eliminated": "1,905",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "88,230",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224546,
+            "text": "Winnipeg Jets",
+            "correct": false,
+            "count": "4,837",
+            "percent": "5.72%"
+          },
+          {
+            "id": 224549,
+            "text": "Tampa Bay Lightning",
+            "correct": true,
+            "count": "65,374",
+            "percent": "77.25%"
+          },
+          {
+            "id": 224554,
+            "text": "Washington Capitals",
+            "correct": false,
+            "count": "14,420",
+            "percent": "17.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/1/4",
+        "game_link": "/us/game/2019-04-17/1",
+        "correct_answers": 65374,
+        "incorrect_answers": 19257,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100066,
+        "text": "The player ranked No. 1 on this yearâs ESPN âWorld Fame 100â plays what sport?",
+        "question_number": 5,
+        "eliminated": "4,564",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "83,751",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224572,
+            "text": "Soccer",
+            "correct": true,
+            "count": "52,657",
+            "percent": "64.66%"
+          },
+          {
+            "id": 224576,
+            "text": "Mixed martial arts",
+            "correct": false,
+            "count": "10,563",
+            "percent": "12.97%"
+          },
+          {
+            "id": 224582,
+            "text": "Basketball",
+            "correct": false,
+            "count": "18,221",
+            "percent": "22.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/1/5",
+        "game_link": "/us/game/2019-04-17/1",
+        "correct_answers": 52657,
+        "incorrect_answers": 28784,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100081,
+        "text": "Among non-pitchers, who holds the MLB record for most consecutive at-bats without a hit?",
+        "question_number": 6,
+        "eliminated": "4,280",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "79,782",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224594,
+            "text": "Todd Hundley",
+            "correct": false,
+            "count": "7,723",
+            "percent": "9.87%"
+          },
+          {
+            "id": 224595,
+            "text": "Adam Dunn",
+            "correct": false,
+            "count": "10,956",
+            "percent": "14.01%"
+          },
+          {
+            "id": 224598,
+            "text": "Chris Davis",
+            "correct": true,
+            "count": "59,547",
+            "percent": "76.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/1/6",
+        "game_link": "/us/game/2019-04-17/1",
+        "correct_answers": 59547,
+        "incorrect_answers": 18679,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100098,
+        "text": "Where did Venus and Serena first face off in a Grand Slam final?",
+        "question_number": 7,
+        "eliminated": "42,935",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "37,114",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224621,
+            "text": "New York",
+            "correct": true,
+            "count": "33,426",
+            "percent": "44.08%"
+          },
+          {
+            "id": 224622,
+            "text": "France",
+            "correct": false,
+            "count": "21,225",
+            "percent": "27.99%"
+          },
+          {
+            "id": 224624,
+            "text": "England",
+            "correct": false,
+            "count": "21,172",
+            "percent": "27.92%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/1/7",
+        "game_link": "/us/game/2019-04-17/1",
+        "correct_answers": 33426,
+        "incorrect_answers": 42397,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100113,
+        "text": "What team had the first player to reach 10 home runs this season?",
+        "question_number": 8,
+        "eliminated": "24,682",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "15,395",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224642,
+            "text": "Los Angeles Dodgers",
+            "correct": false,
+            "count": "8,083",
+            "percent": "20.81%"
+          },
+          {
+            "id": 224645,
+            "text": "Oakland Athletics",
+            "correct": true,
+            "count": "15,331",
+            "percent": "39.48%"
+          },
+          {
+            "id": 224649,
+            "text": "New York Yankees",
+            "correct": false,
+            "count": "15,420",
+            "percent": "39.71%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/1/8",
+        "game_link": "/us/game/2019-04-17/1",
+        "correct_answers": 15331,
+        "incorrect_answers": 23503,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100129,
+        "text": "Which of these events has NOT had a teenage champion?",
+        "question_number": 9,
+        "eliminated": "6,650",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "12,890",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224666,
+            "text": "UFC",
+            "correct": true,
+            "count": "12,889",
+            "percent": "76.19%"
+          },
+          {
+            "id": 224669,
+            "text": "British Open",
+            "correct": false,
+            "count": "2,296",
+            "percent": "13.57%"
+          },
+          {
+            "id": 224672,
+            "text": "Menâs Wimbledon",
+            "correct": false,
+            "count": "1,733",
+            "percent": "10.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/1/9",
+        "game_link": "/us/game/2019-04-17/1",
+        "correct_answers": 12889,
+        "incorrect_answers": 4029,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100147,
+        "text": "Before Grant Williams, who was the last back-to-back SEC menâs basketball player of the year?",
+        "question_number": 10,
+        "eliminated": "7,680",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "5,832",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224691,
+            "text": "Corliss Williamson",
+            "correct": true,
+            "count": "5,832",
+            "percent": "44.97%"
+          },
+          {
+            "id": 224695,
+            "text": "Joakim Noah",
+            "correct": false,
+            "count": "2,528",
+            "percent": "19.49%"
+          },
+          {
+            "id": 224699,
+            "text": "Shaquille OâNeal",
+            "correct": false,
+            "count": "4,608",
+            "percent": "35.53%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/1/10",
+        "game_link": "/us/game/2019-04-17/1",
+        "correct_answers": 5832,
+        "incorrect_answers": 7136,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100162,
+        "text": "This offseason, which NFL team lost its leading receiver in terms of yardage for this past season?",
+        "question_number": 11,
+        "eliminated": "3,082",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,027",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224714,
+            "text": "New York Giants",
+            "correct": true,
+            "count": "4,027",
+            "percent": "58.76%"
+          },
+          {
+            "id": 224718,
+            "text": "New England Patriots",
+            "correct": false,
+            "count": "1,060",
+            "percent": "15.47%"
+          },
+          {
+            "id": 224723,
+            "text": "Pittsburgh Steelers",
+            "correct": false,
+            "count": "1,766",
+            "percent": "25.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/1/11",
+        "game_link": "/us/game/2019-04-17/1",
+        "correct_answers": 4027,
+        "incorrect_answers": 2826,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100177,
+        "text": "In what Division I sport has a single college won the last four consecutive national championships?",
+        "question_number": 12,
+        "eliminated": "3,215",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,562",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224738,
+            "text": "Womenâs soccer",
+            "correct": false,
+            "count": "1,032",
+            "percent": "22.16%"
+          },
+          {
+            "id": 224740,
+            "text": "Menâs wrestling",
+            "correct": true,
+            "count": "1,562",
+            "percent": "33.55%"
+          },
+          {
+            "id": 224742,
+            "text": "Menâs volleyball",
+            "correct": false,
+            "count": "2,062",
+            "percent": "44.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/1/12",
+        "game_link": "/us/game/2019-04-17/1",
+        "correct_answers": 1562,
+        "incorrect_answers": 3094,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 96839,
+    "show_id": 10475,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-04-18T01:00:00Z",
+    "direct_link": "/us/game/2019-04-17/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "8,404",
+      "currency": "$",
+      "average_prize": "0.59"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Music",
+        "slug": "music"
+      }
+    ],
+    "questions": [
+      {
+        "id": 100193,
+        "text": "The Blackstreet lyric âI like the way you work itâ is from what iconic song?",
+        "question_number": 1,
+        "eliminated": "-22,165",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "388,412",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224762,
+            "text": "No Diggity",
+            "correct": true,
+            "count": "326,181",
+            "percent": "89.22%"
+          },
+          {
+            "id": 224763,
+            "text": "Yes Diggity",
+            "correct": false,
+            "count": "32,588",
+            "percent": "8.91%"
+          },
+          {
+            "id": 224764,
+            "text": "Maybe a Lil Diggity",
+            "correct": false,
+            "count": "6,833",
+            "percent": "1.87%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/2/1",
+        "game_link": "/us/game/2019-04-17/2",
+        "correct_answers": 326181,
+        "incorrect_answers": 39421,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100209,
+        "text": "BeyoncÃ© rose to fame as a member of what â90s group?",
+        "question_number": 2,
+        "eliminated": "1,695",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "387,372",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224786,
+            "text": "Destinyâs Child",
+            "correct": true,
+            "count": "364,960",
+            "percent": "97.18%"
+          },
+          {
+            "id": 224787,
+            "text": "En Vogue",
+            "correct": false,
+            "count": "3,706",
+            "percent": "0.99%"
+          },
+          {
+            "id": 224788,
+            "text": "TLC",
+            "correct": false,
+            "count": "6,898",
+            "percent": "1.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/2/2",
+        "game_link": "/us/game/2019-04-17/2",
+        "correct_answers": 364960,
+        "incorrect_answers": 10604,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100225,
+        "text": "The Danish pop group Aqua is known for its smash hit with what lyrics?",
+        "question_number": 3,
+        "eliminated": "3,752",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "383,976",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224810,
+            "text": "Iâm a Barbie girl",
+            "correct": true,
+            "count": "342,355",
+            "percent": "92.88%"
+          },
+          {
+            "id": 224811,
+            "text": "The Vengabus is coming",
+            "correct": false,
+            "count": "7,843",
+            "percent": "2.13%"
+          },
+          {
+            "id": 224812,
+            "text": "If you steal my sunshine",
+            "correct": false,
+            "count": "18,404",
+            "percent": "4.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/2/3",
+        "game_link": "/us/game/2019-04-17/2",
+        "correct_answers": 342355,
+        "incorrect_answers": 26247,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100243,
+        "text": "The singer of âYou Oughta Knowâ is also famous for which other hit?",
+        "question_number": 4,
+        "eliminated": "16,069",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "368,188",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224837,
+            "text": "Ironic",
+            "correct": true,
+            "count": "264,275",
+            "percent": "72.15%"
+          },
+          {
+            "id": 224838,
+            "text": "Torn",
+            "correct": false,
+            "count": "43,825",
+            "percent": "11.96%"
+          },
+          {
+            "id": 224839,
+            "text": "Nothing Compares 2 U",
+            "correct": false,
+            "count": "58,190",
+            "percent": "15.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/2/4",
+        "game_link": "/us/game/2019-04-17/2",
+        "correct_answers": 264275,
+        "incorrect_answers": 102015,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100259,
+        "text": "âSoy un perdedorâ is a key lyric in a hit by whom?",
+        "question_number": 5,
+        "eliminated": "21,476",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "348,268",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224863,
+            "text": "Eminem",
+            "correct": false,
+            "count": "33,191",
+            "percent": "9.48%"
+          },
+          {
+            "id": 224865,
+            "text": "Oasis",
+            "correct": false,
+            "count": "75,946",
+            "percent": "21.7%"
+          },
+          {
+            "id": 224866,
+            "text": "Beck",
+            "correct": true,
+            "count": "240,851",
+            "percent": "68.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/2/5",
+        "game_link": "/us/game/2019-04-17/2",
+        "correct_answers": 240851,
+        "incorrect_answers": 109137,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100274,
+        "text": "Which of these actions reportedly got Nirvana thrown out of their own record release party?",
+        "question_number": 6,
+        "eliminated": "55,135",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "295,044",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224883,
+            "text": "Insulting the label head",
+            "correct": false,
+            "count": "65,910",
+            "percent": "20.78%"
+          },
+          {
+            "id": 224886,
+            "text": "Destroying a glass table",
+            "correct": false,
+            "count": "91,126",
+            "percent": "28.73%"
+          },
+          {
+            "id": 224889,
+            "text": "Starting a food fight",
+            "correct": true,
+            "count": "160,157",
+            "percent": "50.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/2/6",
+        "game_link": "/us/game/2019-04-17/2",
+        "correct_answers": 160157,
+        "incorrect_answers": 157036,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100290,
+        "text": "Which of these does Alicia Silverstone NOT do in the âCryinââ music video?",
+        "question_number": 7,
+        "eliminated": "107,286",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "193,732",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224907,
+            "text": "Get a tattoo",
+            "correct": false,
+            "count": "35,321",
+            "percent": "12.38%"
+          },
+          {
+            "id": 224909,
+            "text": "Pierce her belly button",
+            "correct": false,
+            "count": "59,887",
+            "percent": "20.99%"
+          },
+          {
+            "id": 224912,
+            "text": "Dye her hair",
+            "correct": true,
+            "count": "190,089",
+            "percent": "66.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/2/7",
+        "game_link": "/us/game/2019-04-17/2",
+        "correct_answers": 190089,
+        "incorrect_answers": 95208,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100308,
+        "text": "Which of these â90s pop groups was originally called Touch?",
+        "question_number": 8,
+        "eliminated": "89,578",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "117,127",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224936,
+            "text": "Spice Girls",
+            "correct": true,
+            "count": "117,115",
+            "percent": "57.53%"
+          },
+          {
+            "id": 224939,
+            "text": "NSYNC",
+            "correct": false,
+            "count": "35,785",
+            "percent": "17.58%"
+          },
+          {
+            "id": 224942,
+            "text": "S Club 7",
+            "correct": false,
+            "count": "50,665",
+            "percent": "24.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/2/8",
+        "game_link": "/us/game/2019-04-17/2",
+        "correct_answers": 117115,
+        "incorrect_answers": 86450,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100322,
+        "text": "Adam Yauch famously stormed the MTV Video Music Awards stage after what video was snubbed?",
+        "question_number": 9,
+        "eliminated": "63,182",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "69,494",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224955,
+            "text": "Intergalactic",
+            "correct": false,
+            "count": "17,051",
+            "percent": "13.87%"
+          },
+          {
+            "id": 224957,
+            "text": "No Sleep Till Brooklyn",
+            "correct": false,
+            "count": "36,365",
+            "percent": "29.59%"
+          },
+          {
+            "id": 224959,
+            "text": "Sabotage",
+            "correct": true,
+            "count": "69,492",
+            "percent": "56.54%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/2/9",
+        "game_link": "/us/game/2019-04-17/2",
+        "correct_answers": 69492,
+        "incorrect_answers": 53416,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100338,
+        "text": "Which of these â90s trends does Gwen Stefani NOT rock in the âDonât Speakâ music video?",
+        "question_number": 10,
+        "eliminated": "52,376",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "30,332",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 224979,
+            "text": "Polka dots",
+            "correct": false,
+            "count": "31,738",
+            "percent": "39.61%"
+          },
+          {
+            "id": 224982,
+            "text": "Crop top",
+            "correct": false,
+            "count": "18,054",
+            "percent": "22.53%"
+          },
+          {
+            "id": 224988,
+            "text": "Plaid shirt",
+            "correct": true,
+            "count": "30,332",
+            "percent": "37.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/2/10",
+        "game_link": "/us/game/2019-04-17/2",
+        "correct_answers": 30332,
+        "incorrect_answers": 49792,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100353,
+        "text": "Which group was once described by âNMEâ magazine as âa lily-livered excuse for a rock bandâ?",
+        "question_number": 11,
+        "eliminated": "13,188",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "29,151",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225002,
+            "text": "Pearl Jam",
+            "correct": false,
+            "count": "8,606",
+            "percent": "21.01%"
+          },
+          {
+            "id": 225003,
+            "text": "Radiohead",
+            "correct": true,
+            "count": "29,151",
+            "percent": "71.17%"
+          },
+          {
+            "id": 225004,
+            "text": "Aerosmith",
+            "correct": false,
+            "count": "3,204",
+            "percent": "7.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/2/11",
+        "game_link": "/us/game/2019-04-17/2",
+        "correct_answers": 29151,
+        "incorrect_answers": 11810,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100370,
+        "text": "Which beverage does Semisonic advise finishing in the hit song âClosing Timeâ?",
+        "question_number": 12,
+        "eliminated": "12,123",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "19,553",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225027,
+            "text": "Whiskey",
+            "correct": true,
+            "count": "19,553",
+            "percent": "62.46%"
+          },
+          {
+            "id": 225030,
+            "text": "Tequila",
+            "correct": false,
+            "count": "3,233",
+            "percent": "10.33%"
+          },
+          {
+            "id": 225036,
+            "text": "Gin",
+            "correct": false,
+            "count": "8,521",
+            "percent": "27.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/2/12",
+        "game_link": "/us/game/2019-04-17/2",
+        "correct_answers": 19553,
+        "incorrect_answers": 11754,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100386,
+        "text": "According to the lyrics of Right Said Fredâs hit song, what is the singer too sexy for?",
+        "question_number": 13,
+        "eliminated": "2,872",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "19,577",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225051,
+            "text": "His cat",
+            "correct": true,
+            "count": "19,577",
+            "percent": "87.93%"
+          },
+          {
+            "id": 225056,
+            "text": "The president",
+            "correct": false,
+            "count": "530",
+            "percent": "2.38%"
+          },
+          {
+            "id": 225058,
+            "text": "Your mom",
+            "correct": false,
+            "count": "2,157",
+            "percent": "9.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/2/13",
+        "game_link": "/us/game/2019-04-17/2",
+        "correct_answers": 19577,
+        "incorrect_answers": 2687,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100401,
+        "text": "Which music videoâs concept was originally pitched for Britney Spearsâ â...Baby One More Timeâ?",
+        "question_number": 14,
+        "eliminated": "6,399",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "13,881",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225074,
+            "text": "Doo Wop (That Thing)",
+            "correct": false,
+            "count": "2,672",
+            "percent": "13.73%"
+          },
+          {
+            "id": 225077,
+            "text": "Virtual Insanity",
+            "correct": false,
+            "count": "2,901",
+            "percent": "14.91%"
+          },
+          {
+            "id": 225082,
+            "text": "Oops!... I Did It Again",
+            "correct": true,
+            "count": "13,881",
+            "percent": "71.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/2/14",
+        "game_link": "/us/game/2019-04-17/2",
+        "correct_answers": 13881,
+        "incorrect_answers": 5573,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100417,
+        "text": "TLCâs massive 1999 hit about undesirable partners mentions which type of brand of goods?",
+        "question_number": 15,
+        "eliminated": "6,968",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "8,404",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225098,
+            "text": "Spanish leather",
+            "correct": false,
+            "count": "3,418",
+            "percent": "22.76%"
+          },
+          {
+            "id": 225100,
+            "text": "French beverage",
+            "correct": false,
+            "count": "3,198",
+            "percent": "21.29%"
+          },
+          {
+            "id": 225104,
+            "text": "Italian sportswear",
+            "correct": true,
+            "count": "8,404",
+            "percent": "55.95%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-17/2/15",
+        "game_link": "/us/game/2019-04-17/2",
+        "correct_answers": 8404,
+        "incorrect_answers": 6616,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 96980,
+    "show_id": 10480,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-04-18T01:30:00Z",
+    "direct_link": "/us/game/2019-04-17/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "6,437",
+      "currency": "$",
+      "average_prize": "0.16"
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-04-17/3/1",
+        "question_number": 1,
+        "text": "MC Hammer Hit",
+        "answer": [
+          "U",
+          "CANâT",
+          "TOUCH",
+          "THIS"
+        ],
+        "initial_letters": [
+          " ",
+          "â",
+          "U"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "I"
+        ],
+        "game_link": "/us/game/2019-04-17/3",
+        "eliminated": 17836,
+        "advancing": 160733,
+        "correct_answers": 160733,
+        "incorrect_answers": 17836
+      },
+      {
+        "direct_link": "/us/game/2019-04-17/3/2",
+        "question_number": 2,
+        "text": "Wish Granter",
+        "answer": [
+          "GENIE",
+          "IN",
+          "A",
+          "BOTTLE"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "T"
+        ],
+        "game_link": "/us/game/2019-04-17/3",
+        "eliminated": 12260,
+        "advancing": 149501,
+        "correct_answers": 149501,
+        "incorrect_answers": 12260
+      },
+      {
+        "direct_link": "/us/game/2019-04-17/3/3",
+        "question_number": 3,
+        "text": "90âs Weather Forecast",
+        "answer": [
+          "NO",
+          "RAIN"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "R"
+        ],
+        "game_link": "/us/game/2019-04-17/3",
+        "eliminated": 1075,
+        "advancing": 148995,
+        "correct_answers": 148995,
+        "incorrect_answers": 1075
+      },
+      {
+        "direct_link": "/us/game/2019-04-17/3/4",
+        "question_number": 4,
+        "text": "Video Showcase",
+        "answer": [
+          "MTV",
+          "TOTAL",
+          "REQUEST",
+          "LIVE"
+        ],
+        "initial_letters": [
+          " ",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "V"
+        ],
+        "game_link": "/us/game/2019-04-17/3",
+        "eliminated": 72856,
+        "advancing": 76091,
+        "correct_answers": 76091,
+        "incorrect_answers": 72856
+      },
+      {
+        "direct_link": "/us/game/2019-04-17/3/5",
+        "question_number": 5,
+        "text": "Musical Nobility",
+        "answer": [
+          "SIR",
+          "MIX",
+          "A",
+          "LOT"
+        ],
+        "initial_letters": [
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-17/3",
+        "eliminated": 13218,
+        "advancing": 68012,
+        "correct_answers": 68012,
+        "incorrect_answers": 13218
+      },
+      {
+        "direct_link": "/us/game/2019-04-17/3/6",
+        "question_number": 6,
+        "text": "Grunge Motto",
+        "answer": [
+          "HERE",
+          "WE",
+          "ARE",
+          "NOW,",
+          "ENTERTAIN",
+          "US"
+        ],
+        "initial_letters": [
+          " ",
+          ",",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "S"
+        ],
+        "game_link": "/us/game/2019-04-17/3",
+        "eliminated": 28196,
+        "advancing": 41059,
+        "correct_answers": 41059,
+        "incorrect_answers": 28196
+      },
+      {
+        "direct_link": "/us/game/2019-04-17/3/7",
+        "question_number": 7,
+        "text": "The Crazy Life",
+        "answer": [
+          "LIVIN'",
+          "LA",
+          "VIDA",
+          "LOCA"
+        ],
+        "initial_letters": [
+          "''",
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "D"
+        ],
+        "game_link": "/us/game/2019-04-17/3",
+        "eliminated": 2003,
+        "advancing": 43095,
+        "correct_answers": 43095,
+        "incorrect_answers": 2003
+      },
+      {
+        "direct_link": "/us/game/2019-04-17/3/8",
+        "question_number": 8,
+        "text": "Animated Tunes",
+        "answer": [
+          "SPACE",
+          "JAM",
+          "SOUNDTRACK"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-17/3",
+        "eliminated": 12030,
+        "advancing": 31286,
+        "correct_answers": 31286,
+        "incorrect_answers": 12030
+      },
+      {
+        "direct_link": "/us/game/2019-04-17/3/9",
+        "question_number": 9,
+        "text": "A Bummer",
+        "answer": [
+          "BLACK",
+          "FLY",
+          "IN",
+          "YOUR",
+          "CHARDONNAY"
+        ],
+        "initial_letters": [
+          " ",
+          "F"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "N"
+        ],
+        "game_link": "/us/game/2019-04-17/3",
+        "eliminated": 19122,
+        "advancing": 14218,
+        "correct_answers": 14218,
+        "incorrect_answers": 19122
+      },
+      {
+        "direct_link": "/us/game/2019-04-17/3/10",
+        "question_number": 10,
+        "text": "All-Star Rumor",
+        "answer": [
+          "SOMEBODY",
+          "ONCE",
+          "TOLD",
+          "ME"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "T"
+        ],
+        "game_link": "/us/game/2019-04-17/3",
+        "eliminated": 4069,
+        "advancing": 14159,
+        "correct_answers": 14159,
+        "incorrect_answers": 4069
+      },
+      {
+        "direct_link": "/us/game/2019-04-17/3/11",
+        "question_number": 11,
+        "text": "Hanging With My Crew",
+        "answer": [
+          "ROLLINâ",
+          "WITH",
+          "MY",
+          "HOMIES"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "T",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-04-17/3",
+        "eliminated": 2500,
+        "advancing": 12463,
+        "correct_answers": 12463,
+        "incorrect_answers": 2500
+      },
+      {
+        "direct_link": "/us/game/2019-04-17/3/12",
+        "question_number": 12,
+        "text": "Answering Machine Message",
+        "answer": [
+          "I'M",
+          "WALKING",
+          "INTO",
+          "SPIDERWEBS"
+        ],
+        "initial_letters": [
+          "''",
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "N"
+        ],
+        "game_link": "/us/game/2019-04-17/3",
+        "eliminated": 6615,
+        "advancing": 6437,
+        "correct_answers": 6437,
+        "incorrect_answers": 6615
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

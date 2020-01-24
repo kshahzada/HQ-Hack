@@ -1,0 +1,811 @@
+[
+  {
+    "id": 46908,
+    "show_id": 9363,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "0",
+    "currency": "$",
+    "start_time": "2019-01-27T02:00:00Z",
+    "direct_link": "/us/game/2019-01-26/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,510",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 44056,
+        "text": "An old saying tells us not to cry over spilled what?",
+        "question_number": 1,
+        "eliminated": "-301",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "306,239",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132061,
+            "text": "Milk",
+            "correct": true,
+            "count": "292,025",
+            "percent": "98.18%"
+          },
+          {
+            "id": 132063,
+            "text": "Hot liquid magma",
+            "correct": false,
+            "count": "1,388",
+            "percent": "0.47%"
+          },
+          {
+            "id": 132066,
+            "text": "Tears",
+            "correct": false,
+            "count": "4,039",
+            "percent": "1.36%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-26/1/1",
+        "game_link": "/us/game/2019-01-26/1",
+        "correct_answers": 292025,
+        "incorrect_answers": 5427,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44064,
+        "text": "One of Princeâs early hit songs was âLetâs Goâ what?",
+        "question_number": 2,
+        "eliminated": "7,340",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "299,254",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132087,
+            "text": "Crazy",
+            "correct": true,
+            "count": "284,764",
+            "percent": "97.22%"
+          },
+          {
+            "id": 132088,
+            "text": "Hawaiian",
+            "correct": false,
+            "count": "5,336",
+            "percent": "1.82%"
+          },
+          {
+            "id": 132090,
+            "text": "To That Rummage Sale",
+            "correct": false,
+            "count": "2,820",
+            "percent": "0.96%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-26/1/2",
+        "game_link": "/us/game/2019-01-26/1",
+        "correct_answers": 284764,
+        "incorrect_answers": 8156,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44071,
+        "text": "Which is a type of book made up of smaller literary pieces?",
+        "question_number": 3,
+        "eliminated": "28,961",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "270,573",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132109,
+            "text": "Anthology",
+            "correct": true,
+            "count": "248,365",
+            "percent": "86.44%"
+          },
+          {
+            "id": 132111,
+            "text": "Archaeology",
+            "correct": false,
+            "count": "9,170",
+            "percent": "3.19%"
+          },
+          {
+            "id": 132113,
+            "text": "Anthropology",
+            "correct": false,
+            "count": "29,787",
+            "percent": "10.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-26/1/3",
+        "game_link": "/us/game/2019-01-26/1",
+        "correct_answers": 248365,
+        "incorrect_answers": 38957,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44077,
+        "text": "Which of these animals does NOT regularly shed its skin?",
+        "question_number": 4,
+        "eliminated": "59,324",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "213,358",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132126,
+            "text": "Chameleon",
+            "correct": false,
+            "count": "17,225",
+            "percent": "6.56%"
+          },
+          {
+            "id": 132127,
+            "text": "Piranha",
+            "correct": true,
+            "count": "183,859",
+            "percent": "70.05%"
+          },
+          {
+            "id": 132128,
+            "text": "Tarantula",
+            "correct": false,
+            "count": "61,401",
+            "percent": "23.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-26/1/4",
+        "game_link": "/us/game/2019-01-26/1",
+        "correct_answers": 183859,
+        "incorrect_answers": 78626,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44086,
+        "text": "By definition, what is fruit jam containing pieces of the peel called?",
+        "question_number": 5,
+        "eliminated": "60,785",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "157,652",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132148,
+            "text": "Marmalade",
+            "correct": true,
+            "count": "151,920",
+            "percent": "72.19%"
+          },
+          {
+            "id": 132149,
+            "text": "Jelly",
+            "correct": false,
+            "count": "12,962",
+            "percent": "6.16%"
+          },
+          {
+            "id": 132150,
+            "text": "Compote",
+            "correct": false,
+            "count": "45,549",
+            "percent": "21.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-26/1/5",
+        "game_link": "/us/game/2019-01-26/1",
+        "correct_answers": 151920,
+        "incorrect_answers": 58511,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44093,
+        "text": "Which is a good mnemonic device for the first four planets in the Solar System?",
+        "question_number": 6,
+        "eliminated": "85,267",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "77,506",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132174,
+            "text": "Make Eggs Very Messily",
+            "correct": false,
+            "count": "41,633",
+            "percent": "29.65%"
+          },
+          {
+            "id": 132175,
+            "text": "My Vile Ego-Mania",
+            "correct": true,
+            "count": "77,506",
+            "percent": "55.19%"
+          },
+          {
+            "id": 132177,
+            "text": "Momâs Vigor Might Ebb",
+            "correct": false,
+            "count": "21,289",
+            "percent": "15.16%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-26/1/6",
+        "game_link": "/us/game/2019-01-26/1",
+        "correct_answers": 77506,
+        "incorrect_answers": 62922,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44101,
+        "text": "In modern standard editions of Connect Four, what is NOT one of the two game piece colors?",
+        "question_number": 7,
+        "eliminated": "48,587",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "37,736",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132198,
+            "text": "Yellow",
+            "correct": false,
+            "count": "41,527",
+            "percent": "49.02%"
+          },
+          {
+            "id": 132199,
+            "text": "Blue",
+            "correct": true,
+            "count": "37,736",
+            "percent": "44.55%"
+          },
+          {
+            "id": 132200,
+            "text": "Red",
+            "correct": false,
+            "count": "5,451",
+            "percent": "6.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-26/1/7",
+        "game_link": "/us/game/2019-01-26/1",
+        "correct_answers": 37736,
+        "incorrect_answers": 46978,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44110,
+        "text": "What do you do to wine to make brandy?",
+        "question_number": 8,
+        "eliminated": "22,204",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "20,507",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132224,
+            "text": "Distill it",
+            "correct": true,
+            "count": "20,507",
+            "percent": "48.48%"
+          },
+          {
+            "id": 132229,
+            "text": "Fortify it",
+            "correct": false,
+            "count": "11,024",
+            "percent": "26.06%"
+          },
+          {
+            "id": 132235,
+            "text": "Sweeten it",
+            "correct": false,
+            "count": "10,773",
+            "percent": "25.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-26/1/8",
+        "game_link": "/us/game/2019-01-26/1",
+        "correct_answers": 20507,
+        "incorrect_answers": 21797,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44116,
+        "text": "Which of these words describes something that has become anticlimactic?",
+        "question_number": 9,
+        "eliminated": "14,679",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "8,403",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132243,
+            "text": "Pathos",
+            "correct": false,
+            "count": "7,209",
+            "percent": "31.65%"
+          },
+          {
+            "id": 132244,
+            "text": "Bathos",
+            "correct": true,
+            "count": "8,403",
+            "percent": "36.89%"
+          },
+          {
+            "id": 132246,
+            "text": "Ethos",
+            "correct": false,
+            "count": "7,167",
+            "percent": "31.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-26/1/9",
+        "game_link": "/us/game/2019-01-26/1",
+        "correct_answers": 8403,
+        "incorrect_answers": 14376,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44124,
+        "text": "Which of these Sanrio characters is a dog?",
+        "question_number": 10,
+        "eliminated": "2,882",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "7,589",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132267,
+            "text": "Usahana",
+            "correct": false,
+            "count": "1,136",
+            "percent": "10.92%"
+          },
+          {
+            "id": 132270,
+            "text": "Pannapitta",
+            "correct": false,
+            "count": "1,675",
+            "percent": "16.11%"
+          },
+          {
+            "id": 132273,
+            "text": "Chibimaru",
+            "correct": true,
+            "count": "7,589",
+            "percent": "72.97%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-26/1/10",
+        "game_link": "/us/game/2019-01-26/1",
+        "correct_answers": 7589,
+        "incorrect_answers": 2811,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44132,
+        "text": "The largest non-American electronics company makes what phone?",
+        "question_number": 11,
+        "eliminated": "1,817",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "6,255",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132291,
+            "text": "Galaxy",
+            "correct": true,
+            "count": "6,255",
+            "percent": "78.16%"
+          },
+          {
+            "id": 132292,
+            "text": "Mate",
+            "correct": false,
+            "count": "621",
+            "percent": "7.76%"
+          },
+          {
+            "id": 132294,
+            "text": "Xperia",
+            "correct": false,
+            "count": "1,127",
+            "percent": "14.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-26/1/11",
+        "game_link": "/us/game/2019-01-26/1",
+        "correct_answers": 6255,
+        "incorrect_answers": 1748,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44141,
+        "text": "At the start of modern Disney movies, what is on the flag flying above the castle?",
+        "question_number": 12,
+        "eliminated": "4,136",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,510",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132315,
+            "text": "8-pointed star",
+            "correct": false,
+            "count": "1,552",
+            "percent": "23.91%"
+          },
+          {
+            "id": 132318,
+            "text": "Mickey Mouse ears",
+            "correct": false,
+            "count": "2,429",
+            "percent": "37.42%"
+          },
+          {
+            "id": 132323,
+            "text": "Disney family crest",
+            "correct": true,
+            "count": "2,510",
+            "percent": "38.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-26/1/12",
+        "game_link": "/us/game/2019-01-26/1",
+        "correct_answers": 2510,
+        "incorrect_answers": 3981,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 47025,
+    "show_id": 9469,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-01-27T02:30:00Z",
+    "direct_link": "/us/game/2019-01-26/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "71.95"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "72.03"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "72.19"
+        },
+        {
+          "number": "2,160",
+          "amount": "0.36",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.3582986592695331,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-01-26/2/1",
+        "question_number": 1,
+        "text": "Farmer's Outfit",
+        "answer": [
+          "OVERALLS"
+        ],
+        "initial_letters": [
+          "O"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "V"
+        ],
+        "game_link": "/us/game/2019-01-26/2",
+        "eliminated": 9637,
+        "advancing": 178276,
+        "correct_answers": 178276,
+        "incorrect_answers": 9637
+      },
+      {
+        "direct_link": "/us/game/2019-01-26/2/2",
+        "question_number": 2,
+        "text": "Baked Dessert",
+        "answer": [
+          "BROWNIE"
+        ],
+        "initial_letters": [
+          "B"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "R"
+        ],
+        "game_link": "/us/game/2019-01-26/2",
+        "eliminated": 36278,
+        "advancing": 142305,
+        "correct_answers": 142305,
+        "incorrect_answers": 36278
+      },
+      {
+        "direct_link": "/us/game/2019-01-26/2/3",
+        "question_number": 3,
+        "text": "Common Greeting",
+        "answer": [
+          "WHATâS",
+          "UP?"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "?",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "U"
+        ],
+        "game_link": "/us/game/2019-01-26/2",
+        "eliminated": 3282,
+        "advancing": 140276,
+        "correct_answers": 140276,
+        "incorrect_answers": 3282
+      },
+      {
+        "direct_link": "/us/game/2019-01-26/2/4",
+        "question_number": 4,
+        "text": "Cleaning Combo",
+        "answer": [
+          "BUCKET",
+          "&",
+          "MOP"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "T"
+        ],
+        "game_link": "/us/game/2019-01-26/2",
+        "eliminated": 47166,
+        "advancing": 93148,
+        "correct_answers": 93148,
+        "incorrect_answers": 47166
+      },
+      {
+        "direct_link": "/us/game/2019-01-26/2/5",
+        "question_number": 5,
+        "text": "On The Slopes",
+        "answer": [
+          "BLACK",
+          "DIAMOND"
+        ],
+        "initial_letters": [
+          " ",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "D"
+        ],
+        "game_link": "/us/game/2019-01-26/2",
+        "eliminated": 17025,
+        "advancing": 78403,
+        "correct_answers": 78403,
+        "incorrect_answers": 17025
+      },
+      {
+        "direct_link": "/us/game/2019-01-26/2/6",
+        "question_number": 6,
+        "text": "At The Pub",
+        "answer": [
+          "FROSTY",
+          "MUG",
+          "OF",
+          "ALE"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "T"
+        ],
+        "game_link": "/us/game/2019-01-26/2",
+        "eliminated": 61236,
+        "advancing": 18009,
+        "correct_answers": 18009,
+        "incorrect_answers": 61236
+      },
+      {
+        "direct_link": "/us/game/2019-01-26/2/7",
+        "question_number": 7,
+        "text": "Modern Disorganization",
+        "answer": [
+          "TOO",
+          "MANY",
+          "OPEN",
+          "TABS"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "S",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-01-26/2",
+        "eliminated": 13968,
+        "advancing": 8382,
+        "correct_answers": 8382,
+        "incorrect_answers": 13968
+      },
+      {
+        "direct_link": "/us/game/2019-01-26/2/8",
+        "question_number": 8,
+        "text": "Around The House",
+        "answer": [
+          "VERY",
+          "FULL",
+          "JUNK",
+          "DRAWER"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "K"
+        ],
+        "game_link": "/us/game/2019-01-26/2",
+        "eliminated": 6992,
+        "advancing": 2622,
+        "correct_answers": 2622,
+        "incorrect_answers": 6992
+      },
+      {
+        "direct_link": "/us/game/2019-01-26/2/9",
+        "question_number": 9,
+        "text": "Educational TV",
+        "answer": [
+          "PBS",
+          "KIDS",
+          "SHOW"
+        ],
+        "initial_letters": [
+          " ",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "O"
+        ],
+        "game_link": "/us/game/2019-01-26/2",
+        "eliminated": 709,
+        "advancing": 2865,
+        "correct_answers": 2865,
+        "incorrect_answers": 709
+      },
+      {
+        "direct_link": "/us/game/2019-01-26/2/10",
+        "question_number": 10,
+        "text": "Actor / Comedy",
+        "answer": [
+          "BILL",
+          "MURRAY",
+          "/",
+          "GROUNDHOG",
+          "DAY"
+        ],
+        "initial_letters": [
+          " ",
+          "/",
+          "U"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-01-26/2",
+        "eliminated": 822,
+        "advancing": 2163,
+        "correct_answers": 2163,
+        "incorrect_answers": 822
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

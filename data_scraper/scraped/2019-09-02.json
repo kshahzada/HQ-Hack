@@ -1,0 +1,1594 @@
+[
+  {
+    "id": 129981,
+    "show_id": 12194,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-09-03T00:00:00Z",
+    "direct_link": "/us/game/2019-09-02/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,241",
+      "currency": "$",
+      "average_prize": "0.81"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 143126,
+        "text": "What team set an unmatched record by four-peating as Super Bowl loser?",
+        "question_number": 1,
+        "eliminated": "-17,206",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "91,560",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289145,
+            "text": "Buffalo Bills",
+            "correct": true,
+            "count": "59,883",
+            "percent": "80.54%"
+          },
+          {
+            "id": 289147,
+            "text": "Denver Broncos",
+            "correct": false,
+            "count": "8,527",
+            "percent": "11.47%"
+          },
+          {
+            "id": 289149,
+            "text": "Green Bay Packers",
+            "correct": false,
+            "count": "5,944",
+            "percent": "7.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/1/1",
+        "game_link": "/us/game/2019-09-02/1",
+        "correct_answers": 59883,
+        "incorrect_answers": 14471,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143144,
+        "text": "What final event did Kerri Strug compete in while injured to secure the gold for Team USA?",
+        "question_number": 2,
+        "eliminated": "4,602",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "87,028",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289171,
+            "text": "Vault",
+            "correct": true,
+            "count": "53,571",
+            "percent": "74.07%"
+          },
+          {
+            "id": 289174,
+            "text": "Balance beam",
+            "correct": false,
+            "count": "10,404",
+            "percent": "14.38%"
+          },
+          {
+            "id": 289177,
+            "text": "Floor exercise",
+            "correct": false,
+            "count": "8,352",
+            "percent": "11.55%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/1/2",
+        "game_link": "/us/game/2019-09-02/1",
+        "correct_answers": 53571,
+        "incorrect_answers": 18756,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143158,
+        "text": "Tiger Woods set an overall tournament scoring record that still stands at what major?",
+        "question_number": 3,
+        "eliminated": "10,502",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "76,665",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289193,
+            "text": "US Open",
+            "correct": false,
+            "count": "12,004",
+            "percent": "17.46%"
+          },
+          {
+            "id": 289195,
+            "text": "PGA Championship",
+            "correct": false,
+            "count": "15,790",
+            "percent": "22.97%"
+          },
+          {
+            "id": 289199,
+            "text": "The Masters",
+            "correct": true,
+            "count": "40,945",
+            "percent": "59.57%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/1/3",
+        "game_link": "/us/game/2019-09-02/1",
+        "correct_answers": 40945,
+        "incorrect_answers": 27794,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143170,
+        "text": "What MLB team won the most divisional titles in the â90s?",
+        "question_number": 4,
+        "eliminated": "9,345",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "67,640",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289211,
+            "text": "Atlanta Braves",
+            "correct": true,
+            "count": "47,857",
+            "percent": "76.15%"
+          },
+          {
+            "id": 289213,
+            "text": "Los Angeles Dodgers",
+            "correct": false,
+            "count": "3,348",
+            "percent": "5.33%"
+          },
+          {
+            "id": 289217,
+            "text": "New York Yankees",
+            "correct": false,
+            "count": "11,642",
+            "percent": "18.52%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/1/4",
+        "game_link": "/us/game/2019-09-02/1",
+        "correct_answers": 47857,
+        "incorrect_answers": 14990,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143178,
+        "text": "Which of these teams was NOT playing in the NBA Finals that was interrupted by the OJ chase?",
+        "question_number": 5,
+        "eliminated": "12,725",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "55,015",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289223,
+            "text": "Houston Rockets",
+            "correct": false,
+            "count": "5,868",
+            "percent": "10.36%"
+          },
+          {
+            "id": 289225,
+            "text": "New York Knicks",
+            "correct": false,
+            "count": "10,634",
+            "percent": "18.78%"
+          },
+          {
+            "id": 289230,
+            "text": "Orlando Magic",
+            "correct": true,
+            "count": "40,132",
+            "percent": "70.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/1/5",
+        "game_link": "/us/game/2019-09-02/1",
+        "correct_answers": 40132,
+        "incorrect_answers": 16502,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143186,
+        "text": "What is referee Mills Laneâs ruling here in Tyson-Holyfield II?",
+        "question_number": 6,
+        "eliminated": "12,433",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "42,600",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289235,
+            "text": "TKO",
+            "correct": false,
+            "count": "6,255",
+            "percent": "12.65%"
+          },
+          {
+            "id": 289238,
+            "text": "DQ",
+            "correct": true,
+            "count": "32,053",
+            "percent": "64.84%"
+          },
+          {
+            "id": 289242,
+            "text": "Point deduction",
+            "correct": false,
+            "count": "11,125",
+            "percent": "22.51%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/1/6",
+        "game_link": "/us/game/2019-09-02/1",
+        "correct_answers": 32053,
+        "incorrect_answers": 17380,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143194,
+        "text": "What nation won a World Cup on home soil in the â90s?",
+        "question_number": 7,
+        "eliminated": "14,251",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "28,349",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289247,
+            "text": "Brazil",
+            "correct": false,
+            "count": "8,808",
+            "percent": "23.3%"
+          },
+          {
+            "id": 289250,
+            "text": "West Germany",
+            "correct": false,
+            "count": "5,162",
+            "percent": "13.66%"
+          },
+          {
+            "id": 289254,
+            "text": "France",
+            "correct": true,
+            "count": "23,825",
+            "percent": "63.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/1/7",
+        "game_link": "/us/game/2019-09-02/1",
+        "correct_answers": 23825,
+        "incorrect_answers": 13970,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143202,
+        "text": "Which American womenâs figure skater won the most individual Olympic medals in the â90s?",
+        "question_number": 8,
+        "eliminated": "17,622",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "10,727",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289259,
+            "text": "Tara Lipinski",
+            "correct": false,
+            "count": "4,364",
+            "percent": "16.69%"
+          },
+          {
+            "id": 289261,
+            "text": "Michelle Kwan",
+            "correct": false,
+            "count": "15,039",
+            "percent": "57.5%"
+          },
+          {
+            "id": 289265,
+            "text": "Nancy Kerrigan",
+            "correct": true,
+            "count": "6,750",
+            "percent": "25.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/1/8",
+        "game_link": "/us/game/2019-09-02/1",
+        "correct_answers": 6750,
+        "incorrect_answers": 19403,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143210,
+        "text": "What NFL team had the best single-season winning percentage in the â90s?",
+        "question_number": 9,
+        "eliminated": "5,897",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,893",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289271,
+            "text": "Minnesota Vikings",
+            "correct": true,
+            "count": "2,828",
+            "percent": "27.58%"
+          },
+          {
+            "id": 289273,
+            "text": "Dallas Cowboys",
+            "correct": false,
+            "count": "2,819",
+            "percent": "27.49%"
+          },
+          {
+            "id": 289278,
+            "text": "San Francisco 49ers",
+            "correct": false,
+            "count": "4,607",
+            "percent": "44.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/1/9",
+        "game_link": "/us/game/2019-09-02/1",
+        "correct_answers": 2828,
+        "incorrect_answers": 7426,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143222,
+        "text": "Michael Jordan set an NBA finals record for three-pointers in a half against what opponent?",
+        "question_number": 10,
+        "eliminated": "1,440",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "3,453",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289289,
+            "text": "Utah Jazz",
+            "correct": false,
+            "count": "998",
+            "percent": "21.45%"
+          },
+          {
+            "id": 289291,
+            "text": "Detroit Pistons",
+            "correct": false,
+            "count": "1,041",
+            "percent": "22.37%"
+          },
+          {
+            "id": 289294,
+            "text": "Portland Trail Blazers",
+            "correct": true,
+            "count": "2,614",
+            "percent": "56.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/1/10",
+        "game_link": "/us/game/2019-09-02/1",
+        "correct_answers": 2614,
+        "incorrect_answers": 2039,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143234,
+        "text": "What team ended the longest Stanley Cup Championship drought with a title in the â90s?",
+        "question_number": 11,
+        "eliminated": "762",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,692",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289307,
+            "text": "Pittsburgh Penguins",
+            "correct": false,
+            "count": "243",
+            "percent": "7.31%"
+          },
+          {
+            "id": 289310,
+            "text": "New Jersey Devils",
+            "correct": false,
+            "count": "387",
+            "percent": "11.65%"
+          },
+          {
+            "id": 289313,
+            "text": "New York Rangers",
+            "correct": true,
+            "count": "2,692",
+            "percent": "81.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/1/11",
+        "game_link": "/us/game/2019-09-02/1",
+        "correct_answers": 2692,
+        "incorrect_answers": 630,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143252,
+        "text": "What championship college football team set an unbreakable record by not allowing a single QB sack all year?",
+        "question_number": 12,
+        "eliminated": "1,451",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,241",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289334,
+            "text": "Florida State",
+            "correct": false,
+            "count": "689",
+            "percent": "28.33%"
+          },
+          {
+            "id": 289337,
+            "text": "Nebraska",
+            "correct": true,
+            "count": "1,241",
+            "percent": "51.03%"
+          },
+          {
+            "id": 289341,
+            "text": "Georgia Tech",
+            "correct": false,
+            "count": "502",
+            "percent": "20.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/1/12",
+        "game_link": "/us/game/2019-09-02/1",
+        "correct_answers": 1241,
+        "incorrect_answers": 1191,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1450,
+        "game_id": 129981,
+        "question": "Most memorable 90s sports moment",
+        "results": [
+          {
+            "id": 8558,
+            "display_count": "46",
+            "vote_count": 16490,
+            "text": "MJ returns"
+          },
+          {
+            "id": 8563,
+            "display_count": "31",
+            "vote_count": 11204,
+            "text": "OJ flees"
+          },
+          {
+            "id": 8571,
+            "display_count": "22",
+            "vote_count": 7876,
+            "text": "Tyson bites"
+          }
+        ],
+        "created_at": "2019-09-03T00:13:17Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 130077,
+    "show_id": 12252,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "10,000",
+    "currency": "$",
+    "start_time": "2019-09-03T01:00:00Z",
+    "direct_link": "/us/game/2019-09-02/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 143276,
+        "text": "Who directed the hit 2019 horror film \"Us\"?",
+        "question_number": 1,
+        "eliminated": "-15,320",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "189,726",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289370,
+            "text": "Alfred Hitchcock",
+            "correct": false,
+            "count": "13,855",
+            "percent": "8.32%"
+          },
+          {
+            "id": 289371,
+            "text": "Jason Voorhees",
+            "correct": false,
+            "count": "15,548",
+            "percent": "9.34%"
+          },
+          {
+            "id": 289372,
+            "text": "Jordan Peele",
+            "correct": true,
+            "count": "137,036",
+            "percent": "82.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/1",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 137036,
+        "incorrect_answers": 29403,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143286,
+        "text": "Which young actor stars in the recent comedic hit \"Good Boys\"?",
+        "question_number": 2,
+        "eliminated": "10,823",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "179,099",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289385,
+            "text": "Jacob Tremblay",
+            "correct": true,
+            "count": "118,014",
+            "percent": "72.17%"
+          },
+          {
+            "id": 289387,
+            "text": "Kirk Douglas",
+            "correct": false,
+            "count": "12,447",
+            "percent": "7.61%"
+          },
+          {
+            "id": 289389,
+            "text": "TimothÃ©e Chalamet",
+            "correct": false,
+            "count": "33,059",
+            "percent": "20.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/2",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 118014,
+        "incorrect_answers": 45506,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143300,
+        "text": "Which real life star does Margot Robbie play in \"Once Upon A Time in Hollywood\"?",
+        "question_number": 3,
+        "eliminated": "23,860",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "155,526",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289406,
+            "text": "Sharon Tate",
+            "correct": true,
+            "count": "116,730",
+            "percent": "73.95%"
+          },
+          {
+            "id": 289407,
+            "text": "Audrey Hepburn",
+            "correct": false,
+            "count": "19,463",
+            "percent": "12.33%"
+          },
+          {
+            "id": 289411,
+            "text": "Marilyn Monroe",
+            "correct": false,
+            "count": "21,664",
+            "percent": "13.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/3",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 116730,
+        "incorrect_answers": 41127,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143316,
+        "text": "Which of these places \"Has Fallen,\" according to the title of a Gerard Butler movie?",
+        "question_number": 4,
+        "eliminated": "12,496",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "143,675",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289430,
+            "text": "Paris",
+            "correct": false,
+            "count": "15,160",
+            "percent": "10.4%"
+          },
+          {
+            "id": 289434,
+            "text": "Olympus",
+            "correct": true,
+            "count": "128,978",
+            "percent": "88.49%"
+          },
+          {
+            "id": 289437,
+            "text": "Asia",
+            "correct": false,
+            "count": "1,620",
+            "percent": "1.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/4",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 128978,
+        "incorrect_answers": 16780,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143332,
+        "text": "What kind of wedding dress does Julia Roberts wear when she finally marries Richard Gere in \"Runaway Bride\"?",
+        "question_number": 5,
+        "eliminated": "61,855",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "82,455",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289454,
+            "text": "Off the shoulder",
+            "correct": true,
+            "count": "43,995",
+            "percent": "33.5%"
+          },
+          {
+            "id": 289457,
+            "text": "Spaghetti strap",
+            "correct": false,
+            "count": "38,492",
+            "percent": "29.31%"
+          },
+          {
+            "id": 289461,
+            "text": "Itâs not a wedding dress",
+            "correct": false,
+            "count": "48,853",
+            "percent": "37.2%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/5",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 43995,
+        "incorrect_answers": 87345,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143348,
+        "text": "The actor who played which iconic movie father was closest in age to his onscreen offspring?",
+        "question_number": 6,
+        "eliminated": "38,746",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "48,881",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289478,
+            "text": "Atticus Finch",
+            "correct": false,
+            "count": "24,223",
+            "percent": "30.39%"
+          },
+          {
+            "id": 289481,
+            "text": "George Banks",
+            "correct": false,
+            "count": "28,611",
+            "percent": "35.89%"
+          },
+          {
+            "id": 289485,
+            "text": "Dr. Henry Jones",
+            "correct": true,
+            "count": "26,884",
+            "percent": "33.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/6",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 26884,
+        "incorrect_answers": 52834,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143364,
+        "text": "Who provided the voice of Zuul in \"Ghostbusters\"?",
+        "question_number": 7,
+        "eliminated": "17,839",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "34,131",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289502,
+            "text": "Talk show host",
+            "correct": false,
+            "count": "8,028",
+            "percent": "16.17%"
+          },
+          {
+            "id": 289506,
+            "text": "Teamster",
+            "correct": false,
+            "count": "15,521",
+            "percent": "31.26%"
+          },
+          {
+            "id": 289510,
+            "text": "Director",
+            "correct": true,
+            "count": "26,105",
+            "percent": "52.57%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/7",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 26105,
+        "incorrect_answers": 23549,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143380,
+        "text": "Which actor had to undergo CIA torture endurance exercises for a comedy film?",
+        "question_number": 8,
+        "eliminated": "13,320",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "22,625",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289526,
+            "text": "Vince Vaughn",
+            "correct": false,
+            "count": "10,270",
+            "percent": "29.71%"
+          },
+          {
+            "id": 289528,
+            "text": "Mike Myers",
+            "correct": false,
+            "count": "5,481",
+            "percent": "15.86%"
+          },
+          {
+            "id": 289531,
+            "text": "Jim Carrey",
+            "correct": true,
+            "count": "18,815",
+            "percent": "54.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/8",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 18815,
+        "incorrect_answers": 15751,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143396,
+        "text": "Whose real-life twin sister played an evil version of them in an action film?",
+        "question_number": 9,
+        "eliminated": "8,809",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "16,026",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289550,
+            "text": "Linda Hamilton",
+            "correct": true,
+            "count": "14,756",
+            "percent": "61.08%"
+          },
+          {
+            "id": 289554,
+            "text": "Sigourney Weaver",
+            "correct": false,
+            "count": "3,111",
+            "percent": "12.88%"
+          },
+          {
+            "id": 289558,
+            "text": "Charlize Theron",
+            "correct": false,
+            "count": "6,293",
+            "percent": "26.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/9",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 14756,
+        "incorrect_answers": 9404,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 9,
+          "players_left": 10660,
+          "players_left_formatted": "10,660",
+          "num_winners": 7312,
+          "num_winners_formatted": "7,312",
+          "prize": 0.21,
+          "prize_formatted": "$0.21",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 143408,
+        "text": "An actress known for which film recently revealed she featured on this poster?",
+        "question_number": 10,
+        "eliminated": "9,465",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "7,508",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289568,
+            "text": "Pretty Woman",
+            "correct": false,
+            "count": "982",
+            "percent": "9.42%"
+          },
+          {
+            "id": 289570,
+            "text": "Bring It On",
+            "correct": false,
+            "count": "3,247",
+            "percent": "31.14%"
+          },
+          {
+            "id": 289573,
+            "text": "Drive",
+            "correct": true,
+            "count": "6,197",
+            "percent": "59.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/10",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 6197,
+        "incorrect_answers": 4229,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143420,
+        "text": "What kind of character does the director of \"Fantastic Mr. Fox\" cameo as?",
+        "question_number": 11,
+        "eliminated": "5,186",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "3,367",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289586,
+            "text": "Fox",
+            "correct": false,
+            "count": "614",
+            "percent": "7.98%"
+          },
+          {
+            "id": 289588,
+            "text": "Weasel",
+            "correct": true,
+            "count": "3,367",
+            "percent": "43.74%"
+          },
+          {
+            "id": 289592,
+            "text": "Farmer",
+            "correct": false,
+            "count": "3,716",
+            "percent": "48.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/11",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 3367,
+        "incorrect_answers": 4330,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143432,
+        "text": "The actor behind which iconic role provided the voice for this rock legend in \"Forrest Gump\"?",
+        "question_number": 12,
+        "eliminated": "1,118",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "3,911",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289604,
+            "text": "John McClane",
+            "correct": false,
+            "count": "380",
+            "percent": "7.62%"
+          },
+          {
+            "id": 289605,
+            "text": "Snake Plissken",
+            "correct": true,
+            "count": "3,911",
+            "percent": "78.41%"
+          },
+          {
+            "id": 289607,
+            "text": "Dr. Richard Kimball",
+            "correct": false,
+            "count": "697",
+            "percent": "13.97%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/12",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 3911,
+        "incorrect_answers": 1077,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143454,
+        "text": "Which Oscar-winning film is dedicated to a crow?",
+        "question_number": 13,
+        "eliminated": "2,176",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,138",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289637,
+            "text": "Birdman",
+            "correct": false,
+            "count": "748",
+            "percent": "17.84%"
+          },
+          {
+            "id": 289640,
+            "text": "Green Book",
+            "correct": true,
+            "count": "2,138",
+            "percent": "51.0%"
+          },
+          {
+            "id": 289644,
+            "text": "Gladiator",
+            "correct": false,
+            "count": "1,306",
+            "percent": "31.15%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/13",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 2138,
+        "incorrect_answers": 2054,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 13,
+          "players_left": 1326,
+          "players_left_formatted": "1,326",
+          "num_winners": 1569,
+          "num_winners_formatted": "1,569",
+          "prize": 1.41,
+          "prize_formatted": "$1.41",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 143477,
+        "text": "Which of these is the capital of a state that begins and ends with the same vowel?",
+        "question_number": 14,
+        "eliminated": "1,038",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "859",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289672,
+            "text": "Columbia",
+            "correct": false,
+            "count": "88",
+            "percent": "6.45%"
+          },
+          {
+            "id": 289676,
+            "text": "Augusta",
+            "correct": false,
+            "count": "417",
+            "percent": "30.57%"
+          },
+          {
+            "id": 289681,
+            "text": "Columbus",
+            "correct": true,
+            "count": "859",
+            "percent": "62.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/14",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 859,
+        "incorrect_answers": 505,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143493,
+        "text": "Which of these terms describes this animal?",
+        "question_number": 15,
+        "eliminated": "880",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "346",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289695,
+            "text": "Hypercarnivore",
+            "correct": false,
+            "count": "173",
+            "percent": "14.44%"
+          },
+          {
+            "id": 289698,
+            "text": "Hypocarnivore",
+            "correct": true,
+            "count": "346",
+            "percent": "28.88%"
+          },
+          {
+            "id": 289701,
+            "text": "Mesocarnivore",
+            "correct": false,
+            "count": "679",
+            "percent": "56.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/15",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 346,
+        "incorrect_answers": 852,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143509,
+        "text": "Of these national flags, which one only displays primary colors of pigment?",
+        "question_number": 16,
+        "eliminated": "425",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "380",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289719,
+            "text": "Senegal",
+            "correct": false,
+            "count": "226",
+            "percent": "28.79%"
+          },
+          {
+            "id": 289722,
+            "text": "Ukraine",
+            "correct": true,
+            "count": "380",
+            "percent": "48.41%"
+          },
+          {
+            "id": 289728,
+            "text": "Bangladesh",
+            "correct": false,
+            "count": "179",
+            "percent": "22.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/16",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 380,
+        "incorrect_answers": 405,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143525,
+        "text": "Which of these acts has NOT topped the Billboard Hot 100 chart?",
+        "question_number": 17,
+        "eliminated": "313",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "305",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289742,
+            "text": "One Direction",
+            "correct": true,
+            "count": "305",
+            "percent": "49.67%"
+          },
+          {
+            "id": 289746,
+            "text": "Maroon 5",
+            "correct": false,
+            "count": "174",
+            "percent": "28.34%"
+          },
+          {
+            "id": 289748,
+            "text": "The Black Eyed Peas",
+            "correct": false,
+            "count": "135",
+            "percent": "21.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/17",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 305,
+        "incorrect_answers": 309,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 17,
+          "players_left": 276,
+          "players_left_formatted": "276",
+          "num_winners": 156,
+          "num_winners_formatted": "156",
+          "prize": 4.92,
+          "prize_formatted": "$4.92",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 143541,
+        "text": "What term refers to fans of the massively popular YouTube personality who got her start on \"Dance Moms\"?",
+        "question_number": 18,
+        "eliminated": "191",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "85",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289768,
+            "text": "Sparkle Bows",
+            "correct": false,
+            "count": "58",
+            "percent": "21.89%"
+          },
+          {
+            "id": 289775,
+            "text": "JoJo Nation",
+            "correct": false,
+            "count": "122",
+            "percent": "46.04%"
+          },
+          {
+            "id": 289782,
+            "text": "Siwanators",
+            "correct": true,
+            "count": "85",
+            "percent": "32.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/18",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 85,
+        "incorrect_answers": 180,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143557,
+        "text": "The only World League of American Football title won by an American team was won in what country?",
+        "question_number": 19,
+        "eliminated": "55",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "29",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289791,
+            "text": "Netherlands",
+            "correct": false,
+            "count": "17",
+            "percent": "20.73%"
+          },
+          {
+            "id": 289795,
+            "text": "Canada",
+            "correct": true,
+            "count": "31",
+            "percent": "37.8%"
+          },
+          {
+            "id": 289800,
+            "text": "Germany",
+            "correct": false,
+            "count": "34",
+            "percent": "41.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/19",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 31,
+        "incorrect_answers": 51,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143573,
+        "text": "A tabloid once mislabeled a reporter writing for which magazine as Tom Hiddlestonâs new girlfriend?",
+        "question_number": 20,
+        "eliminated": "16",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "9",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289815,
+            "text": "Vanity Fair",
+            "correct": false,
+            "count": "7",
+            "percent": "29.17%"
+          },
+          {
+            "id": 289819,
+            "text": "New York",
+            "correct": false,
+            "count": "8",
+            "percent": "33.33%"
+          },
+          {
+            "id": 289826,
+            "text": "GQ",
+            "correct": true,
+            "count": "9",
+            "percent": "37.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/20",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 9,
+        "incorrect_answers": 15,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 143588,
+        "text": "What was the nationality of the opera composer who wrote in part, \"I have lived for art, I have lived for love\"?",
+        "question_number": 21,
+        "eliminated": "3",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "6",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 289838,
+            "text": "German",
+            "correct": false,
+            "count": "2",
+            "percent": "22.22%"
+          },
+          {
+            "id": 289844,
+            "text": "Austrian",
+            "correct": false,
+            "count": "1",
+            "percent": "11.11%"
+          },
+          {
+            "id": 289850,
+            "text": "Italian",
+            "correct": true,
+            "count": "6",
+            "percent": "66.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-02/2/21",
+        "game_link": "/us/game/2019-09-02/2",
+        "correct_answers": 6,
+        "incorrect_answers": 3,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 21,
+          "players_left": 0,
+          "players_left_formatted": "0",
+          "num_winners": 6,
+          "num_winners_formatted": "6",
+          "prize": 250.0,
+          "prize_formatted": "$250",
+          "currency": "$"
+        },
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1459,
+        "game_id": 130077,
+        "question": "Who has the best job?",
+        "results": [
+          {
+            "id": 8606,
+            "display_count": "48",
+            "vote_count": 20526,
+            "text": "Batman"
+          },
+          {
+            "id": 8616,
+            "display_count": "26",
+            "vote_count": 11158,
+            "text": "Spiderman"
+          },
+          {
+            "id": 8613,
+            "display_count": "26",
+            "vote_count": 11220,
+            "text": "Superman"
+          }
+        ],
+        "created_at": "2019-09-03T01:03:18Z"
+      },
+      {
+        "id": 1473,
+        "game_id": 130077,
+        "question": "Who has the best job?",
+        "results": [
+          {
+            "id": 8709,
+            "display_count": "75",
+            "vote_count": 38407,
+            "text": "Elle Woods"
+          },
+          {
+            "id": 8701,
+            "display_count": "12",
+            "vote_count": 6076,
+            "text": "Ms. Norbury"
+          },
+          {
+            "id": 8704,
+            "display_count": "13",
+            "vote_count": 6819,
+            "text": "Shelley"
+          }
+        ],
+        "created_at": "2019-09-03T01:04:32Z"
+      },
+      {
+        "id": 1466,
+        "game_id": 130077,
+        "question": "Who has the best job?",
+        "results": [
+          {
+            "id": 8666,
+            "display_count": "45",
+            "vote_count": 19020,
+            "text": "Clarice Starling"
+          },
+          {
+            "id": 8654,
+            "display_count": "24",
+            "vote_count": 10191,
+            "text": "Mickey Goldmill"
+          },
+          {
+            "id": 8659,
+            "display_count": "32",
+            "vote_count": 13458,
+            "text": "Vincent Vega"
+          }
+        ],
+        "created_at": "2019-09-03T01:04:01Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 21,
+        "players_left": 0,
+        "players_left_formatted": "0",
+        "num_winners": 6,
+        "num_winners_formatted": "6",
+        "prize": 250.0,
+        "prize_formatted": "$250",
+        "currency": "$"
+      },
+      {
+        "round_number": 9,
+        "players_left": 10660,
+        "players_left_formatted": "10,660",
+        "num_winners": 7312,
+        "num_winners_formatted": "7,312",
+        "prize": 0.21,
+        "prize_formatted": "$0.21",
+        "currency": "$"
+      },
+      {
+        "round_number": 17,
+        "players_left": 276,
+        "players_left_formatted": "276",
+        "num_winners": 156,
+        "num_winners_formatted": "156",
+        "prize": 4.92,
+        "prize_formatted": "$4.92",
+        "currency": "$"
+      },
+      {
+        "round_number": 13,
+        "players_left": 1326,
+        "players_left_formatted": "1,326",
+        "num_winners": 1569,
+        "num_winners_formatted": "1,569",
+        "prize": 1.41,
+        "prize_formatted": "$1.41",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "6,015.33",
+    "total_checkpoint_winners": "9,043",
+    "smallest_checkpoint_prize": "$0.21",
+    "largest_checkpoint_prize": "$250",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

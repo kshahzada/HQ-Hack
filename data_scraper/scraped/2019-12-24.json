@@ -1,0 +1,1241 @@
+[
+  {
+    "id": 142507,
+    "show_id": 13252,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-12-25T02:00:00Z",
+    "direct_link": "/us/game/2019-12-24/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "15",
+      "currency": "$",
+      "average_prize": "66.67"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 160472,
+        "text": "Thanks to its northern location, which of these countries claims to be the home of Santa Claus?",
+        "question_number": 1,
+        "eliminated": "-8,038",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "85,915",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315164,
+            "text": "Italy",
+            "correct": false,
+            "count": "1,907",
+            "percent": "2.62%"
+          },
+          {
+            "id": 315165,
+            "text": "Japan",
+            "correct": false,
+            "count": "990",
+            "percent": "1.36%"
+          },
+          {
+            "id": 315166,
+            "text": "Finland",
+            "correct": true,
+            "count": "69,841",
+            "percent": "96.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/1",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 69841,
+        "incorrect_answers": 2897,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160474,
+        "text": "âSanta Claus Is Comin' To Townâ encourages children to what?",
+        "question_number": 2,
+        "eliminated": "1,387",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "84,660",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315167,
+            "text": "Run for their lives",
+            "correct": false,
+            "count": "598",
+            "percent": "0.81%"
+          },
+          {
+            "id": 315168,
+            "text": "Watch out",
+            "correct": true,
+            "count": "72,706",
+            "percent": "98.64%"
+          },
+          {
+            "id": 315169,
+            "text": "Wreak havoc",
+            "correct": false,
+            "count": "408",
+            "percent": "0.55%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/2",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 72706,
+        "incorrect_answers": 1006,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160476,
+        "text": "Which of these is the name of one of the reindeer in the song âRudolph the Red-Nosed Reindeerâ?",
+        "question_number": 3,
+        "eliminated": "2,782",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "81,930",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315170,
+            "text": "Donner",
+            "correct": true,
+            "count": "71,432",
+            "percent": "96.94%"
+          },
+          {
+            "id": 315171,
+            "text": "Connor",
+            "correct": false,
+            "count": "1,663",
+            "percent": "2.26%"
+          },
+          {
+            "id": 315172,
+            "text": "Honor",
+            "correct": false,
+            "count": "595",
+            "percent": "0.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/3",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 71432,
+        "incorrect_answers": 2258,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160478,
+        "text": "In Ireland, what treat is often left by the chimney for Santa?",
+        "question_number": 4,
+        "eliminated": "18,707",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "63,336",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315173,
+            "text": "Chocolate pudding",
+            "correct": false,
+            "count": "33,498",
+            "percent": "46.99%"
+          },
+          {
+            "id": 315174,
+            "text": "Baguettes",
+            "correct": false,
+            "count": "12,561",
+            "percent": "17.62%"
+          },
+          {
+            "id": 315175,
+            "text": "Guinness",
+            "correct": true,
+            "count": "25,228",
+            "percent": "35.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/4",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 25228,
+        "incorrect_answers": 46059,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160480,
+        "text": "In which classic Christmas special does Santa make a physical appearance?",
+        "question_number": 5,
+        "eliminated": "7,183",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "57,988",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315176,
+            "text": "Charlie Brown Christmas",
+            "correct": false,
+            "count": "5,375",
+            "percent": "9.37%"
+          },
+          {
+            "id": 315177,
+            "text": "Frosty the Snowman",
+            "correct": true,
+            "count": "44,738",
+            "percent": "78.01%"
+          },
+          {
+            "id": 315178,
+            "text": "The Little Drummer Boy",
+            "correct": false,
+            "count": "7,233",
+            "percent": "12.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/5",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 44738,
+        "incorrect_answers": 12608,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160482,
+        "text": "What childâs letter resulted in a famous newspaper letter about the existence of Santa Claus?",
+        "question_number": 6,
+        "eliminated": "10,488",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "48,373",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315179,
+            "text": "Sally Brown",
+            "correct": false,
+            "count": "6,330",
+            "percent": "11.85%"
+          },
+          {
+            "id": 315180,
+            "text": "Virginia O'Hanlon",
+            "correct": true,
+            "count": "43,877",
+            "percent": "82.17%"
+          },
+          {
+            "id": 315181,
+            "text": "Lisa Piper",
+            "correct": false,
+            "count": "3,189",
+            "percent": "5.97%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/6",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 43877,
+        "incorrect_answers": 9519,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 6,
+          "players_left": 41773,
+          "players_left_formatted": "41,773",
+          "num_winners": 7909,
+          "num_winners_formatted": "7,909",
+          "prize": 73.0,
+          "prize_formatted": "73 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160484,
+        "text": "Saint Nicholas is the patron saint of what group?",
+        "question_number": 7,
+        "eliminated": "29,664",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "19,020",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315182,
+            "text": "Pilots",
+            "correct": false,
+            "count": "8,416",
+            "percent": "21.63%"
+          },
+          {
+            "id": 315183,
+            "text": "Mailmen",
+            "correct": false,
+            "count": "23,243",
+            "percent": "59.75%"
+          },
+          {
+            "id": 315184,
+            "text": "Pawnbrokers",
+            "correct": true,
+            "count": "7,244",
+            "percent": "18.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/7",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 7244,
+        "incorrect_answers": 31659,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160486,
+        "text": "Before the popularization of Saint Nicholas, Swedes believed what creature brought presents?",
+        "question_number": 8,
+        "eliminated": "8,525",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "16,013",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315185,
+            "text": "Woodland gnome",
+            "correct": false,
+            "count": "10,087",
+            "percent": "48.33%"
+          },
+          {
+            "id": 315186,
+            "text": "Father Fox",
+            "correct": false,
+            "count": "3,731",
+            "percent": "17.88%"
+          },
+          {
+            "id": 315187,
+            "text": "Yule goat",
+            "correct": true,
+            "count": "7,052",
+            "percent": "33.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/8",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 7052,
+        "incorrect_answers": 13818,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160488,
+        "text": "In Louisiana Cajun culture, PÃ¨re NoÃ«l arrives in a boat towed by what?",
+        "question_number": 9,
+        "eliminated": "3,021",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "15,750",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315188,
+            "text": "Alligators",
+            "correct": true,
+            "count": "10,514",
+            "percent": "63.8%"
+          },
+          {
+            "id": 315189,
+            "text": "Mermaids",
+            "correct": false,
+            "count": "3,103",
+            "percent": "18.83%"
+          },
+          {
+            "id": 315190,
+            "text": "Dolphins",
+            "correct": false,
+            "count": "2,862",
+            "percent": "17.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/9",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 10514,
+        "incorrect_answers": 5965,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160490,
+        "text": "A âwhite elephantâ gift exchange often goes by what alternate name?",
+        "question_number": 10,
+        "eliminated": "1,335",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "15,546",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315191,
+            "text": "Kringle Snaps",
+            "correct": false,
+            "count": "998",
+            "percent": "6.48%"
+          },
+          {
+            "id": 315192,
+            "text": "Claus Claws",
+            "correct": false,
+            "count": "1,270",
+            "percent": "8.24%"
+          },
+          {
+            "id": 315193,
+            "text": "Dirty Santa",
+            "correct": true,
+            "count": "13,140",
+            "percent": "85.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/10",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 13140,
+        "incorrect_answers": 2268,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160492,
+        "text": "What famous filmmaker worked on the remake of âMiracle on 34th Streetâ?",
+        "question_number": 11,
+        "eliminated": "10,928",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "5,163",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315194,
+            "text": "Steven Spielberg",
+            "correct": false,
+            "count": "3,149",
+            "percent": "21.37%"
+          },
+          {
+            "id": 315195,
+            "text": "Garry Marshall",
+            "correct": false,
+            "count": "6,422",
+            "percent": "43.59%"
+          },
+          {
+            "id": 315196,
+            "text": "John Hughes",
+            "correct": true,
+            "count": "5,163",
+            "percent": "35.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/11",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 5163,
+        "incorrect_answers": 9571,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 6704,
+          "players_left_formatted": "6,704",
+          "num_winners": 2790,
+          "num_winners_formatted": "2,790",
+          "prize": 1000.0,
+          "prize_formatted": "1K coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160494,
+        "text": "Who wrote the poem with the line: âHis droll little mouth was drawn up like a bowâ?",
+        "question_number": 12,
+        "eliminated": "5,036",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "3,458",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315197,
+            "text": "Clement Clarke Moore",
+            "correct": true,
+            "count": "3,458",
+            "percent": "54.87%"
+          },
+          {
+            "id": 315198,
+            "text": "Robert Louis Stevenson",
+            "correct": false,
+            "count": "1,896",
+            "percent": "30.09%"
+          },
+          {
+            "id": 315199,
+            "text": "Charles Dickens",
+            "correct": false,
+            "count": "948",
+            "percent": "15.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/12",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 3458,
+        "incorrect_answers": 2844,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160496,
+        "text": "A Santa counterpart named âGrandfather Frostâ was banned by what regime?",
+        "question_number": 13,
+        "eliminated": "2,464",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "2,790",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315200,
+            "text": "Soviet Russia",
+            "correct": true,
+            "count": "2,790",
+            "percent": "54.88%"
+          },
+          {
+            "id": 315201,
+            "text": "Pre-revolutionary China",
+            "correct": false,
+            "count": "864",
+            "percent": "16.99%"
+          },
+          {
+            "id": 315202,
+            "text": "Communist Cuba",
+            "correct": false,
+            "count": "1,430",
+            "percent": "28.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/13",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 2790,
+        "incorrect_answers": 2294,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160498,
+        "text": "The annual celebration âSantaConâ began as what?",
+        "question_number": 14,
+        "eliminated": "2,932",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "1,611",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315203,
+            "text": "Advertising campaign",
+            "correct": false,
+            "count": "487",
+            "percent": "10.86%"
+          },
+          {
+            "id": 315204,
+            "text": "Street theatre",
+            "correct": true,
+            "count": "1,611",
+            "percent": "35.94%"
+          },
+          {
+            "id": 315205,
+            "text": "Bar promotion",
+            "correct": false,
+            "count": "2,385",
+            "percent": "53.2%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/14",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 1611,
+        "incorrect_answers": 2872,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160500,
+        "text": "The town of Santa Claus, Indiana is home to what amusement park?",
+        "question_number": 15,
+        "eliminated": "1,272",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "2,169",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315206,
+            "text": "Santaâs Workshop",
+            "correct": false,
+            "count": "592",
+            "percent": "17.42%"
+          },
+          {
+            "id": 315207,
+            "text": "Holiday World",
+            "correct": true,
+            "count": "2,169",
+            "percent": "63.83%"
+          },
+          {
+            "id": 315208,
+            "text": "Reindeer Land",
+            "correct": false,
+            "count": "637",
+            "percent": "18.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/15",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 2169,
+        "incorrect_answers": 1229,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160502,
+        "text": "Icelandâs Yule Lads leave what in the shoes of naughty children?",
+        "question_number": 16,
+        "eliminated": "648",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "2,101",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315209,
+            "text": "Coal",
+            "correct": false,
+            "count": "290",
+            "percent": "10.59%"
+          },
+          {
+            "id": 315210,
+            "text": "Sticks",
+            "correct": false,
+            "count": "348",
+            "percent": "12.71%"
+          },
+          {
+            "id": 315211,
+            "text": "Potatoes",
+            "correct": true,
+            "count": "2,101",
+            "percent": "76.71%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/16",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 2101,
+        "incorrect_answers": 638,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160504,
+        "text": "Which actor has played Santa Claus the most in both film and television?",
+        "question_number": 17,
+        "eliminated": "873",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "1,503",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315212,
+            "text": "Tim Allen",
+            "correct": false,
+            "count": "661",
+            "percent": "28.28%"
+          },
+          {
+            "id": 315213,
+            "text": "Ed Asner",
+            "correct": true,
+            "count": "1,503",
+            "percent": "64.31%"
+          },
+          {
+            "id": 315214,
+            "text": "Alec Baldwin",
+            "correct": false,
+            "count": "173",
+            "percent": "7.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/17",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 1503,
+        "incorrect_answers": 834,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160506,
+        "text": "Santa-like figure Amu Nowruz does what on the Iranian New Year besides giving gifts?",
+        "question_number": 18,
+        "eliminated": "1,314",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "616",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315215,
+            "text": "Shave his beard",
+            "correct": false,
+            "count": "483",
+            "percent": "29.15%"
+          },
+          {
+            "id": 315216,
+            "text": "See his wife",
+            "correct": true,
+            "count": "616",
+            "percent": "37.18%"
+          },
+          {
+            "id": 315217,
+            "text": "Set off fireworks",
+            "correct": false,
+            "count": "558",
+            "percent": "33.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/18",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 616,
+        "incorrect_answers": 1041,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 18,
+          "players_left": 447,
+          "players_left_formatted": "447",
+          "num_winners": 169,
+          "num_winners_formatted": "169",
+          "prize": 5000.0,
+          "prize_formatted": "5K coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160508,
+        "text": "The author of what book wrote one of the earliest recorded stories of Santaâs elves?",
+        "question_number": 19,
+        "eliminated": "200",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "247",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315218,
+            "text": "Oliver Twist",
+            "correct": false,
+            "count": "93",
+            "percent": "22.09%"
+          },
+          {
+            "id": 315219,
+            "text": "Little Women",
+            "correct": true,
+            "count": "247",
+            "percent": "58.67%"
+          },
+          {
+            "id": 315220,
+            "text": "The Gift of the Magi",
+            "correct": false,
+            "count": "81",
+            "percent": "19.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/19",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 247,
+        "incorrect_answers": 174,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160510,
+        "text": "In Mexico, which of these is a method of delivering a letter to Santa?",
+        "question_number": 20,
+        "eliminated": "222",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "25",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315221,
+            "text": "Burning it",
+            "correct": false,
+            "count": "188",
+            "percent": "78.01%"
+          },
+          {
+            "id": 315222,
+            "text": "Tying it to a balloon",
+            "correct": true,
+            "count": "25",
+            "percent": "10.37%"
+          },
+          {
+            "id": 315223,
+            "text": "Giving it to a pet",
+            "correct": false,
+            "count": "28",
+            "percent": "11.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/20",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 25,
+        "incorrect_answers": 216,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160512,
+        "text": "Saint Nicholasâs German companion Knecht Ruprecht gives children gingerbread if they what?",
+        "question_number": 21,
+        "eliminated": "10",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "15",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315224,
+            "text": "Know their prayers",
+            "correct": true,
+            "count": "15",
+            "percent": "60.0%"
+          },
+          {
+            "id": 315225,
+            "text": "Stay up late",
+            "correct": false,
+            "count": "4",
+            "percent": "16.0%"
+          },
+          {
+            "id": 315226,
+            "text": "Fight St. Nicholas",
+            "correct": false,
+            "count": "6",
+            "percent": "24.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-24/1/21",
+        "game_link": "/us/game/2019-12-24/1",
+        "correct_answers": 15,
+        "incorrect_answers": 10,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [
+      {
+        "round_number": 6,
+        "players_left": 41773,
+        "players_left_formatted": "41,773",
+        "num_winners": 7909,
+        "num_winners_formatted": "7,909",
+        "prize": 73.0,
+        "prize_formatted": "73 coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 11,
+        "players_left": 6704,
+        "players_left_formatted": "6,704",
+        "num_winners": 2790,
+        "num_winners_formatted": "2,790",
+        "prize": 1000.0,
+        "prize_formatted": "1K coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 18,
+        "players_left": 447,
+        "players_left_formatted": "447",
+        "num_winners": 169,
+        "num_winners_formatted": "169",
+        "prize": 5000.0,
+        "prize_formatted": "5K coins",
+        "currency": "coins"
+      }
+    ],
+    "total_checkpoint_prize": "0.00",
+    "total_checkpoint_winners": "10,868",
+    "smallest_checkpoint_prize": "73 coins",
+    "largest_checkpoint_prize": "5K coins",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 142531,
+    "show_id": 13270,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-12-25T02:35:00Z",
+    "direct_link": "/us/game/2019-12-24/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "4,490",
+      "currency": "$",
+      "average_prize": "0.22"
+    },
+    "time": " 9:35 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-12-24/2/1",
+        "question_number": 1,
+        "text": "Shiny Loud Objects",
+        "answer": [
+          "SILVER",
+          "BELLS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"S\""
+        ],
+        "to_reveal_letters": [
+          "V"
+        ],
+        "game_link": "/us/game/2019-12-24/2",
+        "eliminated": 4412,
+        "advancing": 28572,
+        "correct_answers": 28572,
+        "incorrect_answers": 4412
+      },
+      {
+        "direct_link": "/us/game/2019-12-24/2/2",
+        "question_number": 2,
+        "text": "Fifth Gift",
+        "answer": [
+          "GOLDEN",
+          "RINGS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"G\""
+        ],
+        "to_reveal_letters": [
+          "I",
+          "L"
+        ],
+        "game_link": "/us/game/2019-12-24/2",
+        "eliminated": 3050,
+        "advancing": 25877,
+        "correct_answers": 25877,
+        "incorrect_answers": 3050
+      },
+      {
+        "direct_link": "/us/game/2019-12-24/2/3",
+        "question_number": 3,
+        "text": "Christmas Lights Alternative",
+        "answer": [
+          "NOSE",
+          "SO",
+          "BRIGHT"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "G",
+          "S"
+        ],
+        "game_link": "/us/game/2019-12-24/2",
+        "eliminated": 3799,
+        "advancing": 22342,
+        "correct_answers": 22342,
+        "incorrect_answers": 3799
+      },
+      {
+        "direct_link": "/us/game/2019-12-24/2/4",
+        "question_number": 4,
+        "text": "Snowman Song AKA",
+        "answer": [
+          "PARSON",
+          "BROWN"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"P\""
+        ],
+        "to_reveal_letters": [
+          "R"
+        ],
+        "game_link": "/us/game/2019-12-24/2",
+        "eliminated": 10017,
+        "advancing": 12728,
+        "correct_answers": 12728,
+        "incorrect_answers": 10017
+      },
+      {
+        "direct_link": "/us/game/2019-12-24/2/5",
+        "question_number": 5,
+        "text": "Little Lambâs Companion",
+        "answer": [
+          "SHEPHERD",
+          "BOY"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"S\""
+        ],
+        "to_reveal_letters": [
+          "D",
+          "H"
+        ],
+        "game_link": "/us/game/2019-12-24/2",
+        "eliminated": 3512,
+        "advancing": 10444,
+        "correct_answers": 10444,
+        "incorrect_answers": 3512
+      },
+      {
+        "direct_link": "/us/game/2019-12-24/2/6",
+        "question_number": 6,
+        "text": "\"Reining\" It In",
+        "answer": [
+          "VIXEN",
+          "&",
+          "BLITZEN"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"&\"",
+          "\"V\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "N"
+        ],
+        "game_link": "/us/game/2019-12-24/2",
+        "eliminated": 1133,
+        "advancing": 9879,
+        "correct_answers": 9879,
+        "incorrect_answers": 1133
+      },
+      {
+        "direct_link": "/us/game/2019-12-24/2/7",
+        "question_number": 7,
+        "text": "Annual Lists",
+        "answer": [
+          "NAUGHTY",
+          "&",
+          "NICE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"&\"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2019-12-24/2",
+        "eliminated": 205,
+        "advancing": 9886,
+        "correct_answers": 9886,
+        "incorrect_answers": 205
+      },
+      {
+        "direct_link": "/us/game/2019-12-24/2/8",
+        "question_number": 8,
+        "text": "Well-Worn Path",
+        "answer": [
+          "DOWN",
+          "THE",
+          "CHIMNEY"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "Y"
+        ],
+        "game_link": "/us/game/2019-12-24/2",
+        "eliminated": 1495,
+        "advancing": 8426,
+        "correct_answers": 8426,
+        "incorrect_answers": 1495
+      },
+      {
+        "direct_link": "/us/game/2019-12-24/2/9",
+        "question_number": 9,
+        "text": "Musical Request",
+        "answer": [
+          "HANG",
+          "ALL",
+          "THE",
+          "MISTLETOE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"L\""
+        ],
+        "to_reveal_letters": [
+          "E"
+        ],
+        "game_link": "/us/game/2019-12-24/2",
+        "eliminated": 4526,
+        "advancing": 4264,
+        "correct_answers": 4264,
+        "incorrect_answers": 4526
+      },
+      {
+        "direct_link": "/us/game/2019-12-24/2/10",
+        "question_number": 10,
+        "text": "Jack Frost Hobby?",
+        "answer": [
+          "NIPPING",
+          "AT",
+          "YOUR",
+          "NOSE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "T"
+        ],
+        "game_link": "/us/game/2019-12-24/2",
+        "eliminated": 978,
+        "advancing": 4771,
+        "correct_answers": 4771,
+        "incorrect_answers": 978
+      },
+      {
+        "direct_link": "/us/game/2019-12-24/2/11",
+        "question_number": 11,
+        "text": "Controversial Classic",
+        "answer": [
+          "BABY",
+          "ITâS",
+          "COLD",
+          "OUTSIDE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"â\"",
+          "\"I\""
+        ],
+        "to_reveal_letters": [
+          "O"
+        ],
+        "game_link": "/us/game/2019-12-24/2",
+        "eliminated": 295,
+        "advancing": 4754,
+        "correct_answers": 4754,
+        "incorrect_answers": 295
+      },
+      {
+        "direct_link": "/us/game/2019-12-24/2/12",
+        "question_number": 12,
+        "text": "Budget-Friendly Wish-list",
+        "answer": [
+          "ALL",
+          "I",
+          "WANT",
+          "FOR",
+          "CHRISTMAS",
+          "IS",
+          "YOU"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"A\""
+        ],
+        "to_reveal_letters": [
+          "C"
+        ],
+        "game_link": "/us/game/2019-12-24/2",
+        "eliminated": 388,
+        "advancing": 4490,
+        "correct_answers": 4490,
+        "incorrect_answers": 388
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": null
+  }
+]

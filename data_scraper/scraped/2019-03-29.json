@@ -1,0 +1,794 @@
+[
+  {
+    "id": 90719,
+    "show_id": 10206,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-03-30T01:00:00Z",
+    "direct_link": "/us/game/2019-03-29/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,525",
+      "currency": "$",
+      "average_prize": "3.28"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 93780,
+        "text": "According to an old saying, âYou canât teach an old dogâ what?",
+        "question_number": 1,
+        "eliminated": "-12,083",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "271,238",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215144,
+            "text": "Spanish",
+            "correct": false,
+            "count": "3,446",
+            "percent": "1.33%"
+          },
+          {
+            "id": 215145,
+            "text": "New tricks",
+            "correct": true,
+            "count": "254,573",
+            "percent": "98.23%"
+          },
+          {
+            "id": 215146,
+            "text": "AP Calculus",
+            "correct": false,
+            "count": "1,136",
+            "percent": "0.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-29/1/1",
+        "game_link": "/us/game/2019-03-29/1",
+        "correct_answers": 254573,
+        "incorrect_answers": 4582,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 93797,
+        "text": "Astronomers believe what event created the universe?",
+        "question_number": 2,
+        "eliminated": "1,938",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "270,561",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215170,
+            "text": "The Wig Gang",
+            "correct": false,
+            "count": "779",
+            "percent": "0.29%"
+          },
+          {
+            "id": 215172,
+            "text": "The Yin Yang",
+            "correct": false,
+            "count": "5,404",
+            "percent": "2.05%"
+          },
+          {
+            "id": 215173,
+            "text": "The Big Bang",
+            "correct": true,
+            "count": "257,917",
+            "percent": "97.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-29/1/2",
+        "game_link": "/us/game/2019-03-29/1",
+        "correct_answers": 257917,
+        "incorrect_answers": 6183,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 93814,
+        "text": "Which US state consists entirely of islands?",
+        "question_number": 3,
+        "eliminated": "1,789",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "269,160",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215196,
+            "text": "Maine",
+            "correct": false,
+            "count": "1,547",
+            "percent": "0.59%"
+          },
+          {
+            "id": 215200,
+            "text": "Hawaii",
+            "correct": true,
+            "count": "258,940",
+            "percent": "98.56%"
+          },
+          {
+            "id": 215202,
+            "text": "Alaska",
+            "correct": false,
+            "count": "2,246",
+            "percent": "0.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-29/1/3",
+        "game_link": "/us/game/2019-03-29/1",
+        "correct_answers": 258940,
+        "incorrect_answers": 3793,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 93828,
+        "text": "Which of these artists was a cubist?",
+        "question_number": 4,
+        "eliminated": "15,818",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "253,594",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215214,
+            "text": "Claude Monet",
+            "correct": false,
+            "count": "32,741",
+            "percent": "12.58%"
+          },
+          {
+            "id": 215217,
+            "text": "Georges Seurat",
+            "correct": false,
+            "count": "51,059",
+            "percent": "19.61%"
+          },
+          {
+            "id": 215221,
+            "text": "Pablo Picasso",
+            "correct": true,
+            "count": "176,522",
+            "percent": "67.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-29/1/4",
+        "game_link": "/us/game/2019-03-29/1",
+        "correct_answers": 176522,
+        "incorrect_answers": 83800,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 93846,
+        "text": "âGrittyâ is the mascot for what NHL team?",
+        "question_number": 5,
+        "eliminated": "26,747",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "231,618",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215243,
+            "text": "Rangers",
+            "correct": false,
+            "count": "55,417",
+            "percent": "22.38%"
+          },
+          {
+            "id": 215245,
+            "text": "Penguins",
+            "correct": false,
+            "count": "41,133",
+            "percent": "16.61%"
+          },
+          {
+            "id": 215248,
+            "text": "Flyers",
+            "correct": true,
+            "count": "151,118",
+            "percent": "61.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-29/1/5",
+        "game_link": "/us/game/2019-03-29/1",
+        "correct_answers": 151118,
+        "incorrect_answers": 96550,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 93862,
+        "text": "Which of these is an example of Korean food?",
+        "question_number": 6,
+        "eliminated": "73,703",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "163,600",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215267,
+            "text": "Banh mi",
+            "correct": false,
+            "count": "49,772",
+            "percent": "21.73%"
+          },
+          {
+            "id": 215269,
+            "text": "Bao",
+            "correct": false,
+            "count": "58,939",
+            "percent": "25.73%"
+          },
+          {
+            "id": 215273,
+            "text": "Bibimbap",
+            "correct": true,
+            "count": "120,337",
+            "percent": "52.54%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-29/1/6",
+        "game_link": "/us/game/2019-03-29/1",
+        "correct_answers": 120337,
+        "incorrect_answers": 108711,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 93879,
+        "text": "At the end of this video, what film do they see?",
+        "question_number": 7,
+        "eliminated": "63,467",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "110,407",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215292,
+            "text": "King Kong",
+            "correct": false,
+            "count": "32,044",
+            "percent": "18.88%"
+          },
+          {
+            "id": 215294,
+            "text": "The Chronicles of Narnia",
+            "correct": true,
+            "count": "110,394",
+            "percent": "65.03%"
+          },
+          {
+            "id": 215296,
+            "text": "Revenge of the Sith",
+            "correct": false,
+            "count": "27,309",
+            "percent": "16.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-29/1/7",
+        "game_link": "/us/game/2019-03-29/1",
+        "correct_answers": 110394,
+        "incorrect_answers": 59353,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 93892,
+        "text": "Who is the final boss in the original Mortal Kombat?",
+        "question_number": 8,
+        "eliminated": "73,535",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "43,849",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215310,
+            "text": "Shang Tsung",
+            "correct": true,
+            "count": "43,847",
+            "percent": "38.43%"
+          },
+          {
+            "id": 215312,
+            "text": "Shao Kahn",
+            "correct": false,
+            "count": "37,567",
+            "percent": "32.92%"
+          },
+          {
+            "id": 215316,
+            "text": "Goro",
+            "correct": false,
+            "count": "32,696",
+            "percent": "28.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-29/1/8",
+        "game_link": "/us/game/2019-03-29/1",
+        "correct_answers": 43847,
+        "incorrect_answers": 70263,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 93907,
+        "text": "What US bill does NOT feature a portrait of a character from the hit musical âHamiltonâ?",
+        "question_number": 9,
+        "eliminated": "40,402",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "19,083",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215333,
+            "text": "$1",
+            "correct": false,
+            "count": "9,808",
+            "percent": "17.26%"
+          },
+          {
+            "id": 215336,
+            "text": "$2",
+            "correct": false,
+            "count": "27,928",
+            "percent": "49.15%"
+          },
+          {
+            "id": 215341,
+            "text": "$100",
+            "correct": true,
+            "count": "19,083",
+            "percent": "33.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-29/1/9",
+        "game_link": "/us/game/2019-03-29/1",
+        "correct_answers": 19083,
+        "incorrect_answers": 37736,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 93924,
+        "text": "In Pixarâs âFinding Dory,â who performs the voice of a pinniped?",
+        "question_number": 10,
+        "eliminated": "20,088",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "7,291",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215358,
+            "text": "Ed OâNeill",
+            "correct": false,
+            "count": "7,539",
+            "percent": "30.64%"
+          },
+          {
+            "id": 215361,
+            "text": "Idris Elba",
+            "correct": true,
+            "count": "7,291",
+            "percent": "29.63%"
+          },
+          {
+            "id": 215365,
+            "text": "Bill Hader",
+            "correct": false,
+            "count": "9,773",
+            "percent": "39.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-29/1/10",
+        "game_link": "/us/game/2019-03-29/1",
+        "correct_answers": 7291,
+        "incorrect_answers": 17312,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 93939,
+        "text": "Aureolin pigment mixed with cerulean pigment makes approximately what kind of pigment?",
+        "question_number": 11,
+        "eliminated": "8,067",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "2,866",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215381,
+            "text": "Smaragdine",
+            "correct": true,
+            "count": "2,866",
+            "percent": "26.67%"
+          },
+          {
+            "id": 215385,
+            "text": "Fulvous",
+            "correct": false,
+            "count": "2,384",
+            "percent": "22.18%"
+          },
+          {
+            "id": 215390,
+            "text": "Heliotrope",
+            "correct": false,
+            "count": "5,496",
+            "percent": "51.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-29/1/11",
+        "game_link": "/us/game/2019-03-29/1",
+        "correct_answers": 2866,
+        "incorrect_answers": 7880,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 93956,
+        "text": "What avenue in the Bronx contains the acknowledged birthplace of hip-hop culture?",
+        "question_number": 12,
+        "eliminated": "2,889",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "1,525",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215406,
+            "text": "Sedgwick",
+            "correct": true,
+            "count": "1,525",
+            "percent": "35.0%"
+          },
+          {
+            "id": 215409,
+            "text": "Westchester",
+            "correct": false,
+            "count": "1,202",
+            "percent": "27.59%"
+          },
+          {
+            "id": 215414,
+            "text": "Rosedale",
+            "correct": false,
+            "count": "1,630",
+            "percent": "37.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-29/1/12",
+        "game_link": "/us/game/2019-03-29/1",
+        "correct_answers": 1525,
+        "incorrect_answers": 2832,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 90840,
+    "show_id": 10250,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-03-30T01:30:00Z",
+    "direct_link": "/us/game/2019-03-29/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "25,873",
+      "currency": "$",
+      "average_prize": "0.04"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-03-29/2/1",
+        "question_number": 1,
+        "text": "Rock Instrument",
+        "answer": [
+          "BASS",
+          "GUITAR"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "G"
+        ],
+        "game_link": "/us/game/2019-03-29/2",
+        "eliminated": 13501,
+        "advancing": 124936,
+        "correct_answers": 124936,
+        "incorrect_answers": 13501
+      },
+      {
+        "direct_link": "/us/game/2019-03-29/2/2",
+        "question_number": 2,
+        "text": "Zoo Attraction",
+        "answer": [
+          "GIANT",
+          "PANDA"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "P"
+        ],
+        "game_link": "/us/game/2019-03-29/2",
+        "eliminated": 11382,
+        "advancing": 114785,
+        "correct_answers": 114785,
+        "incorrect_answers": 11382
+      },
+      {
+        "direct_link": "/us/game/2019-03-29/2/3",
+        "question_number": 3,
+        "text": "Super in Love",
+        "answer": [
+          "HEAD",
+          "OVER",
+          "HEELS"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "R"
+        ],
+        "game_link": "/us/game/2019-03-29/2",
+        "eliminated": 26523,
+        "advancing": 88887,
+        "correct_answers": 88887,
+        "incorrect_answers": 26523
+      },
+      {
+        "direct_link": "/us/game/2019-03-29/2/4",
+        "question_number": 4,
+        "text": "Total Agreement",
+        "answer": [
+          "SEEING",
+          "EYE",
+          "TO",
+          "EYE"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "O"
+        ],
+        "game_link": "/us/game/2019-03-29/2",
+        "eliminated": 16526,
+        "advancing": 74671,
+        "correct_answers": 74671,
+        "incorrect_answers": 16526
+      },
+      {
+        "direct_link": "/us/game/2019-03-29/2/5",
+        "question_number": 5,
+        "text": "Very Punk Hairdo",
+        "answer": [
+          "HOT",
+          "PINK",
+          "MOHAWK"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "K",
+          "T"
+        ],
+        "game_link": "/us/game/2019-03-29/2",
+        "eliminated": 9868,
+        "advancing": 66302,
+        "correct_answers": 66302,
+        "incorrect_answers": 9868
+      },
+      {
+        "direct_link": "/us/game/2019-03-29/2/6",
+        "question_number": 6,
+        "text": "Regional Dessert",
+        "answer": [
+          "BOSTON",
+          "CREAM",
+          "PIE"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "S"
+        ],
+        "game_link": "/us/game/2019-03-29/2",
+        "eliminated": 13172,
+        "advancing": 54258,
+        "correct_answers": 54258,
+        "incorrect_answers": 13172
+      },
+      {
+        "direct_link": "/us/game/2019-03-29/2/7",
+        "question_number": 7,
+        "text": "Spelled-Out Acronym",
+        "answer": [
+          "TALK",
+          "TO",
+          "YOU",
+          "LATER"
+        ],
+        "initial_letters": [
+          " ",
+          "K"
+        ],
+        "to_reveal_letters": [
+          "R",
+          "T"
+        ],
+        "game_link": "/us/game/2019-03-29/2",
+        "eliminated": 2818,
+        "advancing": 53505,
+        "correct_answers": 53505,
+        "incorrect_answers": 2818
+      },
+      {
+        "direct_link": "/us/game/2019-03-29/2/8",
+        "question_number": 8,
+        "text": "â80s Fashion Trend",
+        "answer": [
+          "FINGERLESS",
+          "GLOVES"
+        ],
+        "initial_letters": [
+          " ",
+          "F"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "R"
+        ],
+        "game_link": "/us/game/2019-03-29/2",
+        "eliminated": 9714,
+        "advancing": 44303,
+        "correct_answers": 44303,
+        "incorrect_answers": 9714
+      },
+      {
+        "direct_link": "/us/game/2019-03-29/2/9",
+        "question_number": 9,
+        "text": "Convenient Amenities",
+        "answer": [
+          "STACKABLE",
+          "WASHER",
+          "&",
+          "DRYER"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-03-29/2",
+        "eliminated": 20263,
+        "advancing": 26414,
+        "correct_answers": 26414,
+        "incorrect_answers": 20263
+      },
+      {
+        "direct_link": "/us/game/2019-03-29/2/10",
+        "question_number": 10,
+        "text": "Messy Activity",
+        "answer": [
+          "CHICKEN",
+          "WING",
+          "EATING",
+          "CONTEST"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "K"
+        ],
+        "game_link": "/us/game/2019-03-29/2",
+        "eliminated": 6739,
+        "advancing": 25873,
+        "correct_answers": 25873,
+        "incorrect_answers": 6739
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

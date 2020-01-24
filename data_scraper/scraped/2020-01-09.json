@@ -1,0 +1,1240 @@
+[
+  {
+    "id": 143029,
+    "show_id": 13316,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2020-01-10T02:00:00Z",
+    "direct_link": "/us/game/2020-01-09/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "789",
+      "currency": "$",
+      "average_prize": "1.27"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 161236,
+        "text": "Who directed five films in the âTransformersâ series?",
+        "question_number": 1,
+        "eliminated": "-6,617",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "86,748",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316310,
+            "text": "Michael Bay",
+            "correct": true,
+            "count": "70,058",
+            "percent": "90.37%"
+          },
+          {
+            "id": 316311,
+            "text": "Alfred Hitchcock",
+            "correct": false,
+            "count": "1,553",
+            "percent": "2.0%"
+          },
+          {
+            "id": 316312,
+            "text": "Quentin Tarantino",
+            "correct": false,
+            "count": "5,909",
+            "percent": "7.62%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/1",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 70058,
+        "incorrect_answers": 7462,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161238,
+        "text": "Which cartoon character typically wears gloves?",
+        "question_number": 2,
+        "eliminated": "1,019",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "85,880",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316313,
+            "text": "Mickey Mouse",
+            "correct": true,
+            "count": "76,359",
+            "percent": "98.51%"
+          },
+          {
+            "id": 316314,
+            "text": "Homer Simpson",
+            "correct": false,
+            "count": "287",
+            "percent": "0.37%"
+          },
+          {
+            "id": 316315,
+            "text": "SpongeBob SquarePants",
+            "correct": false,
+            "count": "868",
+            "percent": "1.12%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/2",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 76359,
+        "incorrect_answers": 1155,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161240,
+        "text": "Which novelâs protagonist notoriously calls people âphonyâ?",
+        "question_number": 3,
+        "eliminated": "6,017",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "79,895",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316316,
+            "text": "The Bell Jar",
+            "correct": false,
+            "count": "4,138",
+            "percent": "5.42%"
+          },
+          {
+            "id": 316317,
+            "text": "The Outsiders",
+            "correct": false,
+            "count": "22,455",
+            "percent": "29.43%"
+          },
+          {
+            "id": 316318,
+            "text": "The Catcher in the Rye",
+            "correct": true,
+            "count": "49,710",
+            "percent": "65.15%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/3",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 49710,
+        "incorrect_answers": 26593,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161242,
+        "text": "Which musician earned the nickname âMr. Showmanshipâ?",
+        "question_number": 4,
+        "eliminated": "13,337",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "67,007",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316319,
+            "text": "Freddie Mercury",
+            "correct": false,
+            "count": "8,919",
+            "percent": "12.3%"
+          },
+          {
+            "id": 316320,
+            "text": "Elton John",
+            "correct": false,
+            "count": "14,145",
+            "percent": "19.5%"
+          },
+          {
+            "id": 316321,
+            "text": "Liberace",
+            "correct": true,
+            "count": "49,461",
+            "percent": "68.2%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/4",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 49461,
+        "incorrect_answers": 23064,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161244,
+        "text": "Who was the primary author of the Monroe Doctrine?",
+        "question_number": 5,
+        "eliminated": "24,792",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "43,557",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316322,
+            "text": "Alexander Hamilton",
+            "correct": false,
+            "count": "24,715",
+            "percent": "38.83%"
+          },
+          {
+            "id": 316323,
+            "text": "James Monroe",
+            "correct": false,
+            "count": "22,292",
+            "percent": "35.02%"
+          },
+          {
+            "id": 316324,
+            "text": "John Quincy Adams",
+            "correct": true,
+            "count": "16,648",
+            "percent": "26.15%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/5",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 16648,
+        "incorrect_answers": 47007,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161246,
+        "text": "Which state capital is home to a presidential library?",
+        "question_number": 6,
+        "eliminated": "7,768",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "40,351",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316325,
+            "text": "Little Rock",
+            "correct": true,
+            "count": "36,302",
+            "percent": "79.28%"
+          },
+          {
+            "id": 316326,
+            "text": "Hartford",
+            "correct": false,
+            "count": "5,550",
+            "percent": "12.12%"
+          },
+          {
+            "id": 316327,
+            "text": "Albany",
+            "correct": false,
+            "count": "3,936",
+            "percent": "8.6%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/6",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 36302,
+        "incorrect_answers": 9486,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 6,
+          "players_left": 30348,
+          "players_left_formatted": "30,348",
+          "num_winners": 11531,
+          "num_winners_formatted": "11,531",
+          "prize": 111.0,
+          "prize_formatted": "111 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 161248,
+        "text": "What football player was famous for calling audibles before a snap?",
+        "question_number": 7,
+        "eliminated": "15,383",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "25,499",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316328,
+            "text": "Peyton Manning",
+            "correct": true,
+            "count": "19,508",
+            "percent": "67.36%"
+          },
+          {
+            "id": 316329,
+            "text": "Antonio Brown",
+            "correct": false,
+            "count": "7,580",
+            "percent": "26.17%"
+          },
+          {
+            "id": 316330,
+            "text": "Rob Gronkowski",
+            "correct": false,
+            "count": "1,874",
+            "percent": "6.47%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/7",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 19508,
+        "incorrect_answers": 9454,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161250,
+        "text": "Which country has its national tree on its flag?",
+        "question_number": 8,
+        "eliminated": "2,991",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "24,531",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316331,
+            "text": "Mexico",
+            "correct": false,
+            "count": "1,203",
+            "percent": "4.76%"
+          },
+          {
+            "id": 316332,
+            "text": "Lebanon",
+            "correct": true,
+            "count": "21,594",
+            "percent": "85.47%"
+          },
+          {
+            "id": 316333,
+            "text": "Eritrea",
+            "correct": false,
+            "count": "2,469",
+            "percent": "9.77%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/8",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 21594,
+        "incorrect_answers": 3672,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161252,
+        "text": "Which of these garments was known as a âfarthingaleâ in the 16th century?",
+        "question_number": 9,
+        "eliminated": "12,711",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "12,702",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316334,
+            "text": "Hoop skirt",
+            "correct": true,
+            "count": "3,663",
+            "percent": "15.89%"
+          },
+          {
+            "id": 316335,
+            "text": "Corset",
+            "correct": false,
+            "count": "9,989",
+            "percent": "43.32%"
+          },
+          {
+            "id": 316336,
+            "text": "Cape",
+            "correct": false,
+            "count": "9,407",
+            "percent": "40.8%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/9",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 3663,
+        "incorrect_answers": 19396,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161254,
+        "text": "Which animated Disney film was released first?",
+        "question_number": 10,
+        "eliminated": "7,257",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "11,225",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316337,
+            "text": "Lady and the Tramp",
+            "correct": false,
+            "count": "1,723",
+            "percent": "9.95%"
+          },
+          {
+            "id": 316338,
+            "text": "Peter Pan",
+            "correct": true,
+            "count": "5,312",
+            "percent": "30.69%"
+          },
+          {
+            "id": 316339,
+            "text": "Sleeping Beauty",
+            "correct": false,
+            "count": "10,276",
+            "percent": "59.36%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/10",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 5312,
+        "incorrect_answers": 11999,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161256,
+        "text": "Which industrialist's company was broken up for violating antitrust laws?",
+        "question_number": 11,
+        "eliminated": "6,397",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "8,898",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316340,
+            "text": "John D. Rockefeller",
+            "correct": true,
+            "count": "8,898",
+            "percent": "62.88%"
+          },
+          {
+            "id": 316341,
+            "text": "Henry Ford",
+            "correct": false,
+            "count": "759",
+            "percent": "5.36%"
+          },
+          {
+            "id": 316342,
+            "text": "Andrew Carnegie",
+            "correct": false,
+            "count": "4,493",
+            "percent": "31.75%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/11",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 8898,
+        "incorrect_answers": 5252,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 6838,
+          "players_left_formatted": "6,838",
+          "num_winners": 4624,
+          "num_winners_formatted": "4,624",
+          "prize": 506.0,
+          "prize_formatted": "506 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 161258,
+        "text": "Which Hitchcock film was an adaptation?",
+        "question_number": 12,
+        "eliminated": "6,722",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "3,741",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316343,
+            "text": "Psycho",
+            "correct": true,
+            "count": "3,741",
+            "percent": "55.64%"
+          },
+          {
+            "id": 316344,
+            "text": "Mr. and Mrs. Smith",
+            "correct": false,
+            "count": "843",
+            "percent": "12.54%"
+          },
+          {
+            "id": 316345,
+            "text": "North by Northwest",
+            "correct": false,
+            "count": "2,139",
+            "percent": "31.82%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/12",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 3741,
+        "incorrect_answers": 2982,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161260,
+        "text": "What restaurant chain features âdouble-whipped shmearâ on their menu?",
+        "question_number": 13,
+        "eliminated": "715",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "5,000",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316346,
+            "text": "Nathan's Famous",
+            "correct": false,
+            "count": "275",
+            "percent": "4.85%"
+          },
+          {
+            "id": 316347,
+            "text": "Chester's",
+            "correct": false,
+            "count": "396",
+            "percent": "6.98%"
+          },
+          {
+            "id": 316348,
+            "text": "Einstein Bros.",
+            "correct": true,
+            "count": "5,000",
+            "percent": "88.17%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/13",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 5000,
+        "incorrect_answers": 671,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161262,
+        "text": "What folk hero actually served as an elected government official?",
+        "question_number": 14,
+        "eliminated": "452",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "5,100",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316349,
+            "text": "Davy Crockett",
+            "correct": true,
+            "count": "5,100",
+            "percent": "92.36%"
+          },
+          {
+            "id": 316350,
+            "text": "Paul Bunyan",
+            "correct": false,
+            "count": "105",
+            "percent": "1.9%"
+          },
+          {
+            "id": 316351,
+            "text": "Jesse James",
+            "correct": false,
+            "count": "317",
+            "percent": "5.74%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/14",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 5100,
+        "incorrect_answers": 422,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161264,
+        "text": "What is a more common name for the âmaniacal cackle frogâ?",
+        "question_number": 15,
+        "eliminated": "2,567",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "2,834",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316352,
+            "text": "Poison dart frog",
+            "correct": false,
+            "count": "1,681",
+            "percent": "31.62%"
+          },
+          {
+            "id": 316353,
+            "text": "African dwarf frog",
+            "correct": false,
+            "count": "801",
+            "percent": "15.07%"
+          },
+          {
+            "id": 316354,
+            "text": "Peron's tree frog",
+            "correct": true,
+            "count": "2,834",
+            "percent": "53.31%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/15",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 2834,
+        "incorrect_answers": 2482,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161266,
+        "text": "Which Weezer music video was directed by an Academy Award winner?",
+        "question_number": 16,
+        "eliminated": "1,528",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "3,218",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316355,
+            "text": "Say It Ain't So",
+            "correct": false,
+            "count": "372",
+            "percent": "7.89%"
+          },
+          {
+            "id": 316356,
+            "text": "Buddy Holly",
+            "correct": true,
+            "count": "3,218",
+            "percent": "68.24%"
+          },
+          {
+            "id": 316357,
+            "text": "Beverly Hills",
+            "correct": false,
+            "count": "1,126",
+            "percent": "23.88%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/16",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 3218,
+        "incorrect_answers": 1498,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161268,
+        "text": "What countryâs national sport involves getting a goat into a goal?",
+        "question_number": 17,
+        "eliminated": "1,500",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,668",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316358,
+            "text": "Palestine",
+            "correct": false,
+            "count": "804",
+            "percent": "19.64%"
+          },
+          {
+            "id": 316359,
+            "text": "Iran",
+            "correct": false,
+            "count": "622",
+            "percent": "15.19%"
+          },
+          {
+            "id": 316360,
+            "text": "Afghanistan",
+            "correct": true,
+            "count": "2,668",
+            "percent": "65.17%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/17",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 2668,
+        "incorrect_answers": 1426,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161270,
+        "text": "What is Lynyrd Skynyrdâs only top-ten single on the Billboard Hot 100?",
+        "question_number": 18,
+        "eliminated": "1,001",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "2,700",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316361,
+            "text": "What's Your Name",
+            "correct": false,
+            "count": "447",
+            "percent": "12.34%"
+          },
+          {
+            "id": 316362,
+            "text": "Sweet Home Alabama",
+            "correct": true,
+            "count": "2,700",
+            "percent": "74.52%"
+          },
+          {
+            "id": 316363,
+            "text": "Free Bird",
+            "correct": false,
+            "count": "476",
+            "percent": "13.14%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/18",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 2700,
+        "incorrect_answers": 923,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 18,
+          "players_left": 2355,
+          "players_left_formatted": "2,355",
+          "num_winners": 345,
+          "num_winners_formatted": "345",
+          "prize": 556.0,
+          "prize_formatted": "556 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 161272,
+        "text": "What figure sent a letter from prison opposing the Korean War?",
+        "question_number": 19,
+        "eliminated": "771",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "1,584",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316364,
+            "text": "Malcolm X",
+            "correct": true,
+            "count": "1,584",
+            "percent": "68.31%"
+          },
+          {
+            "id": 316365,
+            "text": "Martin Luther King, Jr.",
+            "correct": false,
+            "count": "529",
+            "percent": "22.81%"
+          },
+          {
+            "id": 316366,
+            "text": "Huey Newton",
+            "correct": false,
+            "count": "206",
+            "percent": "8.88%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/19",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 1584,
+        "incorrect_answers": 735,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161274,
+        "text": "Which President was once the head of a union?",
+        "question_number": 20,
+        "eliminated": "301",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "1,283",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316367,
+            "text": "Jimmy Carter",
+            "correct": false,
+            "count": "42",
+            "percent": "2.67%"
+          },
+          {
+            "id": 316368,
+            "text": "John F. Kennedy",
+            "correct": false,
+            "count": "248",
+            "percent": "15.77%"
+          },
+          {
+            "id": 316369,
+            "text": "Ronald Reagan",
+            "correct": true,
+            "count": "1,283",
+            "percent": "81.56%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/20",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 1283,
+        "incorrect_answers": 290,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161276,
+        "text": "What two artists performed together in a long-running series of shows?",
+        "question_number": 21,
+        "eliminated": "494",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "789",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316370,
+            "text": "Billy Joel / Sting",
+            "correct": false,
+            "count": "413",
+            "percent": "32.57%"
+          },
+          {
+            "id": 316371,
+            "text": "Billy Joel / Elton John",
+            "correct": true,
+            "count": "789",
+            "percent": "62.22%"
+          },
+          {
+            "id": 316372,
+            "text": "Billy Joel / Bob Dylan",
+            "correct": false,
+            "count": "66",
+            "percent": "5.21%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-09/1/21",
+        "game_link": "/us/game/2020-01-09/1",
+        "correct_answers": 789,
+        "incorrect_answers": 479,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [
+      {
+        "round_number": 6,
+        "players_left": 30348,
+        "players_left_formatted": "30,348",
+        "num_winners": 11531,
+        "num_winners_formatted": "11,531",
+        "prize": 111.0,
+        "prize_formatted": "111 coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 11,
+        "players_left": 6838,
+        "players_left_formatted": "6,838",
+        "num_winners": 4624,
+        "num_winners_formatted": "4,624",
+        "prize": 506.0,
+        "prize_formatted": "506 coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 18,
+        "players_left": 2355,
+        "players_left_formatted": "2,355",
+        "num_winners": 345,
+        "num_winners_formatted": "345",
+        "prize": 556.0,
+        "prize_formatted": "556 coins",
+        "currency": "coins"
+      }
+    ],
+    "total_checkpoint_prize": "0.00",
+    "total_checkpoint_winners": "16,500",
+    "smallest_checkpoint_prize": "111 coins",
+    "largest_checkpoint_prize": "556 coins",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 143053,
+    "show_id": 13384,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2020-01-10T02:30:00Z",
+    "direct_link": "/us/game/2020-01-09/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "3,287",
+      "currency": "$",
+      "average_prize": "0.30"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2020-01-09/2/1",
+        "question_number": 1,
+        "text": "Skater Boy",
+        "answer": [
+          "BART",
+          "SIMPSON"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"B\""
+        ],
+        "to_reveal_letters": [
+          "M",
+          "N"
+        ],
+        "game_link": "/us/game/2020-01-09/2",
+        "eliminated": 7551,
+        "advancing": 30565,
+        "correct_answers": 30565,
+        "incorrect_answers": 7551
+      },
+      {
+        "direct_link": "/us/game/2020-01-09/2/2",
+        "question_number": 2,
+        "text": "Drums and Similar",
+        "answer": [
+          "RHYTHM",
+          "SECTION"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"R\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2020-01-09/2",
+        "eliminated": 14023,
+        "advancing": 17400,
+        "correct_answers": 17400,
+        "incorrect_answers": 14023
+      },
+      {
+        "direct_link": "/us/game/2020-01-09/2/3",
+        "question_number": 3,
+        "text": "Neanderthals, For Example",
+        "answer": [
+          "EXTINCT",
+          "HUMANS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"E\""
+        ],
+        "to_reveal_letters": [
+          "U",
+          "X"
+        ],
+        "game_link": "/us/game/2020-01-09/2",
+        "eliminated": 3468,
+        "advancing": 15317,
+        "correct_answers": 15317,
+        "incorrect_answers": 3468
+      },
+      {
+        "direct_link": "/us/game/2020-01-09/2/4",
+        "question_number": 4,
+        "text": "Cosmopolitan Reading",
+        "answer": [
+          "NEW",
+          "YORKER",
+          "MAGAZINE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "K",
+          "M"
+        ],
+        "game_link": "/us/game/2020-01-09/2",
+        "eliminated": 3766,
+        "advancing": 11946,
+        "correct_answers": 11946,
+        "incorrect_answers": 3766
+      },
+      {
+        "direct_link": "/us/game/2020-01-09/2/5",
+        "question_number": 5,
+        "text": "Malls & Mauls",
+        "answer": [
+          "DAWN",
+          "OF",
+          "THE",
+          "DEAD"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"D\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "T"
+        ],
+        "game_link": "/us/game/2020-01-09/2",
+        "eliminated": 977,
+        "advancing": 11505,
+        "correct_answers": 11505,
+        "incorrect_answers": 977
+      },
+      {
+        "direct_link": "/us/game/2020-01-09/2/6",
+        "question_number": 6,
+        "text": "Place With Amber Waves",
+        "answer": [
+          "AMERICA",
+          "THE",
+          "BEAUTIFUL"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"A\""
+        ],
+        "to_reveal_letters": [
+          "B",
+          "F"
+        ],
+        "game_link": "/us/game/2020-01-09/2",
+        "eliminated": 548,
+        "advancing": 11119,
+        "correct_answers": 11119,
+        "incorrect_answers": 548
+      },
+      {
+        "direct_link": "/us/game/2020-01-09/2/7",
+        "question_number": 7,
+        "text": "Detectiveâs Dismissal",
+        "answer": [
+          "ELEMENTARY,",
+          "MY",
+          "DEAR",
+          "WATSON"
+        ],
+        "initial_letters": [
+          "\",\"",
+          "\" \"",
+          "\"A\""
+        ],
+        "to_reveal_letters": [
+          "M"
+        ],
+        "game_link": "/us/game/2020-01-09/2",
+        "eliminated": 1613,
+        "advancing": 9593,
+        "correct_answers": 9593,
+        "incorrect_answers": 1613
+      },
+      {
+        "direct_link": "/us/game/2020-01-09/2/8",
+        "question_number": 8,
+        "text": "Backpack Kid",
+        "answer": [
+          "DORA",
+          "THE",
+          "EXPLORER"
+        ],
+        "initial_letters": [
+          "\" \""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2020-01-09/2",
+        "eliminated": 1512,
+        "advancing": 8484,
+        "correct_answers": 8484,
+        "incorrect_answers": 1512
+      },
+      {
+        "direct_link": "/us/game/2020-01-09/2/9",
+        "question_number": 9,
+        "text": "Snake-y Slogan",
+        "answer": [
+          "DONâT",
+          "TREAD",
+          "ON",
+          "ME"
+        ],
+        "initial_letters": [
+          "\"â\"",
+          "\" \""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2020-01-09/2",
+        "eliminated": 1214,
+        "advancing": 7730,
+        "correct_answers": 7730,
+        "incorrect_answers": 1214
+      },
+      {
+        "direct_link": "/us/game/2020-01-09/2/10",
+        "question_number": 10,
+        "text": "Covert Message Tools",
+        "answer": [
+          "INVISIBLE",
+          "INK",
+          "PEN",
+          "&",
+          "PAPER"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"&\"",
+          "\"I\""
+        ],
+        "to_reveal_letters": [
+          "K"
+        ],
+        "game_link": "/us/game/2020-01-09/2",
+        "eliminated": 1074,
+        "advancing": 7087,
+        "correct_answers": 7087,
+        "incorrect_answers": 1074
+      },
+      {
+        "direct_link": "/us/game/2020-01-09/2/11",
+        "question_number": 11,
+        "text": "To Translate, or Traducir",
+        "answer": [
+          "ENGLISH",
+          "TO",
+          "SPANISH",
+          "DICTIONARY"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"Y\""
+        ],
+        "to_reveal_letters": [
+          "R"
+        ],
+        "game_link": "/us/game/2020-01-09/2",
+        "eliminated": 1818,
+        "advancing": 5731,
+        "correct_answers": 5731,
+        "incorrect_answers": 1818
+      },
+      {
+        "direct_link": "/us/game/2020-01-09/2/12",
+        "question_number": 12,
+        "text": "Musical Protagonists",
+        "answer": [
+          "BILLY",
+          "JOELâS",
+          "BRENDA",
+          "&",
+          "EDDIE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"â\"",
+          "\"&\""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2020-01-09/2",
+        "eliminated": 3338,
+        "advancing": 3287,
+        "correct_answers": 3287,
+        "incorrect_answers": 3338
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": null
+  }
+]

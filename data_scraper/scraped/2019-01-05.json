@@ -1,0 +1,806 @@
+[
+  {
+    "id": 41871,
+    "show_id": 8935,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-01-06T02:00:00Z",
+    "direct_link": "/us/game/2019-01-05/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "3,676",
+      "currency": "$",
+      "average_prize": "1.36"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 40794,
+        "text": "Car and truck engines are typically measured as having what kind of power?",
+        "question_number": 1,
+        "eliminated": "-7,310",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "327,099",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122277,
+            "text": "Manateepower",
+            "correct": false,
+            "count": "2,183",
+            "percent": "0.69%"
+          },
+          {
+            "id": 122279,
+            "text": "Pandapower",
+            "correct": false,
+            "count": "1,656",
+            "percent": "0.53%"
+          },
+          {
+            "id": 122281,
+            "text": "Horsepower",
+            "correct": true,
+            "count": "310,958",
+            "percent": "98.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-05/1/1",
+        "game_link": "/us/game/2019-01-05/1",
+        "correct_answers": 310958,
+        "incorrect_answers": 3839,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40802,
+        "text": "Which sportâs field of play is NOT strictly rectangular?",
+        "question_number": 2,
+        "eliminated": "14,378",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "312,999",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122301,
+            "text": "Basketball",
+            "correct": false,
+            "count": "31,463",
+            "percent": "10.07%"
+          },
+          {
+            "id": 122302,
+            "text": "Hockey",
+            "correct": true,
+            "count": "268,652",
+            "percent": "85.99%"
+          },
+          {
+            "id": 122303,
+            "text": "Football",
+            "correct": false,
+            "count": "12,304",
+            "percent": "3.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-05/1/2",
+        "game_link": "/us/game/2019-01-05/1",
+        "correct_answers": 268652,
+        "incorrect_answers": 43767,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40810,
+        "text": "The word âsombreroâ comes from the Spanish word for what?",
+        "question_number": 3,
+        "eliminated": "28,638",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "285,371",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122325,
+            "text": "Shadow",
+            "correct": true,
+            "count": "212,715",
+            "percent": "71.12%"
+          },
+          {
+            "id": 122328,
+            "text": "Fountain",
+            "correct": false,
+            "count": "31,377",
+            "percent": "10.49%"
+          },
+          {
+            "id": 122332,
+            "text": "Tower",
+            "correct": false,
+            "count": "54,997",
+            "percent": "18.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-05/1/3",
+        "game_link": "/us/game/2019-01-05/1",
+        "correct_answers": 212715,
+        "incorrect_answers": 86374,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40819,
+        "text": "Which is NOT one of Americaâs original 13 colonies?",
+        "question_number": 4,
+        "eliminated": "21,742",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "265,748",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122352,
+            "text": "North Carolina",
+            "correct": false,
+            "count": "16,714",
+            "percent": "6.11%"
+          },
+          {
+            "id": 122354,
+            "text": "South Carolina",
+            "correct": false,
+            "count": "33,481",
+            "percent": "12.23%"
+          },
+          {
+            "id": 122356,
+            "text": "Kentucky",
+            "correct": true,
+            "count": "223,535",
+            "percent": "81.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-05/1/4",
+        "game_link": "/us/game/2019-01-05/1",
+        "correct_answers": 223535,
+        "incorrect_answers": 50195,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40828,
+        "text": "What type of house was the home of âThe Brady Bunchâ?",
+        "question_number": 5,
+        "eliminated": "21,049",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "246,630",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122377,
+            "text": "Bungalow",
+            "correct": false,
+            "count": "30,412",
+            "percent": "11.83%"
+          },
+          {
+            "id": 122380,
+            "text": "Split-level",
+            "correct": true,
+            "count": "214,878",
+            "percent": "83.61%"
+          },
+          {
+            "id": 122382,
+            "text": "Semi-detached",
+            "correct": false,
+            "count": "11,703",
+            "percent": "4.55%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-05/1/5",
+        "game_link": "/us/game/2019-01-05/1",
+        "correct_answers": 214878,
+        "incorrect_answers": 42115,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40834,
+        "text": "To convert volts into watts, what third value do you need to know?",
+        "question_number": 6,
+        "eliminated": "69,790",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "178,721",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122397,
+            "text": "Amperes",
+            "correct": true,
+            "count": "120,406",
+            "percent": "49.89%"
+          },
+          {
+            "id": 122398,
+            "text": "Ohms",
+            "correct": false,
+            "count": "115,873",
+            "percent": "48.01%"
+          },
+          {
+            "id": 122399,
+            "text": "Farads",
+            "correct": false,
+            "count": "5,078",
+            "percent": "2.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-05/1/6",
+        "game_link": "/us/game/2019-01-05/1",
+        "correct_answers": 120406,
+        "incorrect_answers": 120951,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40842,
+        "text": "The Nickelodeon product Smatter was closest in concept to which of these?",
+        "question_number": 7,
+        "eliminated": "55,701",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "132,876",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122421,
+            "text": "Nerf",
+            "correct": false,
+            "count": "9,939",
+            "percent": "5.48%"
+          },
+          {
+            "id": 122423,
+            "text": "Silly String",
+            "correct": true,
+            "count": "75,781",
+            "percent": "41.77%"
+          },
+          {
+            "id": 122426,
+            "text": "Play-Doh",
+            "correct": false,
+            "count": "95,707",
+            "percent": "52.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-05/1/7",
+        "game_link": "/us/game/2019-01-05/1",
+        "correct_answers": 75781,
+        "incorrect_answers": 105646,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40850,
+        "text": "Which Dr. Seuss book was written as an allegory for US occupation of Japan after WWII?",
+        "question_number": 8,
+        "eliminated": "41,443",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "99,016",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122446,
+            "text": "Yertle the Turtle",
+            "correct": false,
+            "count": "42,752",
+            "percent": "33.38%"
+          },
+          {
+            "id": 122452,
+            "text": "Green Eggs and Ham",
+            "correct": false,
+            "count": "20,897",
+            "percent": "16.32%"
+          },
+          {
+            "id": 122456,
+            "text": "Horton Hears a Who!",
+            "correct": true,
+            "count": "64,426",
+            "percent": "50.3%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-05/1/8",
+        "game_link": "/us/game/2019-01-05/1",
+        "correct_answers": 64426,
+        "incorrect_answers": 63649,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40859,
+        "text": "The Cumberland Gap goes through what mountain range?",
+        "question_number": 9,
+        "eliminated": "15,836",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "89,459",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122471,
+            "text": "Appalachian",
+            "correct": true,
+            "count": "77,468",
+            "percent": "74.98%"
+          },
+          {
+            "id": 122475,
+            "text": "Rocky",
+            "correct": false,
+            "count": "11,353",
+            "percent": "10.99%"
+          },
+          {
+            "id": 122478,
+            "text": "Sierra Nevada",
+            "correct": false,
+            "count": "14,491",
+            "percent": "14.03%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-05/1/9",
+        "game_link": "/us/game/2019-01-05/1",
+        "correct_answers": 77468,
+        "incorrect_answers": 25844,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40867,
+        "text": "What sitcom did NOT conclude every week with the command âSit, Ubu, sit?â",
+        "question_number": 10,
+        "eliminated": "44,528",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "47,297",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122496,
+            "text": "Mad About You",
+            "correct": true,
+            "count": "31,555",
+            "percent": "35.71%"
+          },
+          {
+            "id": 122499,
+            "text": "Family Ties",
+            "correct": false,
+            "count": "26,187",
+            "percent": "29.64%"
+          },
+          {
+            "id": 122502,
+            "text": "Spin City",
+            "correct": false,
+            "count": "30,616",
+            "percent": "34.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-05/1/10",
+        "game_link": "/us/game/2019-01-05/1",
+        "correct_answers": 31555,
+        "incorrect_answers": 56803,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40874,
+        "text": "The US Senate dining room famously has one specific kind of what dish always on the menu?",
+        "question_number": 11,
+        "eliminated": "25,285",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "30,846",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122514,
+            "text": "Pie",
+            "correct": false,
+            "count": "17,832",
+            "percent": "32.29%"
+          },
+          {
+            "id": 122516,
+            "text": "Soup",
+            "correct": true,
+            "count": "30,846",
+            "percent": "55.86%"
+          },
+          {
+            "id": 122518,
+            "text": "Sandwich",
+            "correct": false,
+            "count": "6,543",
+            "percent": "11.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-05/1/11",
+        "game_link": "/us/game/2019-01-05/1",
+        "correct_answers": 30846,
+        "incorrect_answers": 24375,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40881,
+        "text": "When the phrase was first coined, classical musicâs âThree Bsâ included Bach, Beethoven, and who?",
+        "question_number": 12,
+        "eliminated": "32,953",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "3,676",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122538,
+            "text": "Bizet",
+            "correct": false,
+            "count": "2,779",
+            "percent": "7.75%"
+          },
+          {
+            "id": 122548,
+            "text": "Brahms",
+            "correct": false,
+            "count": "29,393",
+            "percent": "81.99%"
+          },
+          {
+            "id": 122550,
+            "text": "Berlioz",
+            "correct": true,
+            "count": "3,676",
+            "percent": "10.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-05/1/12",
+        "game_link": "/us/game/2019-01-05/1",
+        "correct_answers": 3676,
+        "incorrect_answers": 32172,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 41990,
+    "show_id": 9245,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-01-06T02:30:00Z",
+    "direct_link": "/us/game/2019-01-05/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "300.32",
+          "time": "61.34"
+        },
+        {
+          "number": "2",
+          "amount": "150.32",
+          "time": "68.33"
+        },
+        {
+          "number": "3",
+          "amount": "50.32",
+          "time": "75.60"
+        },
+        {
+          "number": "1,550",
+          "amount": "0.32",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.32195750160978753,
+      "top_players_prize": 500.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-01-05/2/1",
+        "question_number": 1,
+        "text": "US State",
+        "answer": [
+          "GEORGIA"
+        ],
+        "initial_letters": [
+          "G"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "R"
+        ],
+        "game_link": "/us/game/2019-01-05/2",
+        "eliminated": 6990,
+        "advancing": 187488,
+        "correct_answers": 187488,
+        "incorrect_answers": 6990
+      },
+      {
+        "direct_link": "/us/game/2019-01-05/2/2",
+        "question_number": 2,
+        "text": "Makes You Laugh",
+        "answer": [
+          "TICKLING"
+        ],
+        "initial_letters": [
+          "T"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "G"
+        ],
+        "game_link": "/us/game/2019-01-05/2",
+        "eliminated": 57612,
+        "advancing": 130232,
+        "correct_answers": 130232,
+        "incorrect_answers": 57612
+      },
+      {
+        "direct_link": "/us/game/2019-01-05/2/3",
+        "question_number": 3,
+        "text": "Junk Food",
+        "answer": [
+          "POTATO",
+          "CHIPS"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "S"
+        ],
+        "game_link": "/us/game/2019-01-05/2",
+        "eliminated": 14478,
+        "advancing": 118128,
+        "correct_answers": 118128,
+        "incorrect_answers": 14478
+      },
+      {
+        "direct_link": "/us/game/2019-01-05/2/4",
+        "question_number": 4,
+        "text": "At the Arcade",
+        "answer": [
+          "PINBALL",
+          "MACHINE"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "P"
+        ],
+        "game_link": "/us/game/2019-01-05/2",
+        "eliminated": 29283,
+        "advancing": 89588,
+        "correct_answers": 89588,
+        "incorrect_answers": 29283
+      },
+      {
+        "direct_link": "/us/game/2019-01-05/2/5",
+        "question_number": 5,
+        "text": "Fairytale Cliche",
+        "answer": [
+          "EVIL",
+          "STEPMOTHER"
+        ],
+        "initial_letters": [
+          " ",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "S"
+        ],
+        "game_link": "/us/game/2019-01-05/2",
+        "eliminated": 47975,
+        "advancing": 43470,
+        "correct_answers": 43470,
+        "incorrect_answers": 47975
+      },
+      {
+        "direct_link": "/us/game/2019-01-05/2/6",
+        "question_number": 6,
+        "text": "Common Concern",
+        "answer": [
+          "LEAVING",
+          "THE",
+          "STOVE",
+          "ON"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "E"
+        ],
+        "game_link": "/us/game/2019-01-05/2",
+        "eliminated": 26287,
+        "advancing": 20368,
+        "correct_answers": 20368,
+        "incorrect_answers": 26287
+      },
+      {
+        "direct_link": "/us/game/2019-01-05/2/7",
+        "question_number": 7,
+        "text": "Actor / Character",
+        "answer": [
+          "MICHELLE",
+          "PFEIFFER",
+          "/",
+          "CATWOMAN"
+        ],
+        "initial_letters": [
+          " ",
+          "/",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "P"
+        ],
+        "game_link": "/us/game/2019-01-05/2",
+        "eliminated": 10254,
+        "advancing": 11791,
+        "correct_answers": 11791,
+        "incorrect_answers": 10254
+      },
+      {
+        "direct_link": "/us/game/2019-01-05/2/8",
+        "question_number": 8,
+        "text": "Heroic Action",
+        "answer": [
+          "THWARTING",
+          "A",
+          "CRIMINAL"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "L"
+        ],
+        "game_link": "/us/game/2019-01-05/2",
+        "eliminated": 7890,
+        "advancing": 4936,
+        "correct_answers": 4936,
+        "incorrect_answers": 7890
+      },
+      {
+        "direct_link": "/us/game/2019-01-05/2/9",
+        "question_number": 9,
+        "text": "Weekend Event",
+        "answer": [
+          "SATURDAY",
+          "NIGHT",
+          "PUB",
+          "CRAWL"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "L"
+        ],
+        "game_link": "/us/game/2019-01-05/2",
+        "eliminated": 2125,
+        "advancing": 3815,
+        "correct_answers": 3815,
+        "incorrect_answers": 2125
+      },
+      {
+        "direct_link": "/us/game/2019-01-05/2/10",
+        "question_number": 10,
+        "text": "European Adventure",
+        "answer": [
+          "PRAGUE,",
+          "MUNICH,",
+          "LUXEMBOURG"
+        ],
+        "initial_letters": [
+          ",",
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "P",
+          "U"
+        ],
+        "game_link": "/us/game/2019-01-05/2",
+        "eliminated": 2583,
+        "advancing": 1553,
+        "correct_answers": 1553,
+        "incorrect_answers": 2583
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

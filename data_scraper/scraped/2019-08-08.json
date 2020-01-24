@@ -1,0 +1,366 @@
+[
+  {
+    "id": 126532,
+    "show_id": 11943,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "240,000",
+    "currency": "$",
+    "start_time": "2019-08-09T01:00:00Z",
+    "direct_link": "/us/game/2019-08-08/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1126,
+        "game_id": 126532,
+        "question": "Which SNL sketch do you want to see Tyler reenact?",
+        "results": [
+          {
+            "id": 6760,
+            "display_count": "25",
+            "vote_count": 11095,
+            "text": "Harry Caray"
+          },
+          {
+            "id": 6764,
+            "display_count": "32",
+            "vote_count": 14416,
+            "text": "Van By River"
+          },
+          {
+            "id": 6772,
+            "display_count": "43",
+            "vote_count": 18857,
+            "text": "Wayne's World"
+          }
+        ],
+        "created_at": "2019-08-09T01:03:57Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 126539,
+    "show_id": 12004,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-08-09T01:30:00Z",
+    "direct_link": "/us/game/2019-08-08/2",
+    "currency": "$",
+    "prize": "2,000",
+    "summary": {
+      "winner_count": "7,841",
+      "currency": "$",
+      "average_prize": "0.26"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-08-08/2/2",
+        "question_number": 2,
+        "text": "Former SNL Head Writer",
+        "answer": [
+          "TINA",
+          "FEY"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-08-08/2",
+        "eliminated": 13836,
+        "advancing": 57095,
+        "correct_answers": 57095,
+        "incorrect_answers": 13836
+      },
+      {
+        "direct_link": "/us/game/2019-08-08/2/3",
+        "question_number": 3,
+        "text": "Comedy Circuit",
+        "answer": [
+          "BORSCHT",
+          "BELT"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"B\""
+        ],
+        "to_reveal_letters": [
+          "H",
+          "L"
+        ],
+        "game_link": "/us/game/2019-08-08/2",
+        "eliminated": 35038,
+        "advancing": 22618,
+        "correct_answers": 22618,
+        "incorrect_answers": 35038
+      },
+      {
+        "direct_link": "/us/game/2019-08-08/2/4",
+        "question_number": 4,
+        "text": "Makinâ It Up",
+        "answer": [
+          "IMPROV",
+          "GROUP"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"M\""
+        ],
+        "to_reveal_letters": [
+          "P",
+          "U"
+        ],
+        "game_link": "/us/game/2019-08-08/2",
+        "eliminated": 1372,
+        "advancing": 23664,
+        "correct_answers": 23664,
+        "incorrect_answers": 1372
+      },
+      {
+        "direct_link": "/us/game/2019-08-08/2/5",
+        "question_number": 5,
+        "text": "All-Time Great",
+        "answer": [
+          "RICHARD",
+          "PRYOR"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"P\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "H"
+        ],
+        "game_link": "/us/game/2019-08-08/2",
+        "eliminated": 3709,
+        "advancing": 20022,
+        "correct_answers": 20022,
+        "incorrect_answers": 3709
+      },
+      {
+        "direct_link": "/us/game/2019-08-08/2/6",
+        "question_number": 6,
+        "text": "âSeinfeldâ Summary",
+        "answer": [
+          "SHOW",
+          "ABOUT",
+          "NOTHING"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"B\""
+        ],
+        "to_reveal_letters": [
+          "I",
+          "W"
+        ],
+        "game_link": "/us/game/2019-08-08/2",
+        "eliminated": 1223,
+        "advancing": 19097,
+        "correct_answers": 19097,
+        "incorrect_answers": 1223
+      },
+      {
+        "direct_link": "/us/game/2019-08-08/2/7",
+        "question_number": 7,
+        "text": "Title: âA Piece of Workâ",
+        "answer": [
+          "JOAN",
+          "RIVERS",
+          "MOVIE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"J\""
+        ],
+        "to_reveal_letters": [
+          "I",
+          "N"
+        ],
+        "game_link": "/us/game/2019-08-08/2",
+        "eliminated": 3930,
+        "advancing": 15284,
+        "correct_answers": 15284,
+        "incorrect_answers": 3930
+      },
+      {
+        "direct_link": "/us/game/2019-08-08/2/8",
+        "question_number": 8,
+        "text": "TV Rivalry",
+        "answer": [
+          "LETTERMAN",
+          "VS.",
+          "LENO"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\".\"",
+          "\"V\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "N"
+        ],
+        "game_link": "/us/game/2019-08-08/2",
+        "eliminated": 2055,
+        "advancing": 13825,
+        "correct_answers": 13825,
+        "incorrect_answers": 2055
+      },
+      {
+        "direct_link": "/us/game/2019-08-08/2/9",
+        "question_number": 9,
+        "text": "Famous Punchline",
+        "answer": [
+          "TO",
+          "GET",
+          "TO",
+          "THE",
+          "OTHER",
+          "SIDE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"I\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "H"
+        ],
+        "game_link": "/us/game/2019-08-08/2",
+        "eliminated": 1359,
+        "advancing": 12892,
+        "correct_answers": 12892,
+        "incorrect_answers": 1359
+      },
+      {
+        "direct_link": "/us/game/2019-08-08/2/10",
+        "question_number": 10,
+        "text": "Seen on Comedy Central",
+        "answer": [
+          "INSIDE",
+          "AMY",
+          "SCHUMER"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"M\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "N"
+        ],
+        "game_link": "/us/game/2019-08-08/2",
+        "eliminated": 2788,
+        "advancing": 10511,
+        "correct_answers": 10511,
+        "incorrect_answers": 2788
+      },
+      {
+        "direct_link": "/us/game/2019-08-08/2/11",
+        "question_number": 11,
+        "text": "Subtly Different Comedy",
+        "answer": [
+          "IRONY,",
+          "SARCASM,",
+          "SATIRE"
+        ],
+        "initial_letters": [
+          "\",\"",
+          "\" \"",
+          "\"E\""
+        ],
+        "to_reveal_letters": [
+          "M",
+          "S"
+        ],
+        "game_link": "/us/game/2019-08-08/2",
+        "eliminated": 706,
+        "advancing": 10803,
+        "correct_answers": 10803,
+        "incorrect_answers": 706
+      },
+      {
+        "direct_link": "/us/game/2019-08-08/2/12",
+        "question_number": 12,
+        "text": "Iconic Routine",
+        "answer": [
+          "WORDS",
+          "YOU",
+          "CANâT",
+          "SAY",
+          "ON",
+          "TV"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"â\"",
+          "\"R\""
+        ],
+        "to_reveal_letters": [
+          "C",
+          "T"
+        ],
+        "game_link": "/us/game/2019-08-08/2",
+        "eliminated": 3252,
+        "advancing": 7841,
+        "correct_answers": 7841,
+        "incorrect_answers": 3252
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

@@ -1,0 +1,789 @@
+[
+  {
+    "id": 88622,
+    "show_id": 9915,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-03-23T01:00:00Z",
+    "direct_link": "/us/game/2019-03-22/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,007",
+      "currency": "$",
+      "average_prize": "2.49"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 91573,
+        "text": "Which item would nutritionists consider a healthy snack?",
+        "question_number": 1,
+        "eliminated": "-9,237",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "321,202",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 211832,
+            "text": "Deep-fried lard",
+            "correct": false,
+            "count": "4,097",
+            "percent": "1.33%"
+          },
+          {
+            "id": 211833,
+            "text": "Fresh fruit",
+            "correct": true,
+            "count": "301,558",
+            "percent": "98.06%"
+          },
+          {
+            "id": 211834,
+            "text": "Live tiger",
+            "correct": false,
+            "count": "1,868",
+            "percent": "0.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-22/1/1",
+        "game_link": "/us/game/2019-03-22/1",
+        "correct_answers": 301558,
+        "incorrect_answers": 5965,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91585,
+        "text": "What video game is shown here?",
+        "question_number": 2,
+        "eliminated": "7,891",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "316,709",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 211850,
+            "text": "Donkey Kong Country",
+            "correct": false,
+            "count": "13,754",
+            "percent": "4.39%"
+          },
+          {
+            "id": 211851,
+            "text": "Call of Duty: Black Ops",
+            "correct": false,
+            "count": "9,581",
+            "percent": "3.06%"
+          },
+          {
+            "id": 211852,
+            "text": "Tetris",
+            "correct": true,
+            "count": "289,683",
+            "percent": "92.55%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-22/1/2",
+        "game_link": "/us/game/2019-03-22/1",
+        "correct_answers": 289683,
+        "incorrect_answers": 23335,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91599,
+        "text": "Jeggings are leggings that simulate the appearance of what?",
+        "question_number": 3,
+        "eliminated": "5,338",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "313,319",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 211871,
+            "text": "Jeans",
+            "correct": true,
+            "count": "298,243",
+            "percent": "98.72%"
+          },
+          {
+            "id": 211873,
+            "text": "Jewelry",
+            "correct": false,
+            "count": "1,664",
+            "percent": "0.55%"
+          },
+          {
+            "id": 211876,
+            "text": "Jerseys",
+            "correct": false,
+            "count": "2,195",
+            "percent": "0.73%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-22/1/3",
+        "game_link": "/us/game/2019-03-22/1",
+        "correct_answers": 298243,
+        "incorrect_answers": 3859,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91616,
+        "text": "Photosynthesis primarily converts light energy into what other form?",
+        "question_number": 4,
+        "eliminated": "77,713",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "236,645",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 211898,
+            "text": "Thermal energy",
+            "correct": false,
+            "count": "71,200",
+            "percent": "25.08%"
+          },
+          {
+            "id": 211901,
+            "text": "Kinetic energy",
+            "correct": false,
+            "count": "49,229",
+            "percent": "17.34%"
+          },
+          {
+            "id": 211905,
+            "text": "Chemical energy",
+            "correct": true,
+            "count": "163,496",
+            "percent": "57.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-22/1/4",
+        "game_link": "/us/game/2019-03-22/1",
+        "correct_answers": 163496,
+        "incorrect_answers": 120429,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91631,
+        "text": "Which of these social media apps does NOT have a Stories feature?",
+        "question_number": 5,
+        "eliminated": "44,500",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "213,023",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 211919,
+            "text": "TikTok",
+            "correct": true,
+            "count": "199,299",
+            "percent": "83.49%"
+          },
+          {
+            "id": 211920,
+            "text": "Snapchat",
+            "correct": false,
+            "count": "25,396",
+            "percent": "10.64%"
+          },
+          {
+            "id": 211922,
+            "text": "Instagram",
+            "correct": false,
+            "count": "14,025",
+            "percent": "5.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-22/1/5",
+        "game_link": "/us/game/2019-03-22/1",
+        "correct_answers": 199299,
+        "incorrect_answers": 39421,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91647,
+        "text": "Of these musical acts, which did NOT record a single called âCrazyâ?",
+        "question_number": 6,
+        "eliminated": "109,406",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "110,343",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 211943,
+            "text": "Tammy Wynette",
+            "correct": true,
+            "count": "109,056",
+            "percent": "53.12%"
+          },
+          {
+            "id": 211944,
+            "text": "Gnarls Barkley",
+            "correct": false,
+            "count": "46,551",
+            "percent": "22.67%"
+          },
+          {
+            "id": 211945,
+            "text": "Aerosmith",
+            "correct": false,
+            "count": "49,710",
+            "percent": "24.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-22/1/6",
+        "game_link": "/us/game/2019-03-22/1",
+        "correct_answers": 109056,
+        "incorrect_answers": 96261,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91663,
+        "text": "What is this boyâs name?",
+        "question_number": 7,
+        "eliminated": "45,834",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "83,893",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 211967,
+            "text": "David",
+            "correct": true,
+            "count": "83,893",
+            "percent": "65.43%"
+          },
+          {
+            "id": 211968,
+            "text": "Daniel",
+            "correct": false,
+            "count": "38,552",
+            "percent": "30.07%"
+          },
+          {
+            "id": 211970,
+            "text": "Douglas",
+            "correct": false,
+            "count": "5,774",
+            "percent": "4.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-22/1/7",
+        "game_link": "/us/game/2019-03-22/1",
+        "correct_answers": 83893,
+        "incorrect_answers": 44326,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91680,
+        "text": "Which of these is a tetralogy?",
+        "question_number": 8,
+        "eliminated": "60,765",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "29,101",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 211993,
+            "text": "The Die Hard films",
+            "correct": false,
+            "count": "26,443",
+            "percent": "30.93%"
+          },
+          {
+            "id": 211997,
+            "text": "Wagnerâs Ring Cycle",
+            "correct": true,
+            "count": "29,101",
+            "percent": "34.04%"
+          },
+          {
+            "id": 212002,
+            "text": "The Chronicles of Narnia",
+            "correct": false,
+            "count": "29,940",
+            "percent": "35.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-22/1/8",
+        "game_link": "/us/game/2019-03-22/1",
+        "correct_answers": 29101,
+        "incorrect_answers": 56383,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91696,
+        "text": "What species of dinosaur is Barney?",
+        "question_number": 9,
+        "eliminated": "7,950",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "31,583",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 212015,
+            "text": "Triceratops",
+            "correct": false,
+            "count": "2,411",
+            "percent": "6.42%"
+          },
+          {
+            "id": 212017,
+            "text": "Protoceratops",
+            "correct": false,
+            "count": "3,537",
+            "percent": "9.42%"
+          },
+          {
+            "id": 212022,
+            "text": "Tyrannosaurus",
+            "correct": true,
+            "count": "31,583",
+            "percent": "84.15%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-22/1/9",
+        "game_link": "/us/game/2019-03-22/1",
+        "correct_answers": 31583,
+        "incorrect_answers": 5948,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91713,
+        "text": "Which state is the oldest continuously published newspaper in the US from?",
+        "question_number": 10,
+        "eliminated": "20,911",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "11,637",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 212041,
+            "text": "New York",
+            "correct": false,
+            "count": "14,907",
+            "percent": "47.42%"
+          },
+          {
+            "id": 212045,
+            "text": "New Hampshire",
+            "correct": false,
+            "count": "4,891",
+            "percent": "15.56%"
+          },
+          {
+            "id": 212052,
+            "text": "Connecticut",
+            "correct": true,
+            "count": "11,637",
+            "percent": "37.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-22/1/10",
+        "game_link": "/us/game/2019-03-22/1",
+        "correct_answers": 11637,
+        "incorrect_answers": 19798,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91727,
+        "text": "Which US president served in the House of Representatives after his presidency?",
+        "question_number": 11,
+        "eliminated": "4,858",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "12,648",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 212063,
+            "text": "Martin Van Buren",
+            "correct": false,
+            "count": "1,893",
+            "percent": "11.09%"
+          },
+          {
+            "id": 212067,
+            "text": "James K. Polk",
+            "correct": false,
+            "count": "2,527",
+            "percent": "14.81%"
+          },
+          {
+            "id": 212073,
+            "text": "John Quincy Adams",
+            "correct": true,
+            "count": "12,648",
+            "percent": "74.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-22/1/11",
+        "game_link": "/us/game/2019-03-22/1",
+        "correct_answers": 12648,
+        "incorrect_answers": 4420,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91744,
+        "text": "In âJurassic Park,â what is Dennis wearing in the âah ah ah, you didnât say the magic wordâ graphic?",
+        "question_number": 12,
+        "eliminated": "11,533",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,007",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 212087,
+            "text": "Elvis jumpsuit",
+            "correct": true,
+            "count": "2,007",
+            "percent": "16.3%"
+          },
+          {
+            "id": 212091,
+            "text": "Tuxedo with tails",
+            "correct": false,
+            "count": "1,809",
+            "percent": "14.7%"
+          },
+          {
+            "id": 212095,
+            "text": "Hawaiian shirt",
+            "correct": false,
+            "count": "8,494",
+            "percent": "69.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-22/1/12",
+        "game_link": "/us/game/2019-03-22/1",
+        "correct_answers": 2007,
+        "incorrect_answers": 10303,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 88746,
+    "show_id": 10121,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-03-23T01:30:00Z",
+    "direct_link": "/us/game/2019-03-22/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "19,258",
+      "currency": "$",
+      "average_prize": "0.05"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-03-22/2/1",
+        "question_number": 1,
+        "text": "Look Out, Itâs Hot!",
+        "answer": [
+          "OVEN",
+          "MITT"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "V"
+        ],
+        "game_link": "/us/game/2019-03-22/2",
+        "eliminated": 24769,
+        "advancing": 129216,
+        "correct_answers": 129216,
+        "incorrect_answers": 24769
+      },
+      {
+        "direct_link": "/us/game/2019-03-22/2/2",
+        "question_number": 2,
+        "text": "Egg Preparation",
+        "answer": [
+          "HARD",
+          "BOILED"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "L"
+        ],
+        "game_link": "/us/game/2019-03-22/2",
+        "eliminated": 14740,
+        "advancing": 117710,
+        "correct_answers": 117710,
+        "incorrect_answers": 14740
+      },
+      {
+        "direct_link": "/us/game/2019-03-22/2/3",
+        "question_number": 3,
+        "text": "Shakira Hit",
+        "answer": [
+          "HIPS",
+          "DONâT",
+          "LIE"
+        ],
+        "initial_letters": [
+          " ",
+          "â",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-03-22/2",
+        "eliminated": 19283,
+        "advancing": 99539,
+        "correct_answers": 99539,
+        "incorrect_answers": 19283
+      },
+      {
+        "direct_link": "/us/game/2019-03-22/2/4",
+        "question_number": 4,
+        "text": "Classic Slang Phrase",
+        "answer": [
+          "TALK",
+          "TO",
+          "THE",
+          "HAND"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "H"
+        ],
+        "game_link": "/us/game/2019-03-22/2",
+        "eliminated": 8106,
+        "advancing": 93272,
+        "correct_answers": 93272,
+        "incorrect_answers": 8106
+      },
+      {
+        "direct_link": "/us/game/2019-03-22/2/5",
+        "question_number": 5,
+        "text": "A Little Klutzy",
+        "answer": [
+          "TWO",
+          "LEFT",
+          "FEET"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "W"
+        ],
+        "game_link": "/us/game/2019-03-22/2",
+        "eliminated": 4180,
+        "advancing": 90146,
+        "correct_answers": 90146,
+        "incorrect_answers": 4180
+      },
+      {
+        "direct_link": "/us/game/2019-03-22/2/6",
+        "question_number": 6,
+        "text": "Guard Dog",
+        "answer": [
+          "DOBERMAN",
+          "PINSCHER"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "I"
+        ],
+        "game_link": "/us/game/2019-03-22/2",
+        "eliminated": 45385,
+        "advancing": 45212,
+        "correct_answers": 45212,
+        "incorrect_answers": 45385
+      },
+      {
+        "direct_link": "/us/game/2019-03-22/2/7",
+        "question_number": 7,
+        "text": "Fashionable Clothing Item?",
+        "answer": [
+          "SPAGHETTI",
+          "STRAP",
+          "DRESS"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "S"
+        ],
+        "game_link": "/us/game/2019-03-22/2",
+        "eliminated": 11083,
+        "advancing": 42240,
+        "correct_answers": 42240,
+        "incorrect_answers": 11083
+      },
+      {
+        "direct_link": "/us/game/2019-03-22/2/8",
+        "question_number": 8,
+        "text": "Animal with Hooves",
+        "answer": [
+          "MOUNTAIN",
+          "GOAT"
+        ],
+        "initial_letters": [
+          " ",
+          "U"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "T"
+        ],
+        "game_link": "/us/game/2019-03-22/2",
+        "eliminated": 3691,
+        "advancing": 40460,
+        "correct_answers": 40460,
+        "incorrect_answers": 3691
+      },
+      {
+        "direct_link": "/us/game/2019-03-22/2/9",
+        "question_number": 9,
+        "text": "In the Fancy Bathroom",
+        "answer": [
+          "MONOGRAMMED",
+          "TOWELS"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "R"
+        ],
+        "game_link": "/us/game/2019-03-22/2",
+        "eliminated": 13185,
+        "advancing": 28295,
+        "correct_answers": 28295,
+        "incorrect_answers": 13185
+      },
+      {
+        "direct_link": "/us/game/2019-03-22/2/10",
+        "question_number": 10,
+        "text": "Not Paying Attention",
+        "answer": [
+          "STARING",
+          "AT",
+          "CLOUDS"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "T"
+        ],
+        "game_link": "/us/game/2019-03-22/2",
+        "eliminated": 12900,
+        "advancing": 19258,
+        "correct_answers": 19258,
+        "incorrect_answers": 12900
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

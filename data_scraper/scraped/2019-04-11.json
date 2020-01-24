@@ -1,0 +1,1477 @@
+[
+  {
+    "id": 94813,
+    "show_id": 10297,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "2,500",
+    "currency": "$",
+    "start_time": "2019-04-11T19:00:00Z",
+    "direct_link": "/us/game/2019-04-11/1",
+    "time": " 3:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,581",
+      "currency": "$",
+      "average_prize": "1.58"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 98008,
+        "text": "What is the primary ingredient in butter?",
+        "question_number": 1,
+        "eliminated": "-5,347",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "126,775",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221484,
+            "text": "Margarine",
+            "correct": false,
+            "count": "11,158",
+            "percent": "9.19%"
+          },
+          {
+            "id": 221486,
+            "text": "Mayonnaise",
+            "correct": false,
+            "count": "1,458",
+            "percent": "1.2%"
+          },
+          {
+            "id": 221488,
+            "text": "Milk",
+            "correct": true,
+            "count": "108,812",
+            "percent": "89.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/1/1",
+        "game_link": "/us/game/2019-04-11/1",
+        "correct_answers": 108812,
+        "incorrect_answers": 12616,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98024,
+        "text": "Which movie innovation typically requires special glasses for viewing?",
+        "question_number": 2,
+        "eliminated": "623",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "126,403",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221509,
+            "text": "IMAX",
+            "correct": false,
+            "count": "2,558",
+            "percent": "2.1%"
+          },
+          {
+            "id": 221512,
+            "text": "3D",
+            "correct": true,
+            "count": "119,093",
+            "percent": "97.71%"
+          },
+          {
+            "id": 221516,
+            "text": "Dolby Surround",
+            "correct": false,
+            "count": "227",
+            "percent": "0.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/1/2",
+        "game_link": "/us/game/2019-04-11/1",
+        "correct_answers": 119093,
+        "incorrect_answers": 2785,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98042,
+        "text": "This is the first known image of what?",
+        "question_number": 3,
+        "eliminated": "793",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "125,624",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221535,
+            "text": "Black hole",
+            "correct": true,
+            "count": "115,439",
+            "percent": "94.81%"
+          },
+          {
+            "id": 221540,
+            "text": "Atomic nucleus",
+            "correct": false,
+            "count": "5,797",
+            "percent": "4.76%"
+          },
+          {
+            "id": 221545,
+            "text": "Bigfoot",
+            "correct": false,
+            "count": "526",
+            "percent": "0.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/1/3",
+        "game_link": "/us/game/2019-04-11/1",
+        "correct_answers": 115439,
+        "incorrect_answers": 6323,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98057,
+        "text": "The sponsors of Columbusâ first voyage were from what modern-day country?",
+        "question_number": 4,
+        "eliminated": "3,776",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "121,907",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221557,
+            "text": "Spain",
+            "correct": true,
+            "count": "96,177",
+            "percent": "80.99%"
+          },
+          {
+            "id": 221563,
+            "text": "Portugal",
+            "correct": false,
+            "count": "16,982",
+            "percent": "14.3%"
+          },
+          {
+            "id": 221571,
+            "text": "Italy",
+            "correct": false,
+            "count": "5,590",
+            "percent": "4.71%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/1/4",
+        "game_link": "/us/game/2019-04-11/1",
+        "correct_answers": 96177,
+        "incorrect_answers": 22572,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98071,
+        "text": "Which of these famous people does NOT have one of the 20 most-followed Twitter accounts?",
+        "question_number": 5,
+        "eliminated": "18,250",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "103,838",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221579,
+            "text": "Jimmy Fallon",
+            "correct": false,
+            "count": "15,973",
+            "percent": "14.1%"
+          },
+          {
+            "id": 221581,
+            "text": "Bill Gates",
+            "correct": false,
+            "count": "64,806",
+            "percent": "57.21%"
+          },
+          {
+            "id": 221584,
+            "text": "Harry Styles",
+            "correct": true,
+            "count": "32,495",
+            "percent": "28.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/1/5",
+        "game_link": "/us/game/2019-04-11/1",
+        "correct_answers": 32495,
+        "incorrect_answers": 80779,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98087,
+        "text": "A TV movie about New York Yankees great Roger Maris was titled â61,â followed by what symbol?",
+        "question_number": 6,
+        "eliminated": "5,672",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "102,438",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221603,
+            "text": "Ellipsis",
+            "correct": false,
+            "count": "10,616",
+            "percent": "10.61%"
+          },
+          {
+            "id": 221604,
+            "text": "Asterisk",
+            "correct": true,
+            "count": "83,465",
+            "percent": "83.39%"
+          },
+          {
+            "id": 221606,
+            "text": "Interrobang",
+            "correct": false,
+            "count": "6,005",
+            "percent": "6.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/1/6",
+        "game_link": "/us/game/2019-04-11/1",
+        "correct_answers": 83465,
+        "incorrect_answers": 16621,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98104,
+        "text": "Which scientific word has ironic origins, given what we now know about it?",
+        "question_number": 7,
+        "eliminated": "64,079",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "38,751",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221629,
+            "text": "Atom",
+            "correct": true,
+            "count": "35,577",
+            "percent": "36.7%"
+          },
+          {
+            "id": 221633,
+            "text": "Gravity",
+            "correct": false,
+            "count": "25,368",
+            "percent": "26.17%"
+          },
+          {
+            "id": 221638,
+            "text": "Star",
+            "correct": false,
+            "count": "35,995",
+            "percent": "37.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/1/7",
+        "game_link": "/us/game/2019-04-11/1",
+        "correct_answers": 35577,
+        "incorrect_answers": 61363,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98119,
+        "text": "What has been the busiest day for KFC restaurants in the US in recent years?",
+        "question_number": 8,
+        "eliminated": "29,920",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "14,875",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221651,
+            "text": "Veteranâs Day",
+            "correct": false,
+            "count": "4,624",
+            "percent": "10.65%"
+          },
+          {
+            "id": 221652,
+            "text": "Day before Thanksgiving",
+            "correct": false,
+            "count": "23,933",
+            "percent": "55.13%"
+          },
+          {
+            "id": 221660,
+            "text": "Motherâs Day",
+            "correct": true,
+            "count": "14,856",
+            "percent": "34.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/1/8",
+        "game_link": "/us/game/2019-04-11/1",
+        "correct_answers": 14856,
+        "incorrect_answers": 28557,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98136,
+        "text": "Which card game does NOT use standard 52-card decks?",
+        "question_number": 9,
+        "eliminated": "10,676",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "7,168",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221676,
+            "text": "Cribbage",
+            "correct": false,
+            "count": "1,764",
+            "percent": "10.09%"
+          },
+          {
+            "id": 221679,
+            "text": "Pinochle",
+            "correct": true,
+            "count": "7,167",
+            "percent": "40.98%"
+          },
+          {
+            "id": 221682,
+            "text": "Baccarat",
+            "correct": false,
+            "count": "8,557",
+            "percent": "48.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/1/9",
+        "game_link": "/us/game/2019-04-11/1",
+        "correct_answers": 7167,
+        "incorrect_answers": 10321,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98151,
+        "text": "Which of these countries is entirely landlocked?",
+        "question_number": 10,
+        "eliminated": "5,657",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "3,092",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221699,
+            "text": "Bosnia & Herzegovina",
+            "correct": false,
+            "count": "3,360",
+            "percent": "39.19%"
+          },
+          {
+            "id": 221702,
+            "text": "Iraq",
+            "correct": false,
+            "count": "2,121",
+            "percent": "24.74%"
+          },
+          {
+            "id": 221708,
+            "text": "Ethiopia",
+            "correct": true,
+            "count": "3,092",
+            "percent": "36.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/1/10",
+        "game_link": "/us/game/2019-04-11/1",
+        "correct_answers": 3092,
+        "incorrect_answers": 5481,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98168,
+        "text": "The James Blunt song âTears and Rainâ references a novel by what writer?",
+        "question_number": 11,
+        "eliminated": "1,616",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "2,589",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221724,
+            "text": "Henry Miller",
+            "correct": false,
+            "count": "706",
+            "percent": "16.94%"
+          },
+          {
+            "id": 221729,
+            "text": "Oscar Wilde",
+            "correct": true,
+            "count": "2,589",
+            "percent": "62.12%"
+          },
+          {
+            "id": 221734,
+            "text": "Victor Hugo",
+            "correct": false,
+            "count": "873",
+            "percent": "20.95%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/1/11",
+        "game_link": "/us/game/2019-04-11/1",
+        "correct_answers": 2589,
+        "incorrect_answers": 1579,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98185,
+        "text": "Oprah once famously tweeted from an iPad instead of what device she was supposed to be promoting?",
+        "question_number": 12,
+        "eliminated": "1,470",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "1,581",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221750,
+            "text": "Pixelbook",
+            "correct": false,
+            "count": "375",
+            "percent": "12.68%"
+          },
+          {
+            "id": 221753,
+            "text": "Surface",
+            "correct": true,
+            "count": "1,581",
+            "percent": "53.47%"
+          },
+          {
+            "id": 221758,
+            "text": "Galaxy Tab",
+            "correct": false,
+            "count": "1,001",
+            "percent": "33.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/1/12",
+        "game_link": "/us/game/2019-04-11/1",
+        "correct_answers": 1581,
+        "incorrect_answers": 1376,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 94934,
+    "show_id": 10423,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-04-12T01:00:00Z",
+    "direct_link": "/us/game/2019-04-11/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "5,050",
+      "currency": "$",
+      "average_prize": "0.99"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Games",
+        "slug": "games"
+      }
+    ],
+    "questions": [
+      {
+        "id": 98200,
+        "text": "What does the PU stand for in the battle royale hit âPUBGâ?",
+        "question_number": 1,
+        "eliminated": "-16,875",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "376,551",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221772,
+            "text": "PushUps",
+            "correct": false,
+            "count": "14,922",
+            "percent": "4.2%"
+          },
+          {
+            "id": 221774,
+            "text": "PlayerUnknown",
+            "correct": true,
+            "count": "335,375",
+            "percent": "94.4%"
+          },
+          {
+            "id": 221776,
+            "text": "PastaUnlimited",
+            "correct": false,
+            "count": "4,981",
+            "percent": "1.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/2/1",
+        "game_link": "/us/game/2019-04-11/2",
+        "correct_answers": 335375,
+        "incorrect_answers": 19903,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98217,
+        "text": "One of the most acclaimed games of all time is âThe Legend of Zelda:â what?",
+        "question_number": 2,
+        "eliminated": "6,178",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "370,947",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221800,
+            "text": "Ocarina of Time",
+            "correct": true,
+            "count": "269,334",
+            "percent": "76.52%"
+          },
+          {
+            "id": 221801,
+            "text": "Oculus of Befuddlement",
+            "correct": false,
+            "count": "8,702",
+            "percent": "2.47%"
+          },
+          {
+            "id": 221804,
+            "text": "Ocelot of Fate",
+            "correct": false,
+            "count": "73,948",
+            "percent": "21.01%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/2/2",
+        "game_link": "/us/game/2019-04-11/2",
+        "correct_answers": 269334,
+        "incorrect_answers": 82650,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98231,
+        "text": "What language is spoken by the characters in âThe Simsâ games?",
+        "question_number": 3,
+        "eliminated": "14,862",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "356,647",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221819,
+            "text": "Simmese",
+            "correct": false,
+            "count": "65,428",
+            "percent": "18.75%"
+          },
+          {
+            "id": 221820,
+            "text": "Simian",
+            "correct": false,
+            "count": "107,713",
+            "percent": "30.87%"
+          },
+          {
+            "id": 221822,
+            "text": "Simlish",
+            "correct": true,
+            "count": "175,765",
+            "percent": "50.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/2/3",
+        "game_link": "/us/game/2019-04-11/2",
+        "correct_answers": 175765,
+        "incorrect_answers": 173141,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98248,
+        "text": "âApex Legendsâ takes place in the same universe as what other game?",
+        "question_number": 4,
+        "eliminated": "11,163",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "347,474",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221845,
+            "text": "Portal 2",
+            "correct": false,
+            "count": "79,778",
+            "percent": "24.06%"
+          },
+          {
+            "id": 221851,
+            "text": "Titanfall 2",
+            "correct": true,
+            "count": "216,939",
+            "percent": "65.43%"
+          },
+          {
+            "id": 221854,
+            "text": "DOTA 2",
+            "correct": false,
+            "count": "34,865",
+            "percent": "10.51%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/2/4",
+        "game_link": "/us/game/2019-04-11/2",
+        "correct_answers": 216939,
+        "incorrect_answers": 114643,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98263,
+        "text": "Which of these debuted as a playable area in the latest season of âFortniteâ?",
+        "question_number": 5,
+        "eliminated": "20,958",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "327,133",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221867,
+            "text": "Pirate ship",
+            "correct": true,
+            "count": "196,189",
+            "percent": "61.2%"
+          },
+          {
+            "id": 221868,
+            "text": "Ninja dojo",
+            "correct": false,
+            "count": "48,024",
+            "percent": "14.98%"
+          },
+          {
+            "id": 221869,
+            "text": "Desert biome",
+            "correct": false,
+            "count": "76,347",
+            "percent": "23.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/2/5",
+        "game_link": "/us/game/2019-04-11/2",
+        "correct_answers": 196189,
+        "incorrect_answers": 124371,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98278,
+        "text": "Which of these was an actual title made to compete with âMario Kartâ?",
+        "question_number": 6,
+        "eliminated": "31,900",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "296,916",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221889,
+            "text": "Sonic Drift",
+            "correct": true,
+            "count": "224,837",
+            "percent": "73.67%"
+          },
+          {
+            "id": 221891,
+            "text": "Pac-Man Prix",
+            "correct": false,
+            "count": "55,810",
+            "percent": "18.29%"
+          },
+          {
+            "id": 221894,
+            "text": "Croft Racing",
+            "correct": false,
+            "count": "24,553",
+            "percent": "8.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/2/6",
+        "game_link": "/us/game/2019-04-11/2",
+        "correct_answers": 224837,
+        "incorrect_answers": 80363,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98294,
+        "text": "Right up until its release, what was the working title of âAnthemâ?",
+        "question_number": 7,
+        "eliminated": "194,525",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "105,832",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221914,
+            "text": "Beyond",
+            "correct": true,
+            "count": "101,420",
+            "percent": "35.55%"
+          },
+          {
+            "id": 221916,
+            "text": "Hostile",
+            "correct": false,
+            "count": "44,690",
+            "percent": "15.67%"
+          },
+          {
+            "id": 221917,
+            "text": "The Dark",
+            "correct": false,
+            "count": "139,149",
+            "percent": "48.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/2/7",
+        "game_link": "/us/game/2019-04-11/2",
+        "correct_answers": 101420,
+        "incorrect_answers": 183839,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98308,
+        "text": "Which game series features an AI character who shares her name with Microsoftâs digital assistant?",
+        "question_number": 8,
+        "eliminated": "27,264",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "97,073",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221934,
+            "text": "Gears of War",
+            "correct": false,
+            "count": "9,995",
+            "percent": "8.31%"
+          },
+          {
+            "id": 221937,
+            "text": "Quantum Break",
+            "correct": false,
+            "count": "13,256",
+            "percent": "11.02%"
+          },
+          {
+            "id": 221942,
+            "text": "Halo",
+            "correct": true,
+            "count": "97,070",
+            "percent": "80.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/2/8",
+        "game_link": "/us/game/2019-04-11/2",
+        "correct_answers": 97070,
+        "incorrect_answers": 23251,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98325,
+        "text": "What game was widely criticized for NOT featuring any main âFinal Fantasyâ characters?",
+        "question_number": 9,
+        "eliminated": "16,742",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "82,651",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221959,
+            "text": "Fortnite",
+            "correct": false,
+            "count": "7,498",
+            "percent": "7.65%"
+          },
+          {
+            "id": 221963,
+            "text": "Kingdom Hearts III",
+            "correct": true,
+            "count": "82,651",
+            "percent": "84.28%"
+          },
+          {
+            "id": 221972,
+            "text": "Monster Hunter: World",
+            "correct": false,
+            "count": "7,917",
+            "percent": "8.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/2/9",
+        "game_link": "/us/game/2019-04-11/2",
+        "correct_answers": 82651,
+        "incorrect_answers": 15415,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98340,
+        "text": "The âOverwatchâ character d.Va has been described as being a world-class pro in what real-life game series?",
+        "question_number": 10,
+        "eliminated": "30,615",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "54,262",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221982,
+            "text": "Counter-Strike",
+            "correct": false,
+            "count": "14,951",
+            "percent": "17.94%"
+          },
+          {
+            "id": 221985,
+            "text": "StarCraft",
+            "correct": true,
+            "count": "54,262",
+            "percent": "65.1%"
+          },
+          {
+            "id": 221989,
+            "text": "Call of Duty",
+            "correct": false,
+            "count": "14,134",
+            "percent": "16.96%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/2/10",
+        "game_link": "/us/game/2019-04-11/2",
+        "correct_answers": 54262,
+        "incorrect_answers": 29085,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98356,
+        "text": "When originally released, which of these classics featured only overhead gameplay?",
+        "question_number": 11,
+        "eliminated": "6,508",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "52,782",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 222006,
+            "text": "Grand Theft Auto",
+            "correct": true,
+            "count": "52,782",
+            "percent": "89.61%"
+          },
+          {
+            "id": 222008,
+            "text": "Resident Evil",
+            "correct": false,
+            "count": "4,417",
+            "percent": "7.5%"
+          },
+          {
+            "id": 222013,
+            "text": "Grim Fandango",
+            "correct": false,
+            "count": "1,704",
+            "percent": "2.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/2/11",
+        "game_link": "/us/game/2019-04-11/2",
+        "correct_answers": 52782,
+        "incorrect_answers": 6121,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98371,
+        "text": "Found in lots of different games, what is the name of this piece of music?",
+        "question_number": 12,
+        "eliminated": "14,321",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "40,055",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 222029,
+            "text": "The Castle Gates",
+            "correct": false,
+            "count": "6,102",
+            "percent": "11.27%"
+          },
+          {
+            "id": 222032,
+            "text": "Totakaâs Song",
+            "correct": true,
+            "count": "40,055",
+            "percent": "74.01%"
+          },
+          {
+            "id": 222036,
+            "text": "Yoshiâs Mood",
+            "correct": false,
+            "count": "7,966",
+            "percent": "14.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/2/12",
+        "game_link": "/us/game/2019-04-11/2",
+        "correct_answers": 40055,
+        "incorrect_answers": 14068,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98389,
+        "text": "âNBA 2K16â has NOT enabled players to perform which dance?",
+        "question_number": 13,
+        "eliminated": "26,241",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "17,063",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 222055,
+            "text": "The Carlton",
+            "correct": false,
+            "count": "9,240",
+            "percent": "22.19%"
+          },
+          {
+            "id": 222057,
+            "text": "Whip / Nae Nae",
+            "correct": false,
+            "count": "15,339",
+            "percent": "36.84%"
+          },
+          {
+            "id": 222063,
+            "text": "Vogue",
+            "correct": true,
+            "count": "17,063",
+            "percent": "40.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/2/13",
+        "game_link": "/us/game/2019-04-11/2",
+        "correct_answers": 17063,
+        "incorrect_answers": 24579,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98405,
+        "text": "What game is being quoted in this song?",
+        "question_number": 14,
+        "eliminated": "3,734",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "22,335",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 222080,
+            "text": "DOTA 2",
+            "correct": false,
+            "count": "1,770",
+            "percent": "6.83%"
+          },
+          {
+            "id": 222084,
+            "text": "Gigantic",
+            "correct": false,
+            "count": "1,803",
+            "percent": "6.96%"
+          },
+          {
+            "id": 222089,
+            "text": "League of Legends",
+            "correct": true,
+            "count": "22,335",
+            "percent": "86.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/2/14",
+        "game_link": "/us/game/2019-04-11/2",
+        "correct_answers": 22335,
+        "incorrect_answers": 3573,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98422,
+        "text": "In the US version of âSuper Smash Bros. Ultimate,â which of these characters taunts in Japanese?",
+        "question_number": 15,
+        "eliminated": "17,938",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "5,050",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 222105,
+            "text": "Kirby",
+            "correct": false,
+            "count": "9,540",
+            "percent": "42.55%"
+          },
+          {
+            "id": 222110,
+            "text": "Cloud",
+            "correct": true,
+            "count": "5,050",
+            "percent": "22.52%"
+          },
+          {
+            "id": 222114,
+            "text": "Marth",
+            "correct": false,
+            "count": "7,833",
+            "percent": "34.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-11/2/15",
+        "game_link": "/us/game/2019-04-11/2",
+        "correct_answers": 5050,
+        "incorrect_answers": 17373,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 95078,
+    "show_id": 10428,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-04-12T01:30:00Z",
+    "direct_link": "/us/game/2019-04-11/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "4,171",
+      "currency": "$",
+      "average_prize": "0.24"
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-04-11/3/1",
+        "question_number": 1,
+        "text": "Fake Family",
+        "answer": [
+          "THE",
+          "SIMS"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "I"
+        ],
+        "game_link": "/us/game/2019-04-11/3",
+        "eliminated": 26334,
+        "advancing": 157627,
+        "correct_answers": 157627,
+        "incorrect_answers": 26334
+      },
+      {
+        "direct_link": "/us/game/2019-04-11/3/2",
+        "question_number": 2,
+        "text": "Very Mobile Game",
+        "answer": [
+          "POKEMON",
+          "GO"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-11/3",
+        "eliminated": 22122,
+        "advancing": 137040,
+        "correct_answers": 137040,
+        "incorrect_answers": 22122
+      },
+      {
+        "direct_link": "/us/game/2019-04-11/3/3",
+        "question_number": 3,
+        "text": "Place Full of Conflict",
+        "answer": [
+          "WORLD",
+          "OF",
+          "WARCRAFT"
+        ],
+        "initial_letters": [
+          " ",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "T"
+        ],
+        "game_link": "/us/game/2019-04-11/3",
+        "eliminated": 5183,
+        "advancing": 132894,
+        "correct_answers": 132894,
+        "incorrect_answers": 5183
+      },
+      {
+        "direct_link": "/us/game/2019-04-11/3/4",
+        "question_number": 4,
+        "text": "Minecraft Gameplay",
+        "answer": [
+          "SURVIVAL",
+          "MODE"
+        ],
+        "initial_letters": [
+          " ",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "U"
+        ],
+        "game_link": "/us/game/2019-04-11/3",
+        "eliminated": 54440,
+        "advancing": 78639,
+        "correct_answers": 78639,
+        "incorrect_answers": 54440
+      },
+      {
+        "direct_link": "/us/game/2019-04-11/3/5",
+        "question_number": 5,
+        "text": "Celebratory Display",
+        "answer": [
+          "FORTNITE",
+          "DANCE"
+        ],
+        "initial_letters": [
+          " ",
+          "F"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "N"
+        ],
+        "game_link": "/us/game/2019-04-11/3",
+        "eliminated": 6793,
+        "advancing": 75080,
+        "correct_answers": 75080,
+        "incorrect_answers": 6793
+      },
+      {
+        "direct_link": "/us/game/2019-04-11/3/6",
+        "question_number": 6,
+        "text": "Special Controller",
+        "answer": [
+          "ROCK",
+          "BAND",
+          "GUITAR"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "R"
+        ],
+        "game_link": "/us/game/2019-04-11/3",
+        "eliminated": 23899,
+        "advancing": 51610,
+        "correct_answers": 51610,
+        "incorrect_answers": 23899
+      },
+      {
+        "direct_link": "/us/game/2019-04-11/3/7",
+        "question_number": 7,
+        "text": "Tricky Course",
+        "answer": [
+          "RAINBOW",
+          "ROAD"
+        ],
+        "initial_letters": [
+          " ",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-11/3",
+        "eliminated": 2489,
+        "advancing": 51744,
+        "correct_answers": 51744,
+        "incorrect_answers": 2489
+      },
+      {
+        "direct_link": "/us/game/2019-04-11/3/8",
+        "question_number": 8,
+        "text": "Candy Crush Locale",
+        "answer": [
+          "SALTY",
+          "CANYON"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "L"
+        ],
+        "game_link": "/us/game/2019-04-11/3",
+        "eliminated": 15655,
+        "advancing": 36380,
+        "correct_answers": 36380,
+        "incorrect_answers": 15655
+      },
+      {
+        "direct_link": "/us/game/2019-04-11/3/9",
+        "question_number": 9,
+        "text": "Link's Weapon",
+        "answer": [
+          "MAGICAL",
+          "SWORD"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "R"
+        ],
+        "game_link": "/us/game/2019-04-11/3",
+        "eliminated": 20275,
+        "advancing": 18243,
+        "correct_answers": 18243,
+        "incorrect_answers": 20275
+      },
+      {
+        "direct_link": "/us/game/2019-04-11/3/10",
+        "question_number": 10,
+        "text": "Temple Runner",
+        "answer": [
+          "GUY",
+          "DANGEROUS"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-11/3",
+        "eliminated": 11118,
+        "advancing": 11411,
+        "correct_answers": 11411,
+        "incorrect_answers": 11118
+      },
+      {
+        "direct_link": "/us/game/2019-04-11/3/11",
+        "question_number": 11,
+        "text": "Wii Sports Challenge",
+        "answer": [
+          "ONE",
+          "HUNDRED",
+          "PIN",
+          "BOWLING"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "R"
+        ],
+        "game_link": "/us/game/2019-04-11/3",
+        "eliminated": 5936,
+        "advancing": 7977,
+        "correct_answers": 7977,
+        "incorrect_answers": 5936
+      },
+      {
+        "direct_link": "/us/game/2019-04-11/3/12",
+        "question_number": 12,
+        "text": "Smash Bros. Stage",
+        "answer": [
+          "JUNGLE",
+          "HIJINXS"
+        ],
+        "initial_letters": [
+          " ",
+          "X"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "U"
+        ],
+        "game_link": "/us/game/2019-04-11/3",
+        "eliminated": 5215,
+        "advancing": 4171,
+        "correct_answers": 4171,
+        "incorrect_answers": 5215
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

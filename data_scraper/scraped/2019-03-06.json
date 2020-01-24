@@ -1,0 +1,1382 @@
+[
+  {
+    "id": 84141,
+    "show_id": 9810,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-03-07T01:00:00Z",
+    "direct_link": "/us/game/2019-03-06/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "468",
+      "currency": "$",
+      "average_prize": "2.14"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 86652,
+        "text": "A baseball pitcher who enters the game as a substitute is usually called what?",
+        "question_number": 1,
+        "eliminated": "1,587",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "104,008",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204445,
+            "text": "Relief pitcher",
+            "correct": true,
+            "count": "104,008",
+            "percent": "98.5%"
+          },
+          {
+            "id": 204448,
+            "text": "Jeff",
+            "correct": false,
+            "count": "812",
+            "percent": "0.77%"
+          },
+          {
+            "id": 204452,
+            "text": "The olâ switcheroo",
+            "correct": false,
+            "count": "775",
+            "percent": "0.73%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/1/1",
+        "game_link": "/us/game/2019-03-06/1",
+        "correct_answers": 104008,
+        "incorrect_answers": 1587,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86665,
+        "text": "Which sport has offsides determined by a blue line on the playing surface?",
+        "question_number": 2,
+        "eliminated": "25,475",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "79,371",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204462,
+            "text": "Football",
+            "correct": false,
+            "count": "6,491",
+            "percent": "7.14%"
+          },
+          {
+            "id": 204465,
+            "text": "Soccer",
+            "correct": false,
+            "count": "5,008",
+            "percent": "5.51%"
+          },
+          {
+            "id": 204469,
+            "text": "Hockey",
+            "correct": true,
+            "count": "79,371",
+            "percent": "87.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/1/2",
+        "game_link": "/us/game/2019-03-06/1",
+        "correct_answers": 79371,
+        "incorrect_answers": 11499,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86682,
+        "text": "What menâs NCAA basketball team just saw its 14-year streak of Big-12 regular-season championships end?",
+        "question_number": 3,
+        "eliminated": "19,080",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "61,116",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204488,
+            "text": "Oklahoma",
+            "correct": false,
+            "count": "8,908",
+            "percent": "11.8%"
+          },
+          {
+            "id": 204491,
+            "text": "Kansas",
+            "correct": true,
+            "count": "61,116",
+            "percent": "80.97%"
+          },
+          {
+            "id": 204493,
+            "text": "West Virginia",
+            "correct": false,
+            "count": "5,452",
+            "percent": "7.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/1/3",
+        "game_link": "/us/game/2019-03-06/1",
+        "correct_answers": 61116,
+        "incorrect_answers": 14360,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86697,
+        "text": "What MLB team had a pitcher nicknamed âThe Birdâ who was an All-Star as a rookie?",
+        "question_number": 4,
+        "eliminated": "29,040",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "33,126",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204510,
+            "text": "Tigers",
+            "correct": true,
+            "count": "33,126",
+            "percent": "54.8%"
+          },
+          {
+            "id": 204512,
+            "text": "Cardinals",
+            "correct": false,
+            "count": "14,722",
+            "percent": "24.35%"
+          },
+          {
+            "id": 204515,
+            "text": "Angels",
+            "correct": false,
+            "count": "12,602",
+            "percent": "20.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/1/4",
+        "game_link": "/us/game/2019-03-06/1",
+        "correct_answers": 33126,
+        "incorrect_answers": 27324,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86715,
+        "text": "Which of these head coaches won national championships at two different schools?",
+        "question_number": 5,
+        "eliminated": "8,064",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "26,829",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204537,
+            "text": "Nick Saban",
+            "correct": true,
+            "count": "26,829",
+            "percent": "78.31%"
+          },
+          {
+            "id": 204540,
+            "text": "Woody Hayes",
+            "correct": false,
+            "count": "3,048",
+            "percent": "8.9%"
+          },
+          {
+            "id": 204545,
+            "text": "Bear Bryant",
+            "correct": false,
+            "count": "4,384",
+            "percent": "12.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/1/5",
+        "game_link": "/us/game/2019-03-06/1",
+        "correct_answers": 26829,
+        "incorrect_answers": 7432,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86730,
+        "text": "Which of these is NOT one of the sports included in Nordic Combined?",
+        "question_number": 6,
+        "eliminated": "19,983",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "7,365",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204559,
+            "text": "Ski jump",
+            "correct": false,
+            "count": "16,121",
+            "percent": "60.39%"
+          },
+          {
+            "id": 204563,
+            "text": "Cross country skiing",
+            "correct": false,
+            "count": "3,210",
+            "percent": "12.02%"
+          },
+          {
+            "id": 204569,
+            "text": "Shooting",
+            "correct": true,
+            "count": "7,365",
+            "percent": "27.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/1/6",
+        "game_link": "/us/game/2019-03-06/1",
+        "correct_answers": 7365,
+        "incorrect_answers": 19331,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86746,
+        "text": "What was a nickname of the player who gave this response to a reporterâs question?",
+        "question_number": 7,
+        "eliminated": "1,068",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "9,270",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204582,
+            "text": "The Answer",
+            "correct": true,
+            "count": "9,270",
+            "percent": "91.0%"
+          },
+          {
+            "id": 204586,
+            "text": "Black Mamba",
+            "correct": false,
+            "count": "578",
+            "percent": "5.67%"
+          },
+          {
+            "id": 204592,
+            "text": "Schoolbag Du",
+            "correct": false,
+            "count": "339",
+            "percent": "3.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/1/7",
+        "game_link": "/us/game/2019-03-06/1",
+        "correct_answers": 9270,
+        "incorrect_answers": 917,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86761,
+        "text": "Which player never played in a single Ryder Cup?",
+        "question_number": 8,
+        "eliminated": "5,345",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,026",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204606,
+            "text": "Greg Norman",
+            "correct": true,
+            "count": "4,026",
+            "percent": "43.94%"
+          },
+          {
+            "id": 204609,
+            "text": "David Duval",
+            "correct": false,
+            "count": "1,580",
+            "percent": "17.24%"
+          },
+          {
+            "id": 204612,
+            "text": "Seve Ballesteros",
+            "correct": false,
+            "count": "3,557",
+            "percent": "38.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/1/8",
+        "game_link": "/us/game/2019-03-06/1",
+        "correct_answers": 4026,
+        "incorrect_answers": 5137,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86778,
+        "text": "Which of these teams has NOT appeared in at least one World Series?",
+        "question_number": 9,
+        "eliminated": "1,868",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "3,312",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204631,
+            "text": "Mariners",
+            "correct": true,
+            "count": "3,312",
+            "percent": "65.26%"
+          },
+          {
+            "id": 204633,
+            "text": "Rays",
+            "correct": false,
+            "count": "561",
+            "percent": "11.05%"
+          },
+          {
+            "id": 204637,
+            "text": "Padres",
+            "correct": false,
+            "count": "1,202",
+            "percent": "23.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/1/9",
+        "game_link": "/us/game/2019-03-06/1",
+        "correct_answers": 3312,
+        "incorrect_answers": 1763,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86792,
+        "text": "Which NBA player currently leads his team in points-per-game scoring for the season?",
+        "question_number": 10,
+        "eliminated": "2,593",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,133",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204652,
+            "text": "Russell Westbrook",
+            "correct": false,
+            "count": "1,002",
+            "percent": "27.88%"
+          },
+          {
+            "id": 204655,
+            "text": "Kyrie Irving",
+            "correct": true,
+            "count": "1,133",
+            "percent": "31.52%"
+          },
+          {
+            "id": 204661,
+            "text": "Kevin Durant",
+            "correct": false,
+            "count": "1,459",
+            "percent": "40.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/1/10",
+        "game_link": "/us/game/2019-03-06/1",
+        "correct_answers": 1133,
+        "incorrect_answers": 2461,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86808,
+        "text": "In the ESPN Womenâs Top 25, what was the most recent team to be unanimously No. 1?",
+        "question_number": 11,
+        "eliminated": "643",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,035",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204676,
+            "text": "Notre Dame",
+            "correct": false,
+            "count": "318",
+            "percent": "19.26%"
+          },
+          {
+            "id": 204680,
+            "text": "Baylor",
+            "correct": true,
+            "count": "1,035",
+            "percent": "62.69%"
+          },
+          {
+            "id": 204684,
+            "text": "UConn",
+            "correct": false,
+            "count": "298",
+            "percent": "18.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/1/11",
+        "game_link": "/us/game/2019-03-06/1",
+        "correct_answers": 1035,
+        "incorrect_answers": 616,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86823,
+        "text": "By population, what is the biggest city with only one team in the four major US sports leagues?",
+        "question_number": 12,
+        "eliminated": "691",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "468",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204699,
+            "text": "Las Vegas",
+            "correct": false,
+            "count": "316",
+            "percent": "28.55%"
+          },
+          {
+            "id": 204705,
+            "text": "San Diego",
+            "correct": false,
+            "count": "323",
+            "percent": "29.18%"
+          },
+          {
+            "id": 204711,
+            "text": "San Antonio",
+            "correct": true,
+            "count": "468",
+            "percent": "42.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/1/12",
+        "game_link": "/us/game/2019-03-06/1",
+        "correct_answers": 468,
+        "incorrect_answers": 639,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 84258,
+    "show_id": 9885,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-03-07T02:00:00Z",
+    "direct_link": "/us/game/2019-03-06/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "4,368",
+      "currency": "$",
+      "average_prize": "1.14"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Taylor Swift",
+        "slug": "taylor-swift"
+      },
+      {
+        "name": "Music",
+        "slug": "music"
+      }
+    ],
+    "questions": [
+      {
+        "id": 86837,
+        "text": "Taylor Swiftâs fans often call themselves what?",
+        "question_number": 1,
+        "eliminated": "9,527",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "332,394",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204720,
+            "text": "Swifties",
+            "correct": true,
+            "count": "332,394",
+            "percent": "97.21%"
+          },
+          {
+            "id": 204721,
+            "text": "Katy Kats",
+            "correct": false,
+            "count": "3,768",
+            "percent": "1.1%"
+          },
+          {
+            "id": 204722,
+            "text": "Little Monsters",
+            "correct": false,
+            "count": "5,759",
+            "percent": "1.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/2/1",
+        "game_link": "/us/game/2019-03-06/2",
+        "correct_answers": 332394,
+        "incorrect_answers": 9527,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86853,
+        "text": "What famous couple does Taylor heavily reference in âLove Storyâ?",
+        "question_number": 2,
+        "eliminated": "34,957",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "299,795",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204744,
+            "text": "Jack / Rose",
+            "correct": false,
+            "count": "21,796",
+            "percent": "6.63%"
+          },
+          {
+            "id": 204745,
+            "text": "Brangelina",
+            "correct": false,
+            "count": "7,085",
+            "percent": "2.16%"
+          },
+          {
+            "id": 204746,
+            "text": "Romeo / Juliet",
+            "correct": true,
+            "count": "299,795",
+            "percent": "91.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/2/2",
+        "game_link": "/us/game/2019-03-06/2",
+        "correct_answers": 299795,
+        "incorrect_answers": 28881,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86869,
+        "text": "According to her hit song, Taylor âknew you were trouble when youâ what?",
+        "question_number": 3,
+        "eliminated": "13,252",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "288,708",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204768,
+            "text": "Sat down",
+            "correct": false,
+            "count": "5,325",
+            "percent": "1.79%"
+          },
+          {
+            "id": 204769,
+            "text": "Shook hands",
+            "correct": false,
+            "count": "4,211",
+            "percent": "1.41%"
+          },
+          {
+            "id": 204771,
+            "text": "Walked in",
+            "correct": true,
+            "count": "288,708",
+            "percent": "96.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/2/3",
+        "game_link": "/us/game/2019-03-06/2",
+        "correct_answers": 288708,
+        "incorrect_answers": 9536,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86885,
+        "text": "Taylor burst onto the country music scene with a song about who?",
+        "question_number": 4,
+        "eliminated": "79,921",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "209,826",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204792,
+            "text": "Tim McGraw",
+            "correct": true,
+            "count": "209,826",
+            "percent": "73.52%"
+          },
+          {
+            "id": 204794,
+            "text": "Blake Shelton",
+            "correct": false,
+            "count": "21,934",
+            "percent": "7.69%"
+          },
+          {
+            "id": 204796,
+            "text": "Dolly Parton",
+            "correct": false,
+            "count": "53,623",
+            "percent": "18.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/2/4",
+        "game_link": "/us/game/2019-03-06/2",
+        "correct_answers": 209826,
+        "incorrect_answers": 75557,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86902,
+        "text": "What does Taylor NOT dress up as in the âShake It Offâ music video?",
+        "question_number": 5,
+        "eliminated": "45,662",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "169,001",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204816,
+            "text": "Tap dancer",
+            "correct": true,
+            "count": "169,001",
+            "percent": "79.84%"
+          },
+          {
+            "id": 204819,
+            "text": "Ballerina",
+            "correct": false,
+            "count": "26,035",
+            "percent": "12.3%"
+          },
+          {
+            "id": 204823,
+            "text": "Cheerleader",
+            "correct": false,
+            "count": "16,634",
+            "percent": "7.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/2/5",
+        "game_link": "/us/game/2019-03-06/2",
+        "correct_answers": 169001,
+        "incorrect_answers": 42669,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86915,
+        "text": "According to a widespread theory, Taylor was once smuggled out of her apartment in a what?",
+        "question_number": 6,
+        "eliminated": "56,263",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "117,881",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204837,
+            "text": "Laundry hamper",
+            "correct": false,
+            "count": "27,105",
+            "percent": "15.96%"
+          },
+          {
+            "id": 204838,
+            "text": "Big suitcase",
+            "correct": true,
+            "count": "117,881",
+            "percent": "69.41%"
+          },
+          {
+            "id": 204839,
+            "text": "Persian rug",
+            "correct": false,
+            "count": "24,846",
+            "percent": "14.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/2/6",
+        "game_link": "/us/game/2019-03-06/2",
+        "correct_answers": 117881,
+        "incorrect_answers": 51951,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86931,
+        "text": "Which of these songs literally mentions âreceiptsâ?",
+        "question_number": 7,
+        "eliminated": "91,596",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "32,972",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204861,
+            "text": "Look What You Made Me Do",
+            "correct": false,
+            "count": "64,474",
+            "percent": "54.24%"
+          },
+          {
+            "id": 204863,
+            "text": "Call It What You Want",
+            "correct": false,
+            "count": "21,421",
+            "percent": "18.02%"
+          },
+          {
+            "id": 204865,
+            "text": "I Did Something Bad",
+            "correct": true,
+            "count": "32,972",
+            "percent": "27.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/2/7",
+        "game_link": "/us/game/2019-03-06/2",
+        "correct_answers": 32972,
+        "incorrect_answers": 85895,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86950,
+        "text": "Which of these Grammys did Taylor Swift win the year she wore this outfit?",
+        "question_number": 8,
+        "eliminated": "24,087",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "27,120",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204893,
+            "text": "Best Country Album",
+            "correct": false,
+            "count": "8,962",
+            "percent": "17.89%"
+          },
+          {
+            "id": 204896,
+            "text": "Song of the Year",
+            "correct": false,
+            "count": "14,009",
+            "percent": "27.97%"
+          },
+          {
+            "id": 204899,
+            "text": "Album of the Year",
+            "correct": true,
+            "count": "27,120",
+            "percent": "54.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/2/8",
+        "game_link": "/us/game/2019-03-06/2",
+        "correct_answers": 27120,
+        "incorrect_answers": 22971,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86964,
+        "text": "Taylor Swift does NOT have a cat named after a lead character from which show?",
+        "question_number": 9,
+        "eliminated": "6,435",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "23,703",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204910,
+            "text": "Law and Order: SVU",
+            "correct": false,
+            "count": "4,538",
+            "percent": "15.18%"
+          },
+          {
+            "id": 204913,
+            "text": "Scandal",
+            "correct": true,
+            "count": "23,703",
+            "percent": "79.29%"
+          },
+          {
+            "id": 204917,
+            "text": "Greyâs Anatomy",
+            "correct": false,
+            "count": "1,652",
+            "percent": "5.53%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/2/9",
+        "game_link": "/us/game/2019-03-06/2",
+        "correct_answers": 23703,
+        "incorrect_answers": 6190,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86979,
+        "text": "What song did Taylor perform at the infamous Kanye-interrupting VMAs?",
+        "question_number": 10,
+        "eliminated": "6,122",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "18,328",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204933,
+            "text": "Back to December",
+            "correct": false,
+            "count": "3,066",
+            "percent": "13.4%"
+          },
+          {
+            "id": 204935,
+            "text": "Teardrops On My Guitar",
+            "correct": false,
+            "count": "1,485",
+            "percent": "6.49%"
+          },
+          {
+            "id": 204938,
+            "text": "You Belong With Me",
+            "correct": true,
+            "count": "18,328",
+            "percent": "80.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/2/10",
+        "game_link": "/us/game/2019-03-06/2",
+        "correct_answers": 18328,
+        "incorrect_answers": 4551,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86997,
+        "text": "Which of these is a real character name in the âBad Bloodâ video?",
+        "question_number": 11,
+        "eliminated": "3,609",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "15,436",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204960,
+            "text": "Lil Bae",
+            "correct": false,
+            "count": "1,922",
+            "percent": "10.18%"
+          },
+          {
+            "id": 204965,
+            "text": "Freaky Minaj",
+            "correct": false,
+            "count": "1,531",
+            "percent": "8.11%"
+          },
+          {
+            "id": 204970,
+            "text": "Slay-Z",
+            "correct": true,
+            "count": "15,436",
+            "percent": "81.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/2/11",
+        "game_link": "/us/game/2019-03-06/2",
+        "correct_answers": 15436,
+        "incorrect_answers": 3453,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87015,
+        "text": "What emoji did Taylor Swift include in her famed âexcluded from this narrativeâ Notes statement?",
+        "question_number": 12,
+        "eliminated": "11,342",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "4,674",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204986,
+            "text": "Smile",
+            "correct": false,
+            "count": "460",
+            "percent": "2.93%"
+          },
+          {
+            "id": 204991,
+            "text": "Snake",
+            "correct": false,
+            "count": "10,562",
+            "percent": "67.29%"
+          },
+          {
+            "id": 204996,
+            "text": "No emoji",
+            "correct": true,
+            "count": "4,674",
+            "percent": "29.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/2/12",
+        "game_link": "/us/game/2019-03-06/2",
+        "correct_answers": 4674,
+        "incorrect_answers": 11022,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87028,
+        "text": "What tabloid fodder does Taylor visually reference in her âLook What You Made Me Doâ video?",
+        "question_number": 13,
+        "eliminated": "2,085",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "4,368",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 205006,
+            "text": "Kennedy compound house",
+            "correct": false,
+            "count": "1,017",
+            "percent": "16.81%"
+          },
+          {
+            "id": 205010,
+            "text": "I <3 TS",
+            "correct": true,
+            "count": "4,368",
+            "percent": "72.2%"
+          },
+          {
+            "id": 205015,
+            "text": "Rhode Island sea wall",
+            "correct": false,
+            "count": "665",
+            "percent": "10.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-06/2/13",
+        "game_link": "/us/game/2019-03-06/2",
+        "correct_answers": 4368,
+        "incorrect_answers": 1682,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 84390,
+    "show_id": 9947,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-03-07T02:30:00Z",
+    "direct_link": "/us/game/2019-03-06/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "60.73"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "60.91"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "61.35"
+        },
+        {
+          "number": "35,703",
+          "amount": "0.02",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.021705035568251835,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-03-06/3/1",
+        "question_number": 1,
+        "text": "Big Cats",
+        "answer": [
+          "LIONS"
+        ],
+        "initial_letters": [
+          "L"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "S"
+        ],
+        "game_link": "/us/game/2019-03-06/3",
+        "eliminated": 5612,
+        "advancing": 160558,
+        "correct_answers": 160558,
+        "incorrect_answers": 5612
+      },
+      {
+        "direct_link": "/us/game/2019-03-06/3/2",
+        "question_number": 2,
+        "text": "Student Fear",
+        "answer": [
+          "POP",
+          "QUIZ"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "Q"
+        ],
+        "game_link": "/us/game/2019-03-06/3",
+        "eliminated": 2251,
+        "advancing": 158659,
+        "correct_answers": 158659,
+        "incorrect_answers": 2251
+      },
+      {
+        "direct_link": "/us/game/2019-03-06/3/3",
+        "question_number": 3,
+        "text": "How're You Paying?",
+        "answer": [
+          "DEBIT",
+          "CARD"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "E"
+        ],
+        "game_link": "/us/game/2019-03-06/3",
+        "eliminated": 8674,
+        "advancing": 149781,
+        "correct_answers": 149781,
+        "incorrect_answers": 8674
+      },
+      {
+        "direct_link": "/us/game/2019-03-06/3/4",
+        "question_number": 4,
+        "text": "Who Just Got Outta Bed?",
+        "answer": [
+          "SLEEPWALKER"
+        ],
+        "initial_letters": [
+          "E"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "W"
+        ],
+        "game_link": "/us/game/2019-03-06/3",
+        "eliminated": 27109,
+        "advancing": 122998,
+        "correct_answers": 122998,
+        "incorrect_answers": 27109
+      },
+      {
+        "direct_link": "/us/game/2019-03-06/3/5",
+        "question_number": 5,
+        "text": "Easy Dinner",
+        "answer": [
+          "PIZZA",
+          "DELIVERY"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "D"
+        ],
+        "game_link": "/us/game/2019-03-06/3",
+        "eliminated": 36236,
+        "advancing": 87956,
+        "correct_answers": 87956,
+        "incorrect_answers": 36236
+      },
+      {
+        "direct_link": "/us/game/2019-03-06/3/6",
+        "question_number": 6,
+        "text": "Date Activity",
+        "answer": [
+          "MINIATURE",
+          "GOLF"
+        ],
+        "initial_letters": [
+          " ",
+          "F"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "M"
+        ],
+        "game_link": "/us/game/2019-03-06/3",
+        "eliminated": 14928,
+        "advancing": 75495,
+        "correct_answers": 75495,
+        "incorrect_answers": 14928
+      },
+      {
+        "direct_link": "/us/game/2019-03-06/3/7",
+        "question_number": 7,
+        "text": "Classic Dance",
+        "answer": [
+          "ELECTRIC",
+          "SLIDE"
+        ],
+        "initial_letters": [
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "E"
+        ],
+        "game_link": "/us/game/2019-03-06/3",
+        "eliminated": 4884,
+        "advancing": 72040,
+        "correct_answers": 72040,
+        "incorrect_answers": 4884
+      },
+      {
+        "direct_link": "/us/game/2019-03-06/3/8",
+        "question_number": 8,
+        "text": "Drink Preference",
+        "answer": [
+          "SHAKEN",
+          "NOT",
+          "STIRRED"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "S"
+        ],
+        "game_link": "/us/game/2019-03-06/3",
+        "eliminated": 16470,
+        "advancing": 56218,
+        "correct_answers": 56218,
+        "incorrect_answers": 16470
+      },
+      {
+        "direct_link": "/us/game/2019-03-06/3/9",
+        "question_number": 9,
+        "text": "Maybe Later?",
+        "answer": [
+          "I'LL",
+          "TAKE",
+          "A",
+          "RAINCHECK"
+        ],
+        "initial_letters": [
+          "'",
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "N"
+        ],
+        "game_link": "/us/game/2019-03-06/3",
+        "eliminated": 9108,
+        "advancing": 49910,
+        "correct_answers": 49910,
+        "incorrect_answers": 9108
+      },
+      {
+        "direct_link": "/us/game/2019-03-06/3/10",
+        "question_number": 10,
+        "text": "Spelled-Out Abbreviation",
+        "answer": [
+          "YOUR",
+          "MILEAGE",
+          "MAY",
+          "VARY"
+        ],
+        "initial_letters": [
+          " ",
+          "Y"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "G"
+        ],
+        "game_link": "/us/game/2019-03-06/3",
+        "eliminated": 16276,
+        "advancing": 35706,
+        "correct_answers": 35706,
+        "incorrect_answers": 16276
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

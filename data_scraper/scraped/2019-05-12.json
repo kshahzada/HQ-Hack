@@ -1,0 +1,970 @@
+[
+  {
+    "id": 101873,
+    "show_id": 10788,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "10,000",
+    "currency": "$",
+    "start_time": "2019-05-13T01:00:00Z",
+    "direct_link": "/us/game/2019-05-12/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,427",
+      "currency": "$",
+      "average_prize": "4.12"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Mother's Day",
+        "slug": "mothers-day"
+      }
+    ],
+    "questions": [
+      {
+        "id": 105681,
+        "text": "Which of these royal women most recently gave birth?",
+        "question_number": 1,
+        "eliminated": "-10,448",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "275,625",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232994,
+            "text": "Queen Elizabeth II",
+            "correct": false,
+            "count": "6,053",
+            "percent": "2.34%"
+          },
+          {
+            "id": 232996,
+            "text": "Duchess Kate",
+            "correct": false,
+            "count": "20,016",
+            "percent": "7.74%"
+          },
+          {
+            "id": 232998,
+            "text": "Duchess Meghan",
+            "correct": true,
+            "count": "232,479",
+            "percent": "89.92%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-12/1/1",
+        "game_link": "/us/game/2019-05-12/1",
+        "correct_answers": 232479,
+        "incorrect_answers": 26069,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105689,
+        "text": "In the novel âLittle Women,â Mrs. Marchâs daughters often call her what?",
+        "question_number": 2,
+        "eliminated": "4,047",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "271,986",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 233006,
+            "text": "Marmee",
+            "correct": true,
+            "count": "170,768",
+            "percent": "67.43%"
+          },
+          {
+            "id": 233007,
+            "text": "Mamalee",
+            "correct": false,
+            "count": "72,331",
+            "percent": "28.56%"
+          },
+          {
+            "id": 233008,
+            "text": "Meowmie",
+            "correct": false,
+            "count": "10,163",
+            "percent": "4.01%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-12/1/2",
+        "game_link": "/us/game/2019-05-12/1",
+        "correct_answers": 170768,
+        "incorrect_answers": 82494,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105697,
+        "text": "What television show is this from?",
+        "question_number": 3,
+        "eliminated": "2,355",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "269,992",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 233018,
+            "text": "This Is Us",
+            "correct": true,
+            "count": "210,807",
+            "percent": "82.9%"
+          },
+          {
+            "id": 233019,
+            "text": "Gilmore Girls",
+            "correct": false,
+            "count": "12,752",
+            "percent": "5.01%"
+          },
+          {
+            "id": 233020,
+            "text": "Parenthood",
+            "correct": false,
+            "count": "30,728",
+            "percent": "12.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-12/1/3",
+        "game_link": "/us/game/2019-05-12/1",
+        "correct_answers": 210807,
+        "incorrect_answers": 43480,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105705,
+        "text": "Which of these is NOT one of Morticia Addamsâ childrenâs names?",
+        "question_number": 4,
+        "eliminated": "3,721",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "266,420",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 233030,
+            "text": "Wednesday",
+            "correct": false,
+            "count": "5,966",
+            "percent": "2.37%"
+          },
+          {
+            "id": 233032,
+            "text": "Debbie",
+            "correct": true,
+            "count": "231,744",
+            "percent": "92.2%"
+          },
+          {
+            "id": 233034,
+            "text": "Pugsley",
+            "correct": false,
+            "count": "13,652",
+            "percent": "5.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-12/1/4",
+        "game_link": "/us/game/2019-05-12/1",
+        "correct_answers": 231744,
+        "incorrect_answers": 19618,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105713,
+        "text": "Whose baby is this?",
+        "question_number": 5,
+        "eliminated": "7,787",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "258,809",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 233042,
+            "text": "Katie Holmes",
+            "correct": true,
+            "count": "174,914",
+            "percent": "70.18%"
+          },
+          {
+            "id": 233044,
+            "text": "Victoria Beckham",
+            "correct": false,
+            "count": "30,715",
+            "percent": "12.32%"
+          },
+          {
+            "id": 233046,
+            "text": "Megan Fox",
+            "correct": false,
+            "count": "43,610",
+            "percent": "17.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-12/1/5",
+        "game_link": "/us/game/2019-05-12/1",
+        "correct_answers": 174914,
+        "incorrect_answers": 74325,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105721,
+        "text": "The actor behind which character in âMamma Mia 2â became a Dame while filming?",
+        "question_number": 6,
+        "eliminated": "29,520",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "229,702",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 233054,
+            "text": "Rosie",
+            "correct": true,
+            "count": "72,476",
+            "percent": "32.82%"
+          },
+          {
+            "id": 233055,
+            "text": "Donna",
+            "correct": false,
+            "count": "92,812",
+            "percent": "42.03%"
+          },
+          {
+            "id": 233056,
+            "text": "Tanya",
+            "correct": false,
+            "count": "55,522",
+            "percent": "25.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-12/1/6",
+        "game_link": "/us/game/2019-05-12/1",
+        "correct_answers": 72476,
+        "incorrect_answers": 148334,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105729,
+        "text": "Which of these is a real âNCISâ character?",
+        "question_number": 7,
+        "eliminated": "84,809",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "148,471",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 233066,
+            "text": "Gerald âGoofyâ McGee",
+            "correct": false,
+            "count": "38,237",
+            "percent": "18.13%"
+          },
+          {
+            "id": 233068,
+            "text": "Donald âDuckyâ Mallard",
+            "correct": true,
+            "count": "105,825",
+            "percent": "50.16%"
+          },
+          {
+            "id": 233070,
+            "text": "Mickey âMouseâ Gibbs",
+            "correct": false,
+            "count": "66,897",
+            "percent": "31.71%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-12/1/7",
+        "game_link": "/us/game/2019-05-12/1",
+        "correct_answers": 105825,
+        "incorrect_answers": 105134,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105737,
+        "text": "In 2003âs âFreaky Friday,â what does Jamie Lee Curtis compare her looks to when she wakes up after the switch?",
+        "question_number": 8,
+        "eliminated": "46,084",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "111,105",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 233078,
+            "text": "Walter Matthau",
+            "correct": false,
+            "count": "15,768",
+            "percent": "11.05%"
+          },
+          {
+            "id": 233079,
+            "text": "Yoda",
+            "correct": false,
+            "count": "17,569",
+            "percent": "12.31%"
+          },
+          {
+            "id": 233080,
+            "text": "Crypt keeper",
+            "correct": true,
+            "count": "109,415",
+            "percent": "76.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-12/1/8",
+        "game_link": "/us/game/2019-05-12/1",
+        "correct_answers": 109415,
+        "incorrect_answers": 33337,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105741,
+        "text": "Which country hitâs music video features the singerâs daughters?",
+        "question_number": 9,
+        "eliminated": "37,164",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "81,327",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 233084,
+            "text": "The Way You Love Me",
+            "correct": false,
+            "count": "17,692",
+            "percent": "15.4%"
+          },
+          {
+            "id": 233086,
+            "text": "I Hope You Dance",
+            "correct": true,
+            "count": "81,206",
+            "percent": "70.7%"
+          },
+          {
+            "id": 233088,
+            "text": "Youâre Still the One",
+            "correct": false,
+            "count": "15,954",
+            "percent": "13.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-12/1/9",
+        "game_link": "/us/game/2019-05-12/1",
+        "correct_answers": 81206,
+        "incorrect_answers": 33646,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105749,
+        "text": "Which of these television shows was created by a husband-and-wife team?",
+        "question_number": 10,
+        "eliminated": "29,480",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "56,998",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 233096,
+            "text": "The Good Wife",
+            "correct": true,
+            "count": "56,985",
+            "percent": "66.95%"
+          },
+          {
+            "id": 233097,
+            "text": "Royal Pains",
+            "correct": false,
+            "count": "13,089",
+            "percent": "15.38%"
+          },
+          {
+            "id": 233098,
+            "text": "Suits",
+            "correct": false,
+            "count": "15,041",
+            "percent": "17.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-12/1/10",
+        "game_link": "/us/game/2019-05-12/1",
+        "correct_answers": 56985,
+        "incorrect_answers": 28130,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105757,
+        "text": "What does the psychological issue âThe Dobby Effectâ specifically refer to?",
+        "question_number": 11,
+        "eliminated": "12,435",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "49,258",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 233108,
+            "text": "Self-improvement",
+            "correct": false,
+            "count": "3,164",
+            "percent": "5.23%"
+          },
+          {
+            "id": 233109,
+            "text": "Self-punishment",
+            "correct": true,
+            "count": "49,258",
+            "percent": "81.44%"
+          },
+          {
+            "id": 233111,
+            "text": "Self-preservation",
+            "correct": false,
+            "count": "8,064",
+            "percent": "13.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-12/1/11",
+        "game_link": "/us/game/2019-05-12/1",
+        "correct_answers": 49258,
+        "incorrect_answers": 11228,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105765,
+        "text": "In âGame of Thrones,â what dramatically differs between the bookâs and the showâs Mother of Dragons scene?",
+        "question_number": 12,
+        "eliminated": "26,295",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "25,411",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 233120,
+            "text": "Daenerysâs hair",
+            "correct": true,
+            "count": "25,411",
+            "percent": "57.64%"
+          },
+          {
+            "id": 233121,
+            "text": "Dragonâs tails",
+            "correct": false,
+            "count": "15,285",
+            "percent": "34.67%"
+          },
+          {
+            "id": 233122,
+            "text": "Drogonâs yell",
+            "correct": false,
+            "count": "3,388",
+            "percent": "7.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-12/1/12",
+        "game_link": "/us/game/2019-05-12/1",
+        "correct_answers": 25411,
+        "incorrect_answers": 18673,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105773,
+        "text": "Which of these actresses has NOT appeared onscreen in a film with her real-life mother?",
+        "question_number": 13,
+        "eliminated": "26,149",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "6,681",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 233132,
+            "text": "Dakota Johnson",
+            "correct": false,
+            "count": "15,911",
+            "percent": "49.37%"
+          },
+          {
+            "id": 233133,
+            "text": "Gwyneth Paltrow",
+            "correct": false,
+            "count": "9,638",
+            "percent": "29.9%"
+          },
+          {
+            "id": 233134,
+            "text": "Kate Hudson",
+            "correct": true,
+            "count": "6,681",
+            "percent": "20.73%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-12/1/13",
+        "game_link": "/us/game/2019-05-12/1",
+        "correct_answers": 6681,
+        "incorrect_answers": 25549,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105781,
+        "text": "What first lady was given a home by her mother-in-law, then found out her mother in law lived next door?",
+        "question_number": 14,
+        "eliminated": "5,908",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "8,472",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 233144,
+            "text": "Rosalynn Carter",
+            "correct": false,
+            "count": "3,266",
+            "percent": "23.34%"
+          },
+          {
+            "id": 233145,
+            "text": "Eleanor Roosevelt",
+            "correct": true,
+            "count": "8,472",
+            "percent": "60.54%"
+          },
+          {
+            "id": 233147,
+            "text": "Lady Bird Johnson",
+            "correct": false,
+            "count": "2,256",
+            "percent": "16.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-12/1/14",
+        "game_link": "/us/game/2019-05-12/1",
+        "correct_answers": 8472,
+        "incorrect_answers": 5522,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105789,
+        "text": "Which of these talk show hosts sang their own theme song at one point?",
+        "question_number": 15,
+        "eliminated": "6,870",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "2,427",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 233156,
+            "text": "Rosie OâDonnell",
+            "correct": false,
+            "count": "4,055",
+            "percent": "44.31%"
+          },
+          {
+            "id": 233157,
+            "text": "Oprah Winfrey",
+            "correct": true,
+            "count": "2,427",
+            "percent": "26.52%"
+          },
+          {
+            "id": 233159,
+            "text": "Ellen DeGeneres",
+            "correct": false,
+            "count": "2,670",
+            "percent": "29.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-12/1/15",
+        "game_link": "/us/game/2019-05-12/1",
+        "correct_answers": 2427,
+        "incorrect_answers": 6725,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 101943,
+    "show_id": 10783,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-05-13T01:30:00Z",
+    "direct_link": "/us/game/2019-05-12/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "9,439",
+      "currency": "$",
+      "average_prize": "0.11"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Mother's Day",
+        "slug": "mothers-day"
+      }
+    ],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-05-12/2/1",
+        "question_number": 1,
+        "text": "Famous Momager",
+        "answer": [
+          "KRIS",
+          "JENNER"
+        ],
+        "initial_letters": [
+          " ",
+          "K"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "R"
+        ],
+        "game_link": "/us/game/2019-05-12/2",
+        "eliminated": 12993,
+        "advancing": 105145,
+        "correct_answers": 105145,
+        "incorrect_answers": 12993
+      },
+      {
+        "direct_link": "/us/game/2019-05-12/2/2",
+        "question_number": 2,
+        "text": "Pop Music Parents?",
+        "answer": [
+          "THE",
+          "MAMAS",
+          "&",
+          "THE",
+          "PAPAS"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "S"
+        ],
+        "game_link": "/us/game/2019-05-12/2",
+        "eliminated": 15063,
+        "advancing": 90202,
+        "correct_answers": 90202,
+        "incorrect_answers": 15063
+      },
+      {
+        "direct_link": "/us/game/2019-05-12/2/3",
+        "question_number": 3,
+        "text": "Nice Motherâs Day Treat",
+        "answer": [
+          "BREAKFAST",
+          "IN",
+          "BED"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "T"
+        ],
+        "game_link": "/us/game/2019-05-12/2",
+        "eliminated": 13751,
+        "advancing": 76940,
+        "correct_answers": 76940,
+        "incorrect_answers": 13751
+      },
+      {
+        "direct_link": "/us/game/2019-05-12/2/4",
+        "question_number": 4,
+        "text": "Momâs Advice",
+        "answer": [
+          "BRING",
+          "A",
+          "JACKET!"
+        ],
+        "initial_letters": [
+          " ",
+          "!",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "J",
+          "T"
+        ],
+        "game_link": "/us/game/2019-05-12/2",
+        "eliminated": 20780,
+        "advancing": 56981,
+        "correct_answers": 56981,
+        "incorrect_answers": 20780
+      },
+      {
+        "direct_link": "/us/game/2019-05-12/2/5",
+        "question_number": 5,
+        "text": "Magazine Superlative",
+        "answer": [
+          "SEXIEST",
+          "MAN",
+          "ALIVE"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "S"
+        ],
+        "game_link": "/us/game/2019-05-12/2",
+        "eliminated": 14227,
+        "advancing": 44230,
+        "correct_answers": 44230,
+        "incorrect_answers": 14227
+      },
+      {
+        "direct_link": "/us/game/2019-05-12/2/6",
+        "question_number": 6,
+        "text": "TV Mother & Son",
+        "answer": [
+          "MARGE",
+          "&",
+          "BART",
+          "SIMPSON"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "G"
+        ],
+        "game_link": "/us/game/2019-05-12/2",
+        "eliminated": 5283,
+        "advancing": 39994,
+        "correct_answers": 39994,
+        "incorrect_answers": 5283
+      },
+      {
+        "direct_link": "/us/game/2019-05-12/2/7",
+        "question_number": 7,
+        "text": "Famous Mom/Aunt",
+        "answer": [
+          "VIVIAN",
+          "BANKS"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "K",
+          "V"
+        ],
+        "game_link": "/us/game/2019-05-12/2",
+        "eliminated": 8927,
+        "advancing": 31628,
+        "correct_answers": 31628,
+        "incorrect_answers": 8927
+      },
+      {
+        "direct_link": "/us/game/2019-05-12/2/8",
+        "question_number": 8,
+        "text": "Classic Mom Book",
+        "answer": [
+          "HOW",
+          "STELLA",
+          "GOT",
+          "HER",
+          "GROOVE",
+          "BACK"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "K"
+        ],
+        "game_link": "/us/game/2019-05-12/2",
+        "eliminated": 17315,
+        "advancing": 15313,
+        "correct_answers": 15313,
+        "incorrect_answers": 17315
+      },
+      {
+        "direct_link": "/us/game/2019-05-12/2/9",
+        "question_number": 9,
+        "text": "Movie for Families",
+        "answer": [
+          "MY",
+          "BIG",
+          "FAT",
+          "GREEK",
+          "WEDDING"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-05-12/2",
+        "eliminated": 2423,
+        "advancing": 15904,
+        "correct_answers": 15904,
+        "incorrect_answers": 2423
+      },
+      {
+        "direct_link": "/us/game/2019-05-12/2/10",
+        "question_number": 10,
+        "text": "Stereotypical Fashion",
+        "answer": [
+          "HIGH-WAISTED",
+          "JEANS"
+        ],
+        "initial_letters": [
+          "-",
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "J"
+        ],
+        "game_link": "/us/game/2019-05-12/2",
+        "eliminated": 1756,
+        "advancing": 14640,
+        "correct_answers": 14640,
+        "incorrect_answers": 1756
+      },
+      {
+        "direct_link": "/us/game/2019-05-12/2/11",
+        "question_number": 11,
+        "text": "Workplace Issue",
+        "answer": [
+          "PAID",
+          "PARENTAL",
+          "LEAVE"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "P",
+          "V"
+        ],
+        "game_link": "/us/game/2019-05-12/2",
+        "eliminated": 1479,
+        "advancing": 13589,
+        "correct_answers": 13589,
+        "incorrect_answers": 1479
+      },
+      {
+        "direct_link": "/us/game/2019-05-12/2/12",
+        "question_number": 12,
+        "text": "Mother-Daughter Bonding Activity",
+        "answer": [
+          "BINGE",
+          "GILMORE",
+          "GIRLS",
+          "EPISODES"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "P"
+        ],
+        "game_link": "/us/game/2019-05-12/2",
+        "eliminated": 4578,
+        "advancing": 9439,
+        "correct_answers": 9439,
+        "incorrect_answers": 4578
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

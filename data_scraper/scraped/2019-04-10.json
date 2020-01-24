@@ -1,0 +1,1505 @@
+[
+  {
+    "id": 94439,
+    "show_id": 10370,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-04-11T00:00:00Z",
+    "direct_link": "/us/game/2019-04-10/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,773",
+      "currency": "$",
+      "average_prize": "0.56"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 97575,
+        "text": "What famously covers the walls at Wrigley Field?",
+        "question_number": 1,
+        "eliminated": "-2,588",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "91,310",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 220836,
+            "text": "Azaleas",
+            "correct": false,
+            "count": "3,267",
+            "percent": "3.68%"
+          },
+          {
+            "id": 220839,
+            "text": "Ivy",
+            "correct": true,
+            "count": "82,356",
+            "percent": "92.82%"
+          },
+          {
+            "id": 220841,
+            "text": "Daffodils",
+            "correct": false,
+            "count": "3,099",
+            "percent": "3.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/1/1",
+        "game_link": "/us/game/2019-04-10/1",
+        "correct_answers": 82356,
+        "incorrect_answers": 6366,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97591,
+        "text": "What is the term for the area of the football field between the goal line and the 20?",
+        "question_number": 2,
+        "eliminated": "665",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "90,720",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 220859,
+            "text": "Red zone",
+            "correct": true,
+            "count": "71,305",
+            "percent": "80.57%"
+          },
+          {
+            "id": 220866,
+            "text": "End zone",
+            "correct": false,
+            "count": "16,322",
+            "percent": "18.44%"
+          },
+          {
+            "id": 220874,
+            "text": "Pwn zone",
+            "correct": false,
+            "count": "870",
+            "percent": "0.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/1/2",
+        "game_link": "/us/game/2019-04-10/1",
+        "correct_answers": 71305,
+        "incorrect_answers": 17192,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97608,
+        "text": "Which of these golfers has won the Masters the most times?",
+        "question_number": 3,
+        "eliminated": "745",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "90,031",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 220884,
+            "text": "Jordan Spieth",
+            "correct": false,
+            "count": "8,985",
+            "percent": "10.27%"
+          },
+          {
+            "id": 220888,
+            "text": "Rory McIlroy",
+            "correct": false,
+            "count": "12,260",
+            "percent": "14.02%"
+          },
+          {
+            "id": 220894,
+            "text": "Phil Mickelson",
+            "correct": true,
+            "count": "66,222",
+            "percent": "75.71%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/1/3",
+        "game_link": "/us/game/2019-04-10/1",
+        "correct_answers": 66222,
+        "incorrect_answers": 21245,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97626,
+        "text": "Which event did Jesse Owens NOT win gold in at the 1936 Olympics?",
+        "question_number": 4,
+        "eliminated": "5,113",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "84,978",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 220910,
+            "text": "100m dash",
+            "correct": false,
+            "count": "14,847",
+            "percent": "17.36%"
+          },
+          {
+            "id": 220914,
+            "text": "Triple jump",
+            "correct": true,
+            "count": "54,182",
+            "percent": "63.34%"
+          },
+          {
+            "id": 220920,
+            "text": "Long jump",
+            "correct": false,
+            "count": "16,506",
+            "percent": "19.3%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/1/4",
+        "game_link": "/us/game/2019-04-10/1",
+        "correct_answers": 54182,
+        "incorrect_answers": 31353,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97639,
+        "text": "What NBA rookie is the first since Michael Jordan to average at least 21 points, five rebounds, and five assists?",
+        "question_number": 5,
+        "eliminated": "2,550",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "82,804",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 220931,
+            "text": "Collin Sexton",
+            "correct": false,
+            "count": "7,891",
+            "percent": "9.92%"
+          },
+          {
+            "id": 220932,
+            "text": "Luka Doncic",
+            "correct": true,
+            "count": "44,374",
+            "percent": "55.81%"
+          },
+          {
+            "id": 220934,
+            "text": "Trae Young",
+            "correct": false,
+            "count": "27,247",
+            "percent": "34.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/1/5",
+        "game_link": "/us/game/2019-04-10/1",
+        "correct_answers": 44374,
+        "incorrect_answers": 35138,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97655,
+        "text": "Which player was NOT involved in the longest pro tennis match of all time?",
+        "question_number": 6,
+        "eliminated": "7,277",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "75,714",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 220955,
+            "text": "Juan Martin del Potro",
+            "correct": true,
+            "count": "42,202",
+            "percent": "53.41%"
+          },
+          {
+            "id": 220958,
+            "text": "John Isner",
+            "correct": false,
+            "count": "11,405",
+            "percent": "14.43%"
+          },
+          {
+            "id": 220964,
+            "text": "Nicolas Mahut",
+            "correct": false,
+            "count": "25,405",
+            "percent": "32.15%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/1/6",
+        "game_link": "/us/game/2019-04-10/1",
+        "correct_answers": 42202,
+        "incorrect_answers": 36810,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97673,
+        "text": "Whose shot did LeBron take away when he made âThe Blockâ to swing momentum in the 2016 Finals?",
+        "question_number": 7,
+        "eliminated": "31,172",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "45,152",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 220980,
+            "text": "Draymond Green",
+            "correct": false,
+            "count": "15,043",
+            "percent": "20.7%"
+          },
+          {
+            "id": 220982,
+            "text": "Klay Thompson",
+            "correct": false,
+            "count": "13,212",
+            "percent": "18.18%"
+          },
+          {
+            "id": 220989,
+            "text": "Andre Iguodala",
+            "correct": true,
+            "count": "44,412",
+            "percent": "61.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/1/7",
+        "game_link": "/us/game/2019-04-10/1",
+        "correct_answers": 44412,
+        "incorrect_answers": 28255,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97687,
+        "text": "Which of these English Premier League stars had four straight seasons with at least 10 assists?",
+        "question_number": 8,
+        "eliminated": "27,414",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "19,481",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221003,
+            "text": "Wayne Rooney",
+            "correct": false,
+            "count": "10,249",
+            "percent": "22.61%"
+          },
+          {
+            "id": 221005,
+            "text": "David Beckham",
+            "correct": true,
+            "count": "19,474",
+            "percent": "42.97%"
+          },
+          {
+            "id": 221008,
+            "text": "Cristiano Ronaldo",
+            "correct": false,
+            "count": "15,601",
+            "percent": "34.42%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/1/8",
+        "game_link": "/us/game/2019-04-10/1",
+        "correct_answers": 19474,
+        "incorrect_answers": 25850,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97703,
+        "text": "Of these legends, who scored the most points in his last-ever NBA home game?",
+        "question_number": 9,
+        "eliminated": "7,837",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "14,028",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221027,
+            "text": "Dwyane Wade",
+            "correct": false,
+            "count": "3,130",
+            "percent": "14.58%"
+          },
+          {
+            "id": 221029,
+            "text": "Dirk Nowitzki",
+            "correct": false,
+            "count": "4,309",
+            "percent": "20.07%"
+          },
+          {
+            "id": 221032,
+            "text": "They tied",
+            "correct": true,
+            "count": "14,028",
+            "percent": "65.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/1/9",
+        "game_link": "/us/game/2019-04-10/1",
+        "correct_answers": 14028,
+        "incorrect_answers": 7439,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97719,
+        "text": "According to âForbes,â what is currently the NHLâs most valuable franchise after the New York Rangers?",
+        "question_number": 10,
+        "eliminated": "5,304",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "10,315",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221051,
+            "text": "LA Kings",
+            "correct": false,
+            "count": "1,841",
+            "percent": "12.17%"
+          },
+          {
+            "id": 221053,
+            "text": "Montreal Canadiens",
+            "correct": false,
+            "count": "2,967",
+            "percent": "19.62%"
+          },
+          {
+            "id": 221057,
+            "text": "Toronto Maple Leafs",
+            "correct": true,
+            "count": "10,315",
+            "percent": "68.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/1/10",
+        "game_link": "/us/game/2019-04-10/1",
+        "correct_answers": 10315,
+        "incorrect_answers": 4808,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97736,
+        "text": "Which of these schools most recently had two different basketball players lead the NCAA in scoring in consecutive years?",
+        "question_number": 11,
+        "eliminated": "7,708",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "3,622",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221077,
+            "text": "VMI",
+            "correct": false,
+            "count": "1,138",
+            "percent": "10.3%"
+          },
+          {
+            "id": 221078,
+            "text": "Loyola Marymount",
+            "correct": true,
+            "count": "3,622",
+            "percent": "32.79%"
+          },
+          {
+            "id": 221082,
+            "text": "Long Island",
+            "correct": false,
+            "count": "6,285",
+            "percent": "56.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/1/11",
+        "game_link": "/us/game/2019-04-10/1",
+        "correct_answers": 3622,
+        "incorrect_answers": 7423,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97755,
+        "text": "Which of these franchises is NOT among the top four in most World Series won?",
+        "question_number": 12,
+        "eliminated": "3,875",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,773",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221106,
+            "text": "Cardinals",
+            "correct": false,
+            "count": "1,313",
+            "percent": "23.64%"
+          },
+          {
+            "id": 221111,
+            "text": "Athletics",
+            "correct": false,
+            "count": "2,467",
+            "percent": "44.43%"
+          },
+          {
+            "id": 221115,
+            "text": "Dodgers",
+            "correct": true,
+            "count": "1,773",
+            "percent": "31.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/1/12",
+        "game_link": "/us/game/2019-04-10/1",
+        "correct_answers": 1773,
+        "incorrect_answers": 3780,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 94557,
+    "show_id": 10416,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-04-11T01:00:00Z",
+    "direct_link": "/us/game/2019-04-10/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "721",
+      "currency": "$",
+      "average_prize": "6.93"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Music",
+        "slug": "music"
+      }
+    ],
+    "questions": [
+      {
+        "id": 97767,
+        "text": "What are Lady Gaga fans called?",
+        "question_number": 1,
+        "eliminated": "-13,784",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "328,344",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221123,
+            "text": "Stuart Littles",
+            "correct": false,
+            "count": "5,676",
+            "percent": "1.8%"
+          },
+          {
+            "id": 221124,
+            "text": "Little Monsters",
+            "correct": true,
+            "count": "287,589",
+            "percent": "91.43%"
+          },
+          {
+            "id": 221126,
+            "text": "Little Debbies",
+            "correct": false,
+            "count": "21,295",
+            "percent": "6.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/2/1",
+        "game_link": "/us/game/2019-04-10/2",
+        "correct_answers": 287589,
+        "incorrect_answers": 26971,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97787,
+        "text": "What is this dress famously made of?",
+        "question_number": 2,
+        "eliminated": "1,476",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "327,440",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221153,
+            "text": "Meat",
+            "correct": true,
+            "count": "307,114",
+            "percent": "96.77%"
+          },
+          {
+            "id": 221154,
+            "text": "Muesli",
+            "correct": false,
+            "count": "5,813",
+            "percent": "1.83%"
+          },
+          {
+            "id": 221155,
+            "text": "Madras",
+            "correct": false,
+            "count": "4,439",
+            "percent": "1.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/2/2",
+        "game_link": "/us/game/2019-04-10/2",
+        "correct_answers": 307114,
+        "incorrect_answers": 10252,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97799,
+        "text": "Which of these are lyrics in âBad Romanceâ?",
+        "question_number": 3,
+        "eliminated": "2,275",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "325,269",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221171,
+            "text": "I want your revenge",
+            "correct": true,
+            "count": "294,627",
+            "percent": "94.12%"
+          },
+          {
+            "id": 221174,
+            "text": "Swish swish bish",
+            "correct": false,
+            "count": "10,345",
+            "percent": "3.3%"
+          },
+          {
+            "id": 221177,
+            "text": "Itâs a party in the USA!",
+            "correct": false,
+            "count": "8,054",
+            "percent": "2.57%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/2/3",
+        "game_link": "/us/game/2019-04-10/2",
+        "correct_answers": 294627,
+        "incorrect_answers": 18399,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97815,
+        "text": "What is the name of Gagaâs alter ego?",
+        "question_number": 4,
+        "eliminated": "12,814",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "312,587",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221195,
+            "text": "Jo Calderone",
+            "correct": true,
+            "count": "211,380",
+            "percent": "68.16%"
+          },
+          {
+            "id": 221196,
+            "text": "Maxwell Demon",
+            "correct": false,
+            "count": "39,302",
+            "percent": "12.67%"
+          },
+          {
+            "id": 221198,
+            "text": "Roman Zolanski",
+            "correct": false,
+            "count": "59,436",
+            "percent": "19.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/2/4",
+        "game_link": "/us/game/2019-04-10/2",
+        "correct_answers": 211380,
+        "incorrect_answers": 98738,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97832,
+        "text": "What awards ceremony did this moment take place at?",
+        "question_number": 5,
+        "eliminated": "8,516",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "305,368",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221220,
+            "text": "Criticâs Choice",
+            "correct": false,
+            "count": "13,176",
+            "percent": "4.4%"
+          },
+          {
+            "id": 221223,
+            "text": "SAGs",
+            "correct": false,
+            "count": "38,800",
+            "percent": "12.94%"
+          },
+          {
+            "id": 221229,
+            "text": "Golden Globes",
+            "correct": true,
+            "count": "247,775",
+            "percent": "82.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/2/5",
+        "game_link": "/us/game/2019-04-10/2",
+        "correct_answers": 247775,
+        "incorrect_answers": 51976,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97849,
+        "text": "Which of these is a lyric in âApplauseâ?",
+        "question_number": 6,
+        "eliminated": "44,565",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "261,448",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221248,
+            "text": "Botticelli with my belly",
+            "correct": false,
+            "count": "83,029",
+            "percent": "28.94%"
+          },
+          {
+            "id": 221252,
+            "text": "Suddenly the Koons is me",
+            "correct": true,
+            "count": "147,367",
+            "percent": "51.36%"
+          },
+          {
+            "id": 221254,
+            "text": "Schnabel poppinâ bottles",
+            "correct": false,
+            "count": "56,538",
+            "percent": "19.7%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/2/6",
+        "game_link": "/us/game/2019-04-10/2",
+        "correct_answers": 147367,
+        "incorrect_answers": 139567,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97865,
+        "text": "The music video for âPaparazziâ features the star of which television show?",
+        "question_number": 7,
+        "eliminated": "144,881",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "120,249",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221270,
+            "text": "Glee",
+            "correct": false,
+            "count": "81,784",
+            "percent": "32.9%"
+          },
+          {
+            "id": 221272,
+            "text": "True Blood",
+            "correct": true,
+            "count": "115,973",
+            "percent": "46.65%"
+          },
+          {
+            "id": 221275,
+            "text": "Twin Peaks",
+            "correct": false,
+            "count": "50,858",
+            "percent": "20.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/2/7",
+        "game_link": "/us/game/2019-04-10/2",
+        "correct_answers": 115973,
+        "incorrect_answers": 132642,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97879,
+        "text": "Lady Gagaâs Netflix documentary was named for what?",
+        "question_number": 8,
+        "eliminated": "111,649",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "24,594",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221291,
+            "text": "Her height",
+            "correct": false,
+            "count": "87,134",
+            "percent": "65.53%"
+          },
+          {
+            "id": 221293,
+            "text": "Her aunt",
+            "correct": false,
+            "count": "21,263",
+            "percent": "15.99%"
+          },
+          {
+            "id": 221295,
+            "text": "A song lyric",
+            "correct": true,
+            "count": "24,561",
+            "percent": "18.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/2/8",
+        "game_link": "/us/game/2019-04-10/2",
+        "correct_answers": 24561,
+        "incorrect_answers": 108397,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97896,
+        "text": "What was this tweet about?",
+        "question_number": 9,
+        "eliminated": "12,200",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "28,264",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221316,
+            "text": "Marriage equality",
+            "correct": true,
+            "count": "28,263",
+            "percent": "71.85%"
+          },
+          {
+            "id": 221320,
+            "text": "Platinum album",
+            "correct": false,
+            "count": "6,360",
+            "percent": "16.17%"
+          },
+          {
+            "id": 221323,
+            "text": "Video views",
+            "correct": false,
+            "count": "4,711",
+            "percent": "11.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/2/9",
+        "game_link": "/us/game/2019-04-10/2",
+        "correct_answers": 28263,
+        "incorrect_answers": 11071,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97911,
+        "text": "In this scene, what does Ally say to Jackson after they finish their duet?",
+        "question_number": 10,
+        "eliminated": "14,904",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "14,211",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221339,
+            "text": "I canât believe you",
+            "correct": false,
+            "count": "5,650",
+            "percent": "19.54%"
+          },
+          {
+            "id": 221343,
+            "text": "Thereâs so many people",
+            "correct": true,
+            "count": "14,211",
+            "percent": "49.14%"
+          },
+          {
+            "id": 221348,
+            "text": "Thank you",
+            "correct": false,
+            "count": "9,056",
+            "percent": "31.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/2/10",
+        "game_link": "/us/game/2019-04-10/2",
+        "correct_answers": 14211,
+        "incorrect_answers": 14706,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97928,
+        "text": "Lady Gaga stars in the âAmerican Horror Storyâ season that also features what?",
+        "question_number": 11,
+        "eliminated": "5,223",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "10,914",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221364,
+            "text": "The Zodiac Killer",
+            "correct": true,
+            "count": "10,914",
+            "percent": "68.89%"
+          },
+          {
+            "id": 221366,
+            "text": "Evil Santa Claus",
+            "correct": false,
+            "count": "1,488",
+            "percent": "9.39%"
+          },
+          {
+            "id": 221370,
+            "text": "The Supreme",
+            "correct": false,
+            "count": "3,441",
+            "percent": "21.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/2/11",
+        "game_link": "/us/game/2019-04-10/2",
+        "correct_answers": 10914,
+        "incorrect_answers": 4929,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97943,
+        "text": "Which Real Housewife did NOT cameo in the âG.U.Y.â music video?",
+        "question_number": 12,
+        "eliminated": "4,648",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "6,922",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221387,
+            "text": "Lisa Vanderpump",
+            "correct": false,
+            "count": "1,225",
+            "percent": "10.77%"
+          },
+          {
+            "id": 221388,
+            "text": "Bethenny Frankel",
+            "correct": true,
+            "count": "6,922",
+            "percent": "60.84%"
+          },
+          {
+            "id": 221393,
+            "text": "Carlton Gebbia",
+            "correct": false,
+            "count": "3,230",
+            "percent": "28.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/2/12",
+        "game_link": "/us/game/2019-04-10/2",
+        "correct_answers": 6922,
+        "incorrect_answers": 4455,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97960,
+        "text": "What is Gagaâs pet name for her costar in this video?",
+        "question_number": 13,
+        "eliminated": "3,137",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "4,265",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221413,
+            "text": "Honey Bee",
+            "correct": true,
+            "count": "4,265",
+            "percent": "57.86%"
+          },
+          {
+            "id": 221418,
+            "text": "Baby Bee",
+            "correct": false,
+            "count": "879",
+            "percent": "11.93%"
+          },
+          {
+            "id": 221421,
+            "text": "Queen Bee",
+            "correct": false,
+            "count": "2,227",
+            "percent": "30.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/2/13",
+        "game_link": "/us/game/2019-04-10/2",
+        "correct_answers": 4265,
+        "incorrect_answers": 3106,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97975,
+        "text": "The âBorn This Wayâ music video opens with a score from what famous directorâs film?",
+        "question_number": 14,
+        "eliminated": "2,939",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "1,575",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221435,
+            "text": "John Carpenter",
+            "correct": false,
+            "count": "221",
+            "percent": "5.05%"
+          },
+          {
+            "id": 221438,
+            "text": "Quentin Tarantino",
+            "correct": false,
+            "count": "2,579",
+            "percent": "58.95%"
+          },
+          {
+            "id": 221442,
+            "text": "Alfred Hitchcock",
+            "correct": true,
+            "count": "1,575",
+            "percent": "36.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/2/14",
+        "game_link": "/us/game/2019-04-10/2",
+        "correct_answers": 1575,
+        "incorrect_answers": 2800,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 97991,
+        "text": "Which of these items does Lady Gaga NOT have trouble finding in the lyrics to âJust Danceâ?",
+        "question_number": 15,
+        "eliminated": "1,140",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "721",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 221459,
+            "text": "Phone",
+            "correct": false,
+            "count": "642",
+            "percent": "35.91%"
+          },
+          {
+            "id": 221460,
+            "text": "Wallet",
+            "correct": true,
+            "count": "721",
+            "percent": "40.32%"
+          },
+          {
+            "id": 221462,
+            "text": "Keys",
+            "correct": false,
+            "count": "425",
+            "percent": "23.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-10/2/15",
+        "game_link": "/us/game/2019-04-10/2",
+        "correct_answers": 721,
+        "incorrect_answers": 1067,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 94701,
+    "show_id": 10418,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-04-11T01:30:00Z",
+    "direct_link": "/us/game/2019-04-10/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "11,489",
+      "currency": "$",
+      "average_prize": "0.09"
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-04-10/3/1",
+        "question_number": 1,
+        "text": "Hit Song",
+        "answer": [
+          "JUST",
+          "DANCE"
+        ],
+        "initial_letters": [
+          " ",
+          "J"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "T"
+        ],
+        "game_link": "/us/game/2019-04-10/3",
+        "eliminated": 18307,
+        "advancing": 160043,
+        "correct_answers": 160043,
+        "incorrect_answers": 18307
+      },
+      {
+        "direct_link": "/us/game/2019-04-10/3/2",
+        "question_number": 2,
+        "text": "Star Roles",
+        "answer": [
+          "ALLY",
+          "&",
+          "JACK"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "K"
+        ],
+        "game_link": "/us/game/2019-04-10/3",
+        "eliminated": 44661,
+        "advancing": 116234,
+        "correct_answers": 116234,
+        "incorrect_answers": 44661
+      },
+      {
+        "direct_link": "/us/game/2019-04-10/3/3",
+        "question_number": 3,
+        "text": "Before Gaga",
+        "answer": [
+          "STEFANI",
+          "GERMANOTTA"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "R"
+        ],
+        "game_link": "/us/game/2019-04-10/3",
+        "eliminated": 54163,
+        "advancing": 63688,
+        "correct_answers": 63688,
+        "incorrect_answers": 54163
+      },
+      {
+        "direct_link": "/us/game/2019-04-10/3/4",
+        "question_number": 4,
+        "text": "Real Gaga Fans",
+        "answer": [
+          "LITTLE",
+          "MONSTERS"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "R"
+        ],
+        "game_link": "/us/game/2019-04-10/3",
+        "eliminated": 1362,
+        "advancing": 64447,
+        "correct_answers": 64447,
+        "incorrect_answers": 1362
+      },
+      {
+        "direct_link": "/us/game/2019-04-10/3/5",
+        "question_number": 5,
+        "text": "Big Stunt",
+        "answer": [
+          "SUPERBOWL",
+          "JUMP"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-10/3",
+        "eliminated": 30602,
+        "advancing": 33890,
+        "correct_answers": 33890,
+        "incorrect_answers": 30602
+      },
+      {
+        "direct_link": "/us/game/2019-04-10/3/6",
+        "question_number": 6,
+        "text": "TV Show",
+        "answer": [
+          "AMERICAN",
+          "HORROR",
+          "STORY"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "R"
+        ],
+        "game_link": "/us/game/2019-04-10/3",
+        "eliminated": 1046,
+        "advancing": 35139,
+        "correct_answers": 35139,
+        "incorrect_answers": 1046
+      },
+      {
+        "direct_link": "/us/game/2019-04-10/3/7",
+        "question_number": 7,
+        "text": "Collaborator / Album",
+        "answer": [
+          "TONY",
+          "BENNETT",
+          "/",
+          "CHEEK",
+          "TO",
+          "CHEEK"
+        ],
+        "initial_letters": [
+          " ",
+          "/",
+          "K"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "T"
+        ],
+        "game_link": "/us/game/2019-04-10/3",
+        "eliminated": 11912,
+        "advancing": 23276,
+        "correct_answers": 23276,
+        "incorrect_answers": 11912
+      },
+      {
+        "direct_link": "/us/game/2019-04-10/3/8",
+        "question_number": 8,
+        "text": "Time to Break Up",
+        "answer": [
+          "CAUGHT",
+          "IN",
+          "A",
+          "BAD",
+          "ROMANCE"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "U"
+        ],
+        "game_link": "/us/game/2019-04-10/3",
+        "eliminated": 6813,
+        "advancing": 17746,
+        "correct_answers": 17746,
+        "incorrect_answers": 6813
+      },
+      {
+        "direct_link": "/us/game/2019-04-10/3/9",
+        "question_number": 9,
+        "text": "Who are You Wearing?",
+        "answer": [
+          "KERMIT",
+          "THE",
+          "FROG",
+          "DRESS"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "K"
+        ],
+        "game_link": "/us/game/2019-04-10/3",
+        "eliminated": 1240,
+        "advancing": 17627,
+        "correct_answers": 17627,
+        "incorrect_answers": 1240
+      },
+      {
+        "direct_link": "/us/game/2019-04-10/3/10",
+        "question_number": 10,
+        "text": "Award Category",
+        "answer": [
+          "BEST",
+          "POP",
+          "VOCAL",
+          "ALBUM"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "T",
+          "V"
+        ],
+        "game_link": "/us/game/2019-04-10/3",
+        "eliminated": 3328,
+        "advancing": 14510,
+        "correct_answers": 14510,
+        "incorrect_answers": 3328
+      },
+      {
+        "direct_link": "/us/game/2019-04-10/3/11",
+        "question_number": 11,
+        "text": "Life Advice",
+        "answer": [
+          "DONâT",
+          "BE",
+          "A",
+          "DRAG,",
+          "JUST",
+          "BE",
+          "A",
+          "QUEEN"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          ",",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "S"
+        ],
+        "game_link": "/us/game/2019-04-10/3",
+        "eliminated": 3816,
+        "advancing": 11356,
+        "correct_answers": 11356,
+        "incorrect_answers": 3816
+      },
+      {
+        "direct_link": "/us/game/2019-04-10/3/12",
+        "question_number": 12,
+        "text": "Viral Quote",
+        "answer": [
+          "ONE",
+          "HUNDRED",
+          "PEOPLE",
+          "IN",
+          "A",
+          "ROOM"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "H"
+        ],
+        "game_link": "/us/game/2019-04-10/3",
+        "eliminated": 861,
+        "advancing": 11489,
+        "correct_answers": 11489,
+        "incorrect_answers": 861
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

@@ -1,0 +1,1385 @@
+[
+  {
+    "id": 117646,
+    "show_id": 11596,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-07-02T00:00:00Z",
+    "direct_link": "/us/game/2019-07-01/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "8,920",
+      "currency": "$",
+      "average_prize": "0.11"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 125375,
+        "text": "Lefty pitchers possibly got their nickname because in many stadiums, their pitching arm is facing what direction?",
+        "question_number": 1,
+        "eliminated": "-1,238",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "96,103",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262535,
+            "text": "North",
+            "correct": false,
+            "count": "5,060",
+            "percent": "5.65%"
+          },
+          {
+            "id": 262536,
+            "text": "South",
+            "correct": true,
+            "count": "73,143",
+            "percent": "81.74%"
+          },
+          {
+            "id": 262537,
+            "text": "West",
+            "correct": false,
+            "count": "11,283",
+            "percent": "12.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/1/1",
+        "game_link": "/us/game/2019-07-01/1",
+        "correct_answers": 73143,
+        "incorrect_answers": 16343,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125391,
+        "text": "Which of these Olympians holds a world record in swimming?",
+        "question_number": 2,
+        "eliminated": "1,519",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "94,702",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262559,
+            "text": "Lindsey Vonn",
+            "correct": false,
+            "count": "6,976",
+            "percent": "7.74%"
+          },
+          {
+            "id": 262560,
+            "text": "Chloe Kim",
+            "correct": false,
+            "count": "3,855",
+            "percent": "4.28%"
+          },
+          {
+            "id": 262561,
+            "text": "Katie Ledecky",
+            "correct": true,
+            "count": "79,278",
+            "percent": "87.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/1/2",
+        "game_link": "/us/game/2019-07-01/1",
+        "correct_answers": 79278,
+        "incorrect_answers": 10831,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125402,
+        "text": "According to reports, what NBA team will DâAngelo Russell play for next season?",
+        "question_number": 3,
+        "eliminated": "2,126",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "92,637",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262575,
+            "text": "Miami Heat",
+            "correct": false,
+            "count": "11,642",
+            "percent": "13.2%"
+          },
+          {
+            "id": 262577,
+            "text": "Dallas Mavericks",
+            "correct": false,
+            "count": "8,842",
+            "percent": "10.03%"
+          },
+          {
+            "id": 262579,
+            "text": "Golden State Warriors",
+            "correct": true,
+            "count": "67,682",
+            "percent": "76.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/1/3",
+        "game_link": "/us/game/2019-07-01/1",
+        "correct_answers": 67682,
+        "incorrect_answers": 20484,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125415,
+        "text": "Which of these teams was one of the original MLS franchises?",
+        "question_number": 4,
+        "eliminated": "1,738",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "90,981",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262595,
+            "text": "DC United",
+            "correct": true,
+            "count": "70,465",
+            "percent": "81.82%"
+          },
+          {
+            "id": 262596,
+            "text": "Minnesota United",
+            "correct": false,
+            "count": "7,522",
+            "percent": "8.73%"
+          },
+          {
+            "id": 262597,
+            "text": "Atlanta United",
+            "correct": false,
+            "count": "8,132",
+            "percent": "9.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/1/4",
+        "game_link": "/us/game/2019-07-01/1",
+        "correct_answers": 70465,
+        "incorrect_answers": 15654,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125433,
+        "text": "Who is the youngest player to ever be named NBA MVP?",
+        "question_number": 5,
+        "eliminated": "5,809",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "85,240",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262625,
+            "text": "LeBron James",
+            "correct": false,
+            "count": "20,305",
+            "percent": "24.17%"
+          },
+          {
+            "id": 262626,
+            "text": "Giannis Antetokounmpo",
+            "correct": false,
+            "count": "17,763",
+            "percent": "21.14%"
+          },
+          {
+            "id": 262627,
+            "text": "Derrick Rose",
+            "correct": true,
+            "count": "45,948",
+            "percent": "54.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/1/5",
+        "game_link": "/us/game/2019-07-01/1",
+        "correct_answers": 45948,
+        "incorrect_answers": 38068,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125447,
+        "text": "What is the ruling on this blocked punt?",
+        "question_number": 6,
+        "eliminated": "4,245",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "81,313",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262643,
+            "text": "Safety",
+            "correct": true,
+            "count": "53,185",
+            "percent": "66.8%"
+          },
+          {
+            "id": 262645,
+            "text": "Touchback",
+            "correct": false,
+            "count": "22,584",
+            "percent": "28.37%"
+          },
+          {
+            "id": 262647,
+            "text": "Touchdown",
+            "correct": false,
+            "count": "3,848",
+            "percent": "4.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/1/6",
+        "game_link": "/us/game/2019-07-01/1",
+        "correct_answers": 53185,
+        "incorrect_answers": 26432,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125454,
+        "text": "What 200 game-winner is better known for groundbreaking surgery he had on an elbow ligament?",
+        "question_number": 7,
+        "eliminated": "4,119",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "77,687",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262653,
+            "text": "Charlie Hough",
+            "correct": false,
+            "count": "3,663",
+            "percent": "4.86%"
+          },
+          {
+            "id": 262656,
+            "text": "Gaylord Perry",
+            "correct": false,
+            "count": "8,274",
+            "percent": "10.98%"
+          },
+          {
+            "id": 262659,
+            "text": "Tommy John",
+            "correct": true,
+            "count": "63,429",
+            "percent": "84.16%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/1/7",
+        "game_link": "/us/game/2019-07-01/1",
+        "correct_answers": 63429,
+        "incorrect_answers": 11937,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125469,
+        "text": "What nation will host the next official Olympic Games?",
+        "question_number": 8,
+        "eliminated": "7,891",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "69,943",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262676,
+            "text": "Japan",
+            "correct": true,
+            "count": "57,946",
+            "percent": "79.06%"
+          },
+          {
+            "id": 262678,
+            "text": "Italy",
+            "correct": false,
+            "count": "7,895",
+            "percent": "10.77%"
+          },
+          {
+            "id": 262680,
+            "text": "France",
+            "correct": false,
+            "count": "7,451",
+            "percent": "10.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/1/8",
+        "game_link": "/us/game/2019-07-01/1",
+        "correct_answers": 57946,
+        "incorrect_answers": 15346,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125485,
+        "text": "What city had an NHL team with this logo?",
+        "question_number": 9,
+        "eliminated": "16,152",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "54,527",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262700,
+            "text": "Hartford",
+            "correct": false,
+            "count": "11,055",
+            "percent": "16.36%"
+          },
+          {
+            "id": 262701,
+            "text": "Quebec",
+            "correct": false,
+            "count": "7,038",
+            "percent": "10.42%"
+          },
+          {
+            "id": 262704,
+            "text": "Vancouver",
+            "correct": true,
+            "count": "49,467",
+            "percent": "73.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/1/9",
+        "game_link": "/us/game/2019-07-01/1",
+        "correct_answers": 49467,
+        "incorrect_answers": 18093,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125499,
+        "text": "Who is the Lakersâ all-time leading scorer?",
+        "question_number": 10,
+        "eliminated": "27,947",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "28,124",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262721,
+            "text": "Kobe Bryant",
+            "correct": true,
+            "count": "27,593",
+            "percent": "50.58%"
+          },
+          {
+            "id": 262722,
+            "text": "Kareem Abdul-Jabbar",
+            "correct": false,
+            "count": "20,315",
+            "percent": "37.24%"
+          },
+          {
+            "id": 262724,
+            "text": "Jerry West",
+            "correct": false,
+            "count": "6,642",
+            "percent": "12.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/1/10",
+        "game_link": "/us/game/2019-07-01/1",
+        "correct_answers": 27593,
+        "incorrect_answers": 26957,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125515,
+        "text": "Which legendary Yankee had the highest jersey number?",
+        "question_number": 11,
+        "eliminated": "15,891",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "16,386",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262745,
+            "text": "Mickey Mantle",
+            "correct": true,
+            "count": "16,386",
+            "percent": "51.57%"
+          },
+          {
+            "id": 262746,
+            "text": "Lou Gehrig",
+            "correct": false,
+            "count": "3,595",
+            "percent": "11.31%"
+          },
+          {
+            "id": 262747,
+            "text": "Joe Torre",
+            "correct": false,
+            "count": "11,792",
+            "percent": "37.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/1/11",
+        "game_link": "/us/game/2019-07-01/1",
+        "correct_answers": 16386,
+        "incorrect_answers": 15387,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125531,
+        "text": "Which of these players has NOT been named PGA Tour Player of the Year?",
+        "question_number": 12,
+        "eliminated": "13,022",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "8,920",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262769,
+            "text": "Dustin Johnson",
+            "correct": false,
+            "count": "7,483",
+            "percent": "34.68%"
+          },
+          {
+            "id": 262771,
+            "text": "Phil Mickelson",
+            "correct": true,
+            "count": "8,920",
+            "percent": "41.34%"
+          },
+          {
+            "id": 262775,
+            "text": "Jordan Spieth",
+            "correct": false,
+            "count": "5,173",
+            "percent": "23.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/1/12",
+        "game_link": "/us/game/2019-07-01/1",
+        "correct_answers": 8920,
+        "incorrect_answers": 12656,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 471,
+        "game_id": 117646,
+        "question": "Which olympics would you rather participate in?",
+        "results": [
+          {
+            "id": 2848,
+            "display_count": "31",
+            "vote_count": 14204,
+            "text": "Spectator"
+          },
+          {
+            "id": 2841,
+            "display_count": "44",
+            "vote_count": 20082,
+            "text": "Summer"
+          },
+          {
+            "id": 2836,
+            "display_count": "25",
+            "vote_count": 11454,
+            "text": "Winter"
+          }
+        ],
+        "created_at": "2019-07-02T00:11:54Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 117756,
+    "show_id": 11582,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "215,000",
+    "currency": "$",
+    "start_time": "2019-07-02T01:00:00Z",
+    "direct_link": "/us/game/2019-07-01/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Checkpoints",
+        "slug": "checkpoints"
+      },
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "questions": [
+      {
+        "id": 125547,
+        "text": "The new Netflix film âMurder Mysteryâ mostly takes place where?",
+        "question_number": 1,
+        "eliminated": "490",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "251,977",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262793,
+            "text": "Mars",
+            "correct": false,
+            "count": "17,437",
+            "percent": "7.17%"
+          },
+          {
+            "id": 262794,
+            "text": "Japan",
+            "correct": false,
+            "count": "27,245",
+            "percent": "11.2%"
+          },
+          {
+            "id": 262795,
+            "text": "Europe",
+            "correct": true,
+            "count": "198,633",
+            "percent": "81.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/2/1",
+        "game_link": "/us/game/2019-07-01/2",
+        "correct_answers": 198633,
+        "incorrect_answers": 44682,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125553,
+        "text": "What is the game in âMollyâs Gameâ?",
+        "question_number": 2,
+        "eliminated": "6,727",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "245,625",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262802,
+            "text": "Baseball",
+            "correct": false,
+            "count": "24,806",
+            "percent": "10.22%"
+          },
+          {
+            "id": 262803,
+            "text": "Poker",
+            "correct": true,
+            "count": "196,369",
+            "percent": "80.88%"
+          },
+          {
+            "id": 262804,
+            "text": "Boxing",
+            "correct": false,
+            "count": "21,626",
+            "percent": "8.91%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/2/2",
+        "game_link": "/us/game/2019-07-01/2",
+        "correct_answers": 196369,
+        "incorrect_answers": 46432,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125569,
+        "text": "Who directed the 1990s remake of âCape Fearâ?",
+        "question_number": 3,
+        "eliminated": "10,162",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "235,829",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262826,
+            "text": "Martin Scorcese",
+            "correct": true,
+            "count": "178,744",
+            "percent": "75.89%"
+          },
+          {
+            "id": 262827,
+            "text": "Quentin Tarantino",
+            "correct": false,
+            "count": "38,930",
+            "percent": "16.53%"
+          },
+          {
+            "id": 262829,
+            "text": "Michael Haneke",
+            "correct": false,
+            "count": "17,859",
+            "percent": "7.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/2/3",
+        "game_link": "/us/game/2019-07-01/2",
+        "correct_answers": 178744,
+        "incorrect_answers": 56789,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125585,
+        "text": "Which of these moviesâ top two stars were NOT a real-life couple at some point?",
+        "question_number": 4,
+        "eliminated": "13,883",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "222,457",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262850,
+            "text": "Pretty Woman",
+            "correct": true,
+            "count": "122,072",
+            "percent": "55.77%"
+          },
+          {
+            "id": 262851,
+            "text": "Days of Thunder",
+            "correct": false,
+            "count": "34,915",
+            "percent": "15.95%"
+          },
+          {
+            "id": 262852,
+            "text": "Green Lantern",
+            "correct": false,
+            "count": "61,884",
+            "percent": "28.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/2/4",
+        "game_link": "/us/game/2019-07-01/2",
+        "correct_answers": 122072,
+        "incorrect_answers": 96799,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125601,
+        "text": "In which movie featuring âinheritedâ children is there a kid named Elizabeth?",
+        "question_number": 5,
+        "eliminated": "25,874",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "197,796",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262874,
+            "text": "Raising Helen",
+            "correct": false,
+            "count": "41,054",
+            "percent": "19.81%"
+          },
+          {
+            "id": 262875,
+            "text": "Baby Boom",
+            "correct": true,
+            "count": "50,851",
+            "percent": "24.54%"
+          },
+          {
+            "id": 262876,
+            "text": "Life As We Know It",
+            "correct": false,
+            "count": "115,313",
+            "percent": "55.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/2/5",
+        "game_link": "/us/game/2019-07-01/2",
+        "correct_answers": 50851,
+        "incorrect_answers": 156367,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125617,
+        "text": "Who starred in the original âMr. Deeds Goes to Townâ?",
+        "question_number": 6,
+        "eliminated": "17,045",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "182,527",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262898,
+            "text": "Cary Grant",
+            "correct": false,
+            "count": "29,268",
+            "percent": "15.43%"
+          },
+          {
+            "id": 262899,
+            "text": "Gary Cooper",
+            "correct": true,
+            "count": "101,164",
+            "percent": "53.33%"
+          },
+          {
+            "id": 262900,
+            "text": "James Stewart",
+            "correct": false,
+            "count": "59,280",
+            "percent": "31.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/2/6",
+        "game_link": "/us/game/2019-07-01/2",
+        "correct_answers": 101164,
+        "incorrect_answers": 88548,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125631,
+        "text": "In which of these NYC-based movies do the characters NOT eat at a âPapayaâ hot dog spot?",
+        "question_number": 7,
+        "eliminated": "32,286",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "151,474",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262919,
+            "text": "Oceanâs 8",
+            "correct": false,
+            "count": "40,957",
+            "percent": "24.47%"
+          },
+          {
+            "id": 262920,
+            "text": "Youâve Got Mail",
+            "correct": false,
+            "count": "64,306",
+            "percent": "38.42%"
+          },
+          {
+            "id": 262921,
+            "text": "Do the Right Thing",
+            "correct": true,
+            "count": "62,114",
+            "percent": "37.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/2/7",
+        "game_link": "/us/game/2019-07-01/2",
+        "correct_answers": 62114,
+        "incorrect_answers": 105263,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125647,
+        "text": "âThe Helpâ was executive-produced by a TV personality famous for what?",
+        "question_number": 8,
+        "eliminated": "32,332",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "121,707",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262943,
+            "text": "Finance tips",
+            "correct": false,
+            "count": "25,583",
+            "percent": "17.37%"
+          },
+          {
+            "id": 262944,
+            "text": "Interior design",
+            "correct": true,
+            "count": "65,077",
+            "percent": "44.19%"
+          },
+          {
+            "id": 262947,
+            "text": "Tough love",
+            "correct": false,
+            "count": "56,621",
+            "percent": "38.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/2/8",
+        "game_link": "/us/game/2019-07-01/2",
+        "correct_answers": 65077,
+        "incorrect_answers": 82204,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125663,
+        "text": "Jean Seberg famously wears a shirt with which publicationâs logo in the French classic âBreathlessâ?",
+        "question_number": 9,
+        "eliminated": "67,229",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "59,635",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262967,
+            "text": "New York Herald Tribune",
+            "correct": true,
+            "count": "39,671",
+            "percent": "33.83%"
+          },
+          {
+            "id": 262968,
+            "text": "Washington Post",
+            "correct": false,
+            "count": "40,334",
+            "percent": "34.39%"
+          },
+          {
+            "id": 262970,
+            "text": "New York Times",
+            "correct": false,
+            "count": "37,278",
+            "percent": "31.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/2/9",
+        "game_link": "/us/game/2019-07-01/2",
+        "correct_answers": 39671,
+        "incorrect_answers": 77612,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125681,
+        "text": "Hugh Jackman claimed he passed on the lead male character in âChicagoâ because he was too what?",
+        "question_number": 10,
+        "eliminated": "33,052",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "34,635",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 262993,
+            "text": "Young",
+            "correct": true,
+            "count": "33,926",
+            "percent": "51.33%"
+          },
+          {
+            "id": 262996,
+            "text": "Handsome",
+            "correct": false,
+            "count": "18,790",
+            "percent": "28.43%"
+          },
+          {
+            "id": 262999,
+            "text": "Busy",
+            "correct": false,
+            "count": "13,381",
+            "percent": "20.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/2/10",
+        "game_link": "/us/game/2019-07-01/2",
+        "correct_answers": 33926,
+        "incorrect_answers": 32171,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125697,
+        "text": "Which of these is NOT a real title of a Diane Keaton movie?",
+        "question_number": 11,
+        "eliminated": "18,035",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "22,493",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 263021,
+            "text": "Thatâs the Way It Is",
+            "correct": true,
+            "count": "22,493",
+            "percent": "56.96%"
+          },
+          {
+            "id": 263022,
+            "text": "Somethingâs Gotta Give",
+            "correct": false,
+            "count": "3,549",
+            "percent": "8.99%"
+          },
+          {
+            "id": 263023,
+            "text": "And So It Goes",
+            "correct": false,
+            "count": "13,445",
+            "percent": "34.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/2/11",
+        "game_link": "/us/game/2019-07-01/2",
+        "correct_answers": 22493,
+        "incorrect_answers": 16994,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 17638,
+          "players_left_formatted": "17,638",
+          "num_winners": 4855,
+          "num_winners_formatted": "4,855",
+          "prize": 0.09,
+          "prize_formatted": "$0.09",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 125711,
+        "text": "Dave Chappelle has played a close friend to which of these men on film?",
+        "question_number": 12,
+        "eliminated": "8,703",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "12,790",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 263039,
+            "text": "Eddie Murphy",
+            "correct": false,
+            "count": "1,457",
+            "percent": "8.56%"
+          },
+          {
+            "id": 263040,
+            "text": "Nicolas Cage",
+            "correct": false,
+            "count": "2,779",
+            "percent": "16.32%"
+          },
+          {
+            "id": 263041,
+            "text": "Tom Hanks",
+            "correct": true,
+            "count": "12,790",
+            "percent": "75.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/2/12",
+        "game_link": "/us/game/2019-07-01/2",
+        "correct_answers": 12790,
+        "incorrect_answers": 4236,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125729,
+        "text": "Which of these dangers do the kids first encounter after being shrunk in âHoney, I Shrunk the Kidsâ?",
+        "question_number": 13,
+        "eliminated": "9,544",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "5,557",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 263069,
+            "text": "Dust mites",
+            "correct": false,
+            "count": "7,649",
+            "percent": "51.12%"
+          },
+          {
+            "id": 263071,
+            "text": "Falling machine parts",
+            "correct": true,
+            "count": "5,558",
+            "percent": "37.15%"
+          },
+          {
+            "id": 263074,
+            "text": "Curious cat",
+            "correct": false,
+            "count": "1,755",
+            "percent": "11.73%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/2/13",
+        "game_link": "/us/game/2019-07-01/2",
+        "correct_answers": 5558,
+        "incorrect_answers": 9404,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125743,
+        "text": "The villain from which Adam Sandler movie also played an unlikable character in âKate and Leopoldâ?",
+        "question_number": 14,
+        "eliminated": "4,242",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "1,311",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 263087,
+            "text": "Happy Gilmore",
+            "correct": false,
+            "count": "2,934",
+            "percent": "54.08%"
+          },
+          {
+            "id": 263088,
+            "text": "Billy Madison",
+            "correct": true,
+            "count": "1,312",
+            "percent": "24.18%"
+          },
+          {
+            "id": 263089,
+            "text": "Big Daddy",
+            "correct": false,
+            "count": "1,179",
+            "percent": "21.73%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/2/14",
+        "game_link": "/us/game/2019-07-01/2",
+        "correct_answers": 1312,
+        "incorrect_answers": 4113,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125759,
+        "text": "What Newsweek criticism of âWaterworldâ bothered Kevin Costner so much he slandered the source?",
+        "question_number": 15,
+        "eliminated": "681",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "627",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 263111,
+            "text": "On-set fling",
+            "correct": false,
+            "count": "330",
+            "percent": "25.48%"
+          },
+          {
+            "id": 263112,
+            "text": "Hair choice",
+            "correct": true,
+            "count": "629",
+            "percent": "48.57%"
+          },
+          {
+            "id": 263113,
+            "text": "Budget problems",
+            "correct": false,
+            "count": "336",
+            "percent": "25.95%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/2/15",
+        "game_link": "/us/game/2019-07-01/2",
+        "correct_answers": 629,
+        "incorrect_answers": 666,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 15,
+          "players_left": 234,
+          "players_left_formatted": "234",
+          "num_winners": 393,
+          "num_winners_formatted": "393",
+          "prize": 4.79,
+          "prize_formatted": "$4.79",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 125776,
+        "text": "Which of these organisms has more chromosomes than the others?",
+        "question_number": 16,
+        "eliminated": "144",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "85",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 263136,
+            "text": "Common carp",
+            "correct": true,
+            "count": "85",
+            "percent": "38.46%"
+          },
+          {
+            "id": 263138,
+            "text": "Reticulated giraffe",
+            "correct": false,
+            "count": "62",
+            "percent": "28.05%"
+          },
+          {
+            "id": 263142,
+            "text": "Polar bear",
+            "correct": false,
+            "count": "74",
+            "percent": "33.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/2/16",
+        "game_link": "/us/game/2019-07-01/2",
+        "correct_answers": 85,
+        "incorrect_answers": 136,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125796,
+        "text": "Which of these is historically accurate in this painting?",
+        "question_number": 17,
+        "eliminated": "78",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "5",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 263169,
+            "text": "Flag",
+            "correct": false,
+            "count": "6",
+            "percent": "7.41%"
+          },
+          {
+            "id": 263171,
+            "text": "Boat",
+            "correct": false,
+            "count": "70",
+            "percent": "86.42%"
+          },
+          {
+            "id": 263174,
+            "text": "Uniforms",
+            "correct": true,
+            "count": "5",
+            "percent": "6.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/2/17",
+        "game_link": "/us/game/2019-07-01/2",
+        "correct_answers": 5,
+        "incorrect_answers": 76,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 125814,
+        "text": "Which of these people was born the same year the Berlin Wall was built?",
+        "question_number": 18,
+        "eliminated": "3",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "2",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 263194,
+            "text": "George Clooney",
+            "correct": true,
+            "count": "2",
+            "percent": "40.0%"
+          },
+          {
+            "id": 263196,
+            "text": "Tom Cruise",
+            "correct": false,
+            "count": "2",
+            "percent": "40.0%"
+          },
+          {
+            "id": 263198,
+            "text": "Brad Pitt",
+            "correct": false,
+            "count": "1",
+            "percent": "20.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-01/2/18",
+        "game_link": "/us/game/2019-07-01/2",
+        "correct_answers": 2,
+        "incorrect_answers": 3,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 18,
+          "players_left": 0,
+          "players_left_formatted": "0",
+          "num_winners": 2,
+          "num_winners_formatted": "2",
+          "prize": 1000.0,
+          "prize_formatted": "$1,000",
+          "currency": "$"
+        },
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [
+      {
+        "round_number": 18,
+        "players_left": 0,
+        "players_left_formatted": "0",
+        "num_winners": 2,
+        "num_winners_formatted": "2",
+        "prize": 1000.0,
+        "prize_formatted": "$1,000",
+        "currency": "$"
+      },
+      {
+        "round_number": 15,
+        "players_left": 234,
+        "players_left_formatted": "234",
+        "num_winners": 393,
+        "num_winners_formatted": "393",
+        "prize": 4.79,
+        "prize_formatted": "$4.79",
+        "currency": "$"
+      },
+      {
+        "round_number": 11,
+        "players_left": 17638,
+        "players_left_formatted": "17,638",
+        "num_winners": 4855,
+        "num_winners_formatted": "4,855",
+        "prize": 0.09,
+        "prize_formatted": "$0.09",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "4,319.42",
+    "total_checkpoint_winners": "5,250",
+    "smallest_checkpoint_prize": "$0.09",
+    "largest_checkpoint_prize": "$1,000",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

@@ -1,0 +1,1357 @@
+[
+  {
+    "id": 131467,
+    "show_id": 12298,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-09-10T00:00:00Z",
+    "direct_link": "/us/game/2019-09-09/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,663",
+      "currency": "$",
+      "average_prize": "0.60"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 145252,
+        "text": "Which of these balls is known to have the pointiest ends?",
+        "question_number": 1,
+        "eliminated": "4,180",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "85,956",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292334,
+            "text": "Soccer ball",
+            "correct": false,
+            "count": "509",
+            "percent": "0.6%"
+          },
+          {
+            "id": 292335,
+            "text": "NFL football",
+            "correct": true,
+            "count": "83,884",
+            "percent": "98.63%"
+          },
+          {
+            "id": 292336,
+            "text": "Tennis ball",
+            "correct": false,
+            "count": "658",
+            "percent": "0.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/1/1",
+        "game_link": "/us/game/2019-09-09/1",
+        "correct_answers": 83884,
+        "incorrect_answers": 1167,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145266,
+        "text": "On August 24 this year, Florida played Miami in a football game during what \"week\" of the college season?",
+        "question_number": 2,
+        "eliminated": "29,674",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "56,824",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292355,
+            "text": "Week One",
+            "correct": false,
+            "count": "25,297",
+            "percent": "30.69%"
+          },
+          {
+            "id": 292356,
+            "text": "Week Zero",
+            "correct": true,
+            "count": "55,154",
+            "percent": "66.91%"
+          },
+          {
+            "id": 292357,
+            "text": "Week Infinity",
+            "correct": false,
+            "count": "1,981",
+            "percent": "2.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/1/2",
+        "game_link": "/us/game/2019-09-09/1",
+        "correct_answers": 55154,
+        "incorrect_answers": 27278,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145282,
+        "text": "Which veteran QB had the worst fantasy football performance week 1 of this NFL season?",
+        "question_number": 3,
+        "eliminated": "8,617",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "51,541",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292379,
+            "text": "Philip Rivers",
+            "correct": false,
+            "count": "4,122",
+            "percent": "7.07%"
+          },
+          {
+            "id": 292381,
+            "text": "Tom Brady",
+            "correct": false,
+            "count": "2,676",
+            "percent": "4.59%"
+          },
+          {
+            "id": 292386,
+            "text": "Ben Roethlisberger",
+            "correct": true,
+            "count": "51,541",
+            "percent": "88.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/1/3",
+        "game_link": "/us/game/2019-09-09/1",
+        "correct_answers": 51541,
+        "incorrect_answers": 6798,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145298,
+        "text": "Which of these first-overall NFL draft picks is still in the NFL?",
+        "question_number": 4,
+        "eliminated": "17,462",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "34,826",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292403,
+            "text": "Mario Williams",
+            "correct": false,
+            "count": "3,496",
+            "percent": "6.84%"
+          },
+          {
+            "id": 292404,
+            "text": "Eric Fisher",
+            "correct": true,
+            "count": "34,826",
+            "percent": "68.12%"
+          },
+          {
+            "id": 292408,
+            "text": "Jake Long",
+            "correct": false,
+            "count": "12,802",
+            "percent": "25.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/1/4",
+        "game_link": "/us/game/2019-09-09/1",
+        "correct_answers": 34826,
+        "incorrect_answers": 16298,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145314,
+        "text": "What active player is tied for the longest single rush in an NFL game?",
+        "question_number": 5,
+        "eliminated": "20,684",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "16,556",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292427,
+            "text": "Ezekiel Elliott",
+            "correct": false,
+            "count": "1,011",
+            "percent": "4.9%"
+          },
+          {
+            "id": 292429,
+            "text": "Derrick Henry",
+            "correct": true,
+            "count": "16,556",
+            "percent": "80.21%"
+          },
+          {
+            "id": 292432,
+            "text": "Adrian Peterson",
+            "correct": false,
+            "count": "3,075",
+            "percent": "14.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/1/5",
+        "game_link": "/us/game/2019-09-09/1",
+        "correct_answers": 16556,
+        "incorrect_answers": 4086,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145330,
+        "text": "Which player holds the record for most 4th-quarter comebacks in a single NFL season?",
+        "question_number": 6,
+        "eliminated": "6,688",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "10,648",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292451,
+            "text": "Matt Stafford",
+            "correct": true,
+            "count": "10,648",
+            "percent": "62.08%"
+          },
+          {
+            "id": 292453,
+            "text": "Derek Carr",
+            "correct": false,
+            "count": "667",
+            "percent": "3.89%"
+          },
+          {
+            "id": 292457,
+            "text": "Petyon Manning",
+            "correct": false,
+            "count": "5,838",
+            "percent": "34.03%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/1/6",
+        "game_link": "/us/game/2019-09-09/1",
+        "correct_answers": 10648,
+        "incorrect_answers": 6505,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145346,
+        "text": "Which of these Ivy League quarterbacks threw the most touchdown passes for an NFC team?",
+        "question_number": 7,
+        "eliminated": "9,600",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "3,291",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292475,
+            "text": "Jay Fiedler",
+            "correct": false,
+            "count": "571",
+            "percent": "4.47%"
+          },
+          {
+            "id": 292477,
+            "text": "Jeff Kemp",
+            "correct": true,
+            "count": "3,291",
+            "percent": "25.76%"
+          },
+          {
+            "id": 292480,
+            "text": "Ryan Fitzpatrick",
+            "correct": false,
+            "count": "8,915",
+            "percent": "69.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/1/7",
+        "game_link": "/us/game/2019-09-09/1",
+        "correct_answers": 3291,
+        "incorrect_answers": 9486,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145362,
+        "text": "Which of these colleges has hosted the most Super Bowls?",
+        "question_number": 8,
+        "eliminated": "2,137",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "6,278",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292499,
+            "text": "Rice University",
+            "correct": false,
+            "count": "311",
+            "percent": "3.71%"
+          },
+          {
+            "id": 292501,
+            "text": "Tulane University",
+            "correct": true,
+            "count": "6,278",
+            "percent": "74.99%"
+          },
+          {
+            "id": 292504,
+            "text": "Stanford University",
+            "correct": false,
+            "count": "1,783",
+            "percent": "21.3%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/1/8",
+        "game_link": "/us/game/2019-09-09/1",
+        "correct_answers": 6278,
+        "incorrect_answers": 2094,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145378,
+        "text": "A former lineman for the CFLâs Calgary Stampeders went on to headline what action-movie franchise?",
+        "question_number": 9,
+        "eliminated": "1,387",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "5,644",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292523,
+            "text": "Fast and the Furious",
+            "correct": true,
+            "count": "5,644",
+            "percent": "82.14%"
+          },
+          {
+            "id": 292526,
+            "text": "The Expendables",
+            "correct": false,
+            "count": "749",
+            "percent": "10.9%"
+          },
+          {
+            "id": 292529,
+            "text": "John Wick",
+            "correct": false,
+            "count": "478",
+            "percent": "6.96%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/1/9",
+        "game_link": "/us/game/2019-09-09/1",
+        "correct_answers": 5644,
+        "incorrect_answers": 1227,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145394,
+        "text": "Who holds the official Division I record for sacks in a single season?",
+        "question_number": 10,
+        "eliminated": "593",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "5,717",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292547,
+            "text": "Terrell Suggs",
+            "correct": true,
+            "count": "5,717",
+            "percent": "91.34%"
+          },
+          {
+            "id": 292549,
+            "text": "JJ Watt",
+            "correct": false,
+            "count": "173",
+            "percent": "2.76%"
+          },
+          {
+            "id": 292553,
+            "text": "Khalil Mack",
+            "correct": false,
+            "count": "369",
+            "percent": "5.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/1/10",
+        "game_link": "/us/game/2019-09-09/1",
+        "correct_answers": 5717,
+        "incorrect_answers": 542,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145410,
+        "text": "Which of these teams was represented by an active player in the NFL Battle Royal at WrestleMania 2?",
+        "question_number": 11,
+        "eliminated": "887",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "5,026",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292571,
+            "text": "New York Giants",
+            "correct": false,
+            "count": "781",
+            "percent": "13.27%"
+          },
+          {
+            "id": 292572,
+            "text": "Dallas Cowboys",
+            "correct": false,
+            "count": "77",
+            "percent": "1.31%"
+          },
+          {
+            "id": 292575,
+            "text": "Chicago Bears",
+            "correct": true,
+            "count": "5,026",
+            "percent": "85.42%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/1/11",
+        "game_link": "/us/game/2019-09-09/1",
+        "correct_answers": 5026,
+        "incorrect_answers": 858,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145426,
+        "text": "What NFL team currently features the greatest number of Heisman winners on their roster?",
+        "question_number": 12,
+        "eliminated": "3,889",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,663",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292595,
+            "text": "Cardinals",
+            "correct": false,
+            "count": "1,850",
+            "percent": "33.66%"
+          },
+          {
+            "id": 292598,
+            "text": "Titans",
+            "correct": false,
+            "count": "1,983",
+            "percent": "36.08%"
+          },
+          {
+            "id": 292601,
+            "text": "Ravens",
+            "correct": true,
+            "count": "1,663",
+            "percent": "30.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/1/12",
+        "game_link": "/us/game/2019-09-09/1",
+        "correct_answers": 1663,
+        "incorrect_answers": 3833,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1553,
+        "game_id": 131467,
+        "question": "Who will win tonight's second MNF game?",
+        "results": [
+          {
+            "id": 9205,
+            "display_count": "67",
+            "vote_count": 4422,
+            "text": "Broncos"
+          },
+          {
+            "id": 9208,
+            "display_count": "25",
+            "vote_count": 1662,
+            "text": "Raiders"
+          },
+          {
+            "id": 9215,
+            "display_count": "8",
+            "vote_count": 540,
+            "text": "Tie"
+          }
+        ],
+        "created_at": "2019-09-10T00:11:58Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 131588,
+    "show_id": 12126,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "2,500",
+    "currency": "$",
+    "start_time": "2019-09-10T01:00:00Z",
+    "direct_link": "/us/game/2019-09-09/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "108",
+      "currency": "$",
+      "average_prize": "23.15"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 145444,
+        "text": "Which of these movies won the Best Picture Oscar?",
+        "question_number": 1,
+        "eliminated": "12,663",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "185,754",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292622,
+            "text": "Baby Geniuses 2",
+            "correct": false,
+            "count": "5,051",
+            "percent": "2.69%"
+          },
+          {
+            "id": 292623,
+            "text": "Birdemic: Shock & Terror",
+            "correct": false,
+            "count": "4,858",
+            "percent": "2.59%"
+          },
+          {
+            "id": 292624,
+            "text": "A Beautiful Mind",
+            "correct": true,
+            "count": "177,912",
+            "percent": "94.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/2/1",
+        "game_link": "/us/game/2019-09-09/2",
+        "correct_answers": 177912,
+        "incorrect_answers": 9909,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145458,
+        "text": "Where does a book's prologue usually appear?",
+        "question_number": 2,
+        "eliminated": "19,452",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "167,903",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292644,
+            "text": "Beginning",
+            "correct": true,
+            "count": "164,345",
+            "percent": "90.0%"
+          },
+          {
+            "id": 292649,
+            "text": "Back cover",
+            "correct": false,
+            "count": "5,350",
+            "percent": "2.93%"
+          },
+          {
+            "id": 292656,
+            "text": "End",
+            "correct": false,
+            "count": "12,917",
+            "percent": "7.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/2/2",
+        "game_link": "/us/game/2019-09-09/2",
+        "correct_answers": 164345,
+        "incorrect_answers": 18267,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145475,
+        "text": "In Nathaniel Hawthorne's classic, what is \"The Scarlet Letter\"?",
+        "question_number": 3,
+        "eliminated": "20,273",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "150,221",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292668,
+            "text": "A",
+            "correct": true,
+            "count": "150,221",
+            "percent": "89.27%"
+          },
+          {
+            "id": 292670,
+            "text": "S",
+            "correct": false,
+            "count": "12,548",
+            "percent": "7.46%"
+          },
+          {
+            "id": 292674,
+            "text": "X",
+            "correct": false,
+            "count": "5,509",
+            "percent": "3.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/2/3",
+        "game_link": "/us/game/2019-09-09/2",
+        "correct_answers": 150221,
+        "incorrect_answers": 18057,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145490,
+        "text": "What ancient civilization is known for building Chichen Itza?",
+        "question_number": 4,
+        "eliminated": "70,712",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "82,003",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292692,
+            "text": "Mayans",
+            "correct": true,
+            "count": "82,003",
+            "percent": "61.95%"
+          },
+          {
+            "id": 292698,
+            "text": "Aztecs",
+            "correct": false,
+            "count": "28,670",
+            "percent": "21.66%"
+          },
+          {
+            "id": 292704,
+            "text": "Incas",
+            "correct": false,
+            "count": "21,705",
+            "percent": "16.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/2/4",
+        "game_link": "/us/game/2019-09-09/2",
+        "correct_answers": 82003,
+        "incorrect_answers": 50375,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145507,
+        "text": "What cooking method combines high pressure with deep-frying?",
+        "question_number": 5,
+        "eliminated": "50,773",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "37,442",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292716,
+            "text": "Parboiling",
+            "correct": false,
+            "count": "10,427",
+            "percent": "11.99%"
+          },
+          {
+            "id": 292719,
+            "text": "Poaching",
+            "correct": false,
+            "count": "39,131",
+            "percent": "44.98%"
+          },
+          {
+            "id": 292724,
+            "text": "Broasting",
+            "correct": true,
+            "count": "37,442",
+            "percent": "43.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/2/5",
+        "game_link": "/us/game/2019-09-09/2",
+        "correct_answers": 37442,
+        "incorrect_answers": 49558,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145524,
+        "text": "In baseball, a changeup pitch refers to a change in what?",
+        "question_number": 6,
+        "eliminated": "7,185",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "51,630",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292740,
+            "text": "Hand",
+            "correct": false,
+            "count": "3,541",
+            "percent": "6.08%"
+          },
+          {
+            "id": 292744,
+            "text": "Speed",
+            "correct": true,
+            "count": "51,630",
+            "percent": "88.66%"
+          },
+          {
+            "id": 292751,
+            "text": "Target",
+            "correct": false,
+            "count": "3,061",
+            "percent": "5.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/2/6",
+        "game_link": "/us/game/2019-09-09/2",
+        "correct_answers": 51630,
+        "incorrect_answers": 6602,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145539,
+        "text": "The name of which automaker is an acronym?",
+        "question_number": 7,
+        "eliminated": "18,319",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "34,351",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292764,
+            "text": "Audi",
+            "correct": false,
+            "count": "10,553",
+            "percent": "20.39%"
+          },
+          {
+            "id": 292767,
+            "text": "Opel",
+            "correct": false,
+            "count": "6,840",
+            "percent": "13.22%"
+          },
+          {
+            "id": 292771,
+            "text": "Fiat",
+            "correct": true,
+            "count": "34,351",
+            "percent": "66.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/2/7",
+        "game_link": "/us/game/2019-09-09/2",
+        "correct_answers": 34351,
+        "incorrect_answers": 17393,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145556,
+        "text": "The percussion instrument called a \"tam-tam\" is a type of what?",
+        "question_number": 8,
+        "eliminated": "9,899",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "27,427",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292790,
+            "text": "Gong",
+            "correct": true,
+            "count": "27,427",
+            "percent": "74.01%"
+          },
+          {
+            "id": 292796,
+            "text": "Castanet",
+            "correct": false,
+            "count": "4,625",
+            "percent": "12.48%"
+          },
+          {
+            "id": 292801,
+            "text": "Marimba",
+            "correct": false,
+            "count": "5,005",
+            "percent": "13.51%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/2/8",
+        "game_link": "/us/game/2019-09-09/2",
+        "correct_answers": 27427,
+        "incorrect_answers": 9630,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145572,
+        "text": "Which of these Wonders of the Ancient World was located the farthest north?",
+        "question_number": 9,
+        "eliminated": "25,043",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "4,023",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292811,
+            "text": "Colossus",
+            "correct": true,
+            "count": "4,023",
+            "percent": "14.04%"
+          },
+          {
+            "id": 292816,
+            "text": "Lighthouse",
+            "correct": false,
+            "count": "5,529",
+            "percent": "19.3%"
+          },
+          {
+            "id": 292820,
+            "text": "Hanging Gardens",
+            "correct": false,
+            "count": "19,099",
+            "percent": "66.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/2/9",
+        "game_link": "/us/game/2019-09-09/2",
+        "correct_answers": 4023,
+        "incorrect_answers": 24628,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145588,
+        "text": "Which of these is farthest from Earth?",
+        "question_number": 10,
+        "eliminated": "5,217",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "13,686",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292839,
+            "text": "Termination shock",
+            "correct": false,
+            "count": "1,176",
+            "percent": "6.26%"
+          },
+          {
+            "id": 292844,
+            "text": "Heliopause",
+            "correct": true,
+            "count": "13,686",
+            "percent": "72.91%"
+          },
+          {
+            "id": 292847,
+            "text": "Heliosheath",
+            "correct": false,
+            "count": "3,910",
+            "percent": "20.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/2/10",
+        "game_link": "/us/game/2019-09-09/2",
+        "correct_answers": 13686,
+        "incorrect_answers": 5086,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145604,
+        "text": "Which of these African nations is about equal in size to Colorado?",
+        "question_number": 11,
+        "eliminated": "7,988",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "7,313",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292862,
+            "text": "Tanzania",
+            "correct": false,
+            "count": "353",
+            "percent": "2.31%"
+          },
+          {
+            "id": 292865,
+            "text": "Kenya",
+            "correct": false,
+            "count": "7,583",
+            "percent": "49.73%"
+          },
+          {
+            "id": 292871,
+            "text": "Gabon",
+            "correct": true,
+            "count": "7,313",
+            "percent": "47.96%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/2/11",
+        "game_link": "/us/game/2019-09-09/2",
+        "correct_answers": 7313,
+        "incorrect_answers": 7936,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145620,
+        "text": "What is NOT a real pinball machine starring horror host Elvira?",
+        "question_number": 12,
+        "eliminated": "4,402",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "7,337",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292886,
+            "text": "Scared Stiff",
+            "correct": false,
+            "count": "2,156",
+            "percent": "18.48%"
+          },
+          {
+            "id": 292891,
+            "text": "Transylvania Twist",
+            "correct": true,
+            "count": "7,337",
+            "percent": "62.88%"
+          },
+          {
+            "id": 292898,
+            "text": "E. & the Party Monsters",
+            "correct": false,
+            "count": "2,176",
+            "percent": "18.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/2/12",
+        "game_link": "/us/game/2019-09-09/2",
+        "correct_answers": 7337,
+        "incorrect_answers": 4332,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 12,
+          "players_left": 9052,
+          "players_left_formatted": "9,052",
+          "num_winners": 290,
+          "num_winners_formatted": "290",
+          "prize": 0.14,
+          "prize_formatted": "$0.14",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 145634,
+        "text": "The first US constitutional amendment ratified in the 20th century dealt with what?",
+        "question_number": 13,
+        "eliminated": "5,767",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "3,283",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292907,
+            "text": "Alcohol",
+            "correct": false,
+            "count": "285",
+            "percent": "3.4%"
+          },
+          {
+            "id": 292910,
+            "text": "Taxes",
+            "correct": true,
+            "count": "3,283",
+            "percent": "39.17%"
+          },
+          {
+            "id": 292918,
+            "text": "Elections",
+            "correct": false,
+            "count": "4,814",
+            "percent": "57.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/2/13",
+        "game_link": "/us/game/2019-09-09/2",
+        "correct_answers": 3283,
+        "incorrect_answers": 5099,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145653,
+        "text": "Which New Jersey city was named for a controversial Revolutionary War general?",
+        "question_number": 14,
+        "eliminated": "3,005",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "2,135",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292934,
+            "text": "Fort Lee",
+            "correct": true,
+            "count": "2,135",
+            "percent": "41.63%"
+          },
+          {
+            "id": 292941,
+            "text": "Paterson",
+            "correct": false,
+            "count": "40",
+            "percent": "0.78%"
+          },
+          {
+            "id": 292947,
+            "text": "Trenton",
+            "correct": false,
+            "count": "2,954",
+            "percent": "57.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/2/14",
+        "game_link": "/us/game/2019-09-09/2",
+        "correct_answers": 2135,
+        "incorrect_answers": 2994,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145667,
+        "text": "Who was this man's vice president?",
+        "question_number": 15,
+        "eliminated": "1,399",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "1,326",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292958,
+            "text": "Millard Fillmore",
+            "correct": false,
+            "count": "643",
+            "percent": "23.65%"
+          },
+          {
+            "id": 292962,
+            "text": "John Tyler",
+            "correct": false,
+            "count": "750",
+            "percent": "27.58%"
+          },
+          {
+            "id": 292969,
+            "text": "George Dallas",
+            "correct": true,
+            "count": "1,326",
+            "percent": "48.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/2/15",
+        "game_link": "/us/game/2019-09-09/2",
+        "correct_answers": 1326,
+        "incorrect_answers": 1393,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 15,
+          "players_left": 440,
+          "players_left_formatted": "440",
+          "num_winners": 944,
+          "num_winners_formatted": "944",
+          "prize": 1.51,
+          "prize_formatted": "$1.51",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 145684,
+        "text": "In a study, Harvard advised companies to set up in which kind of climate to increase productivity?",
+        "question_number": 16,
+        "eliminated": "212",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "228",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 292980,
+            "text": "Temperate",
+            "correct": false,
+            "count": "12",
+            "percent": "3.83%"
+          },
+          {
+            "id": 292984,
+            "text": "Sunny",
+            "correct": false,
+            "count": "73",
+            "percent": "23.32%"
+          },
+          {
+            "id": 292989,
+            "text": "Rainy",
+            "correct": true,
+            "count": "228",
+            "percent": "72.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/2/16",
+        "game_link": "/us/game/2019-09-09/2",
+        "correct_answers": 228,
+        "incorrect_answers": 85,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145699,
+        "text": "Which is the capital of a US state that has an official state mushroom?",
+        "question_number": 17,
+        "eliminated": "17",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "227",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 293004,
+            "text": "Salem",
+            "correct": true,
+            "count": "228",
+            "percent": "94.21%"
+          },
+          {
+            "id": 293007,
+            "text": "Lansing",
+            "correct": false,
+            "count": "3",
+            "percent": "1.24%"
+          },
+          {
+            "id": 293011,
+            "text": "Harrisburg",
+            "correct": false,
+            "count": "11",
+            "percent": "4.55%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/2/17",
+        "game_link": "/us/game/2019-09-09/2",
+        "correct_answers": 228,
+        "incorrect_answers": 14,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 145715,
+        "text": "Which of these Hollywood stars has NOT appeared in a sequel?",
+        "question_number": 18,
+        "eliminated": "119",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "109",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 293028,
+            "text": "Denzel Washington",
+            "correct": false,
+            "count": "52",
+            "percent": "23.11%"
+          },
+          {
+            "id": 293030,
+            "text": "Benedict Cumberbatch",
+            "correct": false,
+            "count": "62",
+            "percent": "27.56%"
+          },
+          {
+            "id": 293033,
+            "text": "Jodie Foster",
+            "correct": true,
+            "count": "111",
+            "percent": "49.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-09/2/18",
+        "game_link": "/us/game/2019-09-09/2",
+        "correct_answers": 111,
+        "incorrect_answers": 114,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [
+      {
+        "round_number": 12,
+        "players_left": 9052,
+        "players_left_formatted": "9,052",
+        "num_winners": 290,
+        "num_winners_formatted": "290",
+        "prize": 0.14,
+        "prize_formatted": "$0.14",
+        "currency": "$"
+      },
+      {
+        "round_number": 15,
+        "players_left": 440,
+        "players_left_formatted": "440",
+        "num_winners": 944,
+        "num_winners_formatted": "944",
+        "prize": 1.51,
+        "prize_formatted": "$1.51",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "1,466.04",
+    "total_checkpoint_winners": "1,234",
+    "smallest_checkpoint_prize": "$0.14",
+    "largest_checkpoint_prize": "$1.51",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

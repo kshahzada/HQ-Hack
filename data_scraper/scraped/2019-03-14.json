@@ -1,0 +1,1339 @@
+[
+  {
+    "id": 86754,
+    "show_id": 10089,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "2,500",
+    "currency": "$",
+    "start_time": "2019-03-14T19:00:00Z",
+    "direct_link": "/us/game/2019-03-14/1",
+    "time": " 3:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "4,008",
+      "currency": "$",
+      "average_prize": "0.62"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 89497,
+        "text": "What famous fictional elephant can fly with his ears?",
+        "question_number": 1,
+        "eliminated": "1,966",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "200,486",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 208718,
+            "text": "Lassie",
+            "correct": false,
+            "count": "834",
+            "percent": "0.41%"
+          },
+          {
+            "id": 208720,
+            "text": "Jiminy Cricket",
+            "correct": false,
+            "count": "1,132",
+            "percent": "0.56%"
+          },
+          {
+            "id": 208722,
+            "text": "Dumbo",
+            "correct": true,
+            "count": "200,486",
+            "percent": "99.03%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/1",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 200486,
+        "incorrect_answers": 1966,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89513,
+        "text": "Who played my twin in âTwinsâ?",
+        "question_number": 2,
+        "eliminated": "18,417",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "186,265",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 208742,
+            "text": "Arnold Schwarzenegger",
+            "correct": true,
+            "count": "186,265",
+            "percent": "93.79%"
+          },
+          {
+            "id": 208745,
+            "text": "Cardi B",
+            "correct": false,
+            "count": "1,049",
+            "percent": "0.53%"
+          },
+          {
+            "id": 208749,
+            "text": "Ben Affleck",
+            "correct": false,
+            "count": "11,294",
+            "percent": "5.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/2",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 186265,
+        "incorrect_answers": 12343,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89530,
+        "text": "Which Batman villain did I portray?",
+        "question_number": 3,
+        "eliminated": "10,756",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "177,349",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 208767,
+            "text": "Bane",
+            "correct": false,
+            "count": "2,371",
+            "percent": "1.28%"
+          },
+          {
+            "id": 208771,
+            "text": "The Joker",
+            "correct": false,
+            "count": "5,659",
+            "percent": "3.05%"
+          },
+          {
+            "id": 208774,
+            "text": "The Penguin",
+            "correct": true,
+            "count": "177,349",
+            "percent": "95.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/3",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 177349,
+        "incorrect_answers": 8030,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89545,
+        "text": "What was my role in the hit television show âTaxiâ?",
+        "question_number": 4,
+        "eliminated": "55,261",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "123,975",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 208790,
+            "text": "Driver",
+            "correct": false,
+            "count": "32,364",
+            "percent": "18.5%"
+          },
+          {
+            "id": 208792,
+            "text": "Mechanic",
+            "correct": false,
+            "count": "18,640",
+            "percent": "10.65%"
+          },
+          {
+            "id": 208794,
+            "text": "Dispatcher",
+            "correct": true,
+            "count": "123,975",
+            "percent": "70.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/4",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 123975,
+        "incorrect_answers": 51004,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89562,
+        "text": "I provided voice-over at the start of which of these films?",
+        "question_number": 5,
+        "eliminated": "96,120",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "38,738",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 208816,
+            "text": "Big Fish",
+            "correct": false,
+            "count": "53,349",
+            "percent": "41.8%"
+          },
+          {
+            "id": 208820,
+            "text": "LA Confidential",
+            "correct": true,
+            "count": "38,738",
+            "percent": "30.35%"
+          },
+          {
+            "id": 208822,
+            "text": "Mars Attacks!",
+            "correct": false,
+            "count": "35,535",
+            "percent": "27.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/5",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 38738,
+        "incorrect_answers": 88884,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89578,
+        "text": "Last year, a teen went viral for bringing my cardboard cutout where?",
+        "question_number": 6,
+        "eliminated": "12,621",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "46,958",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 208838,
+            "text": "Prom",
+            "correct": true,
+            "count": "46,958",
+            "percent": "84.56%"
+          },
+          {
+            "id": 208840,
+            "text": "The mall",
+            "correct": false,
+            "count": "1,196",
+            "percent": "2.15%"
+          },
+          {
+            "id": 208846,
+            "text": "Homecoming",
+            "correct": false,
+            "count": "7,379",
+            "percent": "13.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/6",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 46958,
+        "incorrect_answers": 8575,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89593,
+        "text": "The band pictured here featured me in which music video?",
+        "question_number": 7,
+        "eliminated": "21,448",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "27,355",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 208862,
+            "text": "Steal My Girl",
+            "correct": true,
+            "count": "27,355",
+            "percent": "56.68%"
+          },
+          {
+            "id": 208865,
+            "text": "What Makes You Beautiful",
+            "correct": false,
+            "count": "11,359",
+            "percent": "23.54%"
+          },
+          {
+            "id": 208872,
+            "text": "Best Song Ever",
+            "correct": false,
+            "count": "9,549",
+            "percent": "19.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/7",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 27355,
+        "incorrect_answers": 20908,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89609,
+        "text": "Which of these Michael Douglas-starring films did I direct?",
+        "question_number": 8,
+        "eliminated": "20,458",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "9,914",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 208886,
+            "text": "The War of the Roses",
+            "correct": true,
+            "count": "9,914",
+            "percent": "34.77%"
+          },
+          {
+            "id": 208889,
+            "text": "Falling Down",
+            "correct": false,
+            "count": "2,300",
+            "percent": "8.07%"
+          },
+          {
+            "id": 208894,
+            "text": "Romancing the Stone",
+            "correct": false,
+            "count": "16,299",
+            "percent": "57.16%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/8",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 9914,
+        "incorrect_answers": 18599,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89628,
+        "text": "What historical figure does my character play in âGet Shortyâ?",
+        "question_number": 9,
+        "eliminated": "2,573",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "15,622",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 208915,
+            "text": "Picasso",
+            "correct": false,
+            "count": "785",
+            "percent": "4.4%"
+          },
+          {
+            "id": 208919,
+            "text": "Napoleon",
+            "correct": true,
+            "count": "15,622",
+            "percent": "87.53%"
+          },
+          {
+            "id": 208926,
+            "text": "Beethoven",
+            "correct": false,
+            "count": "1,441",
+            "percent": "8.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/9",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 15622,
+        "incorrect_answers": 2226,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89642,
+        "text": "Which character from âThrow Momma from the Trainâ earned its portrayer an Oscar nomination?",
+        "question_number": 10,
+        "eliminated": "4,319",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "11,710",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 208936,
+            "text": "The son",
+            "correct": false,
+            "count": "1,222",
+            "percent": "7.91%"
+          },
+          {
+            "id": 208944,
+            "text": "The sonâs friend",
+            "correct": false,
+            "count": "2,508",
+            "percent": "16.24%"
+          },
+          {
+            "id": 208951,
+            "text": "The momma",
+            "correct": true,
+            "count": "11,710",
+            "percent": "75.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/10",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 11710,
+        "incorrect_answers": 3730,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89658,
+        "text": "What does Mr. Wormwood NOT tell Matilda in the movie âMatildaâ?",
+        "question_number": 11,
+        "eliminated": "3,317",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "9,021",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 208959,
+            "text": "Iâm strong, youâre weak.",
+            "correct": true,
+            "count": "9,021",
+            "percent": "77.28%"
+          },
+          {
+            "id": 208963,
+            "text": "Iâm big, youâre little.",
+            "correct": false,
+            "count": "929",
+            "percent": "7.96%"
+          },
+          {
+            "id": 208973,
+            "text": "Iâm right, youâre wrong.",
+            "correct": false,
+            "count": "1,723",
+            "percent": "14.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/11",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 9021,
+        "incorrect_answers": 2652,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89673,
+        "text": "What piece of garbage is Frank as âThe Trashmanâ first seen eating in âItâs Always Sunny in Philadelphiaâ?",
+        "question_number": 12,
+        "eliminated": "5,639",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "4,008",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 208982,
+            "text": "Apple",
+            "correct": true,
+            "count": "4,008",
+            "percent": "43.53%"
+          },
+          {
+            "id": 208985,
+            "text": "Ham",
+            "correct": false,
+            "count": "3,181",
+            "percent": "34.55%"
+          },
+          {
+            "id": 208993,
+            "text": "Egg",
+            "correct": false,
+            "count": "2,018",
+            "percent": "21.92%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/12",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 4008,
+        "incorrect_answers": 5199,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 86872,
+    "show_id": 9949,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-03-15T01:00:00Z",
+    "direct_link": "/us/game/2019-03-14/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "5,430",
+      "currency": "$",
+      "average_prize": "0.92"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Literature",
+        "slug": "literature"
+      }
+    ],
+    "questions": [
+      {
+        "id": 89690,
+        "text": "Who is this autobiographical narrator?",
+        "question_number": 1,
+        "eliminated": "36,659",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "328,242",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 209007,
+            "text": "Jane Austen",
+            "correct": false,
+            "count": "25,124",
+            "percent": "6.89%"
+          },
+          {
+            "id": 209009,
+            "text": "Tiffany Haddish",
+            "correct": true,
+            "count": "328,242",
+            "percent": "89.95%"
+          },
+          {
+            "id": 209011,
+            "text": "Winston Churchill",
+            "correct": false,
+            "count": "11,535",
+            "percent": "3.16%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/1",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 328242,
+        "incorrect_answers": 36659,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89704,
+        "text": "This novel is called âA Clockworkâ what?",
+        "question_number": 2,
+        "eliminated": "32,429",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "303,735",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 209028,
+            "text": "Mango",
+            "correct": false,
+            "count": "17,596",
+            "percent": "5.34%"
+          },
+          {
+            "id": 209031,
+            "text": "Banana",
+            "correct": false,
+            "count": "8,349",
+            "percent": "2.53%"
+          },
+          {
+            "id": 209034,
+            "text": "Orange",
+            "correct": true,
+            "count": "303,735",
+            "percent": "92.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/2",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 303735,
+        "incorrect_answers": 25945,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89719,
+        "text": "Who wrote this novel?",
+        "question_number": 3,
+        "eliminated": "29,689",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "277,632",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 209051,
+            "text": "Ernest Hemingway",
+            "correct": false,
+            "count": "8,984",
+            "percent": "2.96%"
+          },
+          {
+            "id": 209052,
+            "text": "Charles Dickens",
+            "correct": false,
+            "count": "17,323",
+            "percent": "5.7%"
+          },
+          {
+            "id": 209054,
+            "text": "Mark Twain",
+            "correct": true,
+            "count": "277,632",
+            "percent": "91.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/3",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 277632,
+        "incorrect_answers": 26307,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89736,
+        "text": "âA Portrait of the Artist as a Young Manâ was written by a man from which place?",
+        "question_number": 4,
+        "eliminated": "162,282",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "119,329",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 209078,
+            "text": "Ireland",
+            "correct": true,
+            "count": "119,329",
+            "percent": "44.57%"
+          },
+          {
+            "id": 209081,
+            "text": "Wales",
+            "correct": false,
+            "count": "78,896",
+            "percent": "29.47%"
+          },
+          {
+            "id": 209084,
+            "text": "Scotland",
+            "correct": false,
+            "count": "69,506",
+            "percent": "25.96%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/4",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 119329,
+        "incorrect_answers": 148402,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89752,
+        "text": "This is the beginning to a classic novel by what author?",
+        "question_number": 5,
+        "eliminated": "42,373",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "100,758",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 209102,
+            "text": "George Orwell",
+            "correct": true,
+            "count": "100,758",
+            "percent": "71.77%"
+          },
+          {
+            "id": 209105,
+            "text": "Ray Bradbury",
+            "correct": false,
+            "count": "28,278",
+            "percent": "20.14%"
+          },
+          {
+            "id": 209110,
+            "text": "Arthur C. Clarke",
+            "correct": false,
+            "count": "11,355",
+            "percent": "8.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/5",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 100758,
+        "incorrect_answers": 39633,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89767,
+        "text": "Which of these novels features a protagonist named Santiago?",
+        "question_number": 6,
+        "eliminated": "30,122",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "77,475",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 209123,
+            "text": "The Kite Runner",
+            "correct": false,
+            "count": "13,370",
+            "percent": "12.68%"
+          },
+          {
+            "id": 209126,
+            "text": "The Da Vinci Code",
+            "correct": false,
+            "count": "14,579",
+            "percent": "13.83%"
+          },
+          {
+            "id": 209130,
+            "text": "The Alchemist",
+            "correct": true,
+            "count": "77,475",
+            "percent": "73.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/6",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 77475,
+        "incorrect_answers": 27949,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89781,
+        "text": "The author of this novel did NOT also write which of these?",
+        "question_number": 7,
+        "eliminated": "27,744",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "54,571",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 209144,
+            "text": "Emma",
+            "correct": false,
+            "count": "9,327",
+            "percent": "11.49%"
+          },
+          {
+            "id": 209146,
+            "text": "Jane Eyre",
+            "correct": true,
+            "count": "54,571",
+            "percent": "67.22%"
+          },
+          {
+            "id": 209149,
+            "text": "Persuasion",
+            "correct": false,
+            "count": "17,287",
+            "percent": "21.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/7",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 54571,
+        "incorrect_answers": 26614,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89798,
+        "text": "Which of these Neil Gaiman works did NOT begin as a comic book or graphic novel?",
+        "question_number": 8,
+        "eliminated": "44,259",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "16,008",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 209168,
+            "text": "The Sandman",
+            "correct": false,
+            "count": "8,859",
+            "percent": "15.02%"
+          },
+          {
+            "id": 209172,
+            "text": "Mr. Punch",
+            "correct": false,
+            "count": "34,121",
+            "percent": "57.84%"
+          },
+          {
+            "id": 209174,
+            "text": "American Gods",
+            "correct": true,
+            "count": "16,008",
+            "percent": "27.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/8",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 16008,
+        "incorrect_answers": 42980,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89813,
+        "text": "What Stephen King novel features âa nightmare Spider from beyond time and spaceâ?",
+        "question_number": 9,
+        "eliminated": "10,223",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "23,585",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 209192,
+            "text": "The Stand",
+            "correct": false,
+            "count": "6,687",
+            "percent": "20.14%"
+          },
+          {
+            "id": 209195,
+            "text": "Pet Sematary",
+            "correct": false,
+            "count": "2,926",
+            "percent": "8.81%"
+          },
+          {
+            "id": 209199,
+            "text": "It",
+            "correct": true,
+            "count": "23,585",
+            "percent": "71.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/9",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 23585,
+        "incorrect_answers": 9613,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89829,
+        "text": "The end of this bestselling novel famously ends with what?",
+        "question_number": 10,
+        "eliminated": "13,771",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "12,181",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 209216,
+            "text": "Textbook chapter",
+            "correct": false,
+            "count": "3,537",
+            "percent": "13.99%"
+          },
+          {
+            "id": 209218,
+            "text": "Presentation transcript",
+            "correct": true,
+            "count": "12,181",
+            "percent": "48.18%"
+          },
+          {
+            "id": 209221,
+            "text": "Rhyming poem",
+            "correct": false,
+            "count": "9,562",
+            "percent": "37.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/10",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 12181,
+        "incorrect_answers": 13099,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89846,
+        "text": "Which of these titles is part of the âOutlanderâ series?",
+        "question_number": 11,
+        "eliminated": "5,636",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "8,580",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 209241,
+            "text": "The Worth of Stars",
+            "correct": false,
+            "count": "1,080",
+            "percent": "7.78%"
+          },
+          {
+            "id": 209245,
+            "text": "Stolen Time",
+            "correct": false,
+            "count": "4,217",
+            "percent": "30.39%"
+          },
+          {
+            "id": 209252,
+            "text": "Drums of Autumn",
+            "correct": true,
+            "count": "8,580",
+            "percent": "61.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/11",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 8580,
+        "incorrect_answers": 5297,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 89862,
+        "text": "How does this famous quotation from Mary Shelleyâs âFrankensteinâ end?",
+        "question_number": 12,
+        "eliminated": "3,771",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "5,430",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 209264,
+            "text": "Great and sudden change",
+            "correct": true,
+            "count": "5,430",
+            "percent": "59.32%"
+          },
+          {
+            "id": 209266,
+            "text": "Love torn asunder",
+            "correct": false,
+            "count": "2,703",
+            "percent": "29.53%"
+          },
+          {
+            "id": 209272,
+            "text": "Short-livâd friendship",
+            "correct": false,
+            "count": "1,020",
+            "percent": "11.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-14/1/12",
+        "game_link": "/us/game/2019-03-14/1",
+        "correct_answers": 5430,
+        "incorrect_answers": 3723,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 86992,
+    "show_id": 10028,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-03-15T01:30:00Z",
+    "direct_link": "/us/game/2019-03-14/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "59.56"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "61.01"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "63.31"
+        },
+        {
+          "number": "10,884",
+          "amount": "0.07",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.07118581794801139,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-03-14/2/1",
+        "question_number": 1,
+        "text": "All-Time Best-Seller",
+        "answer": [
+          "THE",
+          "BIBLE"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "I"
+        ],
+        "game_link": "/us/game/2019-03-14/2",
+        "eliminated": 10492,
+        "advancing": 123855,
+        "correct_answers": 123855,
+        "incorrect_answers": 10492
+      },
+      {
+        "direct_link": "/us/game/2019-03-14/2/2",
+        "question_number": 2,
+        "text": "Gillian Flynn Mystery",
+        "answer": [
+          "GONE",
+          "GIRL"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "R"
+        ],
+        "game_link": "/us/game/2019-03-14/2",
+        "eliminated": 11401,
+        "advancing": 113102,
+        "correct_answers": 113102,
+        "incorrect_answers": 11401
+      },
+      {
+        "direct_link": "/us/game/2019-03-14/2/3",
+        "question_number": 3,
+        "text": "Toni Morrison Hit",
+        "answer": [
+          "BELOVED"
+        ],
+        "initial_letters": [
+          "B"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "V"
+        ],
+        "game_link": "/us/game/2019-03-14/2",
+        "eliminated": 7462,
+        "advancing": 106463,
+        "correct_answers": 106463,
+        "incorrect_answers": 7462
+      },
+      {
+        "direct_link": "/us/game/2019-03-14/2/4",
+        "question_number": 4,
+        "text": "Art Museum Thriller",
+        "answer": [
+          "THE",
+          "DA",
+          "VINCI",
+          "CODE"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "N"
+        ],
+        "game_link": "/us/game/2019-03-14/2",
+        "eliminated": 40390,
+        "advancing": 66494,
+        "correct_answers": 66494,
+        "incorrect_answers": 40390
+      },
+      {
+        "direct_link": "/us/game/2019-03-14/2/5",
+        "question_number": 5,
+        "text": "Afghanistan Tale",
+        "answer": [
+          "THE",
+          "KITE",
+          "RUNNER"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "R"
+        ],
+        "game_link": "/us/game/2019-03-14/2",
+        "eliminated": 11772,
+        "advancing": 59414,
+        "correct_answers": 59414,
+        "incorrect_answers": 11772
+      },
+      {
+        "direct_link": "/us/game/2019-03-14/2/6",
+        "question_number": 6,
+        "text": "Weekly Date",
+        "answer": [
+          "TUESDAYS",
+          "WITH",
+          "MORRIE"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "U"
+        ],
+        "game_link": "/us/game/2019-03-14/2",
+        "eliminated": 26366,
+        "advancing": 34461,
+        "correct_answers": 34461,
+        "incorrect_answers": 26366
+      },
+      {
+        "direct_link": "/us/game/2019-03-14/2/7",
+        "question_number": 7,
+        "text": "Teen Tearjerker",
+        "answer": [
+          "THE",
+          "FAULT",
+          "IN",
+          "OUR",
+          "STARS"
+        ],
+        "initial_letters": [
+          " ",
+          "U"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-03-14/2",
+        "eliminated": 5761,
+        "advancing": 33220,
+        "correct_answers": 33220,
+        "incorrect_answers": 5761
+      },
+      {
+        "direct_link": "/us/game/2019-03-14/2/8",
+        "question_number": 8,
+        "text": "Comedy Biography",
+        "answer": [
+          "BOSSYPANTS"
+        ],
+        "initial_letters": [
+          "P"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "O"
+        ],
+        "game_link": "/us/game/2019-03-14/2",
+        "eliminated": 7026,
+        "advancing": 27330,
+        "correct_answers": 27330,
+        "incorrect_answers": 7026
+      },
+      {
+        "direct_link": "/us/game/2019-03-14/2/9",
+        "question_number": 9,
+        "text": "Classic Adventure Pair",
+        "answer": [
+          "DON",
+          "QUIXOTE",
+          "&",
+          "SANCHO",
+          "PANZA"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "O"
+        ],
+        "game_link": "/us/game/2019-03-14/2",
+        "eliminated": 24650,
+        "advancing": 4578,
+        "correct_answers": 4578,
+        "incorrect_answers": 24650
+      },
+      {
+        "direct_link": "/us/game/2019-03-14/2/10",
+        "question_number": 10,
+        "text": "Wealthy Romance",
+        "answer": [
+          "CRAZY",
+          "RICH",
+          "ASIANS"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-03-14/2",
+        "eliminated": 1470,
+        "advancing": 10887,
+        "correct_answers": 10887,
+        "incorrect_answers": 1470
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

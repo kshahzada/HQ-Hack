@@ -1,0 +1,860 @@
+[
+  {
+    "id": 88833,
+    "show_id": 10018,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-03-24T01:00:00Z",
+    "direct_link": "/us/game/2019-03-23/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,709",
+      "currency": "$",
+      "average_prize": "1.85"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Smarter Day",
+        "slug": "smarter-day"
+      }
+    ],
+    "questions": [
+      {
+        "id": 91760,
+        "text": "Believed to be helpful, the bacteria found in yogurt are known as what?",
+        "question_number": 1,
+        "eliminated": "-11,569",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "306,963",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 212113,
+            "text": "Avionics",
+            "correct": false,
+            "count": "2,856",
+            "percent": "0.97%"
+          },
+          {
+            "id": 212115,
+            "text": "Semiotics",
+            "correct": false,
+            "count": "3,920",
+            "percent": "1.33%"
+          },
+          {
+            "id": 212116,
+            "text": "Probiotics",
+            "correct": true,
+            "count": "288,618",
+            "percent": "97.71%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-23/1/1",
+        "game_link": "/us/game/2019-03-23/1",
+        "correct_answers": 288618,
+        "incorrect_answers": 6776,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91775,
+        "text": "How many unique positions can the original Rubikâs Cube be twisted into?",
+        "question_number": 2,
+        "eliminated": "26,141",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "282,996",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 212135,
+            "text": "Fewer than 16",
+            "correct": false,
+            "count": "13,777",
+            "percent": "4.74%"
+          },
+          {
+            "id": 212137,
+            "text": "Exactly 16",
+            "correct": false,
+            "count": "99,973",
+            "percent": "34.41%"
+          },
+          {
+            "id": 212141,
+            "text": "More than 16",
+            "correct": true,
+            "count": "176,808",
+            "percent": "60.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-23/1/2",
+        "game_link": "/us/game/2019-03-23/1",
+        "correct_answers": 176808,
+        "incorrect_answers": 113750,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91792,
+        "text": "Which of these is NOT an amphibian?",
+        "question_number": 3,
+        "eliminated": "20,587",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "271,410",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 212162,
+            "text": "Gecko",
+            "correct": true,
+            "count": "197,533",
+            "percent": "71.63%"
+          },
+          {
+            "id": 212167,
+            "text": "Frog",
+            "correct": false,
+            "count": "29,400",
+            "percent": "10.66%"
+          },
+          {
+            "id": 212174,
+            "text": "Salamander",
+            "correct": false,
+            "count": "48,830",
+            "percent": "17.71%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-23/1/3",
+        "game_link": "/us/game/2019-03-23/1",
+        "correct_answers": 197533,
+        "incorrect_answers": 78230,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91807,
+        "text": "In France, an âatelierâ refers to what kind of place?",
+        "question_number": 4,
+        "eliminated": "46,449",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "230,168",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 212183,
+            "text": "Gym",
+            "correct": false,
+            "count": "38,502",
+            "percent": "14.79%"
+          },
+          {
+            "id": 212185,
+            "text": "Restaurant",
+            "correct": false,
+            "count": "59,955",
+            "percent": "23.03%"
+          },
+          {
+            "id": 212190,
+            "text": "Studio",
+            "correct": true,
+            "count": "161,866",
+            "percent": "62.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-23/1/4",
+        "game_link": "/us/game/2019-03-23/1",
+        "correct_answers": 161866,
+        "incorrect_answers": 98457,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91823,
+        "text": "Who is the composer behind this classical masterpiece?",
+        "question_number": 5,
+        "eliminated": "63,000",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "175,684",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 212207,
+            "text": "Brahms",
+            "correct": false,
+            "count": "39,850",
+            "percent": "17.38%"
+          },
+          {
+            "id": 212208,
+            "text": "Beethoven",
+            "correct": false,
+            "count": "43,370",
+            "percent": "18.92%"
+          },
+          {
+            "id": 212209,
+            "text": "Chopin",
+            "correct": true,
+            "count": "146,055",
+            "percent": "63.7%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-23/1/5",
+        "game_link": "/us/game/2019-03-23/1",
+        "correct_answers": 146055,
+        "incorrect_answers": 83220,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91839,
+        "text": "In literature, the Bulwer-Lytton prize is awarded for the worst what?",
+        "question_number": 6,
+        "eliminated": "95,869",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "89,281",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 212231,
+            "text": "Poetry",
+            "correct": false,
+            "count": "48,235",
+            "percent": "27.87%"
+          },
+          {
+            "id": 212237,
+            "text": "Opening sentence",
+            "correct": true,
+            "count": "87,710",
+            "percent": "50.67%"
+          },
+          {
+            "id": 212244,
+            "text": "Romance scene",
+            "correct": false,
+            "count": "37,144",
+            "percent": "21.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-23/1/6",
+        "game_link": "/us/game/2019-03-23/1",
+        "correct_answers": 87710,
+        "incorrect_answers": 85379,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91856,
+        "text": "What is the most populous city in the worldâs fourth-most populous country?",
+        "question_number": 7,
+        "eliminated": "51,371",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "49,495",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 212255,
+            "text": "Jakarta",
+            "correct": true,
+            "count": "49,495",
+            "percent": "50.82%"
+          },
+          {
+            "id": 212258,
+            "text": "New York City",
+            "correct": false,
+            "count": "25,891",
+            "percent": "26.59%"
+          },
+          {
+            "id": 212263,
+            "text": "New Delhi",
+            "correct": false,
+            "count": "22,001",
+            "percent": "22.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-23/1/7",
+        "game_link": "/us/game/2019-03-23/1",
+        "correct_answers": 49495,
+        "incorrect_answers": 47892,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91871,
+        "text": "Stephen Hawking lends his name to a theoretical type of what?",
+        "question_number": 8,
+        "eliminated": "39,286",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "17,050",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 212279,
+            "text": "Radiation",
+            "correct": true,
+            "count": "17,050",
+            "percent": "30.77%"
+          },
+          {
+            "id": 212281,
+            "text": "Black hole",
+            "correct": false,
+            "count": "26,324",
+            "percent": "47.5%"
+          },
+          {
+            "id": 212283,
+            "text": "Gravitational wave",
+            "correct": false,
+            "count": "12,040",
+            "percent": "21.73%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-23/1/8",
+        "game_link": "/us/game/2019-03-23/1",
+        "correct_answers": 17050,
+        "incorrect_answers": 38364,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91888,
+        "text": "Which of these states has a state song whose title does NOT mention the state?",
+        "question_number": 9,
+        "eliminated": "8,355",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "17,865",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 212304,
+            "text": "Maine",
+            "correct": false,
+            "count": "2,999",
+            "percent": "11.72%"
+          },
+          {
+            "id": 212309,
+            "text": "Arkansas",
+            "correct": false,
+            "count": "4,727",
+            "percent": "18.47%"
+          },
+          {
+            "id": 212317,
+            "text": "Indiana",
+            "correct": true,
+            "count": "17,865",
+            "percent": "69.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-23/1/9",
+        "game_link": "/us/game/2019-03-23/1",
+        "correct_answers": 17865,
+        "incorrect_answers": 7726,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91904,
+        "text": "The actor who originally narrated the American TV version of âPlanet Earthâ also played what iconic character?",
+        "question_number": 10,
+        "eliminated": "3,686",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "15,887",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 212328,
+            "text": "Captain Von Trapp",
+            "correct": false,
+            "count": "2,504",
+            "percent": "13.01%"
+          },
+          {
+            "id": 212333,
+            "text": "Ellen Ripley",
+            "correct": true,
+            "count": "15,887",
+            "percent": "82.57%"
+          },
+          {
+            "id": 212340,
+            "text": "Gob Bluth",
+            "correct": false,
+            "count": "849",
+            "percent": "4.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-23/1/10",
+        "game_link": "/us/game/2019-03-23/1",
+        "correct_answers": 15887,
+        "incorrect_answers": 3353,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91919,
+        "text": "Which of these national flags depicts a scroll?",
+        "question_number": 11,
+        "eliminated": "2,864",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "13,509",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 212352,
+            "text": "Guatemala",
+            "correct": true,
+            "count": "13,509",
+            "percent": "83.86%"
+          },
+          {
+            "id": 212356,
+            "text": "Ethiopia",
+            "correct": false,
+            "count": "445",
+            "percent": "2.76%"
+          },
+          {
+            "id": 212361,
+            "text": "Estonia",
+            "correct": false,
+            "count": "2,155",
+            "percent": "13.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-23/1/11",
+        "game_link": "/us/game/2019-03-23/1",
+        "correct_answers": 13509,
+        "incorrect_answers": 2600,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 91936,
+        "text": "The author of what famous work called Mark Twain a âhackâ?",
+        "question_number": 12,
+        "eliminated": "11,457",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "2,709",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 212376,
+            "text": "A Moveable Feast",
+            "correct": false,
+            "count": "2,315",
+            "percent": "16.55%"
+          },
+          {
+            "id": 212380,
+            "text": "The Great Gatsby",
+            "correct": false,
+            "count": "8,966",
+            "percent": "64.09%"
+          },
+          {
+            "id": 212385,
+            "text": "As I Lay Dying",
+            "correct": true,
+            "count": "2,709",
+            "percent": "19.36%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-23/1/12",
+        "game_link": "/us/game/2019-03-23/1",
+        "correct_answers": 2709,
+        "incorrect_answers": 11281,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 88953,
+    "show_id": 10122,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-03-24T01:30:00Z",
+    "direct_link": "/us/game/2019-03-23/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "20,532",
+      "currency": "$",
+      "average_prize": "0.05"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Smarter Day",
+        "slug": "smarter-day"
+      }
+    ],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-03-23/2/1",
+        "question_number": 1,
+        "text": "Eight-legged Voyeurism",
+        "answer": [
+          "SPIDER",
+          "WEB",
+          "CAM"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "R"
+        ],
+        "game_link": "/us/game/2019-03-23/2",
+        "eliminated": 47660,
+        "advancing": 102894,
+        "correct_answers": 102894,
+        "incorrect_answers": 47660
+      },
+      {
+        "direct_link": "/us/game/2019-03-23/2/2",
+        "question_number": 2,
+        "text": "Niagara Courtship",
+        "answer": [
+          "WATERFALL",
+          "IN",
+          "LOVE"
+        ],
+        "initial_letters": [
+          " ",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "E"
+        ],
+        "game_link": "/us/game/2019-03-23/2",
+        "eliminated": 20992,
+        "advancing": 88613,
+        "correct_answers": 88613,
+        "incorrect_answers": 20992
+      },
+      {
+        "direct_link": "/us/game/2019-03-23/2/3",
+        "question_number": 3,
+        "text": "Doom on the Beach",
+        "answer": [
+          "TIDAL",
+          "WAVE",
+          "GOODBYE"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "W",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-03-23/2",
+        "eliminated": 28745,
+        "advancing": 62009,
+        "correct_answers": 62009,
+        "incorrect_answers": 28745
+      },
+      {
+        "direct_link": "/us/game/2019-03-23/2/4",
+        "question_number": 4,
+        "text": "Gossipy NBA Team",
+        "answer": [
+          "BABBLING",
+          "BROOKLYN",
+          "NETS"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "G"
+        ],
+        "game_link": "/us/game/2019-03-23/2",
+        "eliminated": 16269,
+        "advancing": 49710,
+        "correct_answers": 49710,
+        "incorrect_answers": 16269
+      },
+      {
+        "direct_link": "/us/game/2019-03-23/2/5",
+        "question_number": 5,
+        "text": "Sugary Age-Defier",
+        "answer": [
+          "SODA",
+          "FOUNTAIN",
+          "OF",
+          "YOUTH"
+        ],
+        "initial_letters": [
+          " ",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "S"
+        ],
+        "game_link": "/us/game/2019-03-23/2",
+        "eliminated": 3225,
+        "advancing": 49256,
+        "correct_answers": 49256,
+        "incorrect_answers": 3225
+      },
+      {
+        "direct_link": "/us/game/2019-03-23/2/6",
+        "question_number": 6,
+        "text": "U2 On Any Site",
+        "answer": [
+          "WITH",
+          "OR",
+          "WITHOUT",
+          "YOUTUBE"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-03-23/2",
+        "eliminated": 7974,
+        "advancing": 41884,
+        "correct_answers": 41884,
+        "incorrect_answers": 7974
+      },
+      {
+        "direct_link": "/us/game/2019-03-23/2/7",
+        "question_number": 7,
+        "text": "Big Poker Win",
+        "answer": [
+          "ROYAL",
+          "FLUSH",
+          "WITH",
+          "CASH"
+        ],
+        "initial_letters": [
+          " ",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "U",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-03-23/2",
+        "eliminated": 5505,
+        "advancing": 38273,
+        "correct_answers": 38273,
+        "incorrect_answers": 5505
+      },
+      {
+        "direct_link": "/us/game/2019-03-23/2/8",
+        "question_number": 8,
+        "text": "Dread, But With Swagger",
+        "answer": [
+          "THAT",
+          "SINKING",
+          "FEELING",
+          "MYSELF"
+        ],
+        "initial_letters": [
+          " ",
+          "K"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "G"
+        ],
+        "game_link": "/us/game/2019-03-23/2",
+        "eliminated": 12535,
+        "advancing": 27116,
+        "correct_answers": 27116,
+        "incorrect_answers": 12535
+      },
+      {
+        "direct_link": "/us/game/2019-03-23/2/9",
+        "question_number": 9,
+        "text": "Get to Rome by Boat",
+        "answer": [
+          "A",
+          "RIVER",
+          "RUNS",
+          "THROUGH",
+          "ITALY"
+        ],
+        "initial_letters": [
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "O"
+        ],
+        "game_link": "/us/game/2019-03-23/2",
+        "eliminated": 5672,
+        "advancing": 25289,
+        "correct_answers": 25289,
+        "incorrect_answers": 5672
+      },
+      {
+        "direct_link": "/us/game/2019-03-23/2/10",
+        "question_number": 10,
+        "text": "Invitation on a Trawler",
+        "answer": [
+          "FISH",
+          "NETFLIX",
+          "&",
+          "CHILL?"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "?",
+          "F"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "H"
+        ],
+        "game_link": "/us/game/2019-03-23/2",
+        "eliminated": 3842,
+        "advancing": 23162,
+        "correct_answers": 23162,
+        "incorrect_answers": 3842
+      },
+      {
+        "direct_link": "/us/game/2019-03-23/2/11",
+        "question_number": 11,
+        "text": "Cereal Soundtrack",
+        "answer": [
+          "SNAP",
+          "CRACKLE",
+          "&",
+          "POP",
+          "MUSIC"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "C"
+        ],
+        "game_link": "/us/game/2019-03-23/2",
+        "eliminated": 1863,
+        "advancing": 22647,
+        "correct_answers": 22647,
+        "incorrect_answers": 1863
+      },
+      {
+        "direct_link": "/us/game/2019-03-23/2/12",
+        "question_number": 12,
+        "text": "This Gameâs Theme",
+        "answer": [
+          "TYPES",
+          "OF",
+          "STREAMING"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-03-23/2",
+        "eliminated": 2861,
+        "advancing": 20532,
+        "correct_answers": 20532,
+        "incorrect_answers": 2861
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

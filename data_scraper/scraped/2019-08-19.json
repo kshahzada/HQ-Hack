@@ -1,0 +1,190 @@
+[
+  {
+    "id": 127378,
+    "show_id": 12142,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-08-20T00:00:00Z",
+    "direct_link": "/us/game/2019-08-19/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,422",
+      "currency": "$",
+      "average_prize": "0.70"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1223,
+        "game_id": 127378,
+        "question": "What fall sports are you most looking forward to?",
+        "results": [
+          {
+            "id": 7208,
+            "display_count": "22",
+            "vote_count": 1565,
+            "text": "Baseball playoffs"
+          },
+          {
+            "id": 7205,
+            "display_count": "61",
+            "vote_count": 4229,
+            "text": "Start of football"
+          },
+          {
+            "id": 7214,
+            "display_count": "17",
+            "vote_count": 1169,
+            "text": "Start of NHL"
+          }
+        ],
+        "created_at": "2019-08-20T00:11:54Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 127419,
+    "show_id": 12160,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "10,000",
+    "currency": "$",
+    "start_time": "2019-08-20T01:00:00Z",
+    "direct_link": "/us/game/2019-08-19/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1231,
+        "game_id": 127419,
+        "question": "Where did Blake Lively and Ryan Reynolds meet?",
+        "results": [
+          {
+            "id": 7256,
+            "display_count": "18",
+            "vote_count": 12548,
+            "text": "At a party "
+          },
+          {
+            "id": 7262,
+            "display_count": "67",
+            "vote_count": 45731,
+            "text": "Blind date"
+          },
+          {
+            "id": 7253,
+            "display_count": "15",
+            "vote_count": 10167,
+            "text": "On set"
+          }
+        ],
+        "created_at": "2019-08-20T01:03:21Z"
+      },
+      {
+        "id": 1247,
+        "game_id": 127419,
+        "question": "Where did Chrissy Teigen AND John Legend meet?",
+        "results": [
+          {
+            "id": 7357,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "At a party "
+          },
+          {
+            "id": 7362,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "Blind date"
+          },
+          {
+            "id": 7352,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "On set"
+          }
+        ],
+        "created_at": "2019-08-20T01:04:20Z"
+      },
+      {
+        "id": 1239,
+        "game_id": 127419,
+        "question": "Where did Justin Timberlake and Jessica Biel meet?",
+        "results": [
+          {
+            "id": 7306,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "At a party "
+          },
+          {
+            "id": 7313,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "Blind date"
+          },
+          {
+            "id": 7301,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "On set"
+          }
+        ],
+        "created_at": "2019-08-20T01:03:49Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

@@ -1,0 +1,1193 @@
+[
+  {
+    "id": 134272,
+    "show_id": 12430,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-09-24T00:00:00Z",
+    "direct_link": "/us/game/2019-09-23/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,053",
+      "currency": "$",
+      "average_prize": "0.49"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 149258,
+        "text": "Which of these was a nickname for Deion Sanders?",
+        "question_number": 1,
+        "eliminated": "-8,869",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "64,642",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298343,
+            "text": "Prime Time",
+            "correct": true,
+            "count": "48,901",
+            "percent": "90.37%"
+          },
+          {
+            "id": 298344,
+            "text": "Over Time",
+            "correct": false,
+            "count": "1,240",
+            "percent": "2.29%"
+          },
+          {
+            "id": 298346,
+            "text": "Drive Time",
+            "correct": false,
+            "count": "3,972",
+            "percent": "7.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/1/1",
+        "game_link": "/us/game/2019-09-23/1",
+        "correct_answers": 48901,
+        "incorrect_answers": 5212,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149266,
+        "text": "Which of these players has won the most MVPs?",
+        "question_number": 2,
+        "eliminated": "2,159",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "62,504",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298355,
+            "text": "Joe Montana",
+            "correct": false,
+            "count": "7,305",
+            "percent": "13.53%"
+          },
+          {
+            "id": 298357,
+            "text": "Tom Brady",
+            "correct": false,
+            "count": "23,409",
+            "percent": "43.37%"
+          },
+          {
+            "id": 298360,
+            "text": "Peyton Manning",
+            "correct": true,
+            "count": "23,267",
+            "percent": "43.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/1/2",
+        "game_link": "/us/game/2019-09-23/1",
+        "correct_answers": 23267,
+        "incorrect_answers": 30714,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149274,
+        "text": "What team did Brett Favre begin his career with?",
+        "question_number": 3,
+        "eliminated": "4,500",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "58,094",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298367,
+            "text": "Packers",
+            "correct": false,
+            "count": "11,366",
+            "percent": "21.59%"
+          },
+          {
+            "id": 298370,
+            "text": "Vikings",
+            "correct": false,
+            "count": "5,453",
+            "percent": "10.36%"
+          },
+          {
+            "id": 298373,
+            "text": "Falcons",
+            "correct": true,
+            "count": "35,833",
+            "percent": "68.06%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/1/3",
+        "game_link": "/us/game/2019-09-23/1",
+        "correct_answers": 35833,
+        "incorrect_answers": 16819,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149282,
+        "text": "What playerâs name is associated with the NFLâs humanitarian award?",
+        "question_number": 4,
+        "eliminated": "6,155",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "52,063",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298379,
+            "text": "Jim Brown",
+            "correct": false,
+            "count": "8,342",
+            "percent": "16.63%"
+          },
+          {
+            "id": 298382,
+            "text": "Johnny Unitas",
+            "correct": false,
+            "count": "5,153",
+            "percent": "10.27%"
+          },
+          {
+            "id": 298387,
+            "text": "Walter Payton",
+            "correct": true,
+            "count": "36,669",
+            "percent": "73.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/1/4",
+        "game_link": "/us/game/2019-09-23/1",
+        "correct_answers": 36669,
+        "incorrect_answers": 13495,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149290,
+        "text": "Which of these teams did NOT draft John Elway?",
+        "question_number": 5,
+        "eliminated": "13,995",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "38,284",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298391,
+            "text": "Colts",
+            "correct": false,
+            "count": "10,244",
+            "percent": "21.68%"
+          },
+          {
+            "id": 298393,
+            "text": "Broncos",
+            "correct": true,
+            "count": "25,561",
+            "percent": "54.11%"
+          },
+          {
+            "id": 298396,
+            "text": "Yankees",
+            "correct": false,
+            "count": "11,437",
+            "percent": "24.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/1/5",
+        "game_link": "/us/game/2019-09-23/1",
+        "correct_answers": 25561,
+        "incorrect_answers": 21681,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149298,
+        "text": "What team was NOT founded by Paul Brown?",
+        "question_number": 6,
+        "eliminated": "10,018",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "29,171",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298403,
+            "text": "Steelers",
+            "correct": true,
+            "count": "22,668",
+            "percent": "61.52%"
+          },
+          {
+            "id": 298405,
+            "text": "Bengals",
+            "correct": false,
+            "count": "9,397",
+            "percent": "25.5%"
+          },
+          {
+            "id": 298410,
+            "text": "Browns",
+            "correct": false,
+            "count": "4,784",
+            "percent": "12.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/1/6",
+        "game_link": "/us/game/2019-09-23/1",
+        "correct_answers": 22668,
+        "incorrect_answers": 14181,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149306,
+        "text": "What record was set on this throw by Peyton Manning?",
+        "question_number": 7,
+        "eliminated": "6,245",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "23,722",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298415,
+            "text": "Season TD passes",
+            "correct": false,
+            "count": "4,785",
+            "percent": "16.66%"
+          },
+          {
+            "id": 298417,
+            "text": "Career TD passes",
+            "correct": true,
+            "count": "21,114",
+            "percent": "73.49%"
+          },
+          {
+            "id": 298421,
+            "text": "Career points",
+            "correct": false,
+            "count": "2,830",
+            "percent": "9.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/1/7",
+        "game_link": "/us/game/2019-09-23/1",
+        "correct_answers": 21114,
+        "incorrect_answers": 7615,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149314,
+        "text": "Which of these positions was played by one of the NFLâs two defensive MVPâs?",
+        "question_number": 8,
+        "eliminated": "8,717",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "16,091",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298427,
+            "text": "Cornerback",
+            "correct": false,
+            "count": "4,691",
+            "percent": "20.41%"
+          },
+          {
+            "id": 298430,
+            "text": "Defensive Tackle",
+            "correct": true,
+            "count": "13,193",
+            "percent": "57.4%"
+          },
+          {
+            "id": 298434,
+            "text": "Safety",
+            "correct": false,
+            "count": "5,099",
+            "percent": "22.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/1/8",
+        "game_link": "/us/game/2019-09-23/1",
+        "correct_answers": 13193,
+        "incorrect_answers": 9790,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149322,
+        "text": "Which of these players led the NFL in catches the greatest number of times?",
+        "question_number": 9,
+        "eliminated": "10,999",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "6,162",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298439,
+            "text": "Jerry Rice",
+            "correct": false,
+            "count": "3,325",
+            "percent": "20.19%"
+          },
+          {
+            "id": 298442,
+            "text": "Marvin Harrison",
+            "correct": false,
+            "count": "9,547",
+            "percent": "57.96%"
+          },
+          {
+            "id": 298445,
+            "text": "Wes Welker",
+            "correct": true,
+            "count": "3,600",
+            "percent": "21.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/1/9",
+        "game_link": "/us/game/2019-09-23/1",
+        "correct_answers": 3600,
+        "incorrect_answers": 12872,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149330,
+        "text": "Counting NFL, AFL, and AAFC championships, which of these legends has the most titles?",
+        "question_number": 10,
+        "eliminated": "2,953",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "6,262",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298451,
+            "text": "Tom Brady",
+            "correct": false,
+            "count": "938",
+            "percent": "10.76%"
+          },
+          {
+            "id": 298452,
+            "text": "Bart Starr",
+            "correct": false,
+            "count": "2,698",
+            "percent": "30.96%"
+          },
+          {
+            "id": 298457,
+            "text": "Otto Graham",
+            "correct": true,
+            "count": "5,079",
+            "percent": "58.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/1/10",
+        "game_link": "/us/game/2019-09-23/1",
+        "correct_answers": 5079,
+        "incorrect_answers": 3636,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149338,
+        "text": "Which of these was NOT a position played by Chuck Bednarik?",
+        "question_number": 11,
+        "eliminated": "2,315",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,542",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298463,
+            "text": "Center",
+            "correct": false,
+            "count": "1,345",
+            "percent": "20.26%"
+          },
+          {
+            "id": 298466,
+            "text": "Tight end",
+            "correct": true,
+            "count": "4,542",
+            "percent": "68.41%"
+          },
+          {
+            "id": 298470,
+            "text": "Linebacker",
+            "correct": false,
+            "count": "752",
+            "percent": "11.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/1/11",
+        "game_link": "/us/game/2019-09-23/1",
+        "correct_answers": 4542,
+        "incorrect_answers": 2097,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149346,
+        "text": "Which player was named to two straight âall decadeâ teams, chosen by the Hall of Fame?",
+        "question_number": 12,
+        "eliminated": "3,553",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,053",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298475,
+            "text": "Brett Favre",
+            "correct": false,
+            "count": "1,309",
+            "percent": "24.08%"
+          },
+          {
+            "id": 298477,
+            "text": "Warren Sapp",
+            "correct": true,
+            "count": "2,053",
+            "percent": "37.76%"
+          },
+          {
+            "id": 298480,
+            "text": "Terrell Owens",
+            "correct": false,
+            "count": "2,075",
+            "percent": "38.16%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/1/12",
+        "game_link": "/us/game/2019-09-23/1",
+        "correct_answers": 2053,
+        "incorrect_answers": 3384,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1777,
+        "game_id": 134272,
+        "question": "Who will win tonight's MNF game?",
+        "results": [
+          {
+            "id": 10549,
+            "display_count": "63",
+            "vote_count": 11142,
+            "text": "Bears"
+          },
+          {
+            "id": 10553,
+            "display_count": "26",
+            "vote_count": 4655,
+            "text": "Redskins"
+          },
+          {
+            "id": 10556,
+            "display_count": "10",
+            "vote_count": 1831,
+            "text": "Tie"
+          }
+        ],
+        "created_at": "2019-09-24T00:14:52Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 134332,
+    "show_id": 12426,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "1,500",
+    "currency": "$",
+    "start_time": "2019-09-24T01:00:00Z",
+    "direct_link": "/us/game/2019-09-23/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,036",
+      "currency": "$",
+      "average_prize": "0.74"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "questions": [
+      {
+        "id": 149354,
+        "text": "What does âIPâ usually stand for when referring to franchises like the Marvel Cinematic Universe?",
+        "question_number": 1,
+        "eliminated": "-13,571",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "156,664",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298487,
+            "text": "Incredible Photoshopping",
+            "correct": false,
+            "count": "8,057",
+            "percent": "6.04%"
+          },
+          {
+            "id": 298488,
+            "text": "Irate Pirates",
+            "correct": false,
+            "count": "2,033",
+            "percent": "1.52%"
+          },
+          {
+            "id": 298489,
+            "text": "Intellectual Property",
+            "correct": true,
+            "count": "123,281",
+            "percent": "92.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/2/1",
+        "game_link": "/us/game/2019-09-23/2",
+        "correct_answers": 123281,
+        "incorrect_answers": 10090,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149362,
+        "text": "What filmmaking technique was used in Disneyâs âSnow White and the Seven Dwarfsâ?",
+        "question_number": 2,
+        "eliminated": "6,319",
+        "category": "",
+        "category_slug": "",
+        "advancing": "150,513",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298499,
+            "text": "CGI",
+            "correct": false,
+            "count": "28,316",
+            "percent": "20.6%"
+          },
+          {
+            "id": 298501,
+            "text": "Cel animation",
+            "correct": true,
+            "count": "103,875",
+            "percent": "75.58%"
+          },
+          {
+            "id": 298505,
+            "text": "Puppetry",
+            "correct": false,
+            "count": "5,244",
+            "percent": "3.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/2/2",
+        "game_link": "/us/game/2019-09-23/2",
+        "correct_answers": 103875,
+        "incorrect_answers": 33560,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149370,
+        "text": "What is likely to be seen in an âestablishing shotâ?",
+        "question_number": 3,
+        "eliminated": "17,168",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "133,585",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298511,
+            "text": "Closeup of a hand",
+            "correct": false,
+            "count": "13,329",
+            "percent": "10.13%"
+          },
+          {
+            "id": 298513,
+            "text": "Building",
+            "correct": true,
+            "count": "89,116",
+            "percent": "67.7%"
+          },
+          {
+            "id": 298515,
+            "text": "Actorâs eyes",
+            "correct": false,
+            "count": "29,195",
+            "percent": "22.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/2/3",
+        "game_link": "/us/game/2019-09-23/2",
+        "correct_answers": 89116,
+        "incorrect_answers": 42524,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149378,
+        "text": "The industry-standard frame rate agreed upon in the 1920s is of how many frames per second?",
+        "question_number": 4,
+        "eliminated": "26,573",
+        "category": "",
+        "category_slug": "",
+        "advancing": "107,579",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298523,
+            "text": "32 fps",
+            "correct": false,
+            "count": "26,248",
+            "percent": "21.99%"
+          },
+          {
+            "id": 298525,
+            "text": "30 fps",
+            "correct": false,
+            "count": "18,334",
+            "percent": "15.36%"
+          },
+          {
+            "id": 298528,
+            "text": "24 fps",
+            "correct": true,
+            "count": "74,758",
+            "percent": "62.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/2/4",
+        "game_link": "/us/game/2019-09-23/2",
+        "correct_answers": 74758,
+        "incorrect_answers": 44582,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149386,
+        "text": "Which is NOT a period often listed in a filmmakerâs daily schedule?",
+        "question_number": 5,
+        "eliminated": "44,895",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "64,718",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298535,
+            "text": "Blue hour",
+            "correct": false,
+            "count": "35,095",
+            "percent": "34.92%"
+          },
+          {
+            "id": 298537,
+            "text": "White hour",
+            "correct": true,
+            "count": "40,356",
+            "percent": "40.15%"
+          },
+          {
+            "id": 298540,
+            "text": "Golden hour",
+            "correct": false,
+            "count": "25,064",
+            "percent": "24.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/2/5",
+        "game_link": "/us/game/2019-09-23/2",
+        "correct_answers": 40356,
+        "incorrect_answers": 60159,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149394,
+        "text": "What cinematic line are directors taught not to âbreakâ?",
+        "question_number": 6,
+        "eliminated": "22,279",
+        "category": "",
+        "category_slug": "",
+        "advancing": "48,471",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298547,
+            "text": "Line of least resistance",
+            "correct": false,
+            "count": "4,876",
+            "percent": "7.34%"
+          },
+          {
+            "id": 298549,
+            "text": "Narrative throughline",
+            "correct": false,
+            "count": "21,202",
+            "percent": "31.91%"
+          },
+          {
+            "id": 298552,
+            "text": "180-degree line",
+            "correct": true,
+            "count": "40,373",
+            "percent": "60.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/2/6",
+        "game_link": "/us/game/2019-09-23/2",
+        "correct_answers": 40373,
+        "incorrect_answers": 26078,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149402,
+        "text": "Lighting an actorâs face so one side is darker is named for who?",
+        "question_number": 7,
+        "eliminated": "26,799",
+        "category": "",
+        "category_slug": "",
+        "advancing": "23,591",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298559,
+            "text": "Still photographer",
+            "correct": false,
+            "count": "13,935",
+            "percent": "28.91%"
+          },
+          {
+            "id": 298563,
+            "text": "Actor",
+            "correct": false,
+            "count": "15,738",
+            "percent": "32.65%"
+          },
+          {
+            "id": 298566,
+            "text": "Painter",
+            "correct": true,
+            "count": "18,522",
+            "percent": "38.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/2/7",
+        "game_link": "/us/game/2019-09-23/2",
+        "correct_answers": 18522,
+        "incorrect_answers": 29673,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149410,
+        "text": "Which 1988 movie passes the âBechdel Testâ?",
+        "question_number": 8,
+        "eliminated": "14,307",
+        "category": "",
+        "category_slug": "",
+        "advancing": "14,189",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298571,
+            "text": "Who Framed Roger Rabbit?",
+            "correct": false,
+            "count": "11,169",
+            "percent": "40.22%"
+          },
+          {
+            "id": 298575,
+            "text": "Beaches",
+            "correct": true,
+            "count": "10,148",
+            "percent": "36.55%"
+          },
+          {
+            "id": 298578,
+            "text": "Rain Man",
+            "correct": false,
+            "count": "6,451",
+            "percent": "23.23%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/2/8",
+        "game_link": "/us/game/2019-09-23/2",
+        "correct_answers": 10148,
+        "incorrect_answers": 17620,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 8,
+          "players_left": 13241,
+          "players_left_formatted": "13,241",
+          "num_winners": 3900,
+          "num_winners_formatted": "3,900",
+          "prize": 0.05,
+          "prize_formatted": "$0.05",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 149418,
+        "text": "A 2002 film consisting of one continuous 96-minute shot was made in what country?",
+        "question_number": 9,
+        "eliminated": "7,744",
+        "category": "",
+        "category_slug": "",
+        "advancing": "8,397",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298583,
+            "text": "Germany",
+            "correct": false,
+            "count": "3,981",
+            "percent": "31.75%"
+          },
+          {
+            "id": 298585,
+            "text": "Russia",
+            "correct": true,
+            "count": "5,560",
+            "percent": "44.34%"
+          },
+          {
+            "id": 298589,
+            "text": "India",
+            "correct": false,
+            "count": "2,999",
+            "percent": "23.92%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/2/9",
+        "game_link": "/us/game/2019-09-23/2",
+        "correct_answers": 5560,
+        "incorrect_answers": 6980,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149426,
+        "text": "What unsuccessful film was criticized for overuse of Dutch angles?",
+        "question_number": 10,
+        "eliminated": "2,650",
+        "category": "",
+        "category_slug": "",
+        "advancing": "7,206",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298595,
+            "text": "Catwoman",
+            "correct": false,
+            "count": "1,775",
+            "percent": "18.81%"
+          },
+          {
+            "id": 298598,
+            "text": "The Room",
+            "correct": false,
+            "count": "1,774",
+            "percent": "18.8%"
+          },
+          {
+            "id": 298602,
+            "text": "Battlefield Earth",
+            "correct": true,
+            "count": "5,889",
+            "percent": "62.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/2/10",
+        "game_link": "/us/game/2019-09-23/2",
+        "correct_answers": 5889,
+        "incorrect_answers": 3549,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 10,
+          "players_left": 5839,
+          "players_left_formatted": "5,839",
+          "num_winners": 2156,
+          "num_winners_formatted": "2,156",
+          "prize": 0.17,
+          "prize_formatted": "$0.17",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 149434,
+        "text": "What does the âLâ stand for in the acronym âLUTâ?",
+        "question_number": 11,
+        "eliminated": "4,658",
+        "category": "",
+        "category_slug": "",
+        "advancing": "2,337",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298607,
+            "text": "Lead",
+            "correct": false,
+            "count": "652",
+            "percent": "11.61%"
+          },
+          {
+            "id": 298609,
+            "text": "Look",
+            "correct": true,
+            "count": "2,337",
+            "percent": "41.6%"
+          },
+          {
+            "id": 298613,
+            "text": "Lens",
+            "correct": false,
+            "count": "2,629",
+            "percent": "46.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/2/11",
+        "game_link": "/us/game/2019-09-23/2",
+        "correct_answers": 2337,
+        "incorrect_answers": 3281,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149442,
+        "text": "Whose studio made this film?",
+        "question_number": 12,
+        "eliminated": "1,996",
+        "category": "",
+        "category_slug": "",
+        "advancing": "2,036",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298619,
+            "text": "Thomas Edison",
+            "correct": true,
+            "count": "2,036",
+            "percent": "51.51%"
+          },
+          {
+            "id": 298620,
+            "text": "Lumiere brothers",
+            "correct": false,
+            "count": "1,161",
+            "percent": "29.37%"
+          },
+          {
+            "id": 298623,
+            "text": "Georges MÃ©liÃ¨s",
+            "correct": false,
+            "count": "756",
+            "percent": "19.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-23/2/12",
+        "game_link": "/us/game/2019-09-23/2",
+        "correct_answers": 2036,
+        "incorrect_answers": 1917,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1789,
+        "game_id": 134332,
+        "question": "Choose a film gauge: ",
+        "results": [
+          {
+            "id": 10624,
+            "display_count": "19",
+            "vote_count": 11433,
+            "text": "16mm"
+          },
+          {
+            "id": 10621,
+            "display_count": "52",
+            "vote_count": 30664,
+            "text": "35mm"
+          },
+          {
+            "id": 10627,
+            "display_count": "29",
+            "vote_count": 17259,
+            "text": "8mm"
+          }
+        ],
+        "created_at": "2019-09-24T01:05:04Z"
+      },
+      {
+        "id": 1785,
+        "game_id": 134332,
+        "question": "Whatâs the best film school? ",
+        "results": [
+          {
+            "id": 10602,
+            "display_count": "19",
+            "vote_count": 9531,
+            "text": "Cal Arts"
+          },
+          {
+            "id": 10597,
+            "display_count": "57",
+            "vote_count": 28504,
+            "text": "NYU"
+          },
+          {
+            "id": 10599,
+            "display_count": "24",
+            "vote_count": 11842,
+            "text": "USC"
+          }
+        ],
+        "created_at": "2019-09-24T01:04:40Z"
+      },
+      {
+        "id": 1781,
+        "game_id": 134332,
+        "question": "Who is your favorite Anderson director?",
+        "results": [
+          {
+            "id": 10576,
+            "display_count": "20",
+            "vote_count": 6468,
+            "text": "Paul Thomas "
+          },
+          {
+            "id": 10580,
+            "display_count": "13",
+            "vote_count": 4150,
+            "text": "Paul W.S."
+          },
+          {
+            "id": 10573,
+            "display_count": "68",
+            "vote_count": 22311,
+            "text": "Wes"
+          }
+        ],
+        "created_at": "2019-09-24T01:04:15Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 8,
+        "players_left": 13241,
+        "players_left_formatted": "13,241",
+        "num_winners": 3900,
+        "num_winners_formatted": "3,900",
+        "prize": 0.05,
+        "prize_formatted": "$0.05",
+        "currency": "$"
+      },
+      {
+        "round_number": 10,
+        "players_left": 5839,
+        "players_left_formatted": "5,839",
+        "num_winners": 2156,
+        "num_winners_formatted": "2,156",
+        "prize": 0.17,
+        "prize_formatted": "$0.17",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "561.52",
+    "total_checkpoint_winners": "6,056",
+    "smallest_checkpoint_prize": "$0.05",
+    "largest_checkpoint_prize": "$0.17",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

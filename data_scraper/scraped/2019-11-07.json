@@ -1,0 +1,1011 @@
+[
+  {
+    "id": 140202,
+    "show_id": 12876,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-11-08T02:00:00Z",
+    "direct_link": "/us/game/2019-11-07/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,157",
+      "currency": "$",
+      "average_prize": "0.46"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 157442,
+        "text": "Sweet potatoes are a traditional dish at what American holiday?",
+        "question_number": 1,
+        "eliminated": "-10,043",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "108,609",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310619,
+            "text": "X Games Day",
+            "correct": false,
+            "count": "907",
+            "percent": "0.96%"
+          },
+          {
+            "id": 310620,
+            "text": "Thanksgiving",
+            "correct": true,
+            "count": "93,247",
+            "percent": "98.63%"
+          },
+          {
+            "id": 310621,
+            "text": "Fourth of July",
+            "correct": false,
+            "count": "384",
+            "percent": "0.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-07/1/1",
+        "game_link": "/us/game/2019-11-07/1",
+        "correct_answers": 93247,
+        "incorrect_answers": 1291,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157459,
+        "text": "In Canada, Thanksgiving typically takes place in what month?",
+        "question_number": 2,
+        "eliminated": "4,140",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "104,563",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310645,
+            "text": "May",
+            "correct": false,
+            "count": "9,459",
+            "percent": "9.87%"
+          },
+          {
+            "id": 310648,
+            "text": "October",
+            "correct": true,
+            "count": "76,447",
+            "percent": "79.75%"
+          },
+          {
+            "id": 310651,
+            "text": "February",
+            "correct": false,
+            "count": "9,952",
+            "percent": "10.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-07/1/2",
+        "game_link": "/us/game/2019-11-07/1",
+        "correct_answers": 76447,
+        "incorrect_answers": 19411,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157475,
+        "text": "What organization administers SAT exams in October?",
+        "question_number": 3,
+        "eliminated": "6,456",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "98,278",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310668,
+            "text": "University Council",
+            "correct": false,
+            "count": "4,371",
+            "percent": "4.69%"
+          },
+          {
+            "id": 310671,
+            "text": "College Board",
+            "correct": true,
+            "count": "77,230",
+            "percent": "82.94%"
+          },
+          {
+            "id": 310675,
+            "text": "Princeton Review",
+            "correct": false,
+            "count": "11,520",
+            "percent": "12.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-07/1/3",
+        "game_link": "/us/game/2019-11-07/1",
+        "correct_answers": 77230,
+        "incorrect_answers": 15891,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157493,
+        "text": "This board is used to play what arcade game?",
+        "question_number": 4,
+        "eliminated": "5,495",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "93,031",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310696,
+            "text": "Step Step Acrobatics",
+            "correct": false,
+            "count": "1,333",
+            "percent": "1.47%"
+          },
+          {
+            "id": 310700,
+            "text": "Jump Jump Olympics",
+            "correct": false,
+            "count": "1,091",
+            "percent": "1.21%"
+          },
+          {
+            "id": 310704,
+            "text": "Dance Dance Revolution",
+            "correct": true,
+            "count": "88,066",
+            "percent": "97.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-07/1/4",
+        "game_link": "/us/game/2019-11-07/1",
+        "correct_answers": 88066,
+        "incorrect_answers": 2424,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157509,
+        "text": "The original version of the song âRevolutionâ is on the Beatles album known as what?",
+        "question_number": 5,
+        "eliminated": "28,346",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "64,918",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310722,
+            "text": "Revolver",
+            "correct": false,
+            "count": "15,913",
+            "percent": "18.3%"
+          },
+          {
+            "id": 310725,
+            "text": "Abbey Road",
+            "correct": false,
+            "count": "21,020",
+            "percent": "24.17%"
+          },
+          {
+            "id": 310730,
+            "text": "The White Album",
+            "correct": true,
+            "count": "50,019",
+            "percent": "57.52%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-07/1/5",
+        "game_link": "/us/game/2019-11-07/1",
+        "correct_answers": 50019,
+        "incorrect_answers": 36933,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157524,
+        "text": "A white toga indicated status in what ancient civilization?",
+        "question_number": 6,
+        "eliminated": "32,296",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "35,303",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310742,
+            "text": "Greece",
+            "correct": false,
+            "count": "34,832",
+            "percent": "53.45%"
+          },
+          {
+            "id": 310746,
+            "text": "Rome",
+            "correct": true,
+            "count": "27,159",
+            "percent": "41.67%"
+          },
+          {
+            "id": 310750,
+            "text": "Sparta",
+            "correct": false,
+            "count": "3,179",
+            "percent": "4.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-07/1/6",
+        "game_link": "/us/game/2019-11-07/1",
+        "correct_answers": 27159,
+        "incorrect_answers": 38011,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157539,
+        "text": "In Roman mythology which goddess is said to be an ancestor of the Roman people?",
+        "question_number": 7,
+        "eliminated": "17,286",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "21,957",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310764,
+            "text": "Diana",
+            "correct": false,
+            "count": "10,973",
+            "percent": "29.31%"
+          },
+          {
+            "id": 310766,
+            "text": "Venus",
+            "correct": true,
+            "count": "15,367",
+            "percent": "41.05%"
+          },
+          {
+            "id": 310769,
+            "text": "Fortuna",
+            "correct": false,
+            "count": "11,095",
+            "percent": "29.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-07/1/7",
+        "game_link": "/us/game/2019-11-07/1",
+        "correct_answers": 15367,
+        "incorrect_answers": 22068,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157555,
+        "text": "Lava domes on the planet Venus are also called what?",
+        "question_number": 8,
+        "eliminated": "9,207",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "15,548",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310788,
+            "text": "Waffle Domes",
+            "correct": false,
+            "count": "8,253",
+            "percent": "34.7%"
+          },
+          {
+            "id": 310791,
+            "text": "Egg Domes",
+            "correct": false,
+            "count": "5,641",
+            "percent": "23.72%"
+          },
+          {
+            "id": 310795,
+            "text": "Pancake Domes",
+            "correct": true,
+            "count": "9,890",
+            "percent": "41.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-07/1/8",
+        "game_link": "/us/game/2019-11-07/1",
+        "correct_answers": 9890,
+        "incorrect_answers": 13894,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157571,
+        "text": "The Banana Pancake Trail refers to a common destination for tourists in what part of the world?",
+        "question_number": 9,
+        "eliminated": "4,725",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "12,781",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310813,
+            "text": "Africa",
+            "correct": false,
+            "count": "5,109",
+            "percent": "30.76%"
+          },
+          {
+            "id": 310816,
+            "text": "Asia",
+            "correct": true,
+            "count": "7,709",
+            "percent": "46.42%"
+          },
+          {
+            "id": 310821,
+            "text": "Oceana",
+            "correct": false,
+            "count": "3,790",
+            "percent": "22.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-07/1/9",
+        "game_link": "/us/game/2019-11-07/1",
+        "correct_answers": 7709,
+        "incorrect_answers": 8899,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157587,
+        "text": "Which food originated in an Asian country?",
+        "question_number": 10,
+        "eliminated": "1,892",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "11,954",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310836,
+            "text": "Century egg",
+            "correct": true,
+            "count": "9,717",
+            "percent": "72.81%"
+          },
+          {
+            "id": 310838,
+            "text": "Egg rolls",
+            "correct": false,
+            "count": "1,879",
+            "percent": "14.08%"
+          },
+          {
+            "id": 310843,
+            "text": "Fufu",
+            "correct": false,
+            "count": "1,749",
+            "percent": "13.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-07/1/10",
+        "game_link": "/us/game/2019-11-07/1",
+        "correct_answers": 9717,
+        "incorrect_answers": 3628,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157604,
+        "text": "Which government agency originated during the 19th century?",
+        "question_number": 11,
+        "eliminated": "7,169",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "5,385",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310860,
+            "text": "Department of Commerce",
+            "correct": false,
+            "count": "1,426",
+            "percent": "11.74%"
+          },
+          {
+            "id": 310864,
+            "text": "FBI",
+            "correct": false,
+            "count": "5,331",
+            "percent": "43.91%"
+          },
+          {
+            "id": 310871,
+            "text": "Secret Service",
+            "correct": true,
+            "count": "5,385",
+            "percent": "44.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-07/1/11",
+        "game_link": "/us/game/2019-11-07/1",
+        "correct_answers": 5385,
+        "incorrect_answers": 6757,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157622,
+        "text": "Which actor has played a Secret Service member?",
+        "question_number": 12,
+        "eliminated": "5,702",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "3,789",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310892,
+            "text": "Cary Grant",
+            "correct": false,
+            "count": "815",
+            "percent": "8.78%"
+          },
+          {
+            "id": 310896,
+            "text": "Ronald Reagan",
+            "correct": true,
+            "count": "3,789",
+            "percent": "40.83%"
+          },
+          {
+            "id": 310899,
+            "text": "Gary Cooper",
+            "correct": false,
+            "count": "4,675",
+            "percent": "50.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-07/1/12",
+        "game_link": "/us/game/2019-11-07/1",
+        "correct_answers": 3789,
+        "incorrect_answers": 5490,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157634,
+        "text": "Which actress did NOT appear in a movie with Ronald Reagan?",
+        "question_number": 13,
+        "eliminated": "2,502",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "4,439",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310907,
+            "text": "Barbara Stanwyck",
+            "correct": false,
+            "count": "269",
+            "percent": "3.99%"
+          },
+          {
+            "id": 310910,
+            "text": "Ginger Rogers",
+            "correct": false,
+            "count": "2,038",
+            "percent": "30.21%"
+          },
+          {
+            "id": 310914,
+            "text": "Katharine Hepburn",
+            "correct": true,
+            "count": "4,439",
+            "percent": "65.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-07/1/13",
+        "game_link": "/us/game/2019-11-07/1",
+        "correct_answers": 4439,
+        "incorrect_answers": 2307,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157652,
+        "text": "Katharine Hepburn won her first Academy Award for a movie about what?",
+        "question_number": 14,
+        "eliminated": "3,228",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,915",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310934,
+            "text": "Interracial marriage",
+            "correct": false,
+            "count": "1,489",
+            "percent": "25.03%"
+          },
+          {
+            "id": 310936,
+            "text": "Scandalous socialite",
+            "correct": false,
+            "count": "1,545",
+            "percent": "25.97%"
+          },
+          {
+            "id": 310941,
+            "text": "Aspiring actress",
+            "correct": true,
+            "count": "2,915",
+            "percent": "49.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-07/1/14",
+        "game_link": "/us/game/2019-11-07/1",
+        "correct_answers": 2915,
+        "incorrect_answers": 3034,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157668,
+        "text": "Morning glories are part of the same family as what plant?",
+        "question_number": 15,
+        "eliminated": "3,114",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "2,157",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310959,
+            "text": "Deadly Nightshade",
+            "correct": false,
+            "count": "1,718",
+            "percent": "33.03%"
+          },
+          {
+            "id": 310963,
+            "text": "Tobacco",
+            "correct": false,
+            "count": "1,326",
+            "percent": "25.5%"
+          },
+          {
+            "id": 310968,
+            "text": "Sweet Potato",
+            "correct": true,
+            "count": "2,157",
+            "percent": "41.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-07/1/15",
+        "game_link": "/us/game/2019-11-07/1",
+        "correct_answers": 2157,
+        "incorrect_answers": 3044,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2289,
+        "game_id": 140202,
+        "question": "Who is the link between Taylor Swift and Kevin Bacon?",
+        "results": [
+          {
+            "id": 13274,
+            "display_count": "22",
+            "vote_count": 8126,
+            "text": "Ariana Grande"
+          },
+          {
+            "id": 13277,
+            "display_count": "37",
+            "vote_count": 13766,
+            "text": "Britney Spears"
+          },
+          {
+            "id": 13270,
+            "display_count": "41",
+            "vote_count": 15289,
+            "text": "Kevin Jonas"
+          }
+        ],
+        "created_at": "2019-11-08T02:04:51Z"
+      },
+      {
+        "id": 2295,
+        "game_id": 140202,
+        "question": "Who is the link between Will Ferrell and Kevin Bacon?",
+        "results": [
+          {
+            "id": 13319,
+            "display_count": "23",
+            "vote_count": 9565,
+            "text": "Benedict Cumberbatch"
+          },
+          {
+            "id": 13316,
+            "display_count": "23",
+            "vote_count": 9609,
+            "text": "Jeremy Renner"
+          },
+          {
+            "id": 13328,
+            "display_count": "55",
+            "vote_count": 23040,
+            "text": "Mark Ruffalo"
+          }
+        ],
+        "created_at": "2019-11-08T02:05:29Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 140345,
+    "show_id": 12908,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-11-08T02:30:00Z",
+    "direct_link": "/us/game/2019-11-07/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "2,393",
+      "currency": "$",
+      "average_prize": "0.42"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-11-07/2/1",
+        "question_number": 1,
+        "text": "Six Degrees Linchpin",
+        "answer": [
+          "KEVIN",
+          "BACON"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"K\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "I"
+        ],
+        "game_link": "/us/game/2019-11-07/2",
+        "eliminated": 9954,
+        "advancing": 36305,
+        "correct_answers": 36305,
+        "incorrect_answers": 9954
+      },
+      {
+        "direct_link": "/us/game/2019-11-07/2/2",
+        "question_number": 2,
+        "text": "SNL Cold Opener",
+        "answer": [
+          "ALEC",
+          "BALDWIN"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"A\""
+        ],
+        "to_reveal_letters": [
+          "D",
+          "W"
+        ],
+        "game_link": "/us/game/2019-11-07/2",
+        "eliminated": 6777,
+        "advancing": 30140,
+        "correct_answers": 30140,
+        "incorrect_answers": 6777
+      },
+      {
+        "direct_link": "/us/game/2019-11-07/2/3",
+        "question_number": 3,
+        "text": "80s Workplace Romcom",
+        "answer": [
+          "WORKING",
+          "GIRL"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"W\""
+        ],
+        "to_reveal_letters": [
+          "G",
+          "R"
+        ],
+        "game_link": "/us/game/2019-11-07/2",
+        "eliminated": 1470,
+        "advancing": 29091,
+        "correct_answers": 29091,
+        "incorrect_answers": 1470
+      },
+      {
+        "direct_link": "/us/game/2019-11-07/2/4",
+        "question_number": 4,
+        "text": "Kids, Bopping",
+        "answer": [
+          "SCHOOL",
+          "OF",
+          "ROCK"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"C\""
+        ],
+        "to_reveal_letters": [
+          "H",
+          "S"
+        ],
+        "game_link": "/us/game/2019-11-07/2",
+        "eliminated": 1824,
+        "advancing": 27320,
+        "correct_answers": 27320,
+        "incorrect_answers": 1824
+      },
+      {
+        "direct_link": "/us/game/2019-11-07/2/5",
+        "question_number": 5,
+        "text": "Foul-Mouthed Comic",
+        "answer": [
+          "SARAH",
+          "SILVERMAN"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"E\""
+        ],
+        "to_reveal_letters": [
+          "L",
+          "V"
+        ],
+        "game_link": "/us/game/2019-11-07/2",
+        "eliminated": 6989,
+        "advancing": 20430,
+        "correct_answers": 20430,
+        "incorrect_answers": 6989
+      },
+      {
+        "direct_link": "/us/game/2019-11-07/2/6",
+        "question_number": 6,
+        "text": "Mr. & Ms. Pacman",
+        "answer": [
+          "VIDEO",
+          "GAME",
+          "CHARACTERS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "C",
+          "I"
+        ],
+        "game_link": "/us/game/2019-11-07/2",
+        "eliminated": 6592,
+        "advancing": 14370,
+        "correct_answers": 14370,
+        "incorrect_answers": 6592
+      },
+      {
+        "direct_link": "/us/game/2019-11-07/2/7",
+        "question_number": 7,
+        "text": "Film Subtitle",
+        "answer": [
+          "THE",
+          "DEWEY",
+          "COX",
+          "STORY"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"H\""
+        ],
+        "to_reveal_letters": [
+          "O",
+          "T"
+        ],
+        "game_link": "/us/game/2019-11-07/2",
+        "eliminated": 12376,
+        "advancing": 2791,
+        "correct_answers": 2791,
+        "incorrect_answers": 12376
+      },
+      {
+        "direct_link": "/us/game/2019-11-07/2/8",
+        "question_number": 8,
+        "text": "Notable Tilda Swinton Win",
+        "answer": [
+          "INDEPENDENT",
+          "SPIRIT",
+          "AWARD"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"I\""
+        ],
+        "to_reveal_letters": [
+          "N",
+          "W"
+        ],
+        "game_link": "/us/game/2019-11-07/2",
+        "eliminated": 455,
+        "advancing": 4308,
+        "correct_answers": 4308,
+        "incorrect_answers": 455
+      },
+      {
+        "direct_link": "/us/game/2019-11-07/2/9",
+        "question_number": 9,
+        "text": "Destroy Immediately",
+        "answer": [
+          "BURN",
+          "AFTER",
+          "READING"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"G\""
+        ],
+        "to_reveal_letters": [
+          "D",
+          "U"
+        ],
+        "game_link": "/us/game/2019-11-07/2",
+        "eliminated": 315,
+        "advancing": 4055,
+        "correct_answers": 4055,
+        "incorrect_answers": 315
+      },
+      {
+        "direct_link": "/us/game/2019-11-07/2/10",
+        "question_number": 10,
+        "text": "Attacking Bear",
+        "answer": [
+          "PANDA",
+          "DOING",
+          "MARTIAL",
+          "ARTS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"O\""
+        ],
+        "to_reveal_letters": [
+          "D",
+          "I"
+        ],
+        "game_link": "/us/game/2019-11-07/2",
+        "eliminated": 988,
+        "advancing": 3109,
+        "correct_answers": 3109,
+        "incorrect_answers": 988
+      },
+      {
+        "direct_link": "/us/game/2019-11-07/2/11",
+        "question_number": 11,
+        "text": "Modern âJumping The Sharkâ",
+        "answer": [
+          "LEAPING",
+          "ON",
+          "OPRAHâS",
+          "COUCH"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"â\"",
+          "\"L\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "S"
+        ],
+        "game_link": "/us/game/2019-11-07/2",
+        "eliminated": 1004,
+        "advancing": 2303,
+        "correct_answers": 2303,
+        "incorrect_answers": 1004
+      },
+      {
+        "direct_link": "/us/game/2019-11-07/2/12",
+        "question_number": 12,
+        "text": "Two âGood Menâ",
+        "answer": [
+          "JACK",
+          "NICHOLSON",
+          "&",
+          "KEVIN",
+          "BACON"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"&\"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "H",
+          "J"
+        ],
+        "game_link": "/us/game/2019-11-07/2",
+        "eliminated": 163,
+        "advancing": 2393,
+        "correct_answers": 2393,
+        "incorrect_answers": 163
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": null
+  }
+]

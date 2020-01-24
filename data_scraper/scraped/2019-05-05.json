@@ -1,0 +1,954 @@
+[
+  {
+    "id": 100702,
+    "show_id": 10675,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "10,000",
+    "currency": "$",
+    "start_time": "2019-05-06T01:00:00Z",
+    "direct_link": "/us/game/2019-05-05/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "3,960",
+      "currency": "$",
+      "average_prize": "2.53"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "TV",
+        "slug": "tv"
+      }
+    ],
+    "questions": [
+      {
+        "id": 104405,
+        "text": "What is the name of the human protagonist in much of the TV show âPokÃ©monâ?",
+        "question_number": 1,
+        "eliminated": "-13,637",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "339,382",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231080,
+            "text": "Ashley Benson",
+            "correct": false,
+            "count": "21,737",
+            "percent": "6.67%"
+          },
+          {
+            "id": 231081,
+            "text": "Ashton Kutcher",
+            "correct": false,
+            "count": "27,504",
+            "percent": "8.44%"
+          },
+          {
+            "id": 231082,
+            "text": "Ash Ketchum",
+            "correct": true,
+            "count": "276,504",
+            "percent": "84.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-05/1/1",
+        "game_link": "/us/game/2019-05-05/1",
+        "correct_answers": 276504,
+        "incorrect_answers": 49241,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104413,
+        "text": "What is the term âPokÃ©monâ short for?",
+        "question_number": 2,
+        "eliminated": "1,726",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "338,067",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231092,
+            "text": "Pop Music",
+            "correct": false,
+            "count": "1,953",
+            "percent": "0.6%"
+          },
+          {
+            "id": 231093,
+            "text": "Pocket Monsters",
+            "correct": true,
+            "count": "319,092",
+            "percent": "98.71%"
+          },
+          {
+            "id": 231094,
+            "text": "Poor Mobility",
+            "correct": false,
+            "count": "2,232",
+            "percent": "0.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-05/1/2",
+        "game_link": "/us/game/2019-05-05/1",
+        "correct_answers": 319092,
+        "incorrect_answers": 4185,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104419,
+        "text": "Which of these PokÃ©mon is known for their beautiful singing?",
+        "question_number": 3,
+        "eliminated": "2,969",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "335,141",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231101,
+            "text": "Jynx",
+            "correct": false,
+            "count": "33,452",
+            "percent": "10.4%"
+          },
+          {
+            "id": 231103,
+            "text": "Jigglypuff",
+            "correct": true,
+            "count": "267,570",
+            "percent": "83.21%"
+          },
+          {
+            "id": 231105,
+            "text": "Garbodor",
+            "correct": false,
+            "count": "20,529",
+            "percent": "6.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-05/1/3",
+        "game_link": "/us/game/2019-05-05/1",
+        "correct_answers": 267570,
+        "incorrect_answers": 53981,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104427,
+        "text": "What ability does Ditto have?",
+        "question_number": 4,
+        "eliminated": "10,624",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "324,777",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231113,
+            "text": "Sound recording",
+            "correct": false,
+            "count": "4,060",
+            "percent": "1.29%"
+          },
+          {
+            "id": 231114,
+            "text": "Mimicry",
+            "correct": true,
+            "count": "219,609",
+            "percent": "69.81%"
+          },
+          {
+            "id": 231115,
+            "text": "Duplicating itself",
+            "correct": false,
+            "count": "90,904",
+            "percent": "28.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-05/1/4",
+        "game_link": "/us/game/2019-05-05/1",
+        "correct_answers": 219609,
+        "incorrect_answers": 94964,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104435,
+        "text": "What do Clefairyâs wings do?",
+        "question_number": 5,
+        "eliminated": "11,265",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "314,584",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231125,
+            "text": "Generate rain",
+            "correct": false,
+            "count": "23,556",
+            "percent": "7.76%"
+          },
+          {
+            "id": 231127,
+            "text": "Shoot sparks",
+            "correct": false,
+            "count": "57,236",
+            "percent": "18.84%"
+          },
+          {
+            "id": 231130,
+            "text": "Store moonlight",
+            "correct": true,
+            "count": "222,941",
+            "percent": "73.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-05/1/5",
+        "game_link": "/us/game/2019-05-05/1",
+        "correct_answers": 222941,
+        "incorrect_answers": 80792,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104443,
+        "text": "Which PokÃ©mon was once able to change gender when evolving?",
+        "question_number": 6,
+        "eliminated": "24,336",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "290,904",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231137,
+            "text": "Azurill",
+            "correct": true,
+            "count": "209,591",
+            "percent": "71.59%"
+          },
+          {
+            "id": 231138,
+            "text": "Sawk",
+            "correct": false,
+            "count": "29,560",
+            "percent": "10.1%"
+          },
+          {
+            "id": 231139,
+            "text": "Tauros",
+            "correct": false,
+            "count": "53,615",
+            "percent": "18.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-05/1/6",
+        "game_link": "/us/game/2019-05-05/1",
+        "correct_answers": 209591,
+        "incorrect_answers": 83175,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104451,
+        "text": "Drowzee is based on what kind of animal?",
+        "question_number": 7,
+        "eliminated": "133,841",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "159,249",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231149,
+            "text": "Sloth",
+            "correct": false,
+            "count": "90,558",
+            "percent": "32.77%"
+          },
+          {
+            "id": 231150,
+            "text": "Tapir",
+            "correct": true,
+            "count": "120,207",
+            "percent": "43.5%"
+          },
+          {
+            "id": 231155,
+            "text": "Anteater",
+            "correct": false,
+            "count": "65,594",
+            "percent": "23.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-05/1/7",
+        "game_link": "/us/game/2019-05-05/1",
+        "correct_answers": 120207,
+        "incorrect_answers": 156152,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104459,
+        "text": "Which of these moves is known as âhopâ in Japan?",
+        "question_number": 8,
+        "eliminated": "98,268",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "78,561",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231161,
+            "text": "Splash",
+            "correct": true,
+            "count": "77,209",
+            "percent": "45.06%"
+          },
+          {
+            "id": 231162,
+            "text": "Whirlwind",
+            "correct": false,
+            "count": "11,761",
+            "percent": "6.86%"
+          },
+          {
+            "id": 231164,
+            "text": "Stomp",
+            "correct": false,
+            "count": "82,373",
+            "percent": "48.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-05/1/8",
+        "game_link": "/us/game/2019-05-05/1",
+        "correct_answers": 77209,
+        "incorrect_answers": 94134,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104467,
+        "text": "Mareep is said to be inspired by the same work of  literature that was made into what film?",
+        "question_number": 9,
+        "eliminated": "36,104",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "53,741",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231173,
+            "text": "Blade Runner",
+            "correct": true,
+            "count": "53,679",
+            "percent": "63.36%"
+          },
+          {
+            "id": 231176,
+            "text": "War of the Worlds",
+            "correct": false,
+            "count": "16,055",
+            "percent": "18.95%"
+          },
+          {
+            "id": 231179,
+            "text": "Minority Report",
+            "correct": false,
+            "count": "14,991",
+            "percent": "17.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-05/1/9",
+        "game_link": "/us/game/2019-05-05/1",
+        "correct_answers": 53679,
+        "incorrect_answers": 31046,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104475,
+        "text": "Which of these action heroes does NOT have a PokÃ©mon based on them?",
+        "question_number": 10,
+        "eliminated": "11,018",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "48,179",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231185,
+            "text": "Jackie Chan",
+            "correct": false,
+            "count": "4,909",
+            "percent": "8.54%"
+          },
+          {
+            "id": 231187,
+            "text": "Jet Li",
+            "correct": true,
+            "count": "48,176",
+            "percent": "83.85%"
+          },
+          {
+            "id": 231189,
+            "text": "Bruce Lee",
+            "correct": false,
+            "count": "4,373",
+            "percent": "7.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-05/1/10",
+        "game_link": "/us/game/2019-05-05/1",
+        "correct_answers": 48176,
+        "incorrect_answers": 9282,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104483,
+        "text": "A PokÃ©mon from the Ice category strongly resembles what frozen dessert?",
+        "question_number": 11,
+        "eliminated": "4,087",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "45,955",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231197,
+            "text": "Chocolate milkshake",
+            "correct": false,
+            "count": "730",
+            "percent": "1.5%"
+          },
+          {
+            "id": 231198,
+            "text": "Vanilla ice cream cone",
+            "correct": true,
+            "count": "45,955",
+            "percent": "94.16%"
+          },
+          {
+            "id": 231200,
+            "text": "Banana split",
+            "correct": false,
+            "count": "2,120",
+            "percent": "4.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-05/1/11",
+        "game_link": "/us/game/2019-05-05/1",
+        "correct_answers": 45955,
+        "incorrect_answers": 2850,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104491,
+        "text": "What fossil inspired Dr. Oak to become a professor?",
+        "question_number": 12,
+        "eliminated": "20,186",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "26,712",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231209,
+            "text": "Kabuto",
+            "correct": false,
+            "count": "3,025",
+            "percent": "6.58%"
+          },
+          {
+            "id": 231211,
+            "text": "Aerodactyl",
+            "correct": false,
+            "count": "16,245",
+            "percent": "35.33%"
+          },
+          {
+            "id": 231214,
+            "text": "Omanyte",
+            "correct": true,
+            "count": "26,712",
+            "percent": "58.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-05/1/12",
+        "game_link": "/us/game/2019-05-05/1",
+        "correct_answers": 26712,
+        "incorrect_answers": 19270,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104499,
+        "text": "How does one qualify to challenge the Elite Four?",
+        "question_number": 13,
+        "eliminated": "895",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "32,783",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231221,
+            "text": "Arrive safely to Kanto",
+            "correct": false,
+            "count": "213",
+            "percent": "0.64%"
+          },
+          {
+            "id": 231224,
+            "text": "Win 8 badges",
+            "correct": true,
+            "count": "32,783",
+            "percent": "98.13%"
+          },
+          {
+            "id": 231227,
+            "text": "Drink Max Potions",
+            "correct": false,
+            "count": "411",
+            "percent": "1.23%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-05/1/13",
+        "game_link": "/us/game/2019-05-05/1",
+        "correct_answers": 32783,
+        "incorrect_answers": 624,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104507,
+        "text": "What was part of Charizardâs original design?",
+        "question_number": 14,
+        "eliminated": "26,191",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "6,945",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231233,
+            "text": "Two tongues",
+            "correct": false,
+            "count": "1,748",
+            "percent": "5.32%"
+          },
+          {
+            "id": 231235,
+            "text": "Spine spikes",
+            "correct": true,
+            "count": "6,945",
+            "percent": "21.15%"
+          },
+          {
+            "id": 231238,
+            "text": "One big horn",
+            "correct": false,
+            "count": "24,137",
+            "percent": "73.52%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-05/1/14",
+        "game_link": "/us/game/2019-05-05/1",
+        "correct_answers": 6945,
+        "incorrect_answers": 25885,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 104515,
+        "text": "A recently discovered natural protein was named after Pikachu due to which of its qualities?",
+        "question_number": 15,
+        "eliminated": "12,487",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "3,960",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 231245,
+            "text": "Color",
+            "correct": false,
+            "count": "8,898",
+            "percent": "55.23%"
+          },
+          {
+            "id": 231247,
+            "text": "Speed",
+            "correct": true,
+            "count": "3,960",
+            "percent": "24.58%"
+          },
+          {
+            "id": 231251,
+            "text": "Cuteness",
+            "correct": false,
+            "count": "3,253",
+            "percent": "20.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-05/1/15",
+        "game_link": "/us/game/2019-05-05/1",
+        "correct_answers": 3960,
+        "incorrect_answers": 12151,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 100773,
+    "show_id": 10690,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-05-06T01:30:00Z",
+    "direct_link": "/us/game/2019-05-05/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "3,177",
+      "currency": "$",
+      "average_prize": "0.31"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-05-05/2/1",
+        "question_number": 1,
+        "text": "Battle Selection",
+        "answer": [
+          "I",
+          "CHOOSE",
+          "YOU!"
+        ],
+        "initial_letters": [
+          " ",
+          "!",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-05-05/2",
+        "eliminated": 18395,
+        "advancing": 108430,
+        "correct_answers": 108430,
+        "incorrect_answers": 18395
+      },
+      {
+        "direct_link": "/us/game/2019-05-05/2/2",
+        "question_number": 2,
+        "text": "Fire Breather",
+        "answer": [
+          "CHARIZARD"
+        ],
+        "initial_letters": [
+          "I"
+        ],
+        "to_reveal_letters": [
+          "R",
+          "Z"
+        ],
+        "game_link": "/us/game/2019-05-05/2",
+        "eliminated": 18148,
+        "advancing": 90782,
+        "correct_answers": 90782,
+        "incorrect_answers": 18148
+      },
+      {
+        "direct_link": "/us/game/2019-05-05/2/3",
+        "question_number": 3,
+        "text": "Balloon PokÃ©mon",
+        "answer": [
+          "JIGGLYPUFF"
+        ],
+        "initial_letters": [
+          "J"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "L"
+        ],
+        "game_link": "/us/game/2019-05-05/2",
+        "eliminated": 7825,
+        "advancing": 83188,
+        "correct_answers": 83188,
+        "incorrect_answers": 7825
+      },
+      {
+        "direct_link": "/us/game/2019-05-05/2/4",
+        "question_number": 4,
+        "text": "Big Change",
+        "answer": [
+          "MEGA",
+          "EVOLUTION"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "L"
+        ],
+        "game_link": "/us/game/2019-05-05/2",
+        "eliminated": 29988,
+        "advancing": 53346,
+        "correct_answers": 53346,
+        "incorrect_answers": 29988
+      },
+      {
+        "direct_link": "/us/game/2019-05-05/2/5",
+        "question_number": 5,
+        "text": "Song Declaration",
+        "answer": [
+          "I",
+          "KNOW",
+          "ITâS",
+          "MY",
+          "DESTINY!"
+        ],
+        "initial_letters": [
+          " ",
+          "â",
+          "!",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-05-05/2",
+        "eliminated": 26380,
+        "advancing": 28600,
+        "correct_answers": 28600,
+        "incorrect_answers": 26380
+      },
+      {
+        "direct_link": "/us/game/2019-05-05/2/6",
+        "question_number": 6,
+        "text": "Team Rivalry",
+        "answer": [
+          "MAGMA",
+          "VS.",
+          "AQUA"
+        ],
+        "initial_letters": [
+          " ",
+          ".",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "Q",
+          "U"
+        ],
+        "game_link": "/us/game/2019-05-05/2",
+        "eliminated": 9671,
+        "advancing": 21238,
+        "correct_answers": 21238,
+        "incorrect_answers": 9671
+      },
+      {
+        "direct_link": "/us/game/2019-05-05/2/7",
+        "question_number": 7,
+        "text": "Glitchy Creature",
+        "answer": [
+          "MISSINGNO."
+        ],
+        "initial_letters": [
+          ".",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "S"
+        ],
+        "game_link": "/us/game/2019-05-05/2",
+        "eliminated": 3713,
+        "advancing": 18283,
+        "correct_answers": 18283,
+        "incorrect_answers": 3713
+      },
+      {
+        "direct_link": "/us/game/2019-05-05/2/8",
+        "question_number": 8,
+        "text": "Cool Gang",
+        "answer": [
+          "SQUIRTLE",
+          "SQUAD"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "R"
+        ],
+        "game_link": "/us/game/2019-05-05/2",
+        "eliminated": 3163,
+        "advancing": 15437,
+        "correct_answers": 15437,
+        "incorrect_answers": 3163
+      },
+      {
+        "direct_link": "/us/game/2019-05-05/2/9",
+        "question_number": 9,
+        "text": "Pokemon Carrier",
+        "answer": [
+          "GAMEBOY",
+          "ADVANCE"
+        ],
+        "initial_letters": [
+          " ",
+          "V"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-05-05/2",
+        "eliminated": 2929,
+        "advancing": 12861,
+        "correct_answers": 12861,
+        "incorrect_answers": 2929
+      },
+      {
+        "direct_link": "/us/game/2019-05-05/2/10",
+        "question_number": 10,
+        "text": "Surprise Mallard",
+        "answer": [
+          "A",
+          "WILD",
+          "PSYDUCK",
+          "APPEARS!"
+        ],
+        "initial_letters": [
+          " ",
+          "!",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "S"
+        ],
+        "game_link": "/us/game/2019-05-05/2",
+        "eliminated": 2512,
+        "advancing": 10858,
+        "correct_answers": 10858,
+        "incorrect_answers": 2512
+      },
+      {
+        "direct_link": "/us/game/2019-05-05/2/11",
+        "question_number": 11,
+        "text": "Shell Shockers",
+        "answer": [
+          "SCALCHOP",
+          "&",
+          "SEAMITAR"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "O"
+        ],
+        "game_link": "/us/game/2019-05-05/2",
+        "eliminated": 9872,
+        "advancing": 1546,
+        "correct_answers": 1546,
+        "incorrect_answers": 9872
+      },
+      {
+        "direct_link": "/us/game/2019-05-05/2/12",
+        "question_number": 12,
+        "text": "Flying Evolution",
+        "answer": [
+          "ZUBAT,",
+          "GOLBAT,",
+          "CROBAT"
+        ],
+        "initial_letters": [
+          ",",
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "Z"
+        ],
+        "game_link": "/us/game/2019-05-05/2",
+        "eliminated": 1166,
+        "advancing": 3177,
+        "correct_answers": 3177,
+        "incorrect_answers": 1166
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

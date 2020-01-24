@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 45595,
+    "show_id": 9355,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-01-22T00:00:00Z",
+    "direct_link": "/us/game/2019-01-21/1",
+    "time": " 7:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "739",
+      "currency": "$",
+      "average_prize": "1.35"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 43198,
+        "text": "In football, what is the name of the play where a team attempts to recover their own kickoff?",
+        "question_number": 1,
+        "eliminated": "14,858",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "93,737",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129489,
+            "text": "Downside kick",
+            "correct": false,
+            "count": "2,617",
+            "percent": "2.41%"
+          },
+          {
+            "id": 129493,
+            "text": "Onside kick",
+            "correct": true,
+            "count": "93,684",
+            "percent": "86.27%"
+          },
+          {
+            "id": 129497,
+            "text": "Offside kick",
+            "correct": false,
+            "count": "12,294",
+            "percent": "11.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/1/1",
+        "game_link": "/us/game/2019-01-21/1",
+        "correct_answers": 93684,
+        "incorrect_answers": 14911,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43206,
+        "text": "What college basketball teamâs stars were nicknamed âThe Fab Fiveâ in the â90s?",
+        "question_number": 2,
+        "eliminated": "26,963",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "68,087",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129513,
+            "text": "Michigan",
+            "correct": true,
+            "count": "68,078",
+            "percent": "73.07%"
+          },
+          {
+            "id": 129515,
+            "text": "Duke",
+            "correct": false,
+            "count": "19,221",
+            "percent": "20.63%"
+          },
+          {
+            "id": 129519,
+            "text": "Kentucky",
+            "correct": false,
+            "count": "5,866",
+            "percent": "6.3%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/1/2",
+        "game_link": "/us/game/2019-01-21/1",
+        "correct_answers": 68078,
+        "incorrect_answers": 25087,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43211,
+        "text": "Which league currently allows players to go straight from high school to the top professional level?",
+        "question_number": 3,
+        "eliminated": "23,453",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "45,949",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129529,
+            "text": "NFL",
+            "correct": false,
+            "count": "2,898",
+            "percent": "4.28%"
+          },
+          {
+            "id": 129532,
+            "text": "NBA",
+            "correct": false,
+            "count": "18,910",
+            "percent": "27.91%"
+          },
+          {
+            "id": 129538,
+            "text": "MLB",
+            "correct": true,
+            "count": "45,949",
+            "percent": "67.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/1/3",
+        "game_link": "/us/game/2019-01-21/1",
+        "correct_answers": 45949,
+        "incorrect_answers": 21808,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43221,
+        "text": "Who is the highest American seed at this yearâs Womenâs Australian Open?",
+        "question_number": 4,
+        "eliminated": "26,955",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "21,564",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129561,
+            "text": "Sloane Stephens",
+            "correct": true,
+            "count": "21,564",
+            "percent": "45.97%"
+          },
+          {
+            "id": 129562,
+            "text": "Serena Williams",
+            "correct": false,
+            "count": "15,223",
+            "percent": "32.45%"
+          },
+          {
+            "id": 129565,
+            "text": "Madison Keys",
+            "correct": false,
+            "count": "10,123",
+            "percent": "21.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/1/4",
+        "game_link": "/us/game/2019-01-21/1",
+        "correct_answers": 21564,
+        "incorrect_answers": 25346,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43227,
+        "text": "The oldest active player in the NFL plays what position?",
+        "question_number": 5,
+        "eliminated": "3,062",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "21,729",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129574,
+            "text": "Quarterback",
+            "correct": false,
+            "count": "1,640",
+            "percent": "6.68%"
+          },
+          {
+            "id": 129579,
+            "text": "Kicker",
+            "correct": true,
+            "count": "21,729",
+            "percent": "88.57%"
+          },
+          {
+            "id": 129590,
+            "text": "Longsnapper",
+            "correct": false,
+            "count": "1,165",
+            "percent": "4.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/1/5",
+        "game_link": "/us/game/2019-01-21/1",
+        "correct_answers": 21729,
+        "incorrect_answers": 2805,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43237,
+        "text": "In terms of total guaranteed money, what pitcher signed the largest free-agent deal in MLB history?",
+        "question_number": 6,
+        "eliminated": "17,171",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,939",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129607,
+            "text": "David Price",
+            "correct": true,
+            "count": "4,939",
+            "percent": "23.38%"
+          },
+          {
+            "id": 129610,
+            "text": "Clayton Kershaw",
+            "correct": false,
+            "count": "6,662",
+            "percent": "31.54%"
+          },
+          {
+            "id": 129615,
+            "text": "Max Scherzer",
+            "correct": false,
+            "count": "9,523",
+            "percent": "45.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/1/6",
+        "game_link": "/us/game/2019-01-21/1",
+        "correct_answers": 4939,
+        "incorrect_answers": 16185,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43246,
+        "text": "What player debuted the first-ever âself-lacingâ basketball shoe in a game this week?",
+        "question_number": 7,
+        "eliminated": "3,238",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,777",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129633,
+            "text": "Joel Embiid",
+            "correct": false,
+            "count": "1,446",
+            "percent": "18.45%"
+          },
+          {
+            "id": 129636,
+            "text": "Jayson Tatum",
+            "correct": true,
+            "count": "4,777",
+            "percent": "60.95%"
+          },
+          {
+            "id": 129639,
+            "text": "Lonzo Ball",
+            "correct": false,
+            "count": "1,615",
+            "percent": "20.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/1/7",
+        "game_link": "/us/game/2019-01-21/1",
+        "correct_answers": 4777,
+        "incorrect_answers": 3061,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43254,
+        "text": "What was the last franchise to win four consecutive Stanley Cups?",
+        "question_number": 8,
+        "eliminated": "2,931",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,235",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129657,
+            "text": "New York Islanders",
+            "correct": true,
+            "count": "2,235",
+            "percent": "44.1%"
+          },
+          {
+            "id": 129659,
+            "text": "Montreal Canadiens",
+            "correct": false,
+            "count": "1,329",
+            "percent": "26.22%"
+          },
+          {
+            "id": 129662,
+            "text": "Edmonton Oilers",
+            "correct": false,
+            "count": "1,504",
+            "percent": "29.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/1/8",
+        "game_link": "/us/game/2019-01-21/1",
+        "correct_answers": 2235,
+        "incorrect_answers": 2833,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43258,
+        "text": "The soccer legend whose full name was Edson Arantes do Nascimento played for what nation?",
+        "question_number": 9,
+        "eliminated": "720",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,924",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129678,
+            "text": "Spain",
+            "correct": false,
+            "count": "168",
+            "percent": "6.47%"
+          },
+          {
+            "id": 129680,
+            "text": "Argentina",
+            "correct": false,
+            "count": "506",
+            "percent": "19.48%"
+          },
+          {
+            "id": 129684,
+            "text": "Brazil",
+            "correct": true,
+            "count": "1,924",
+            "percent": "74.06%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/1/9",
+        "game_link": "/us/game/2019-01-21/1",
+        "correct_answers": 1924,
+        "incorrect_answers": 674,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43270,
+        "text": "Which of these racers was NOT named IndyCar Rookie of the Year?",
+        "question_number": 10,
+        "eliminated": "773",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,249",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129704,
+            "text": "Dario Franchitti",
+            "correct": true,
+            "count": "1,249",
+            "percent": "62.17%"
+          },
+          {
+            "id": 129707,
+            "text": "Marco Andretti",
+            "correct": false,
+            "count": "298",
+            "percent": "14.83%"
+          },
+          {
+            "id": 129711,
+            "text": "Danica Patrick",
+            "correct": false,
+            "count": "462",
+            "percent": "23.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/1/10",
+        "game_link": "/us/game/2019-01-21/1",
+        "correct_answers": 1249,
+        "incorrect_answers": 760,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43278,
+        "text": "What team currently has two of the NBAâs top five leaders in steals?",
+        "question_number": 11,
+        "eliminated": "332",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,048",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129729,
+            "text": "Philadelphia 76ers",
+            "correct": false,
+            "count": "35",
+            "percent": "2.54%"
+          },
+          {
+            "id": 129733,
+            "text": "Houston Rockets",
+            "correct": false,
+            "count": "294",
+            "percent": "21.35%"
+          },
+          {
+            "id": 129737,
+            "text": "Oklahoma City Thunder",
+            "correct": true,
+            "count": "1,048",
+            "percent": "76.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/1/11",
+        "game_link": "/us/game/2019-01-21/1",
+        "correct_answers": 1048,
+        "incorrect_answers": 329,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43282,
+        "text": "Which of these players did NOT touch the ball on the play known as the âImmaculate Receptionâ?",
+        "question_number": 12,
+        "eliminated": "354",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "739",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129750,
+            "text": "Franco Harris",
+            "correct": false,
+            "count": "166",
+            "percent": "15.3%"
+          },
+          {
+            "id": 129756,
+            "text": "Lynn Swann",
+            "correct": true,
+            "count": "739",
+            "percent": "68.11%"
+          },
+          {
+            "id": 129760,
+            "text": "Terry Bradshaw",
+            "correct": false,
+            "count": "180",
+            "percent": "16.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/1/12",
+        "game_link": "/us/game/2019-01-21/1",
+        "correct_answers": 739,
+        "incorrect_answers": 346,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 45715,
+    "show_id": 9368,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-01-22T02:00:00Z",
+    "direct_link": "/us/game/2019-01-21/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "3,039",
+      "currency": "$",
+      "average_prize": "1.65"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "RENT",
+        "slug": "rent"
+      },
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "questions": [
+      {
+        "id": 43290,
+        "text": "What musical famously features the song âSeasons of Loveâ?",
+        "question_number": 1,
+        "eliminated": "26,385",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "541,259",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129765,
+            "text": "Mortgage",
+            "correct": false,
+            "count": "16,693",
+            "percent": "2.94%"
+          },
+          {
+            "id": 129766,
+            "text": "Rent",
+            "correct": true,
+            "count": "540,095",
+            "percent": "95.26%"
+          },
+          {
+            "id": 129767,
+            "text": "Sub-lease",
+            "correct": false,
+            "count": "10,172",
+            "percent": "1.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/2/1",
+        "game_link": "/us/game/2019-01-21/2",
+        "correct_answers": 540095,
+        "incorrect_answers": 26865,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43299,
+        "text": "Which of these musical children sings the famous song âTomorrowâ?",
+        "question_number": 2,
+        "eliminated": "26,995",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "517,772",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129792,
+            "text": "Matilda",
+            "correct": false,
+            "count": "13,156",
+            "percent": "2.44%"
+          },
+          {
+            "id": 129793,
+            "text": "Oliver",
+            "correct": false,
+            "count": "8,080",
+            "percent": "1.5%"
+          },
+          {
+            "id": 129794,
+            "text": "Annie",
+            "correct": true,
+            "count": "517,121",
+            "percent": "96.06%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/2/2",
+        "game_link": "/us/game/2019-01-21/2",
+        "correct_answers": 517121,
+        "incorrect_answers": 21236,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43306,
+        "text": "What question is repeatedly asked in the song âRentâ from âRentâ?",
+        "question_number": 3,
+        "eliminated": "121,092",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "398,651",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129813,
+            "text": "When we gonna pay?",
+            "correct": false,
+            "count": "37,714",
+            "percent": "7.6%"
+          },
+          {
+            "id": 129815,
+            "text": "How we gonna pay?",
+            "correct": true,
+            "count": "398,482",
+            "percent": "80.28%"
+          },
+          {
+            "id": 129817,
+            "text": "Why we gotta pay?",
+            "correct": false,
+            "count": "60,148",
+            "percent": "12.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/2/3",
+        "game_link": "/us/game/2019-01-21/2",
+        "correct_answers": 398482,
+        "incorrect_answers": 97862,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43316,
+        "text": "Before âHamilton,â Lin-Manuel Miranda wrote the music and lyrics for which show?",
+        "question_number": 4,
+        "eliminated": "201,828",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "209,870",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129843,
+            "text": "Wicked",
+            "correct": false,
+            "count": "160,156",
+            "percent": "39.55%"
+          },
+          {
+            "id": 129845,
+            "text": "Gypsy",
+            "correct": false,
+            "count": "34,902",
+            "percent": "8.62%"
+          },
+          {
+            "id": 129848,
+            "text": "In the Heights",
+            "correct": true,
+            "count": "209,865",
+            "percent": "51.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/2/4",
+        "game_link": "/us/game/2019-01-21/2",
+        "correct_answers": 209865,
+        "incorrect_answers": 195058,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43324,
+        "text": "Which of these musical titles does NOT actually end with an exclamation point?",
+        "question_number": 5,
+        "eliminated": "37,985",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "192,566",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129867,
+            "text": "Cats!",
+            "correct": true,
+            "count": "192,566",
+            "percent": "84.82%"
+          },
+          {
+            "id": 129872,
+            "text": "Oklahoma!",
+            "correct": false,
+            "count": "18,674",
+            "percent": "8.23%"
+          },
+          {
+            "id": 129875,
+            "text": "Hello, Dolly!",
+            "correct": false,
+            "count": "15,786",
+            "percent": "6.95%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/2/5",
+        "game_link": "/us/game/2019-01-21/2",
+        "correct_answers": 192566,
+        "incorrect_answers": 34460,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43331,
+        "text": "Which of these insults does Maureen hurl at Joanne in the âRentâ showstopper âTake Me or Leave Meâ?",
+        "question_number": 6,
+        "eliminated": "107,377",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "90,496",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129889,
+            "text": "Punk",
+            "correct": false,
+            "count": "34,738",
+            "percent": "18.1%"
+          },
+          {
+            "id": 129891,
+            "text": "Snob",
+            "correct": true,
+            "count": "90,496",
+            "percent": "47.14%"
+          },
+          {
+            "id": 129896,
+            "text": "Brat",
+            "correct": false,
+            "count": "66,721",
+            "percent": "34.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/2/6",
+        "game_link": "/us/game/2019-01-21/2",
+        "correct_answers": 90496,
+        "incorrect_answers": 101459,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43338,
+        "text": "According to the lyrics in âThe Producers,â why does Leo âwanna be a producerâ?",
+        "question_number": 7,
+        "eliminated": "66,836",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "42,759",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129912,
+            "text": "Eat at Sardiâs",
+            "correct": true,
+            "count": "42,759",
+            "percent": "39.6%"
+          },
+          {
+            "id": 129918,
+            "text": "Tour the country",
+            "correct": false,
+            "count": "13,045",
+            "percent": "12.08%"
+          },
+          {
+            "id": 129921,
+            "text": "Get out of debt",
+            "correct": false,
+            "count": "52,167",
+            "percent": "48.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/2/7",
+        "game_link": "/us/game/2019-01-21/2",
+        "correct_answers": 42759,
+        "incorrect_answers": 65212,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43349,
+        "text": "The playwright of âKinky Bootsâ made his mark on Broadway in what iconic role?",
+        "question_number": 8,
+        "eliminated": "31,502",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "25,954",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129942,
+            "text": "Edna Turnblad",
+            "correct": true,
+            "count": "25,954",
+            "percent": "46.09%"
+          },
+          {
+            "id": 129945,
+            "text": "Jean Valjean",
+            "correct": false,
+            "count": "16,509",
+            "percent": "29.32%"
+          },
+          {
+            "id": 129948,
+            "text": "Evita",
+            "correct": false,
+            "count": "13,852",
+            "percent": "24.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/2/8",
+        "game_link": "/us/game/2019-01-21/2",
+        "correct_answers": 25954,
+        "incorrect_answers": 30361,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43353,
+        "text": "Which of these long-running musicals premiered on Broadway?",
+        "question_number": 9,
+        "eliminated": "19,154",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "11,862",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129957,
+            "text": "Dreamgirls",
+            "correct": true,
+            "count": "11,862",
+            "percent": "38.6%"
+          },
+          {
+            "id": 129967,
+            "text": "Les MisÃ©rables",
+            "correct": false,
+            "count": "4,137",
+            "percent": "13.46%"
+          },
+          {
+            "id": 129968,
+            "text": "Phantom of the Opera",
+            "correct": false,
+            "count": "14,728",
+            "percent": "47.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/2/9",
+        "game_link": "/us/game/2019-01-21/2",
+        "correct_answers": 11862,
+        "incorrect_answers": 18865,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43364,
+        "text": "Which language is NOT sung in the opening number of âThe Book of Mormonâ?",
+        "question_number": 10,
+        "eliminated": "6,981",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "8,114",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 129987,
+            "text": "Italian",
+            "correct": true,
+            "count": "8,114",
+            "percent": "54.37%"
+          },
+          {
+            "id": 129989,
+            "text": "Spanish",
+            "correct": false,
+            "count": "2,812",
+            "percent": "18.84%"
+          },
+          {
+            "id": 129992,
+            "text": "Mandarin",
+            "correct": false,
+            "count": "3,999",
+            "percent": "26.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/2/10",
+        "game_link": "/us/game/2019-01-21/2",
+        "correct_answers": 8114,
+        "incorrect_answers": 6811,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43369,
+        "text": "Broadwayâs original Eliza Doolittle was also in the original Broadway cast of what show?",
+        "question_number": 11,
+        "eliminated": "6,221",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "3,302",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 130002,
+            "text": "The Sound of Music",
+            "correct": false,
+            "count": "2,315",
+            "percent": "24.51%"
+          },
+          {
+            "id": 130006,
+            "text": "The King and I",
+            "correct": false,
+            "count": "3,829",
+            "percent": "40.54%"
+          },
+          {
+            "id": 130008,
+            "text": "Camelot",
+            "correct": true,
+            "count": "3,302",
+            "percent": "34.96%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/2/11",
+        "game_link": "/us/game/2019-01-21/2",
+        "correct_answers": 3302,
+        "incorrect_answers": 6144,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43380,
+        "text": "Jonathan Larson predicted âRentâ would be the â90s version of the musical with what song?",
+        "question_number": 12,
+        "eliminated": "1,552",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "3,039",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 130038,
+            "text": "Aquarius",
+            "correct": true,
+            "count": "3,039",
+            "percent": "67.28%"
+          },
+          {
+            "id": 130039,
+            "text": "At the Ballet",
+            "correct": false,
+            "count": "617",
+            "percent": "13.66%"
+          },
+          {
+            "id": 130040,
+            "text": "Somethingâs Coming",
+            "correct": false,
+            "count": "861",
+            "percent": "19.06%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-21/2/12",
+        "game_link": "/us/game/2019-01-21/2",
+        "correct_answers": 3039,
+        "incorrect_answers": 1478,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 45833,
+    "show_id": 9398,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-01-22T02:30:00Z",
+    "direct_link": "/us/game/2019-01-21/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "54.47"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "58.80"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "61.90"
+        },
+        {
+          "number": "40,254",
+          "amount": "0.02",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.019251310331122536,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Music Night",
+        "slug": "music-night"
+      }
+    ],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-01-21/3/1",
+        "question_number": 1,
+        "text": "Hit Single",
+        "answer": [
+          "CALL",
+          "ME",
+          "MAYBE"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "B"
+        ],
+        "game_link": "/us/game/2019-01-21/3",
+        "eliminated": 26660,
+        "advancing": 219848,
+        "correct_answers": 219848,
+        "incorrect_answers": 26660
+      },
+      {
+        "direct_link": "/us/game/2019-01-21/3/2",
+        "question_number": 2,
+        "text": "At the Disco",
+        "answer": [
+          "STAYINâ",
+          "ALIVE"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "N"
+        ],
+        "game_link": "/us/game/2019-01-21/3",
+        "eliminated": 86847,
+        "advancing": 134143,
+        "correct_answers": 134143,
+        "incorrect_answers": 86847
+      },
+      {
+        "direct_link": "/us/game/2019-01-21/3/3",
+        "question_number": 3,
+        "text": "Ariana Grande",
+        "answer": [
+          "THANK",
+          "U,",
+          "NEXT"
+        ],
+        "initial_letters": [
+          " ",
+          ",",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "U"
+        ],
+        "game_link": "/us/game/2019-01-21/3",
+        "eliminated": 31261,
+        "advancing": 107147,
+        "correct_answers": 107147,
+        "incorrect_answers": 31261
+      },
+      {
+        "direct_link": "/us/game/2019-01-21/3/4",
+        "question_number": 4,
+        "text": "Group Dance",
+        "answer": [
+          "MACARENA"
+        ],
+        "initial_letters": [
+          "E"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "N"
+        ],
+        "game_link": "/us/game/2019-01-21/3",
+        "eliminated": 9705,
+        "advancing": 98730,
+        "correct_answers": 98730,
+        "incorrect_answers": 9705
+      },
+      {
+        "direct_link": "/us/game/2019-01-21/3/5",
+        "question_number": 5,
+        "text": "Miley Cyrus",
+        "answer": [
+          "PARTY",
+          "IN",
+          "THE",
+          "U.S.A."
+        ],
+        "initial_letters": [
+          " ",
+          ".",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "U"
+        ],
+        "game_link": "/us/game/2019-01-21/3",
+        "eliminated": 24349,
+        "advancing": 74860,
+        "correct_answers": 74860,
+        "incorrect_answers": 24349
+      },
+      {
+        "direct_link": "/us/game/2019-01-21/3/6",
+        "question_number": 6,
+        "text": "Crossover Hit",
+        "answer": [
+          "DESPACITO"
+        ],
+        "initial_letters": [
+          "S"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "T"
+        ],
+        "game_link": "/us/game/2019-01-21/3",
+        "eliminated": 16324,
+        "advancing": 60318,
+        "correct_answers": 60318,
+        "incorrect_answers": 16324
+      },
+      {
+        "direct_link": "/us/game/2019-01-21/3/7",
+        "question_number": 7,
+        "text": "On the â80s Film Soundtrack",
+        "answer": [
+          "EYE",
+          "OF",
+          "THE",
+          "TIGER"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "R"
+        ],
+        "game_link": "/us/game/2019-01-21/3",
+        "eliminated": 2633,
+        "advancing": 59135,
+        "correct_answers": 59135,
+        "incorrect_answers": 2633
+      },
+      {
+        "direct_link": "/us/game/2019-01-21/3/8",
+        "question_number": 8,
+        "text": "Queen",
+        "answer": [
+          "ANOTHER",
+          "ONE",
+          "BITES",
+          "THE",
+          "DUST"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "D"
+        ],
+        "game_link": "/us/game/2019-01-21/3",
+        "eliminated": 10750,
+        "advancing": 48667,
+        "correct_answers": 48667,
+        "incorrect_answers": 10750
+      },
+      {
+        "direct_link": "/us/game/2019-01-21/3/9",
+        "question_number": 9,
+        "text": "Hip-Hop Collaboration",
+        "answer": [
+          "EMPIRE",
+          "STATE",
+          "OF",
+          "MIND"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "R",
+          "T"
+        ],
+        "game_link": "/us/game/2019-01-21/3",
+        "eliminated": 5695,
+        "advancing": 45083,
+        "correct_answers": 45083,
+        "incorrect_answers": 5695
+      },
+      {
+        "direct_link": "/us/game/2019-01-21/3/10",
+        "question_number": 10,
+        "text": "Karaoke Classic",
+        "answer": [
+          "SWEET",
+          "HOME",
+          "ALABAMA"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "T"
+        ],
+        "game_link": "/us/game/2019-01-21/3",
+        "eliminated": 5977,
+        "advancing": 40257,
+        "correct_answers": 40257,
+        "incorrect_answers": 5977
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

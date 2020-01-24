@@ -1,0 +1,1477 @@
+[
+  {
+    "id": 98384,
+    "show_id": 10482,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-04-23T00:00:00Z",
+    "direct_link": "/us/game/2019-04-22/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,840",
+      "currency": "$",
+      "average_prize": "0.35"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 101811,
+        "text": "What is the nickname given to the player chosen last in the NFL Draft?",
+        "question_number": 1,
+        "eliminated": "-3,483",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "89,588",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227189,
+            "text": "Mr. Irrelevant",
+            "correct": true,
+            "count": "61,527",
+            "percent": "71.46%"
+          },
+          {
+            "id": 227191,
+            "text": "The Caboose",
+            "correct": false,
+            "count": "23,088",
+            "percent": "26.81%"
+          },
+          {
+            "id": 227194,
+            "text": "Broadway Geoff",
+            "correct": false,
+            "count": "1,490",
+            "percent": "1.73%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/1/1",
+        "game_link": "/us/game/2019-04-22/1",
+        "correct_answers": 61527,
+        "incorrect_answers": 24578,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101817,
+        "text": "Who traditionally announces the picks in the first round of the draft?",
+        "question_number": 2,
+        "eliminated": "1,697",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "87,986",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227198,
+            "text": "NFL commissioner",
+            "correct": true,
+            "count": "75,075",
+            "percent": "89.24%"
+          },
+          {
+            "id": 227200,
+            "text": "Team owners",
+            "correct": false,
+            "count": "3,803",
+            "percent": "4.52%"
+          },
+          {
+            "id": 227203,
+            "text": "General managers",
+            "correct": false,
+            "count": "5,246",
+            "percent": "6.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/1/2",
+        "game_link": "/us/game/2019-04-22/1",
+        "correct_answers": 75075,
+        "incorrect_answers": 9049,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101825,
+        "text": "What was the most recent year a defending Heisman Trophy winner was chosen No. 1 overall?",
+        "question_number": 3,
+        "eliminated": "1,322",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "86,676",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227210,
+            "text": "2011",
+            "correct": false,
+            "count": "7,379",
+            "percent": "8.9%"
+          },
+          {
+            "id": 227211,
+            "text": "2014",
+            "correct": false,
+            "count": "26,787",
+            "percent": "32.3%"
+          },
+          {
+            "id": 227214,
+            "text": "2018",
+            "correct": true,
+            "count": "48,778",
+            "percent": "58.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/1/3",
+        "game_link": "/us/game/2019-04-22/1",
+        "correct_answers": 48778,
+        "incorrect_answers": 34166,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101833,
+        "text": "Which of these teams were part of a trade that involved the greatest number of picks ever?",
+        "question_number": 4,
+        "eliminated": "1,776",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "85,021",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227222,
+            "text": "Cowboys",
+            "correct": true,
+            "count": "54,475",
+            "percent": "67.53%"
+          },
+          {
+            "id": 227225,
+            "text": "Giants",
+            "correct": false,
+            "count": "11,971",
+            "percent": "14.84%"
+          },
+          {
+            "id": 227227,
+            "text": "Colts",
+            "correct": false,
+            "count": "14,223",
+            "percent": "17.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/1/4",
+        "game_link": "/us/game/2019-04-22/1",
+        "correct_answers": 54475,
+        "incorrect_answers": 26194,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101841,
+        "text": "Compared to the current system, how many rounds were there in the first NFL draft?",
+        "question_number": 5,
+        "eliminated": "4,740",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "80,410",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227234,
+            "text": "The same",
+            "correct": false,
+            "count": "10,840",
+            "percent": "13.69%"
+          },
+          {
+            "id": 227236,
+            "text": "More",
+            "correct": true,
+            "count": "38,185",
+            "percent": "48.24%"
+          },
+          {
+            "id": 227238,
+            "text": "Fewer",
+            "correct": false,
+            "count": "30,136",
+            "percent": "38.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/1/5",
+        "game_link": "/us/game/2019-04-22/1",
+        "correct_answers": 38185,
+        "incorrect_answers": 40976,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101849,
+        "text": "After quarterback, what position has been chosen No. 1 overall the greatest number of times?",
+        "question_number": 6,
+        "eliminated": "7,014",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "73,603",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227246,
+            "text": "Running back",
+            "correct": true,
+            "count": "41,912",
+            "percent": "56.14%"
+          },
+          {
+            "id": 227248,
+            "text": "Offensive line",
+            "correct": false,
+            "count": "17,441",
+            "percent": "23.36%"
+          },
+          {
+            "id": 227252,
+            "text": "Defensive line",
+            "correct": false,
+            "count": "15,299",
+            "percent": "20.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/1/6",
+        "game_link": "/us/game/2019-04-22/1",
+        "correct_answers": 41912,
+        "incorrect_answers": 32740,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101857,
+        "text": "Which star player fell the furthest from expected draft position on draft day?",
+        "question_number": 7,
+        "eliminated": "26,000",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "48,135",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227258,
+            "text": "Randy Moss",
+            "correct": false,
+            "count": "7,608",
+            "percent": "10.93%"
+          },
+          {
+            "id": 227259,
+            "text": "Aaron Rodgers",
+            "correct": true,
+            "count": "43,887",
+            "percent": "63.07%"
+          },
+          {
+            "id": 227263,
+            "text": "Johnny Manziel",
+            "correct": false,
+            "count": "18,087",
+            "percent": "25.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/1/7",
+        "game_link": "/us/game/2019-04-22/1",
+        "correct_answers": 43887,
+        "incorrect_answers": 25695,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101865,
+        "text": "What happens if a team does not physically turn in its pick on time?",
+        "question_number": 8,
+        "eliminated": "17,425",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "32,587",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227270,
+            "text": "Can use one timeout",
+            "correct": false,
+            "count": "2,233",
+            "percent": "4.64%"
+          },
+          {
+            "id": 227273,
+            "text": "Must wait for next round",
+            "correct": false,
+            "count": "13,305",
+            "percent": "27.67%"
+          },
+          {
+            "id": 227277,
+            "text": "Team behind can steal",
+            "correct": true,
+            "count": "32,554",
+            "percent": "67.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/1/8",
+        "game_link": "/us/game/2019-04-22/1",
+        "correct_answers": 32554,
+        "incorrect_answers": 15538,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101873,
+        "text": "By round, which QB was drafted latest?",
+        "question_number": 9,
+        "eliminated": "25,889",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "7,819",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227282,
+            "text": "Doug Flutie",
+            "correct": true,
+            "count": "7,813",
+            "percent": "23.58%"
+          },
+          {
+            "id": 227286,
+            "text": "Brett Favre",
+            "correct": false,
+            "count": "1,234",
+            "percent": "3.72%"
+          },
+          {
+            "id": 227289,
+            "text": "Tom Brady",
+            "correct": false,
+            "count": "24,090",
+            "percent": "72.7%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/1/9",
+        "game_link": "/us/game/2019-04-22/1",
+        "correct_answers": 7813,
+        "incorrect_answers": 25324,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101881,
+        "text": "Which of these teams did NOT pick first in both the NFL and AFL drafts?",
+        "question_number": 10,
+        "eliminated": "5,840",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "5,522",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227294,
+            "text": "Miami Dolphins",
+            "correct": false,
+            "count": "2,217",
+            "percent": "20.76%"
+          },
+          {
+            "id": 227296,
+            "text": "San Diego Chargers",
+            "correct": true,
+            "count": "5,521",
+            "percent": "51.69%"
+          },
+          {
+            "id": 227299,
+            "text": "New York Jets",
+            "correct": false,
+            "count": "2,942",
+            "percent": "27.55%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/1/10",
+        "game_link": "/us/game/2019-04-22/1",
+        "correct_answers": 5521,
+        "incorrect_answers": 5159,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101889,
+        "text": "Which of these schools has provided the greatest number of No. 1 overall picks?",
+        "question_number": 11,
+        "eliminated": "2,444",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,297",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227306,
+            "text": "Notre Dame",
+            "correct": true,
+            "count": "4,297",
+            "percent": "64.72%"
+          },
+          {
+            "id": 227309,
+            "text": "Oklahoma",
+            "correct": false,
+            "count": "1,079",
+            "percent": "16.25%"
+          },
+          {
+            "id": 227312,
+            "text": "Alabama",
+            "correct": false,
+            "count": "1,263",
+            "percent": "19.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/1/11",
+        "game_link": "/us/game/2019-04-22/1",
+        "correct_answers": 4297,
+        "incorrect_answers": 2342,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101897,
+        "text": "What team is NOT tied for the most No. 1 overall picks in NFL draft history?",
+        "question_number": 12,
+        "eliminated": "1,841",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,840",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227318,
+            "text": "Rams",
+            "correct": false,
+            "count": "1,037",
+            "percent": "22.51%"
+          },
+          {
+            "id": 227320,
+            "text": "Colts",
+            "correct": false,
+            "count": "729",
+            "percent": "15.83%"
+          },
+          {
+            "id": 227325,
+            "text": "Browns",
+            "correct": true,
+            "count": "2,840",
+            "percent": "61.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/1/12",
+        "game_link": "/us/game/2019-04-22/1",
+        "correct_answers": 2840,
+        "incorrect_answers": 1766,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 98443,
+    "show_id": 10515,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-04-23T01:00:00Z",
+    "direct_link": "/us/game/2019-04-22/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "876",
+      "currency": "$",
+      "average_prize": "5.71"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "questions": [
+      {
+        "id": 101905,
+        "text": "Rihanna has a small role in what movie about a big boat?",
+        "question_number": 1,
+        "eliminated": "-15,340",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "297,971",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227330,
+            "text": "Titanic",
+            "correct": false,
+            "count": "45,656",
+            "percent": "16.15%"
+          },
+          {
+            "id": 227331,
+            "text": "Down Periscope",
+            "correct": false,
+            "count": "16,267",
+            "percent": "5.76%"
+          },
+          {
+            "id": 227333,
+            "text": "Battleship",
+            "correct": true,
+            "count": "220,708",
+            "percent": "78.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/2/1",
+        "game_link": "/us/game/2019-04-22/2",
+        "correct_answers": 220708,
+        "incorrect_answers": 61923,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101913,
+        "text": "What time-traveling end-of-the-world movie stars Brad Pitt?",
+        "question_number": 2,
+        "eliminated": "3,252",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "295,320",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227342,
+            "text": "12 Monkeys",
+            "correct": true,
+            "count": "228,532",
+            "percent": "79.79%"
+          },
+          {
+            "id": 227343,
+            "text": "13 Assassins",
+            "correct": false,
+            "count": "51,995",
+            "percent": "18.15%"
+          },
+          {
+            "id": 227345,
+            "text": "50 First Dates",
+            "correct": false,
+            "count": "5,901",
+            "percent": "2.06%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/2/2",
+        "game_link": "/us/game/2019-04-22/2",
+        "correct_answers": 228532,
+        "incorrect_answers": 57896,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101921,
+        "text": "âKnowingâ stars which actor as a professor of astrophysics at MIT?",
+        "question_number": 3,
+        "eliminated": "3,416",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "292,162",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227354,
+            "text": "Nicolas Cage",
+            "correct": true,
+            "count": "191,087",
+            "percent": "68.36%"
+          },
+          {
+            "id": 227355,
+            "text": "Denise Richards",
+            "correct": false,
+            "count": "23,934",
+            "percent": "8.56%"
+          },
+          {
+            "id": 227358,
+            "text": "Keanu Reeves",
+            "correct": false,
+            "count": "64,519",
+            "percent": "23.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/2/3",
+        "game_link": "/us/game/2019-04-22/2",
+        "correct_answers": 191087,
+        "incorrect_answers": 88453,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101929,
+        "text": "This clip is from a classic movie starring whom?",
+        "question_number": 4,
+        "eliminated": "7,397",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "285,008",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227366,
+            "text": "Peter OâToole",
+            "correct": false,
+            "count": "54,666",
+            "percent": "19.72%"
+          },
+          {
+            "id": 227368,
+            "text": "Peter Fonda",
+            "correct": false,
+            "count": "55,448",
+            "percent": "20.0%"
+          },
+          {
+            "id": 227371,
+            "text": "Peter Sellers",
+            "correct": true,
+            "count": "167,139",
+            "percent": "60.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/2/4",
+        "game_link": "/us/game/2019-04-22/2",
+        "correct_answers": 167139,
+        "incorrect_answers": 110114,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101937,
+        "text": "Which of these movies is NOT about a post-apocalyptic world?",
+        "question_number": 5,
+        "eliminated": "15,611",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "269,887",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227378,
+            "text": "28 Days",
+            "correct": true,
+            "count": "135,696",
+            "percent": "52.2%"
+          },
+          {
+            "id": 227379,
+            "text": "28 Days Later",
+            "correct": false,
+            "count": "27,072",
+            "percent": "10.41%"
+          },
+          {
+            "id": 227380,
+            "text": "28 Weeks Later",
+            "correct": false,
+            "count": "97,210",
+            "percent": "37.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/2/5",
+        "game_link": "/us/game/2019-04-22/2",
+        "correct_answers": 135696,
+        "incorrect_answers": 124282,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101945,
+        "text": "Which of these actors has starred in multiple movies about the world freezing over?",
+        "question_number": 6,
+        "eliminated": "50,280",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "222,279",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227390,
+            "text": "Jake Gyllenhaal",
+            "correct": false,
+            "count": "155,864",
+            "percent": "61.67%"
+          },
+          {
+            "id": 227391,
+            "text": "Laurence Fishburne",
+            "correct": false,
+            "count": "57,983",
+            "percent": "22.94%"
+          },
+          {
+            "id": 227393,
+            "text": "Chris Evans",
+            "correct": true,
+            "count": "38,902",
+            "percent": "15.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/2/6",
+        "game_link": "/us/game/2019-04-22/2",
+        "correct_answers": 38902,
+        "incorrect_answers": 213847,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101953,
+        "text": "Which of these is NOT one of the stated rules for survival in âZombielandâ?",
+        "question_number": 7,
+        "eliminated": "89,876",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "140,032",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227402,
+            "text": "Put Up or Shut Up",
+            "correct": true,
+            "count": "132,306",
+            "percent": "61.37%"
+          },
+          {
+            "id": 227403,
+            "text": "Buckle Up",
+            "correct": false,
+            "count": "49,258",
+            "percent": "22.85%"
+          },
+          {
+            "id": 227404,
+            "text": "Donât Be a Hero",
+            "correct": false,
+            "count": "34,013",
+            "percent": "15.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/2/7",
+        "game_link": "/us/game/2019-04-22/2",
+        "correct_answers": 132306,
+        "incorrect_answers": 83271,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101961,
+        "text": "In which movie do astronauts try to blow up the giant space rock threatening Earth with nuclear weapons?",
+        "question_number": 8,
+        "eliminated": "102,383",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "43,943",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227414,
+            "text": "Armageddon",
+            "correct": false,
+            "count": "87,533",
+            "percent": "61.71%"
+          },
+          {
+            "id": 227416,
+            "text": "Deep Impact",
+            "correct": false,
+            "count": "10,753",
+            "percent": "7.58%"
+          },
+          {
+            "id": 227418,
+            "text": "Both",
+            "correct": true,
+            "count": "43,553",
+            "percent": "30.71%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/2/8",
+        "game_link": "/us/game/2019-04-22/2",
+        "correct_answers": 43553,
+        "incorrect_answers": 98286,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101969,
+        "text": "According to the writer of âIndependence Day,â the computer virus that defeated the aliens was what?",
+        "question_number": 9,
+        "eliminated": "31,314",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "25,576",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227426,
+            "text": "Coded image of flag",
+            "correct": false,
+            "count": "7,390",
+            "percent": "14.47%"
+          },
+          {
+            "id": 227428,
+            "text": "Reverse binary code",
+            "correct": true,
+            "count": "25,570",
+            "percent": "50.06%"
+          },
+          {
+            "id": 227431,
+            "text": "âUSAâ in Morse code",
+            "correct": false,
+            "count": "18,115",
+            "percent": "35.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/2/9",
+        "game_link": "/us/game/2019-04-22/2",
+        "correct_answers": 25570,
+        "incorrect_answers": 25505,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101977,
+        "text": "Which of these films is based on a concept known as âcrust displacement theoryâ?",
+        "question_number": 10,
+        "eliminated": "16,258",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "12,094",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227438,
+            "text": "The Core",
+            "correct": false,
+            "count": "10,964",
+            "percent": "39.15%"
+          },
+          {
+            "id": 227441,
+            "text": "The Day After Tomorrow",
+            "correct": false,
+            "count": "4,950",
+            "percent": "17.67%"
+          },
+          {
+            "id": 227444,
+            "text": "2012",
+            "correct": true,
+            "count": "12,094",
+            "percent": "43.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/2/10",
+        "game_link": "/us/game/2019-04-22/2",
+        "correct_answers": 12094,
+        "incorrect_answers": 15914,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101985,
+        "text": "When Wall-E is launched into space, what is the last bit of debris to fall away from the spacecraft?",
+        "question_number": 11,
+        "eliminated": "6,483",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "7,518",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227450,
+            "text": "Leak Less motor oil",
+            "correct": false,
+            "count": "2,195",
+            "percent": "16.79%"
+          },
+          {
+            "id": 227452,
+            "text": "Sputnik satellite",
+            "correct": true,
+            "count": "7,518",
+            "percent": "57.49%"
+          },
+          {
+            "id": 227455,
+            "text": "Box of Twinkies",
+            "correct": false,
+            "count": "3,363",
+            "percent": "25.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/2/11",
+        "game_link": "/us/game/2019-04-22/2",
+        "correct_answers": 7518,
+        "incorrect_answers": 5558,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101993,
+        "text": "What does the ape say to Charlton Heston right before this moment?",
+        "question_number": 12,
+        "eliminated": "3,382",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "5,315",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227462,
+            "text": "If you must!",
+            "correct": false,
+            "count": "2,230",
+            "percent": "25.82%"
+          },
+          {
+            "id": 227466,
+            "text": "Come here.",
+            "correct": false,
+            "count": "1,092",
+            "percent": "12.64%"
+          },
+          {
+            "id": 227470,
+            "text": "Youâre so damned ugly.",
+            "correct": true,
+            "count": "5,315",
+            "percent": "61.54%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/2/12",
+        "game_link": "/us/game/2019-04-22/2",
+        "correct_answers": 5315,
+        "incorrect_answers": 3322,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102001,
+        "text": "The actor famous for what role played two completely different characters in âMars Attacks!â?",
+        "question_number": 13,
+        "eliminated": "1,334",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "4,368",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227474,
+            "text": "James Bond",
+            "correct": false,
+            "count": "657",
+            "percent": "11.66%"
+          },
+          {
+            "id": 227476,
+            "text": "Carrie Bradshaw",
+            "correct": false,
+            "count": "609",
+            "percent": "10.81%"
+          },
+          {
+            "id": 227480,
+            "text": "The Joker",
+            "correct": true,
+            "count": "4,368",
+            "percent": "77.53%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/2/13",
+        "game_link": "/us/game/2019-04-22/2",
+        "correct_answers": 4368,
+        "incorrect_answers": 1266,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102009,
+        "text": "What is Kevin Costnerâs characterâs name in âThe Postmanâ?",
+        "question_number": 14,
+        "eliminated": "2,806",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "1,805",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227486,
+            "text": "Jericho Cane",
+            "correct": false,
+            "count": "250",
+            "percent": "5.48%"
+          },
+          {
+            "id": 227489,
+            "text": "Kevin",
+            "correct": false,
+            "count": "2,510",
+            "percent": "54.98%"
+          },
+          {
+            "id": 227492,
+            "text": "Just âThe Postmanâ",
+            "correct": true,
+            "count": "1,805",
+            "percent": "39.54%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/2/14",
+        "game_link": "/us/game/2019-04-22/2",
+        "correct_answers": 1805,
+        "incorrect_answers": 2760,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102017,
+        "text": "What are the final spoken words in âDeep Impactâ?",
+        "question_number": 15,
+        "eliminated": "1,397",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "876",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 227498,
+            "text": "Let us begin",
+            "correct": true,
+            "count": "876",
+            "percent": "39.05%"
+          },
+          {
+            "id": 227501,
+            "text": "And we will never forget",
+            "correct": false,
+            "count": "370",
+            "percent": "16.5%"
+          },
+          {
+            "id": 227503,
+            "text": "Together, we will",
+            "correct": false,
+            "count": "997",
+            "percent": "44.45%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-22/2/15",
+        "game_link": "/us/game/2019-04-22/2",
+        "correct_answers": 876,
+        "incorrect_answers": 1367,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 98515,
+    "show_id": 10501,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-04-23T01:30:00Z",
+    "direct_link": "/us/game/2019-04-22/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "18,259",
+      "currency": "$",
+      "average_prize": "0.05"
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-04-22/3/1",
+        "question_number": 1,
+        "text": "Donât Look",
+        "answer": [
+          "BIRD",
+          "BOX"
+        ],
+        "initial_letters": [
+          " ",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "X"
+        ],
+        "game_link": "/us/game/2019-04-22/3",
+        "eliminated": 10890,
+        "advancing": 136075,
+        "correct_answers": 136075,
+        "incorrect_answers": 10890
+      },
+      {
+        "direct_link": "/us/game/2019-04-22/3/2",
+        "question_number": 2,
+        "text": "Big Conflict",
+        "answer": [
+          "WORLD",
+          "WAR",
+          "Z"
+        ],
+        "initial_letters": [
+          " ",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "W"
+        ],
+        "game_link": "/us/game/2019-04-22/3",
+        "eliminated": 32958,
+        "advancing": 103556,
+        "correct_answers": 103556,
+        "incorrect_answers": 32958
+      },
+      {
+        "direct_link": "/us/game/2019-04-22/3/3",
+        "question_number": 3,
+        "text": "Famous Flop",
+        "answer": [
+          "WATERWORLD"
+        ],
+        "initial_letters": [
+          "A"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "W"
+        ],
+        "game_link": "/us/game/2019-04-22/3",
+        "eliminated": 9253,
+        "advancing": 95568,
+        "correct_answers": 95568,
+        "incorrect_answers": 9253
+      },
+      {
+        "direct_link": "/us/game/2019-04-22/3/4",
+        "question_number": 4,
+        "text": "Iconic Sci-Fi Reveal",
+        "answer": [
+          "STATUE",
+          "OF",
+          "LIBERTY"
+        ],
+        "initial_letters": [
+          " ",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "T"
+        ],
+        "game_link": "/us/game/2019-04-22/3",
+        "eliminated": 18799,
+        "advancing": 77108,
+        "correct_answers": 77108,
+        "incorrect_answers": 18799
+      },
+      {
+        "direct_link": "/us/game/2019-04-22/3/5",
+        "question_number": 5,
+        "text": "Invasive Creatures",
+        "answer": [
+          "BODY",
+          "SNATCHERS"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-04-22/3",
+        "eliminated": 15141,
+        "advancing": 62977,
+        "correct_answers": 62977,
+        "incorrect_answers": 15141
+      },
+      {
+        "direct_link": "/us/game/2019-04-22/3/6",
+        "question_number": 6,
+        "text": "Creepy Street",
+        "answer": [
+          "CLOVERFIELD",
+          "LANE"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "V"
+        ],
+        "game_link": "/us/game/2019-04-22/3",
+        "eliminated": 11550,
+        "advancing": 52432,
+        "correct_answers": 52432,
+        "incorrect_answers": 11550
+      },
+      {
+        "direct_link": "/us/game/2019-04-22/3/7",
+        "question_number": 7,
+        "text": "Dueling Movies",
+        "answer": [
+          "DEEP",
+          "IMPACT",
+          "/",
+          "ARMAGEDDON"
+        ],
+        "initial_letters": [
+          " ",
+          "/",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-22/3",
+        "eliminated": 9606,
+        "advancing": 43745,
+        "correct_answers": 43745,
+        "incorrect_answers": 9606
+      },
+      {
+        "direct_link": "/us/game/2019-04-22/3/8",
+        "question_number": 8,
+        "text": "Worrisome Time",
+        "answer": [
+          "TWO",
+          "THOUSAND",
+          "AND",
+          "TWELVE"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "H"
+        ],
+        "game_link": "/us/game/2019-04-22/3",
+        "eliminated": 5973,
+        "advancing": 38754,
+        "correct_answers": 38754,
+        "incorrect_answers": 5973
+      },
+      {
+        "direct_link": "/us/game/2019-04-22/3/9",
+        "question_number": 9,
+        "text": "Max's Location",
+        "answer": [
+          "BEYOND",
+          "THUNDERDOME"
+        ],
+        "initial_letters": [
+          " ",
+          "U"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "M"
+        ],
+        "game_link": "/us/game/2019-04-22/3",
+        "eliminated": 4507,
+        "advancing": 35074,
+        "correct_answers": 35074,
+        "incorrect_answers": 4507
+      },
+      {
+        "direct_link": "/us/game/2019-04-22/3/10",
+        "question_number": 10,
+        "text": "Noble Gesture",
+        "answer": [
+          "VOLUNTEER",
+          "AS",
+          "TRIBUTE"
+        ],
+        "initial_letters": [
+          " ",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "E"
+        ],
+        "game_link": "/us/game/2019-04-22/3",
+        "eliminated": 4562,
+        "advancing": 31231,
+        "correct_answers": 31231,
+        "incorrect_answers": 4562
+      },
+      {
+        "direct_link": "/us/game/2019-04-22/3/11",
+        "question_number": 11,
+        "text": "Fearsome Opponent",
+        "answer": [
+          "TIME",
+          "TRAVELING",
+          "TERMINATOR"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "M"
+        ],
+        "game_link": "/us/game/2019-04-22/3",
+        "eliminated": 3079,
+        "advancing": 29140,
+        "correct_answers": 29140,
+        "incorrect_answers": 3079
+      },
+      {
+        "direct_link": "/us/game/2019-04-22/3/12",
+        "question_number": 12,
+        "text": "Onscreen Couple",
+        "answer": [
+          "EMILY",
+          "BLUNT",
+          "&",
+          "JOHN",
+          "KRASINSKI"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "I"
+        ],
+        "game_link": "/us/game/2019-04-22/3",
+        "eliminated": 11726,
+        "advancing": 18259,
+        "correct_answers": 18259,
+        "incorrect_answers": 11726
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

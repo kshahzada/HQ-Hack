@@ -1,0 +1,801 @@
+[
+  {
+    "id": 45073,
+    "show_id": 9220,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-01-19T02:00:00Z",
+    "direct_link": "/us/game/2019-01-18/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,734",
+      "currency": "$",
+      "average_prize": "1.83"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 42884,
+        "text": "In construction, what is a useful material for holding bricks together?",
+        "question_number": 1,
+        "eliminated": "4,651",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "284,519",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128547,
+            "text": "Gak",
+            "correct": false,
+            "count": "3,278",
+            "percent": "1.13%"
+          },
+          {
+            "id": 128548,
+            "text": "Creamy peanut butter",
+            "correct": false,
+            "count": "1,373",
+            "percent": "0.47%"
+          },
+          {
+            "id": 128549,
+            "text": "Cement",
+            "correct": true,
+            "count": "284,519",
+            "percent": "98.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-18/1/1",
+        "game_link": "/us/game/2019-01-18/1",
+        "correct_answers": 284519,
+        "incorrect_answers": 4651,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42892,
+        "text": "A famous quote from âThe Godfatherâ is, âIâm gonna make him an offer he canâtâ what?",
+        "question_number": 2,
+        "eliminated": "9,843",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "276,748",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128571,
+            "text": "Refuse",
+            "correct": true,
+            "count": "276,748",
+            "percent": "98.38%"
+          },
+          {
+            "id": 128572,
+            "text": "Understand",
+            "correct": false,
+            "count": "3,155",
+            "percent": "1.12%"
+          },
+          {
+            "id": 128575,
+            "text": "Hit or miss",
+            "correct": false,
+            "count": "1,410",
+            "percent": "0.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-18/1/2",
+        "game_link": "/us/game/2019-01-18/1",
+        "correct_answers": 276748,
+        "incorrect_answers": 4565,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42902,
+        "text": "Which of these is a common type of salad dressing?",
+        "question_number": 3,
+        "eliminated": "6,784",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "270,575",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128601,
+            "text": "Hollandaise",
+            "correct": false,
+            "count": "3,441",
+            "percent": "1.25%"
+          },
+          {
+            "id": 128604,
+            "text": "Au jus",
+            "correct": false,
+            "count": "669",
+            "percent": "0.24%"
+          },
+          {
+            "id": 128607,
+            "text": "Vinaigrette",
+            "correct": true,
+            "count": "270,575",
+            "percent": "98.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-18/1/3",
+        "game_link": "/us/game/2019-01-18/1",
+        "correct_answers": 270575,
+        "incorrect_answers": 4110,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42910,
+        "text": "By definition, what is a glossophobe afraid of?",
+        "question_number": 4,
+        "eliminated": "197,823",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "73,259",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128625,
+            "text": "Public speaking",
+            "correct": true,
+            "count": "73,259",
+            "percent": "27.79%"
+          },
+          {
+            "id": 128626,
+            "text": "Mirrors",
+            "correct": false,
+            "count": "161,070",
+            "percent": "61.11%"
+          },
+          {
+            "id": 128627,
+            "text": "Success",
+            "correct": false,
+            "count": "29,247",
+            "percent": "11.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-18/1/4",
+        "game_link": "/us/game/2019-01-18/1",
+        "correct_answers": 73259,
+        "incorrect_answers": 190317,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42916,
+        "text": "Who was president of the US when World War II ended?",
+        "question_number": 5,
+        "eliminated": "40,278",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "50,511",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128643,
+            "text": "Harry S. Truman",
+            "correct": true,
+            "count": "50,511",
+            "percent": "58.05%"
+          },
+          {
+            "id": 128644,
+            "text": "Dwight D. Eisenhower",
+            "correct": false,
+            "count": "17,102",
+            "percent": "19.65%"
+          },
+          {
+            "id": 128648,
+            "text": "Franklin D. Roosevelt",
+            "correct": false,
+            "count": "19,404",
+            "percent": "22.3%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-18/1/5",
+        "game_link": "/us/game/2019-01-18/1",
+        "correct_answers": 50511,
+        "incorrect_answers": 36506,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42924,
+        "text": "âScrambled Eggsâ was Paul McCartneyâs placeholder title as he wrote what song?",
+        "question_number": 6,
+        "eliminated": "20,223",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "34,269",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128667,
+            "text": "Yesterday",
+            "correct": true,
+            "count": "34,269",
+            "percent": "64.99%"
+          },
+          {
+            "id": 128670,
+            "text": "Let It Be",
+            "correct": false,
+            "count": "13,829",
+            "percent": "26.23%"
+          },
+          {
+            "id": 128673,
+            "text": "Penny",
+            "correct": false,
+            "count": "4,633",
+            "percent": "8.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-18/1/6",
+        "game_link": "/us/game/2019-01-18/1",
+        "correct_answers": 34269,
+        "incorrect_answers": 18462,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42933,
+        "text": "Which of these places shares a border with Hungary?",
+        "question_number": 7,
+        "eliminated": "14,465",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "21,839",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128693,
+            "text": "Germany",
+            "correct": false,
+            "count": "3,086",
+            "percent": "8.59%"
+          },
+          {
+            "id": 128695,
+            "text": "Croatia",
+            "correct": true,
+            "count": "21,839",
+            "percent": "60.8%"
+          },
+          {
+            "id": 128699,
+            "text": "Czech Republic",
+            "correct": false,
+            "count": "10,997",
+            "percent": "30.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-18/1/7",
+        "game_link": "/us/game/2019-01-18/1",
+        "correct_answers": 21839,
+        "incorrect_answers": 14083,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42940,
+        "text": "Salvador Dali once designed a logo for what type of snack?",
+        "question_number": 8,
+        "eliminated": "4,614",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "19,292",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128715,
+            "text": "Tea cake",
+            "correct": false,
+            "count": "1,629",
+            "percent": "6.97%"
+          },
+          {
+            "id": 128722,
+            "text": "Lollipop",
+            "correct": true,
+            "count": "19,292",
+            "percent": "82.58%"
+          },
+          {
+            "id": 128728,
+            "text": "Licorice",
+            "correct": false,
+            "count": "2,440",
+            "percent": "10.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-18/1/8",
+        "game_link": "/us/game/2019-01-18/1",
+        "correct_answers": 19292,
+        "incorrect_answers": 4069,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42948,
+        "text": "The graphics to the original âPac-Manâ include a symbol from what other video game?",
+        "question_number": 9,
+        "eliminated": "6,059",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "13,850",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128739,
+            "text": "Space Invaders",
+            "correct": false,
+            "count": "3,485",
+            "percent": "18.76%"
+          },
+          {
+            "id": 128741,
+            "text": "Galaxian",
+            "correct": true,
+            "count": "13,850",
+            "percent": "74.54%"
+          },
+          {
+            "id": 128744,
+            "text": "Rally-X",
+            "correct": false,
+            "count": "1,245",
+            "percent": "6.7%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-18/1/9",
+        "game_link": "/us/game/2019-01-18/1",
+        "correct_answers": 13850,
+        "incorrect_answers": 4730,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42956,
+        "text": "Massive fad toy brand Giga Pets included which of these varieties?",
+        "question_number": 10,
+        "eliminated": "8,174",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "6,741",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128763,
+            "text": "Microchimp",
+            "correct": true,
+            "count": "6,741",
+            "percent": "46.37%"
+          },
+          {
+            "id": 128764,
+            "text": "Pocketpup",
+            "correct": false,
+            "count": "976",
+            "percent": "6.71%"
+          },
+          {
+            "id": 128767,
+            "text": "Kutiekat",
+            "correct": false,
+            "count": "6,820",
+            "percent": "46.91%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-18/1/10",
+        "game_link": "/us/game/2019-01-18/1",
+        "correct_answers": 6741,
+        "incorrect_answers": 7796,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42964,
+        "text": "What is the capital of the state with the lowest percentage of licensed drivers?",
+        "question_number": 11,
+        "eliminated": "6,245",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "2,979",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128787,
+            "text": "Tallahassee",
+            "correct": false,
+            "count": "526",
+            "percent": "5.88%"
+          },
+          {
+            "id": 128788,
+            "text": "Albany",
+            "correct": true,
+            "count": "2,979",
+            "percent": "33.28%"
+          },
+          {
+            "id": 128789,
+            "text": "Cheyenne",
+            "correct": false,
+            "count": "5,447",
+            "percent": "60.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-18/1/11",
+        "game_link": "/us/game/2019-01-18/1",
+        "correct_answers": 2979,
+        "incorrect_answers": 5973,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42972,
+        "text": "Which musician did NOT complete his EGOT last year?",
+        "question_number": 12,
+        "eliminated": "2,181",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "2,734",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128811,
+            "text": "John Legend",
+            "correct": false,
+            "count": "1,067",
+            "percent": "21.98%"
+          },
+          {
+            "id": 128814,
+            "text": "Andrew Lloyd Webber",
+            "correct": false,
+            "count": "1,054",
+            "percent": "21.71%"
+          },
+          {
+            "id": 128820,
+            "text": "Quincy Jones",
+            "correct": true,
+            "count": "2,734",
+            "percent": "56.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-18/1/12",
+        "game_link": "/us/game/2019-01-18/1",
+        "correct_answers": 2734,
+        "incorrect_answers": 2121,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 45190,
+    "show_id": 9340,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-01-19T02:30:00Z",
+    "direct_link": "/us/game/2019-01-18/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "300.13",
+          "time": "76.23"
+        },
+        {
+          "number": "2",
+          "amount": "150.13",
+          "time": "78.62"
+        },
+        {
+          "number": "3",
+          "amount": "50.13",
+          "time": "83.75"
+        },
+        {
+          "number": "3,743",
+          "amount": "0.13",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.13347570742124934,
+      "top_players_prize": 500.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-01-18/2/1",
+        "question_number": 1,
+        "text": "Pasta",
+        "answer": [
+          "SPAGHETTI"
+        ],
+        "initial_letters": [
+          "S"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "P"
+        ],
+        "game_link": "/us/game/2019-01-18/2",
+        "eliminated": 14131,
+        "advancing": 165756,
+        "correct_answers": 165756,
+        "incorrect_answers": 14131
+      },
+      {
+        "direct_link": "/us/game/2019-01-18/2/2",
+        "question_number": 2,
+        "text": "Mode of Transportation",
+        "answer": [
+          "BICYCLE"
+        ],
+        "initial_letters": [
+          "B"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "L"
+        ],
+        "game_link": "/us/game/2019-01-18/2",
+        "eliminated": 49817,
+        "advancing": 116749,
+        "correct_answers": 116749,
+        "incorrect_answers": 49817
+      },
+      {
+        "direct_link": "/us/game/2019-01-18/2/3",
+        "question_number": 3,
+        "text": "Basic Beverage",
+        "answer": [
+          "GLASS",
+          "OF",
+          "WATER"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "R"
+        ],
+        "game_link": "/us/game/2019-01-18/2",
+        "eliminated": 35892,
+        "advancing": 83020,
+        "correct_answers": 83020,
+        "incorrect_answers": 35892
+      },
+      {
+        "direct_link": "/us/game/2019-01-18/2/4",
+        "question_number": 4,
+        "text": "Teenager's Request",
+        "answer": [
+          "EAR",
+          "PIERCING"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "R"
+        ],
+        "game_link": "/us/game/2019-01-18/2",
+        "eliminated": 35909,
+        "advancing": 49282,
+        "correct_answers": 49282,
+        "incorrect_answers": 35909
+      },
+      {
+        "direct_link": "/us/game/2019-01-18/2/5",
+        "question_number": 5,
+        "text": "What's on TV?",
+        "answer": [
+          "REBOOTED",
+          "SITCOM"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "S"
+        ],
+        "game_link": "/us/game/2019-01-18/2",
+        "eliminated": 24043,
+        "advancing": 27408,
+        "correct_answers": 27408,
+        "incorrect_answers": 24043
+      },
+      {
+        "direct_link": "/us/game/2019-01-18/2/6",
+        "question_number": 6,
+        "text": "What's on Sale?",
+        "answer": [
+          "DENTED",
+          "CAN",
+          "OF",
+          "BEANS"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "B"
+        ],
+        "game_link": "/us/game/2019-01-18/2",
+        "eliminated": 18936,
+        "advancing": 10087,
+        "correct_answers": 10087,
+        "incorrect_answers": 18936
+      },
+      {
+        "direct_link": "/us/game/2019-01-18/2/7",
+        "question_number": 7,
+        "text": "In the Car",
+        "answer": [
+          "BACK",
+          "SEAT",
+          "DRIVER"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "E"
+        ],
+        "game_link": "/us/game/2019-01-18/2",
+        "eliminated": 1280,
+        "advancing": 10520,
+        "correct_answers": 10520,
+        "incorrect_answers": 1280
+      },
+      {
+        "direct_link": "/us/game/2019-01-18/2/8",
+        "question_number": 8,
+        "text": "In That Fancy Home",
+        "answer": [
+          "SALTWATER",
+          "AQUARIUM"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "Q"
+        ],
+        "game_link": "/us/game/2019-01-18/2",
+        "eliminated": 2748,
+        "advancing": 7931,
+        "correct_answers": 7931,
+        "incorrect_answers": 2748
+      },
+      {
+        "direct_link": "/us/game/2019-01-18/2/9",
+        "question_number": 9,
+        "text": "Chinese Takeout",
+        "answer": [
+          "WOODEN",
+          "CHOPSTICKS"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "K",
+          "N"
+        ],
+        "game_link": "/us/game/2019-01-18/2",
+        "eliminated": 3237,
+        "advancing": 5164,
+        "correct_answers": 5164,
+        "incorrect_answers": 3237
+      },
+      {
+        "direct_link": "/us/game/2019-01-18/2/10",
+        "question_number": 10,
+        "text": "Bookstore Section",
+        "answer": [
+          "YOUNG",
+          "ADULT",
+          "FICTION"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "L"
+        ],
+        "game_link": "/us/game/2019-01-18/2",
+        "eliminated": 2197,
+        "advancing": 3746,
+        "correct_answers": 3746,
+        "incorrect_answers": 2197
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

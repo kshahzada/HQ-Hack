@@ -1,0 +1,1463 @@
+[
+  {
+    "id": 54819,
+    "show_id": 9640,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-02-17T19:00:00Z",
+    "direct_link": "/us/game/2019-02-17/1",
+    "time": " 2:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,110",
+      "currency": "$",
+      "average_prize": "0.90"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "NASCAR",
+        "slug": "nascar"
+      },
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 47401,
+        "text": "What type of flag is waved to mark the end of a NASCAR race?",
+        "question_number": 1,
+        "eliminated": "-4,543",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "128,631",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142096,
+            "text": "Checkered",
+            "correct": true,
+            "count": "122,262",
+            "percent": "98.53%"
+          },
+          {
+            "id": 142099,
+            "text": "Polka dot",
+            "correct": false,
+            "count": "1,338",
+            "percent": "1.08%"
+          },
+          {
+            "id": 142101,
+            "text": "Swedish",
+            "correct": false,
+            "count": "488",
+            "percent": "0.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/1/1",
+        "game_link": "/us/game/2019-02-17/1",
+        "correct_answers": 122262,
+        "incorrect_answers": 1826,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47408,
+        "text": "What announcer likes to start races with the catchphrase, âBoogity, boogity, boogityâ?",
+        "question_number": 2,
+        "eliminated": "1,233",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "127,461",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142119,
+            "text": "Mike Joy",
+            "correct": false,
+            "count": "12,128",
+            "percent": "9.89%"
+          },
+          {
+            "id": 142120,
+            "text": "Darrell Waltrip",
+            "correct": true,
+            "count": "95,165",
+            "percent": "77.59%"
+          },
+          {
+            "id": 142122,
+            "text": "Ken Squier",
+            "correct": false,
+            "count": "15,351",
+            "percent": "12.52%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/1/2",
+        "game_link": "/us/game/2019-02-17/1",
+        "correct_answers": 95165,
+        "incorrect_answers": 27479,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47416,
+        "text": "What marking is put on a car to signify a rookie driver?",
+        "question_number": 3,
+        "eliminated": "3,491",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "124,016",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142143,
+            "text": "Green bumper",
+            "correct": false,
+            "count": "23,645",
+            "percent": "19.95%"
+          },
+          {
+            "id": 142144,
+            "text": "White âRâ decal",
+            "correct": false,
+            "count": "22,794",
+            "percent": "19.23%"
+          },
+          {
+            "id": 142147,
+            "text": "Yellow stripe",
+            "correct": true,
+            "count": "72,080",
+            "percent": "60.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/1/3",
+        "game_link": "/us/game/2019-02-17/1",
+        "correct_answers": 72080,
+        "incorrect_answers": 46439,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47424,
+        "text": "Who was the first woman to compete in a NASCAR Cup Series race at the highest level?",
+        "question_number": 4,
+        "eliminated": "7,825",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "116,347",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142167,
+            "text": "Courtney Force",
+            "correct": false,
+            "count": "5,950",
+            "percent": "5.21%"
+          },
+          {
+            "id": 142169,
+            "text": "Danica Patrick",
+            "correct": false,
+            "count": "77,628",
+            "percent": "67.99%"
+          },
+          {
+            "id": 142172,
+            "text": "Janet Guthrie",
+            "correct": true,
+            "count": "30,592",
+            "percent": "26.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/1/4",
+        "game_link": "/us/game/2019-02-17/1",
+        "correct_answers": 30592,
+        "incorrect_answers": 83578,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47433,
+        "text": "What nickname is associated with the 2018 Cup Series champion?",
+        "question_number": 5,
+        "eliminated": "7,462",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "110,496",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142192,
+            "text": "Sliced Bread",
+            "correct": true,
+            "count": "40,649",
+            "percent": "38.92%"
+          },
+          {
+            "id": 142195,
+            "text": "Wild Thing",
+            "correct": false,
+            "count": "40,980",
+            "percent": "39.24%"
+          },
+          {
+            "id": 142198,
+            "text": "The Cuban Missile",
+            "correct": false,
+            "count": "22,809",
+            "percent": "21.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/1/5",
+        "game_link": "/us/game/2019-02-17/1",
+        "correct_answers": 40649,
+        "incorrect_answers": 63789,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47440,
+        "text": "What carmaker has won the greatest number of Manufacturers Championships?",
+        "question_number": 6,
+        "eliminated": "24,967",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "85,978",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142215,
+            "text": "Chevrolet",
+            "correct": true,
+            "count": "55,294",
+            "percent": "54.94%"
+          },
+          {
+            "id": 142218,
+            "text": "Dodge",
+            "correct": false,
+            "count": "12,839",
+            "percent": "12.76%"
+          },
+          {
+            "id": 142220,
+            "text": "Ford",
+            "correct": false,
+            "count": "32,507",
+            "percent": "32.3%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/1/6",
+        "game_link": "/us/game/2019-02-17/1",
+        "correct_answers": 55294,
+        "incorrect_answers": 45346,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47448,
+        "text": "Which of these tracks is NOT considered an oval?",
+        "question_number": 7,
+        "eliminated": "34,204",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "53,094",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142239,
+            "text": "Rockingham Speedway",
+            "correct": false,
+            "count": "10,540",
+            "percent": "12.74%"
+          },
+          {
+            "id": 142240,
+            "text": "Watkins Glen",
+            "correct": true,
+            "count": "53,083",
+            "percent": "64.18%"
+          },
+          {
+            "id": 142241,
+            "text": "Memphis International",
+            "correct": false,
+            "count": "19,088",
+            "percent": "23.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/1/7",
+        "game_link": "/us/game/2019-02-17/1",
+        "correct_answers": 53083,
+        "incorrect_answers": 29628,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47456,
+        "text": "Who received the highest percentage of votes for induction into the NASCAR Hall of Fame?",
+        "question_number": 8,
+        "eliminated": "25,036",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "29,104",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142263,
+            "text": "Jack Roush",
+            "correct": false,
+            "count": "6,502",
+            "percent": "12.31%"
+          },
+          {
+            "id": 142267,
+            "text": "Jeff Gordon",
+            "correct": true,
+            "count": "29,104",
+            "percent": "55.11%"
+          },
+          {
+            "id": 142272,
+            "text": "Roger Penske",
+            "correct": false,
+            "count": "17,203",
+            "percent": "32.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/1/8",
+        "game_link": "/us/game/2019-02-17/1",
+        "correct_answers": 29104,
+        "incorrect_answers": 23705,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47464,
+        "text": "What Allison racing family member was driving the car involved in this famous crash and fight?",
+        "question_number": 9,
+        "eliminated": "23,274",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "7,318",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142287,
+            "text": "Bobby",
+            "correct": false,
+            "count": "15,481",
+            "percent": "51.09%"
+          },
+          {
+            "id": 142289,
+            "text": "Donnie",
+            "correct": true,
+            "count": "7,318",
+            "percent": "24.15%"
+          },
+          {
+            "id": 142292,
+            "text": "Davey",
+            "correct": false,
+            "count": "7,503",
+            "percent": "24.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/1/9",
+        "game_link": "/us/game/2019-02-17/1",
+        "correct_answers": 7318,
+        "incorrect_answers": 22984,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47473,
+        "text": "Which of these speedway tracks is the shortest?",
+        "question_number": 10,
+        "eliminated": "6,414",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "3,746",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142312,
+            "text": "Eldora",
+            "correct": true,
+            "count": "3,746",
+            "percent": "37.3%"
+          },
+          {
+            "id": 142314,
+            "text": "Chicagoland",
+            "correct": false,
+            "count": "893",
+            "percent": "8.89%"
+          },
+          {
+            "id": 142319,
+            "text": "Martinsville",
+            "correct": false,
+            "count": "5,404",
+            "percent": "53.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/1/10",
+        "game_link": "/us/game/2019-02-17/1",
+        "correct_answers": 3746,
+        "incorrect_answers": 6297,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47480,
+        "text": "Who holds the record for most times voted NASCARâs Most Popular Driver?",
+        "question_number": 11,
+        "eliminated": "2,084",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,563",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142335,
+            "text": "Dale Earnhardt Jr.",
+            "correct": false,
+            "count": "1,627",
+            "percent": "35.25%"
+          },
+          {
+            "id": 142337,
+            "text": "Richard Petty",
+            "correct": false,
+            "count": "426",
+            "percent": "9.23%"
+          },
+          {
+            "id": 142344,
+            "text": "Bill Elliott",
+            "correct": true,
+            "count": "2,563",
+            "percent": "55.52%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/1/11",
+        "game_link": "/us/game/2019-02-17/1",
+        "correct_answers": 2563,
+        "incorrect_answers": 2053,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47488,
+        "text": "Who won the Daytona 500 from the worst starting position?",
+        "question_number": 12,
+        "eliminated": "1,845",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,110",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142359,
+            "text": "Jimmie Johnson",
+            "correct": false,
+            "count": "1,013",
+            "percent": "34.55%"
+          },
+          {
+            "id": 142362,
+            "text": "Matt Kenseth",
+            "correct": true,
+            "count": "1,110",
+            "percent": "37.86%"
+          },
+          {
+            "id": 142367,
+            "text": "Kevin Harvick",
+            "correct": false,
+            "count": "809",
+            "percent": "27.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/1/12",
+        "game_link": "/us/game/2019-02-17/1",
+        "correct_answers": 1110,
+        "incorrect_answers": 1822,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 54938,
+    "show_id": 9648,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "10,000",
+    "currency": "$",
+    "start_time": "2019-02-18T02:00:00Z",
+    "direct_link": "/us/game/2019-02-17/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "368",
+      "currency": "$",
+      "average_prize": "27.17"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "questions": [
+      {
+        "id": 47496,
+        "text": "What type of creature is Nemo in âFinding Nemoâ?",
+        "question_number": 1,
+        "eliminated": "-12,019",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "560,215",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142383,
+            "text": "Trash robot",
+            "correct": false,
+            "count": "2,067",
+            "percent": "0.38%"
+          },
+          {
+            "id": 142384,
+            "text": "Car",
+            "correct": false,
+            "count": "3,524",
+            "percent": "0.64%"
+          },
+          {
+            "id": 142385,
+            "text": "Fish",
+            "correct": true,
+            "count": "542,605",
+            "percent": "98.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/2/1",
+        "game_link": "/us/game/2019-02-17/2",
+        "correct_answers": 542605,
+        "incorrect_answers": 5591,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47504,
+        "text": "Which of these is one of Buzzâs catchphrases in âToy Storyâ?",
+        "question_number": 2,
+        "eliminated": "2,144",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "558,292",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142407,
+            "text": "Iâll be back",
+            "correct": false,
+            "count": "3,894",
+            "percent": "0.71%"
+          },
+          {
+            "id": 142409,
+            "text": "To infinity, and beyond!",
+            "correct": true,
+            "count": "541,573",
+            "percent": "98.79%"
+          },
+          {
+            "id": 142411,
+            "text": "Yo Adrian!",
+            "correct": false,
+            "count": "2,766",
+            "percent": "0.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/2/2",
+        "game_link": "/us/game/2019-02-17/2",
+        "correct_answers": 541573,
+        "incorrect_answers": 6660,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47513,
+        "text": "Which of these is one of the five personified emotions in âInside Outâ?",
+        "question_number": 3,
+        "eliminated": "11,728",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "546,673",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142432,
+            "text": "Sleepiness",
+            "correct": false,
+            "count": "23,512",
+            "percent": "4.32%"
+          },
+          {
+            "id": 142434,
+            "text": "Surprise",
+            "correct": false,
+            "count": "32,212",
+            "percent": "5.92%"
+          },
+          {
+            "id": 142436,
+            "text": "Joy",
+            "correct": true,
+            "count": "488,250",
+            "percent": "89.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/2/3",
+        "game_link": "/us/game/2019-02-17/2",
+        "correct_answers": 488250,
+        "incorrect_answers": 55724,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47521,
+        "text": "What holiday is celebrated in âCocoâ?",
+        "question_number": 4,
+        "eliminated": "6,927",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "540,363",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142458,
+            "text": "Day of the Dead",
+            "correct": true,
+            "count": "502,771",
+            "percent": "94.31%"
+          },
+          {
+            "id": 142460,
+            "text": "New Yearâs Day",
+            "correct": false,
+            "count": "17,004",
+            "percent": "3.19%"
+          },
+          {
+            "id": 142462,
+            "text": "Groundhog Day",
+            "correct": false,
+            "count": "13,311",
+            "percent": "2.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/2/4",
+        "game_link": "/us/game/2019-02-17/2",
+        "correct_answers": 502771,
+        "incorrect_answers": 30315,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47528,
+        "text": "What is the name of the villain in âThe Incrediblesâ?",
+        "question_number": 5,
+        "eliminated": "28,433",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "512,227",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142479,
+            "text": "Symptome",
+            "correct": false,
+            "count": "33,862",
+            "percent": "6.45%"
+          },
+          {
+            "id": 142480,
+            "text": "Syndrome",
+            "correct": true,
+            "count": "436,772",
+            "percent": "83.22%"
+          },
+          {
+            "id": 142481,
+            "text": "Symbiote",
+            "correct": false,
+            "count": "54,203",
+            "percent": "10.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/2/5",
+        "game_link": "/us/game/2019-02-17/2",
+        "correct_answers": 436772,
+        "incorrect_answers": 88065,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47537,
+        "text": "Which Pixar short famously centers around a dumpling?",
+        "question_number": 6,
+        "eliminated": "89,733",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "424,356",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142506,
+            "text": "Presto",
+            "correct": false,
+            "count": "77,632",
+            "percent": "15.49%"
+          },
+          {
+            "id": 142507,
+            "text": "Bao",
+            "correct": true,
+            "count": "370,371",
+            "percent": "73.9%"
+          },
+          {
+            "id": 142508,
+            "text": "Piper",
+            "correct": false,
+            "count": "53,201",
+            "percent": "10.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/2/6",
+        "game_link": "/us/game/2019-02-17/2",
+        "correct_answers": 370371,
+        "incorrect_answers": 130833,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47544,
+        "text": "The actress who voices the Axiom computer in Wall-E plays an unseen character in what other film?",
+        "question_number": 7,
+        "eliminated": "312,130",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "120,349",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142527,
+            "text": "Toy Story",
+            "correct": false,
+            "count": "109,929",
+            "percent": "26.6%"
+          },
+          {
+            "id": 142529,
+            "text": "Cars",
+            "correct": false,
+            "count": "183,292",
+            "percent": "44.35%"
+          },
+          {
+            "id": 142531,
+            "text": "Finding Dory",
+            "correct": true,
+            "count": "120,029",
+            "percent": "29.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/2/7",
+        "game_link": "/us/game/2019-02-17/2",
+        "correct_answers": 120029,
+        "incorrect_answers": 293221,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47553,
+        "text": "âA Bugâs Lifeâ was the first Pixar movie to do what?",
+        "question_number": 8,
+        "eliminated": "79,626",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "97,110",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142554,
+            "text": "Show outtakes",
+            "correct": true,
+            "count": "97,110",
+            "percent": "55.85%"
+          },
+          {
+            "id": 142557,
+            "text": "Show a live-action actor",
+            "correct": false,
+            "count": "13,444",
+            "percent": "7.73%"
+          },
+          {
+            "id": 142561,
+            "text": "Win an Oscar",
+            "correct": false,
+            "count": "63,327",
+            "percent": "36.42%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/2/8",
+        "game_link": "/us/game/2019-02-17/2",
+        "correct_answers": 97110,
+        "incorrect_answers": 76771,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47561,
+        "text": "What is NOT one of the stations assigned by Remy to his rat cooks in âRatatouilleâ?",
+        "question_number": 9,
+        "eliminated": "93,429",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "13,655",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142576,
+            "text": "Fish",
+            "correct": false,
+            "count": "54,731",
+            "percent": "52.04%"
+          },
+          {
+            "id": 142578,
+            "text": "Roasted items",
+            "correct": false,
+            "count": "36,781",
+            "percent": "34.97%"
+          },
+          {
+            "id": 142580,
+            "text": "Vegetables",
+            "correct": true,
+            "count": "13,655",
+            "percent": "12.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/2/9",
+        "game_link": "/us/game/2019-02-17/2",
+        "correct_answers": 13655,
+        "incorrect_answers": 91512,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47570,
+        "text": "Randy Newman won his first Oscar for a song he wrote for which film?",
+        "question_number": 10,
+        "eliminated": "23,030",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "5,454",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142601,
+            "text": "Monsters, Inc.",
+            "correct": true,
+            "count": "5,454",
+            "percent": "19.28%"
+          },
+          {
+            "id": 142609,
+            "text": "Cars",
+            "correct": false,
+            "count": "2,241",
+            "percent": "7.92%"
+          },
+          {
+            "id": 142616,
+            "text": "Toy Story",
+            "correct": false,
+            "count": "20,587",
+            "percent": "72.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/2/10",
+        "game_link": "/us/game/2019-02-17/2",
+        "correct_answers": 5454,
+        "incorrect_answers": 22828,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47578,
+        "text": "What does the CDA team give the â2319â monster in âMonsters, Incâ?",
+        "question_number": 11,
+        "eliminated": "2,879",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "4,898",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142627,
+            "text": "Shower and shave",
+            "correct": true,
+            "count": "4,898",
+            "percent": "64.24%"
+          },
+          {
+            "id": 142634,
+            "text": "Glasses and wig",
+            "correct": false,
+            "count": "1,463",
+            "percent": "19.19%"
+          },
+          {
+            "id": 142639,
+            "text": "Hot towel",
+            "correct": false,
+            "count": "1,264",
+            "percent": "16.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/2/11",
+        "game_link": "/us/game/2019-02-17/2",
+        "correct_answers": 4898,
+        "incorrect_answers": 2727,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47585,
+        "text": "What does one of the potential suitors do to impress Merida in âBraveâ?",
+        "question_number": 12,
+        "eliminated": "3,444",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "1,753",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142650,
+            "text": "Snaps a wooden log",
+            "correct": true,
+            "count": "1,753",
+            "percent": "34.01%"
+          },
+          {
+            "id": 142653,
+            "text": "Walk on fire",
+            "correct": false,
+            "count": "1,596",
+            "percent": "30.97%"
+          },
+          {
+            "id": 142656,
+            "text": "Lift a boulder",
+            "correct": false,
+            "count": "1,805",
+            "percent": "35.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/2/12",
+        "game_link": "/us/game/2019-02-17/2",
+        "correct_answers": 1753,
+        "incorrect_answers": 3401,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47592,
+        "text": "Which Pixar film hinted at the never-made Pixar feature âNewtâ?",
+        "question_number": 13,
+        "eliminated": "1,243",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "812",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142671,
+            "text": "Cars 2",
+            "correct": false,
+            "count": "458",
+            "percent": "22.43%"
+          },
+          {
+            "id": 142672,
+            "text": "Toy Story 3",
+            "correct": true,
+            "count": "812",
+            "percent": "39.76%"
+          },
+          {
+            "id": 142674,
+            "text": "Monsters University",
+            "correct": false,
+            "count": "772",
+            "percent": "37.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/2/13",
+        "game_link": "/us/game/2019-02-17/2",
+        "correct_answers": 812,
+        "incorrect_answers": 1230,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47600,
+        "text": "What stylish accessory does Bing Bong sport in âInside Outâ?",
+        "question_number": 14,
+        "eliminated": "334",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "572",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142695,
+            "text": "Rainbow belt",
+            "correct": false,
+            "count": "85",
+            "percent": "9.44%"
+          },
+          {
+            "id": 142696,
+            "text": "Fingerless gloves",
+            "correct": true,
+            "count": "572",
+            "percent": "63.56%"
+          },
+          {
+            "id": 142699,
+            "text": "Striped tie",
+            "correct": false,
+            "count": "243",
+            "percent": "27.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/2/14",
+        "game_link": "/us/game/2019-02-17/2",
+        "correct_answers": 572,
+        "incorrect_answers": 328,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 47609,
+        "text": "According to Andy in the final scene of âToy Story 3,â what makes Woody special?",
+        "question_number": 15,
+        "eliminated": "233",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "368",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 142720,
+            "text": "He knows just what to do",
+            "correct": false,
+            "count": "133",
+            "percent": "22.32%"
+          },
+          {
+            "id": 142728,
+            "text": "Heâs a real cowboy",
+            "correct": false,
+            "count": "95",
+            "percent": "15.94%"
+          },
+          {
+            "id": 142736,
+            "text": "He'll be there for you",
+            "correct": true,
+            "count": "368",
+            "percent": "61.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-17/2/15",
+        "game_link": "/us/game/2019-02-17/2",
+        "correct_answers": 368,
+        "incorrect_answers": 228,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 55081,
+    "show_id": 9686,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-02-18T02:20:00Z",
+    "direct_link": "/us/game/2019-02-17/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "49.71"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "66.69"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "69.82"
+        },
+        {
+          "number": "34,422",
+          "amount": "0.02",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.02251270878721859,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:20 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-02-17/3/1",
+        "question_number": 1,
+        "text": "â90s Movie Dog",
+        "answer": [
+          "BEETHOVEN"
+        ],
+        "initial_letters": [
+          "B"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "T"
+        ],
+        "game_link": "/us/game/2019-02-17/3",
+        "eliminated": 29120,
+        "advancing": 174468,
+        "correct_answers": 174468,
+        "incorrect_answers": 29120
+      },
+      {
+        "direct_link": "/us/game/2019-02-17/3/2",
+        "question_number": 2,
+        "text": "Fictional Boxer",
+        "answer": [
+          "ROCY",
+          "BALBOA"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-02-17/3",
+        "eliminated": 27471,
+        "advancing": 148064,
+        "correct_answers": 148064,
+        "incorrect_answers": 27471
+      },
+      {
+        "direct_link": "/us/game/2019-02-17/3/3",
+        "question_number": 3,
+        "text": "âYoung Dumbledoreâ Actor",
+        "answer": [
+          "JUDE",
+          "LAW"
+        ],
+        "initial_letters": [
+          " ",
+          "J"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "L"
+        ],
+        "game_link": "/us/game/2019-02-17/3",
+        "eliminated": 37253,
+        "advancing": 111232,
+        "correct_answers": 111232,
+        "incorrect_answers": 37253
+      },
+      {
+        "direct_link": "/us/game/2019-02-17/3/4",
+        "question_number": 4,
+        "text": "Soft Illumination",
+        "answer": [
+          "MOONLIGHT"
+        ],
+        "initial_letters": [
+          "M"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "I"
+        ],
+        "game_link": "/us/game/2019-02-17/3",
+        "eliminated": 6326,
+        "advancing": 106067,
+        "correct_answers": 106067,
+        "incorrect_answers": 6326
+      },
+      {
+        "direct_link": "/us/game/2019-02-17/3/5",
+        "question_number": 5,
+        "text": "Impolite Expression",
+        "answer": [
+          "GO",
+          "FLY",
+          "A",
+          "KITE"
+        ],
+        "initial_letters": [
+          " ",
+          "F"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "L"
+        ],
+        "game_link": "/us/game/2019-02-17/3",
+        "eliminated": 22138,
+        "advancing": 84099,
+        "correct_answers": 84099,
+        "incorrect_answers": 22138
+      },
+      {
+        "direct_link": "/us/game/2019-02-17/3/6",
+        "question_number": 6,
+        "text": "Pretty Drab Color",
+        "answer": [
+          "MUSTARD",
+          "YELLOW"
+        ],
+        "initial_letters": [
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "U",
+          "W"
+        ],
+        "game_link": "/us/game/2019-02-17/3",
+        "eliminated": 13277,
+        "advancing": 71738,
+        "correct_answers": 71738,
+        "incorrect_answers": 13277
+      },
+      {
+        "direct_link": "/us/game/2019-02-17/3/7",
+        "question_number": 7,
+        "text": "Summertime Drink",
+        "answer": [
+          "FROZEN",
+          "MARGARITA"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "O"
+        ],
+        "game_link": "/us/game/2019-02-17/3",
+        "eliminated": 28243,
+        "advancing": 44162,
+        "correct_answers": 44162,
+        "incorrect_answers": 28243
+      },
+      {
+        "direct_link": "/us/game/2019-02-17/3/8",
+        "question_number": 8,
+        "text": "Famous First Lady",
+        "answer": [
+          "ELEANOR",
+          "ROOSEVELT"
+        ],
+        "initial_letters": [
+          " ",
+          "V"
+        ],
+        "to_reveal_letters": [
+          "R",
+          "T"
+        ],
+        "game_link": "/us/game/2019-02-17/3",
+        "eliminated": 1497,
+        "advancing": 44878,
+        "correct_answers": 44878,
+        "incorrect_answers": 1497
+      },
+      {
+        "direct_link": "/us/game/2019-02-17/3/9",
+        "question_number": 9,
+        "text": "âPeanutsâ Frenemies",
+        "answer": [
+          "LUCY",
+          "/",
+          "CHARLIE",
+          "BROWN"
+        ],
+        "initial_letters": [
+          " ",
+          "/",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "W"
+        ],
+        "game_link": "/us/game/2019-02-17/3",
+        "eliminated": 4674,
+        "advancing": 40346,
+        "correct_answers": 40346,
+        "incorrect_answers": 4674
+      },
+      {
+        "direct_link": "/us/game/2019-02-17/3/10",
+        "question_number": 10,
+        "text": "This Game's Theme",
+        "answer": [
+          "TITLES",
+          "OF",
+          "BEATLES",
+          "SONGS"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "E"
+        ],
+        "game_link": "/us/game/2019-02-17/3",
+        "eliminated": 6720,
+        "advancing": 34425,
+        "correct_answers": 34425,
+        "incorrect_answers": 6720
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

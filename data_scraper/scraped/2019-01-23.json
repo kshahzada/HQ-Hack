@@ -1,0 +1,1341 @@
+[
+  {
+    "id": 46167,
+    "show_id": 9356,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "0",
+    "currency": "$",
+    "start_time": "2019-01-24T00:00:00Z",
+    "direct_link": "/us/game/2019-01-23/1",
+    "time": " 7:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "64",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 43576,
+        "text": "Which of these positions usually does NOT wear any gloves?",
+        "question_number": 1,
+        "eliminated": "56",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "107,031",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 130623,
+            "text": "NBA point guard",
+            "correct": true,
+            "count": "100,461",
+            "percent": "94.87%"
+          },
+          {
+            "id": 130626,
+            "text": "NHL goalie",
+            "correct": false,
+            "count": "1,789",
+            "percent": "1.69%"
+          },
+          {
+            "id": 130628,
+            "text": "NFL wide receiver",
+            "correct": false,
+            "count": "3,642",
+            "percent": "3.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/1/1",
+        "game_link": "/us/game/2019-01-23/1",
+        "correct_answers": 100461,
+        "incorrect_answers": 5431,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43588,
+        "text": "What tennis player announced his plans to retire after this yearâs Wimbledon?",
+        "question_number": 2,
+        "eliminated": "12,007",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "95,284",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 130659,
+            "text": "Pete Sampras",
+            "correct": false,
+            "count": "16,641",
+            "percent": "16.46%"
+          },
+          {
+            "id": 130662,
+            "text": "Andy Murray",
+            "correct": true,
+            "count": "74,437",
+            "percent": "73.63%"
+          },
+          {
+            "id": 130666,
+            "text": "BjÃ¶rn Borg",
+            "correct": false,
+            "count": "10,023",
+            "percent": "9.91%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/1/2",
+        "game_link": "/us/game/2019-01-23/1",
+        "correct_answers": 74437,
+        "incorrect_answers": 26664,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43592,
+        "text": "The NBAâs all-time leader in assists played his entire career for what team?",
+        "question_number": 3,
+        "eliminated": "30,953",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "64,767",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 130671,
+            "text": "Detroit Pistons",
+            "correct": false,
+            "count": "8,662",
+            "percent": "9.62%"
+          },
+          {
+            "id": 130673,
+            "text": "Los Angeles Lakers",
+            "correct": false,
+            "count": "28,232",
+            "percent": "31.35%"
+          },
+          {
+            "id": 130675,
+            "text": "Utah Jazz",
+            "correct": true,
+            "count": "53,174",
+            "percent": "59.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/1/3",
+        "game_link": "/us/game/2019-01-23/1",
+        "correct_answers": 53174,
+        "incorrect_answers": 36894,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43600,
+        "text": "Edgar Martinez twice led the major leagues in what category?",
+        "question_number": 4,
+        "eliminated": "31,807",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "34,737",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 130695,
+            "text": "Hits",
+            "correct": false,
+            "count": "17,821",
+            "percent": "28.0%"
+          },
+          {
+            "id": 130696,
+            "text": "Doubles",
+            "correct": true,
+            "count": "30,912",
+            "percent": "48.56%"
+          },
+          {
+            "id": 130698,
+            "text": "Walks",
+            "correct": false,
+            "count": "14,919",
+            "percent": "23.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/1/4",
+        "game_link": "/us/game/2019-01-23/1",
+        "correct_answers": 30912,
+        "incorrect_answers": 32740,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43612,
+        "text": "What woman won three consecutive Concacaf awards for North American soccer player of the year?",
+        "question_number": 5,
+        "eliminated": "27,757",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "9,930",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 130731,
+            "text": "Alex Morgan",
+            "correct": true,
+            "count": "9,920",
+            "percent": "27.64%"
+          },
+          {
+            "id": 130734,
+            "text": "Carli Lloyd",
+            "correct": false,
+            "count": "4,717",
+            "percent": "13.14%"
+          },
+          {
+            "id": 130739,
+            "text": "Abby Wambach",
+            "correct": false,
+            "count": "21,255",
+            "percent": "59.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/1/5",
+        "game_link": "/us/game/2019-01-23/1",
+        "correct_answers": 9920,
+        "incorrect_answers": 25972,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43620,
+        "text": "Which of these athletes was both a WWE champion and a US Olympian?",
+        "question_number": 6,
+        "eliminated": "5,391",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "7,027",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 130755,
+            "text": "Mark Henry",
+            "correct": true,
+            "count": "7,027",
+            "percent": "57.72%"
+          },
+          {
+            "id": 130757,
+            "text": "Brock Lesner",
+            "correct": false,
+            "count": "4,335",
+            "percent": "35.61%"
+          },
+          {
+            "id": 130761,
+            "text": "Dwayne Johnson",
+            "correct": false,
+            "count": "813",
+            "percent": "6.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/1/6",
+        "game_link": "/us/game/2019-01-23/1",
+        "correct_answers": 7027,
+        "incorrect_answers": 5148,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43625,
+        "text": "Which of these players does NOT usually shoot left-handed?",
+        "question_number": 7,
+        "eliminated": "4,756",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,725",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 130767,
+            "text": "Sidney Crosby",
+            "correct": false,
+            "count": "1,345",
+            "percent": "18.44%"
+          },
+          {
+            "id": 130777,
+            "text": "Alex Ovechkin",
+            "correct": true,
+            "count": "2,725",
+            "percent": "37.36%"
+          },
+          {
+            "id": 130784,
+            "text": "Connor McDavid",
+            "correct": false,
+            "count": "3,223",
+            "percent": "44.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/1/7",
+        "game_link": "/us/game/2019-01-23/1",
+        "correct_answers": 2725,
+        "incorrect_answers": 4568,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43635,
+        "text": "Which of these AL Central teams actually plays home games in the Central Time Zone?",
+        "question_number": 8,
+        "eliminated": "966",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,337",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 130799,
+            "text": "Royals",
+            "correct": true,
+            "count": "2,337",
+            "percent": "72.33%"
+          },
+          {
+            "id": 130802,
+            "text": "Indians",
+            "correct": false,
+            "count": "369",
+            "percent": "11.42%"
+          },
+          {
+            "id": 130806,
+            "text": "Tigers",
+            "correct": false,
+            "count": "525",
+            "percent": "16.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/1/8",
+        "game_link": "/us/game/2019-01-23/1",
+        "correct_answers": 2337,
+        "incorrect_answers": 894,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43640,
+        "text": "Which of these players from the class of 2011 has the highest career QB rating?",
+        "question_number": 9,
+        "eliminated": "1,353",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,079",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 130813,
+            "text": "Colin Kaepernick",
+            "correct": true,
+            "count": "1,079",
+            "percent": "45.26%"
+          },
+          {
+            "id": 130817,
+            "text": "Andy Dalton",
+            "correct": false,
+            "count": "700",
+            "percent": "29.36%"
+          },
+          {
+            "id": 130826,
+            "text": "Cam Newton",
+            "correct": false,
+            "count": "605",
+            "percent": "25.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/1/9",
+        "game_link": "/us/game/2019-01-23/1",
+        "correct_answers": 1079,
+        "incorrect_answers": 1305,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43647,
+        "text": "Who led MLB in both Fangraphs and Baseball Reference WAR last year?",
+        "question_number": 10,
+        "eliminated": "642",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "627",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 130836,
+            "text": "Mookie Betts",
+            "correct": true,
+            "count": "627",
+            "percent": "50.04%"
+          },
+          {
+            "id": 130838,
+            "text": "Mike Trout",
+            "correct": false,
+            "count": "301",
+            "percent": "24.02%"
+          },
+          {
+            "id": 130841,
+            "text": "Jacob DeGrom",
+            "correct": false,
+            "count": "325",
+            "percent": "25.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/1/10",
+        "game_link": "/us/game/2019-01-23/1",
+        "correct_answers": 627,
+        "incorrect_answers": 626,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43655,
+        "text": "Which of these NFL teams had a player selected to the 2019 Pro Bowl?",
+        "question_number": 11,
+        "eliminated": "451",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "274",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 130860,
+            "text": "Raiders",
+            "correct": false,
+            "count": "125",
+            "percent": "17.51%"
+          },
+          {
+            "id": 130864,
+            "text": "Cardinals",
+            "correct": true,
+            "count": "274",
+            "percent": "38.38%"
+          },
+          {
+            "id": 130868,
+            "text": "Bills",
+            "correct": false,
+            "count": "315",
+            "percent": "44.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/1/11",
+        "game_link": "/us/game/2019-01-23/1",
+        "correct_answers": 274,
+        "incorrect_answers": 440,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43663,
+        "text": "The award for most points scored in an NHL season is named after a man who played what position?",
+        "question_number": 12,
+        "eliminated": "295",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "64",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 130884,
+            "text": "Wing",
+            "correct": false,
+            "count": "150",
+            "percent": "42.74%"
+          },
+          {
+            "id": 130893,
+            "text": "Center",
+            "correct": false,
+            "count": "137",
+            "percent": "39.03%"
+          },
+          {
+            "id": 130903,
+            "text": "Defense",
+            "correct": true,
+            "count": "64",
+            "percent": "18.23%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/1/12",
+        "game_link": "/us/game/2019-01-23/1",
+        "correct_answers": 64,
+        "incorrect_answers": 287,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 46286,
+    "show_id": 9369,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-01-24T02:00:00Z",
+    "direct_link": "/us/game/2019-01-23/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,505",
+      "currency": "$",
+      "average_prize": "0.40"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Music Videos",
+        "slug": "music-videos"
+      },
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "questions": [
+      {
+        "id": 43673,
+        "text": "What Michael Jackson music video is this?",
+        "question_number": 1,
+        "eliminated": "844",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "352,044",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 130913,
+            "text": "Man in the Mirror",
+            "correct": false,
+            "count": "9,040",
+            "percent": "2.59%"
+          },
+          {
+            "id": 130916,
+            "text": "Thriller",
+            "correct": true,
+            "count": "335,476",
+            "percent": "96.11%"
+          },
+          {
+            "id": 130918,
+            "text": "Bad",
+            "correct": false,
+            "count": "4,543",
+            "percent": "1.3%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/2/1",
+        "game_link": "/us/game/2019-01-23/2",
+        "correct_answers": 335476,
+        "incorrect_answers": 13583,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43683,
+        "text": "Who is the artist behind this music video?",
+        "question_number": 2,
+        "eliminated": "17,391",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "335,534",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 130944,
+            "text": "Lou Bega",
+            "correct": false,
+            "count": "20,052",
+            "percent": "5.81%"
+          },
+          {
+            "id": 130945,
+            "text": "Psy",
+            "correct": true,
+            "count": "309,446",
+            "percent": "89.71%"
+          },
+          {
+            "id": 130950,
+            "text": "t.a.T.u.",
+            "correct": false,
+            "count": "15,459",
+            "percent": "4.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/2/2",
+        "game_link": "/us/game/2019-01-23/2",
+        "correct_answers": 309446,
+        "incorrect_answers": 35511,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43689,
+        "text": "Which Britney Spears album includes this hit single?",
+        "question_number": 3,
+        "eliminated": "121,560",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "215,455",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 130962,
+            "text": "...Baby One More Time",
+            "correct": false,
+            "count": "37,804",
+            "percent": "11.57%"
+          },
+          {
+            "id": 130964,
+            "text": "Britney",
+            "correct": false,
+            "count": "116,798",
+            "percent": "35.74%"
+          },
+          {
+            "id": 130966,
+            "text": "In the Zone",
+            "correct": true,
+            "count": "172,217",
+            "percent": "52.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/2/3",
+        "game_link": "/us/game/2019-01-23/2",
+        "correct_answers": 172217,
+        "incorrect_answers": 154602,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43696,
+        "text": "The director of this music video also directed episodes of what TV show?",
+        "question_number": 4,
+        "eliminated": "81,479",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "149,754",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 130983,
+            "text": "Parks and Recreation",
+            "correct": false,
+            "count": "50,127",
+            "percent": "22.31%"
+          },
+          {
+            "id": 130988,
+            "text": "Master of None",
+            "correct": false,
+            "count": "29,265",
+            "percent": "13.03%"
+          },
+          {
+            "id": 130994,
+            "text": "Atlanta",
+            "correct": true,
+            "count": "145,242",
+            "percent": "64.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/2/4",
+        "game_link": "/us/game/2019-01-23/2",
+        "correct_answers": 145242,
+        "incorrect_answers": 79392,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43705,
+        "text": "In the video for Kanye Westâs âRunaway,â who rushes the screen after this moment?",
+        "question_number": 5,
+        "eliminated": "59,467",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "98,968",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131005,
+            "text": "Paparazzi",
+            "correct": false,
+            "count": "29,258",
+            "percent": "18.85%"
+          },
+          {
+            "id": 131007,
+            "text": "Kim Kardashian",
+            "correct": false,
+            "count": "27,040",
+            "percent": "17.42%"
+          },
+          {
+            "id": 131010,
+            "text": "Ballerinas",
+            "correct": true,
+            "count": "98,937",
+            "percent": "63.73%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/2/5",
+        "game_link": "/us/game/2019-01-23/2",
+        "correct_answers": 98937,
+        "incorrect_answers": 56298,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43715,
+        "text": "What does BeyoncÃ© smash after taking a bat to the car in this music video?",
+        "question_number": 6,
+        "eliminated": "42,800",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "62,699",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131040,
+            "text": "Stop sign",
+            "correct": false,
+            "count": "9,541",
+            "percent": "9.19%"
+          },
+          {
+            "id": 131042,
+            "text": "Store window",
+            "correct": false,
+            "count": "31,542",
+            "percent": "30.39%"
+          },
+          {
+            "id": 131046,
+            "text": "Fire hydrant",
+            "correct": true,
+            "count": "62,699",
+            "percent": "60.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/2/6",
+        "game_link": "/us/game/2019-01-23/2",
+        "correct_answers": 62699,
+        "incorrect_answers": 41083,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43719,
+        "text": "Where does this music video take place?",
+        "question_number": 7,
+        "eliminated": "7,420",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "60,667",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131053,
+            "text": "Malibu",
+            "correct": false,
+            "count": "4,517",
+            "percent": "6.68%"
+          },
+          {
+            "id": 131061,
+            "text": "Miami",
+            "correct": true,
+            "count": "60,667",
+            "percent": "89.72%"
+          },
+          {
+            "id": 131067,
+            "text": "Maui",
+            "correct": false,
+            "count": "2,431",
+            "percent": "3.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/2/7",
+        "game_link": "/us/game/2019-01-23/2",
+        "correct_answers": 60667,
+        "incorrect_answers": 6948,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43730,
+        "text": "Who makes a surprise appearance in this LMFAO music video?",
+        "question_number": 8,
+        "eliminated": "14,605",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "47,102",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131088,
+            "text": "William Shatner",
+            "correct": false,
+            "count": "6,229",
+            "percent": "10.34%"
+          },
+          {
+            "id": 131090,
+            "text": "Ralph Macchio",
+            "correct": false,
+            "count": "6,924",
+            "percent": "11.49%"
+          },
+          {
+            "id": 131094,
+            "text": "David Hasselhoff",
+            "correct": true,
+            "count": "47,102",
+            "percent": "78.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/2/8",
+        "game_link": "/us/game/2019-01-23/2",
+        "correct_answers": 47102,
+        "incorrect_answers": 13153,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43737,
+        "text": "In the music video for âFriday,â which car seat does Rebecca Black end up taking?",
+        "question_number": 9,
+        "eliminated": "8,831",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "40,931",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131112,
+            "text": "Driverâs seat",
+            "correct": false,
+            "count": "2,397",
+            "percent": "4.85%"
+          },
+          {
+            "id": 131113,
+            "text": "Back seat",
+            "correct": true,
+            "count": "40,931",
+            "percent": "82.76%"
+          },
+          {
+            "id": 131117,
+            "text": "Front seat",
+            "correct": false,
+            "count": "6,131",
+            "percent": "12.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/2/9",
+        "game_link": "/us/game/2019-01-23/2",
+        "correct_answers": 40931,
+        "incorrect_answers": 8528,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43743,
+        "text": "What outfit is Olivia Newton-John next seen wearing in this music video?",
+        "question_number": 10,
+        "eliminated": "14,426",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "28,232",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131124,
+            "text": "Tennis whites",
+            "correct": true,
+            "count": "28,232",
+            "percent": "67.26%"
+          },
+          {
+            "id": 131127,
+            "text": "Ballet leotard",
+            "correct": false,
+            "count": "4,673",
+            "percent": "11.13%"
+          },
+          {
+            "id": 131131,
+            "text": "Tracksuit",
+            "correct": false,
+            "count": "9,067",
+            "percent": "21.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/2/10",
+        "game_link": "/us/game/2019-01-23/2",
+        "correct_answers": 28232,
+        "incorrect_answers": 13740,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43755,
+        "text": "Which superhero film does NOT star a woman who cameos in this Drake video?",
+        "question_number": 11,
+        "eliminated": "26,136",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "5,377",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131160,
+            "text": "Spiderman: Homecoming",
+            "correct": true,
+            "count": "5,377",
+            "percent": "17.45%"
+          },
+          {
+            "id": 131161,
+            "text": "Black Panther",
+            "correct": false,
+            "count": "4,332",
+            "percent": "14.06%"
+          },
+          {
+            "id": 131164,
+            "text": "Guardians of the Galaxy",
+            "correct": false,
+            "count": "21,107",
+            "percent": "68.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/2/11",
+        "game_link": "/us/game/2019-01-23/2",
+        "correct_answers": 5377,
+        "incorrect_answers": 25439,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 43759,
+        "text": "The director of this music video went on to direct a film version of what novel?",
+        "question_number": 12,
+        "eliminated": "10,179",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "2,505",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 131172,
+            "text": "Pet Sematary",
+            "correct": true,
+            "count": "2,505",
+            "percent": "20.1%"
+          },
+          {
+            "id": 131176,
+            "text": "Fight Club",
+            "correct": false,
+            "count": "4,607",
+            "percent": "36.97%"
+          },
+          {
+            "id": 131179,
+            "text": "American Psycho",
+            "correct": false,
+            "count": "5,349",
+            "percent": "42.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-23/2/12",
+        "game_link": "/us/game/2019-01-23/2",
+        "correct_answers": 2505,
+        "incorrect_answers": 9956,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 46405,
+    "show_id": 8153,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-01-24T02:30:00Z",
+    "direct_link": "/us/game/2019-01-23/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "73.12"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "73.80"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "73.81"
+        },
+        {
+          "number": "5,150",
+          "amount": "0.15",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.1503978265088298,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-01-23/3/1",
+        "question_number": 1,
+        "text": "Fish",
+        "answer": [
+          "SALMON"
+        ],
+        "initial_letters": [
+          "S"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "N"
+        ],
+        "game_link": "/us/game/2019-01-23/3",
+        "eliminated": 13729,
+        "advancing": 193629,
+        "correct_answers": 193629,
+        "incorrect_answers": 13729
+      },
+      {
+        "direct_link": "/us/game/2019-01-23/3/2",
+        "question_number": 2,
+        "text": "In The Human Body",
+        "answer": [
+          "BRAIN"
+        ],
+        "initial_letters": [
+          "B"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "R"
+        ],
+        "game_link": "/us/game/2019-01-23/3",
+        "eliminated": 18054,
+        "advancing": 176109,
+        "correct_answers": 176109,
+        "incorrect_answers": 18054
+      },
+      {
+        "direct_link": "/us/game/2019-01-23/3/3",
+        "question_number": 3,
+        "text": "Fantasy TV Show",
+        "answer": [
+          "GAME",
+          "OF",
+          "THRONES"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "M"
+        ],
+        "game_link": "/us/game/2019-01-23/3",
+        "eliminated": 10567,
+        "advancing": 165762,
+        "correct_answers": 165762,
+        "incorrect_answers": 10567
+      },
+      {
+        "direct_link": "/us/game/2019-01-23/3/4",
+        "question_number": 4,
+        "text": "Kitchen Pest",
+        "answer": [
+          "FRUIT",
+          "FLY"
+        ],
+        "initial_letters": [
+          " ",
+          "F"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-01-23/3",
+        "eliminated": 16094,
+        "advancing": 150006,
+        "correct_answers": 150006,
+        "incorrect_answers": 16094
+      },
+      {
+        "direct_link": "/us/game/2019-01-23/3/5",
+        "question_number": 5,
+        "text": "On Your Desk",
+        "answer": [
+          "QWERTY",
+          "KEYBOARD"
+        ],
+        "initial_letters": [
+          " ",
+          "Q"
+        ],
+        "to_reveal_letters": [
+          "T",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-01-23/3",
+        "eliminated": 74958,
+        "advancing": 75774,
+        "correct_answers": 75774,
+        "incorrect_answers": 74958
+      },
+      {
+        "direct_link": "/us/game/2019-01-23/3/6",
+        "question_number": 6,
+        "text": "Classic Food Combo",
+        "answer": [
+          "SAUSAGE",
+          "&",
+          "PEPPERS"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "P"
+        ],
+        "game_link": "/us/game/2019-01-23/3",
+        "eliminated": 25826,
+        "advancing": 53458,
+        "correct_answers": 53458,
+        "incorrect_answers": 25826
+      },
+      {
+        "direct_link": "/us/game/2019-01-23/3/7",
+        "question_number": 7,
+        "text": "At The Tailgate",
+        "answer": [
+          "CORNHOLE",
+          "COMPETITION"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "O"
+        ],
+        "game_link": "/us/game/2019-01-23/3",
+        "eliminated": 33286,
+        "advancing": 21775,
+        "correct_answers": 21775,
+        "incorrect_answers": 33286
+      },
+      {
+        "direct_link": "/us/game/2019-01-23/3/8",
+        "question_number": 8,
+        "text": "Modern Rivalry",
+        "answer": [
+          "HULU",
+          "VERSUS",
+          "NETFLIX"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "L"
+        ],
+        "game_link": "/us/game/2019-01-23/3",
+        "eliminated": 14289,
+        "advancing": 10241,
+        "correct_answers": 10241,
+        "incorrect_answers": 14289
+      },
+      {
+        "direct_link": "/us/game/2019-01-23/3/9",
+        "question_number": 9,
+        "text": "Sports Broadcast",
+        "answer": [
+          "THURSDAY",
+          "NIGHT",
+          "FOOTBALL"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-01-23/3",
+        "eliminated": 2512,
+        "advancing": 9371,
+        "correct_answers": 9371,
+        "incorrect_answers": 2512
+      },
+      {
+        "direct_link": "/us/game/2019-01-23/3/10",
+        "question_number": 10,
+        "text": "Burglar's Tools",
+        "answer": [
+          "CROWBAR,",
+          "LOCKPICK",
+          "&",
+          "HAMMER"
+        ],
+        "initial_letters": [
+          ",",
+          " ",
+          "&",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "H"
+        ],
+        "game_link": "/us/game/2019-01-23/3",
+        "eliminated": 4605,
+        "advancing": 5153,
+        "correct_answers": 5153,
+        "incorrect_answers": 4605
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

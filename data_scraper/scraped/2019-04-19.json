@@ -1,0 +1,956 @@
+[
+  {
+    "id": 97464,
+    "show_id": 10424,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-04-20T01:00:00Z",
+    "direct_link": "/us/game/2019-04-19/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,625",
+      "currency": "$",
+      "average_prize": "1.90"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 100863,
+        "text": "Who is the current reigning monarch of the United Kingdom?",
+        "question_number": 1,
+        "eliminated": "-17,144",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "329,260",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225767,
+            "text": "The Noid",
+            "correct": false,
+            "count": "3,468",
+            "percent": "1.11%"
+          },
+          {
+            "id": 225768,
+            "text": "Queen Elizabeth II",
+            "correct": true,
+            "count": "306,303",
+            "percent": "98.14%"
+          },
+          {
+            "id": 225769,
+            "text": "SeÃ±or Wences",
+            "correct": false,
+            "count": "2,345",
+            "percent": "0.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-19/1/1",
+        "game_link": "/us/game/2019-04-19/1",
+        "correct_answers": 306303,
+        "incorrect_answers": 5813,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100879,
+        "text": "âEl doctorâ is Spanish for what?",
+        "question_number": 2,
+        "eliminated": "1,514",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "328,049",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225791,
+            "text": "The lawyer",
+            "correct": false,
+            "count": "3,720",
+            "percent": "1.18%"
+          },
+          {
+            "id": 225792,
+            "text": "The doctor",
+            "correct": true,
+            "count": "308,618",
+            "percent": "97.75%"
+          },
+          {
+            "id": 225794,
+            "text": "The dentist",
+            "correct": false,
+            "count": "3,372",
+            "percent": "1.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-19/1/2",
+        "game_link": "/us/game/2019-04-19/1",
+        "correct_answers": 308618,
+        "incorrect_answers": 7092,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100897,
+        "text": "Which African nation shares a border with Egypt?",
+        "question_number": 3,
+        "eliminated": "7,557",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "320,589",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225821,
+            "text": "Sudan",
+            "correct": true,
+            "count": "239,279",
+            "percent": "76.57%"
+          },
+          {
+            "id": 225823,
+            "text": "Madagascar",
+            "correct": false,
+            "count": "43,695",
+            "percent": "13.98%"
+          },
+          {
+            "id": 225825,
+            "text": "South Africa",
+            "correct": false,
+            "count": "29,534",
+            "percent": "9.45%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-19/1/3",
+        "game_link": "/us/game/2019-04-19/1",
+        "correct_answers": 239279,
+        "incorrect_answers": 73229,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100911,
+        "text": "Which of these puzzles is NOT typically played on a square grid with rows and columns?",
+        "question_number": 4,
+        "eliminated": "17,348",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "303,990",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225839,
+            "text": "Sudoku",
+            "correct": false,
+            "count": "13,838",
+            "percent": "4.69%"
+          },
+          {
+            "id": 225840,
+            "text": "KenKen",
+            "correct": false,
+            "count": "102,064",
+            "percent": "34.56%"
+          },
+          {
+            "id": 225841,
+            "text": "Jumble",
+            "correct": true,
+            "count": "179,437",
+            "percent": "60.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-19/1/4",
+        "game_link": "/us/game/2019-04-19/1",
+        "correct_answers": 179437,
+        "incorrect_answers": 115902,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100925,
+        "text": "What is a key ingredient in the Canadian dish poutine?",
+        "question_number": 5,
+        "eliminated": "10,869",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "294,610",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225860,
+            "text": "Bacon",
+            "correct": false,
+            "count": "18,733",
+            "percent": "6.54%"
+          },
+          {
+            "id": 225861,
+            "text": "Canadian bacon",
+            "correct": false,
+            "count": "27,634",
+            "percent": "9.64%"
+          },
+          {
+            "id": 225862,
+            "text": "Cheese curds",
+            "correct": true,
+            "count": "240,150",
+            "percent": "83.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-19/1/5",
+        "game_link": "/us/game/2019-04-19/1",
+        "correct_answers": 240150,
+        "incorrect_answers": 46367,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100941,
+        "text": "How does the Ed Sheeran lyric âIâm in love with the shape of you, we push and pullâ end?",
+        "question_number": 6,
+        "eliminated": "19,568",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "275,725",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225884,
+            "text": "Like a magnet do",
+            "correct": true,
+            "count": "226,098",
+            "percent": "88.14%"
+          },
+          {
+            "id": 225885,
+            "text": "While we wait in queue",
+            "correct": false,
+            "count": "13,550",
+            "percent": "5.28%"
+          },
+          {
+            "id": 225886,
+            "text": "Never say adieu",
+            "correct": false,
+            "count": "16,869",
+            "percent": "6.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-19/1/6",
+        "game_link": "/us/game/2019-04-19/1",
+        "correct_answers": 226098,
+        "incorrect_answers": 30419,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100957,
+        "text": "Which film series has the most theatrically released titles?",
+        "question_number": 7,
+        "eliminated": "112,605",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "164,549",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225908,
+            "text": "Twilight",
+            "correct": false,
+            "count": "30,376",
+            "percent": "11.63%"
+          },
+          {
+            "id": 225910,
+            "text": "Jason Bourne",
+            "correct": false,
+            "count": "73,992",
+            "percent": "28.33%"
+          },
+          {
+            "id": 225912,
+            "text": "Mission: Impossible",
+            "correct": true,
+            "count": "156,815",
+            "percent": "60.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-19/1/7",
+        "game_link": "/us/game/2019-04-19/1",
+        "correct_answers": 156815,
+        "incorrect_answers": 104368,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100976,
+        "text": "Which universityâs mascot is a rodent?",
+        "question_number": 8,
+        "eliminated": "105,399",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "75,912",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225937,
+            "text": "Wisconsin",
+            "correct": false,
+            "count": "68,040",
+            "percent": "38.75%"
+          },
+          {
+            "id": 225939,
+            "text": "Minnesota",
+            "correct": true,
+            "count": "75,880",
+            "percent": "43.21%"
+          },
+          {
+            "id": 225940,
+            "text": "Michigan",
+            "correct": false,
+            "count": "31,669",
+            "percent": "18.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-19/1/8",
+        "game_link": "/us/game/2019-04-19/1",
+        "correct_answers": 75880,
+        "incorrect_answers": 99709,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100987,
+        "text": "The only US president elected in an odd-numbered year served with which vice president?",
+        "question_number": 9,
+        "eliminated": "46,571",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "41,484",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225953,
+            "text": "John Adams",
+            "correct": true,
+            "count": "41,481",
+            "percent": "48.26%"
+          },
+          {
+            "id": 225956,
+            "text": "Aaron Burr",
+            "correct": false,
+            "count": "18,666",
+            "percent": "21.72%"
+          },
+          {
+            "id": 225959,
+            "text": "Martin Van Buren",
+            "correct": false,
+            "count": "25,808",
+            "percent": "30.03%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-19/1/9",
+        "game_link": "/us/game/2019-04-19/1",
+        "correct_answers": 41481,
+        "incorrect_answers": 44474,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101003,
+        "text": "Which of these is NOT the title of a classic heavy metal album?",
+        "question_number": 10,
+        "eliminated": "26,439",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "21,065",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225977,
+            "text": "The Harder They Come",
+            "correct": true,
+            "count": "21,065",
+            "percent": "45.39%"
+          },
+          {
+            "id": 225979,
+            "text": "Ride the Lightning",
+            "correct": false,
+            "count": "8,286",
+            "percent": "17.85%"
+          },
+          {
+            "id": 225982,
+            "text": "British Steel",
+            "correct": false,
+            "count": "17,063",
+            "percent": "36.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-19/1/10",
+        "game_link": "/us/game/2019-04-19/1",
+        "correct_answers": 21065,
+        "incorrect_answers": 25349,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101019,
+        "text": "What is the capital of the European country with the longest coastline?",
+        "question_number": 11,
+        "eliminated": "12,335",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "12,859",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 226001,
+            "text": "Oslo",
+            "correct": true,
+            "count": "12,859",
+            "percent": "52.18%"
+          },
+          {
+            "id": 226003,
+            "text": "Athens",
+            "correct": false,
+            "count": "4,766",
+            "percent": "19.34%"
+          },
+          {
+            "id": 226007,
+            "text": "Rome",
+            "correct": false,
+            "count": "7,018",
+            "percent": "28.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-19/1/11",
+        "game_link": "/us/game/2019-04-19/1",
+        "correct_answers": 12859,
+        "incorrect_answers": 11784,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101038,
+        "text": "Who is the only athlete to score a touchdown in the NFL and hit an MLB home run in the same week?",
+        "question_number": 12,
+        "eliminated": "4,784",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "10,394",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 226031,
+            "text": "Kyle Long",
+            "correct": false,
+            "count": "284",
+            "percent": "1.93%"
+          },
+          {
+            "id": 226035,
+            "text": "Bo Jackson",
+            "correct": false,
+            "count": "4,067",
+            "percent": "27.58%"
+          },
+          {
+            "id": 226036,
+            "text": "Deion Sanders",
+            "correct": true,
+            "count": "10,394",
+            "percent": "70.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-19/1/12",
+        "game_link": "/us/game/2019-04-19/1",
+        "correct_answers": 10394,
+        "incorrect_answers": 4351,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101052,
+        "text": "In what medium was this story first told?",
+        "question_number": 13,
+        "eliminated": "3,934",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "7,174",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 226051,
+            "text": "Stage",
+            "correct": false,
+            "count": "720",
+            "percent": "6.53%"
+          },
+          {
+            "id": 226056,
+            "text": "Radio",
+            "correct": true,
+            "count": "7,174",
+            "percent": "65.08%"
+          },
+          {
+            "id": 226064,
+            "text": "Print",
+            "correct": false,
+            "count": "3,129",
+            "percent": "28.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-19/1/13",
+        "game_link": "/us/game/2019-04-19/1",
+        "correct_answers": 7174,
+        "incorrect_answers": 3849,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101069,
+        "text": "Which of these US cities was most recently demoted from being its stateâs capital?",
+        "question_number": 14,
+        "eliminated": "3,756",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "4,007",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 226076,
+            "text": "Guthrie",
+            "correct": true,
+            "count": "4,007",
+            "percent": "52.5%"
+          },
+          {
+            "id": 226079,
+            "text": "Portland",
+            "correct": false,
+            "count": "921",
+            "percent": "12.07%"
+          },
+          {
+            "id": 226084,
+            "text": "Natchez",
+            "correct": false,
+            "count": "2,705",
+            "percent": "35.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-19/1/14",
+        "game_link": "/us/game/2019-04-19/1",
+        "correct_answers": 4007,
+        "incorrect_answers": 3626,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 101084,
+        "text": "Which classic cartoon character was NOT originally voiced by the same person as the other two?",
+        "question_number": 15,
+        "eliminated": "2,629",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "2,625",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 226099,
+            "text": "Winnie the Pooh",
+            "correct": false,
+            "count": "1,039",
+            "percent": "21.29%"
+          },
+          {
+            "id": 226103,
+            "text": "Gus Gus",
+            "correct": true,
+            "count": "2,625",
+            "percent": "53.79%"
+          },
+          {
+            "id": 226107,
+            "text": "Cheshire Cat",
+            "correct": false,
+            "count": "1,216",
+            "percent": "24.92%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-19/1/15",
+        "game_link": "/us/game/2019-04-19/1",
+        "correct_answers": 2625,
+        "incorrect_answers": 2255,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 97606,
+    "show_id": 10498,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-04-20T01:30:00Z",
+    "direct_link": "/us/game/2019-04-19/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "6,248",
+      "currency": "$",
+      "average_prize": "0.16"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-04-19/2/1",
+        "question_number": 1,
+        "text": "Mythical Bird",
+        "answer": [
+          "PHOENIX"
+        ],
+        "initial_letters": [
+          "P"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-19/2",
+        "eliminated": 13254,
+        "advancing": 133061,
+        "correct_answers": 133061,
+        "incorrect_answers": 13254
+      },
+      {
+        "direct_link": "/us/game/2019-04-19/2/2",
+        "question_number": 2,
+        "text": "Construction Tool / Pop Song",
+        "answer": [
+          "WRECKING",
+          "BALL"
+        ],
+        "initial_letters": [
+          " ",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "K"
+        ],
+        "game_link": "/us/game/2019-04-19/2",
+        "eliminated": 13598,
+        "advancing": 120017,
+        "correct_answers": 120017,
+        "incorrect_answers": 13598
+      },
+      {
+        "direct_link": "/us/game/2019-04-19/2/3",
+        "question_number": 3,
+        "text": "Summer Appliance",
+        "answer": [
+          "ICE",
+          "CREAM",
+          "MAKER"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-04-19/2",
+        "eliminated": 7039,
+        "advancing": 113333,
+        "correct_answers": 113333,
+        "incorrect_answers": 7039
+      },
+      {
+        "direct_link": "/us/game/2019-04-19/2/4",
+        "question_number": 4,
+        "text": "One Photographer",
+        "answer": [
+          "PAPARAZZO"
+        ],
+        "initial_letters": [
+          "O"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "P"
+        ],
+        "game_link": "/us/game/2019-04-19/2",
+        "eliminated": 9342,
+        "advancing": 104270,
+        "correct_answers": 104270,
+        "incorrect_answers": 9342
+      },
+      {
+        "direct_link": "/us/game/2019-04-19/2/5",
+        "question_number": 5,
+        "text": "Bagel Topping",
+        "answer": [
+          "VEGGIE",
+          "CREAM",
+          "CHEESE"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "G"
+        ],
+        "game_link": "/us/game/2019-04-19/2",
+        "eliminated": 10789,
+        "advancing": 93891,
+        "correct_answers": 93891,
+        "incorrect_answers": 10789
+      },
+      {
+        "direct_link": "/us/game/2019-04-19/2/6",
+        "question_number": 6,
+        "text": "Total Fail",
+        "answer": [
+          "DOWN",
+          "THE",
+          "TUBES"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "S"
+        ],
+        "game_link": "/us/game/2019-04-19/2",
+        "eliminated": 64743,
+        "advancing": 29890,
+        "correct_answers": 29890,
+        "incorrect_answers": 64743
+      },
+      {
+        "direct_link": "/us/game/2019-04-19/2/7",
+        "question_number": 7,
+        "text": "Spicy Asian Specialty",
+        "answer": [
+          "DYNAMITE",
+          "ROLL"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "R"
+        ],
+        "game_link": "/us/game/2019-04-19/2",
+        "eliminated": 19674,
+        "advancing": 14937,
+        "correct_answers": 14937,
+        "incorrect_answers": 19674
+      },
+      {
+        "direct_link": "/us/game/2019-04-19/2/8",
+        "question_number": 8,
+        "text": "Australia Landmark",
+        "answer": [
+          "SYDNEY",
+          "OPERA",
+          "HOUSE"
+        ],
+        "initial_letters": [
+          " ",
+          "U"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "R"
+        ],
+        "game_link": "/us/game/2019-04-19/2",
+        "eliminated": 1358,
+        "advancing": 15467,
+        "correct_answers": 15467,
+        "incorrect_answers": 1358
+      },
+      {
+        "direct_link": "/us/game/2019-04-19/2/9",
+        "question_number": 9,
+        "text": "Why Do You Sound So Funny?",
+        "answer": [
+          "FROG",
+          "IN",
+          "MY",
+          "THROAT"
+        ],
+        "initial_letters": [
+          " ",
+          "F"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "T"
+        ],
+        "game_link": "/us/game/2019-04-19/2",
+        "eliminated": 2952,
+        "advancing": 12687,
+        "correct_answers": 12687,
+        "incorrect_answers": 2952
+      },
+      {
+        "direct_link": "/us/game/2019-04-19/2/10",
+        "question_number": 10,
+        "text": "Movie Quote",
+        "answer": [
+          "I'LL",
+          "HAVE",
+          "WHAT",
+          "SHE'S",
+          "HAVING"
+        ],
+        "initial_letters": [
+          "''",
+          " ",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "H"
+        ],
+        "game_link": "/us/game/2019-04-19/2",
+        "eliminated": 1488,
+        "advancing": 11748,
+        "correct_answers": 11748,
+        "incorrect_answers": 1488
+      },
+      {
+        "direct_link": "/us/game/2019-04-19/2/11",
+        "question_number": 11,
+        "text": "Join Us!",
+        "answer": [
+          "JUMP",
+          "ON",
+          "THE",
+          "BANDWAGON"
+        ],
+        "initial_letters": [
+          " ",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "G"
+        ],
+        "game_link": "/us/game/2019-04-19/2",
+        "eliminated": 2065,
+        "advancing": 9990,
+        "correct_answers": 9990,
+        "incorrect_answers": 2065
+      },
+      {
+        "direct_link": "/us/game/2019-04-19/2/12",
+        "question_number": 12,
+        "text": "Annoying Neighborhood Noise",
+        "answer": [
+          "GAS",
+          "POWERED",
+          "LEAF",
+          "BLOWER"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "D"
+        ],
+        "game_link": "/us/game/2019-04-19/2",
+        "eliminated": 4338,
+        "advancing": 6248,
+        "correct_answers": 6248,
+        "incorrect_answers": 4338
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "id": 101622,
+    "show_id": 10787,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-05-11T01:00:00Z",
+    "direct_link": "/us/game/2019-05-10/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,800",
+      "currency": "$",
+      "average_prize": "1.79"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "The Rock and Hamilton Mashup",
+        "slug": "the-rock-and-hamilton-mashup"
+      }
+    ],
+    "questions": [
+      {
+        "id": 105449,
+        "text": "Which of these is a song in the hit musical âHamiltonâ?",
+        "question_number": 1,
+        "eliminated": "-11,620",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "238,786",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232646,
+            "text": "My Shot",
+            "correct": true,
+            "count": "213,502",
+            "percent": "93.99%"
+          },
+          {
+            "id": 232648,
+            "text": "My Bot",
+            "correct": false,
+            "count": "4,363",
+            "percent": "1.92%"
+          },
+          {
+            "id": 232650,
+            "text": "My Hot Pot",
+            "correct": false,
+            "count": "9,301",
+            "percent": "4.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-10/1/1",
+        "game_link": "/us/game/2019-05-10/1",
+        "correct_answers": 213502,
+        "incorrect_answers": 13664,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105453,
+        "text": "One of The Rockâs WWE catchphrases asked if you could smell what he was what?",
+        "question_number": 2,
+        "eliminated": "1,501",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "237,470",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232652,
+            "text": "Concealing",
+            "correct": false,
+            "count": "7,962",
+            "percent": "3.55%"
+          },
+          {
+            "id": 232653,
+            "text": "Cooking",
+            "correct": true,
+            "count": "208,311",
+            "percent": "93.0%"
+          },
+          {
+            "id": 232654,
+            "text": "Carrying",
+            "correct": false,
+            "count": "7,717",
+            "percent": "3.45%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-10/1/2",
+        "game_link": "/us/game/2019-05-10/1",
+        "correct_answers": 208311,
+        "incorrect_answers": 15679,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105461,
+        "text": "What is the âHamiltonâ musical ticket lottery called?",
+        "question_number": 3,
+        "eliminated": "4,047",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "233,504",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232664,
+            "text": "#HammiesUnite",
+            "correct": false,
+            "count": "27,182",
+            "percent": "12.3%"
+          },
+          {
+            "id": 232665,
+            "text": "#HammoLotto",
+            "correct": false,
+            "count": "84,229",
+            "percent": "38.1%"
+          },
+          {
+            "id": 232668,
+            "text": "#Ham4Ham",
+            "correct": true,
+            "count": "109,647",
+            "percent": "49.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-10/1/3",
+        "game_link": "/us/game/2019-05-10/1",
+        "correct_answers": 109647,
+        "incorrect_answers": 111411,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105467,
+        "text": "What is The Rockâs characterâs job in âBallersâ?",
+        "question_number": 4,
+        "eliminated": "5,409",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "228,498",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232673,
+            "text": "Football coach",
+            "correct": false,
+            "count": "71,149",
+            "percent": "33.38%"
+          },
+          {
+            "id": 232675,
+            "text": "Financial manager",
+            "correct": true,
+            "count": "116,881",
+            "percent": "54.83%"
+          },
+          {
+            "id": 232677,
+            "text": "Lawyer",
+            "correct": false,
+            "count": "25,136",
+            "percent": "11.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-10/1/4",
+        "game_link": "/us/game/2019-05-10/1",
+        "correct_answers": 116881,
+        "incorrect_answers": 96285,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105475,
+        "text": "King George of âHamiltonâ has NOT been portrayed by an original star of which musical?",
+        "question_number": 5,
+        "eliminated": "16,892",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "211,969",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232685,
+            "text": "Shrek",
+            "correct": false,
+            "count": "69,938",
+            "percent": "35.54%"
+          },
+          {
+            "id": 232686,
+            "text": "The Phantom of the Opera",
+            "correct": true,
+            "count": "64,161",
+            "percent": "32.6%"
+          },
+          {
+            "id": 232689,
+            "text": "The Book of Mormon",
+            "correct": false,
+            "count": "62,709",
+            "percent": "31.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-10/1/5",
+        "game_link": "/us/game/2019-05-10/1",
+        "correct_answers": 64161,
+        "incorrect_answers": 132647,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105483,
+        "text": "The Rock costars with Julie Andrews in which film?",
+        "question_number": 6,
+        "eliminated": "8,313",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "205,555",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232697,
+            "text": "The Game Plan",
+            "correct": false,
+            "count": "18,306",
+            "percent": "9.5%"
+          },
+          {
+            "id": 232698,
+            "text": "Get Smart",
+            "correct": false,
+            "count": "15,637",
+            "percent": "8.11%"
+          },
+          {
+            "id": 232699,
+            "text": "The Tooth Fairy",
+            "correct": true,
+            "count": "158,750",
+            "percent": "82.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-10/1/6",
+        "game_link": "/us/game/2019-05-10/1",
+        "correct_answers": 158750,
+        "incorrect_answers": 33943,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105491,
+        "text": "What is the final line of the original âHamiltonâ cast recording of âThe Room Where It Happensâ?",
+        "question_number": 7,
+        "eliminated": "70,784",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "135,237",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232709,
+            "text": "Where it happens",
+            "correct": false,
+            "count": "33,495",
+            "percent": "18.4%"
+          },
+          {
+            "id": 232710,
+            "text": "Click boom",
+            "correct": true,
+            "count": "105,251",
+            "percent": "57.82%"
+          },
+          {
+            "id": 232711,
+            "text": "Alexander Hamilton",
+            "correct": false,
+            "count": "43,282",
+            "percent": "23.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-10/1/7",
+        "game_link": "/us/game/2019-05-10/1",
+        "correct_answers": 105251,
+        "incorrect_answers": 76777,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105499,
+        "text": "What movie is this image from?",
+        "question_number": 8,
+        "eliminated": "45,961",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "95,585",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232721,
+            "text": "Rampage",
+            "correct": false,
+            "count": "6,799",
+            "percent": "5.04%"
+          },
+          {
+            "id": 232722,
+            "text": "The Scorpion King",
+            "correct": false,
+            "count": "33,378",
+            "percent": "24.73%"
+          },
+          {
+            "id": 232723,
+            "text": "Hercules",
+            "correct": true,
+            "count": "94,789",
+            "percent": "70.23%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-10/1/8",
+        "game_link": "/us/game/2019-05-10/1",
+        "correct_answers": 94789,
+        "incorrect_answers": 40177,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105507,
+        "text": "The original casting notice for Angelica Schuyler asked for Desiree Armfeldt meets who?",
+        "question_number": 9,
+        "eliminated": "73,988",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "26,677",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232733,
+            "text": "Nicki Minaj",
+            "correct": true,
+            "count": "26,555",
+            "percent": "27.25%"
+          },
+          {
+            "id": 232734,
+            "text": "Lilâ Kim",
+            "correct": false,
+            "count": "11,751",
+            "percent": "12.06%"
+          },
+          {
+            "id": 232735,
+            "text": "BeyoncÃ©",
+            "correct": false,
+            "count": "59,147",
+            "percent": "60.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-10/1/9",
+        "game_link": "/us/game/2019-05-10/1",
+        "correct_answers": 26555,
+        "incorrect_answers": 70898,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105515,
+        "text": "What âSan Andreasâ character does the Rock save first?",
+        "question_number": 10,
+        "eliminated": "8,744",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "26,392",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232745,
+            "text": "A stranger",
+            "correct": true,
+            "count": "26,382",
+            "percent": "78.25%"
+          },
+          {
+            "id": 232747,
+            "text": "His daughter",
+            "correct": false,
+            "count": "3,586",
+            "percent": "10.64%"
+          },
+          {
+            "id": 232750,
+            "text": "His wife",
+            "correct": false,
+            "count": "3,746",
+            "percent": "11.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-10/1/10",
+        "game_link": "/us/game/2019-05-10/1",
+        "correct_answers": 26382,
+        "incorrect_answers": 7332,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105523,
+        "text": "Who first demands the people ârise upâ in the âHamiltonâ song âMy Shotâ?",
+        "question_number": 11,
+        "eliminated": "19,309",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "8,234",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232757,
+            "text": "Marquis de Lafayette",
+            "correct": false,
+            "count": "5,645",
+            "percent": "21.13%"
+          },
+          {
+            "id": 232758,
+            "text": "John Laurens",
+            "correct": true,
+            "count": "8,234",
+            "percent": "30.83%"
+          },
+          {
+            "id": 232762,
+            "text": "Alexander Hamilton",
+            "correct": false,
+            "count": "12,833",
+            "percent": "48.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-10/1/11",
+        "game_link": "/us/game/2019-05-10/1",
+        "correct_answers": 8234,
+        "incorrect_answers": 18478,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105531,
+        "text": "The Rockâs âCentral Intelligenceâ character is bullied for singing a song by what group?",
+        "question_number": 12,
+        "eliminated": "6,234",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "8,197",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232769,
+            "text": "All-4-One",
+            "correct": false,
+            "count": "1,930",
+            "percent": "13.69%"
+          },
+          {
+            "id": 232771,
+            "text": "Boyz II Men",
+            "correct": false,
+            "count": "3,966",
+            "percent": "28.14%"
+          },
+          {
+            "id": 232773,
+            "text": "En Vogue",
+            "correct": true,
+            "count": "8,197",
+            "percent": "58.16%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-10/1/12",
+        "game_link": "/us/game/2019-05-10/1",
+        "correct_answers": 8197,
+        "incorrect_answers": 5896,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105539,
+        "text": "The âHamiltonâ choreographer has stated Hamilton moves in what way?",
+        "question_number": 13,
+        "eliminated": "3,442",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "5,863",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232781,
+            "text": "Diagonals",
+            "correct": false,
+            "count": "1,147",
+            "percent": "12.72%"
+          },
+          {
+            "id": 232782,
+            "text": "Arcs",
+            "correct": true,
+            "count": "5,863",
+            "percent": "65.0%"
+          },
+          {
+            "id": 232783,
+            "text": "Jagged lines",
+            "correct": false,
+            "count": "2,010",
+            "percent": "22.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-10/1/13",
+        "game_link": "/us/game/2019-05-10/1",
+        "correct_answers": 5863,
+        "incorrect_answers": 3157,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105547,
+        "text": "What inspired The Rockâs role in the âFast and the Furiousâ franchise?",
+        "question_number": 14,
+        "eliminated": "2,906",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "3,457",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232793,
+            "text": "FaceTime audition",
+            "correct": false,
+            "count": "628",
+            "percent": "10.33%"
+          },
+          {
+            "id": 232795,
+            "text": "Social media demand",
+            "correct": true,
+            "count": "3,457",
+            "percent": "56.84%"
+          },
+          {
+            "id": 232797,
+            "text": "Friendship with director",
+            "correct": false,
+            "count": "1,997",
+            "percent": "32.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-10/1/14",
+        "game_link": "/us/game/2019-05-10/1",
+        "correct_answers": 3457,
+        "incorrect_answers": 2625,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105555,
+        "text": "In âMoana,â what boast does Maui NOT make in the song âYouâre Welcomeâ?",
+        "question_number": 15,
+        "eliminated": "989",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,800",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232805,
+            "text": "Pulled up the sky",
+            "correct": false,
+            "count": "562",
+            "percent": "15.1%"
+          },
+          {
+            "id": 232806,
+            "text": "Lassoed the sun",
+            "correct": false,
+            "count": "359",
+            "percent": "9.65%"
+          },
+          {
+            "id": 232807,
+            "text": "Lit up the moon",
+            "correct": true,
+            "count": "2,800",
+            "percent": "75.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-10/1/15",
+        "game_link": "/us/game/2019-05-10/1",
+        "correct_answers": 2800,
+        "incorrect_answers": 921,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 101691,
+    "show_id": 10781,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-05-11T01:30:00Z",
+    "direct_link": "/us/game/2019-05-10/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "5,262",
+      "currency": "$",
+      "average_prize": "0.19"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "The Rock and Hamilton Mashup",
+        "slug": "the-rock-and-hamilton-mashup"
+      },
+      {
+        "name": "Buddies",
+        "slug": "buddies"
+      }
+    ],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-05-10/2/1",
+        "question_number": 1,
+        "text": "Rock in the Ring",
+        "answer": [
+          "WRESTLING",
+          "SUPERSTAR"
+        ],
+        "initial_letters": [
+          " ",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "N"
+        ],
+        "game_link": "/us/game/2019-05-10/2",
+        "eliminated": 13864,
+        "advancing": 79672,
+        "correct_answers": 79672,
+        "incorrect_answers": 13864
+      },
+      {
+        "direct_link": "/us/game/2019-05-10/2/2",
+        "question_number": 2,
+        "text": "Aaron Burr Portrayer",
+        "answer": [
+          "LESLIE",
+          "ODOM",
+          "JR."
+        ],
+        "initial_letters": [
+          " ",
+          ".",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "S"
+        ],
+        "game_link": "/us/game/2019-05-10/2",
+        "eliminated": 38477,
+        "advancing": 42320,
+        "correct_answers": 42320,
+        "incorrect_answers": 38477
+      },
+      {
+        "direct_link": "/us/game/2019-05-10/2/3",
+        "question_number": 3,
+        "text": "Dwayneâs Kidsâ Movie",
+        "answer": [
+          "TOOTH",
+          "FAIRY"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-05-10/2",
+        "eliminated": 2972,
+        "advancing": 41166,
+        "correct_answers": 41166,
+        "incorrect_answers": 2972
+      },
+      {
+        "direct_link": "/us/game/2019-05-10/2/4",
+        "question_number": 4,
+        "text": "Hamiltonâs Home",
+        "answer": [
+          "ISLAND",
+          "OF",
+          "NEVIS"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "F"
+        ],
+        "game_link": "/us/game/2019-05-10/2",
+        "eliminated": 18993,
+        "advancing": 22276,
+        "correct_answers": 22276,
+        "incorrect_answers": 18993
+      },
+      {
+        "direct_link": "/us/game/2019-05-10/2/5",
+        "question_number": 5,
+        "text": "Signature Look",
+        "answer": [
+          "ONE",
+          "RAISED",
+          "EYEBROW"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "S"
+        ],
+        "game_link": "/us/game/2019-05-10/2",
+        "eliminated": 4608,
+        "advancing": 19075,
+        "correct_answers": 19075,
+        "incorrect_answers": 4608
+      },
+      {
+        "direct_link": "/us/game/2019-05-10/2/6",
+        "question_number": 6,
+        "text": "Washingtonâs Need",
+        "answer": [
+          "RIGHT",
+          "HAND",
+          "MAN"
+        ],
+        "initial_letters": [
+          " ",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "R"
+        ],
+        "game_link": "/us/game/2019-05-10/2",
+        "eliminated": 2277,
+        "advancing": 17150,
+        "correct_answers": 17150,
+        "incorrect_answers": 2277
+      },
+      {
+        "direct_link": "/us/game/2019-05-10/2/7",
+        "question_number": 7,
+        "text": "Wild Role",
+        "answer": [
+          "JUMANJI",
+          "REBOOT"
+        ],
+        "initial_letters": [
+          " ",
+          "U"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "T"
+        ],
+        "game_link": "/us/game/2019-05-10/2",
+        "eliminated": 6706,
+        "advancing": 10629,
+        "correct_answers": 10629,
+        "incorrect_answers": 6706
+      },
+      {
+        "direct_link": "/us/game/2019-05-10/2/8",
+        "question_number": 8,
+        "text": "Noted Trio",
+        "answer": [
+          "SCHUYLER",
+          "SISTERS"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-05-10/2",
+        "eliminated": 2670,
+        "advancing": 8829,
+        "correct_answers": 8829,
+        "incorrect_answers": 2670
+      },
+      {
+        "direct_link": "/us/game/2019-05-10/2/9",
+        "question_number": 9,
+        "text": "Whatâs That Smell?",
+        "answer": [
+          "WHAT",
+          "THE",
+          "ROCK",
+          "IS",
+          "COOKING"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "W"
+        ],
+        "game_link": "/us/game/2019-05-10/2",
+        "eliminated": 732,
+        "advancing": 8551,
+        "correct_answers": 8551,
+        "incorrect_answers": 732
+      },
+      {
+        "direct_link": "/us/game/2019-05-10/2/10",
+        "question_number": 10,
+        "text": "Georgeâs Follower",
+        "answer": [
+          "ADAMS",
+          "ADMINISTRATION"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "O"
+        ],
+        "game_link": "/us/game/2019-05-10/2",
+        "eliminated": 464,
+        "advancing": 8257,
+        "correct_answers": 8257,
+        "incorrect_answers": 464
+      },
+      {
+        "direct_link": "/us/game/2019-05-10/2/11",
+        "question_number": 11,
+        "text": "Much-Debated Stunt",
+        "answer": [
+          "IMPOSSIBLE",
+          "SKYSCRAPER",
+          "JUMP"
+        ],
+        "initial_letters": [
+          " ",
+          "Y"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "R"
+        ],
+        "game_link": "/us/game/2019-05-10/2",
+        "eliminated": 4405,
+        "advancing": 3961,
+        "correct_answers": 3961,
+        "incorrect_answers": 4405
+      },
+      {
+        "direct_link": "/us/game/2019-05-10/2/12",
+        "question_number": 12,
+        "text": "Faceoff Rules",
+        "answer": [
+          "TEN",
+          "DUEL",
+          "COMMANDMENTS"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "U"
+        ],
+        "game_link": "/us/game/2019-05-10/2",
+        "eliminated": 505,
+        "advancing": 5262,
+        "correct_answers": 5262,
+        "incorrect_answers": 505
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

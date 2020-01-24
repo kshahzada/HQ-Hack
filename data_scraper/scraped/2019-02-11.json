@@ -1,0 +1,1338 @@
+[
+  {
+    "id": 51911,
+    "show_id": 9576,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-02-12T00:00:00Z",
+    "direct_link": "/us/game/2019-02-11/1",
+    "time": " 7:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "977",
+      "currency": "$",
+      "average_prize": "1.02"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 46450,
+        "text": "Which member of the Ball family plays for the Lakers?",
+        "question_number": 1,
+        "eliminated": "-4,452",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "121,873",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139245,
+            "text": "Lonzo",
+            "correct": true,
+            "count": "85,920",
+            "percent": "73.17%"
+          },
+          {
+            "id": 139247,
+            "text": "LaVar",
+            "correct": false,
+            "count": "24,300",
+            "percent": "20.69%"
+          },
+          {
+            "id": 139249,
+            "text": "LaMelo",
+            "correct": false,
+            "count": "7,201",
+            "percent": "6.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/1/1",
+        "game_link": "/us/game/2019-02-11/1",
+        "correct_answers": 85920,
+        "incorrect_answers": 31501,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46457,
+        "text": "Who was the first baseball player to hit 30, 40, 50, and 60 home runs?",
+        "question_number": 2,
+        "eliminated": "2,345",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "119,613",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139262,
+            "text": "Ted Williams",
+            "correct": false,
+            "count": "16,396",
+            "percent": "14.43%"
+          },
+          {
+            "id": 139266,
+            "text": "Roger Maris",
+            "correct": false,
+            "count": "23,980",
+            "percent": "21.1%"
+          },
+          {
+            "id": 139268,
+            "text": "Babe Ruth",
+            "correct": true,
+            "count": "73,254",
+            "percent": "64.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/1/2",
+        "game_link": "/us/game/2019-02-11/1",
+        "correct_answers": 73254,
+        "incorrect_answers": 40376,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46466,
+        "text": "Heisman winner Kyler Murray just announced he is committing fully to what organization?",
+        "question_number": 3,
+        "eliminated": "2,714",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "117,000",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139291,
+            "text": "MLB",
+            "correct": false,
+            "count": "16,301",
+            "percent": "14.73%"
+          },
+          {
+            "id": 139294,
+            "text": "NFL",
+            "correct": true,
+            "count": "88,039",
+            "percent": "79.54%"
+          },
+          {
+            "id": 139298,
+            "text": "NBA",
+            "correct": false,
+            "count": "6,350",
+            "percent": "5.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/1/3",
+        "game_link": "/us/game/2019-02-11/1",
+        "correct_answers": 88039,
+        "incorrect_answers": 22651,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46474,
+        "text": "According to the most recent âForbesâ estimate, what is the most valuable franchise in the NBA?",
+        "question_number": 4,
+        "eliminated": "6,850",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "110,224",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139314,
+            "text": "Lakers",
+            "correct": false,
+            "count": "46,986",
+            "percent": "43.42%"
+          },
+          {
+            "id": 139318,
+            "text": "Knicks",
+            "correct": true,
+            "count": "40,887",
+            "percent": "37.79%"
+          },
+          {
+            "id": 139320,
+            "text": "Warriors",
+            "correct": false,
+            "count": "20,333",
+            "percent": "18.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/1/4",
+        "game_link": "/us/game/2019-02-11/1",
+        "correct_answers": 40887,
+        "incorrect_answers": 67319,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46481,
+        "text": "Who holds the official NFL record for most sacks in a single game?",
+        "question_number": 5,
+        "eliminated": "17,745",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "92,793",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139339,
+            "text": "Derrick Thomas",
+            "correct": true,
+            "count": "34,276",
+            "percent": "33.47%"
+          },
+          {
+            "id": 139341,
+            "text": "JJ Watt",
+            "correct": false,
+            "count": "23,989",
+            "percent": "23.42%"
+          },
+          {
+            "id": 139345,
+            "text": "Michael Strahan",
+            "correct": false,
+            "count": "44,155",
+            "percent": "43.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/1/5",
+        "game_link": "/us/game/2019-02-11/1",
+        "correct_answers": 34276,
+        "incorrect_answers": 68144,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46488,
+        "text": "Who was the last NBA head coach not named Kerr or Lue to lead a team to the finals?",
+        "question_number": 6,
+        "eliminated": "63,149",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "32,038",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139358,
+            "text": "David Blatt",
+            "correct": true,
+            "count": "19,152",
+            "percent": "21.69%"
+          },
+          {
+            "id": 139361,
+            "text": "Gregg Popovich",
+            "correct": false,
+            "count": "51,832",
+            "percent": "58.71%"
+          },
+          {
+            "id": 139367,
+            "text": "Scott Brooks",
+            "correct": false,
+            "count": "17,300",
+            "percent": "19.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/1/6",
+        "game_link": "/us/game/2019-02-11/1",
+        "correct_answers": 19152,
+        "incorrect_answers": 69132,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46496,
+        "text": "Frank Robinson broke the MLB manager color barrier when he took over what team?",
+        "question_number": 7,
+        "eliminated": "25,682",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "10,782",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139381,
+            "text": "Cleveland Indians",
+            "correct": true,
+            "count": "10,782",
+            "percent": "31.04%"
+          },
+          {
+            "id": 139388,
+            "text": "Baltimore Orioles",
+            "correct": false,
+            "count": "16,631",
+            "percent": "47.88%"
+          },
+          {
+            "id": 139395,
+            "text": "Montreal Expos",
+            "correct": false,
+            "count": "7,324",
+            "percent": "21.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/1/7",
+        "game_link": "/us/game/2019-02-11/1",
+        "correct_answers": 10782,
+        "incorrect_answers": 23955,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46503,
+        "text": "What US-based team has the greatest number of Stanley Cups?",
+        "question_number": 8,
+        "eliminated": "5,391",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "7,488",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139402,
+            "text": "Detroit Red Wings",
+            "correct": true,
+            "count": "7,488",
+            "percent": "59.25%"
+          },
+          {
+            "id": 139404,
+            "text": "Chicago Blackhawks",
+            "correct": false,
+            "count": "2,131",
+            "percent": "16.86%"
+          },
+          {
+            "id": 139410,
+            "text": "Boston Bruins",
+            "correct": false,
+            "count": "3,019",
+            "percent": "23.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/1/8",
+        "game_link": "/us/game/2019-02-11/1",
+        "correct_answers": 7488,
+        "incorrect_answers": 5150,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46510,
+        "text": "What driver said he wouldnât race Danica Patrick because her small size gave her an advantage?",
+        "question_number": 9,
+        "eliminated": "5,169",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,788",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139425,
+            "text": "Kurt Busch",
+            "correct": false,
+            "count": "1,495",
+            "percent": "19.08%"
+          },
+          {
+            "id": 139430,
+            "text": "Robby Gordon",
+            "correct": true,
+            "count": "2,788",
+            "percent": "35.59%"
+          },
+          {
+            "id": 139436,
+            "text": "Tony Stewart",
+            "correct": false,
+            "count": "3,551",
+            "percent": "45.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/1/9",
+        "game_link": "/us/game/2019-02-11/1",
+        "correct_answers": 2788,
+        "incorrect_answers": 5046,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46518,
+        "text": "The âAuld Mugâ is the name of the trophy given to the winner of what event?",
+        "question_number": 10,
+        "eliminated": "1,360",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,270",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139449,
+            "text": "World Cup",
+            "correct": false,
+            "count": "247",
+            "percent": "6.86%"
+          },
+          {
+            "id": 139450,
+            "text": "British Open",
+            "correct": false,
+            "count": "1,084",
+            "percent": "30.1%"
+          },
+          {
+            "id": 139453,
+            "text": "Americaâs Cup",
+            "correct": true,
+            "count": "2,270",
+            "percent": "63.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/1/10",
+        "game_link": "/us/game/2019-02-11/1",
+        "correct_answers": 2270,
+        "incorrect_answers": 1331,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46526,
+        "text": "Sports Illustratedâs first-ever âSportsman of the Yearâ accomplished what feat?",
+        "question_number": 11,
+        "eliminated": "1,141",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,374",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139473,
+            "text": "Triple Crown",
+            "correct": false,
+            "count": "457",
+            "percent": "18.61%"
+          },
+          {
+            "id": 139476,
+            "text": "Sub-4 minute mile",
+            "correct": true,
+            "count": "1,374",
+            "percent": "55.94%"
+          },
+          {
+            "id": 139480,
+            "text": "10 Olympic medals",
+            "correct": false,
+            "count": "625",
+            "percent": "25.45%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/1/11",
+        "game_link": "/us/game/2019-02-11/1",
+        "correct_answers": 1374,
+        "incorrect_answers": 1082,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46534,
+        "text": "The 22nd and 24th US president shares two of his names with a Hall of Fame player at what position?",
+        "question_number": 12,
+        "eliminated": "682",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "977",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139497,
+            "text": "Centerfielder",
+            "correct": false,
+            "count": "327",
+            "percent": "20.25%"
+          },
+          {
+            "id": 139499,
+            "text": "Pitcher",
+            "correct": true,
+            "count": "977",
+            "percent": "60.5%"
+          },
+          {
+            "id": 139507,
+            "text": "Shortstop",
+            "correct": false,
+            "count": "311",
+            "percent": "19.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/1/12",
+        "game_link": "/us/game/2019-02-11/1",
+        "correct_answers": 977,
+        "incorrect_answers": 638,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 52029,
+    "show_id": 9616,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-02-12T02:00:00Z",
+    "direct_link": "/us/game/2019-02-11/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "3,903",
+      "currency": "$",
+      "average_prize": "1.28"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Rom-Com Movie Night",
+        "slug": "rom-com-movie-night"
+      },
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "questions": [
+      {
+        "id": 46543,
+        "text": "Which of these romantic comedies does NOT primarily take place in America?",
+        "question_number": 1,
+        "eliminated": "-12,387",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "380,004",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139524,
+            "text": "Sweet Home Alabama",
+            "correct": false,
+            "count": "7,381",
+            "percent": "2.01%"
+          },
+          {
+            "id": 139525,
+            "text": "Notting Hill",
+            "correct": true,
+            "count": "354,381",
+            "percent": "96.4%"
+          },
+          {
+            "id": 139526,
+            "text": "Sleepless in Seattle",
+            "correct": false,
+            "count": "5,855",
+            "percent": "1.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/2/1",
+        "game_link": "/us/game/2019-02-11/2",
+        "correct_answers": 354381,
+        "incorrect_answers": 13236,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46551,
+        "text": "â10 Things I Hate About Youâ is based on a play by what author?",
+        "question_number": 2,
+        "eliminated": "8,032",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "372,235",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139547,
+            "text": "William Shakespeare",
+            "correct": true,
+            "count": "275,814",
+            "percent": "75.35%"
+          },
+          {
+            "id": 139549,
+            "text": "Aaron Sorkin",
+            "correct": false,
+            "count": "70,359",
+            "percent": "19.22%"
+          },
+          {
+            "id": 139551,
+            "text": "JK Rowling",
+            "correct": false,
+            "count": "19,850",
+            "percent": "5.42%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/2/2",
+        "game_link": "/us/game/2019-02-11/2",
+        "correct_answers": 275814,
+        "incorrect_answers": 90209,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46559,
+        "text": "Who is Kate Hudsonâs co-star in this movie?",
+        "question_number": 3,
+        "eliminated": "6,575",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "366,007",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139572,
+            "text": "Matthew McConaughey",
+            "correct": true,
+            "count": "323,107",
+            "percent": "90.76%"
+          },
+          {
+            "id": 139573,
+            "text": "Gerard Butler",
+            "correct": false,
+            "count": "16,384",
+            "percent": "4.6%"
+          },
+          {
+            "id": 139574,
+            "text": "John Cusack",
+            "correct": false,
+            "count": "16,522",
+            "percent": "4.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/2/3",
+        "game_link": "/us/game/2019-02-11/2",
+        "correct_answers": 323107,
+        "incorrect_answers": 32906,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46565,
+        "text": "In âThe Notebook,â Noah tells Allie, âif youâre a bird, Iâm aâ what?",
+        "question_number": 4,
+        "eliminated": "24,551",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "341,609",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139590,
+            "text": "Bird",
+            "correct": true,
+            "count": "154,717",
+            "percent": "45.31%"
+          },
+          {
+            "id": 139591,
+            "text": "Fish",
+            "correct": false,
+            "count": "50,150",
+            "percent": "14.69%"
+          },
+          {
+            "id": 139592,
+            "text": "Worm",
+            "correct": false,
+            "count": "136,598",
+            "percent": "40.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/2/4",
+        "game_link": "/us/game/2019-02-11/2",
+        "correct_answers": 154717,
+        "incorrect_answers": 186748,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46574,
+        "text": "In which of these movies does Julia Roberts get married?",
+        "question_number": 5,
+        "eliminated": "37,149",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "305,769",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139617,
+            "text": "My Best Friendâs Wedding",
+            "correct": false,
+            "count": "70,372",
+            "percent": "21.95%"
+          },
+          {
+            "id": 139619,
+            "text": "Valentineâs Day",
+            "correct": false,
+            "count": "52,855",
+            "percent": "16.49%"
+          },
+          {
+            "id": 139621,
+            "text": "Runaway Bride",
+            "correct": true,
+            "count": "197,377",
+            "percent": "61.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/2/5",
+        "game_link": "/us/game/2019-02-11/2",
+        "correct_answers": 197377,
+        "incorrect_answers": 123227,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46582,
+        "text": "What unflattering name is Drew Barrymore upset by in âThe Wedding Singerâ?",
+        "question_number": 6,
+        "eliminated": "139,182",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "169,551",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139641,
+            "text": "Josie Grossie",
+            "correct": false,
+            "count": "101,141",
+            "percent": "36.64%"
+          },
+          {
+            "id": 139643,
+            "text": "Julia Gulia",
+            "correct": true,
+            "count": "156,102",
+            "percent": "56.56%"
+          },
+          {
+            "id": 139645,
+            "text": "Jessica Messica",
+            "correct": false,
+            "count": "18,772",
+            "percent": "6.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/2/6",
+        "game_link": "/us/game/2019-02-11/2",
+        "correct_answers": 156102,
+        "incorrect_answers": 119913,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46591,
+        "text": "Which of these tear-jerking dramas is NOT based on a Nicholas Sparks book?",
+        "question_number": 7,
+        "eliminated": "93,901",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "93,208",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139663,
+            "text": "PS I Love You",
+            "correct": true,
+            "count": "93,208",
+            "percent": "51.32%"
+          },
+          {
+            "id": 139666,
+            "text": "A Walk to Remember",
+            "correct": false,
+            "count": "20,366",
+            "percent": "11.21%"
+          },
+          {
+            "id": 139670,
+            "text": "Nights in Rodanthe",
+            "correct": false,
+            "count": "68,047",
+            "percent": "37.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/2/7",
+        "game_link": "/us/game/2019-02-11/2",
+        "correct_answers": 93208,
+        "incorrect_answers": 88413,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46600,
+        "text": "What is Meg Ryanâs online alias in this film?",
+        "question_number": 8,
+        "eliminated": "21,170",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "83,704",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139691,
+            "text": "Shopgirl",
+            "correct": true,
+            "count": "83,704",
+            "percent": "80.37%"
+          },
+          {
+            "id": 139694,
+            "text": "AustenFan",
+            "correct": false,
+            "count": "11,081",
+            "percent": "10.64%"
+          },
+          {
+            "id": 139700,
+            "text": "UpperWestSider",
+            "correct": false,
+            "count": "9,368",
+            "percent": "8.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/2/8",
+        "game_link": "/us/game/2019-02-11/2",
+        "correct_answers": 83704,
+        "incorrect_answers": 20449,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46609,
+        "text": "In which of these films does the lead couple NOT get married?",
+        "question_number": 9,
+        "eliminated": "60,381",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "26,090",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139722,
+            "text": "Crazy Rich Asians",
+            "correct": true,
+            "count": "26,090",
+            "percent": "31.15%"
+          },
+          {
+            "id": 139725,
+            "text": "Jerry Maguire",
+            "correct": false,
+            "count": "24,209",
+            "percent": "28.91%"
+          },
+          {
+            "id": 139728,
+            "text": "Sex and the City",
+            "correct": false,
+            "count": "33,449",
+            "percent": "39.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/2/9",
+        "game_link": "/us/game/2019-02-11/2",
+        "correct_answers": 26090,
+        "incorrect_answers": 57658,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46614,
+        "text": "In which film does Jennifer Lopez make a stunning entrance in a pink dress?",
+        "question_number": 10,
+        "eliminated": "13,918",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "26,777",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139737,
+            "text": "Maid in Manhattan",
+            "correct": true,
+            "count": "26,777",
+            "percent": "67.06%"
+          },
+          {
+            "id": 139740,
+            "text": "The Wedding Planner",
+            "correct": false,
+            "count": "5,638",
+            "percent": "14.12%"
+          },
+          {
+            "id": 139747,
+            "text": "Monster-in-Law",
+            "correct": false,
+            "count": "7,516",
+            "percent": "18.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/2/10",
+        "game_link": "/us/game/2019-02-11/2",
+        "correct_answers": 26777,
+        "incorrect_answers": 13154,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46621,
+        "text": "Who crashes their own funeral in âDeliver Us From Evaâ?",
+        "question_number": 11,
+        "eliminated": "15,663",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "13,774",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139758,
+            "text": "Terry Crews",
+            "correct": false,
+            "count": "3,886",
+            "percent": "13.45%"
+          },
+          {
+            "id": 139760,
+            "text": "LL Cool J",
+            "correct": true,
+            "count": "13,774",
+            "percent": "47.68%"
+          },
+          {
+            "id": 139763,
+            "text": "Gabrielle Union",
+            "correct": false,
+            "count": "11,230",
+            "percent": "38.87%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/2/11",
+        "game_link": "/us/game/2019-02-11/2",
+        "correct_answers": 13774,
+        "incorrect_answers": 15116,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46630,
+        "text": "What song introduces Hugh Grantâs character in âBridget Jonesâs Diaryâ?",
+        "question_number": 12,
+        "eliminated": "13,493",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "3,903",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139785,
+            "text": "Youâre So Vain",
+            "correct": false,
+            "count": "6,203",
+            "percent": "36.94%"
+          },
+          {
+            "id": 139788,
+            "text": "Respect",
+            "correct": true,
+            "count": "3,903",
+            "percent": "23.24%"
+          },
+          {
+            "id": 139794,
+            "text": "Mr. Big Stuff",
+            "correct": false,
+            "count": "6,688",
+            "percent": "39.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-11/2/12",
+        "game_link": "/us/game/2019-02-11/2",
+        "correct_answers": 3903,
+        "incorrect_answers": 12891,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 52150,
+    "show_id": 9609,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-02-12T02:20:00Z",
+    "direct_link": "/us/game/2019-02-11/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "0.00"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "0.00"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "0.00"
+        },
+        {
+          "number": "6,265",
+          "amount": "0.12",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.12364390555201021,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:20 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [],
+    "tags": [
+      {
+        "name": "Animal Night",
+        "slug": "animal-night"
+      }
+    ],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-02-11/3/1",
+        "question_number": 1,
+        "text": "Small Dog Breed",
+        "answer": [
+          "TOY",
+          "POODLE"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "L"
+        ],
+        "game_link": "/us/game/2019-02-11/3",
+        "eliminated": 18308,
+        "advancing": 191752,
+        "correct_answers": 191752,
+        "incorrect_answers": 18308
+      },
+      {
+        "direct_link": "/us/game/2019-02-11/3/2",
+        "question_number": 2,
+        "text": "Antarctic Bird",
+        "answer": [
+          "PENGUIN"
+        ],
+        "initial_letters": [
+          "P"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-02-11/3",
+        "eliminated": 5627,
+        "advancing": 186753,
+        "correct_answers": 186753,
+        "incorrect_answers": 5627
+      },
+      {
+        "direct_link": "/us/game/2019-02-11/3/3",
+        "question_number": 3,
+        "text": "What's Curled up in Your Lap?",
+        "answer": [
+          "PURRING",
+          "CAT"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "N"
+        ],
+        "game_link": "/us/game/2019-02-11/3",
+        "eliminated": 90876,
+        "advancing": 95964,
+        "correct_answers": 95964,
+        "incorrect_answers": 90876
+      },
+      {
+        "direct_link": "/us/game/2019-02-11/3/4",
+        "question_number": 4,
+        "text": "Loves to Blend in",
+        "answer": [
+          "CHAMELEON"
+        ],
+        "initial_letters": [
+          "C"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "O"
+        ],
+        "game_link": "/us/game/2019-02-11/3",
+        "eliminated": 3779,
+        "advancing": 96286,
+        "correct_answers": 96286,
+        "incorrect_answers": 3779
+      },
+      {
+        "direct_link": "/us/game/2019-02-11/3/5",
+        "question_number": 5,
+        "text": "Distinctive Feature",
+        "answer": [
+          "LEOPARD",
+          "SPOTS"
+        ],
+        "initial_letters": [
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "S",
+          "T"
+        ],
+        "game_link": "/us/game/2019-02-11/3",
+        "eliminated": 12162,
+        "advancing": 84279,
+        "correct_answers": 84279,
+        "incorrect_answers": 12162
+      },
+      {
+        "direct_link": "/us/game/2019-02-11/3/6",
+        "question_number": 6,
+        "text": "Loves to get Muddy",
+        "answer": [
+          "HIPPOPOTAMUS"
+        ],
+        "initial_letters": [
+          "I"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "T"
+        ],
+        "game_link": "/us/game/2019-02-11/3",
+        "eliminated": 7035,
+        "advancing": 77912,
+        "correct_answers": 77912,
+        "incorrect_answers": 7035
+      },
+      {
+        "direct_link": "/us/game/2019-02-11/3/7",
+        "question_number": 7,
+        "text": "Fearsome Sea Creature",
+        "answer": [
+          "GREAT",
+          "WHITE",
+          "SHARK"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "K",
+          "T"
+        ],
+        "game_link": "/us/game/2019-02-11/3",
+        "eliminated": 4787,
+        "advancing": 73737,
+        "correct_answers": 73737,
+        "incorrect_answers": 4787
+      },
+      {
+        "direct_link": "/us/game/2019-02-11/3/8",
+        "question_number": 8,
+        "text": "Joyful Animal Video",
+        "answer": [
+          "TUMBLING",
+          "PANDA",
+          "CUBS"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "T"
+        ],
+        "game_link": "/us/game/2019-02-11/3",
+        "eliminated": 44508,
+        "advancing": 29750,
+        "correct_answers": 29750,
+        "incorrect_answers": 44508
+      },
+      {
+        "direct_link": "/us/game/2019-02-11/3/9",
+        "question_number": 9,
+        "text": "Animal Myth",
+        "answer": [
+          "DUCK",
+          "QUACKS",
+          "DONâT",
+          "ECHO"
+        ],
+        "initial_letters": [
+          " ",
+          "â",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "T",
+          "U"
+        ],
+        "game_link": "/us/game/2019-02-11/3",
+        "eliminated": 21791,
+        "advancing": 13648,
+        "correct_answers": 13648,
+        "incorrect_answers": 21791
+      },
+      {
+        "direct_link": "/us/game/2019-02-11/3/10",
+        "question_number": 10,
+        "text": "Rare Ocean Accomplishment",
+        "answer": [
+          "GIANT",
+          "SQUID",
+          "CAUGHT",
+          "ON",
+          "FILM"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "O"
+        ],
+        "game_link": "/us/game/2019-02-11/3",
+        "eliminated": 10995,
+        "advancing": 6268,
+        "correct_answers": 6268,
+        "incorrect_answers": 10995
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

@@ -1,0 +1,1775 @@
+[
+  {
+    "id": 108191,
+    "show_id": 11034,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "2,500",
+    "currency": "$",
+    "start_time": "2019-05-30T19:00:00Z",
+    "direct_link": "/us/game/2019-05-30/1",
+    "time": " 3:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,897",
+      "currency": "$",
+      "average_prize": "0.86"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "12 Q format",
+        "slug": "12-q-format"
+      }
+    ],
+    "questions": [
+      {
+        "id": 112991,
+        "text": "Which of these men hosts a late-night talk show?",
+        "question_number": 1,
+        "eliminated": "-7,993",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "115,060",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 243959,
+            "text": "Conan the Barbarian",
+            "correct": false,
+            "count": "2,424",
+            "percent": "2.26%"
+          },
+          {
+            "id": 243960,
+            "text": "Arthur Conan Doyle",
+            "correct": false,
+            "count": "1,476",
+            "percent": "1.38%"
+          },
+          {
+            "id": 243961,
+            "text": "Conan OâBrien",
+            "correct": true,
+            "count": "103,167",
+            "percent": "96.36%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/1/1",
+        "game_link": "/us/game/2019-05-30/1",
+        "correct_answers": 103167,
+        "incorrect_answers": 3900,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113005,
+        "text": "By definition, an animal that lives part of its life on land and part on water is what?",
+        "question_number": 2,
+        "eliminated": "4,971",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "110,227",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 243980,
+            "text": "Ambiguous",
+            "correct": false,
+            "count": "1,841",
+            "percent": "1.7%"
+          },
+          {
+            "id": 243982,
+            "text": "Ambidextrous",
+            "correct": false,
+            "count": "1,214",
+            "percent": "1.12%"
+          },
+          {
+            "id": 243984,
+            "text": "Amphibious",
+            "correct": true,
+            "count": "105,315",
+            "percent": "97.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/1/2",
+        "game_link": "/us/game/2019-05-30/1",
+        "correct_answers": 105315,
+        "incorrect_answers": 3055,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113021,
+        "text": "Suspension, arch, and cantilever are common types of what?",
+        "question_number": 3,
+        "eliminated": "3,349",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "107,220",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244004,
+            "text": "Bridges",
+            "correct": true,
+            "count": "105,313",
+            "percent": "98.3%"
+          },
+          {
+            "id": 244005,
+            "text": "Trains",
+            "correct": false,
+            "count": "994",
+            "percent": "0.93%"
+          },
+          {
+            "id": 244006,
+            "text": "Statues",
+            "correct": false,
+            "count": "828",
+            "percent": "0.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/1/3",
+        "game_link": "/us/game/2019-05-30/1",
+        "correct_answers": 105313,
+        "incorrect_answers": 1822,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113040,
+        "text": "Which of these is typically the shortest in length?",
+        "question_number": 4,
+        "eliminated": "50,745",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "56,848",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244032,
+            "text": "Jodhpurs",
+            "correct": false,
+            "count": "19,958",
+            "percent": "19.21%"
+          },
+          {
+            "id": 244034,
+            "text": "Bermudas",
+            "correct": true,
+            "count": "42,771",
+            "percent": "41.17%"
+          },
+          {
+            "id": 244036,
+            "text": "Capris",
+            "correct": false,
+            "count": "41,171",
+            "percent": "39.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/1/4",
+        "game_link": "/us/game/2019-05-30/1",
+        "correct_answers": 42771,
+        "incorrect_answers": 61129,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113053,
+        "text": "Which of these apple varieties originates in Washington state?",
+        "question_number": 5,
+        "eliminated": "43,040",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "26,209",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244052,
+            "text": "Cameo",
+            "correct": true,
+            "count": "22,743",
+            "percent": "33.93%"
+          },
+          {
+            "id": 244057,
+            "text": "Cortland",
+            "correct": false,
+            "count": "25,601",
+            "percent": "38.19%"
+          },
+          {
+            "id": 244063,
+            "text": "Empire",
+            "correct": false,
+            "count": "18,695",
+            "percent": "27.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/1/5",
+        "game_link": "/us/game/2019-05-30/1",
+        "correct_answers": 22743,
+        "incorrect_answers": 44296,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113072,
+        "text": "What TV mom once told a family member, âdonât expect happiness,â because âitâs all a big nothingâ?",
+        "question_number": 6,
+        "eliminated": "11,763",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "17,715",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244080,
+            "text": "Lorelai Gilmore",
+            "correct": false,
+            "count": "6,323",
+            "percent": "22.77%"
+          },
+          {
+            "id": 244082,
+            "text": "Betty Draper",
+            "correct": false,
+            "count": "3,937",
+            "percent": "14.18%"
+          },
+          {
+            "id": 244084,
+            "text": "Livia Soprano",
+            "correct": true,
+            "count": "17,506",
+            "percent": "63.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/1/6",
+        "game_link": "/us/game/2019-05-30/1",
+        "correct_answers": 17506,
+        "incorrect_answers": 10260,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113085,
+        "text": "Which of these countries does NOT contain any of the Alps mountain range?",
+        "question_number": 7,
+        "eliminated": "3,824",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "15,683",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244100,
+            "text": "Germany",
+            "correct": false,
+            "count": "1,165",
+            "percent": "6.07%"
+          },
+          {
+            "id": 244102,
+            "text": "Slovenia",
+            "correct": false,
+            "count": "2,361",
+            "percent": "12.3%"
+          },
+          {
+            "id": 244104,
+            "text": "Hungary",
+            "correct": true,
+            "count": "15,672",
+            "percent": "81.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/1/7",
+        "game_link": "/us/game/2019-05-30/1",
+        "correct_answers": 15672,
+        "incorrect_answers": 3526,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113101,
+        "text": "What is the capital of the modern-day country in which the book âDraculaâ is set?",
+        "question_number": 8,
+        "eliminated": "1,250",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "14,867",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244124,
+            "text": "Kiev",
+            "correct": false,
+            "count": "264",
+            "percent": "1.65%"
+          },
+          {
+            "id": 244125,
+            "text": "Belgrade",
+            "correct": false,
+            "count": "894",
+            "percent": "5.58%"
+          },
+          {
+            "id": 244126,
+            "text": "Bucharest",
+            "correct": true,
+            "count": "14,867",
+            "percent": "92.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/1/8",
+        "game_link": "/us/game/2019-05-30/1",
+        "correct_answers": 14867,
+        "incorrect_answers": 1158,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113117,
+        "text": "What is the state bird of the greatest number of states?",
+        "question_number": 9,
+        "eliminated": "5,462",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "9,602",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244148,
+            "text": "Meadowlark",
+            "correct": false,
+            "count": "297",
+            "percent": "1.99%"
+          },
+          {
+            "id": 244151,
+            "text": "Cardinal",
+            "correct": true,
+            "count": "9,602",
+            "percent": "64.24%"
+          },
+          {
+            "id": 244153,
+            "text": "Mockingbird",
+            "correct": false,
+            "count": "5,048",
+            "percent": "33.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/1/9",
+        "game_link": "/us/game/2019-05-30/1",
+        "correct_answers": 9602,
+        "incorrect_answers": 5345,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113133,
+        "text": "Which of these movies is NOT based on a John Grisham story?",
+        "question_number": 10,
+        "eliminated": "2,843",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "7,953",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244172,
+            "text": "The Gingerbread Man",
+            "correct": false,
+            "count": "684",
+            "percent": "6.44%"
+          },
+          {
+            "id": 244176,
+            "text": "Kiss the Girls",
+            "correct": true,
+            "count": "7,953",
+            "percent": "74.94%"
+          },
+          {
+            "id": 244180,
+            "text": "A Time to Kill",
+            "correct": false,
+            "count": "1,976",
+            "percent": "18.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/1/10",
+        "game_link": "/us/game/2019-05-30/1",
+        "correct_answers": 7953,
+        "incorrect_answers": 2660,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113148,
+        "text": "Which of these federal subjects of Russia has the largest population?",
+        "question_number": 11,
+        "eliminated": "1,237",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "7,246",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244194,
+            "text": "Chechnya",
+            "correct": false,
+            "count": "333",
+            "percent": "4.01%"
+          },
+          {
+            "id": 244196,
+            "text": "Volgograd",
+            "correct": false,
+            "count": "716",
+            "percent": "8.63%"
+          },
+          {
+            "id": 244199,
+            "text": "St. Petersburg",
+            "correct": true,
+            "count": "7,246",
+            "percent": "87.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/1/11",
+        "game_link": "/us/game/2019-05-30/1",
+        "correct_answers": 7246,
+        "incorrect_answers": 1049,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113161,
+        "text": "The first US university to establish a computer science department is in what US state?",
+        "question_number": 12,
+        "eliminated": "4,717",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "2,897",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244214,
+            "text": "Indiana",
+            "correct": true,
+            "count": "2,897",
+            "percent": "39.17%"
+          },
+          {
+            "id": 244217,
+            "text": "Massachusetts",
+            "correct": false,
+            "count": "3,021",
+            "percent": "40.85%"
+          },
+          {
+            "id": 244221,
+            "text": "California",
+            "correct": false,
+            "count": "1,478",
+            "percent": "19.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/1/12",
+        "game_link": "/us/game/2019-05-30/1",
+        "correct_answers": 2897,
+        "incorrect_answers": 4499,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 90,
+        "game_id": 108191,
+        "question": "What word should Tyler spell?",
+        "results": [
+          {
+            "id": 534,
+            "display_count": "19",
+            "vote_count": 8362,
+            "text": "Demarche"
+          },
+          {
+            "id": 530,
+            "display_count": "64",
+            "vote_count": 27694,
+            "text": "Laodicean"
+          },
+          {
+            "id": 538,
+            "display_count": "16",
+            "vote_count": 6989,
+            "text": "Marocain"
+          }
+        ],
+        "created_at": "2019-05-30T19:03:43Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 108318,
+    "show_id": 11153,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "35,000",
+    "currency": "$",
+    "start_time": "2019-05-31T01:00:00Z",
+    "direct_link": "/us/game/2019-05-30/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Checkpoints",
+        "slug": "checkpoints"
+      },
+      {
+        "name": "Music",
+        "slug": "music"
+      }
+    ],
+    "questions": [
+      {
+        "id": 113177,
+        "text": "What accessory did Rihanna sing about in her 2007 song of the summer?",
+        "question_number": 1,
+        "eliminated": "1,573",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "277,663",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244238,
+            "text": "Top hat",
+            "correct": false,
+            "count": "11,366",
+            "percent": "4.28%"
+          },
+          {
+            "id": 244239,
+            "text": "Bow tie",
+            "correct": false,
+            "count": "10,955",
+            "percent": "4.13%"
+          },
+          {
+            "id": 244240,
+            "text": "Umbrella",
+            "correct": true,
+            "count": "243,232",
+            "percent": "91.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/2/1",
+        "game_link": "/us/game/2019-05-30/2",
+        "correct_answers": 243232,
+        "incorrect_answers": 22321,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113194,
+        "text": "According to her hit song, Demi Lovato is what âFor the Summerâ?",
+        "question_number": 2,
+        "eliminated": "50,568",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "227,551",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244263,
+            "text": "Hot",
+            "correct": false,
+            "count": "98,174",
+            "percent": "36.57%"
+          },
+          {
+            "id": 244266,
+            "text": "Tepid",
+            "correct": false,
+            "count": "1,848",
+            "percent": "0.69%"
+          },
+          {
+            "id": 244270,
+            "text": "Cool",
+            "correct": true,
+            "count": "168,432",
+            "percent": "62.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/2/2",
+        "game_link": "/us/game/2019-05-30/2",
+        "correct_answers": 168432,
+        "incorrect_answers": 100022,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113209,
+        "text": "Who released last yearâs hit song of the summer, âI Like Itâ?",
+        "question_number": 3,
+        "eliminated": "16,704",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "214,273",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244286,
+            "text": "Megan Thee Stallion",
+            "correct": false,
+            "count": "6,081",
+            "percent": "2.71%"
+          },
+          {
+            "id": 244287,
+            "text": "Cardi B",
+            "correct": true,
+            "count": "206,780",
+            "percent": "92.25%"
+          },
+          {
+            "id": 244288,
+            "text": "Miley Cyrus",
+            "correct": false,
+            "count": "11,293",
+            "percent": "5.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/2/3",
+        "game_link": "/us/game/2019-05-30/2",
+        "correct_answers": 206780,
+        "incorrect_answers": 17374,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113227,
+        "text": "Nelly Furtado collaborated with which producer on her hit âPromiscuousâ?",
+        "question_number": 4,
+        "eliminated": "42,293",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "173,462",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244313,
+            "text": "Mark Ronson",
+            "correct": false,
+            "count": "17,798",
+            "percent": "8.53%"
+          },
+          {
+            "id": 244315,
+            "text": "Timbaland",
+            "correct": true,
+            "count": "164,171",
+            "percent": "78.71%"
+          },
+          {
+            "id": 244318,
+            "text": "Missy Elliott",
+            "correct": false,
+            "count": "26,604",
+            "percent": "12.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/2/4",
+        "game_link": "/us/game/2019-05-30/2",
+        "correct_answers": 164171,
+        "incorrect_answers": 44402,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113241,
+        "text": "The music video for Iggy Azaleaâs âFancyâ pays homage to what film?",
+        "question_number": 5,
+        "eliminated": "43,518",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "133,220",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244334,
+            "text": "Legally Blonde",
+            "correct": false,
+            "count": "16,922",
+            "percent": "9.8%"
+          },
+          {
+            "id": 244336,
+            "text": "Clueless",
+            "correct": true,
+            "count": "131,608",
+            "percent": "76.22%"
+          },
+          {
+            "id": 244338,
+            "text": "Mean Girls",
+            "correct": false,
+            "count": "24,141",
+            "percent": "13.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/2/5",
+        "game_link": "/us/game/2019-05-30/2",
+        "correct_answers": 131608,
+        "incorrect_answers": 41063,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113259,
+        "text": "The music video for which of these hit songs features an instrumental dance break?",
+        "question_number": 6,
+        "eliminated": "108,699",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "29,592",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244360,
+            "text": "U Remind Me",
+            "correct": true,
+            "count": "28,259",
+            "percent": "21.73%"
+          },
+          {
+            "id": 244363,
+            "text": "Super Bass",
+            "correct": false,
+            "count": "22,776",
+            "percent": "17.51%"
+          },
+          {
+            "id": 244366,
+            "text": "Crazy in Love",
+            "correct": false,
+            "count": "79,040",
+            "percent": "60.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/2/6",
+        "game_link": "/us/game/2019-05-30/2",
+        "correct_answers": 28259,
+        "incorrect_answers": 101816,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113273,
+        "text": "According to the lyrics, where is Fetty Wap just before âgetting fly withâ his baby?",
+        "question_number": 7,
+        "eliminated": "27,388",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "25,196",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244382,
+            "text": "The streets",
+            "correct": false,
+            "count": "4,604",
+            "percent": "9.14%"
+          },
+          {
+            "id": 244383,
+            "text": "The club",
+            "correct": false,
+            "count": "20,601",
+            "percent": "40.89%"
+          },
+          {
+            "id": 244394,
+            "text": "The mall",
+            "correct": true,
+            "count": "25,179",
+            "percent": "49.97%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/2/7",
+        "game_link": "/us/game/2019-05-30/2",
+        "correct_answers": 25179,
+        "incorrect_answers": 25205,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113289,
+        "text": "LFOâs âSummer Girlsâ mentions which historical figure?",
+        "question_number": 8,
+        "eliminated": "11,960",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "19,099",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244406,
+            "text": "Johnny Appleseed",
+            "correct": false,
+            "count": "2,609",
+            "percent": "8.53%"
+          },
+          {
+            "id": 244408,
+            "text": "Paul Revere",
+            "correct": true,
+            "count": "19,094",
+            "percent": "62.4%"
+          },
+          {
+            "id": 244410,
+            "text": "Christopher Columbus",
+            "correct": false,
+            "count": "8,897",
+            "percent": "29.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/2/8",
+        "game_link": "/us/game/2019-05-30/2",
+        "correct_answers": 19094,
+        "incorrect_answers": 11506,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113306,
+        "text": "The singer of âJessieâs Girlâ acted in what critically acclaimed TV show?",
+        "question_number": 9,
+        "eliminated": "7,745",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "15,453",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244431,
+            "text": "True Detective",
+            "correct": true,
+            "count": "15,453",
+            "percent": "68.01%"
+          },
+          {
+            "id": 244433,
+            "text": "Breaking Bad",
+            "correct": false,
+            "count": "4,052",
+            "percent": "17.83%"
+          },
+          {
+            "id": 244439,
+            "text": "Westworld",
+            "correct": false,
+            "count": "3,217",
+            "percent": "14.16%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/2/9",
+        "game_link": "/us/game/2019-05-30/2",
+        "correct_answers": 15453,
+        "incorrect_answers": 7269,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 9,
+          "players_left": 12451,
+          "players_left_formatted": "12,451",
+          "num_winners": 3002,
+          "num_winners_formatted": "3,002",
+          "prize": 0.2,
+          "prize_formatted": "$0.20",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 113321,
+        "text": "What hotel does Nelly post up at in âHot in Herre,â according to the lyrics?",
+        "question_number": 10,
+        "eliminated": "5,074",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "9,379",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244454,
+            "text": "Ritz Carlton",
+            "correct": false,
+            "count": "1,188",
+            "percent": "9.5%"
+          },
+          {
+            "id": 244455,
+            "text": "Beverly Hills Hotel",
+            "correct": false,
+            "count": "1,937",
+            "percent": "15.49%"
+          },
+          {
+            "id": 244456,
+            "text": "Four Seasons",
+            "correct": true,
+            "count": "9,379",
+            "percent": "75.01%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/2/10",
+        "game_link": "/us/game/2019-05-30/2",
+        "correct_answers": 9379,
+        "incorrect_answers": 3125,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113337,
+        "text": "Who was NOT in the viral video that helped Carly Rae Jepsenâs breakout single become a hit in the US?",
+        "question_number": 11,
+        "eliminated": "7,308",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "3,441",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244478,
+            "text": "Vanessa Hudgens",
+            "correct": true,
+            "count": "3,441",
+            "percent": "32.48%"
+          },
+          {
+            "id": 244479,
+            "text": "Ashley Tisdale",
+            "correct": false,
+            "count": "595",
+            "percent": "5.62%"
+          },
+          {
+            "id": 244480,
+            "text": "Selena Gomez",
+            "correct": false,
+            "count": "6,558",
+            "percent": "61.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/2/11",
+        "game_link": "/us/game/2019-05-30/2",
+        "correct_answers": 3441,
+        "incorrect_answers": 7153,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113356,
+        "text": "Of which song did âEntertainment Weeklyâ declare, âYou cannot do this song. Seriously.â at karaoke?",
+        "question_number": 12,
+        "eliminated": "2,435",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "4,585",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244505,
+            "text": "Fantasy",
+            "correct": false,
+            "count": "988",
+            "percent": "14.83%"
+          },
+          {
+            "id": 244510,
+            "text": "Heartbreaker",
+            "correct": false,
+            "count": "1,086",
+            "percent": "16.31%"
+          },
+          {
+            "id": 244518,
+            "text": "Vision of Love",
+            "correct": true,
+            "count": "4,586",
+            "percent": "68.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/2/12",
+        "game_link": "/us/game/2019-05-30/2",
+        "correct_answers": 4586,
+        "incorrect_answers": 2074,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 12,
+          "players_left": 3319,
+          "players_left_formatted": "3,319",
+          "num_winners": 1266,
+          "num_winners_formatted": "1,266",
+          "prize": 0.44,
+          "prize_formatted": "$0.44",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 113369,
+        "text": "This song was written by the band that wrote what other hit?",
+        "question_number": 13,
+        "eliminated": "499",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "3,084",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244526,
+            "text": "Do You Believe in Magic",
+            "correct": true,
+            "count": "3,084",
+            "percent": "92.7%"
+          },
+          {
+            "id": 244528,
+            "text": "Daydream Believer",
+            "correct": false,
+            "count": "162",
+            "percent": "4.87%"
+          },
+          {
+            "id": 244530,
+            "text": "Turn! Turn! Turn!",
+            "correct": false,
+            "count": "81",
+            "percent": "2.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/2/13",
+        "game_link": "/us/game/2019-05-30/2",
+        "correct_answers": 3084,
+        "incorrect_answers": 243,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113385,
+        "text": "The top song of the summer in 1991 featured heavily in a movie about what?",
+        "question_number": 14,
+        "eliminated": "1,121",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "2,092",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244550,
+            "text": "Musketeers",
+            "correct": false,
+            "count": "911",
+            "percent": "28.95%"
+          },
+          {
+            "id": 244551,
+            "text": "Flashy dancing",
+            "correct": false,
+            "count": "144",
+            "percent": "4.58%"
+          },
+          {
+            "id": 244552,
+            "text": "Band of thieves",
+            "correct": true,
+            "count": "2,092",
+            "percent": "66.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/2/14",
+        "game_link": "/us/game/2019-05-30/2",
+        "correct_answers": 2092,
+        "incorrect_answers": 1055,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113403,
+        "text": "In the âOld Town Roadâ video, what is the last thing said before the song starts?",
+        "question_number": 15,
+        "eliminated": "914",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "1,933",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244577,
+            "text": "Thatâs a horse horse!",
+            "correct": false,
+            "count": "571",
+            "percent": "20.58%"
+          },
+          {
+            "id": 244582,
+            "text": "Let him ride!",
+            "correct": false,
+            "count": "271",
+            "percent": "9.77%"
+          },
+          {
+            "id": 244588,
+            "text": "Mama!",
+            "correct": true,
+            "count": "1,933",
+            "percent": "69.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/2/15",
+        "game_link": "/us/game/2019-05-30/2",
+        "correct_answers": 1933,
+        "incorrect_answers": 842,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 15,
+          "players_left": 1227,
+          "players_left_formatted": "1,227",
+          "num_winners": 705,
+          "num_winners_formatted": "705",
+          "prize": 1.04,
+          "prize_formatted": "$1.04",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 113419,
+        "text": "Sheryl Crow reportedly said she didnât want what hit on her album?",
+        "question_number": 16,
+        "eliminated": "1,173",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "52",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244602,
+            "text": "All I Wanna Do",
+            "correct": true,
+            "count": "52",
+            "percent": "4.46%"
+          },
+          {
+            "id": 244607,
+            "text": "Soak Up the Sun",
+            "correct": false,
+            "count": "1,058",
+            "percent": "90.74%"
+          },
+          {
+            "id": 244613,
+            "text": "If It Makes You Happy",
+            "correct": false,
+            "count": "56",
+            "percent": "4.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/2/16",
+        "game_link": "/us/game/2019-05-30/2",
+        "correct_answers": 52,
+        "incorrect_answers": 1114,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113433,
+        "text": "âGuardians of the Galaxy Vol. 2â features a voice cameo by the singer of what?",
+        "question_number": 17,
+        "eliminated": "18",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "32",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244622,
+            "text": "I Kissed a Girl",
+            "correct": false,
+            "count": "12",
+            "percent": "24.49%"
+          },
+          {
+            "id": 244623,
+            "text": "Umbrella",
+            "correct": false,
+            "count": "5",
+            "percent": "10.2%"
+          },
+          {
+            "id": 244628,
+            "text": "We Canât Stop",
+            "correct": true,
+            "count": "32",
+            "percent": "65.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/2/17",
+        "game_link": "/us/game/2019-05-30/2",
+        "correct_answers": 32,
+        "incorrect_answers": 17,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 113452,
+        "text": "Brandy recently took the stage and replaced lyrics in âThe Boy Is Mineâ with what?",
+        "question_number": 18,
+        "eliminated": "12",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "19",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244651,
+            "text": "The song is mine",
+            "correct": true,
+            "count": "20",
+            "percent": "64.52%"
+          },
+          {
+            "id": 244656,
+            "text": "The money is mine",
+            "correct": false,
+            "count": "7",
+            "percent": "22.58%"
+          },
+          {
+            "id": 244663,
+            "text": "The boy is fine",
+            "correct": false,
+            "count": "4",
+            "percent": "12.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/2/18",
+        "game_link": "/us/game/2019-05-30/2",
+        "correct_answers": 20,
+        "incorrect_answers": 11,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 18,
+          "players_left": 3,
+          "players_left_formatted": "3",
+          "num_winners": 16,
+          "num_winners_formatted": "16",
+          "prize": 92.11,
+          "prize_formatted": "$92.11",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 113468,
+        "text": "An animal species that appears to have a golden butt is named after the singer of which hit?",
+        "question_number": 19,
+        "eliminated": "3",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "0",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 244678,
+            "text": "Jenny From the Block",
+            "correct": false,
+            "count": "1",
+            "percent": "50.0%"
+          },
+          {
+            "id": 244679,
+            "text": "We Belong Together",
+            "correct": false,
+            "count": "1",
+            "percent": "50.0%"
+          },
+          {
+            "id": 244684,
+            "text": "Irreplaceable",
+            "correct": true,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-30/2/19",
+        "game_link": "/us/game/2019-05-30/2",
+        "correct_answers": 0,
+        "incorrect_answers": 2,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [
+      {
+        "round_number": 12,
+        "players_left": 3319,
+        "players_left_formatted": "3,319",
+        "num_winners": 1266,
+        "num_winners_formatted": "1,266",
+        "prize": 0.44,
+        "prize_formatted": "$0.44",
+        "currency": "$"
+      },
+      {
+        "round_number": 9,
+        "players_left": 12451,
+        "players_left_formatted": "12,451",
+        "num_winners": 3002,
+        "num_winners_formatted": "3,002",
+        "prize": 0.2,
+        "prize_formatted": "$0.20",
+        "currency": "$"
+      },
+      {
+        "round_number": 15,
+        "players_left": 1227,
+        "players_left_formatted": "1,227",
+        "num_winners": 705,
+        "num_winners_formatted": "705",
+        "prize": 1.04,
+        "prize_formatted": "$1.04",
+        "currency": "$"
+      },
+      {
+        "round_number": 18,
+        "players_left": 3,
+        "players_left_formatted": "3",
+        "num_winners": 16,
+        "num_winners_formatted": "16",
+        "prize": 92.11,
+        "prize_formatted": "$92.11",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "3,364.40",
+    "total_checkpoint_winners": "4,989",
+    "smallest_checkpoint_prize": "$0.20",
+    "largest_checkpoint_prize": "$92.11",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 108490,
+    "show_id": 11149,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-05-31T01:40:00Z",
+    "direct_link": "/us/game/2019-05-30/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "11,070",
+      "currency": "$",
+      "average_prize": "0.09"
+    },
+    "time": " 9:40 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-05-30/3/1",
+        "question_number": 1,
+        "text": "Mmmboppers",
+        "answer": [
+          "HANSON"
+        ],
+        "initial_letters": [
+          "H"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "S"
+        ],
+        "game_link": "/us/game/2019-05-30/3",
+        "eliminated": 8819,
+        "advancing": 121919,
+        "correct_answers": 121919,
+        "incorrect_answers": 8819
+      },
+      {
+        "direct_link": "/us/game/2019-05-30/3/2",
+        "question_number": 2,
+        "text": "Cardi B Approves",
+        "answer": [
+          "I",
+          "LIKE",
+          "IT"
+        ],
+        "initial_letters": [
+          " ",
+          "K"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "L"
+        ],
+        "game_link": "/us/game/2019-05-30/3",
+        "eliminated": 2419,
+        "advancing": 119646,
+        "correct_answers": 119646,
+        "incorrect_answers": 2419
+      },
+      {
+        "direct_link": "/us/game/2019-05-30/3/3",
+        "question_number": 3,
+        "text": "Slowly",
+        "answer": [
+          "DESPACITO"
+        ],
+        "initial_letters": [
+          "D"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "S"
+        ],
+        "game_link": "/us/game/2019-05-30/3",
+        "eliminated": 42534,
+        "advancing": 77077,
+        "correct_answers": 77077,
+        "incorrect_answers": 42534
+      },
+      {
+        "direct_link": "/us/game/2019-05-30/3/4",
+        "question_number": 4,
+        "text": "Controversial Megahit",
+        "answer": [
+          "BLURRED",
+          "LINES"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "N"
+        ],
+        "game_link": "/us/game/2019-05-30/3",
+        "eliminated": 23741,
+        "advancing": 55269,
+        "correct_answers": 55269,
+        "incorrect_answers": 23741
+      },
+      {
+        "direct_link": "/us/game/2019-05-30/3/5",
+        "question_number": 5,
+        "text": "Trustworthy Body Parts",
+        "answer": [
+          "HIPS",
+          "DONâT",
+          "LIE"
+        ],
+        "initial_letters": [
+          " ",
+          "â",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "P"
+        ],
+        "game_link": "/us/game/2019-05-30/3",
+        "eliminated": 4312,
+        "advancing": 52309,
+        "correct_answers": 52309,
+        "incorrect_answers": 4312
+      },
+      {
+        "direct_link": "/us/game/2019-05-30/3/6",
+        "question_number": 6,
+        "text": "Wish Granter",
+        "answer": [
+          "GENIE",
+          "IN",
+          "A",
+          "BOTTLE"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "I"
+        ],
+        "game_link": "/us/game/2019-05-30/3",
+        "eliminated": 1341,
+        "advancing": 51219,
+        "correct_answers": 51219,
+        "incorrect_answers": 1341
+      },
+      {
+        "direct_link": "/us/game/2019-05-30/3/7",
+        "question_number": 7,
+        "text": "TLC Advice",
+        "answer": [
+          "DONâT",
+          "GO",
+          "CHASING",
+          "WATERFALLS"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "W"
+        ],
+        "game_link": "/us/game/2019-05-30/3",
+        "eliminated": 6353,
+        "advancing": 44957,
+        "correct_answers": 44957,
+        "incorrect_answers": 6353
+      },
+      {
+        "direct_link": "/us/game/2019-05-30/3/8",
+        "question_number": 8,
+        "text": "California Gurls Fashion",
+        "answer": [
+          "DAISY",
+          "DUKES,",
+          "BIKINIS",
+          "ON",
+          "TOP"
+        ],
+        "initial_letters": [
+          " ",
+          ",",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "T"
+        ],
+        "game_link": "/us/game/2019-05-30/3",
+        "eliminated": 14298,
+        "advancing": 31506,
+        "correct_answers": 31506,
+        "incorrect_answers": 14298
+      },
+      {
+        "direct_link": "/us/game/2019-05-30/3/9",
+        "question_number": 9,
+        "text": "Reason to get Undressed",
+        "answer": [
+          "ITâS",
+          "GETTING",
+          "HOT",
+          "IN",
+          "HERRE"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "N"
+        ],
+        "game_link": "/us/game/2019-05-30/3",
+        "eliminated": 922,
+        "advancing": 33115,
+        "correct_answers": 33115,
+        "incorrect_answers": 922
+      },
+      {
+        "direct_link": "/us/game/2019-05-30/3/10",
+        "question_number": 10,
+        "text": "Back in the Day Phone Request",
+        "answer": [
+          "DIAL",
+          "ONE",
+          "NINE",
+          "HUNDRED",
+          "MIX",
+          "A",
+          "LOT"
+        ],
+        "initial_letters": [
+          " ",
+          "X"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "N"
+        ],
+        "game_link": "/us/game/2019-05-30/3",
+        "eliminated": 14647,
+        "advancing": 18621,
+        "correct_answers": 18621,
+        "incorrect_answers": 14647
+      },
+      {
+        "direct_link": "/us/game/2019-05-30/3/11",
+        "question_number": 11,
+        "text": "â90s Summer Duo",
+        "answer": [
+          "DJ",
+          "JAZZY",
+          "JEFF",
+          "&",
+          "THE",
+          "FRESH",
+          "PRINCE"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "Y"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "S"
+        ],
+        "game_link": "/us/game/2019-05-30/3",
+        "eliminated": 12556,
+        "advancing": 10023,
+        "correct_answers": 10023,
+        "incorrect_answers": 12556
+      },
+      {
+        "direct_link": "/us/game/2019-05-30/3/12",
+        "question_number": 12,
+        "text": "Flirty Offer",
+        "answer": [
+          "HEREâS",
+          "MY",
+          "NUMBER,",
+          "CALL",
+          "ME",
+          "MAYBE"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          ",",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "S"
+        ],
+        "game_link": "/us/game/2019-05-30/3",
+        "eliminated": 2200,
+        "advancing": 11070,
+        "correct_answers": 11070,
+        "incorrect_answers": 2200
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

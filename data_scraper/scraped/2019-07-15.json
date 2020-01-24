@@ -1,0 +1,1441 @@
+[
+  {
+    "id": 120973,
+    "show_id": 11756,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-07-16T00:00:00Z",
+    "direct_link": "/us/game/2019-07-15/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "9,534",
+      "currency": "$",
+      "average_prize": "0.10"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 130476,
+        "text": "Which contender for GOAT of the QBs was picked latest in the NFL Draft?",
+        "question_number": 1,
+        "eliminated": "-14,586",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "99,195",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270188,
+            "text": "Tom Brady",
+            "correct": true,
+            "count": "67,379",
+            "percent": "83.51%"
+          },
+          {
+            "id": 270189,
+            "text": "Peyton Manning",
+            "correct": false,
+            "count": "7,188",
+            "percent": "8.91%"
+          },
+          {
+            "id": 270190,
+            "text": "Joe Montana",
+            "correct": false,
+            "count": "6,121",
+            "percent": "7.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/1/1",
+        "game_link": "/us/game/2019-07-15/1",
+        "correct_answers": 67379,
+        "incorrect_answers": 13309,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130489,
+        "text": "In which of these events does Usain Bolt NOT hold the world record?",
+        "question_number": 2,
+        "eliminated": "3,577",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "95,685",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270206,
+            "text": "100 meters",
+            "correct": false,
+            "count": "10,299",
+            "percent": "12.48%"
+          },
+          {
+            "id": 270207,
+            "text": "200 meters",
+            "correct": false,
+            "count": "9,053",
+            "percent": "10.97%"
+          },
+          {
+            "id": 270208,
+            "text": "400 meters",
+            "correct": true,
+            "count": "63,167",
+            "percent": "76.55%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/1/2",
+        "game_link": "/us/game/2019-07-15/1",
+        "correct_answers": 63167,
+        "incorrect_answers": 19352,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130509,
+        "text": "The only individual player to win more than one Heisman played at what school?",
+        "question_number": 3,
+        "eliminated": "3,889",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "91,926",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270236,
+            "text": "Alabama",
+            "correct": false,
+            "count": "11,849",
+            "percent": "14.8%"
+          },
+          {
+            "id": 270237,
+            "text": "Ohio State",
+            "correct": true,
+            "count": "57,021",
+            "percent": "71.2%"
+          },
+          {
+            "id": 270238,
+            "text": "Notre Dame",
+            "correct": false,
+            "count": "11,215",
+            "percent": "14.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/1/3",
+        "game_link": "/us/game/2019-07-15/1",
+        "correct_answers": 57021,
+        "incorrect_answers": 23064,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130521,
+        "text": "Which UConn star has the greatest number of Most Outstanding Player awards?",
+        "question_number": 4,
+        "eliminated": "3,980",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "88,104",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270254,
+            "text": "Diana Taurasi",
+            "correct": false,
+            "count": "16,933",
+            "percent": "21.97%"
+          },
+          {
+            "id": 270255,
+            "text": "Maya Moore",
+            "correct": false,
+            "count": "23,572",
+            "percent": "30.59%"
+          },
+          {
+            "id": 270256,
+            "text": "Breanna Stewart",
+            "correct": true,
+            "count": "36,554",
+            "percent": "47.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/1/4",
+        "game_link": "/us/game/2019-07-15/1",
+        "correct_answers": 36554,
+        "incorrect_answers": 40505,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130541,
+        "text": "Which of these World Cup records did PelÃ© NOT set?",
+        "question_number": 5,
+        "eliminated": "4,929",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "83,373",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270284,
+            "text": "Youngest hat trick",
+            "correct": false,
+            "count": "12,066",
+            "percent": "16.5%"
+          },
+          {
+            "id": 270285,
+            "text": "Youngest Cup winner",
+            "correct": false,
+            "count": "18,340",
+            "percent": "25.09%"
+          },
+          {
+            "id": 270286,
+            "text": "Youngest red card",
+            "correct": true,
+            "count": "42,703",
+            "percent": "58.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/1/5",
+        "game_link": "/us/game/2019-07-15/1",
+        "correct_answers": 42703,
+        "incorrect_answers": 30406,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130551,
+        "text": "What country hosted the Olympics that saw Simone Biles win four gold medals?",
+        "question_number": 6,
+        "eliminated": "4,379",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "79,760",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270299,
+            "text": "England",
+            "correct": false,
+            "count": "10,110",
+            "percent": "14.43%"
+          },
+          {
+            "id": 270300,
+            "text": "Brazil",
+            "correct": true,
+            "count": "40,457",
+            "percent": "57.76%"
+          },
+          {
+            "id": 270301,
+            "text": "China",
+            "correct": false,
+            "count": "19,482",
+            "percent": "27.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/1/6",
+        "game_link": "/us/game/2019-07-15/1",
+        "correct_answers": 40457,
+        "incorrect_answers": 29592,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130574,
+        "text": "What franchise has won the World Series with the greatest number of regular-season wins?",
+        "question_number": 7,
+        "eliminated": "5,534",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "74,439",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270335,
+            "text": "Baltimore Orioles",
+            "correct": false,
+            "count": "7,010",
+            "percent": "10.29%"
+          },
+          {
+            "id": 270336,
+            "text": "New York Yankees",
+            "correct": true,
+            "count": "41,475",
+            "percent": "60.87%"
+          },
+          {
+            "id": 270337,
+            "text": "Chicago Cubs",
+            "correct": false,
+            "count": "19,654",
+            "percent": "28.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/1/7",
+        "game_link": "/us/game/2019-07-15/1",
+        "correct_answers": 41475,
+        "incorrect_answers": 26664,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130583,
+        "text": "Before he won 10 titles as a coach, in what conference did John Wooden play college ball?",
+        "question_number": 8,
+        "eliminated": "14,737",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "59,973",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270347,
+            "text": "ACC",
+            "correct": false,
+            "count": "10,374",
+            "percent": "16.14%"
+          },
+          {
+            "id": 270348,
+            "text": "Big 10",
+            "correct": true,
+            "count": "24,319",
+            "percent": "37.83%"
+          },
+          {
+            "id": 270350,
+            "text": "Pac 10",
+            "correct": false,
+            "count": "29,585",
+            "percent": "46.03%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/1/8",
+        "game_link": "/us/game/2019-07-15/1",
+        "correct_answers": 24319,
+        "incorrect_answers": 39959,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130600,
+        "text": "Out of his 18 Majors wins, which tournament did Jack Nicklaus win the most?",
+        "question_number": 9,
+        "eliminated": "17,703",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "44,247",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270373,
+            "text": "PGA Championship",
+            "correct": false,
+            "count": "13,984",
+            "percent": "26.16%"
+          },
+          {
+            "id": 270375,
+            "text": "The Masters",
+            "correct": true,
+            "count": "26,603",
+            "percent": "49.76%"
+          },
+          {
+            "id": 270378,
+            "text": "US Open",
+            "correct": false,
+            "count": "12,872",
+            "percent": "24.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/1/9",
+        "game_link": "/us/game/2019-07-15/1",
+        "correct_answers": 26603,
+        "incorrect_answers": 26856,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130619,
+        "text": "Which all-time tennis great has winning head-to-head records in singles matches against the other two?",
+        "question_number": 10,
+        "eliminated": "22,385",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "23,344",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270401,
+            "text": "Rafael Nadal",
+            "correct": false,
+            "count": "5,260",
+            "percent": "12.93%"
+          },
+          {
+            "id": 270402,
+            "text": "Novak Djokovic",
+            "correct": true,
+            "count": "21,582",
+            "percent": "53.06%"
+          },
+          {
+            "id": 270403,
+            "text": "Roger Federer",
+            "correct": false,
+            "count": "13,829",
+            "percent": "34.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/1/10",
+        "game_link": "/us/game/2019-07-15/1",
+        "correct_answers": 21582,
+        "incorrect_answers": 19089,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130631,
+        "text": "What player assisted Wayne Gretzky on the greatest amount of his record number of goals?",
+        "question_number": 11,
+        "eliminated": "10,357",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "16,132",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270419,
+            "text": "Jari Kurri",
+            "correct": true,
+            "count": "16,132",
+            "percent": "62.62%"
+          },
+          {
+            "id": 270420,
+            "text": "Paul Coffey",
+            "correct": false,
+            "count": "4,738",
+            "percent": "18.39%"
+          },
+          {
+            "id": 270421,
+            "text": "Mark Messier",
+            "correct": false,
+            "count": "4,891",
+            "percent": "18.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/1/11",
+        "game_link": "/us/game/2019-07-15/1",
+        "correct_answers": 16132,
+        "incorrect_answers": 9629,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130647,
+        "text": "What team was eliminated in the playoffs by a Michael Jordan-led team the most?",
+        "question_number": 12,
+        "eliminated": "9,768",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "9,534",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270443,
+            "text": "Cleveland Cavaliers",
+            "correct": false,
+            "count": "5,649",
+            "percent": "29.68%"
+          },
+          {
+            "id": 270444,
+            "text": "New York Knicks",
+            "correct": true,
+            "count": "9,534",
+            "percent": "50.08%"
+          },
+          {
+            "id": 270446,
+            "text": "Miami Heat",
+            "correct": false,
+            "count": "3,853",
+            "percent": "20.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/1/12",
+        "game_link": "/us/game/2019-07-15/1",
+        "correct_answers": 9534,
+        "incorrect_answers": 9502,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 121092,
+    "show_id": 11758,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "225,000",
+    "currency": "$",
+    "start_time": "2019-07-16T01:00:00Z",
+    "direct_link": "/us/game/2019-07-15/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Checkpoints",
+        "slug": "checkpoints"
+      },
+      {
+        "name": "Stranger Things",
+        "slug": "stranger-things"
+      },
+      {
+        "name": "TV",
+        "slug": "tv"
+      }
+    ],
+    "questions": [
+      {
+        "id": 130667,
+        "text": "Who plays Joyce Byers?",
+        "question_number": 1,
+        "eliminated": "-31,736",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "281,079",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270473,
+            "text": "Gwyneth Paltrow",
+            "correct": false,
+            "count": "13,751",
+            "percent": "5.7%"
+          },
+          {
+            "id": 270474,
+            "text": "Winona Ryder",
+            "correct": true,
+            "count": "209,156",
+            "percent": "86.64%"
+          },
+          {
+            "id": 270475,
+            "text": "Janeane Garafolo",
+            "correct": false,
+            "count": "18,503",
+            "percent": "7.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/2/1",
+        "game_link": "/us/game/2019-07-15/2",
+        "correct_answers": 209156,
+        "incorrect_answers": 32254,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130681,
+        "text": "Who is this character?",
+        "question_number": 2,
+        "eliminated": "8,093",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "273,335",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270493,
+            "text": "Eleven",
+            "correct": false,
+            "count": "16,074",
+            "percent": "6.67%"
+          },
+          {
+            "id": 270496,
+            "text": "Barb",
+            "correct": true,
+            "count": "217,075",
+            "percent": "90.08%"
+          },
+          {
+            "id": 270499,
+            "text": "Demagorgon",
+            "correct": false,
+            "count": "7,832",
+            "percent": "3.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/2/2",
+        "game_link": "/us/game/2019-07-15/2",
+        "correct_answers": 217075,
+        "incorrect_answers": 23906,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130696,
+        "text": "Where does âStranger Thingsâ mainly take place?",
+        "question_number": 3,
+        "eliminated": "6,568",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "266,922",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270516,
+            "text": "Hawkins, Indiana",
+            "correct": true,
+            "count": "220,869",
+            "percent": "92.78%"
+          },
+          {
+            "id": 270518,
+            "text": "Ding Dong, Texas",
+            "correct": false,
+            "count": "3,000",
+            "percent": "1.26%"
+          },
+          {
+            "id": 270520,
+            "text": "Peoria, Illinois",
+            "correct": false,
+            "count": "14,194",
+            "percent": "5.96%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/2/3",
+        "game_link": "/us/game/2019-07-15/2",
+        "correct_answers": 220869,
+        "incorrect_answers": 17194,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130711,
+        "text": "What does Eleven say after this?",
+        "question_number": 4,
+        "eliminated": "27,496",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "239,555",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270539,
+            "text": "Stop",
+            "correct": false,
+            "count": "16,409",
+            "percent": "6.95%"
+          },
+          {
+            "id": 270540,
+            "text": "Run",
+            "correct": false,
+            "count": "73,859",
+            "percent": "31.29%"
+          },
+          {
+            "id": 270541,
+            "text": "Go",
+            "correct": true,
+            "count": "145,797",
+            "percent": "61.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/2/4",
+        "game_link": "/us/game/2019-07-15/2",
+        "correct_answers": 145797,
+        "incorrect_answers": 90268,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130727,
+        "text": "What is the name of the big school dance at the end of Season 2?",
+        "question_number": 5,
+        "eliminated": "12,288",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "229,840",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270563,
+            "text": "Spring Fling",
+            "correct": false,
+            "count": "37,113",
+            "percent": "17.56%"
+          },
+          {
+            "id": 270566,
+            "text": "Snow Ball",
+            "correct": true,
+            "count": "165,343",
+            "percent": "78.25%"
+          },
+          {
+            "id": 270570,
+            "text": "Junior Prom",
+            "correct": false,
+            "count": "8,852",
+            "percent": "4.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/2/5",
+        "game_link": "/us/game/2019-07-15/2",
+        "correct_answers": 165343,
+        "incorrect_answers": 45965,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130743,
+        "text": "What is the first letter Will sends Joyce over the Christmas lights?",
+        "question_number": 6,
+        "eliminated": "21,993",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "208,524",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270587,
+            "text": "R",
+            "correct": true,
+            "count": "126,292",
+            "percent": "62.65%"
+          },
+          {
+            "id": 270588,
+            "text": "I",
+            "correct": false,
+            "count": "31,051",
+            "percent": "15.4%"
+          },
+          {
+            "id": 270589,
+            "text": "H",
+            "correct": false,
+            "count": "44,226",
+            "percent": "21.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/2/6",
+        "game_link": "/us/game/2019-07-15/2",
+        "correct_answers": 126292,
+        "incorrect_answers": 75277,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130760,
+        "text": "What is the first thing we see Eleven eat?",
+        "question_number": 7,
+        "eliminated": "31,929",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "178,893",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270614,
+            "text": "Waffles",
+            "correct": false,
+            "count": "74,653",
+            "percent": "39.84%"
+          },
+          {
+            "id": 270615,
+            "text": "Burger",
+            "correct": false,
+            "count": "21,027",
+            "percent": "11.22%"
+          },
+          {
+            "id": 270618,
+            "text": "Fries",
+            "correct": true,
+            "count": "91,723",
+            "percent": "48.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/2/7",
+        "game_link": "/us/game/2019-07-15/2",
+        "correct_answers": 91723,
+        "incorrect_answers": 95680,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130776,
+        "text": "What is Billy Hargrove wearing when he is first introduced?",
+        "question_number": 8,
+        "eliminated": "18,973",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "163,424",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270638,
+            "text": "White tank top",
+            "correct": false,
+            "count": "19,078",
+            "percent": "11.79%"
+          },
+          {
+            "id": 270639,
+            "text": "Denim on denim",
+            "correct": true,
+            "count": "120,435",
+            "percent": "74.43%"
+          },
+          {
+            "id": 270640,
+            "text": "Heâs shirtless",
+            "correct": false,
+            "count": "22,297",
+            "percent": "13.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/2/8",
+        "game_link": "/us/game/2019-07-15/2",
+        "correct_answers": 120435,
+        "incorrect_answers": 41375,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130791,
+        "text": "What song is playing when Lucas asks Max to dance at the Snow Ball?",
+        "question_number": 9,
+        "eliminated": "55,881",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "109,943",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270659,
+            "text": "Every Breath You Take",
+            "correct": false,
+            "count": "59,275",
+            "percent": "39.86%"
+          },
+          {
+            "id": 270661,
+            "text": "Hot Blooded",
+            "correct": false,
+            "count": "8,030",
+            "percent": "5.4%"
+          },
+          {
+            "id": 270663,
+            "text": "Time After Time",
+            "correct": true,
+            "count": "81,385",
+            "percent": "54.73%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/2/9",
+        "game_link": "/us/game/2019-07-15/2",
+        "correct_answers": 81385,
+        "incorrect_answers": 67305,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130808,
+        "text": "Which of these actors has NOT lent their voice to a âStranger Thingsâ voice message marketing campaign?",
+        "question_number": 10,
+        "eliminated": "60,640",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "56,963",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270686,
+            "text": "Brett Gelman",
+            "correct": false,
+            "count": "19,399",
+            "percent": "17.88%"
+          },
+          {
+            "id": 270687,
+            "text": "Winona Ryder",
+            "correct": true,
+            "count": "53,278",
+            "percent": "49.1%"
+          },
+          {
+            "id": 270688,
+            "text": "Paul Reiser",
+            "correct": false,
+            "count": "35,828",
+            "percent": "33.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/2/10",
+        "game_link": "/us/game/2019-07-15/2",
+        "correct_answers": 53278,
+        "incorrect_answers": 55227,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130823,
+        "text": "What is Hopperâs first move in this dance scene?",
+        "question_number": 11,
+        "eliminated": "45,406",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "26,343",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270707,
+            "text": "Finger snap",
+            "correct": true,
+            "count": "26,344",
+            "percent": "37.52%"
+          },
+          {
+            "id": 270708,
+            "text": "Leg kick",
+            "correct": false,
+            "count": "11,305",
+            "percent": "16.1%"
+          },
+          {
+            "id": 270709,
+            "text": "Shoulder shimmy",
+            "correct": false,
+            "count": "32,568",
+            "percent": "46.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/2/11",
+        "game_link": "/us/game/2019-07-15/2",
+        "correct_answers": 26344,
+        "incorrect_answers": 43873,
+        "savage": true,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 21077,
+          "players_left_formatted": "21,077",
+          "num_winners": 5265,
+          "num_winners_formatted": "5,265",
+          "prize": 0.08,
+          "prize_formatted": "$0.08",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 130840,
+        "text": "What movie encouraged the actress who plays Eleven to cut her hair?",
+        "question_number": 12,
+        "eliminated": "11,106",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "14,234",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270734,
+            "text": "GI Jane",
+            "correct": false,
+            "count": "2,045",
+            "percent": "10.81%"
+          },
+          {
+            "id": 270736,
+            "text": "V for Vendetta",
+            "correct": false,
+            "count": "2,632",
+            "percent": "13.92%"
+          },
+          {
+            "id": 270738,
+            "text": "Mad Max: Fury Road",
+            "correct": true,
+            "count": "14,234",
+            "percent": "75.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/2/12",
+        "game_link": "/us/game/2019-07-15/2",
+        "correct_answers": 14234,
+        "incorrect_answers": 4677,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130857,
+        "text": "What is the last D&D action performed in this scene?",
+        "question_number": 13,
+        "eliminated": "10,429",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "6,667",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270759,
+            "text": "Grapple",
+            "correct": false,
+            "count": "2,626",
+            "percent": "15.44%"
+          },
+          {
+            "id": 270763,
+            "text": "Protection spell",
+            "correct": false,
+            "count": "7,717",
+            "percent": "45.37%"
+          },
+          {
+            "id": 270768,
+            "text": "Neither",
+            "correct": true,
+            "count": "6,667",
+            "percent": "39.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/2/13",
+        "game_link": "/us/game/2019-07-15/2",
+        "correct_answers": 6667,
+        "incorrect_answers": 10343,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130871,
+        "text": "According to the âStranger Thingsâ creators, the âDNAâ of which â80s film is âwritten all over the showâ?",
+        "question_number": 14,
+        "eliminated": "4,431",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "2,236",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270779,
+            "text": "Stand By Me",
+            "correct": true,
+            "count": "2,236",
+            "percent": "34.42%"
+          },
+          {
+            "id": 270780,
+            "text": "The Thing",
+            "correct": false,
+            "count": "2,018",
+            "percent": "31.07%"
+          },
+          {
+            "id": 270781,
+            "text": "ET",
+            "correct": false,
+            "count": "2,242",
+            "percent": "34.51%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/2/14",
+        "game_link": "/us/game/2019-07-15/2",
+        "correct_answers": 2236,
+        "incorrect_answers": 4260,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130889,
+        "text": "In Season 3, the âStranger Thingsâ writers challenged viewers to find an Easter egg related to what character?",
+        "question_number": 15,
+        "eliminated": "1,154",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "1,079",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270804,
+            "text": "Marty McFly",
+            "correct": false,
+            "count": "649",
+            "percent": "29.35%"
+          },
+          {
+            "id": 270808,
+            "text": "Beetlejuice",
+            "correct": true,
+            "count": "1,081",
+            "percent": "48.89%"
+          },
+          {
+            "id": 270812,
+            "text": "ET",
+            "correct": false,
+            "count": "481",
+            "percent": "21.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/2/15",
+        "game_link": "/us/game/2019-07-15/2",
+        "correct_answers": 1081,
+        "incorrect_answers": 1130,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 15,
+          "players_left": 455,
+          "players_left_formatted": "455",
+          "num_winners": 622,
+          "num_winners_formatted": "622",
+          "prize": 2.79,
+          "prize_formatted": "$2.79",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 130903,
+        "text": "Which of these countries was admitted to the UN most recently?",
+        "question_number": 16,
+        "eliminated": "340",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "115",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270827,
+            "text": "Slovakia",
+            "correct": false,
+            "count": "149",
+            "percent": "33.04%"
+          },
+          {
+            "id": 270828,
+            "text": "Switzerland",
+            "correct": true,
+            "count": "115",
+            "percent": "25.5%"
+          },
+          {
+            "id": 270830,
+            "text": "Serbia",
+            "correct": false,
+            "count": "187",
+            "percent": "41.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/2/16",
+        "game_link": "/us/game/2019-07-15/2",
+        "correct_answers": 115,
+        "incorrect_answers": 336,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130921,
+        "text": "Which of these hip-hop artists does NOT have the real last name âSmithâ?",
+        "question_number": 17,
+        "eliminated": "62",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "53",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270854,
+            "text": "Chuck D",
+            "correct": true,
+            "count": "54",
+            "percent": "47.37%"
+          },
+          {
+            "id": 270859,
+            "text": "Method Man",
+            "correct": false,
+            "count": "23",
+            "percent": "20.18%"
+          },
+          {
+            "id": 270862,
+            "text": "Lil Jon",
+            "correct": false,
+            "count": "37",
+            "percent": "32.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/2/17",
+        "game_link": "/us/game/2019-07-15/2",
+        "correct_answers": 54,
+        "incorrect_answers": 60,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 130937,
+        "text": "The largest mall in North America also contains the worldâs largest what?",
+        "question_number": 18,
+        "eliminated": "44",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "7",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 270879,
+            "text": "Indoor amusement park",
+            "correct": false,
+            "count": "29",
+            "percent": "58.0%"
+          },
+          {
+            "id": 270882,
+            "text": "Indoor shooting range",
+            "correct": false,
+            "count": "13",
+            "percent": "26.0%"
+          },
+          {
+            "id": 270887,
+            "text": "Indoor lake",
+            "correct": true,
+            "count": "8",
+            "percent": "16.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-15/2/18",
+        "game_link": "/us/game/2019-07-15/2",
+        "correct_answers": 8,
+        "incorrect_answers": 42,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 18,
+          "players_left": 0,
+          "players_left_formatted": "0",
+          "num_winners": 6,
+          "num_winners_formatted": "6",
+          "prize": 285.72,
+          "prize_formatted": "$285.72",
+          "currency": "$"
+        },
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 710,
+        "game_id": 121092,
+        "question": "What ice cream would you order from Scoops Ahoy?",
+        "results": [
+          {
+            "id": 4267,
+            "display_count": "31",
+            "vote_count": 22578,
+            "text": "Peppermint Stick"
+          },
+          {
+            "id": 4272,
+            "display_count": "25",
+            "vote_count": 17837,
+            "text": "Strawberry"
+          },
+          {
+            "id": 4280,
+            "display_count": "44",
+            "vote_count": 31318,
+            "text": "Vanilla with Sprinkles"
+          }
+        ],
+        "created_at": "2019-07-16T01:05:46Z"
+      },
+      {
+        "id": 718,
+        "game_id": 121092,
+        "question": "Which of these Season 3 characters do you relate to?",
+        "results": [
+          {
+            "id": 4315,
+            "display_count": "35",
+            "vote_count": 21684,
+            "text": "Alexei"
+          },
+          {
+            "id": 4318,
+            "display_count": "25",
+            "vote_count": 15611,
+            "text": "Erica"
+          },
+          {
+            "id": 4321,
+            "display_count": "41",
+            "vote_count": 25499,
+            "text": "Robin"
+          }
+        ],
+        "created_at": "2019-07-16T01:06:23Z"
+      },
+      {
+        "id": 703,
+        "game_id": 121092,
+        "question": "Who would be your Stranger Things BFF?",
+        "results": [
+          {
+            "id": 4224,
+            "display_count": "52",
+            "vote_count": 29362,
+            "text": " Dustin"
+          },
+          {
+            "id": 4220,
+            "display_count": "29",
+            "vote_count": 16579,
+            "text": "Max"
+          },
+          {
+            "id": 4232,
+            "display_count": "19",
+            "vote_count": 11034,
+            "text": "Mike"
+          }
+        ],
+        "created_at": "2019-07-16T01:05:02Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 11,
+        "players_left": 21077,
+        "players_left_formatted": "21,077",
+        "num_winners": 5265,
+        "num_winners_formatted": "5,265",
+        "prize": 0.08,
+        "prize_formatted": "$0.08",
+        "currency": "$"
+      },
+      {
+        "round_number": 15,
+        "players_left": 455,
+        "players_left_formatted": "455",
+        "num_winners": 622,
+        "num_winners_formatted": "622",
+        "prize": 2.79,
+        "prize_formatted": "$2.79",
+        "currency": "$"
+      },
+      {
+        "round_number": 18,
+        "players_left": 0,
+        "players_left_formatted": "0",
+        "num_winners": 6,
+        "num_winners_formatted": "6",
+        "prize": 285.72,
+        "prize_formatted": "$285.72",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "3,870.90",
+    "total_checkpoint_winners": "5,893",
+    "smallest_checkpoint_prize": "$0.08",
+    "largest_checkpoint_prize": "$285.72",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

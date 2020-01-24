@@ -1,0 +1,164 @@
+[
+  {
+    "id": 126500,
+    "show_id": 11997,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-08-08T00:00:00Z",
+    "direct_link": "/us/game/2019-08-07/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "7,185",
+      "currency": "$",
+      "average_prize": "0.14"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1102,
+        "game_id": 126500,
+        "question": "What decade of sports trivia should we cover?",
+        "results": [
+          {
+            "id": 6626,
+            "display_count": "31",
+            "vote_count": 10609,
+            "text": "00s"
+          },
+          {
+            "id": 6616,
+            "display_count": "36",
+            "vote_count": 12337,
+            "text": "80s"
+          },
+          {
+            "id": 6620,
+            "display_count": "33",
+            "vote_count": 11179,
+            "text": "90s"
+          }
+        ],
+        "created_at": "2019-08-08T00:12:18Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 126523,
+    "show_id": 11834,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "240,000",
+    "currency": "$",
+    "start_time": "2019-08-08T01:00:00Z",
+    "direct_link": "/us/game/2019-08-07/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1120,
+        "game_id": 126523,
+        "question": "Who wore this dress?",
+        "results": [
+          {
+            "id": 6723,
+            "display_count": "43",
+            "vote_count": 25203,
+            "text": "Beyonce "
+          },
+          {
+            "id": 6716,
+            "display_count": "16",
+            "vote_count": 9437,
+            "text": "Madonna"
+          },
+          {
+            "id": 6713,
+            "display_count": "40",
+            "vote_count": 23513,
+            "text": "Rihanna"
+          }
+        ],
+        "created_at": "2019-08-08T01:04:21Z"
+      },
+      {
+        "id": 1110,
+        "game_id": 126523,
+        "question": "Who wore this dress? ",
+        "results": [
+          {
+            "id": 6664,
+            "display_count": "30",
+            "vote_count": 14367,
+            "text": "Cher"
+          },
+          {
+            "id": 6668,
+            "display_count": "33",
+            "vote_count": 16165,
+            "text": "Katy Perry"
+          },
+          {
+            "id": 6666,
+            "display_count": "37",
+            "vote_count": 17950,
+            "text": "Lady Gaga "
+          }
+        ],
+        "created_at": "2019-08-08T01:03:42Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

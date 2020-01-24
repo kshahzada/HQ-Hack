@@ -1,0 +1,388 @@
+[
+  {
+    "id": 126377,
+    "show_id": 11833,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "240,000",
+    "currency": "$",
+    "start_time": "2019-08-07T01:00:00Z",
+    "direct_link": "/us/game/2019-08-06/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1087,
+        "game_id": 126377,
+        "question": "What theme would you like to see on HQ Trivia?",
+        "results": [
+          {
+            "id": 6525,
+            "display_count": "31",
+            "vote_count": 16344,
+            "text": "Boy Meets World"
+          },
+          {
+            "id": 6530,
+            "display_count": "44",
+            "vote_count": 23591,
+            "text": "M*A*S*H"
+          },
+          {
+            "id": 6521,
+            "display_count": "25",
+            "vote_count": 13280,
+            "text": "Supernatural "
+          }
+        ],
+        "created_at": "2019-08-07T01:03:44Z"
+      },
+      {
+        "id": 1094,
+        "game_id": 126377,
+        "question": "What trivia theme would you like to see again?",
+        "results": [
+          {
+            "id": 6576,
+            "display_count": "37",
+            "vote_count": 25587,
+            "text": "Adorable Animals"
+          },
+          {
+            "id": 6568,
+            "display_count": "33",
+            "vote_count": 23214,
+            "text": "The Office"
+          },
+          {
+            "id": 6572,
+            "display_count": "30",
+            "vote_count": 20960,
+            "text": "The Simpsons"
+          }
+        ],
+        "created_at": "2019-08-07T01:04:16Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 126392,
+    "show_id": 11996,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-08-07T01:30:00Z",
+    "direct_link": "/us/game/2019-08-06/2",
+    "currency": "$",
+    "prize": "2,000",
+    "summary": {
+      "winner_count": "9,977",
+      "currency": "$",
+      "average_prize": "0.20"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-08-06/2/2",
+        "question_number": 2,
+        "text": "Mystery Genre",
+        "answer": [
+          "WHODUNIT"
+        ],
+        "initial_letters": [
+          "\"W\""
+        ],
+        "to_reveal_letters": [
+          "H",
+          "T"
+        ],
+        "game_link": "/us/game/2019-08-06/2",
+        "eliminated": 13955,
+        "advancing": 61031,
+        "correct_answers": 61031,
+        "incorrect_answers": 13955
+      },
+      {
+        "direct_link": "/us/game/2019-08-06/2/3",
+        "question_number": 3,
+        "text": "Festive Occurrence",
+        "answer": [
+          "HOUSE",
+          "PARTY"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"Y\""
+        ],
+        "to_reveal_letters": [
+          "R",
+          "S"
+        ],
+        "game_link": "/us/game/2019-08-06/2",
+        "eliminated": 20159,
+        "advancing": 41536,
+        "correct_answers": 41536,
+        "incorrect_answers": 20159
+      },
+      {
+        "direct_link": "/us/game/2019-08-06/2/4",
+        "question_number": 4,
+        "text": "Misleadingly Named Food",
+        "answer": [
+          "REFRIED",
+          "BEANS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"F\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-08-06/2",
+        "eliminated": 5631,
+        "advancing": 37272,
+        "correct_answers": 37272,
+        "incorrect_answers": 5631
+      },
+      {
+        "direct_link": "/us/game/2019-08-06/2/5",
+        "question_number": 5,
+        "text": "On Deck?",
+        "answer": [
+          "QUEEN",
+          "OF",
+          "HEARTS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"Q\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "S"
+        ],
+        "game_link": "/us/game/2019-08-06/2",
+        "eliminated": 2715,
+        "advancing": 34891,
+        "correct_answers": 34891,
+        "incorrect_answers": 2715
+      },
+      {
+        "direct_link": "/us/game/2019-08-06/2/6",
+        "question_number": 6,
+        "text": "Famous Opening",
+        "answer": [
+          "ONCE",
+          "UPON",
+          "A",
+          "TIME"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "I"
+        ],
+        "game_link": "/us/game/2019-08-06/2",
+        "eliminated": 3139,
+        "advancing": 31988,
+        "correct_answers": 31988,
+        "incorrect_answers": 3139
+      },
+      {
+        "direct_link": "/us/game/2019-08-06/2/7",
+        "question_number": 7,
+        "text": "Live Sports Tradition",
+        "answer": [
+          "SEVENTH-INNING",
+          "STRETCH"
+        ],
+        "initial_letters": [
+          "\"-\"",
+          "\" \"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "H",
+          "R"
+        ],
+        "game_link": "/us/game/2019-08-06/2",
+        "eliminated": 7042,
+        "advancing": 25272,
+        "correct_answers": 25272,
+        "incorrect_answers": 7042
+      },
+      {
+        "direct_link": "/us/game/2019-08-06/2/8",
+        "question_number": 8,
+        "text": "Old-Timey Expression",
+        "answer": [
+          "PAINT",
+          "THE",
+          "TOWN",
+          "RED"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"R\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "D"
+        ],
+        "game_link": "/us/game/2019-08-06/2",
+        "eliminated": 8437,
+        "advancing": 17996,
+        "correct_answers": 17996,
+        "incorrect_answers": 8437
+      },
+      {
+        "direct_link": "/us/game/2019-08-06/2/9",
+        "question_number": 9,
+        "text": "Whatâs on the Bed?",
+        "answer": [
+          "GOOSE",
+          "DOWN",
+          "PILLOW"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"L\""
+        ],
+        "to_reveal_letters": [
+          "O",
+          "S"
+        ],
+        "game_link": "/us/game/2019-08-06/2",
+        "eliminated": 1750,
+        "advancing": 18267,
+        "correct_answers": 18267,
+        "incorrect_answers": 1750
+      },
+      {
+        "direct_link": "/us/game/2019-08-06/2/10",
+        "question_number": 10,
+        "text": "Scenic Spot",
+        "answer": [
+          "WHITE",
+          "HOUSE",
+          "ROSE",
+          "GARDEN"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"D\""
+        ],
+        "to_reveal_letters": [
+          "O",
+          "T"
+        ],
+        "game_link": "/us/game/2019-08-06/2",
+        "eliminated": 3686,
+        "advancing": 14855,
+        "correct_answers": 14855,
+        "incorrect_answers": 3686
+      },
+      {
+        "direct_link": "/us/game/2019-08-06/2/11",
+        "question_number": 11,
+        "text": "Friendly Status",
+        "answer": [
+          "PLATONIC",
+          "RELATIONSHIP"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"H\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "N"
+        ],
+        "game_link": "/us/game/2019-08-06/2",
+        "eliminated": 1016,
+        "advancing": 14927,
+        "correct_answers": 14927,
+        "incorrect_answers": 1016
+      },
+      {
+        "direct_link": "/us/game/2019-08-06/2/12",
+        "question_number": 12,
+        "text": "Short Period of Time",
+        "answer": [
+          "TWO",
+          "SHAKES",
+          "OF",
+          "A",
+          "LAMBâS",
+          "TAIL"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"â\"",
+          "\"H\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "I"
+        ],
+        "game_link": "/us/game/2019-08-06/2",
+        "eliminated": 5322,
+        "advancing": 9977,
+        "correct_answers": 9977,
+        "incorrect_answers": 5322
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

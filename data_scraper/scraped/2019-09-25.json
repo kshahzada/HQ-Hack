@@ -1,0 +1,1831 @@
+[
+  {
+    "id": 134520,
+    "show_id": 12459,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-09-25T18:00:00Z",
+    "direct_link": "/us/game/2019-09-25/1",
+    "time": " 2:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,953",
+      "currency": "$",
+      "average_prize": "0.51"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 149570,
+        "text": "In exercise, what is one of the words that make up the acronym HIIT?",
+        "question_number": 1,
+        "eliminated": "-11,060",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "75,849",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298811,
+            "text": "Inimaginable",
+            "correct": false,
+            "count": "1,422",
+            "percent": "2.36%"
+          },
+          {
+            "id": 298812,
+            "text": "Interval",
+            "correct": true,
+            "count": "57,926",
+            "percent": "96.02%"
+          },
+          {
+            "id": 298813,
+            "text": "Incredibletude",
+            "correct": false,
+            "count": "977",
+            "percent": "1.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/1/1",
+        "game_link": "/us/game/2019-09-25/1",
+        "correct_answers": 57926,
+        "incorrect_answers": 2399,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149578,
+        "text": "Which of these animals has a bill?",
+        "question_number": 2,
+        "eliminated": "1,840",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "74,079",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298823,
+            "text": "Duck",
+            "correct": true,
+            "count": "60,315",
+            "percent": "97.74%"
+          },
+          {
+            "id": 298825,
+            "text": "Geoduck",
+            "correct": false,
+            "count": "714",
+            "percent": "1.16%"
+          },
+          {
+            "id": 298828,
+            "text": "Bear",
+            "correct": false,
+            "count": "678",
+            "percent": "1.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/1/2",
+        "game_link": "/us/game/2019-09-25/1",
+        "correct_answers": 60315,
+        "incorrect_answers": 1392,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149586,
+        "text": "Which of these is a common style of womenâs dress?",
+        "question_number": 3,
+        "eliminated": "6,277",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "67,841",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298835,
+            "text": "Frock",
+            "correct": true,
+            "count": "54,414",
+            "percent": "89.47%"
+          },
+          {
+            "id": 298838,
+            "text": "Poplar",
+            "correct": false,
+            "count": "3,119",
+            "percent": "5.13%"
+          },
+          {
+            "id": 298841,
+            "text": "Dollop",
+            "correct": false,
+            "count": "3,286",
+            "percent": "5.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/1/3",
+        "game_link": "/us/game/2019-09-25/1",
+        "correct_answers": 54414,
+        "incorrect_answers": 6405,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149594,
+        "text": "Which of these animals is technically a rodent?",
+        "question_number": 4,
+        "eliminated": "16,921",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "51,088",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298847,
+            "text": "Mole",
+            "correct": false,
+            "count": "24,504",
+            "percent": "42.3%"
+          },
+          {
+            "id": 298849,
+            "text": "Rabbit",
+            "correct": false,
+            "count": "7,204",
+            "percent": "12.44%"
+          },
+          {
+            "id": 298853,
+            "text": "Prairie dog",
+            "correct": true,
+            "count": "26,219",
+            "percent": "45.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/1/4",
+        "game_link": "/us/game/2019-09-25/1",
+        "correct_answers": 26219,
+        "incorrect_answers": 31708,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149602,
+        "text": "Where did the skincare trend of sheet masks originate?",
+        "question_number": 5,
+        "eliminated": "10,664",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "41,704",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298859,
+            "text": "Sweden",
+            "correct": false,
+            "count": "8,720",
+            "percent": "18.92%"
+          },
+          {
+            "id": 298860,
+            "text": "Brazil",
+            "correct": false,
+            "count": "4,004",
+            "percent": "8.69%"
+          },
+          {
+            "id": 298863,
+            "text": "Korea",
+            "correct": true,
+            "count": "33,368",
+            "percent": "72.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/1/5",
+        "game_link": "/us/game/2019-09-25/1",
+        "correct_answers": 33368,
+        "incorrect_answers": 12724,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149610,
+        "text": "What Italian food has a name that means âtrouser legâ?",
+        "question_number": 6,
+        "eliminated": "19,087",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "23,481",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298872,
+            "text": "Capellini",
+            "correct": false,
+            "count": "19,131",
+            "percent": "49.17%"
+          },
+          {
+            "id": 298874,
+            "text": "Calzone",
+            "correct": true,
+            "count": "15,971",
+            "percent": "41.05%"
+          },
+          {
+            "id": 298878,
+            "text": "Fettucini",
+            "correct": false,
+            "count": "3,808",
+            "percent": "9.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/1/6",
+        "game_link": "/us/game/2019-09-25/1",
+        "correct_answers": 15971,
+        "incorrect_answers": 22939,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149618,
+        "text": "Alexander McQueen was thought to be the originator of what fashion trend?",
+        "question_number": 7,
+        "eliminated": "12,401",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "13,243",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298883,
+            "text": "Oversized sunglasses",
+            "correct": false,
+            "count": "7,060",
+            "percent": "29.72%"
+          },
+          {
+            "id": 298887,
+            "text": "Low rise denim",
+            "correct": true,
+            "count": "9,360",
+            "percent": "39.4%"
+          },
+          {
+            "id": 298890,
+            "text": "Cargo pants",
+            "correct": false,
+            "count": "7,336",
+            "percent": "30.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/1/7",
+        "game_link": "/us/game/2019-09-25/1",
+        "correct_answers": 9360,
+        "incorrect_answers": 14396,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149626,
+        "text": "The hybrid fruit pineberry does NOT contain what?",
+        "question_number": 8,
+        "eliminated": "10,072",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "5,104",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298895,
+            "text": "Strawberry",
+            "correct": false,
+            "count": "1,225",
+            "percent": "8.48%"
+          },
+          {
+            "id": 298898,
+            "text": "Pineapple",
+            "correct": true,
+            "count": "1,806",
+            "percent": "12.5%"
+          },
+          {
+            "id": 298902,
+            "text": "Neither",
+            "correct": false,
+            "count": "11,416",
+            "percent": "79.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/1/8",
+        "game_link": "/us/game/2019-09-25/1",
+        "correct_answers": 1806,
+        "incorrect_answers": 12641,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149634,
+        "text": "Which of these bones do people typically have only one of?",
+        "question_number": 9,
+        "eliminated": "1,233",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "6,773",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298907,
+            "text": "Patella",
+            "correct": false,
+            "count": "669",
+            "percent": "8.82%"
+          },
+          {
+            "id": 298909,
+            "text": "Mandible",
+            "correct": true,
+            "count": "5,949",
+            "percent": "78.46%"
+          },
+          {
+            "id": 298912,
+            "text": "Trapezium",
+            "correct": false,
+            "count": "964",
+            "percent": "12.71%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/1/9",
+        "game_link": "/us/game/2019-09-25/1",
+        "correct_answers": 5949,
+        "incorrect_answers": 1633,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149642,
+        "text": "The first video of a swimming giant squid was found near a place known for what cuisine?",
+        "question_number": 10,
+        "eliminated": "2,257",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "4,930",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298919,
+            "text": "Vegemite",
+            "correct": false,
+            "count": "1,870",
+            "percent": "27.72%"
+          },
+          {
+            "id": 298921,
+            "text": "Mole poblano",
+            "correct": false,
+            "count": "965",
+            "percent": "14.3%"
+          },
+          {
+            "id": 298925,
+            "text": "Sushi",
+            "correct": true,
+            "count": "3,912",
+            "percent": "57.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/1/10",
+        "game_link": "/us/game/2019-09-25/1",
+        "correct_answers": 3912,
+        "incorrect_answers": 2835,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149650,
+        "text": "Which of these tennis legends made the most US Open singles finals played in Forest Hills?",
+        "question_number": 11,
+        "eliminated": "3,915",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,929",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298931,
+            "text": "Chris Evert",
+            "correct": false,
+            "count": "1,043",
+            "percent": "18.82%"
+          },
+          {
+            "id": 298933,
+            "text": "Margaret Court",
+            "correct": false,
+            "count": "2,570",
+            "percent": "46.37%"
+          },
+          {
+            "id": 298936,
+            "text": "Billie Jean King",
+            "correct": true,
+            "count": "1,929",
+            "percent": "34.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/1/11",
+        "game_link": "/us/game/2019-09-25/1",
+        "correct_answers": 1929,
+        "incorrect_answers": 3613,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149658,
+        "text": "Which classic recipe is NOT included in Julia Childâs Mastering the Art of French Cooking?",
+        "question_number": 12,
+        "eliminated": "2,119",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "1,953",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298943,
+            "text": "Lobster Thermidor",
+            "correct": false,
+            "count": "1,272",
+            "percent": "34.23%"
+          },
+          {
+            "id": 298947,
+            "text": "Chicken Cordon Bleu",
+            "correct": true,
+            "count": "1,953",
+            "percent": "52.56%"
+          },
+          {
+            "id": 298950,
+            "text": "Coq au Vin",
+            "correct": false,
+            "count": "491",
+            "percent": "13.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/1/12",
+        "game_link": "/us/game/2019-09-25/1",
+        "correct_answers": 1953,
+        "incorrect_answers": 1763,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1805,
+        "game_id": 134520,
+        "question": "Who has a messier room?",
+        "results": [
+          {
+            "id": 10720,
+            "display_count": "13",
+            "vote_count": 4195,
+            "text": "Anna"
+          },
+          {
+            "id": 10717,
+            "display_count": "68",
+            "vote_count": 22105,
+            "text": "Matt"
+          },
+          {
+            "id": 10723,
+            "display_count": "19",
+            "vote_count": 6120,
+            "text": "Neither"
+          }
+        ],
+        "created_at": "2019-09-25T18:03:23Z"
+      },
+      {
+        "id": 1810,
+        "game_id": 134520,
+        "question": "Who has better fashion?",
+        "results": [
+          {
+            "id": 10745,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "Anna"
+          },
+          {
+            "id": 10741,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "Matt"
+          },
+          {
+            "id": 10749,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "Neither"
+          }
+        ],
+        "created_at": "2019-09-25T18:03:57Z"
+      },
+      {
+        "id": 1813,
+        "game_id": 134520,
+        "question": "Who is the bigger sneakerhead?",
+        "results": [
+          {
+            "id": 10768,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "Anna"
+          },
+          {
+            "id": 10765,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "Matt"
+          },
+          {
+            "id": 10772,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "Neither"
+          }
+        ],
+        "created_at": "2019-09-25T18:04:26Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 134580,
+    "show_id": 12437,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-09-26T00:00:00Z",
+    "direct_link": "/us/game/2019-09-25/2",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,540",
+      "currency": "$",
+      "average_prize": "0.65"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 149666,
+        "text": "Which of these is a piece of equipment typically worn by a hockey goalie?",
+        "question_number": 1,
+        "eliminated": "-8,130",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "54,978",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298955,
+            "text": "Firewall",
+            "correct": false,
+            "count": "1,160",
+            "percent": "2.6%"
+          },
+          {
+            "id": 298956,
+            "text": "Blocker",
+            "correct": true,
+            "count": "41,987",
+            "percent": "94.0%"
+          },
+          {
+            "id": 298957,
+            "text": "Lock box",
+            "correct": false,
+            "count": "1,520",
+            "percent": "3.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/2/1",
+        "game_link": "/us/game/2019-09-25/2",
+        "correct_answers": 41987,
+        "incorrect_answers": 2680,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149674,
+        "text": "Which football position is dedicated to giving possession to the other team without scoring points",
+        "question_number": 2,
+        "eliminated": "1,454",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "53,544",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298967,
+            "text": "Long snapper",
+            "correct": false,
+            "count": "3,610",
+            "percent": "8.09%"
+          },
+          {
+            "id": 298968,
+            "text": "Punter",
+            "correct": true,
+            "count": "31,808",
+            "percent": "71.32%"
+          },
+          {
+            "id": 298972,
+            "text": "Kicker",
+            "correct": false,
+            "count": "9,178",
+            "percent": "20.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/2/2",
+        "game_link": "/us/game/2019-09-25/2",
+        "correct_answers": 31808,
+        "incorrect_answers": 12788,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149682,
+        "text": "What player receives the assist on this play?",
+        "question_number": 3,
+        "eliminated": "3,260",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "50,403",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298979,
+            "text": "Catcher",
+            "correct": true,
+            "count": "31,889",
+            "percent": "71.69%"
+          },
+          {
+            "id": 298981,
+            "text": "2nd baseman",
+            "correct": false,
+            "count": "9,038",
+            "percent": "20.32%"
+          },
+          {
+            "id": 298984,
+            "text": "Pitcher",
+            "correct": false,
+            "count": "3,556",
+            "percent": "7.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/2/3",
+        "game_link": "/us/game/2019-09-25/2",
+        "correct_answers": 31889,
+        "incorrect_answers": 12594,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149690,
+        "text": "Why did a Chicago running back's locker room video recently go viral?",
+        "question_number": 4,
+        "eliminated": "7,225",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "43,252",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 298991,
+            "text": "Exposed game plan",
+            "correct": false,
+            "count": "5,299",
+            "percent": "12.63%"
+          },
+          {
+            "id": 298994,
+            "text": "Naked teammate",
+            "correct": true,
+            "count": "17,419",
+            "percent": "41.53%"
+          },
+          {
+            "id": 298998,
+            "text": "Team sing-along",
+            "correct": false,
+            "count": "19,225",
+            "percent": "45.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/2/4",
+        "game_link": "/us/game/2019-09-25/2",
+        "correct_answers": 17419,
+        "incorrect_answers": 24524,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149698,
+        "text": "What franchise was the first to have five different players hit 30 homers in the same season?",
+        "question_number": 5,
+        "eliminated": "8,985",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "34,564",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299003,
+            "text": "Twins",
+            "correct": true,
+            "count": "22,044",
+            "percent": "58.44%"
+          },
+          {
+            "id": 299005,
+            "text": "Yankees",
+            "correct": false,
+            "count": "10,662",
+            "percent": "28.26%"
+          },
+          {
+            "id": 299008,
+            "text": "Astros",
+            "correct": false,
+            "count": "5,017",
+            "percent": "13.3%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/2/5",
+        "game_link": "/us/game/2019-09-25/2",
+        "correct_answers": 22044,
+        "incorrect_answers": 15679,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149706,
+        "text": "Which of these players did NOT have a season with 1,000 rushing yards and 1,000 receiving yards?",
+        "question_number": 6,
+        "eliminated": "8,183",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "27,013",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299015,
+            "text": "Roger Craig",
+            "correct": false,
+            "count": "6,099",
+            "percent": "19.48%"
+          },
+          {
+            "id": 299017,
+            "text": "Herschel Walker",
+            "correct": true,
+            "count": "19,934",
+            "percent": "63.66%"
+          },
+          {
+            "id": 299021,
+            "text": "Marshall Faulk",
+            "correct": false,
+            "count": "5,279",
+            "percent": "16.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/2/6",
+        "game_link": "/us/game/2019-09-25/2",
+        "correct_answers": 19934,
+        "incorrect_answers": 11378,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149714,
+        "text": "Who is the youngest player currently in the WTA top 30?",
+        "question_number": 7,
+        "eliminated": "14,763",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "12,881",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299027,
+            "text": "Bianca Andreescu",
+            "correct": false,
+            "count": "6,336",
+            "percent": "24.72%"
+          },
+          {
+            "id": 299030,
+            "text": "Coco Gauff",
+            "correct": false,
+            "count": "12,299",
+            "percent": "47.99%"
+          },
+          {
+            "id": 299033,
+            "text": "Amanda Anisimova",
+            "correct": true,
+            "count": "6,994",
+            "percent": "27.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/2/7",
+        "game_link": "/us/game/2019-09-25/2",
+        "correct_answers": 6994,
+        "incorrect_answers": 18635,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149722,
+        "text": "Who had the greatest number of receiving yards in a single-season at tight end?",
+        "question_number": 8,
+        "eliminated": "5,202",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "9,657",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299039,
+            "text": "George Kittle",
+            "correct": true,
+            "count": "6,030",
+            "percent": "43.15%"
+          },
+          {
+            "id": 299040,
+            "text": "Rob Gronkowski",
+            "correct": false,
+            "count": "2,124",
+            "percent": "15.2%"
+          },
+          {
+            "id": 299044,
+            "text": "Tony Gonzalez",
+            "correct": false,
+            "count": "5,822",
+            "percent": "41.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/2/8",
+        "game_link": "/us/game/2019-09-25/2",
+        "correct_answers": 6030,
+        "incorrect_answers": 7946,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149730,
+        "text": "Which of these last names does NOT represent a father/son duo who both hit for the cycle in MLB?",
+        "question_number": 9,
+        "eliminated": "2,641",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "7,539",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299051,
+            "text": "Biggio",
+            "correct": false,
+            "count": "1,259",
+            "percent": "13.16%"
+          },
+          {
+            "id": 299052,
+            "text": "Bonds",
+            "correct": true,
+            "count": "5,061",
+            "percent": "52.9%"
+          },
+          {
+            "id": 299056,
+            "text": "Ward",
+            "correct": false,
+            "count": "3,248",
+            "percent": "33.95%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/2/9",
+        "game_link": "/us/game/2019-09-25/2",
+        "correct_answers": 5061,
+        "incorrect_answers": 4507,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149738,
+        "text": "What is the most frequent matchup in college football history?",
+        "question_number": 10,
+        "eliminated": "2,270",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "5,658",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299063,
+            "text": "Lafayette vs. Lehigh",
+            "correct": true,
+            "count": "3,821",
+            "percent": "50.62%"
+          },
+          {
+            "id": 299066,
+            "text": "Alabama vs. Auburn",
+            "correct": false,
+            "count": "1,528",
+            "percent": "20.24%"
+          },
+          {
+            "id": 299070,
+            "text": "Notre Dame vs. Navy",
+            "correct": false,
+            "count": "2,200",
+            "percent": "29.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/2/10",
+        "game_link": "/us/game/2019-09-25/2",
+        "correct_answers": 3821,
+        "incorrect_answers": 3728,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149746,
+        "text": "What active player had the greatest number of strikeouts in a single season?",
+        "question_number": 11,
+        "eliminated": "3,855",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,241",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299075,
+            "text": "Max Scherzer",
+            "correct": false,
+            "count": "667",
+            "percent": "11.44%"
+          },
+          {
+            "id": 299078,
+            "text": "Gerrit Cole",
+            "correct": true,
+            "count": "2,241",
+            "percent": "38.45%"
+          },
+          {
+            "id": 299081,
+            "text": "Chris Sale",
+            "correct": false,
+            "count": "2,920",
+            "percent": "50.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/2/11",
+        "game_link": "/us/game/2019-09-25/2",
+        "correct_answers": 2241,
+        "incorrect_answers": 3587,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149754,
+        "text": "Which of these players once held all four grand slam titles at the same time?",
+        "question_number": 12,
+        "eliminated": "2,640",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,540",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299087,
+            "text": "Rafael Nadal",
+            "correct": false,
+            "count": "840",
+            "percent": "20.53%"
+          },
+          {
+            "id": 299090,
+            "text": "Roger Federer",
+            "correct": false,
+            "count": "1,712",
+            "percent": "41.84%"
+          },
+          {
+            "id": 299094,
+            "text": "Novak Djokovic",
+            "correct": true,
+            "count": "1,540",
+            "percent": "37.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/2/12",
+        "game_link": "/us/game/2019-09-25/2",
+        "correct_answers": 1540,
+        "incorrect_answers": 2552,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1817,
+        "game_id": 134580,
+        "question": "Who will win tomorrow's TNF game?",
+        "results": [
+          {
+            "id": 10789,
+            "display_count": "34",
+            "vote_count": 4271,
+            "text": "Eagles"
+          },
+          {
+            "id": 10792,
+            "display_count": "57",
+            "vote_count": 7142,
+            "text": "Packers"
+          },
+          {
+            "id": 10796,
+            "display_count": "9",
+            "vote_count": 1104,
+            "text": "Tie"
+          }
+        ],
+        "created_at": "2019-09-26T00:11:53Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 134640,
+    "show_id": 12433,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 3,
+    "prize": "1,500",
+    "currency": "$",
+    "start_time": "2019-09-26T01:00:00Z",
+    "direct_link": "/us/game/2019-09-25/3",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,176",
+      "currency": "$",
+      "average_prize": "1.28"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Nature",
+        "slug": "nature"
+      }
+    ],
+    "questions": [
+      {
+        "id": 149762,
+        "text": "Which of these words describes both a student and a part of the eye?",
+        "question_number": 1,
+        "eliminated": "-10,701",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "144,788",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299099,
+            "text": "Sophomore",
+            "correct": false,
+            "count": "1,940",
+            "percent": "1.51%"
+          },
+          {
+            "id": 299100,
+            "text": "Scholar",
+            "correct": false,
+            "count": "1,737",
+            "percent": "1.35%"
+          },
+          {
+            "id": 299101,
+            "text": "Pupil",
+            "correct": true,
+            "count": "125,107",
+            "percent": "97.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/3/1",
+        "game_link": "/us/game/2019-09-25/3",
+        "correct_answers": 125107,
+        "incorrect_answers": 3677,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149770,
+        "text": "What rare muscle is only present in a small percentage of the population?",
+        "question_number": 2,
+        "eliminated": "2,515",
+        "category": "",
+        "category_slug": "",
+        "advancing": "142,362",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299111,
+            "text": "Sternalis",
+            "correct": true,
+            "count": "122,448",
+            "percent": "94.19%"
+          },
+          {
+            "id": 299113,
+            "text": "Triceps",
+            "correct": false,
+            "count": "4,887",
+            "percent": "3.76%"
+          },
+          {
+            "id": 299117,
+            "text": "Biceps",
+            "correct": false,
+            "count": "2,662",
+            "percent": "2.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/3/2",
+        "game_link": "/us/game/2019-09-25/3",
+        "correct_answers": 122448,
+        "incorrect_answers": 7549,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149778,
+        "text": "What body part is widely considered vestigial?",
+        "question_number": 3,
+        "eliminated": "11,575",
+        "category": "",
+        "category_slug": "",
+        "advancing": "130,869",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299123,
+            "text": "Appendix",
+            "correct": true,
+            "count": "100,142",
+            "percent": "77.62%"
+          },
+          {
+            "id": 299124,
+            "text": "Ankle",
+            "correct": false,
+            "count": "7,704",
+            "percent": "5.97%"
+          },
+          {
+            "id": 299126,
+            "text": "Aorta",
+            "correct": false,
+            "count": "21,167",
+            "percent": "16.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/3/3",
+        "game_link": "/us/game/2019-09-25/3",
+        "correct_answers": 100142,
+        "incorrect_answers": 28871,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149786,
+        "text": "At what time of day are you typically tallest?",
+        "question_number": 4,
+        "eliminated": "10,444",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "120,984",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299135,
+            "text": "Early evening",
+            "correct": false,
+            "count": "6,446",
+            "percent": "5.31%"
+          },
+          {
+            "id": 299137,
+            "text": "Late afternoon",
+            "correct": false,
+            "count": "8,484",
+            "percent": "6.99%"
+          },
+          {
+            "id": 299141,
+            "text": "Early morning",
+            "correct": true,
+            "count": "106,515",
+            "percent": "87.71%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/3/4",
+        "game_link": "/us/game/2019-09-25/3",
+        "correct_answers": 106515,
+        "incorrect_answers": 14930,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149794,
+        "text": "Which of these body parts only belongs to humans?",
+        "question_number": 5,
+        "eliminated": "49,190",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "72,410",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299147,
+            "text": "Toenails",
+            "correct": false,
+            "count": "14,474",
+            "percent": "12.7%"
+          },
+          {
+            "id": 299148,
+            "text": "Eyebrows",
+            "correct": false,
+            "count": "59,630",
+            "percent": "52.31%"
+          },
+          {
+            "id": 299149,
+            "text": "Chins",
+            "correct": true,
+            "count": "39,893",
+            "percent": "34.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/3/5",
+        "game_link": "/us/game/2019-09-25/3",
+        "correct_answers": 39893,
+        "incorrect_answers": 74104,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149802,
+        "text": "Which of these body parts typically consumes the most energy?",
+        "question_number": 6,
+        "eliminated": "30,633",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "49,094",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299159,
+            "text": "Lungs",
+            "correct": false,
+            "count": "9,315",
+            "percent": "12.21%"
+          },
+          {
+            "id": 299160,
+            "text": "Brain",
+            "correct": true,
+            "count": "34,262",
+            "percent": "44.91%"
+          },
+          {
+            "id": 299165,
+            "text": "Heart",
+            "correct": false,
+            "count": "32,714",
+            "percent": "42.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/3/6",
+        "game_link": "/us/game/2019-09-25/3",
+        "correct_answers": 34262,
+        "incorrect_answers": 42029,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149810,
+        "text": "Which part of the human body regenerates the fastest on average?",
+        "question_number": 7,
+        "eliminated": "39,246",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "14,686",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299171,
+            "text": "Intestine",
+            "correct": true,
+            "count": "4,112",
+            "percent": "7.85%"
+          },
+          {
+            "id": 299173,
+            "text": "Liver",
+            "correct": false,
+            "count": "11,871",
+            "percent": "22.65%"
+          },
+          {
+            "id": 299177,
+            "text": "Skin",
+            "correct": false,
+            "count": "36,420",
+            "percent": "69.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/3/7",
+        "game_link": "/us/game/2019-09-25/3",
+        "correct_answers": 4112,
+        "incorrect_answers": 48291,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149818,
+        "text": "Which of these is part of the lymphatic system?",
+        "question_number": 8,
+        "eliminated": "9,143",
+        "category": "",
+        "category_slug": "",
+        "advancing": "13,948",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299183,
+            "text": "Uvula",
+            "correct": false,
+            "count": "733",
+            "percent": "3.26%"
+          },
+          {
+            "id": 299184,
+            "text": "Thyroid",
+            "correct": false,
+            "count": "13,176",
+            "percent": "58.6%"
+          },
+          {
+            "id": 299188,
+            "text": "Tonsils",
+            "correct": true,
+            "count": "8,574",
+            "percent": "38.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/3/8",
+        "game_link": "/us/game/2019-09-25/3",
+        "correct_answers": 8574,
+        "incorrect_answers": 13909,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149826,
+        "text": "What are the human bodyâs smallest blood vessels?",
+        "question_number": 9,
+        "eliminated": "1,864",
+        "category": "",
+        "category_slug": "",
+        "advancing": "14,609",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299195,
+            "text": "Capillaries",
+            "correct": true,
+            "count": "13,123",
+            "percent": "81.72%"
+          },
+          {
+            "id": 299197,
+            "text": "Venules",
+            "correct": false,
+            "count": "1,512",
+            "percent": "9.42%"
+          },
+          {
+            "id": 299200,
+            "text": "Arterioles",
+            "correct": false,
+            "count": "1,423",
+            "percent": "8.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/3/9",
+        "game_link": "/us/game/2019-09-25/3",
+        "correct_answers": 13123,
+        "incorrect_answers": 2935,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 9,
+          "players_left": 12520,
+          "players_left_formatted": "12,520",
+          "num_winners": 2625,
+          "num_winners_formatted": "2,625",
+          "prize": 0.04,
+          "prize_formatted": "$0.04",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 149834,
+        "text": "What is one symptom of a dysfunctioning sacroiliac?",
+        "question_number": 10,
+        "eliminated": "2,148",
+        "category": "",
+        "category_slug": "",
+        "advancing": "11,997",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299207,
+            "text": "Fever",
+            "correct": false,
+            "count": "272",
+            "percent": "2.21%"
+          },
+          {
+            "id": 299208,
+            "text": "Back pain",
+            "correct": true,
+            "count": "11,216",
+            "percent": "91.28%"
+          },
+          {
+            "id": 299212,
+            "text": "Anemia",
+            "correct": false,
+            "count": "799",
+            "percent": "6.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/3/10",
+        "game_link": "/us/game/2019-09-25/3",
+        "correct_answers": 11216,
+        "incorrect_answers": 1071,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149842,
+        "text": "Which of these fluids has been shown to prevent kidney stones?",
+        "question_number": 11,
+        "eliminated": "6,372",
+        "category": "",
+        "category_slug": "",
+        "advancing": "5,895",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299219,
+            "text": "Chicken soup",
+            "correct": false,
+            "count": "1,537",
+            "percent": "17.86%"
+          },
+          {
+            "id": 299222,
+            "text": "Lemonade",
+            "correct": true,
+            "count": "5,895",
+            "percent": "68.48%"
+          },
+          {
+            "id": 299226,
+            "text": "Diet soda",
+            "correct": false,
+            "count": "1,176",
+            "percent": "13.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/3/11",
+        "game_link": "/us/game/2019-09-25/3",
+        "correct_answers": 5895,
+        "incorrect_answers": 2713,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 5832,
+          "players_left_formatted": "5,832",
+          "num_winners": 1701,
+          "num_winners_formatted": "1,701",
+          "prize": 0.17,
+          "prize_formatted": "$0.17",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 149850,
+        "text": "What disorder involves bone growth in the ear canal?",
+        "question_number": 12,
+        "eliminated": "3,863",
+        "category": "",
+        "category_slug": "",
+        "advancing": "2,674",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299231,
+            "text": "Surferâs ear",
+            "correct": true,
+            "count": "2,674",
+            "percent": "47.5%"
+          },
+          {
+            "id": 299234,
+            "text": "Cauliflower ear",
+            "correct": false,
+            "count": "2,293",
+            "percent": "40.73%"
+          },
+          {
+            "id": 299238,
+            "text": "Swimmerâs ear",
+            "correct": false,
+            "count": "663",
+            "percent": "11.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/3/12",
+        "game_link": "/us/game/2019-09-25/3",
+        "correct_answers": 2674,
+        "incorrect_answers": 2956,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149858,
+        "text": "With literally more hairs per square inch on average, what is the âdensestâ human hair color?",
+        "question_number": 13,
+        "eliminated": "3,697",
+        "category": "",
+        "category_slug": "",
+        "advancing": "578",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299243,
+            "text": "Black",
+            "correct": false,
+            "count": "931",
+            "percent": "22.38%"
+          },
+          {
+            "id": 299244,
+            "text": "Red",
+            "correct": false,
+            "count": "2,651",
+            "percent": "63.73%"
+          },
+          {
+            "id": 299246,
+            "text": "Blond",
+            "correct": true,
+            "count": "578",
+            "percent": "13.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/3/13",
+        "game_link": "/us/game/2019-09-25/3",
+        "correct_answers": 578,
+        "incorrect_answers": 3582,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149866,
+        "text": "What do reticulocytes develop into?",
+        "question_number": 14,
+        "eliminated": "717",
+        "category": "",
+        "category_slug": "",
+        "advancing": "1,896",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299255,
+            "text": "Erythrocytes",
+            "correct": true,
+            "count": "1,896",
+            "percent": "73.63%"
+          },
+          {
+            "id": 299257,
+            "text": "Leukocytes",
+            "correct": false,
+            "count": "280",
+            "percent": "10.87%"
+          },
+          {
+            "id": 299260,
+            "text": "Granulocytes",
+            "correct": false,
+            "count": "399",
+            "percent": "15.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/3/14",
+        "game_link": "/us/game/2019-09-25/3",
+        "correct_answers": 1896,
+        "incorrect_answers": 679,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 149874,
+        "text": "A small amount of magnetized iron is in what human bone?",
+        "question_number": 15,
+        "eliminated": "1,112",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "1,176",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299267,
+            "text": "Hyoid",
+            "correct": false,
+            "count": "579",
+            "percent": "25.77%"
+          },
+          {
+            "id": 299268,
+            "text": "Coccyx",
+            "correct": false,
+            "count": "492",
+            "percent": "21.9%"
+          },
+          {
+            "id": 299270,
+            "text": "Ethmoid",
+            "correct": true,
+            "count": "1,176",
+            "percent": "52.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-25/3/15",
+        "game_link": "/us/game/2019-09-25/3",
+        "correct_answers": 1176,
+        "incorrect_answers": 1071,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [
+      {
+        "round_number": 9,
+        "players_left": 12520,
+        "players_left_formatted": "12,520",
+        "num_winners": 2625,
+        "num_winners_formatted": "2,625",
+        "prize": 0.04,
+        "prize_formatted": "$0.04",
+        "currency": "$"
+      },
+      {
+        "round_number": 11,
+        "players_left": 5832,
+        "players_left_formatted": "5,832",
+        "num_winners": 1701,
+        "num_winners_formatted": "1,701",
+        "prize": 0.17,
+        "prize_formatted": "$0.17",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "394.17",
+    "total_checkpoint_winners": "4,326",
+    "smallest_checkpoint_prize": "$0.04",
+    "largest_checkpoint_prize": "$0.17",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

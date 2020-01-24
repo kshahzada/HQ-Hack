@@ -1,0 +1,1282 @@
+[
+  {
+    "id": 140868,
+    "show_id": 12924,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-11-12T01:00:00Z",
+    "direct_link": "/us/game/2019-11-11/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "886",
+      "currency": "$",
+      "average_prize": "1.13"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 158355,
+        "text": "Which of these is a wrestling move used to throw an opponent onto their back?",
+        "question_number": 1,
+        "eliminated": "-4,575",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "46,636",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 311988,
+            "text": "Duplex",
+            "correct": false,
+            "count": "3,442",
+            "percent": "8.69%"
+          },
+          {
+            "id": 311990,
+            "text": "Bowflex",
+            "correct": false,
+            "count": "2,753",
+            "percent": "6.95%"
+          },
+          {
+            "id": 311992,
+            "text": "Suplex",
+            "correct": true,
+            "count": "33,392",
+            "percent": "84.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/1/1",
+        "game_link": "/us/game/2019-11-11/1",
+        "correct_answers": 33392,
+        "incorrect_answers": 6195,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158371,
+        "text": "Which NBA teamâs president just held a press conference to say he was unhappy with the teamâs performance?",
+        "question_number": 2,
+        "eliminated": "1,606",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "45,081",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312013,
+            "text": "Warriors",
+            "correct": false,
+            "count": "14,002",
+            "percent": "35.39%"
+          },
+          {
+            "id": 312015,
+            "text": "Pelicans",
+            "correct": false,
+            "count": "3,232",
+            "percent": "8.17%"
+          },
+          {
+            "id": 312021,
+            "text": "Knicks",
+            "correct": true,
+            "count": "22,335",
+            "percent": "56.45%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/1/2",
+        "game_link": "/us/game/2019-11-11/1",
+        "correct_answers": 22335,
+        "incorrect_answers": 17234,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158387,
+        "text": "Of these three teams, which has the fewest players in the Hall of Fame?",
+        "question_number": 3,
+        "eliminated": "2,245",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "42,906",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312036,
+            "text": "Panthers",
+            "correct": true,
+            "count": "18,863",
+            "percent": "49.15%"
+          },
+          {
+            "id": 312040,
+            "text": "Ravens",
+            "correct": false,
+            "count": "14,830",
+            "percent": "38.64%"
+          },
+          {
+            "id": 312044,
+            "text": "Dolphins",
+            "correct": false,
+            "count": "4,684",
+            "percent": "12.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/1/3",
+        "game_link": "/us/game/2019-11-11/1",
+        "correct_answers": 18863,
+        "incorrect_answers": 19514,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158402,
+        "text": "What team was the last to have a player lead the majors in homers in consecutive years?",
+        "question_number": 4,
+        "eliminated": "6,250",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "36,812",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312059,
+            "text": "Aâs",
+            "correct": false,
+            "count": "13,837",
+            "percent": "37.51%"
+          },
+          {
+            "id": 312060,
+            "text": "Blue Jays",
+            "correct": false,
+            "count": "9,185",
+            "percent": "24.9%"
+          },
+          {
+            "id": 312064,
+            "text": "Orioles",
+            "correct": true,
+            "count": "13,862",
+            "percent": "37.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/1/4",
+        "game_link": "/us/game/2019-11-11/1",
+        "correct_answers": 13862,
+        "incorrect_answers": 23022,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158421,
+        "text": "Who is the only coach in Kansas basketball history with a losing record?",
+        "question_number": 5,
+        "eliminated": "5,456",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "31,759",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312085,
+            "text": "Larry Brown",
+            "correct": false,
+            "count": "6,829",
+            "percent": "20.88%"
+          },
+          {
+            "id": 312091,
+            "text": "Phog Allen",
+            "correct": false,
+            "count": "8,153",
+            "percent": "24.93%"
+          },
+          {
+            "id": 312099,
+            "text": "James Naismith",
+            "correct": true,
+            "count": "17,726",
+            "percent": "54.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/1/5",
+        "game_link": "/us/game/2019-11-11/1",
+        "correct_answers": 17726,
+        "incorrect_answers": 14982,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158434,
+        "text": "Who was the first full-time reliever to win the Cy Young?",
+        "question_number": 6,
+        "eliminated": "12,436",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "19,730",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312107,
+            "text": "Mike Marshall",
+            "correct": true,
+            "count": "10,050",
+            "percent": "34.71%"
+          },
+          {
+            "id": 312112,
+            "text": "Goose Gossage",
+            "correct": false,
+            "count": "10,919",
+            "percent": "37.71%"
+          },
+          {
+            "id": 312115,
+            "text": "Dennis Eckersley",
+            "correct": false,
+            "count": "7,983",
+            "percent": "27.57%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/1/6",
+        "game_link": "/us/game/2019-11-11/1",
+        "correct_answers": 10050,
+        "incorrect_answers": 18902,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158450,
+        "text": "What quarterback did NOT enter the Hall of Fame in his first year of eligibility?",
+        "question_number": 7,
+        "eliminated": "8,776",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "11,726",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312132,
+            "text": "Warren Moon",
+            "correct": false,
+            "count": "7,163",
+            "percent": "38.23%"
+          },
+          {
+            "id": 312135,
+            "text": "Jim Kelly",
+            "correct": false,
+            "count": "6,676",
+            "percent": "35.63%"
+          },
+          {
+            "id": 312142,
+            "text": "Fran Tarkenton",
+            "correct": true,
+            "count": "4,897",
+            "percent": "26.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/1/7",
+        "game_link": "/us/game/2019-11-11/1",
+        "correct_answers": 4897,
+        "incorrect_answers": 13839,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158470,
+        "text": "The PGA Tourâs 2019 Rookie of the Year hails from what country?",
+        "question_number": 8,
+        "eliminated": "2,770",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "9,948",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312160,
+            "text": "South Korea",
+            "correct": true,
+            "count": "4,717",
+            "percent": "40.12%"
+          },
+          {
+            "id": 312165,
+            "text": "England",
+            "correct": false,
+            "count": "1,522",
+            "percent": "12.95%"
+          },
+          {
+            "id": 312172,
+            "text": "Spain",
+            "correct": false,
+            "count": "5,517",
+            "percent": "46.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/1/8",
+        "game_link": "/us/game/2019-11-11/1",
+        "correct_answers": 4717,
+        "incorrect_answers": 7039,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158483,
+        "text": "Who is the youngest player to win an NFL rushing title this century?",
+        "question_number": 9,
+        "eliminated": "1,644",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "8,681",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312180,
+            "text": "LaDainian Tomlinson",
+            "correct": false,
+            "count": "2,189",
+            "percent": "23.08%"
+          },
+          {
+            "id": 312184,
+            "text": "Adrian Peterson",
+            "correct": false,
+            "count": "2,601",
+            "percent": "27.43%"
+          },
+          {
+            "id": 312191,
+            "text": "Ezekiel Elliott",
+            "correct": true,
+            "count": "4,693",
+            "percent": "49.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/1/9",
+        "game_link": "/us/game/2019-11-11/1",
+        "correct_answers": 4693,
+        "incorrect_answers": 4790,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158499,
+        "text": "The first WNBA #1 pick to come from outside the US was drafted out of what country?",
+        "question_number": 10,
+        "eliminated": "1,327",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "7,764",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312204,
+            "text": "Australia",
+            "correct": false,
+            "count": "2,202",
+            "percent": "26.16%"
+          },
+          {
+            "id": 312206,
+            "text": "Poland",
+            "correct": true,
+            "count": "5,139",
+            "percent": "61.05%"
+          },
+          {
+            "id": 312209,
+            "text": "Russia",
+            "correct": false,
+            "count": "1,077",
+            "percent": "12.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/1/10",
+        "game_link": "/us/game/2019-11-11/1",
+        "correct_answers": 5139,
+        "incorrect_answers": 3279,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158515,
+        "text": "Before Sidney Crosby, who was the last left handed shooter to lead the NHL in goals?",
+        "question_number": 11,
+        "eliminated": "4,134",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,137",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312228,
+            "text": "Jaromir Jagr",
+            "correct": false,
+            "count": "1,927",
+            "percent": "25.43%"
+          },
+          {
+            "id": 312232,
+            "text": "Patrick Kane",
+            "correct": false,
+            "count": "1,513",
+            "percent": "19.97%"
+          },
+          {
+            "id": 312240,
+            "text": "Vincent Lecavalier",
+            "correct": true,
+            "count": "4,137",
+            "percent": "54.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/1/11",
+        "game_link": "/us/game/2019-11-11/1",
+        "correct_answers": 4137,
+        "incorrect_answers": 3440,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158533,
+        "text": "Which of these franchises has NOT won NBA championships in three consecutive decades?",
+        "question_number": 12,
+        "eliminated": "5,609",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "886",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312254,
+            "text": "Lakers",
+            "correct": true,
+            "count": "886",
+            "percent": "13.9%"
+          },
+          {
+            "id": 312259,
+            "text": "Celtics",
+            "correct": false,
+            "count": "1,174",
+            "percent": "18.42%"
+          },
+          {
+            "id": 312264,
+            "text": "Pistons",
+            "correct": false,
+            "count": "4,312",
+            "percent": "67.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/1/12",
+        "game_link": "/us/game/2019-11-11/1",
+        "correct_answers": 886,
+        "incorrect_answers": 5486,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2335,
+        "game_id": 140868,
+        "question": "Who you got in tonight's MNF game?",
+        "results": [
+          {
+            "id": 13556,
+            "display_count": "49",
+            "vote_count": 5144,
+            "text": "49ers"
+          },
+          {
+            "id": 13550,
+            "display_count": "42",
+            "vote_count": 4404,
+            "text": "Seahawks"
+          },
+          {
+            "id": 13561,
+            "display_count": "9",
+            "vote_count": 984,
+            "text": "Tie"
+          }
+        ],
+        "created_at": "2019-11-12T01:11:02Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 140989,
+    "show_id": 12906,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-11-12T02:00:00Z",
+    "direct_link": "/us/game/2019-11-11/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,167",
+      "currency": "$",
+      "average_prize": "0.46"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "TV",
+        "slug": "tv"
+      }
+    ],
+    "questions": [
+      {
+        "id": 158546,
+        "text": "Inspired by âLaw & Order: SVU,â Taylor Swift named one of her cats what?",
+        "question_number": 1,
+        "eliminated": "-7,426",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "108,064",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312275,
+            "text": "Especially Heinous",
+            "correct": false,
+            "count": "5,861",
+            "percent": "6.1%"
+          },
+          {
+            "id": 312276,
+            "text": "Olivia Benson",
+            "correct": true,
+            "count": "84,839",
+            "percent": "88.31%"
+          },
+          {
+            "id": 312277,
+            "text": "Cate Blanchett",
+            "correct": false,
+            "count": "5,371",
+            "percent": "5.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/2/1",
+        "game_link": "/us/game/2019-11-11/2",
+        "correct_answers": 84839,
+        "incorrect_answers": 11232,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158550,
+        "text": "Trevor Langan is played by Mariska Hargitayâs real-life what?",
+        "question_number": 2,
+        "eliminated": "4,683",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "103,516",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312281,
+            "text": "Agent",
+            "correct": false,
+            "count": "6,541",
+            "percent": "6.88%"
+          },
+          {
+            "id": 312282,
+            "text": "Lawyer",
+            "correct": false,
+            "count": "9,792",
+            "percent": "10.3%"
+          },
+          {
+            "id": 312283,
+            "text": "Husband",
+            "correct": true,
+            "count": "78,713",
+            "percent": "82.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/2/2",
+        "game_link": "/us/game/2019-11-11/2",
+        "correct_answers": 78713,
+        "incorrect_answers": 16333,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158560,
+        "text": "Who had the longest tenure as Olivia Bensonâs partner?",
+        "question_number": 3,
+        "eliminated": "5,583",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "98,177",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312296,
+            "text": "Elliot Stabler",
+            "correct": true,
+            "count": "73,064",
+            "percent": "79.76%"
+          },
+          {
+            "id": 312298,
+            "text": "Nick Amaro",
+            "correct": false,
+            "count": "11,816",
+            "percent": "12.9%"
+          },
+          {
+            "id": 312300,
+            "text": "Odafin Tutuola",
+            "correct": false,
+            "count": "6,730",
+            "percent": "7.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/2/3",
+        "game_link": "/us/game/2019-11-11/2",
+        "correct_answers": 73064,
+        "incorrect_answers": 18546,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158574,
+        "text": "What unit did Odafin Tutuola work in before transferring to SVU?",
+        "question_number": 4,
+        "eliminated": "8,111",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "90,277",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312317,
+            "text": "Bomb Squad",
+            "correct": false,
+            "count": "4,400",
+            "percent": "4.97%"
+          },
+          {
+            "id": 312318,
+            "text": "Narcotics",
+            "correct": true,
+            "count": "74,309",
+            "percent": "83.95%"
+          },
+          {
+            "id": 312319,
+            "text": "Crime Scenes Unit",
+            "correct": false,
+            "count": "9,809",
+            "percent": "11.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/2/4",
+        "game_link": "/us/game/2019-11-11/2",
+        "correct_answers": 74309,
+        "incorrect_answers": 14209,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158588,
+        "text": "Who is the head of the Special Victims Unit in the first season?",
+        "question_number": 5,
+        "eliminated": "9,251",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "81,298",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312339,
+            "text": "Donald Cragen",
+            "correct": true,
+            "count": "68,916",
+            "percent": "81.9%"
+          },
+          {
+            "id": 312340,
+            "text": "Brian Cassidy",
+            "correct": false,
+            "count": "10,433",
+            "percent": "12.4%"
+          },
+          {
+            "id": 312342,
+            "text": "Olivia Benson",
+            "correct": false,
+            "count": "4,799",
+            "percent": "5.7%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/2/5",
+        "game_link": "/us/game/2019-11-11/2",
+        "correct_answers": 68916,
+        "incorrect_answers": 15232,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158604,
+        "text": "Which host of âThe Viewâ has appeared on âSVUâ?",
+        "question_number": 6,
+        "eliminated": "24,714",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "57,379",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312362,
+            "text": "Raven-SymonÃ©",
+            "correct": false,
+            "count": "18,579",
+            "percent": "24.0%"
+          },
+          {
+            "id": 312363,
+            "text": "Whoopi Goldberg",
+            "correct": true,
+            "count": "47,671",
+            "percent": "61.57%"
+          },
+          {
+            "id": 312365,
+            "text": "Candace Cameron Bure",
+            "correct": false,
+            "count": "11,170",
+            "percent": "14.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/2/6",
+        "game_link": "/us/game/2019-11-11/2",
+        "correct_answers": 47671,
+        "incorrect_answers": 29749,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158620,
+        "text": "Which celebrity guest star earned an Emmy for their performance?",
+        "question_number": 7,
+        "eliminated": "29,836",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "29,829",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312386,
+            "text": "Carol Burnett",
+            "correct": false,
+            "count": "24,737",
+            "percent": "44.38%"
+          },
+          {
+            "id": 312388,
+            "text": "Cynthia Nixon",
+            "correct": true,
+            "count": "21,478",
+            "percent": "38.53%"
+          },
+          {
+            "id": 312390,
+            "text": "John Stamos",
+            "correct": false,
+            "count": "9,528",
+            "percent": "17.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/2/7",
+        "game_link": "/us/game/2019-11-11/2",
+        "correct_answers": 21478,
+        "incorrect_answers": 34265,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158636,
+        "text": "Detectives Benson and Stabler got their first names from Dick Wolfâs what?",
+        "question_number": 8,
+        "eliminated": "19,177",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "15,588",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312410,
+            "text": "Parents",
+            "correct": false,
+            "count": "8,189",
+            "percent": "24.58%"
+          },
+          {
+            "id": 312412,
+            "text": "Children",
+            "correct": true,
+            "count": "7,458",
+            "percent": "22.39%"
+          },
+          {
+            "id": 312414,
+            "text": "Favorite dogs",
+            "correct": false,
+            "count": "17,664",
+            "percent": "53.03%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/2/8",
+        "game_link": "/us/game/2019-11-11/2",
+        "correct_answers": 7458,
+        "incorrect_answers": 25853,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158652,
+        "text": "What TV show does the character John Munch NOT appear on?",
+        "question_number": 9,
+        "eliminated": "5,064",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "14,063",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312434,
+            "text": "Bones",
+            "correct": true,
+            "count": "8,868",
+            "percent": "48.94%"
+          },
+          {
+            "id": 312436,
+            "text": "The X-Files",
+            "correct": false,
+            "count": "3,303",
+            "percent": "18.23%"
+          },
+          {
+            "id": 312441,
+            "text": "Arrested Development",
+            "correct": false,
+            "count": "5,948",
+            "percent": "32.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/2/9",
+        "game_link": "/us/game/2019-11-11/2",
+        "correct_answers": 8868,
+        "incorrect_answers": 9251,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158668,
+        "text": "The actor who plays Dominick Carisi first appeared on âSVUâ playing a character with what profession?",
+        "question_number": 10,
+        "eliminated": "3,714",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "11,617",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312458,
+            "text": "Janitor",
+            "correct": true,
+            "count": "6,824",
+            "percent": "48.28%"
+          },
+          {
+            "id": 312459,
+            "text": "Police officer",
+            "correct": false,
+            "count": "3,986",
+            "percent": "28.2%"
+          },
+          {
+            "id": 312461,
+            "text": "Veterinarian",
+            "correct": false,
+            "count": "3,325",
+            "percent": "23.52%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/2/10",
+        "game_link": "/us/game/2019-11-11/2",
+        "correct_answers": 6824,
+        "incorrect_answers": 7311,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158684,
+        "text": "Ice-T made headlines last year revealing he had never consumed what?",
+        "question_number": 11,
+        "eliminated": "9,273",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "3,401",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312482,
+            "text": "Bagel",
+            "correct": true,
+            "count": "3,401",
+            "percent": "28.11%"
+          },
+          {
+            "id": 312484,
+            "text": "Iced tea",
+            "correct": false,
+            "count": "5,622",
+            "percent": "46.47%"
+          },
+          {
+            "id": 312486,
+            "text": "Donut",
+            "correct": false,
+            "count": "3,075",
+            "percent": "25.42%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/2/11",
+        "game_link": "/us/game/2019-11-11/2",
+        "correct_answers": 3401,
+        "incorrect_answers": 8697,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158700,
+        "text": "Other than the Special Victims Unit, which organization did George Huang work for?",
+        "question_number": 12,
+        "eliminated": "2,167",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "4,719",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312506,
+            "text": "FBI",
+            "correct": true,
+            "count": "4,719",
+            "percent": "69.82%"
+          },
+          {
+            "id": 312507,
+            "text": "CIA",
+            "correct": false,
+            "count": "814",
+            "percent": "12.04%"
+          },
+          {
+            "id": 312509,
+            "text": "Secret Service",
+            "correct": false,
+            "count": "1,226",
+            "percent": "18.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/2/12",
+        "game_link": "/us/game/2019-11-11/2",
+        "correct_answers": 4719,
+        "incorrect_answers": 2040,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158716,
+        "text": "Which other show did the character Alexandra Cabot appear on?",
+        "question_number": 13,
+        "eliminated": "3,352",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "2,602",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312530,
+            "text": "Conviction",
+            "correct": true,
+            "count": "2,602",
+            "percent": "44.26%"
+          },
+          {
+            "id": 312531,
+            "text": "Criminal Intent",
+            "correct": false,
+            "count": "2,467",
+            "percent": "41.96%"
+          },
+          {
+            "id": 312533,
+            "text": "Chicago Fire",
+            "correct": false,
+            "count": "810",
+            "percent": "13.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/2/13",
+        "game_link": "/us/game/2019-11-11/2",
+        "correct_answers": 2602,
+        "incorrect_answers": 3277,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158732,
+        "text": "Which character does this dog belong to?",
+        "question_number": 14,
+        "eliminated": "883",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "3,838",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312554,
+            "text": "Amanda Rollins",
+            "correct": true,
+            "count": "3,838",
+            "percent": "82.56%"
+          },
+          {
+            "id": 312556,
+            "text": "Melinda Warner",
+            "correct": false,
+            "count": "490",
+            "percent": "10.54%"
+          },
+          {
+            "id": 312559,
+            "text": "Olivia Benson",
+            "correct": false,
+            "count": "321",
+            "percent": "6.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/2/14",
+        "game_link": "/us/game/2019-11-11/2",
+        "correct_answers": 3838,
+        "incorrect_answers": 811,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158748,
+        "text": "âLaw & Order: SVUâ was the first network TV show to film where?",
+        "question_number": 15,
+        "eliminated": "2,221",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "2,167",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312578,
+            "text": "Statue of Liberty",
+            "correct": false,
+            "count": "1,198",
+            "percent": "28.24%"
+          },
+          {
+            "id": 312581,
+            "text": "UN Headquarters",
+            "correct": true,
+            "count": "2,167",
+            "percent": "51.08%"
+          },
+          {
+            "id": 312585,
+            "text": "Empire State Building",
+            "correct": false,
+            "count": "877",
+            "percent": "20.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-11/2/15",
+        "game_link": "/us/game/2019-11-11/2",
+        "correct_answers": 2167,
+        "incorrect_answers": 2075,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2352,
+        "game_id": 140989,
+        "question": "Where did the crime take place?",
+        "results": [
+          {
+            "id": 13644,
+            "display_count": "23",
+            "vote_count": 8056,
+            "text": "HQ HQ"
+          },
+          {
+            "id": 13650,
+            "display_count": "40",
+            "vote_count": 14063,
+            "text": "Matt's place"
+          },
+          {
+            "id": 13656,
+            "display_count": "37",
+            "vote_count": 12821,
+            "text": "Sharon's closet"
+          }
+        ],
+        "created_at": "2019-11-12T02:04:11Z"
+      },
+      {
+        "id": 2344,
+        "game_id": 140989,
+        "question": "Which item was used in the crime?",
+        "results": [
+          {
+            "id": 13600,
+            "display_count": "46",
+            "vote_count": 10147,
+            "text": "Birds nest soup"
+          },
+          {
+            "id": 13607,
+            "display_count": "31",
+            "vote_count": 6717,
+            "text": "Eggs"
+          },
+          {
+            "id": 13612,
+            "display_count": "23",
+            "vote_count": 5053,
+            "text": "Reggie"
+          }
+        ],
+        "created_at": "2019-11-12T02:03:41Z"
+      },
+      {
+        "id": 2358,
+        "game_id": 140989,
+        "question": "Who done did it?!",
+        "results": [
+          {
+            "id": 13693,
+            "display_count": "43",
+            "vote_count": 19184,
+            "text": "Anna"
+          },
+          {
+            "id": 13687,
+            "display_count": "30",
+            "vote_count": 13301,
+            "text": "Matt"
+          },
+          {
+            "id": 13689,
+            "display_count": "28",
+            "vote_count": 12597,
+            "text": "Sharon"
+          }
+        ],
+        "created_at": "2019-11-12T02:04:40Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

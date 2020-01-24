@@ -1,0 +1,1462 @@
+[
+  {
+    "id": 99755,
+    "show_id": 10541,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "2,500",
+    "currency": "$",
+    "start_time": "2019-04-30T19:00:00Z",
+    "direct_link": "/us/game/2019-04-30/1",
+    "time": " 3:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,293",
+      "currency": "$",
+      "average_prize": "1.93"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 103305,
+        "text": "The BBC is a public broadcasting company from where?",
+        "question_number": 1,
+        "eliminated": "-5,758",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "125,297",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229430,
+            "text": "Wakanda",
+            "correct": false,
+            "count": "993",
+            "percent": "0.83%"
+          },
+          {
+            "id": 229431,
+            "text": "New Jersey",
+            "correct": false,
+            "count": "4,793",
+            "percent": "4.01%"
+          },
+          {
+            "id": 229433,
+            "text": "United Kingdom",
+            "correct": true,
+            "count": "113,753",
+            "percent": "95.16%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/1/1",
+        "game_link": "/us/game/2019-04-30/1",
+        "correct_answers": 113753,
+        "incorrect_answers": 5786,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103313,
+        "text": "What would you likely call your first cousinâs mother?",
+        "question_number": 2,
+        "eliminated": "586",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "124,821",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229442,
+            "text": "Aunt",
+            "correct": true,
+            "count": "110,793",
+            "percent": "93.2%"
+          },
+          {
+            "id": 229443,
+            "text": "Second cousin",
+            "correct": false,
+            "count": "7,570",
+            "percent": "6.37%"
+          },
+          {
+            "id": 229444,
+            "text": "Mom",
+            "correct": false,
+            "count": "517",
+            "percent": "0.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/1/2",
+        "game_link": "/us/game/2019-04-30/1",
+        "correct_answers": 110793,
+        "incorrect_answers": 8087,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103321,
+        "text": "Which of these is a category in the Tony Awards?",
+        "question_number": 3,
+        "eliminated": "3,807",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "121,071",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229454,
+            "text": "Best Orchestrations",
+            "correct": true,
+            "count": "86,888",
+            "percent": "75.78%"
+          },
+          {
+            "id": 229456,
+            "text": "Best Battle Sequence",
+            "correct": false,
+            "count": "5,933",
+            "percent": "5.17%"
+          },
+          {
+            "id": 229459,
+            "text": "Best Child Actor",
+            "correct": false,
+            "count": "21,838",
+            "percent": "19.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/1/3",
+        "game_link": "/us/game/2019-04-30/1",
+        "correct_answers": 86888,
+        "incorrect_answers": 27771,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103329,
+        "text": "Puerto Ricoâs Playa Negra is a beach best known for what?",
+        "question_number": 4,
+        "eliminated": "1,930",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "119,331",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229466,
+            "text": "Nesting crabs",
+            "correct": false,
+            "count": "4,300",
+            "percent": "3.78%"
+          },
+          {
+            "id": 229467,
+            "text": "Swimming pigs",
+            "correct": false,
+            "count": "10,933",
+            "percent": "9.6%"
+          },
+          {
+            "id": 229469,
+            "text": "Black sand",
+            "correct": true,
+            "count": "98,673",
+            "percent": "86.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/1/4",
+        "game_link": "/us/game/2019-04-30/1",
+        "correct_answers": 98673,
+        "incorrect_answers": 15233,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103337,
+        "text": "Which of these stadiums hosted Major League Baseball games most recently?",
+        "question_number": 5,
+        "eliminated": "22,219",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "97,200",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229478,
+            "text": "Shea Stadium",
+            "correct": true,
+            "count": "33,643",
+            "percent": "31.62%"
+          },
+          {
+            "id": 229481,
+            "text": "Astrodome",
+            "correct": false,
+            "count": "25,396",
+            "percent": "23.87%"
+          },
+          {
+            "id": 229485,
+            "text": "Tiger Stadium",
+            "correct": false,
+            "count": "47,350",
+            "percent": "44.51%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/1/5",
+        "game_link": "/us/game/2019-04-30/1",
+        "correct_answers": 33643,
+        "incorrect_answers": 72746,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103345,
+        "text": "What kind of aquatic animal makes sea silk?",
+        "question_number": 6,
+        "eliminated": "3,477",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "98,627",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229490,
+            "text": "Crustacean",
+            "correct": false,
+            "count": "9,983",
+            "percent": "10.44%"
+          },
+          {
+            "id": 229491,
+            "text": "Mollusk",
+            "correct": true,
+            "count": "74,898",
+            "percent": "78.33%"
+          },
+          {
+            "id": 229493,
+            "text": "Octopus",
+            "correct": false,
+            "count": "10,742",
+            "percent": "11.23%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/1/6",
+        "game_link": "/us/game/2019-04-30/1",
+        "correct_answers": 74898,
+        "incorrect_answers": 20725,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103353,
+        "text": "Which of these Jewish holidays occurs earliest in the secular calendar year?",
+        "question_number": 7,
+        "eliminated": "55,847",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "42,987",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229502,
+            "text": "Rosh Hashanah",
+            "correct": false,
+            "count": "29,571",
+            "percent": "32.33%"
+          },
+          {
+            "id": 229506,
+            "text": "Passover",
+            "correct": false,
+            "count": "37,363",
+            "percent": "40.85%"
+          },
+          {
+            "id": 229509,
+            "text": "Purim",
+            "correct": true,
+            "count": "24,530",
+            "percent": "26.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/1/7",
+        "game_link": "/us/game/2019-04-30/1",
+        "correct_answers": 24530,
+        "incorrect_answers": 66934,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103361,
+        "text": "Before Julius Caesar, what was the Ides of March known for in Roman culture?",
+        "question_number": 8,
+        "eliminated": "23,797",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "24,099",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229514,
+            "text": "First spring markets",
+            "correct": false,
+            "count": "10,569",
+            "percent": "23.5%"
+          },
+          {
+            "id": 229518,
+            "text": "Settling debts",
+            "correct": true,
+            "count": "23,855",
+            "percent": "53.05%"
+          },
+          {
+            "id": 229522,
+            "text": "Solar festival",
+            "correct": false,
+            "count": "10,547",
+            "percent": "23.45%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/1/8",
+        "game_link": "/us/game/2019-04-30/1",
+        "correct_answers": 23855,
+        "incorrect_answers": 21116,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103369,
+        "text": "Which of these is NOT a former translated name of Eastern Europeâs Black Sea?",
+        "question_number": 9,
+        "eliminated": "22,403",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "3,373",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229526,
+            "text": "The Hospitable Sea",
+            "correct": false,
+            "count": "6,996",
+            "percent": "28.69%"
+          },
+          {
+            "id": 229530,
+            "text": "The Deep Sea",
+            "correct": true,
+            "count": "3,314",
+            "percent": "13.59%"
+          },
+          {
+            "id": 229534,
+            "text": "The Inhospitable Sea",
+            "correct": false,
+            "count": "14,076",
+            "percent": "57.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/1/9",
+        "game_link": "/us/game/2019-04-30/1",
+        "correct_answers": 3314,
+        "incorrect_answers": 21072,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103377,
+        "text": "Which of these expressions comes from a religious ritual involving a real animal?",
+        "question_number": 10,
+        "eliminated": "2,782",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "5,152",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229538,
+            "text": "Holy cow",
+            "correct": false,
+            "count": "2,046",
+            "percent": "26.51%"
+          },
+          {
+            "id": 229541,
+            "text": "Piggy bank",
+            "correct": false,
+            "count": "525",
+            "percent": "6.8%"
+          },
+          {
+            "id": 229544,
+            "text": "Scapegoat",
+            "correct": true,
+            "count": "5,148",
+            "percent": "66.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/1/10",
+        "game_link": "/us/game/2019-04-30/1",
+        "correct_answers": 5148,
+        "incorrect_answers": 2571,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103385,
+        "text": "What word refers to both a disguised way of writing and a continuous pipe organ sound?",
+        "question_number": 11,
+        "eliminated": "867",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "4,652",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229550,
+            "text": "Nullity",
+            "correct": false,
+            "count": "354",
+            "percent": "6.51%"
+          },
+          {
+            "id": 229554,
+            "text": "Cipher",
+            "correct": true,
+            "count": "4,652",
+            "percent": "85.5%"
+          },
+          {
+            "id": 229557,
+            "text": "Diddly",
+            "correct": false,
+            "count": "435",
+            "percent": "7.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/1/11",
+        "game_link": "/us/game/2019-04-30/1",
+        "correct_answers": 4652,
+        "incorrect_answers": 789,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103393,
+        "text": "Which of these US military decorations is only awarded for heroism outside the context of combat?",
+        "question_number": 12,
+        "eliminated": "3,584",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "1,293",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229562,
+            "text": "Silver Star Medal",
+            "correct": false,
+            "count": "1,574",
+            "percent": "33.26%"
+          },
+          {
+            "id": 229564,
+            "text": "Soldier's Medal",
+            "correct": true,
+            "count": "1,293",
+            "percent": "27.32%"
+          },
+          {
+            "id": 229567,
+            "text": "Purple Heart",
+            "correct": false,
+            "count": "1,866",
+            "percent": "39.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/1/12",
+        "game_link": "/us/game/2019-04-30/1",
+        "correct_answers": 1293,
+        "incorrect_answers": 3440,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 99814,
+    "show_id": 10588,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-05-01T01:00:00Z",
+    "direct_link": "/us/game/2019-04-30/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,200",
+      "currency": "$",
+      "average_prize": "2.27"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 103399,
+        "text": "Which of these is true about the upcoming âSonic the Hedgehogâ movie?",
+        "question_number": 1,
+        "eliminated": "-21,395",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "335,648",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229571,
+            "text": "Itâs mostly live action",
+            "correct": true,
+            "count": "278,909",
+            "percent": "88.75%"
+          },
+          {
+            "id": 229572,
+            "text": "Itâs entirely in Russian",
+            "correct": false,
+            "count": "5,666",
+            "percent": "1.8%"
+          },
+          {
+            "id": 229573,
+            "text": "Thereâs no Sonic in it",
+            "correct": false,
+            "count": "29,678",
+            "percent": "9.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/2/1",
+        "game_link": "/us/game/2019-04-30/2",
+        "correct_answers": 278909,
+        "incorrect_answers": 35344,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103407,
+        "text": "The letters âHeâ represent the chemical symbol for what?",
+        "question_number": 2,
+        "eliminated": "861",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "335,524",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229583,
+            "text": "Helvetica",
+            "correct": false,
+            "count": "1,899",
+            "percent": "0.59%"
+          },
+          {
+            "id": 229584,
+            "text": "Helium",
+            "correct": true,
+            "count": "320,933",
+            "percent": "99.18%"
+          },
+          {
+            "id": 229585,
+            "text": "Helicopter",
+            "correct": false,
+            "count": "768",
+            "percent": "0.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/2/2",
+        "game_link": "/us/game/2019-04-30/2",
+        "correct_answers": 320933,
+        "incorrect_answers": 2667,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103415,
+        "text": "Complete the iconic â90s hip-hop lyric: âI wish I was a little bit taller, I wish I wasâ what?",
+        "question_number": 3,
+        "eliminated": "2,202",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "333,348",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229595,
+            "text": "In squalor",
+            "correct": false,
+            "count": "5,056",
+            "percent": "1.6%"
+          },
+          {
+            "id": 229597,
+            "text": "Nightcrawler",
+            "correct": false,
+            "count": "20,070",
+            "percent": "6.36%"
+          },
+          {
+            "id": 229600,
+            "text": "A baller",
+            "correct": true,
+            "count": "290,647",
+            "percent": "92.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/2/3",
+        "game_link": "/us/game/2019-04-30/2",
+        "correct_answers": 290647,
+        "incorrect_answers": 25126,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103423,
+        "text": "Which of these places is farthest north?",
+        "question_number": 4,
+        "eliminated": "13,132",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "320,359",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229607,
+            "text": "North Carolina",
+            "correct": false,
+            "count": "13,250",
+            "percent": "4.2%"
+          },
+          {
+            "id": 229608,
+            "text": "North Dakota",
+            "correct": true,
+            "count": "177,434",
+            "percent": "56.27%"
+          },
+          {
+            "id": 229609,
+            "text": "North Korea",
+            "correct": false,
+            "count": "124,654",
+            "percent": "39.53%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/2/4",
+        "game_link": "/us/game/2019-04-30/2",
+        "correct_answers": 177434,
+        "incorrect_answers": 137904,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103431,
+        "text": "Which of these is a variety of tomato?",
+        "question_number": 5,
+        "eliminated": "14,831",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "308,173",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229619,
+            "text": "Gravenstein",
+            "correct": false,
+            "count": "69,307",
+            "percent": "22.86%"
+          },
+          {
+            "id": 229621,
+            "text": "Bronze Star",
+            "correct": false,
+            "count": "52,514",
+            "percent": "17.32%"
+          },
+          {
+            "id": 229623,
+            "text": "Gold Medal",
+            "correct": true,
+            "count": "181,347",
+            "percent": "59.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/2/5",
+        "game_link": "/us/game/2019-04-30/2",
+        "correct_answers": 181347,
+        "incorrect_answers": 121821,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103439,
+        "text": "What rival said Thomas Edison âlived in utter disregard of the most elementary rules of hygieneâ?",
+        "question_number": 6,
+        "eliminated": "23,025",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "286,088",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229631,
+            "text": "Henry Ford",
+            "correct": false,
+            "count": "48,001",
+            "percent": "16.65%"
+          },
+          {
+            "id": 229634,
+            "text": "Mark Twain",
+            "correct": false,
+            "count": "65,189",
+            "percent": "22.61%"
+          },
+          {
+            "id": 229637,
+            "text": "Nikola Tesla",
+            "correct": true,
+            "count": "175,159",
+            "percent": "60.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/2/6",
+        "game_link": "/us/game/2019-04-30/2",
+        "correct_answers": 175159,
+        "incorrect_answers": 113190,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103447,
+        "text": "Which of these is a cross between a male horse and a female donkey?",
+        "question_number": 7,
+        "eliminated": "193,626",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "94,166",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229643,
+            "text": "Hinny",
+            "correct": true,
+            "count": "48,887",
+            "percent": "17.85%"
+          },
+          {
+            "id": 229644,
+            "text": "Jack",
+            "correct": false,
+            "count": "20,017",
+            "percent": "7.31%"
+          },
+          {
+            "id": 229645,
+            "text": "Mule",
+            "correct": false,
+            "count": "205,003",
+            "percent": "74.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/2/7",
+        "game_link": "/us/game/2019-04-30/2",
+        "correct_answers": 48887,
+        "incorrect_answers": 225020,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103455,
+        "text": "What did Doc Brown say he was doing right before he invented the flux capacitor?",
+        "question_number": 8,
+        "eliminated": "38,956",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "81,656",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229655,
+            "text": "Viewing the moon landing",
+            "correct": false,
+            "count": "13,848",
+            "percent": "11.95%"
+          },
+          {
+            "id": 229657,
+            "text": "Hanging a clock",
+            "correct": true,
+            "count": "81,278",
+            "percent": "70.11%"
+          },
+          {
+            "id": 229660,
+            "text": "Buying plutonium",
+            "correct": false,
+            "count": "20,804",
+            "percent": "17.95%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/2/8",
+        "game_link": "/us/game/2019-04-30/2",
+        "correct_answers": 81278,
+        "incorrect_answers": 34652,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103463,
+        "text": "Which of these terms means a musical piece should be played at a moderately slow tempo?",
+        "question_number": 9,
+        "eliminated": "44,310",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "41,695",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229667,
+            "text": "Andante",
+            "correct": true,
+            "count": "41,676",
+            "percent": "49.46%"
+          },
+          {
+            "id": 229669,
+            "text": "Allegro",
+            "correct": false,
+            "count": "18,587",
+            "percent": "22.06%"
+          },
+          {
+            "id": 229671,
+            "text": "Legato",
+            "correct": false,
+            "count": "24,005",
+            "percent": "28.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/2/9",
+        "game_link": "/us/game/2019-04-30/2",
+        "correct_answers": 41676,
+        "incorrect_answers": 42592,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103471,
+        "text": "Which planet in the solar system reaches the coldest surface temperature?",
+        "question_number": 10,
+        "eliminated": "22,999",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "22,854",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229679,
+            "text": "Neptune",
+            "correct": false,
+            "count": "15,578",
+            "percent": "34.79%"
+          },
+          {
+            "id": 229681,
+            "text": "Uranus",
+            "correct": true,
+            "count": "22,851",
+            "percent": "51.03%"
+          },
+          {
+            "id": 229684,
+            "text": "Saturn",
+            "correct": false,
+            "count": "6,350",
+            "percent": "14.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/2/10",
+        "game_link": "/us/game/2019-04-30/2",
+        "correct_answers": 22851,
+        "incorrect_answers": 21928,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103479,
+        "text": "Will Smithâs No. 1 soundtrack hit from 1999 samples a song by the artist famous for what other song?",
+        "question_number": 11,
+        "eliminated": "18,867",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "7,779",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229691,
+            "text": "Shaft",
+            "correct": false,
+            "count": "3,087",
+            "percent": "12.09%"
+          },
+          {
+            "id": 229694,
+            "text": "Living in America",
+            "correct": false,
+            "count": "14,675",
+            "percent": "57.46%"
+          },
+          {
+            "id": 229698,
+            "text": "Superstition",
+            "correct": true,
+            "count": "7,779",
+            "percent": "30.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/2/11",
+        "game_link": "/us/game/2019-04-30/2",
+        "correct_answers": 7779,
+        "incorrect_answers": 17762,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103487,
+        "text": "Which of these is a perfect anagram of a US state?",
+        "question_number": 12,
+        "eliminated": "5,915",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "6,900",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229703,
+            "text": "An Old Stone",
+            "correct": false,
+            "count": "4,336",
+            "percent": "34.34%"
+          },
+          {
+            "id": 229706,
+            "text": "On My Wig",
+            "correct": true,
+            "count": "6,900",
+            "percent": "54.65%"
+          },
+          {
+            "id": 229709,
+            "text": "With My Ring",
+            "correct": false,
+            "count": "1,389",
+            "percent": "11.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/2/12",
+        "game_link": "/us/game/2019-04-30/2",
+        "correct_answers": 6900,
+        "incorrect_answers": 5725,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103495,
+        "text": "Which of these modern-day countries was NOT part of the 19th-century land known as New Granada?",
+        "question_number": 13,
+        "eliminated": "2,945",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "5,339",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229715,
+            "text": "Panama",
+            "correct": false,
+            "count": "1,144",
+            "percent": "14.09%"
+          },
+          {
+            "id": 229717,
+            "text": "Colombia",
+            "correct": false,
+            "count": "1,635",
+            "percent": "20.14%"
+          },
+          {
+            "id": 229719,
+            "text": "Chile",
+            "correct": true,
+            "count": "5,339",
+            "percent": "65.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/2/13",
+        "game_link": "/us/game/2019-04-30/2",
+        "correct_answers": 5339,
+        "incorrect_answers": 2779,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103503,
+        "text": "The Dandie Dinmont Terrier is named for a character created by the author of which of these?",
+        "question_number": 14,
+        "eliminated": "1,344",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "4,427",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229727,
+            "text": "Ivanhoe",
+            "correct": true,
+            "count": "4,427",
+            "percent": "77.6%"
+          },
+          {
+            "id": 229729,
+            "text": "Bleak House",
+            "correct": false,
+            "count": "498",
+            "percent": "8.73%"
+          },
+          {
+            "id": 229733,
+            "text": "Emma",
+            "correct": false,
+            "count": "780",
+            "percent": "13.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/2/14",
+        "game_link": "/us/game/2019-04-30/2",
+        "correct_answers": 4427,
+        "incorrect_answers": 1278,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 103511,
+        "text": "Which of these is in the title of a real âBerenstain Bearsâ book?",
+        "question_number": 15,
+        "eliminated": "2,468",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "2,200",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 229739,
+            "text": "Lost in Cyberspace",
+            "correct": true,
+            "count": "2,200",
+            "percent": "47.61%"
+          },
+          {
+            "id": 229742,
+            "text": "Homeschool Adventures",
+            "correct": false,
+            "count": "1,109",
+            "percent": "24.0%"
+          },
+          {
+            "id": 229746,
+            "text": "Preventing Bird Flu",
+            "correct": false,
+            "count": "1,312",
+            "percent": "28.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-30/2/15",
+        "game_link": "/us/game/2019-04-30/2",
+        "correct_answers": 2200,
+        "incorrect_answers": 2421,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 99886,
+    "show_id": 10611,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-05-01T01:30:00Z",
+    "direct_link": "/us/game/2019-04-30/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "12,022",
+      "currency": "$",
+      "average_prize": "0.08"
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-04-30/3/1",
+        "question_number": 1,
+        "text": "Really Really Really Good",
+        "answer": [
+          "OFF",
+          "THE",
+          "CHARTS"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "S"
+        ],
+        "game_link": "/us/game/2019-04-30/3",
+        "eliminated": 19201,
+        "advancing": 116872,
+        "correct_answers": 116872,
+        "incorrect_answers": 19201
+      },
+      {
+        "direct_link": "/us/game/2019-04-30/3/2",
+        "question_number": 2,
+        "text": "Sailing Necessity",
+        "answer": [
+          "LIFE",
+          "JACKET"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "L"
+        ],
+        "game_link": "/us/game/2019-04-30/3",
+        "eliminated": 4856,
+        "advancing": 112997,
+        "correct_answers": 112997,
+        "incorrect_answers": 4856
+      },
+      {
+        "direct_link": "/us/game/2019-04-30/3/3",
+        "question_number": 3,
+        "text": "Classic Cookie",
+        "answer": [
+          "CHOCOLATE",
+          "CHIP"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "H"
+        ],
+        "game_link": "/us/game/2019-04-30/3",
+        "eliminated": 2328,
+        "advancing": 110790,
+        "correct_answers": 110790,
+        "incorrect_answers": 2328
+      },
+      {
+        "direct_link": "/us/game/2019-04-30/3/4",
+        "question_number": 4,
+        "text": "In the Living Room",
+        "answer": [
+          "SECTIONAL",
+          "SOFA"
+        ],
+        "initial_letters": [
+          " ",
+          "F"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "S"
+        ],
+        "game_link": "/us/game/2019-04-30/3",
+        "eliminated": 14963,
+        "advancing": 95919,
+        "correct_answers": 95919,
+        "incorrect_answers": 14963
+      },
+      {
+        "direct_link": "/us/game/2019-04-30/3/5",
+        "question_number": 5,
+        "text": "Food Challenge",
+        "answer": [
+          "CHUBBY",
+          "BUNNY"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "H"
+        ],
+        "game_link": "/us/game/2019-04-30/3",
+        "eliminated": 7803,
+        "advancing": 89106,
+        "correct_answers": 89106,
+        "incorrect_answers": 7803
+      },
+      {
+        "direct_link": "/us/game/2019-04-30/3/6",
+        "question_number": 6,
+        "text": "In the Garden",
+        "answer": [
+          "HORTICULTURE"
+        ],
+        "initial_letters": [
+          "I"
+        ],
+        "to_reveal_letters": [
+          "T",
+          "U"
+        ],
+        "game_link": "/us/game/2019-04-30/3",
+        "eliminated": 40715,
+        "advancing": 48849,
+        "correct_answers": 48849,
+        "incorrect_answers": 40715
+      },
+      {
+        "direct_link": "/us/game/2019-04-30/3/7",
+        "question_number": 7,
+        "text": "In the Bedroom",
+        "answer": [
+          "KING",
+          "SIZE",
+          "MATTRESS"
+        ],
+        "initial_letters": [
+          " ",
+          "Z"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "R"
+        ],
+        "game_link": "/us/game/2019-04-30/3",
+        "eliminated": 7854,
+        "advancing": 44144,
+        "correct_answers": 44144,
+        "incorrect_answers": 7854
+      },
+      {
+        "direct_link": "/us/game/2019-04-30/3/8",
+        "question_number": 8,
+        "text": "Senate and House",
+        "answer": [
+          "LEGISLATIVE",
+          "BRANCH"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "L"
+        ],
+        "game_link": "/us/game/2019-04-30/3",
+        "eliminated": 15213,
+        "advancing": 29798,
+        "correct_answers": 29798,
+        "incorrect_answers": 15213
+      },
+      {
+        "direct_link": "/us/game/2019-04-30/3/9",
+        "question_number": 9,
+        "text": "Lowest of the Low",
+        "answer": [
+          "BOTTOM",
+          "OF",
+          "THE",
+          "BARREL"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "L"
+        ],
+        "game_link": "/us/game/2019-04-30/3",
+        "eliminated": 2365,
+        "advancing": 29768,
+        "correct_answers": 29768,
+        "incorrect_answers": 2365
+      },
+      {
+        "direct_link": "/us/game/2019-04-30/3/10",
+        "question_number": 10,
+        "text": "Nothing to See Here",
+        "answer": [
+          "BUSINESS",
+          "AS",
+          "USUAL"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "L"
+        ],
+        "game_link": "/us/game/2019-04-30/3",
+        "eliminated": 8608,
+        "advancing": 21647,
+        "correct_answers": 21647,
+        "incorrect_answers": 8608
+      },
+      {
+        "direct_link": "/us/game/2019-04-30/3/11",
+        "question_number": 11,
+        "text": "Country Capital?",
+        "answer": [
+          "NASHVILLE,",
+          "TENNESSEE"
+        ],
+        "initial_letters": [
+          ",",
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "V"
+        ],
+        "game_link": "/us/game/2019-04-30/3",
+        "eliminated": 3662,
+        "advancing": 19832,
+        "correct_answers": 19832,
+        "incorrect_answers": 3662
+      },
+      {
+        "direct_link": "/us/game/2019-04-30/3/12",
+        "question_number": 12,
+        "text": "Spelled-Out Acronym",
+        "answer": [
+          "IN",
+          "MY",
+          "HUMBLE",
+          "OPINION"
+        ],
+        "initial_letters": [
+          " ",
+          "U"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "L"
+        ],
+        "game_link": "/us/game/2019-04-30/3",
+        "eliminated": 8827,
+        "advancing": 12022,
+        "correct_answers": 12022,
+        "incorrect_answers": 8827
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

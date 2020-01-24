@@ -1,0 +1,407 @@
+[
+  {
+    "id": 141131,
+    "show_id": 12808,
+    "active": true,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-11-13T02:00:00Z",
+    "direct_link": "/us/game/2019-11-12/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2373,
+        "game_id": 141131,
+        "question": "What movie is that clip from?",
+        "results": [
+          {
+            "id": 13753,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "City of Angels"
+          },
+          {
+            "id": 13754,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "When Harry Met Sally"
+          },
+          {
+            "id": 13755,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "You've Got Mail"
+          }
+        ],
+        "created_at": "2019-11-13T02:05:03Z"
+      },
+      {
+        "id": 2368,
+        "game_id": 141131,
+        "question": "What's the best movie to watch on Thanksgiving?",
+        "results": [
+          {
+            "id": 13739,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "Charlie Brown"
+          },
+          {
+            "id": 13732,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "Planes, Trains and Automobiles"
+          },
+          {
+            "id": 13736,
+            "display_count": "0",
+            "vote_count": 0,
+            "text": "You've Got Mail"
+          }
+        ],
+        "created_at": "2019-11-13T02:03:29Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 141173,
+    "show_id": 12925,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-11-13T02:30:00Z",
+    "direct_link": "/us/game/2019-11-12/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "1,384",
+      "currency": "$",
+      "average_prize": "0.72"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-11-12/2/1",
+        "question_number": 1,
+        "text": "Winter Must",
+        "answer": [
+          "CHAPSTICK"
+        ],
+        "initial_letters": [
+          "\"C\""
+        ],
+        "to_reveal_letters": [
+          "P",
+          "T"
+        ],
+        "game_link": "/us/game/2019-11-12/2",
+        "eliminated": 5326,
+        "advancing": 40942,
+        "correct_answers": 40942,
+        "incorrect_answers": 5326
+      },
+      {
+        "direct_link": "/us/game/2019-11-12/2/2",
+        "question_number": 2,
+        "text": "Motel Sign",
+        "answer": [
+          "NO",
+          "VACANCY"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "V"
+        ],
+        "game_link": "/us/game/2019-11-12/2",
+        "eliminated": 923,
+        "advancing": 40505,
+        "correct_answers": 40505,
+        "incorrect_answers": 923
+      },
+      {
+        "direct_link": "/us/game/2019-11-12/2/3",
+        "question_number": 3,
+        "text": "Best Part of a Haircut",
+        "answer": [
+          "SCALP",
+          "MASSAGE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"E\""
+        ],
+        "to_reveal_letters": [
+          "L",
+          "P"
+        ],
+        "game_link": "/us/game/2019-11-12/2",
+        "eliminated": 2800,
+        "advancing": 37733,
+        "correct_answers": 37733,
+        "incorrect_answers": 2800
+      },
+      {
+        "direct_link": "/us/game/2019-11-12/2/4",
+        "question_number": 4,
+        "text": "Bad Sign",
+        "answer": [
+          "FOUR",
+          "HORSEMEN"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"M\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "R"
+        ],
+        "game_link": "/us/game/2019-11-12/2",
+        "eliminated": 23557,
+        "advancing": 14302,
+        "correct_answers": 14302,
+        "incorrect_answers": 23557
+      },
+      {
+        "direct_link": "/us/game/2019-11-12/2/5",
+        "question_number": 5,
+        "text": "Traditional Instrument",
+        "answer": [
+          "CELTIC",
+          "HARP"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"I\""
+        ],
+        "to_reveal_letters": [
+          "H",
+          "R"
+        ],
+        "game_link": "/us/game/2019-11-12/2",
+        "eliminated": 6873,
+        "advancing": 9271,
+        "correct_answers": 9271,
+        "incorrect_answers": 6873
+      },
+      {
+        "direct_link": "/us/game/2019-11-12/2/6",
+        "question_number": 6,
+        "text": "Niche Drink",
+        "answer": [
+          "CHERRY",
+          "COLA"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"A\""
+        ],
+        "to_reveal_letters": [
+          "O",
+          "R"
+        ],
+        "game_link": "/us/game/2019-11-12/2",
+        "eliminated": 1091,
+        "advancing": 8744,
+        "correct_answers": 8744,
+        "incorrect_answers": 1091
+      },
+      {
+        "direct_link": "/us/game/2019-11-12/2/7",
+        "question_number": 7,
+        "text": "This Boy Isnât Perfect",
+        "answer": [
+          "HEâS",
+          "NO",
+          "ANGEL"
+        ],
+        "initial_letters": [
+          "\"â\"",
+          "\" \"",
+          "\"E\""
+        ],
+        "to_reveal_letters": [
+          "G",
+          "L"
+        ],
+        "game_link": "/us/game/2019-11-12/2",
+        "eliminated": 573,
+        "advancing": 8340,
+        "correct_answers": 8340,
+        "incorrect_answers": 573
+      },
+      {
+        "direct_link": "/us/game/2019-11-12/2/8",
+        "question_number": 8,
+        "text": "Kitschy Throwback",
+        "answer": [
+          "TIKI",
+          "COCKTAIL",
+          "BAR"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"A\""
+        ],
+        "to_reveal_letters": [
+          "B",
+          "L"
+        ],
+        "game_link": "/us/game/2019-11-12/2",
+        "eliminated": 2870,
+        "advancing": 5574,
+        "correct_answers": 5574,
+        "incorrect_answers": 2870
+      },
+      {
+        "direct_link": "/us/game/2019-11-12/2/9",
+        "question_number": 9,
+        "text": "60âs Pop Hit",
+        "answer": [
+          "THE",
+          "KIDS",
+          "ARE",
+          "ALRIGHT"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "R"
+        ],
+        "game_link": "/us/game/2019-11-12/2",
+        "eliminated": 622,
+        "advancing": 5508,
+        "correct_answers": 5508,
+        "incorrect_answers": 622
+      },
+      {
+        "direct_link": "/us/game/2019-11-12/2/10",
+        "question_number": 10,
+        "text": "Canon Including Pachelbel",
+        "answer": [
+          "HYMNS",
+          "&",
+          "MUSICAL",
+          "PSALMS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"&\"",
+          "\"U\""
+        ],
+        "to_reveal_letters": [
+          "H",
+          "S"
+        ],
+        "game_link": "/us/game/2019-11-12/2",
+        "eliminated": 2428,
+        "advancing": 3254,
+        "correct_answers": 3254,
+        "incorrect_answers": 2428
+      },
+      {
+        "direct_link": "/us/game/2019-11-12/2/11",
+        "question_number": 11,
+        "text": "Wonderful Sight?",
+        "answer": [
+          "GIZAâS",
+          "SPHINX",
+          "&",
+          "PYRAMIDS"
+        ],
+        "initial_letters": [
+          "\"â\"",
+          "\" \"",
+          "\"&\"",
+          "\"Z\""
+        ],
+        "to_reveal_letters": [
+          "G",
+          "R"
+        ],
+        "game_link": "/us/game/2019-11-12/2",
+        "eliminated": 1444,
+        "advancing": 2625,
+        "correct_answers": 2625,
+        "incorrect_answers": 1444
+      },
+      {
+        "direct_link": "/us/game/2019-11-12/2/12",
+        "question_number": 12,
+        "text": "As Seen On Twitter",
+        "answer": [
+          "EXPANDING",
+          "GALAXY",
+          "BRAIN",
+          "MEME"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"R\""
+        ],
+        "to_reveal_letters": [
+          "N",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-11-12/2",
+        "eliminated": 1767,
+        "advancing": 1384,
+        "correct_answers": 1384,
+        "incorrect_answers": 1767
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": null
+  }
+]

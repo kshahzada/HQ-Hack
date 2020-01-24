@@ -1,0 +1,1230 @@
+[
+  {
+    "id": 142792,
+    "show_id": 12717,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2020-01-03T02:00:00Z",
+    "direct_link": "/us/game/2020-01-02/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "72",
+      "currency": "$",
+      "average_prize": "69.44"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 160886,
+        "text": "Who has been named Time Magazineâs Person of the Year twice?",
+        "question_number": 1,
+        "eliminated": "-5,867",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "91,102",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315785,
+            "text": "Barack Obama",
+            "correct": true,
+            "count": "63,114",
+            "percent": "78.7%"
+          },
+          {
+            "id": 315786,
+            "text": "Clara Peller",
+            "correct": false,
+            "count": "3,952",
+            "percent": "4.93%"
+          },
+          {
+            "id": 315787,
+            "text": "Donny Osmond",
+            "correct": false,
+            "count": "13,133",
+            "percent": "16.38%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/1",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 63114,
+        "incorrect_answers": 17085,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160888,
+        "text": "By definition, where would you go on a pilgrimage to Mecca?",
+        "question_number": 2,
+        "eliminated": "1,318",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "90,043",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315788,
+            "text": "Saudi Arabia",
+            "correct": true,
+            "count": "73,995",
+            "percent": "90.56%"
+          },
+          {
+            "id": 315789,
+            "text": "Wakanda",
+            "correct": false,
+            "count": "2,440",
+            "percent": "2.99%"
+          },
+          {
+            "id": 315790,
+            "text": "Little Italy",
+            "correct": false,
+            "count": "5,276",
+            "percent": "6.46%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/2",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 73995,
+        "incorrect_answers": 7716,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160890,
+        "text": "What sandwich is considered authentic Louisiana cuisine?",
+        "question_number": 3,
+        "eliminated": "2,648",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "87,453",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315791,
+            "text": "Cheesesteak",
+            "correct": false,
+            "count": "2,165",
+            "percent": "2.67%"
+          },
+          {
+            "id": 315792,
+            "text": "Poâ boy",
+            "correct": true,
+            "count": "74,418",
+            "percent": "91.62%"
+          },
+          {
+            "id": 315793,
+            "text": "Reuben",
+            "correct": false,
+            "count": "4,646",
+            "percent": "5.72%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/3",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 74418,
+        "incorrect_answers": 6811,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160892,
+        "text": "What type of record does the RIAA award for combined sales and streams of one million units?",
+        "question_number": 4,
+        "eliminated": "7,141",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "80,447",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315794,
+            "text": "Diamond",
+            "correct": false,
+            "count": "9,391",
+            "percent": "12.53%"
+          },
+          {
+            "id": 315795,
+            "text": "Gold",
+            "correct": false,
+            "count": "18,294",
+            "percent": "24.42%"
+          },
+          {
+            "id": 315796,
+            "text": "Platinum",
+            "correct": true,
+            "count": "47,243",
+            "percent": "63.05%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/4",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 47243,
+        "incorrect_answers": 27685,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160894,
+        "text": "Which of these is one of the USâ Four Corners states?",
+        "question_number": 5,
+        "eliminated": "7,448",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "73,670",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315797,
+            "text": "Nevada",
+            "correct": false,
+            "count": "13,256",
+            "percent": "17.68%"
+          },
+          {
+            "id": 315798,
+            "text": "Wyoming",
+            "correct": false,
+            "count": "13,704",
+            "percent": "18.28%"
+          },
+          {
+            "id": 315799,
+            "text": "Colorado",
+            "correct": true,
+            "count": "48,005",
+            "percent": "64.04%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/5",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 48005,
+        "incorrect_answers": 26960,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160896,
+        "text": "Which hit song is by the ex-One Direction member who acted in a Christopher Nolan movie?",
+        "question_number": 6,
+        "eliminated": "18,788",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "55,927",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315800,
+            "text": "Pillowtalk",
+            "correct": false,
+            "count": "35,056",
+            "percent": "50.97%"
+          },
+          {
+            "id": 315801,
+            "text": "Strip That Down",
+            "correct": false,
+            "count": "9,875",
+            "percent": "14.36%"
+          },
+          {
+            "id": 315802,
+            "text": "Sign of the Times",
+            "correct": true,
+            "count": "23,846",
+            "percent": "34.67%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/6",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 23846,
+        "incorrect_answers": 44931,
+        "savage": true,
+        "checkpoint": {
+          "round_number": 6,
+          "players_left": 52863,
+          "players_left_formatted": "52,863",
+          "num_winners": 6387,
+          "num_winners_formatted": "6,387",
+          "prize": 135.0,
+          "prize_formatted": "135 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160898,
+        "text": "For most of its history, Disneyâs film distribution company was named for what?",
+        "question_number": 7,
+        "eliminated": "16,587",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "41,663",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315803,
+            "text": "County",
+            "correct": false,
+            "count": "4,725",
+            "percent": "9.63%"
+          },
+          {
+            "id": 315804,
+            "text": "Street",
+            "correct": true,
+            "count": "29,895",
+            "percent": "60.92%"
+          },
+          {
+            "id": 315805,
+            "text": "Town",
+            "correct": false,
+            "count": "14,453",
+            "percent": "29.45%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/7",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 29895,
+        "incorrect_answers": 19178,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160900,
+        "text": "Which of these acts is NOT in the Rock and Roll Hall of Fame?",
+        "question_number": 8,
+        "eliminated": "17,909",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "26,922",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315806,
+            "text": "Jeff Buckley",
+            "correct": true,
+            "count": "11,356",
+            "percent": "26.97%"
+          },
+          {
+            "id": 315807,
+            "text": "Yes",
+            "correct": false,
+            "count": "23,010",
+            "percent": "54.66%"
+          },
+          {
+            "id": 315808,
+            "text": "The Ronettes",
+            "correct": false,
+            "count": "7,733",
+            "percent": "18.37%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/8",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 11356,
+        "incorrect_answers": 30743,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160902,
+        "text": "What baseball team has a letter on their cap insignia thatâs not in their team, city or state name?",
+        "question_number": 9,
+        "eliminated": "6,644",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "26,657",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315809,
+            "text": "Reds",
+            "correct": false,
+            "count": "4,514",
+            "percent": "15.23%"
+          },
+          {
+            "id": 315810,
+            "text": "Cardinals",
+            "correct": false,
+            "count": "5,635",
+            "percent": "19.01%"
+          },
+          {
+            "id": 315811,
+            "text": "Twins",
+            "correct": true,
+            "count": "19,498",
+            "percent": "65.77%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/9",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 19498,
+        "incorrect_answers": 10149,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160904,
+        "text": "What type of volcanic eruption is seen here?",
+        "question_number": 10,
+        "eliminated": "7,951",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "21,884",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315812,
+            "text": "Hawaiian",
+            "correct": true,
+            "count": "14,326",
+            "percent": "49.68%"
+          },
+          {
+            "id": 315813,
+            "text": "Phreatic",
+            "correct": false,
+            "count": "9,231",
+            "percent": "32.01%"
+          },
+          {
+            "id": 315814,
+            "text": "Strombolian",
+            "correct": false,
+            "count": "5,278",
+            "percent": "18.3%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/10",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 14326,
+        "incorrect_answers": 14509,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160906,
+        "text": "The only theatrical âSimpsonsâ short was shown before a film in what series?",
+        "question_number": 11,
+        "eliminated": "13,729",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "12,428",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315815,
+            "text": "How to Train Your Dragon",
+            "correct": false,
+            "count": "4,060",
+            "percent": "16.82%"
+          },
+          {
+            "id": 315816,
+            "text": "Ice Age",
+            "correct": true,
+            "count": "12,428",
+            "percent": "51.48%"
+          },
+          {
+            "id": 315817,
+            "text": "Shrek",
+            "correct": false,
+            "count": "7,654",
+            "percent": "31.7%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/11",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 12428,
+        "incorrect_answers": 11714,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 15748,
+          "players_left_formatted": "15,748",
+          "num_winners": 3880,
+          "num_winners_formatted": "3,880",
+          "prize": 0.05,
+          "prize_formatted": "$0.05",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160908,
+        "text": "An actor recently added to the âWestworldâ cast was once a contestant on which of these shows?",
+        "question_number": 12,
+        "eliminated": "9,023",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "9,606",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315818,
+            "text": "$100,000 Pyramid",
+            "correct": false,
+            "count": "2,153",
+            "percent": "14.09%"
+          },
+          {
+            "id": 315819,
+            "text": "Match Game",
+            "correct": false,
+            "count": "3,517",
+            "percent": "23.02%"
+          },
+          {
+            "id": 315820,
+            "text": "The Price Is Right",
+            "correct": true,
+            "count": "9,606",
+            "percent": "62.88%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/12",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 9606,
+        "incorrect_answers": 5670,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160910,
+        "text": "Which of these is NOT a term used in mathematics?",
+        "question_number": 13,
+        "eliminated": "2,822",
+        "category": "Math",
+        "category_slug": "math",
+        "advancing": "10,940",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315821,
+            "text": "Radicand",
+            "correct": false,
+            "count": "783",
+            "percent": "5.74%"
+          },
+          {
+            "id": 315822,
+            "text": "Vinculum",
+            "correct": false,
+            "count": "1,910",
+            "percent": "14.01%"
+          },
+          {
+            "id": 315823,
+            "text": "Stylite",
+            "correct": true,
+            "count": "10,940",
+            "percent": "80.25%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/13",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 10940,
+        "incorrect_answers": 2693,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160912,
+        "text": "According to Dramatics Magazine, what was the most popular high school musical production of the 2010s?",
+        "question_number": 14,
+        "eliminated": "9,030",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "4,071",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315824,
+            "text": "Little Shop of Horrors",
+            "correct": false,
+            "count": "3,049",
+            "percent": "25.01%"
+          },
+          {
+            "id": 315825,
+            "text": "Beauty and the Beast",
+            "correct": true,
+            "count": "4,071",
+            "percent": "33.4%"
+          },
+          {
+            "id": 315826,
+            "text": "Guys and Dolls",
+            "correct": false,
+            "count": "5,070",
+            "percent": "41.59%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/14",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 4071,
+        "incorrect_answers": 8119,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160914,
+        "text": "Who was vice president when this man was president?",
+        "question_number": 15,
+        "eliminated": "4,857",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "6,177",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315827,
+            "text": "Martin Van Buren",
+            "correct": false,
+            "count": "3,451",
+            "percent": "31.43%"
+          },
+          {
+            "id": 315828,
+            "text": "John Calhoun",
+            "correct": true,
+            "count": "6,177",
+            "percent": "56.25%"
+          },
+          {
+            "id": 315829,
+            "text": "Daniel Tompkins",
+            "correct": false,
+            "count": "1,353",
+            "percent": "12.32%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/15",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 6177,
+        "incorrect_answers": 4804,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 15,
+          "players_left": 6073,
+          "players_left_formatted": "6,073",
+          "num_winners": 2896,
+          "num_winners_formatted": "2,896",
+          "prize": 0.25,
+          "prize_formatted": "$0.25",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160916,
+        "text": "Who did NOT play a Bosley in the recent âCharlieâs Angelsâ reboot?",
+        "question_number": 16,
+        "eliminated": "5,699",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "2,270",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315830,
+            "text": "Elizabeth Banks",
+            "correct": false,
+            "count": "498",
+            "percent": "8.3%"
+          },
+          {
+            "id": 315831,
+            "text": "Kristen Stewart",
+            "correct": true,
+            "count": "2,270",
+            "percent": "37.81%"
+          },
+          {
+            "id": 315832,
+            "text": "Djimon Hounsou",
+            "correct": false,
+            "count": "3,235",
+            "percent": "53.89%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/16",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 2270,
+        "incorrect_answers": 3733,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160918,
+        "text": "What is the capital of the state whose state quarter features an oak tree?",
+        "question_number": 17,
+        "eliminated": "1,246",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "3,332",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315833,
+            "text": "Hartford",
+            "correct": true,
+            "count": "3,332",
+            "percent": "73.9%"
+          },
+          {
+            "id": 315834,
+            "text": "Atlanta",
+            "correct": false,
+            "count": "525",
+            "percent": "11.64%"
+          },
+          {
+            "id": 315835,
+            "text": "Annapolis",
+            "correct": false,
+            "count": "652",
+            "percent": "14.46%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/17",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 3332,
+        "incorrect_answers": 1177,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160920,
+        "text": "Which Harry Potter character was named after a writer famed for his poor output?",
+        "question_number": 18,
+        "eliminated": "2,679",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "1,229",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315836,
+            "text": "Gilderoy Lockhart",
+            "correct": false,
+            "count": "1,110",
+            "percent": "29.19%"
+          },
+          {
+            "id": 315837,
+            "text": "Severus Snape",
+            "correct": false,
+            "count": "1,464",
+            "percent": "38.5%"
+          },
+          {
+            "id": 315838,
+            "text": "Minerva McGonagall",
+            "correct": true,
+            "count": "1,229",
+            "percent": "32.32%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/18",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 1229,
+        "incorrect_answers": 2574,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160922,
+        "text": "Which of these people once reportedly had a paranoid belief he was being followed by crustaceans?",
+        "question_number": 19,
+        "eliminated": "962",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "267",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315839,
+            "text": "Ernest Hemingway",
+            "correct": false,
+            "count": "593",
+            "percent": "50.17%"
+          },
+          {
+            "id": 315840,
+            "text": "Jean-Paul Sartre",
+            "correct": true,
+            "count": "267",
+            "percent": "22.59%"
+          },
+          {
+            "id": 315841,
+            "text": "Salvador Dali",
+            "correct": false,
+            "count": "322",
+            "percent": "27.24%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/19",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 267,
+        "incorrect_answers": 915,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160924,
+        "text": "A sample from a ballet by what Russian composer has appeared in songs by Yes, Prince, and Madonna?",
+        "question_number": 20,
+        "eliminated": "166",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "101",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315842,
+            "text": "Dmitri Shostakovich",
+            "correct": false,
+            "count": "88",
+            "percent": "36.21%"
+          },
+          {
+            "id": 315843,
+            "text": "Sergei Rachmaninoff",
+            "correct": false,
+            "count": "54",
+            "percent": "22.22%"
+          },
+          {
+            "id": 315844,
+            "text": "Igor Stravinsky",
+            "correct": true,
+            "count": "101",
+            "percent": "41.56%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/20",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 101,
+        "incorrect_answers": 142,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160926,
+        "text": "Which of these stars has the highest total number of acting credits on IMDb?",
+        "question_number": 21,
+        "eliminated": "29",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "72",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315845,
+            "text": "Robert De Niro",
+            "correct": false,
+            "count": "19",
+            "percent": "18.81%"
+          },
+          {
+            "id": 315846,
+            "text": "Robert Downey Jr.",
+            "correct": false,
+            "count": "10",
+            "percent": "9.9%"
+          },
+          {
+            "id": 315847,
+            "text": "Robert Duvall",
+            "correct": true,
+            "count": "72",
+            "percent": "71.29%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-02/1/21",
+        "game_link": "/us/game/2020-01-02/1",
+        "correct_answers": 72,
+        "incorrect_answers": 29,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [
+      {
+        "round_number": 6,
+        "players_left": 52863,
+        "players_left_formatted": "52,863",
+        "num_winners": 6387,
+        "num_winners_formatted": "6,387",
+        "prize": 135.0,
+        "prize_formatted": "135 coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 11,
+        "players_left": 15748,
+        "players_left_formatted": "15,748",
+        "num_winners": 3880,
+        "num_winners_formatted": "3,880",
+        "prize": 0.05,
+        "prize_formatted": "$0.05",
+        "currency": "$"
+      },
+      {
+        "round_number": 15,
+        "players_left": 6073,
+        "players_left_formatted": "6,073",
+        "num_winners": 2896,
+        "num_winners_formatted": "2,896",
+        "prize": 0.25,
+        "prize_formatted": "$0.25",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "918.00",
+    "total_checkpoint_winners": "13,163",
+    "smallest_checkpoint_prize": "$0.05",
+    "largest_checkpoint_prize": "135 coins",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 142816,
+    "show_id": 13315,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2020-01-03T02:30:00Z",
+    "direct_link": "/us/game/2020-01-02/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "3,425",
+      "currency": "$",
+      "average_prize": "0.29"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2020-01-02/2/1",
+        "question_number": 1,
+        "text": "Net Worker?",
+        "answer": [
+          "GOALKEEPER"
+        ],
+        "initial_letters": [
+          "\"G\""
+        ],
+        "to_reveal_letters": [
+          "L"
+        ],
+        "game_link": "/us/game/2020-01-02/2",
+        "eliminated": 7550,
+        "advancing": 34740,
+        "correct_answers": 34740,
+        "incorrect_answers": 7550
+      },
+      {
+        "direct_link": "/us/game/2020-01-02/2/2",
+        "question_number": 2,
+        "text": "Scottish Skirt",
+        "answer": [
+          "TARTAN",
+          "KILT"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "L"
+        ],
+        "game_link": "/us/game/2020-01-02/2",
+        "eliminated": 6098,
+        "advancing": 29413,
+        "correct_answers": 29413,
+        "incorrect_answers": 6098
+      },
+      {
+        "direct_link": "/us/game/2020-01-02/2/3",
+        "question_number": 3,
+        "text": "Ancient Measuring System?",
+        "answer": [
+          "CARBON",
+          "DATING"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"C\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "I"
+        ],
+        "game_link": "/us/game/2020-01-02/2",
+        "eliminated": 9789,
+        "advancing": 20162,
+        "correct_answers": 20162,
+        "incorrect_answers": 9789
+      },
+      {
+        "direct_link": "/us/game/2020-01-02/2/4",
+        "question_number": 4,
+        "text": "Seat of Power",
+        "answer": [
+          "DIRECTORâS",
+          "CHAIR"
+        ],
+        "initial_letters": [
+          "\"â\"",
+          "\" \"",
+          "\"D\""
+        ],
+        "to_reveal_letters": [
+          "H",
+          "T"
+        ],
+        "game_link": "/us/game/2020-01-02/2",
+        "eliminated": 1427,
+        "advancing": 20204,
+        "correct_answers": 20204,
+        "incorrect_answers": 1427
+      },
+      {
+        "direct_link": "/us/game/2020-01-02/2/5",
+        "question_number": 5,
+        "text": "Museum Giant",
+        "answer": [
+          "DINOSAUR",
+          "SKELETON"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"D\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "U"
+        ],
+        "game_link": "/us/game/2020-01-02/2",
+        "eliminated": 972,
+        "advancing": 19393,
+        "correct_answers": 19393,
+        "incorrect_answers": 972
+      },
+      {
+        "direct_link": "/us/game/2020-01-02/2/6",
+        "question_number": 6,
+        "text": "Modern Rs",
+        "answer": [
+          "REDUCE",
+          "REUSE",
+          "RECYCLE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"R\""
+        ],
+        "to_reveal_letters": [
+          "S"
+        ],
+        "game_link": "/us/game/2020-01-02/2",
+        "eliminated": 2383,
+        "advancing": 17184,
+        "correct_answers": 17184,
+        "incorrect_answers": 2383
+      },
+      {
+        "direct_link": "/us/game/2020-01-02/2/7",
+        "question_number": 7,
+        "text": "What's Your Taste?",
+        "answer": [
+          "UMAMI",
+          "FLAVOR"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"U\""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2020-01-02/2",
+        "eliminated": 9185,
+        "advancing": 8500,
+        "correct_answers": 8500,
+        "incorrect_answers": 9185
+      },
+      {
+        "direct_link": "/us/game/2020-01-02/2/8",
+        "question_number": 8,
+        "text": "New Service",
+        "answer": [
+          "U.S.",
+          "SPACE",
+          "FORCE"
+        ],
+        "initial_letters": [
+          "\".\"",
+          "\" \"",
+          "\"R\""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2020-01-02/2",
+        "eliminated": 3013,
+        "advancing": 7863,
+        "correct_answers": 7863,
+        "incorrect_answers": 3013
+      },
+      {
+        "direct_link": "/us/game/2020-01-02/2/9",
+        "question_number": 9,
+        "text": "Seasonal Card",
+        "answer": [
+          "THANK",
+          "YOU",
+          "NOTE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"O\""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2020-01-02/2",
+        "eliminated": 896,
+        "advancing": 7846,
+        "correct_answers": 7846,
+        "incorrect_answers": 896
+      },
+      {
+        "direct_link": "/us/game/2020-01-02/2/10",
+        "question_number": 10,
+        "text": "Famous Twins",
+        "answer": [
+          "MINNEAPOLIS",
+          "&",
+          "SAINT",
+          "PAUL"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"&\"",
+          "\"M\""
+        ],
+        "to_reveal_letters": [
+          "E"
+        ],
+        "game_link": "/us/game/2020-01-02/2",
+        "eliminated": 2110,
+        "advancing": 6017,
+        "correct_answers": 6017,
+        "incorrect_answers": 2110
+      },
+      {
+        "direct_link": "/us/game/2020-01-02/2/11",
+        "question_number": 11,
+        "text": "Something âTo Beâ",
+        "answer": [
+          "HAMLET,",
+          "PRINCE",
+          "OF",
+          "DENMARK"
+        ],
+        "initial_letters": [
+          "\",\"",
+          "\" \"",
+          "\"A\""
+        ],
+        "to_reveal_letters": [
+          "R"
+        ],
+        "game_link": "/us/game/2020-01-02/2",
+        "eliminated": 3855,
+        "advancing": 2850,
+        "correct_answers": 2850,
+        "incorrect_answers": 3855
+      },
+      {
+        "direct_link": "/us/game/2020-01-02/2/12",
+        "question_number": 12,
+        "text": "Animal Wranglers",
+        "answer": [
+          "THE",
+          "MUPPETSâ",
+          "ELECTRIC",
+          "MAYHEM"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"â\"",
+          "\"S\""
+        ],
+        "to_reveal_letters": [
+          "P"
+        ],
+        "game_link": "/us/game/2020-01-02/2",
+        "eliminated": 969,
+        "advancing": 3425,
+        "correct_answers": 3425,
+        "incorrect_answers": 969
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": null
+  }
+]

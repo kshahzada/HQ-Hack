@@ -1,0 +1,1276 @@
+[
+  {
+    "id": 143186,
+    "show_id": 13151,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2020-01-15T02:00:00Z",
+    "direct_link": "/us/game/2020-01-14/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "14",
+      "currency": "$",
+      "average_prize": "71.43"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 161474,
+        "text": "Who won the Battle of Hastings in 1066?",
+        "question_number": 1,
+        "eliminated": "-7,096",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "88,100",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316667,
+            "text": "Zombies",
+            "correct": false,
+            "count": "1,366",
+            "percent": "1.8%"
+          },
+          {
+            "id": 316668,
+            "text": "The Normans",
+            "correct": true,
+            "count": "67,587",
+            "percent": "88.95%"
+          },
+          {
+            "id": 316669,
+            "text": "The Galactic Empire",
+            "correct": false,
+            "count": "7,028",
+            "percent": "9.25%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/1",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 67587,
+        "incorrect_answers": 8394,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161476,
+        "text": "In which of these animals is the female known to devour its mate?",
+        "question_number": 2,
+        "eliminated": "1,211",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "87,036",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316670,
+            "text": "Mantis",
+            "correct": true,
+            "count": "74,333",
+            "percent": "96.12%"
+          },
+          {
+            "id": 316671,
+            "text": "Cat",
+            "correct": false,
+            "count": "855",
+            "percent": "1.11%"
+          },
+          {
+            "id": 316672,
+            "text": "Homo sapiens",
+            "correct": false,
+            "count": "2,144",
+            "percent": "2.77%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/2",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 74333,
+        "incorrect_answers": 2999,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161478,
+        "text": "By the rulebook, what follows a touchdown in NFL football?",
+        "question_number": 3,
+        "eliminated": "3,054",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "84,018",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316673,
+            "text": "Face-off",
+            "correct": false,
+            "count": "2,920",
+            "percent": "3.8%"
+          },
+          {
+            "id": 316674,
+            "text": "Free throw",
+            "correct": false,
+            "count": "6,324",
+            "percent": "8.24%"
+          },
+          {
+            "id": 316675,
+            "text": "Conversion",
+            "correct": true,
+            "count": "67,506",
+            "percent": "87.96%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/3",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 67506,
+        "incorrect_answers": 9244,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161480,
+        "text": "What is a common ingredient in fudge?",
+        "question_number": 4,
+        "eliminated": "6,314",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "77,826",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316676,
+            "text": "Flour",
+            "correct": false,
+            "count": "5,195",
+            "percent": "6.87%"
+          },
+          {
+            "id": 316677,
+            "text": "Butter",
+            "correct": true,
+            "count": "62,968",
+            "percent": "83.24%"
+          },
+          {
+            "id": 316678,
+            "text": "Eggs",
+            "correct": false,
+            "count": "7,484",
+            "percent": "9.89%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/4",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 62968,
+        "incorrect_answers": 12679,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161482,
+        "text": "What is the name of this musical instrument?",
+        "question_number": 5,
+        "eliminated": "10,446",
+        "category": "",
+        "category_slug": "",
+        "advancing": "67,685",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316679,
+            "text": "Oboe",
+            "correct": true,
+            "count": "49,231",
+            "percent": "67.69%"
+          },
+          {
+            "id": 316680,
+            "text": "Clarinet",
+            "correct": false,
+            "count": "17,824",
+            "percent": "24.51%"
+          },
+          {
+            "id": 316681,
+            "text": "Bassoon",
+            "correct": false,
+            "count": "5,672",
+            "percent": "7.8%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/5",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 49231,
+        "incorrect_answers": 23496,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161484,
+        "text": "The room where performers wait before going onstage is named for what color?",
+        "question_number": 6,
+        "eliminated": "3,277",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "65,329",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316682,
+            "text": "Green",
+            "correct": true,
+            "count": "63,334",
+            "percent": "97.58%"
+          },
+          {
+            "id": 316683,
+            "text": "Purple",
+            "correct": false,
+            "count": "963",
+            "percent": "1.48%"
+          },
+          {
+            "id": 316684,
+            "text": "Orange",
+            "correct": false,
+            "count": "609",
+            "percent": "0.94%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/6",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 63334,
+        "incorrect_answers": 1572,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 6,
+          "players_left": 53324,
+          "players_left_formatted": "53,324",
+          "num_winners": 12252,
+          "num_winners_formatted": "12,252",
+          "prize": 64.0,
+          "prize_formatted": "64 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 161486,
+        "text": "In a typical human mouth, which of these teeth is located between the other two?",
+        "question_number": 7,
+        "eliminated": "28,953",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "35,624",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316685,
+            "text": "Premolar",
+            "correct": false,
+            "count": "4,364",
+            "percent": "9.24%"
+          },
+          {
+            "id": 316686,
+            "text": "Canine",
+            "correct": true,
+            "count": "25,068",
+            "percent": "53.07%"
+          },
+          {
+            "id": 316687,
+            "text": "Incisor",
+            "correct": false,
+            "count": "17,808",
+            "percent": "37.7%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/7",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 25068,
+        "incorrect_answers": 22172,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161488,
+        "text": "The oldest church in the continental US is in the state with what nickname?",
+        "question_number": 8,
+        "eliminated": "17,683",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "21,741",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316688,
+            "text": "The Bay State",
+            "correct": false,
+            "count": "7,398",
+            "percent": "20.49%"
+          },
+          {
+            "id": 316689,
+            "text": "Land of Enchantment",
+            "correct": true,
+            "count": "9,510",
+            "percent": "26.35%"
+          },
+          {
+            "id": 316690,
+            "text": "The Old Dominion State",
+            "correct": false,
+            "count": "19,189",
+            "percent": "53.16%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/8",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 9510,
+        "incorrect_answers": 26587,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161490,
+        "text": "US-made tape measures often have black diamonds spaced about how far apart consecutively?",
+        "question_number": 9,
+        "eliminated": "8,152",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "17,530",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316691,
+            "text": "19 inches",
+            "correct": true,
+            "count": "6,845",
+            "percent": "30.21%"
+          },
+          {
+            "id": 316692,
+            "text": "10 centimeters",
+            "correct": false,
+            "count": "4,124",
+            "percent": "18.2%"
+          },
+          {
+            "id": 316693,
+            "text": "3 feet",
+            "correct": false,
+            "count": "11,692",
+            "percent": "51.6%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/9",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 6845,
+        "incorrect_answers": 15816,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161492,
+        "text": "A character named Popeye appears in works by EC Segar and what other American author?",
+        "question_number": 10,
+        "eliminated": "6,245",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "13,956",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316694,
+            "text": "William Faulkner",
+            "correct": true,
+            "count": "4,830",
+            "percent": "26.9%"
+          },
+          {
+            "id": 316695,
+            "text": "Jack London",
+            "correct": false,
+            "count": "5,849",
+            "percent": "32.57%"
+          },
+          {
+            "id": 316696,
+            "text": "Ernest Hemingway",
+            "correct": false,
+            "count": "7,279",
+            "percent": "40.53%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/10",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 4830,
+        "incorrect_answers": 13128,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161494,
+        "text": "The lines of code that appear in âThe Matrixâ films were actually what?",
+        "question_number": 11,
+        "eliminated": "9,454",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "7,015",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316697,
+            "text": "Recipes",
+            "correct": true,
+            "count": "7,015",
+            "percent": "45.76%"
+          },
+          {
+            "id": 316698,
+            "text": "Reviews",
+            "correct": false,
+            "count": "1,589",
+            "percent": "10.36%"
+          },
+          {
+            "id": 316699,
+            "text": "Directions",
+            "correct": false,
+            "count": "6,727",
+            "percent": "43.88%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/11",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 7015,
+        "incorrect_answers": 8316,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 5500,
+          "players_left_formatted": "5,500",
+          "num_winners": 4405,
+          "num_winners_formatted": "4,405",
+          "prize": 642.0,
+          "prize_formatted": "642 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 161496,
+        "text": "Which of these vintage games is considered an ancestor of pinball?",
+        "question_number": 12,
+        "eliminated": "6,977",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "1,928",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316700,
+            "text": "Skittles",
+            "correct": false,
+            "count": "1,426",
+            "percent": "26.46%"
+          },
+          {
+            "id": 316701,
+            "text": "Bagatelle",
+            "correct": true,
+            "count": "1,928",
+            "percent": "35.77%"
+          },
+          {
+            "id": 316702,
+            "text": "Mumblety-peg",
+            "correct": false,
+            "count": "2,036",
+            "percent": "37.77%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/12",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 1928,
+        "incorrect_answers": 3462,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161498,
+        "text": "Who was in talks to portray Two-Face in the 1960s âBatmanâ series before it was canceled?",
+        "question_number": 13,
+        "eliminated": "1,953",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "2,176",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316703,
+            "text": "Ronald Reagan",
+            "correct": false,
+            "count": "935",
+            "percent": "23.28%"
+          },
+          {
+            "id": 316704,
+            "text": "Clint Eastwood",
+            "correct": true,
+            "count": "2,176",
+            "percent": "54.17%"
+          },
+          {
+            "id": 316705,
+            "text": "Harrison Ford",
+            "correct": false,
+            "count": "906",
+            "percent": "22.55%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/13",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 2176,
+        "incorrect_answers": 1841,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161500,
+        "text": "Which is NOT a novel in Larry McMurtryâs âLonesome Doveâ series?",
+        "question_number": 14,
+        "eliminated": "1,900",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "1,795",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316706,
+            "text": "Comanche Moon",
+            "correct": false,
+            "count": "425",
+            "percent": "11.87%"
+          },
+          {
+            "id": 316707,
+            "text": "Streets of Laredo",
+            "correct": false,
+            "count": "1,359",
+            "percent": "37.97%"
+          },
+          {
+            "id": 316708,
+            "text": "The Last Trail",
+            "correct": true,
+            "count": "1,795",
+            "percent": "50.15%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/14",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 1795,
+        "incorrect_answers": 1784,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161502,
+        "text": "Which actress was born in what is now the largest country located entirely in Europe?",
+        "question_number": 15,
+        "eliminated": "980",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "2,041",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316709,
+            "text": "Diane Kruger",
+            "correct": false,
+            "count": "443",
+            "percent": "15.06%"
+          },
+          {
+            "id": 316710,
+            "text": "Mila Kunis",
+            "correct": true,
+            "count": "2,041",
+            "percent": "69.4%"
+          },
+          {
+            "id": 316711,
+            "text": "Marion Cotillard",
+            "correct": false,
+            "count": "457",
+            "percent": "15.54%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/15",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 2041,
+        "incorrect_answers": 900,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161504,
+        "text": "Who shot part of a music video where Led Zeppelinâs âPhysical Graffitiâ cover photo was taken?",
+        "question_number": 16,
+        "eliminated": "1,450",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "1,127",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316712,
+            "text": "The Kinks",
+            "correct": false,
+            "count": "627",
+            "percent": "24.75%"
+          },
+          {
+            "id": 316713,
+            "text": "Pink Floyd",
+            "correct": false,
+            "count": "779",
+            "percent": "30.75%"
+          },
+          {
+            "id": 316714,
+            "text": "The Rolling Stones",
+            "correct": true,
+            "count": "1,127",
+            "percent": "44.49%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/16",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 1127,
+        "incorrect_answers": 1406,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161506,
+        "text": "The parent company of which of these three clothing brands purchased the other two?",
+        "question_number": 17,
+        "eliminated": "1,020",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "841",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316715,
+            "text": "Intermix",
+            "correct": false,
+            "count": "370",
+            "percent": "20.27%"
+          },
+          {
+            "id": 316716,
+            "text": "Gap",
+            "correct": true,
+            "count": "841",
+            "percent": "46.08%"
+          },
+          {
+            "id": 316717,
+            "text": "Banana Republic",
+            "correct": false,
+            "count": "614",
+            "percent": "33.64%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/17",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 841,
+        "incorrect_answers": 984,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161508,
+        "text": "What US president once had an office in the building from the movie \"Die Hard\"?",
+        "question_number": 18,
+        "eliminated": "433",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "980",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316718,
+            "text": "Ronald Reagan",
+            "correct": true,
+            "count": "980",
+            "percent": "70.35%"
+          },
+          {
+            "id": 316719,
+            "text": "Gerald Ford",
+            "correct": false,
+            "count": "121",
+            "percent": "8.69%"
+          },
+          {
+            "id": 316720,
+            "text": "Richard Nixon",
+            "correct": false,
+            "count": "292",
+            "percent": "20.96%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/18",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 980,
+        "incorrect_answers": 413,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 18,
+          "players_left": 840,
+          "players_left_formatted": "840",
+          "num_winners": 140,
+          "num_winners_formatted": "140",
+          "prize": 1000.0,
+          "prize_formatted": "1K coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 161510,
+        "text": "The composer appearing most often on the Voyager Golden Records is also on which film's soundtrack?",
+        "question_number": 19,
+        "eliminated": "626",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "214",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316721,
+            "text": "Oceanâs Eight",
+            "correct": true,
+            "count": "214",
+            "percent": "26.65%"
+          },
+          {
+            "id": 316722,
+            "text": "Black Panther",
+            "correct": false,
+            "count": "474",
+            "percent": "59.03%"
+          },
+          {
+            "id": 316723,
+            "text": "Rampage",
+            "correct": false,
+            "count": "115",
+            "percent": "14.32%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/19",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 214,
+        "incorrect_answers": 589,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161512,
+        "text": "Which of these Instagram editing apps was launched most recently?",
+        "question_number": 20,
+        "eliminated": "176",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "38",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316724,
+            "text": "VSCO",
+            "correct": false,
+            "count": "154",
+            "percent": "72.64%"
+          },
+          {
+            "id": 316725,
+            "text": "Chroma Stories",
+            "correct": true,
+            "count": "38",
+            "percent": "17.92%"
+          },
+          {
+            "id": 316726,
+            "text": "Unfold",
+            "correct": false,
+            "count": "20",
+            "percent": "9.43%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/20",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 38,
+        "incorrect_answers": 174,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161514,
+        "text": "The sequel to which of these films was released the longest after the original film?",
+        "question_number": 21,
+        "eliminated": "24",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "14",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316727,
+            "text": "Dumb and Dumber",
+            "correct": false,
+            "count": "14",
+            "percent": "37.84%"
+          },
+          {
+            "id": 316728,
+            "text": "Wall Street",
+            "correct": true,
+            "count": "14",
+            "percent": "37.84%"
+          },
+          {
+            "id": 316729,
+            "text": "Trainspotting",
+            "correct": false,
+            "count": "9",
+            "percent": "24.32%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-14/1/21",
+        "game_link": "/us/game/2020-01-14/1",
+        "correct_answers": 14,
+        "incorrect_answers": 23,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2484,
+        "game_id": 143186,
+        "question": "Choose a film title:",
+        "results": [
+          {
+            "id": 14408,
+            "display_count": "38",
+            "vote_count": 7508,
+            "text": "Dry Clean Only"
+          },
+          {
+            "id": 14407,
+            "display_count": "26",
+            "vote_count": 5104,
+            "text": "Going Overboard 2"
+          },
+          {
+            "id": 14409,
+            "display_count": "36",
+            "vote_count": 7104,
+            "text": "Quaking Up"
+          }
+        ],
+        "created_at": "2020-01-15T02:03:21Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 6,
+        "players_left": 53324,
+        "players_left_formatted": "53,324",
+        "num_winners": 12252,
+        "num_winners_formatted": "12,252",
+        "prize": 64.0,
+        "prize_formatted": "64 coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 11,
+        "players_left": 5500,
+        "players_left_formatted": "5,500",
+        "num_winners": 4405,
+        "num_winners_formatted": "4,405",
+        "prize": 642.0,
+        "prize_formatted": "642 coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 18,
+        "players_left": 840,
+        "players_left_formatted": "840",
+        "num_winners": 140,
+        "num_winners_formatted": "140",
+        "prize": 1000.0,
+        "prize_formatted": "1K coins",
+        "currency": "coins"
+      }
+    ],
+    "total_checkpoint_prize": "0.00",
+    "total_checkpoint_winners": "16,797",
+    "smallest_checkpoint_prize": "64 coins",
+    "largest_checkpoint_prize": "1K coins",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 143210,
+    "show_id": 13400,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2020-01-15T02:30:00Z",
+    "direct_link": "/us/game/2020-01-14/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "942",
+      "currency": "$",
+      "average_prize": "1.06"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2020-01-14/2/1",
+        "question_number": 1,
+        "text": "Competitive Broadway Bark",
+        "answer": [
+          "DOG",
+          "SHOW",
+          "TUNE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"D\""
+        ],
+        "to_reveal_letters": [
+          "H",
+          "U"
+        ],
+        "game_link": "/us/game/2020-01-14/2",
+        "eliminated": 24823,
+        "advancing": 14139,
+        "correct_answers": 14139,
+        "incorrect_answers": 24823
+      },
+      {
+        "direct_link": "/us/game/2020-01-14/2/2",
+        "question_number": 2,
+        "text": "Enthusiastic Cooling Component",
+        "answer": [
+          "AVID",
+          "FAN",
+          "BLADE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"A\""
+        ],
+        "to_reveal_letters": [
+          "I",
+          "N"
+        ],
+        "game_link": "/us/game/2020-01-14/2",
+        "eliminated": 8041,
+        "advancing": 8013,
+        "correct_answers": 8013,
+        "incorrect_answers": 8041
+      },
+      {
+        "direct_link": "/us/game/2020-01-14/2/3",
+        "question_number": 3,
+        "text": "Napper's Aspiration",
+        "answer": [
+          "LUCID",
+          "DREAM",
+          "JOB"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"L\""
+        ],
+        "to_reveal_letters": [
+          "D",
+          "E"
+        ],
+        "game_link": "/us/game/2020-01-14/2",
+        "eliminated": 4703,
+        "advancing": 4191,
+        "correct_answers": 4191,
+        "incorrect_answers": 4703
+      },
+      {
+        "direct_link": "/us/game/2020-01-14/2/4",
+        "question_number": 4,
+        "text": "Insatiable Seer",
+        "answer": [
+          "FORTUNE",
+          "COOKIE",
+          "MONSTER"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"F\""
+        ],
+        "to_reveal_letters": [
+          "I",
+          "M"
+        ],
+        "game_link": "/us/game/2020-01-14/2",
+        "eliminated": 951,
+        "advancing": 3943,
+        "correct_answers": 3943,
+        "incorrect_answers": 951
+      },
+      {
+        "direct_link": "/us/game/2020-01-14/2/5",
+        "question_number": 5,
+        "text": "Dangerous Office Gift",
+        "answer": [
+          "FORBIDDEN",
+          "FRUIT",
+          "BASKET"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"F\""
+        ],
+        "to_reveal_letters": [
+          "B",
+          "E",
+          "U"
+        ],
+        "game_link": "/us/game/2020-01-14/2",
+        "eliminated": 292,
+        "advancing": 3828,
+        "correct_answers": 3828,
+        "incorrect_answers": 292
+      },
+      {
+        "direct_link": "/us/game/2020-01-14/2/6",
+        "question_number": 6,
+        "text": "Meal Directory",
+        "answer": [
+          "DINING",
+          "TABLE",
+          "OF",
+          "CONTENTS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"D\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "F",
+          "S"
+        ],
+        "game_link": "/us/game/2020-01-14/2",
+        "eliminated": 813,
+        "advancing": 3078,
+        "correct_answers": 3078,
+        "incorrect_answers": 813
+      },
+      {
+        "direct_link": "/us/game/2020-01-14/2/7",
+        "question_number": 7,
+        "text": "\"Little Reporter\"",
+        "answer": [
+          "SAOIRSE",
+          "RONAN",
+          "FARROW"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"S\""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2020-01-14/2",
+        "eliminated": 1273,
+        "advancing": 2004,
+        "correct_answers": 2004,
+        "incorrect_answers": 1273
+      },
+      {
+        "direct_link": "/us/game/2020-01-14/2/8",
+        "question_number": 8,
+        "text": "Arctic Writing Implement",
+        "answer": [
+          "FELT",
+          "TIP",
+          "OF",
+          "THE",
+          "ICEBERG"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"F\""
+        ],
+        "to_reveal_letters": [
+          "R"
+        ],
+        "game_link": "/us/game/2020-01-14/2",
+        "eliminated": 621,
+        "advancing": 1800,
+        "correct_answers": 1800,
+        "incorrect_answers": 621
+      },
+      {
+        "direct_link": "/us/game/2020-01-14/2/9",
+        "question_number": 9,
+        "text": "Michiganâs âOh Myâ",
+        "answer": [
+          "DETROIT",
+          "LIONS,",
+          "TIGERS",
+          "&",
+          "BEARS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\",\"",
+          "\"&\"",
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "I"
+        ],
+        "game_link": "/us/game/2020-01-14/2",
+        "eliminated": 121,
+        "advancing": 1870,
+        "correct_answers": 1870,
+        "incorrect_answers": 121
+      },
+      {
+        "direct_link": "/us/game/2020-01-14/2/10",
+        "question_number": 10,
+        "text": "Fashionable Rivalry",
+        "answer": [
+          "TOM",
+          "FORD",
+          "VERSUS",
+          "FERRARI"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "U"
+        ],
+        "game_link": "/us/game/2020-01-14/2",
+        "eliminated": 513,
+        "advancing": 1394,
+        "correct_answers": 1394,
+        "incorrect_answers": 513
+      },
+      {
+        "direct_link": "/us/game/2020-01-14/2/11",
+        "question_number": 11,
+        "text": "Diverting High-Altitude Resort?",
+        "answer": [
+          "MOUNTAIN",
+          "RANGE",
+          "OF",
+          "ACTIVITIES"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"A\""
+        ],
+        "to_reveal_letters": [
+          "O"
+        ],
+        "game_link": "/us/game/2020-01-14/2",
+        "eliminated": 709,
+        "advancing": 851,
+        "correct_answers": 851,
+        "incorrect_answers": 709
+      },
+      {
+        "direct_link": "/us/game/2020-01-14/2/12",
+        "question_number": 12,
+        "text": "âGoldenâ Getaway",
+        "answer": [
+          "BETTY",
+          "WHITE",
+          "SAND",
+          "BEACHES"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "N"
+        ],
+        "game_link": "/us/game/2020-01-14/2",
+        "eliminated": 176,
+        "advancing": 942,
+        "correct_answers": 942,
+        "incorrect_answers": 176
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": null
+  }
+]

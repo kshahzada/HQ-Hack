@@ -1,0 +1,1761 @@
+[
+  {
+    "id": 129485,
+    "show_id": 12278,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-08-31T04:00:00Z",
+    "direct_link": "/us/game/2019-08-31/1",
+    "time": "12:00 am",
+    "country": "us",
+    "summary": {
+      "winner_count": "5,270",
+      "currency": "$",
+      "average_prize": "0.95"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 142294,
+        "text": "Which of these places lies to the south of the United States?",
+        "question_number": 1,
+        "eliminated": "-45,425",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "198,672",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 287897,
+            "text": "Iceland",
+            "correct": false,
+            "count": "5,329",
+            "percent": "3.48%"
+          },
+          {
+            "id": 287898,
+            "text": "Greenland",
+            "correct": false,
+            "count": "8,388",
+            "percent": "5.47%"
+          },
+          {
+            "id": 287899,
+            "text": "New Zealand",
+            "correct": true,
+            "count": "139,530",
+            "percent": "91.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/1/1",
+        "game_link": "/us/game/2019-08-31/1",
+        "correct_answers": 139530,
+        "incorrect_answers": 13717,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142310,
+        "text": "Along with comedies and tragedies, what is the third category of Shakespeare plays?",
+        "question_number": 2,
+        "eliminated": "8,202",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "190,629",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 287921,
+            "text": "Histories",
+            "correct": true,
+            "count": "113,485",
+            "percent": "72.88%"
+          },
+          {
+            "id": 287922,
+            "text": "Improvs",
+            "correct": false,
+            "count": "21,160",
+            "percent": "13.59%"
+          },
+          {
+            "id": 287923,
+            "text": "Musicals",
+            "correct": false,
+            "count": "21,065",
+            "percent": "13.53%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/1/2",
+        "game_link": "/us/game/2019-08-31/1",
+        "correct_answers": 113485,
+        "incorrect_answers": 42225,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142326,
+        "text": "Which of these is an interrogative sentence?",
+        "question_number": 3,
+        "eliminated": "18,482",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "172,424",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 287945,
+            "text": "Is that you?",
+            "correct": true,
+            "count": "131,737",
+            "percent": "85.18%"
+          },
+          {
+            "id": 287946,
+            "text": "Thatâs the guy.",
+            "correct": false,
+            "count": "11,848",
+            "percent": "7.66%"
+          },
+          {
+            "id": 287947,
+            "text": "Get out!",
+            "correct": false,
+            "count": "11,065",
+            "percent": "7.15%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/1/3",
+        "game_link": "/us/game/2019-08-31/1",
+        "correct_answers": 131737,
+        "incorrect_answers": 22913,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142342,
+        "text": "Which of these tech legends is NOT one of the founders of Google?",
+        "question_number": 4,
+        "eliminated": "35,722",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "137,244",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 287969,
+            "text": "Sergey Brin",
+            "correct": false,
+            "count": "31,572",
+            "percent": "21.5%"
+          },
+          {
+            "id": 287970,
+            "text": "Larry Page",
+            "correct": false,
+            "count": "20,592",
+            "percent": "14.03%"
+          },
+          {
+            "id": 287971,
+            "text": "Jerry Yang",
+            "correct": true,
+            "count": "94,658",
+            "percent": "64.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/1/4",
+        "game_link": "/us/game/2019-08-31/1",
+        "correct_answers": 94658,
+        "incorrect_answers": 52164,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142358,
+        "text": "An enclosure that blocks electromagnetic fields is named for what scientist?",
+        "question_number": 5,
+        "eliminated": "24,772",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "114,565",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 287993,
+            "text": "Michael Faraday",
+            "correct": true,
+            "count": "99,926",
+            "percent": "78.53%"
+          },
+          {
+            "id": 287994,
+            "text": "Georg Ohm",
+            "correct": false,
+            "count": "22,121",
+            "percent": "17.38%"
+          },
+          {
+            "id": 287995,
+            "text": "James Maxwell",
+            "correct": false,
+            "count": "5,202",
+            "percent": "4.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/1/5",
+        "game_link": "/us/game/2019-08-31/1",
+        "correct_answers": 99926,
+        "incorrect_answers": 27323,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142374,
+        "text": "The most-streamed song in Spotify history is credited to what artist?",
+        "question_number": 6,
+        "eliminated": "37,605",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "79,049",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288017,
+            "text": "Ed Sheeran",
+            "correct": true,
+            "count": "63,539",
+            "percent": "57.6%"
+          },
+          {
+            "id": 288018,
+            "text": "Post Malone",
+            "correct": false,
+            "count": "8,274",
+            "percent": "7.5%"
+          },
+          {
+            "id": 288019,
+            "text": "Drake",
+            "correct": false,
+            "count": "38,495",
+            "percent": "34.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/1/6",
+        "game_link": "/us/game/2019-08-31/1",
+        "correct_answers": 63539,
+        "incorrect_answers": 46769,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142390,
+        "text": "In the classic game of Operation, what body part does the rubber band NOT connect to?",
+        "question_number": 7,
+        "eliminated": "27,756",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "56,719",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288041,
+            "text": "Hip",
+            "correct": true,
+            "count": "50,977",
+            "percent": "63.77%"
+          },
+          {
+            "id": 288042,
+            "text": "Ankle",
+            "correct": false,
+            "count": "19,241",
+            "percent": "24.07%"
+          },
+          {
+            "id": 288043,
+            "text": "Knee",
+            "correct": false,
+            "count": "9,720",
+            "percent": "12.16%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/1/7",
+        "game_link": "/us/game/2019-08-31/1",
+        "correct_answers": 50977,
+        "incorrect_answers": 28961,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142406,
+        "text": "Which auction house has an Egyptian goddess of war as its \"unofficial mascot\"?",
+        "question_number": 8,
+        "eliminated": "18,057",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "44,042",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288065,
+            "text": "Sothebyâs",
+            "correct": true,
+            "count": "40,848",
+            "percent": "66.98%"
+          },
+          {
+            "id": 288066,
+            "text": "Christieâs",
+            "correct": false,
+            "count": "6,300",
+            "percent": "10.33%"
+          },
+          {
+            "id": 288067,
+            "text": "Bonhamâs",
+            "correct": false,
+            "count": "13,836",
+            "percent": "22.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/1/8",
+        "game_link": "/us/game/2019-08-31/1",
+        "correct_answers": 40848,
+        "incorrect_answers": 20136,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142422,
+        "text": "Which Muppets movie introduced the Muppet Babies?",
+        "question_number": 9,
+        "eliminated": "12,061",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "36,011",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288089,
+            "text": "Muppets Take Manhattan",
+            "correct": true,
+            "count": "34,851",
+            "percent": "75.39%"
+          },
+          {
+            "id": 288090,
+            "text": "Great Muppet Caper",
+            "correct": false,
+            "count": "4,275",
+            "percent": "9.25%"
+          },
+          {
+            "id": 288091,
+            "text": "The Muppet Movie",
+            "correct": false,
+            "count": "7,100",
+            "percent": "15.36%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/1/9",
+        "game_link": "/us/game/2019-08-31/1",
+        "correct_answers": 34851,
+        "incorrect_answers": 11375,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142438,
+        "text": "How were leprechauns different in early Irish folklore?",
+        "question_number": 10,
+        "eliminated": "18,121",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "21,069",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288113,
+            "text": "Color of clothing",
+            "correct": true,
+            "count": "20,337",
+            "percent": "54.0%"
+          },
+          {
+            "id": 288114,
+            "text": "Desperate poverty",
+            "correct": false,
+            "count": "9,926",
+            "percent": "26.36%"
+          },
+          {
+            "id": 288115,
+            "text": "Huge size",
+            "correct": false,
+            "count": "7,395",
+            "percent": "19.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/1/10",
+        "game_link": "/us/game/2019-08-31/1",
+        "correct_answers": 20337,
+        "incorrect_answers": 17321,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 10,
+          "players_left": 25407,
+          "players_left_formatted": "25,407",
+          "num_winners": 1326,
+          "num_winners_formatted": "1,326",
+          "prize": 0.08,
+          "prize_formatted": "$0.08",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 142454,
+        "text": "\"Blasphemer!\" is the first line spoken in a film by what multiple Oscar nominee?",
+        "question_number": 11,
+        "eliminated": "20,376",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "5,358",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288137,
+            "text": "Denzel Washington",
+            "correct": false,
+            "count": "5,556",
+            "percent": "23.88%"
+          },
+          {
+            "id": 288138,
+            "text": "Meryl Streep",
+            "correct": false,
+            "count": "12,352",
+            "percent": "53.09%"
+          },
+          {
+            "id": 288139,
+            "text": "John Travolta",
+            "correct": true,
+            "count": "5,358",
+            "percent": "23.03%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/1/11",
+        "game_link": "/us/game/2019-08-31/1",
+        "correct_answers": 5358,
+        "incorrect_answers": 17908,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 11005,
+          "players_left_formatted": "11,005",
+          "num_winners": 1393,
+          "num_winners_formatted": "1,393",
+          "prize": 0.28,
+          "prize_formatted": "$0.28",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 142470,
+        "text": "What sea creature produced this object?",
+        "question_number": 12,
+        "eliminated": "6,128",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "5,270",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288161,
+            "text": "Shark",
+            "correct": true,
+            "count": "5,270",
+            "percent": "56.32%"
+          },
+          {
+            "id": 288162,
+            "text": "Swordfish",
+            "correct": false,
+            "count": "1,857",
+            "percent": "19.85%"
+          },
+          {
+            "id": 288163,
+            "text": "Orca",
+            "correct": false,
+            "count": "2,230",
+            "percent": "23.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/1/12",
+        "game_link": "/us/game/2019-08-31/1",
+        "correct_answers": 5270,
+        "incorrect_answers": 4087,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [
+      {
+        "round_number": 10,
+        "players_left": 25407,
+        "players_left_formatted": "25,407",
+        "num_winners": 1326,
+        "num_winners_formatted": "1,326",
+        "prize": 0.08,
+        "prize_formatted": "$0.08",
+        "currency": "$"
+      },
+      {
+        "round_number": 11,
+        "players_left": 11005,
+        "players_left_formatted": "11,005",
+        "num_winners": 1393,
+        "num_winners_formatted": "1,393",
+        "prize": 0.28,
+        "prize_formatted": "$0.28",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "496.12",
+    "total_checkpoint_winners": "2,719",
+    "smallest_checkpoint_prize": "$0.08",
+    "largest_checkpoint_prize": "$0.28",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 129613,
+    "show_id": 11967,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "10,000",
+    "currency": "$",
+    "start_time": "2019-09-01T01:00:00Z",
+    "direct_link": "/us/game/2019-08-31/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "3",
+      "currency": "$",
+      "average_prize": "3,333.33"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 142486,
+        "text": "Which casino game begins with a deal of five cards per player?",
+        "question_number": 1,
+        "eliminated": "-19,630",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "189,873",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288185,
+            "text": "Blackjack",
+            "correct": false,
+            "count": "13,992",
+            "percent": "8.74%"
+          },
+          {
+            "id": 288186,
+            "text": "Texas Hold 'em",
+            "correct": false,
+            "count": "53,462",
+            "percent": "33.39%"
+          },
+          {
+            "id": 288187,
+            "text": "Draw poker",
+            "correct": true,
+            "count": "92,674",
+            "percent": "57.87%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/1",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 92674,
+        "incorrect_answers": 67454,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142506,
+        "text": "Which place was NOT once part of the British Empire?",
+        "question_number": 2,
+        "eliminated": "5,858",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "184,355",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288215,
+            "text": "Mexico",
+            "correct": true,
+            "count": "137,370",
+            "percent": "87.92%"
+          },
+          {
+            "id": 288216,
+            "text": "India",
+            "correct": false,
+            "count": "10,310",
+            "percent": "6.6%"
+          },
+          {
+            "id": 288218,
+            "text": "Australia",
+            "correct": false,
+            "count": "8,573",
+            "percent": "5.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/2",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 137370,
+        "incorrect_answers": 18883,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142518,
+        "text": "Which is NOT one of the three divisions of the human mind in Freudian psychology?",
+        "question_number": 3,
+        "eliminated": "16,379",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "168,118",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288233,
+            "text": "Ego",
+            "correct": false,
+            "count": "4,133",
+            "percent": "2.69%"
+          },
+          {
+            "id": 288235,
+            "text": "Subego",
+            "correct": true,
+            "count": "128,389",
+            "percent": "83.45%"
+          },
+          {
+            "id": 288238,
+            "text": "Superego",
+            "correct": false,
+            "count": "21,323",
+            "percent": "13.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/3",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 128389,
+        "incorrect_answers": 25456,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142534,
+        "text": "A new music video was released in July to celebrate the 50th anniversary of what song?",
+        "question_number": 4,
+        "eliminated": "40,417",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "128,200",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288257,
+            "text": "Come Together",
+            "correct": false,
+            "count": "60,156",
+            "percent": "41.66%"
+          },
+          {
+            "id": 288259,
+            "text": "Space Oddity",
+            "correct": true,
+            "count": "74,410",
+            "percent": "51.53%"
+          },
+          {
+            "id": 288262,
+            "text": "Honky Tonk Women",
+            "correct": false,
+            "count": "9,841",
+            "percent": "6.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/4",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 74410,
+        "incorrect_answers": 69997,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142550,
+        "text": "TVâs \"The Unknown Comic\" disguised his identity with what?",
+        "question_number": 5,
+        "eliminated": "15,079",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "115,049",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288281,
+            "text": "Beer carton",
+            "correct": false,
+            "count": "11,719",
+            "percent": "10.05%"
+          },
+          {
+            "id": 288285,
+            "text": "Canvas tote",
+            "correct": false,
+            "count": "5,230",
+            "percent": "4.48%"
+          },
+          {
+            "id": 288289,
+            "text": "Paper bag",
+            "correct": true,
+            "count": "99,669",
+            "percent": "85.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/5",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 99669,
+        "incorrect_answers": 16949,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142566,
+        "text": "What NBA strategy involves intentionally fouling the teamâs weakest free-throw shooter?",
+        "question_number": 6,
+        "eliminated": "21,223",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "94,614",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288305,
+            "text": "Hack-a-Shaq",
+            "correct": true,
+            "count": "86,606",
+            "percent": "80.59%"
+          },
+          {
+            "id": 288307,
+            "text": "Wilting",
+            "correct": false,
+            "count": "13,633",
+            "percent": "12.69%"
+          },
+          {
+            "id": 288312,
+            "text": "Big Ben Bump",
+            "correct": false,
+            "count": "7,232",
+            "percent": "6.73%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/6",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 86606,
+        "incorrect_answers": 20865,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142582,
+        "text": "In Greek mythology, what type of creature was Medusa?",
+        "question_number": 7,
+        "eliminated": "11,474",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "84,619",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288329,
+            "text": "Fury",
+            "correct": false,
+            "count": "5,288",
+            "percent": "5.67%"
+          },
+          {
+            "id": 288331,
+            "text": "Harpy",
+            "correct": false,
+            "count": "6,099",
+            "percent": "6.53%"
+          },
+          {
+            "id": 288334,
+            "text": "Gorgon",
+            "correct": true,
+            "count": "81,956",
+            "percent": "87.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/7",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 81956,
+        "incorrect_answers": 11387,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142598,
+        "text": "What type of bird hit Fabio in the face moments before this clip?",
+        "question_number": 8,
+        "eliminated": "27,430",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "58,514",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288353,
+            "text": "Goose",
+            "correct": true,
+            "count": "55,708",
+            "percent": "65.72%"
+          },
+          {
+            "id": 288356,
+            "text": "Duck",
+            "correct": false,
+            "count": "1,942",
+            "percent": "2.29%"
+          },
+          {
+            "id": 288359,
+            "text": "Pigeon",
+            "correct": false,
+            "count": "27,114",
+            "percent": "31.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/8",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 55708,
+        "incorrect_answers": 29056,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142614,
+        "text": "What American writer inspired the character of Dracula?",
+        "question_number": 9,
+        "eliminated": "24,519",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "38,255",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288377,
+            "text": "Edgar Allan Poe",
+            "correct": false,
+            "count": "11,371",
+            "percent": "18.87%"
+          },
+          {
+            "id": 288379,
+            "text": "Ralph Waldo Emerson",
+            "correct": false,
+            "count": "12,663",
+            "percent": "21.01%"
+          },
+          {
+            "id": 288383,
+            "text": "Walt Whitman",
+            "correct": true,
+            "count": "36,234",
+            "percent": "60.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/9",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 36234,
+        "incorrect_answers": 24034,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 9,
+          "players_left": 36828,
+          "players_left_formatted": "36,828",
+          "num_winners": 6675,
+          "num_winners_formatted": "6,675",
+          "prize": 0.09,
+          "prize_formatted": "$0.09",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 142630,
+        "text": "This old commercial features a future star of what TV show?",
+        "question_number": 10,
+        "eliminated": "7,862",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "34,735",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288401,
+            "text": "Saturday Night Live",
+            "correct": false,
+            "count": "155",
+            "percent": "0.45%"
+          },
+          {
+            "id": 288402,
+            "text": "The Simpsons",
+            "correct": false,
+            "count": "86",
+            "percent": "0.25%"
+          },
+          {
+            "id": 288406,
+            "text": "Seinfeld",
+            "correct": true,
+            "count": "34,552",
+            "percent": "99.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/10",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 34552,
+        "incorrect_answers": 241,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142646,
+        "text": "This is a baby of what species?",
+        "question_number": 11,
+        "eliminated": "2,977",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "31,838",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288425,
+            "text": "Wallaby",
+            "correct": false,
+            "count": "663",
+            "percent": "1.92%"
+          },
+          {
+            "id": 288427,
+            "text": "Zebra",
+            "correct": false,
+            "count": "2,067",
+            "percent": "5.98%"
+          },
+          {
+            "id": 288431,
+            "text": "Aardwolf",
+            "correct": true,
+            "count": "31,838",
+            "percent": "92.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/11",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 31838,
+        "incorrect_answers": 2730,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142662,
+        "text": "Which artist has shared a Razzie award for worst original song in a movie?",
+        "question_number": 12,
+        "eliminated": "7,125",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "26,143",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288449,
+            "text": "Stevie Wonder",
+            "correct": true,
+            "count": "26,143",
+            "percent": "79.13%"
+          },
+          {
+            "id": 288451,
+            "text": "Phil Collins",
+            "correct": false,
+            "count": "4,000",
+            "percent": "12.11%"
+          },
+          {
+            "id": 288456,
+            "text": "Billy Joel",
+            "correct": false,
+            "count": "2,893",
+            "percent": "8.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/12",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 26143,
+        "incorrect_answers": 6893,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142678,
+        "text": "Who was US president the year F. Scott Fitzgerald first published what would become his most famous novel?",
+        "question_number": 13,
+        "eliminated": "22,839",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "6,147",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288474,
+            "text": "Calvin Coolidge",
+            "correct": true,
+            "count": "6,147",
+            "percent": "21.37%"
+          },
+          {
+            "id": 288478,
+            "text": "Herbert Hoover",
+            "correct": false,
+            "count": "4,936",
+            "percent": "17.16%"
+          },
+          {
+            "id": 288485,
+            "text": "Warren G. Harding",
+            "correct": false,
+            "count": "17,688",
+            "percent": "61.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/13",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 6147,
+        "incorrect_answers": 22624,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 13,
+          "players_left": 9800,
+          "players_left_formatted": "9,800",
+          "num_winners": 2085,
+          "num_winners_formatted": "2,085",
+          "prize": 0.49,
+          "prize_formatted": "$0.49",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 142694,
+        "text": "The name of this plant includes a reference to which of these?",
+        "question_number": 14,
+        "eliminated": "6,996",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "3,889",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288497,
+            "text": "Small mammal",
+            "correct": false,
+            "count": "170",
+            "percent": "1.69%"
+          },
+          {
+            "id": 288499,
+            "text": "Famous song",
+            "correct": false,
+            "count": "5,999",
+            "percent": "59.64%"
+          },
+          {
+            "id": 288503,
+            "text": "Bodily function",
+            "correct": true,
+            "count": "3,889",
+            "percent": "38.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/14",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 3889,
+        "incorrect_answers": 6169,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142711,
+        "text": "Which of these Will Ferrell movies has made the most money at the worldwide box office?",
+        "question_number": 15,
+        "eliminated": "3,950",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,703",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288522,
+            "text": "The House",
+            "correct": false,
+            "count": "379",
+            "percent": "6.17%"
+          },
+          {
+            "id": 288527,
+            "text": "Holmes & Watson",
+            "correct": false,
+            "count": "3,059",
+            "percent": "49.81%"
+          },
+          {
+            "id": 288531,
+            "text": "Blades of Glory",
+            "correct": true,
+            "count": "2,703",
+            "percent": "44.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/15",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 2703,
+        "incorrect_answers": 3438,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142727,
+        "text": "What was the second-most populous city in the South as the Civil War started?",
+        "question_number": 16,
+        "eliminated": "749",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "2,500",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288546,
+            "text": "Mobile",
+            "correct": false,
+            "count": "192",
+            "percent": "6.27%"
+          },
+          {
+            "id": 288549,
+            "text": "Richmond",
+            "correct": false,
+            "count": "368",
+            "percent": "12.03%"
+          },
+          {
+            "id": 288553,
+            "text": "Charleston",
+            "correct": true,
+            "count": "2,500",
+            "percent": "81.7%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/16",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 2500,
+        "incorrect_answers": 560,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142743,
+        "text": "Britainâs King Edward VII had a superstition about the placement of which vegetables on his dinner plate?",
+        "question_number": 17,
+        "eliminated": "1,789",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "938",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288570,
+            "text": "Asparagus",
+            "correct": true,
+            "count": "938",
+            "percent": "36.76%"
+          },
+          {
+            "id": 288573,
+            "text": "Carrots",
+            "correct": false,
+            "count": "778",
+            "percent": "30.49%"
+          },
+          {
+            "id": 288581,
+            "text": "Broccoli",
+            "correct": false,
+            "count": "836",
+            "percent": "32.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/17",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 938,
+        "incorrect_answers": 1614,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 17,
+          "players_left": 789,
+          "players_left_formatted": "789",
+          "num_winners": 580,
+          "num_winners_formatted": "580",
+          "prize": 1.6,
+          "prize_formatted": "$1.60",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 142762,
+        "text": "Which of these is a moon of the planet Gustav Holst called \"the Bringer of Old Age\"?",
+        "question_number": 18,
+        "eliminated": "675",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "114",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288596,
+            "text": "Titania",
+            "correct": false,
+            "count": "317",
+            "percent": "51.8%"
+          },
+          {
+            "id": 288605,
+            "text": "Galatea",
+            "correct": false,
+            "count": "181",
+            "percent": "29.58%"
+          },
+          {
+            "id": 288611,
+            "text": "Calypso",
+            "correct": true,
+            "count": "114",
+            "percent": "18.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/18",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 114,
+        "incorrect_answers": 498,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142777,
+        "text": "Colin Farrell recently told a tale about being recklessly hungover on the set of what film?",
+        "question_number": 19,
+        "eliminated": "44",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "69",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288623,
+            "text": "Minority Report",
+            "correct": true,
+            "count": "70",
+            "percent": "61.95%"
+          },
+          {
+            "id": 288627,
+            "text": "Alexander",
+            "correct": false,
+            "count": "21",
+            "percent": "18.58%"
+          },
+          {
+            "id": 288632,
+            "text": "Phone Booth",
+            "correct": false,
+            "count": "22",
+            "percent": "19.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/19",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 70,
+        "incorrect_answers": 43,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142792,
+        "text": "A dessert made with sweetened pureed chestnuts shares its name with a geographical peak found where?",
+        "question_number": 20,
+        "eliminated": "29",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "38",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288642,
+            "text": "France / Italy",
+            "correct": true,
+            "count": "38",
+            "percent": "56.72%"
+          },
+          {
+            "id": 288648,
+            "text": "Russia",
+            "correct": false,
+            "count": "10",
+            "percent": "14.93%"
+          },
+          {
+            "id": 288655,
+            "text": "Switzerland",
+            "correct": false,
+            "count": "19",
+            "percent": "28.36%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/20",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 38,
+        "incorrect_answers": 29,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142808,
+        "text": "The document in this portrait is thought to be a depiction of what?",
+        "question_number": 21,
+        "eliminated": "21",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "12",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288668,
+            "text": "Executive order",
+            "correct": false,
+            "count": "9",
+            "percent": "27.27%"
+          },
+          {
+            "id": 288672,
+            "text": "Tariff",
+            "correct": false,
+            "count": "11",
+            "percent": "33.33%"
+          },
+          {
+            "id": 288679,
+            "text": "Treaty",
+            "correct": true,
+            "count": "13",
+            "percent": "39.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/21",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 13,
+        "incorrect_answers": 20,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 21,
+          "players_left": 4,
+          "players_left_formatted": "4",
+          "num_winners": 7,
+          "num_winners_formatted": "7",
+          "prize": 125.0,
+          "prize_formatted": "$125",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 142823,
+        "text": "Who is the leader of the country that uses \".ch\" as its internet country code top-level domain?",
+        "question_number": 22,
+        "eliminated": "0",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "4",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288690,
+            "text": "Xi Jinping",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 288692,
+            "text": "SebastiÃ¡n PiÃ±era",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 288697,
+            "text": "Ueli Maurer",
+            "correct": true,
+            "count": "4",
+            "percent": "100.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/22",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 4,
+        "incorrect_answers": 0,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142839,
+        "text": "Which US stateâs seal boldly features more than one bear?",
+        "question_number": 23,
+        "eliminated": "0",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "4",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288714,
+            "text": "Alaska",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 288716,
+            "text": "Missouri",
+            "correct": true,
+            "count": "4",
+            "percent": "100.0%"
+          },
+          {
+            "id": 288722,
+            "text": "California",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/23",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 4,
+        "incorrect_answers": 0,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142855,
+        "text": "Which of these companies was co-founded by a candlemaker?",
+        "question_number": 24,
+        "eliminated": "0",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "3",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288739,
+            "text": "Kimberly-Clark",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 288743,
+            "text": "Unilever",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 288749,
+            "text": "Procter & Gamble",
+            "correct": true,
+            "count": "3",
+            "percent": "100.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/24",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 3,
+        "incorrect_answers": 0,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 142872,
+        "text": "What did a national newspaper refer to as a \"sinful waste\" in the 1920s?",
+        "question_number": 25,
+        "eliminated": "0",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "3",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 288764,
+            "text": "Bicycles",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 288768,
+            "text": "Word puzzles",
+            "correct": true,
+            "count": "3",
+            "percent": "100.0%"
+          },
+          {
+            "id": 288771,
+            "text": "Telephones",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-31/2/25",
+        "game_link": "/us/game/2019-08-31/2",
+        "correct_answers": 3,
+        "incorrect_answers": 0,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1418,
+        "game_id": 129613,
+        "question": "Which is your favorite Cameron Diaz character?",
+        "results": [
+          {
+            "id": 8372,
+            "display_count": "64",
+            "vote_count": 22581,
+            "text": "Mary"
+          },
+          {
+            "id": 8382,
+            "display_count": "19",
+            "vote_count": 6857,
+            "text": "Miss Hannigan"
+          },
+          {
+            "id": 8366,
+            "display_count": "17",
+            "vote_count": 5919,
+            "text": "Tina Carlyle"
+          }
+        ],
+        "created_at": "2019-09-01T01:03:54Z"
+      },
+      {
+        "id": 1409,
+        "game_id": 129613,
+        "question": "Which is your favorite Cameron Diaz movie?",
+        "results": [
+          {
+            "id": 8328,
+            "display_count": "24",
+            "vote_count": 8084,
+            "text": "Bad Teacher"
+          },
+          {
+            "id": 8317,
+            "display_count": "27",
+            "vote_count": 9104,
+            "text": "Charlie's Angels"
+          },
+          {
+            "id": 8322,
+            "display_count": "48",
+            "vote_count": 16104,
+            "text": "Shrek"
+          }
+        ],
+        "created_at": "2019-09-01T01:03:21Z"
+      },
+      {
+        "id": 1426,
+        "game_id": 129613,
+        "question": "Who's your favorite Cameron Diaz on-screen love interest?",
+        "results": [
+          {
+            "id": 8414,
+            "display_count": "37",
+            "vote_count": 15840,
+            "text": "Ashton Kutcher"
+          },
+          {
+            "id": 8425,
+            "display_count": "36",
+            "vote_count": 15299,
+            "text": "Ben Stiller"
+          },
+          {
+            "id": 8421,
+            "display_count": "27",
+            "vote_count": 11636,
+            "text": "Mike Myers"
+          }
+        ],
+        "created_at": "2019-09-01T01:04:24Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 21,
+        "players_left": 4,
+        "players_left_formatted": "4",
+        "num_winners": 7,
+        "num_winners_formatted": "7",
+        "prize": 125.0,
+        "prize_formatted": "$125",
+        "currency": "$"
+      },
+      {
+        "round_number": 13,
+        "players_left": 9800,
+        "players_left_formatted": "9,800",
+        "num_winners": 2085,
+        "num_winners_formatted": "2,085",
+        "prize": 0.49,
+        "prize_formatted": "$0.49",
+        "currency": "$"
+      },
+      {
+        "round_number": 17,
+        "players_left": 789,
+        "players_left_formatted": "789",
+        "num_winners": 580,
+        "num_winners_formatted": "580",
+        "prize": 1.6,
+        "prize_formatted": "$1.60",
+        "currency": "$"
+      },
+      {
+        "round_number": 9,
+        "players_left": 36828,
+        "players_left_formatted": "36,828",
+        "num_winners": 6675,
+        "num_winners_formatted": "6,675",
+        "prize": 0.09,
+        "prize_formatted": "$0.09",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "3,425.40",
+    "total_checkpoint_winners": "9,347",
+    "smallest_checkpoint_prize": "$0.09",
+    "largest_checkpoint_prize": "$125",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

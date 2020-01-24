@@ -1,0 +1,915 @@
+[
+  {
+    "id": 141840,
+    "show_id": 13112,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-12-04T02:00:00Z",
+    "direct_link": "/us/game/2019-12-03/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,297",
+      "currency": "$",
+      "average_prize": "0.44"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 159518,
+        "text": "By definition, you can combine hydrogen and oxygen to make what?",
+        "question_number": 1,
+        "eliminated": "-6,521",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "97,873",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313733,
+            "text": "Super hydrogen",
+            "correct": false,
+            "count": "1,543",
+            "percent": "1.76%"
+          },
+          {
+            "id": 313734,
+            "text": "Oxymorons",
+            "correct": false,
+            "count": "770",
+            "percent": "0.88%"
+          },
+          {
+            "id": 313735,
+            "text": "Water",
+            "correct": true,
+            "count": "85,320",
+            "percent": "97.36%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-03/1/1",
+        "game_link": "/us/game/2019-12-03/1",
+        "correct_answers": 85320,
+        "incorrect_answers": 2313,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159520,
+        "text": "What body of water is north of South America?",
+        "question_number": 2,
+        "eliminated": "4,166",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "93,844",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313736,
+            "text": "Sea of Tranquility",
+            "correct": false,
+            "count": "3,709",
+            "percent": "4.23%"
+          },
+          {
+            "id": 313737,
+            "text": "Caribbean Sea",
+            "correct": true,
+            "count": "72,943",
+            "percent": "83.23%"
+          },
+          {
+            "id": 313738,
+            "text": "Antarctic Ocean",
+            "correct": false,
+            "count": "10,993",
+            "percent": "12.54%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-03/1/2",
+        "game_link": "/us/game/2019-12-03/1",
+        "correct_answers": 72943,
+        "incorrect_answers": 14702,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159522,
+        "text": "Which celebrity hails from a Carribbean country?",
+        "question_number": 3,
+        "eliminated": "7,187",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "86,885",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313739,
+            "text": "Dwayne Johnson",
+            "correct": false,
+            "count": "7,237",
+            "percent": "8.51%"
+          },
+          {
+            "id": 313740,
+            "text": "Keanu Reeves",
+            "correct": false,
+            "count": "4,637",
+            "percent": "5.45%"
+          },
+          {
+            "id": 313741,
+            "text": "Rihanna",
+            "correct": true,
+            "count": "73,159",
+            "percent": "86.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-03/1/3",
+        "game_link": "/us/game/2019-12-03/1",
+        "correct_answers": 73159,
+        "incorrect_answers": 11874,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159524,
+        "text": "Which Rihanna album included a feature by Drake?",
+        "question_number": 4,
+        "eliminated": "39,273",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "47,950",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313742,
+            "text": "Rated R",
+            "correct": false,
+            "count": "10,659",
+            "percent": "13.33%"
+          },
+          {
+            "id": 313743,
+            "text": "Good Girl Gone Bad",
+            "correct": false,
+            "count": "51,380",
+            "percent": "64.27%"
+          },
+          {
+            "id": 313744,
+            "text": "ANTI",
+            "correct": true,
+            "count": "17,909",
+            "percent": "22.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-03/1/4",
+        "game_link": "/us/game/2019-12-03/1",
+        "correct_answers": 17909,
+        "incorrect_answers": 62039,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159526,
+        "text": "The Anti-Administration party was formed to oppose which Treasury Secretary?",
+        "question_number": 5,
+        "eliminated": "8,710",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "42,441",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313745,
+            "text": "Thomas Jefferson",
+            "correct": false,
+            "count": "6,588",
+            "percent": "13.8%"
+          },
+          {
+            "id": 313746,
+            "text": "Abraham Lincoln",
+            "correct": false,
+            "count": "2,736",
+            "percent": "5.73%"
+          },
+          {
+            "id": 313747,
+            "text": "Alexander Hamilton",
+            "correct": true,
+            "count": "38,407",
+            "percent": "80.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-03/1/5",
+        "game_link": "/us/game/2019-12-03/1",
+        "correct_answers": 38407,
+        "incorrect_answers": 9324,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159528,
+        "text": "Alexander SkarsgÃ¥rd made his American film debut in what movie?",
+        "question_number": 6,
+        "eliminated": "10,330",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "33,004",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313748,
+            "text": "Meet the Parents",
+            "correct": false,
+            "count": "4,923",
+            "percent": "11.93%"
+          },
+          {
+            "id": 313749,
+            "text": "Zoolander",
+            "correct": true,
+            "count": "28,338",
+            "percent": "68.69%"
+          },
+          {
+            "id": 313750,
+            "text": "Along Came Polly",
+            "correct": false,
+            "count": "7,995",
+            "percent": "19.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-03/1/6",
+        "game_link": "/us/game/2019-12-03/1",
+        "correct_answers": 28338,
+        "incorrect_answers": 12918,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159530,
+        "text": "Which zooâs opening was delayed by the Civil War?",
+        "question_number": 7,
+        "eliminated": "11,869",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "22,506",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313751,
+            "text": "Central Park Zoo",
+            "correct": false,
+            "count": "4,790",
+            "percent": "14.49%"
+          },
+          {
+            "id": 313752,
+            "text": "Smithsonian National Zoo",
+            "correct": false,
+            "count": "10,377",
+            "percent": "31.38%"
+          },
+          {
+            "id": 313753,
+            "text": "Philadelphia Zoo",
+            "correct": true,
+            "count": "17,901",
+            "percent": "54.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-03/1/7",
+        "game_link": "/us/game/2019-12-03/1",
+        "correct_answers": 17901,
+        "incorrect_answers": 15167,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159532,
+        "text": "What ingredient is traditionally found in a Philadelphia roll?",
+        "question_number": 8,
+        "eliminated": "6,747",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "17,699",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313754,
+            "text": "Cucumber",
+            "correct": true,
+            "count": "14,084",
+            "percent": "59.39%"
+          },
+          {
+            "id": 313755,
+            "text": "Inari",
+            "correct": false,
+            "count": "4,118",
+            "percent": "17.36%"
+          },
+          {
+            "id": 313756,
+            "text": "Tuna",
+            "correct": false,
+            "count": "5,514",
+            "percent": "23.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-03/1/8",
+        "game_link": "/us/game/2019-12-03/1",
+        "correct_answers": 14084,
+        "incorrect_answers": 9632,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159534,
+        "text": "âCool as a cucumberâ is an example of what figure of speech?",
+        "question_number": 9,
+        "eliminated": "6,179",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "12,978",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313757,
+            "text": "Simile",
+            "correct": true,
+            "count": "9,570",
+            "percent": "51.22%"
+          },
+          {
+            "id": 313758,
+            "text": "Metaphor",
+            "correct": false,
+            "count": "7,888",
+            "percent": "42.22%"
+          },
+          {
+            "id": 313759,
+            "text": "Hyperbole",
+            "correct": false,
+            "count": "1,227",
+            "percent": "6.57%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-03/1/9",
+        "game_link": "/us/game/2019-12-03/1",
+        "correct_answers": 9570,
+        "incorrect_answers": 9115,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159536,
+        "text": "The fictional language âSimlishâ premiered in which game?",
+        "question_number": 10,
+        "eliminated": "8,939",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "6,026",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313760,
+            "text": "SimCopter",
+            "correct": true,
+            "count": "1,520",
+            "percent": "10.45%"
+          },
+          {
+            "id": 313761,
+            "text": "SimCity",
+            "correct": false,
+            "count": "3,740",
+            "percent": "25.71%"
+          },
+          {
+            "id": 313762,
+            "text": "The Sims",
+            "correct": false,
+            "count": "9,289",
+            "percent": "63.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-03/1/10",
+        "game_link": "/us/game/2019-12-03/1",
+        "correct_answers": 1520,
+        "incorrect_answers": 13029,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159538,
+        "text": "What colloquial term refers to the pin attaching a rotor to a helicopter?",
+        "question_number": 11,
+        "eliminated": "5,955",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "3,363",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313763,
+            "text": "Jesus nut",
+            "correct": true,
+            "count": "3,363",
+            "percent": "37.44%"
+          },
+          {
+            "id": 313764,
+            "text": "Angelâs pin",
+            "correct": false,
+            "count": "4,097",
+            "percent": "45.61%"
+          },
+          {
+            "id": 313765,
+            "text": "Heaven clip",
+            "correct": false,
+            "count": "1,522",
+            "percent": "16.95%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-03/1/11",
+        "game_link": "/us/game/2019-12-03/1",
+        "correct_answers": 3363,
+        "incorrect_answers": 5619,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159540,
+        "text": "The Egyptian sky goddess Nut was sometimes depicted in what form?",
+        "question_number": 12,
+        "eliminated": "3,035",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "3,419",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313766,
+            "text": "Serpent",
+            "correct": false,
+            "count": "1,265",
+            "percent": "19.91%"
+          },
+          {
+            "id": 313767,
+            "text": "Cow",
+            "correct": true,
+            "count": "3,419",
+            "percent": "53.8%"
+          },
+          {
+            "id": 313768,
+            "text": "Eagle",
+            "correct": false,
+            "count": "1,671",
+            "percent": "26.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-03/1/12",
+        "game_link": "/us/game/2019-12-03/1",
+        "correct_answers": 3419,
+        "incorrect_answers": 2936,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159542,
+        "text": "Who voices the âSimpsonsâ character known for saying âdonât have a cow, manâ?",
+        "question_number": 13,
+        "eliminated": "1,220",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "4,180",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313769,
+            "text": "Nancy Cartwright",
+            "correct": true,
+            "count": "4,180",
+            "percent": "77.96%"
+          },
+          {
+            "id": 313770,
+            "text": "Julie Kavner",
+            "correct": false,
+            "count": "567",
+            "percent": "10.57%"
+          },
+          {
+            "id": 313771,
+            "text": "Yeardley Smith",
+            "correct": false,
+            "count": "615",
+            "percent": "11.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-03/1/13",
+        "game_link": "/us/game/2019-12-03/1",
+        "correct_answers": 4180,
+        "incorrect_answers": 1182,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159544,
+        "text": "Nancy Sinatra sang the title song of a James Bond movie with a screenplay by who?",
+        "question_number": 14,
+        "eliminated": "2,359",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,741",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313772,
+            "text": "Ian Fleming",
+            "correct": false,
+            "count": "818",
+            "percent": "16.35%"
+          },
+          {
+            "id": 313773,
+            "text": "Christopher Wood",
+            "correct": false,
+            "count": "1,444",
+            "percent": "28.86%"
+          },
+          {
+            "id": 313774,
+            "text": "Roald Dahl",
+            "correct": true,
+            "count": "2,741",
+            "percent": "54.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-03/1/14",
+        "game_link": "/us/game/2019-12-03/1",
+        "correct_answers": 2741,
+        "incorrect_answers": 2262,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159546,
+        "text": "Rolled ice cream is sometimes called what?",
+        "question_number": 15,
+        "eliminated": "2,133",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "2,297",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313775,
+            "text": "Booza",
+            "correct": false,
+            "count": "624",
+            "percent": "14.19%"
+          },
+          {
+            "id": 313776,
+            "text": "Stir-fried ice cream",
+            "correct": true,
+            "count": "2,297",
+            "percent": "52.23%"
+          },
+          {
+            "id": 313777,
+            "text": "Hokey-Pokey",
+            "correct": false,
+            "count": "1,477",
+            "percent": "33.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-03/1/15",
+        "game_link": "/us/game/2019-12-03/1",
+        "correct_answers": 2297,
+        "incorrect_answers": 2101,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 141858,
+    "show_id": 13098,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-12-04T02:30:00Z",
+    "direct_link": "/us/game/2019-12-03/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "2,245",
+      "currency": "$",
+      "average_prize": "0.45"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-12-03/2/1",
+        "question_number": 1,
+        "text": "At a Bus Stop / In a Restaurant",
+        "answer": [
+          "WAITERS"
+        ],
+        "initial_letters": [
+          "\"W\""
+        ],
+        "to_reveal_letters": [
+          "R"
+        ],
+        "game_link": "/us/game/2019-12-03/2",
+        "eliminated": 3518,
+        "advancing": 40941,
+        "correct_answers": 40941,
+        "incorrect_answers": 3518
+      },
+      {
+        "direct_link": "/us/game/2019-12-03/2/2",
+        "question_number": 2,
+        "text": "In Crosswords / On Some Buildings",
+        "answer": [
+          "COLUMNS"
+        ],
+        "initial_letters": [
+          "\"C\""
+        ],
+        "to_reveal_letters": [
+          "L"
+        ],
+        "game_link": "/us/game/2019-12-03/2",
+        "eliminated": 5291,
+        "advancing": 35999,
+        "correct_answers": 35999,
+        "incorrect_answers": 5291
+      },
+      {
+        "direct_link": "/us/game/2019-12-03/2/3",
+        "question_number": 3,
+        "text": "Trouble / Operation",
+        "answer": [
+          "BOARD",
+          "GAMES"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"G\""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2019-12-03/2",
+        "eliminated": 11219,
+        "advancing": 25088,
+        "correct_answers": 25088,
+        "incorrect_answers": 11219
+      },
+      {
+        "direct_link": "/us/game/2019-12-03/2/4",
+        "question_number": 4,
+        "text": "Good Hand / Monarchâs Bathroom",
+        "answer": [
+          "ROYAL",
+          "FLUSH"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"S\""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2019-12-03/2",
+        "eliminated": 12366,
+        "advancing": 13624,
+        "correct_answers": 13624,
+        "incorrect_answers": 12366
+      },
+      {
+        "direct_link": "/us/game/2019-12-03/2/5",
+        "question_number": 5,
+        "text": "Panther / Lemonade",
+        "answer": [
+          "SOMETIMES",
+          "PINK"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"K\""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2019-12-03/2",
+        "eliminated": 8799,
+        "advancing": 6018,
+        "correct_answers": 6018,
+        "incorrect_answers": 8799
+      },
+      {
+        "direct_link": "/us/game/2019-12-03/2/6",
+        "question_number": 6,
+        "text": "Marsupial / Fanny Pack",
+        "answer": [
+          "FRONT-FACING",
+          "POUCH"
+        ],
+        "initial_letters": [
+          "\"-\"",
+          "\" \"",
+          "\"F\""
+        ],
+        "to_reveal_letters": [
+          "C"
+        ],
+        "game_link": "/us/game/2019-12-03/2",
+        "eliminated": 2780,
+        "advancing": 4405,
+        "correct_answers": 4405,
+        "incorrect_answers": 2780
+      },
+      {
+        "direct_link": "/us/game/2019-12-03/2/7",
+        "question_number": 7,
+        "text": "Loretta Lynn / Elizabeth II",
+        "answer": [
+          "QUEEN",
+          "OF",
+          "COUNTRY"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"Q\""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2019-12-03/2",
+        "eliminated": 373,
+        "advancing": 4552,
+        "correct_answers": 4552,
+        "incorrect_answers": 373
+      },
+      {
+        "direct_link": "/us/game/2019-12-03/2/8",
+        "question_number": 8,
+        "text": "Legislative / Judicial",
+        "answer": [
+          "BRANCH",
+          "OF",
+          "GOVERNMENT"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"B\""
+        ],
+        "to_reveal_letters": [
+          "E"
+        ],
+        "game_link": "/us/game/2019-12-03/2",
+        "eliminated": 339,
+        "advancing": 4310,
+        "correct_answers": 4310,
+        "incorrect_answers": 339
+      },
+      {
+        "direct_link": "/us/game/2019-12-03/2/9",
+        "question_number": 9,
+        "text": "âNice duvet!â / âPizza is always good!â",
+        "answer": [
+          "BLANKET",
+          "STATEMENT"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"B\""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2019-12-03/2",
+        "eliminated": 977,
+        "advancing": 3443,
+        "correct_answers": 3443,
+        "incorrect_answers": 977
+      },
+      {
+        "direct_link": "/us/game/2019-12-03/2/10",
+        "question_number": 10,
+        "text": "Peanut Butter / Hummus",
+        "answer": [
+          "MADE",
+          "FROM",
+          "LEGUMES"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"M\""
+        ],
+        "to_reveal_letters": [
+          "A"
+        ],
+        "game_link": "/us/game/2019-12-03/2",
+        "eliminated": 998,
+        "advancing": 2747,
+        "correct_answers": 2747,
+        "incorrect_answers": 998
+      },
+      {
+        "direct_link": "/us/game/2019-12-03/2/11",
+        "question_number": 11,
+        "text": "Edited Book / Performed Surgery",
+        "answer": [
+          "REMOVED",
+          "APPENDIX"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"R\""
+        ],
+        "to_reveal_letters": [
+          "X"
+        ],
+        "game_link": "/us/game/2019-12-03/2",
+        "eliminated": 1062,
+        "advancing": 1996,
+        "correct_answers": 1996,
+        "incorrect_answers": 1062
+      },
+      {
+        "direct_link": "/us/game/2019-12-03/2/12",
+        "question_number": 12,
+        "text": "Thames / Forgiveness",
+        "answer": [
+          "WATER",
+          "UNDER",
+          "THE",
+          "BRIDGE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "T"
+        ],
+        "game_link": "/us/game/2019-12-03/2",
+        "eliminated": 188,
+        "advancing": 2245,
+        "correct_answers": 2245,
+        "incorrect_answers": 188
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": null
+  }
+]

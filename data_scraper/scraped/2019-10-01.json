@@ -1,0 +1,913 @@
+[
+  {
+    "id": 135209,
+    "show_id": 12065,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,500",
+    "currency": "$",
+    "start_time": "2019-10-01T23:00:00Z",
+    "direct_link": "/us/game/2019-10-01/1",
+    "time": " 7:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,669",
+      "currency": "$",
+      "average_prize": "0.90"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 150634,
+        "text": "What is the central object of our solar system?",
+        "question_number": 1,
+        "eliminated": "7,875",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "81,439",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300407,
+            "text": "Moon",
+            "correct": false,
+            "count": "1,827",
+            "percent": "2.17%"
+          },
+          {
+            "id": 300408,
+            "text": "Earth",
+            "correct": false,
+            "count": "3,581",
+            "percent": "4.24%"
+          },
+          {
+            "id": 300409,
+            "text": "Sun",
+            "correct": true,
+            "count": "78,954",
+            "percent": "93.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-01/1/1",
+        "game_link": "/us/game/2019-10-01/1",
+        "correct_answers": 78954,
+        "incorrect_answers": 5408,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150642,
+        "text": "What does the TV channel HBOâs name stand for?",
+        "question_number": 2,
+        "eliminated": "1,215",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "81,513",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300419,
+            "text": "Happy Big Operation",
+            "correct": false,
+            "count": "465",
+            "percent": "0.58%"
+          },
+          {
+            "id": 300420,
+            "text": "Home Box Office",
+            "correct": true,
+            "count": "80,017",
+            "percent": "99.19%"
+          },
+          {
+            "id": 300423,
+            "text": "Hearty Bright Optimism",
+            "correct": false,
+            "count": "190",
+            "percent": "0.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-01/1/2",
+        "game_link": "/us/game/2019-10-01/1",
+        "correct_answers": 80017,
+        "incorrect_answers": 655,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150650,
+        "text": "Which are there more of in the US Congress?",
+        "question_number": 3,
+        "eliminated": "11,298",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "70,419",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300431,
+            "text": "Non-voting members",
+            "correct": false,
+            "count": "2,792",
+            "percent": "3.5%"
+          },
+          {
+            "id": 300433,
+            "text": "Senators",
+            "correct": false,
+            "count": "6,708",
+            "percent": "8.42%"
+          },
+          {
+            "id": 300437,
+            "text": "Representatives",
+            "correct": true,
+            "count": "70,213",
+            "percent": "88.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-01/1/3",
+        "game_link": "/us/game/2019-10-01/1",
+        "correct_answers": 70213,
+        "incorrect_answers": 9500,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150658,
+        "text": "What chess move lets the player move two pieces in the same turn?",
+        "question_number": 4,
+        "eliminated": "13,235",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "58,651",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300443,
+            "text": "En passant",
+            "correct": false,
+            "count": "10,199",
+            "percent": "14.38%"
+          },
+          {
+            "id": 300444,
+            "text": "Skewer",
+            "correct": false,
+            "count": "2,570",
+            "percent": "3.62%"
+          },
+          {
+            "id": 300447,
+            "text": "Castling",
+            "correct": true,
+            "count": "58,148",
+            "percent": "81.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-01/1/4",
+        "game_link": "/us/game/2019-10-01/1",
+        "correct_answers": 58148,
+        "incorrect_answers": 12769,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150666,
+        "text": "In the United Kingdom, where are trainers worn?",
+        "question_number": 5,
+        "eliminated": "11,677",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "48,593",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300455,
+            "text": "Teeth",
+            "correct": false,
+            "count": "5,465",
+            "percent": "9.16%"
+          },
+          {
+            "id": 300456,
+            "text": "Torso",
+            "correct": false,
+            "count": "6,181",
+            "percent": "10.36%"
+          },
+          {
+            "id": 300459,
+            "text": "Feet",
+            "correct": true,
+            "count": "48,019",
+            "percent": "80.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-01/1/5",
+        "game_link": "/us/game/2019-10-01/1",
+        "correct_answers": 48019,
+        "incorrect_answers": 11646,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150674,
+        "text": "âCameraâ is Italian for what word?",
+        "question_number": 6,
+        "eliminated": "36,387",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "14,014",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300467,
+            "text": "Mirror",
+            "correct": false,
+            "count": "15,812",
+            "percent": "31.65%"
+          },
+          {
+            "id": 300470,
+            "text": "Light",
+            "correct": false,
+            "count": "21,780",
+            "percent": "43.6%"
+          },
+          {
+            "id": 300473,
+            "text": "Room",
+            "correct": true,
+            "count": "12,363",
+            "percent": "24.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-01/1/6",
+        "game_link": "/us/game/2019-10-01/1",
+        "correct_answers": 12363,
+        "incorrect_answers": 37592,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150682,
+        "text": "What is NOT a hazard faced by characters in âThe Princess Brideâ?",
+        "question_number": 7,
+        "eliminated": "7,827",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "11,901",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300480,
+            "text": "Pit of Despair",
+            "correct": false,
+            "count": "4,304",
+            "percent": "22.67%"
+          },
+          {
+            "id": 300483,
+            "text": "Bog of Eternal Stench",
+            "correct": true,
+            "count": "11,144",
+            "percent": "58.71%"
+          },
+          {
+            "id": 300487,
+            "text": "Cliffs of Insanity",
+            "correct": false,
+            "count": "3,534",
+            "percent": "18.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-01/1/7",
+        "game_link": "/us/game/2019-10-01/1",
+        "correct_answers": 11144,
+        "incorrect_answers": 7838,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150690,
+        "text": "Insects are a predominant part of the diet of what bear species?",
+        "question_number": 8,
+        "eliminated": "4,726",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "9,645",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300491,
+            "text": "Asian black bear",
+            "correct": false,
+            "count": "2,057",
+            "percent": "14.61%"
+          },
+          {
+            "id": 300493,
+            "text": "Sloth bear",
+            "correct": true,
+            "count": "9,207",
+            "percent": "65.41%"
+          },
+          {
+            "id": 300497,
+            "text": "Spectacled bear",
+            "correct": false,
+            "count": "2,812",
+            "percent": "19.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-01/1/8",
+        "game_link": "/us/game/2019-10-01/1",
+        "correct_answers": 9207,
+        "incorrect_answers": 4869,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 8,
+          "players_left": 8827,
+          "players_left_formatted": "8,827",
+          "num_winners": 2071,
+          "num_winners_formatted": "2,071",
+          "prize": 0.06,
+          "prize_formatted": "$0.06",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 150698,
+        "text": "Which country does NOT share a border with Russia?",
+        "question_number": 9,
+        "eliminated": "6,353",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "3,545",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300503,
+            "text": "Uzbekistan",
+            "correct": true,
+            "count": "3,440",
+            "percent": "39.54%"
+          },
+          {
+            "id": 300507,
+            "text": "North Korea",
+            "correct": false,
+            "count": "2,608",
+            "percent": "29.98%"
+          },
+          {
+            "id": 300510,
+            "text": "Poland",
+            "correct": false,
+            "count": "2,651",
+            "percent": "30.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-01/1/9",
+        "game_link": "/us/game/2019-10-01/1",
+        "correct_answers": 3440,
+        "incorrect_answers": 5259,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150706,
+        "text": "Who won the US presidency in the election where this debate moment happened?",
+        "question_number": 10,
+        "eliminated": "1,060",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "4,986",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300515,
+            "text": "Ronald Reagan",
+            "correct": false,
+            "count": "482",
+            "percent": "8.05%"
+          },
+          {
+            "id": 300517,
+            "text": "Bill Clinton",
+            "correct": false,
+            "count": "516",
+            "percent": "8.62%"
+          },
+          {
+            "id": 300520,
+            "text": "George HW Bush",
+            "correct": true,
+            "count": "4,986",
+            "percent": "83.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-01/1/10",
+        "game_link": "/us/game/2019-10-01/1",
+        "correct_answers": 4986,
+        "incorrect_answers": 998,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 10,
+          "players_left": 4439,
+          "players_left_formatted": "4,439",
+          "num_winners": 1025,
+          "num_winners_formatted": "1,025",
+          "prize": 0.21,
+          "prize_formatted": "$0.21",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 150714,
+        "text": "Which of these is NOT in the âSteamy Romantic Moviesâ category on Netflix?",
+        "question_number": 11,
+        "eliminated": "1,570",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,894",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300527,
+            "text": "Blue Valentine",
+            "correct": false,
+            "count": "361",
+            "percent": "8.35%"
+          },
+          {
+            "id": 300529,
+            "text": "Duck Butter",
+            "correct": false,
+            "count": "1,066",
+            "percent": "24.67%"
+          },
+          {
+            "id": 300534,
+            "text": "Bridget Jonesâs Baby",
+            "correct": true,
+            "count": "2,894",
+            "percent": "66.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-01/1/11",
+        "game_link": "/us/game/2019-10-01/1",
+        "correct_answers": 2894,
+        "incorrect_answers": 1427,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150722,
+        "text": "A challenge started by which of these people led to the coining of the word âscientistâ?",
+        "question_number": 12,
+        "eliminated": "2,244",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "1,669",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300539,
+            "text": "Isaac Newton",
+            "correct": false,
+            "count": "775",
+            "percent": "20.84%"
+          },
+          {
+            "id": 300541,
+            "text": "Samuel Taylor Coleridge",
+            "correct": true,
+            "count": "1,669",
+            "percent": "44.89%"
+          },
+          {
+            "id": 300545,
+            "text": "Charles Darwin",
+            "correct": false,
+            "count": "1,274",
+            "percent": "34.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-01/1/12",
+        "game_link": "/us/game/2019-10-01/1",
+        "correct_answers": 1669,
+        "incorrect_answers": 2049,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1881,
+        "game_id": 135209,
+        "question": "What is your favorite fall activity?",
+        "results": [
+          {
+            "id": 11175,
+            "display_count": "31",
+            "vote_count": 6927,
+            "text": "Apple picking"
+          },
+          {
+            "id": 11178,
+            "display_count": "25",
+            "vote_count": 5580,
+            "text": "Leaf peeping"
+          },
+          {
+            "id": 11173,
+            "display_count": "45",
+            "vote_count": 10201,
+            "text": "Pumpkin carving"
+          }
+        ],
+        "created_at": "2019-10-01T23:01:55Z"
+      },
+      {
+        "id": 1885,
+        "game_id": 135209,
+        "question": "Which of these movies would you recommend to a friend?",
+        "results": [
+          {
+            "id": 11200,
+            "display_count": "17",
+            "vote_count": 3045,
+            "text": "Clue"
+          },
+          {
+            "id": 11203,
+            "display_count": "46",
+            "vote_count": 8364,
+            "text": "Ghostbusters"
+          },
+          {
+            "id": 11197,
+            "display_count": "38",
+            "vote_count": 6942,
+            "text": "Hocus Pocus"
+          }
+        ],
+        "created_at": "2019-10-01T23:02:17Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 8,
+        "players_left": 8827,
+        "players_left_formatted": "8,827",
+        "num_winners": 2071,
+        "num_winners_formatted": "2,071",
+        "prize": 0.06,
+        "prize_formatted": "$0.06",
+        "currency": "$"
+      },
+      {
+        "round_number": 10,
+        "players_left": 4439,
+        "players_left_formatted": "4,439",
+        "num_winners": 1025,
+        "num_winners_formatted": "1,025",
+        "prize": 0.21,
+        "prize_formatted": "$0.21",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "339.51",
+    "total_checkpoint_winners": "3,096",
+    "smallest_checkpoint_prize": "$0.06",
+    "largest_checkpoint_prize": "$0.21",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 135269,
+    "show_id": 12465,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-10-02T01:30:00Z",
+    "direct_link": "/us/game/2019-10-01/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "1,247",
+      "currency": "$",
+      "average_prize": "0.80"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-10-01/2/1",
+        "question_number": 1,
+        "text": "Career Climber",
+        "answer": [
+          "MOUNTAINEER"
+        ],
+        "initial_letters": [
+          "\"M\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "O"
+        ],
+        "game_link": "/us/game/2019-10-01/2",
+        "eliminated": 7509,
+        "advancing": 59570,
+        "correct_answers": 59570,
+        "incorrect_answers": 7509
+      },
+      {
+        "direct_link": "/us/game/2019-10-01/2/2",
+        "question_number": 2,
+        "text": "Millennial Chill Pill",
+        "answer": [
+          "CBD",
+          "GUMMIES"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"C\""
+        ],
+        "to_reveal_letters": [
+          "G",
+          "S"
+        ],
+        "game_link": "/us/game/2019-10-01/2",
+        "eliminated": 43291,
+        "advancing": 16665,
+        "correct_answers": 16665,
+        "incorrect_answers": 43291
+      },
+      {
+        "direct_link": "/us/game/2019-10-01/2/3",
+        "question_number": 3,
+        "text": "Lost Ring?",
+        "answer": [
+          "LIBERTY",
+          "BELL"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"E\""
+        ],
+        "to_reveal_letters": [
+          "B",
+          "R"
+        ],
+        "game_link": "/us/game/2019-10-01/2",
+        "eliminated": 7492,
+        "advancing": 11241,
+        "correct_answers": 11241,
+        "incorrect_answers": 7492
+      },
+      {
+        "direct_link": "/us/game/2019-10-01/2/4",
+        "question_number": 4,
+        "text": "Very Popular Sunscreen",
+        "answer": [
+          "OZONE",
+          "LAYER"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"L\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "Z"
+        ],
+        "game_link": "/us/game/2019-10-01/2",
+        "eliminated": 3319,
+        "advancing": 8398,
+        "correct_answers": 8398,
+        "incorrect_answers": 3319
+      },
+      {
+        "direct_link": "/us/game/2019-10-01/2/5",
+        "question_number": 5,
+        "text": "Offensive Player",
+        "answer": [
+          "SOCCER",
+          "FORWARD"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"F\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "R"
+        ],
+        "game_link": "/us/game/2019-10-01/2",
+        "eliminated": 3197,
+        "advancing": 5490,
+        "correct_answers": 5490,
+        "incorrect_answers": 3197
+      },
+      {
+        "direct_link": "/us/game/2019-10-01/2/6",
+        "question_number": 6,
+        "text": "Northern Neighbor",
+        "answer": [
+          "SASKATCHEWAN"
+        ],
+        "initial_letters": [
+          "\"S\""
+        ],
+        "to_reveal_letters": [
+          "T",
+          "W"
+        ],
+        "game_link": "/us/game/2019-10-01/2",
+        "eliminated": 1459,
+        "advancing": 4403,
+        "correct_answers": 4403,
+        "incorrect_answers": 1459
+      },
+      {
+        "direct_link": "/us/game/2019-10-01/2/7",
+        "question_number": 7,
+        "text": "Easy Comfort Food",
+        "answer": [
+          "FROZEN",
+          "LASAGNA"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"Z\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "N"
+        ],
+        "game_link": "/us/game/2019-10-01/2",
+        "eliminated": 1094,
+        "advancing": 3403,
+        "correct_answers": 3403,
+        "incorrect_answers": 1094
+      },
+      {
+        "direct_link": "/us/game/2019-10-01/2/8",
+        "question_number": 8,
+        "text": "Shaky Spot",
+        "answer": [
+          "EARTHQUAKE",
+          "EPICENTER"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "E"
+        ],
+        "game_link": "/us/game/2019-10-01/2",
+        "eliminated": 696,
+        "advancing": 2707,
+        "correct_answers": 2707,
+        "incorrect_answers": 696
+      },
+      {
+        "direct_link": "/us/game/2019-10-01/2/9",
+        "question_number": 9,
+        "text": "Preppy Paradise",
+        "answer": [
+          "CAPE",
+          "COD",
+          "RESORT"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"R\""
+        ],
+        "to_reveal_letters": [
+          "D",
+          "O"
+        ],
+        "game_link": "/us/game/2019-10-01/2",
+        "eliminated": 335,
+        "advancing": 2373,
+        "correct_answers": 2373,
+        "incorrect_answers": 335
+      },
+      {
+        "direct_link": "/us/game/2019-10-01/2/10",
+        "question_number": 10,
+        "text": "The Sun Is One",
+        "answer": [
+          "YELLOW",
+          "DWARF",
+          "STAR"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"W\""
+        ],
+        "to_reveal_letters": [
+          "L",
+          "R"
+        ],
+        "game_link": "/us/game/2019-10-01/2",
+        "eliminated": 339,
+        "advancing": 2035,
+        "correct_answers": 2035,
+        "incorrect_answers": 339
+      },
+      {
+        "direct_link": "/us/game/2019-10-01/2/11",
+        "question_number": 11,
+        "text": "Gym Request",
+        "answer": [
+          "WIPE",
+          "DOWN",
+          "THE",
+          "MACHINES"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"C\""
+        ],
+        "to_reveal_letters": [
+          "D",
+          "I"
+        ],
+        "game_link": "/us/game/2019-10-01/2",
+        "eliminated": 442,
+        "advancing": 1589,
+        "correct_answers": 1589,
+        "incorrect_answers": 442
+      },
+      {
+        "direct_link": "/us/game/2019-10-01/2/12",
+        "question_number": 12,
+        "text": "Quadruple Threat",
+        "answer": [
+          "TINKER,",
+          "TAILOR,",
+          "SOLDIER,",
+          "SPY"
+        ],
+        "initial_letters": [
+          "\",\"",
+          "\" \"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "K"
+        ],
+        "game_link": "/us/game/2019-10-01/2",
+        "eliminated": 503,
+        "advancing": 1247,
+        "correct_answers": 1247,
+        "incorrect_answers": 503
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

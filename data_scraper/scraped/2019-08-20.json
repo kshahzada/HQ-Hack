@@ -1,0 +1,661 @@
+[
+  {
+    "id": 127454,
+    "show_id": 11914,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "10,000",
+    "currency": "$",
+    "start_time": "2019-08-21T01:00:00Z",
+    "direct_link": "/us/game/2019-08-20/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 139582,
+        "text": "This is a picture of what?",
+        "question_number": 1,
+        "eliminated": "-15,539",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "223,467",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 283829,
+            "text": "Mattâs fish tank",
+            "correct": false,
+            "count": "3,550",
+            "percent": "1.78%"
+          },
+          {
+            "id": 283830,
+            "text": "Milky Way Galaxy",
+            "correct": true,
+            "count": "194,368",
+            "percent": "97.43%"
+          },
+          {
+            "id": 283831,
+            "text": "Annaâs blazer collection",
+            "correct": false,
+            "count": "1,582",
+            "percent": "0.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-20/1/1",
+        "game_link": "/us/game/2019-08-20/1",
+        "correct_answers": 194368,
+        "incorrect_answers": 5132,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 139596,
+        "text": "Which work of art is on display at the Louvre Museum?",
+        "question_number": 2,
+        "eliminated": "5,990",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "217,574",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 283850,
+            "text": "Dogs Playing Poker",
+            "correct": false,
+            "count": "4,450",
+            "percent": "2.22%"
+          },
+          {
+            "id": 283853,
+            "text": "Mona Lisa",
+            "correct": true,
+            "count": "195,150",
+            "percent": "97.39%"
+          },
+          {
+            "id": 283856,
+            "text": "Transformers 5",
+            "correct": false,
+            "count": "781",
+            "percent": "0.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-20/1/2",
+        "game_link": "/us/game/2019-08-20/1",
+        "correct_answers": 195150,
+        "incorrect_answers": 5231,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 139614,
+        "text": "What everyday tool is also the name of an Olympic event?",
+        "question_number": 3,
+        "eliminated": "31,774",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "185,917",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 283877,
+            "text": "Hammer",
+            "correct": true,
+            "count": "171,630",
+            "percent": "87.28%"
+          },
+          {
+            "id": 283880,
+            "text": "Scissors",
+            "correct": false,
+            "count": "10,127",
+            "percent": "5.15%"
+          },
+          {
+            "id": 283885,
+            "text": "Saw",
+            "correct": false,
+            "count": "14,879",
+            "percent": "7.57%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-20/1/3",
+        "game_link": "/us/game/2019-08-20/1",
+        "correct_answers": 171630,
+        "incorrect_answers": 25006,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 139631,
+        "text": "What billionaire is so frugal that he eats pretty much every breakfast at McDonaldâs?",
+        "question_number": 4,
+        "eliminated": "36,448",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "150,715",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 283902,
+            "text": "Warren Buffett",
+            "correct": true,
+            "count": "145,947",
+            "percent": "81.59%"
+          },
+          {
+            "id": 283904,
+            "text": "Mark Zuckerberg",
+            "correct": false,
+            "count": "21,427",
+            "percent": "11.98%"
+          },
+          {
+            "id": 283906,
+            "text": "Jeff Bezos",
+            "correct": false,
+            "count": "11,507",
+            "percent": "6.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-20/1/4",
+        "game_link": "/us/game/2019-08-20/1",
+        "correct_answers": 145947,
+        "incorrect_answers": 32934,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 139644,
+        "text": "Which battery maker has NOT used a drumming pink bunny in its ads?",
+        "question_number": 5,
+        "eliminated": "35,433",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "117,787",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 283922,
+            "text": "Energizer",
+            "correct": false,
+            "count": "2,796",
+            "percent": "1.87%"
+          },
+          {
+            "id": 283924,
+            "text": "Duracell",
+            "correct": false,
+            "count": "30,950",
+            "percent": "20.7%"
+          },
+          {
+            "id": 283929,
+            "text": "Ray-O-Vac",
+            "correct": true,
+            "count": "115,803",
+            "percent": "77.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-20/1/5",
+        "game_link": "/us/game/2019-08-20/1",
+        "correct_answers": 115803,
+        "incorrect_answers": 33746,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 139660,
+        "text": "This handshake helped secure peace between the US and where?",
+        "question_number": 6,
+        "eliminated": "48,014",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "73,649",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 283946,
+            "text": "The Middle East",
+            "correct": false,
+            "count": "41,411",
+            "percent": "34.38%"
+          },
+          {
+            "id": 283947,
+            "text": "Eurasia",
+            "correct": true,
+            "count": "72,765",
+            "percent": "60.41%"
+          },
+          {
+            "id": 283948,
+            "text": "South America",
+            "correct": false,
+            "count": "6,281",
+            "percent": "5.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-20/1/6",
+        "game_link": "/us/game/2019-08-20/1",
+        "correct_answers": 72765,
+        "incorrect_answers": 47692,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      null,
+      {
+        "id": 139668,
+        "text": "What supermarket product is named after the Greek for âindigestionâ?",
+        "question_number": 8,
+        "eliminated": "9,375",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "44,046",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 283958,
+            "text": "Grapes",
+            "correct": false,
+            "count": "2,199",
+            "percent": "4.14%"
+          },
+          {
+            "id": 283959,
+            "text": "Triscuits",
+            "correct": false,
+            "count": "6,970",
+            "percent": "13.11%"
+          },
+          {
+            "id": 283960,
+            "text": "Pepsi",
+            "correct": true,
+            "count": "43,989",
+            "percent": "82.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-08-20/1/8",
+        "game_link": "/us/game/2019-08-20/1",
+        "correct_answers": 43989,
+        "incorrect_answers": 9169,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1256,
+        "game_id": 127454,
+        "question": "Whatâs the most iconic VMAs moment?",
+        "results": [
+          {
+            "id": 7407,
+            "display_count": "41",
+            "vote_count": 21699,
+            "text": "Britney & Madonna"
+          },
+          {
+            "id": 7400,
+            "display_count": "49",
+            "vote_count": 26140,
+            "text": "Kanye & Taylor"
+          },
+          {
+            "id": 7411,
+            "display_count": "10",
+            "vote_count": 5297,
+            "text": "Nicki & Miley"
+          }
+        ],
+        "created_at": "2019-08-21T01:03:50Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 127513,
+    "show_id": 12149,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-08-21T01:30:00Z",
+    "direct_link": "/us/game/2019-08-20/2",
+    "currency": "$",
+    "prize": "2,000",
+    "summary": {
+      "winner_count": "7,617",
+      "currency": "$",
+      "average_prize": "0.26"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-08-20/2/2",
+        "question_number": 2,
+        "text": "Traditional Meal?",
+        "answer": [
+          "TACO",
+          "TUESDAY"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "O",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-08-20/2",
+        "eliminated": 11780,
+        "advancing": 62752,
+        "correct_answers": 62752,
+        "incorrect_answers": 11780
+      },
+      {
+        "direct_link": "/us/game/2019-08-20/2/3",
+        "question_number": 3,
+        "text": "Pretty Big Bird",
+        "answer": [
+          "TURKEY",
+          "VULTURE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "K",
+          "U"
+        ],
+        "game_link": "/us/game/2019-08-20/2",
+        "eliminated": 10365,
+        "advancing": 52718,
+        "correct_answers": 52718,
+        "incorrect_answers": 10365
+      },
+      {
+        "direct_link": "/us/game/2019-08-20/2/4",
+        "question_number": 4,
+        "text": "West Coast Landmark",
+        "answer": [
+          "HOLLYWOOD",
+          "SIGN"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"S\""
+        ],
+        "to_reveal_letters": [
+          "G",
+          "H"
+        ],
+        "game_link": "/us/game/2019-08-20/2",
+        "eliminated": 11661,
+        "advancing": 41425,
+        "correct_answers": 41425,
+        "incorrect_answers": 11661
+      },
+      {
+        "direct_link": "/us/game/2019-08-20/2/5",
+        "question_number": 5,
+        "text": "Outdoor Assistance",
+        "answer": [
+          "MOSQUITO",
+          "REPELLENT"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"U\""
+        ],
+        "to_reveal_letters": [
+          "L",
+          "O"
+        ],
+        "game_link": "/us/game/2019-08-20/2",
+        "eliminated": 15199,
+        "advancing": 26886,
+        "correct_answers": 26886,
+        "incorrect_answers": 15199
+      },
+      {
+        "direct_link": "/us/game/2019-08-20/2/6",
+        "question_number": 6,
+        "text": "Nighttime Occurrence",
+        "answer": [
+          "RAPID",
+          "EYE",
+          "MOVEMENT"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "O",
+          "P"
+        ],
+        "game_link": "/us/game/2019-08-20/2",
+        "eliminated": 7990,
+        "advancing": 20257,
+        "correct_answers": 20257,
+        "incorrect_answers": 7990
+      },
+      {
+        "direct_link": "/us/game/2019-08-20/2/7",
+        "question_number": 7,
+        "text": "Taylorâs Advice",
+        "answer": [
+          "YOU",
+          "NEED",
+          "TO",
+          "CALM",
+          "DOWN"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"Y\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "W"
+        ],
+        "game_link": "/us/game/2019-08-20/2",
+        "eliminated": 4030,
+        "advancing": 17177,
+        "correct_answers": 17177,
+        "incorrect_answers": 4030
+      },
+      {
+        "direct_link": "/us/game/2019-08-20/2/8",
+        "question_number": 8,
+        "text": "Said After a Comeback",
+        "answer": [
+          "WHOâS",
+          "LAUGHING",
+          "NOW?"
+        ],
+        "initial_letters": [
+          "\"â\"",
+          "\" \"",
+          "\"?\"",
+          "\"I\""
+        ],
+        "to_reveal_letters": [
+          "G",
+          "W"
+        ],
+        "game_link": "/us/game/2019-08-20/2",
+        "eliminated": 2957,
+        "advancing": 14851,
+        "correct_answers": 14851,
+        "incorrect_answers": 2957
+      },
+      {
+        "direct_link": "/us/game/2019-08-20/2/9",
+        "question_number": 9,
+        "text": "Place to Find Beauty?",
+        "answer": [
+          "EYE",
+          "OF",
+          "THE",
+          "BEHOLDER"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"R\""
+        ],
+        "to_reveal_letters": [
+          "B",
+          "E"
+        ],
+        "game_link": "/us/game/2019-08-20/2",
+        "eliminated": 1842,
+        "advancing": 13633,
+        "correct_answers": 13633,
+        "incorrect_answers": 1842
+      },
+      {
+        "direct_link": "/us/game/2019-08-20/2/10",
+        "question_number": 10,
+        "text": "Seasonal Activity",
+        "answer": [
+          "BACK",
+          "TO",
+          "SCHOOL",
+          "SHOPPING"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"S\""
+        ],
+        "to_reveal_letters": [
+          "G",
+          "H"
+        ],
+        "game_link": "/us/game/2019-08-20/2",
+        "eliminated": 2426,
+        "advancing": 11724,
+        "correct_answers": 11724,
+        "incorrect_answers": 2426
+      },
+      {
+        "direct_link": "/us/game/2019-08-20/2/11",
+        "question_number": 11,
+        "text": "Fancy Taco Tuesday",
+        "answer": [
+          "TABLESIDE",
+          "GUACAMOLE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"O\""
+        ],
+        "to_reveal_letters": [
+          "G",
+          "L"
+        ],
+        "game_link": "/us/game/2019-08-20/2",
+        "eliminated": 6917,
+        "advancing": 5607,
+        "correct_answers": 5607,
+        "incorrect_answers": 6917
+      },
+      {
+        "direct_link": "/us/game/2019-08-20/2/12",
+        "question_number": 12,
+        "text": "Popular Genre",
+        "answer": [
+          "TRUE",
+          "CRIME",
+          "DOCUMENTARY"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"O\""
+        ],
+        "to_reveal_letters": [
+          "M",
+          "R"
+        ],
+        "game_link": "/us/game/2019-08-20/2",
+        "eliminated": 624,
+        "advancing": 7617,
+        "correct_answers": 7617,
+        "incorrect_answers": 624
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

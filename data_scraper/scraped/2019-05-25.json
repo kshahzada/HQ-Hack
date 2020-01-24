@@ -1,0 +1,1376 @@
+[
+  {
+    "id": 106343,
+    "show_id": 10983,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "15,000",
+    "currency": "$",
+    "start_time": "2019-05-26T01:00:00Z",
+    "direct_link": "/us/game/2019-05-25/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Checkpoints",
+        "slug": "checkpoints"
+      },
+      {
+        "name": "Homeless Harry Potter",
+        "slug": "homeless-harry-potter"
+      },
+      {
+        "name": "Smarter Day",
+        "slug": "smarter-day"
+      },
+      {
+        "name": "No winners",
+        "slug": "no-winners"
+      }
+    ],
+    "questions": [
+      {
+        "id": 110769,
+        "text": "Who delivered the Gettysburg Address?",
+        "question_number": 1,
+        "eliminated": "-5,418",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "222,624",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 240626,
+            "text": "Hudson Hawk",
+            "correct": false,
+            "count": "2,661",
+            "percent": "1.23%"
+          },
+          {
+            "id": 240627,
+            "text": "Lincoln Hawk",
+            "correct": false,
+            "count": "6,725",
+            "percent": "3.12%"
+          },
+          {
+            "id": 240628,
+            "text": "Abraham Lincoln",
+            "correct": true,
+            "count": "206,150",
+            "percent": "95.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/1",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 206150,
+        "incorrect_answers": 9386,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 110783,
+        "text": "Which of these people is the author of a novel titled âBelovedâ?",
+        "question_number": 2,
+        "eliminated": "40,199",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "182,954",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 240647,
+            "text": "Toni Morrison",
+            "correct": true,
+            "count": "171,523",
+            "percent": "80.44%"
+          },
+          {
+            "id": 240648,
+            "text": "Jim Morrison",
+            "correct": false,
+            "count": "21,508",
+            "percent": "10.09%"
+          },
+          {
+            "id": 240649,
+            "text": "Toni Braxton",
+            "correct": false,
+            "count": "20,202",
+            "percent": "9.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/2",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 171523,
+        "incorrect_answers": 41710,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 110803,
+        "text": "Which animal is NOT native to Africa?",
+        "question_number": 3,
+        "eliminated": "28,861",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "157,260",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 240677,
+            "text": "Zebra",
+            "correct": false,
+            "count": "9,518",
+            "percent": "5.25%"
+          },
+          {
+            "id": 240678,
+            "text": "Elephant",
+            "correct": false,
+            "count": "17,509",
+            "percent": "9.65%"
+          },
+          {
+            "id": 240680,
+            "text": "Tiger",
+            "correct": true,
+            "count": "154,362",
+            "percent": "85.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/3",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 154362,
+        "incorrect_answers": 27027,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 110815,
+        "text": "What does a barometer specifically measure?",
+        "question_number": 4,
+        "eliminated": "12,896",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "147,154",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 240695,
+            "text": "Wind speed",
+            "correct": false,
+            "count": "7,469",
+            "percent": "4.74%"
+          },
+          {
+            "id": 240696,
+            "text": "Atmospheric pressure",
+            "correct": true,
+            "count": "146,747",
+            "percent": "93.04%"
+          },
+          {
+            "id": 240697,
+            "text": "Temperature",
+            "correct": false,
+            "count": "3,503",
+            "percent": "2.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/4",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 146747,
+        "incorrect_answers": 10972,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 110831,
+        "text": "âAll that glitters is not goldâ comes, with a slight change, from where?",
+        "question_number": 5,
+        "eliminated": "38,975",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "109,643",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 240719,
+            "text": "The Bible",
+            "correct": false,
+            "count": "22,117",
+            "percent": "15.29%"
+          },
+          {
+            "id": 240721,
+            "text": "Benjamin Franklin",
+            "correct": false,
+            "count": "12,912",
+            "percent": "8.93%"
+          },
+          {
+            "id": 240723,
+            "text": "William Shakespeare",
+            "correct": true,
+            "count": "109,639",
+            "percent": "75.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/5",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 109639,
+        "incorrect_answers": 35029,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 110849,
+        "text": "Which of these instruments has a name derived from its inventor?",
+        "question_number": 6,
+        "eliminated": "46,751",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "71,061",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 240746,
+            "text": "Clarinet",
+            "correct": false,
+            "count": "34,780",
+            "percent": "30.13%"
+          },
+          {
+            "id": 240747,
+            "text": "Flute",
+            "correct": false,
+            "count": "9,574",
+            "percent": "8.3%"
+          },
+          {
+            "id": 240749,
+            "text": "Saxophone",
+            "correct": true,
+            "count": "71,061",
+            "percent": "61.57%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/6",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 71061,
+        "incorrect_answers": 44354,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 110863,
+        "text": "Which of these typically contains gluten?",
+        "question_number": 7,
+        "eliminated": "20,414",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "55,749",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 240767,
+            "text": "Barley",
+            "correct": true,
+            "count": "55,749",
+            "percent": "73.75%"
+          },
+          {
+            "id": 240768,
+            "text": "Sorghum",
+            "correct": false,
+            "count": "5,782",
+            "percent": "7.65%"
+          },
+          {
+            "id": 240769,
+            "text": "Buckwheat",
+            "correct": false,
+            "count": "14,058",
+            "percent": "18.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/7",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 55749,
+        "incorrect_answers": 19840,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 110879,
+        "text": "Whatâs the surface area of a cube with a side of five?",
+        "question_number": 8,
+        "eliminated": "44,478",
+        "category": "Math",
+        "category_slug": "math",
+        "advancing": "14,641",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 240791,
+            "text": "Five times six",
+            "correct": false,
+            "count": "8,578",
+            "percent": "15.22%"
+          },
+          {
+            "id": 240792,
+            "text": "Twenty-five times six",
+            "correct": true,
+            "count": "14,641",
+            "percent": "25.98%"
+          },
+          {
+            "id": 240793,
+            "text": "Five cubed",
+            "correct": false,
+            "count": "33,127",
+            "percent": "58.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/8",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 14641,
+        "incorrect_answers": 41705,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 110895,
+        "text": "Bunco squads are named after what activity?",
+        "question_number": 9,
+        "eliminated": "5,960",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "22,810",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 240815,
+            "text": "Pickpocket ruse",
+            "correct": false,
+            "count": "2,498",
+            "percent": "8.85%"
+          },
+          {
+            "id": 240817,
+            "text": "Pyramid scheme",
+            "correct": false,
+            "count": "2,919",
+            "percent": "10.34%"
+          },
+          {
+            "id": 240821,
+            "text": "Game of chance",
+            "correct": true,
+            "count": "22,810",
+            "percent": "80.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/9",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 22810,
+        "incorrect_answers": 5417,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 9,
+          "players_left": 17783,
+          "players_left_formatted": "17,783",
+          "num_winners": 5027,
+          "num_winners_formatted": "5,027",
+          "prize": 0.14,
+          "prize_formatted": "$0.14",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 110913,
+        "text": "The area known as Abyei is part of a territorial dispute between what two countries?",
+        "question_number": 10,
+        "eliminated": "6,553",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "15,257",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 240845,
+            "text": "Pakistan / India",
+            "correct": false,
+            "count": "1,294",
+            "percent": "7.51%"
+          },
+          {
+            "id": 240847,
+            "text": "North Korea /South Korea",
+            "correct": false,
+            "count": "690",
+            "percent": "4.0%"
+          },
+          {
+            "id": 240850,
+            "text": "Sudan / South Sudan",
+            "correct": true,
+            "count": "15,257",
+            "percent": "88.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/10",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 15257,
+        "incorrect_answers": 1984,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 110927,
+        "text": "Of these politicians, who served the shortest amount of time as US president?",
+        "question_number": 11,
+        "eliminated": "8,406",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "7,511",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 240863,
+            "text": "John Adams",
+            "correct": true,
+            "count": "7,511",
+            "percent": "48.41%"
+          },
+          {
+            "id": 240864,
+            "text": "James K. Polk",
+            "correct": false,
+            "count": "6,107",
+            "percent": "39.36%"
+          },
+          {
+            "id": 240865,
+            "text": "Herbert Hoover",
+            "correct": false,
+            "count": "1,897",
+            "percent": "12.23%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/11",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 7511,
+        "incorrect_answers": 8004,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 110943,
+        "text": "Which of these people does NOT have a dinosaur directly named for him?",
+        "question_number": 12,
+        "eliminated": "5,863",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "4,778",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 240887,
+            "text": "JRR Tolkien",
+            "correct": true,
+            "count": "4,778",
+            "percent": "48.69%"
+          },
+          {
+            "id": 240890,
+            "text": "Confucius",
+            "correct": false,
+            "count": "4,153",
+            "percent": "42.32%"
+          },
+          {
+            "id": 240893,
+            "text": "Mark Knopfler",
+            "correct": false,
+            "count": "883",
+            "percent": "9.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/12",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 4778,
+        "incorrect_answers": 5036,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 12,
+          "players_left": 4325,
+          "players_left_formatted": "4,325",
+          "num_winners": 453,
+          "num_winners_formatted": "453",
+          "prize": 0.42,
+          "prize_formatted": "$0.42",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 110965,
+        "text": "The data-focused blog FiveThirtyEight.com takes its name from the number of what?",
+        "question_number": 13,
+        "eliminated": "2,339",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "1,986",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 240920,
+            "text": "Presidential electors",
+            "correct": true,
+            "count": "1,986",
+            "percent": "52.26%"
+          },
+          {
+            "id": 240922,
+            "text": "Members of Congress",
+            "correct": false,
+            "count": "1,708",
+            "percent": "44.95%"
+          },
+          {
+            "id": 240924,
+            "text": "Congressional districts",
+            "correct": false,
+            "count": "106",
+            "percent": "2.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/13",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 1986,
+        "incorrect_answers": 1814,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 110977,
+        "text": "The Devo hit âWhip Itâ was partially inspired by the work of what author?",
+        "question_number": 14,
+        "eliminated": "158",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "2,851",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 240938,
+            "text": "Thomas Pynchon",
+            "correct": true,
+            "count": "2,851",
+            "percent": "95.35%"
+          },
+          {
+            "id": 240939,
+            "text": "Philip K. Dick",
+            "correct": false,
+            "count": "51",
+            "percent": "1.71%"
+          },
+          {
+            "id": 240940,
+            "text": "Ray Bradbury",
+            "correct": false,
+            "count": "88",
+            "percent": "2.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/14",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 2851,
+        "incorrect_answers": 139,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 110991,
+        "text": "Which of these national flags has the most stars?",
+        "question_number": 15,
+        "eliminated": "1,763",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "1,159",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 240959,
+            "text": "China",
+            "correct": true,
+            "count": "1,159",
+            "percent": "40.19%"
+          },
+          {
+            "id": 240960,
+            "text": "New Zealand",
+            "correct": false,
+            "count": "1,655",
+            "percent": "57.39%"
+          },
+          {
+            "id": 240961,
+            "text": "Chile",
+            "correct": false,
+            "count": "70",
+            "percent": "2.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/15",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 1159,
+        "incorrect_answers": 1725,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 15,
+          "players_left": 996,
+          "players_left_formatted": "996",
+          "num_winners": 163,
+          "num_winners_formatted": "163",
+          "prize": 1.73,
+          "prize_formatted": "$1.73",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 111009,
+        "text": "According to whitehouse.gov, what US president showed âan uninspiring man could make the American dream come trueâ?",
+        "question_number": 16,
+        "eliminated": "53",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "943",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 240986,
+            "text": "Rutherford B. Hayes",
+            "correct": false,
+            "count": "9",
+            "percent": "0.93%"
+          },
+          {
+            "id": 240987,
+            "text": "Chester A. Arthur",
+            "correct": false,
+            "count": "14",
+            "percent": "1.45%"
+          },
+          {
+            "id": 240988,
+            "text": "Millard Fillmore",
+            "correct": true,
+            "count": "943",
+            "percent": "97.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/16",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 943,
+        "incorrect_answers": 23,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 111025,
+        "text": "Which planet has a moon that is larger than the planet Mercury?",
+        "question_number": 17,
+        "eliminated": "270",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "673",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 241010,
+            "text": "Earth",
+            "correct": false,
+            "count": "263",
+            "percent": "27.98%"
+          },
+          {
+            "id": 241011,
+            "text": "Saturn",
+            "correct": true,
+            "count": "673",
+            "percent": "71.6%"
+          },
+          {
+            "id": 241012,
+            "text": "Uranus",
+            "correct": false,
+            "count": "4",
+            "percent": "0.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/17",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 673,
+        "incorrect_answers": 267,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 111039,
+        "text": "Which country has produced the most Literature Nobel Prize winners?",
+        "question_number": 18,
+        "eliminated": "456",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "213",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 241031,
+            "text": "United Kingdom",
+            "correct": false,
+            "count": "153",
+            "percent": "22.9%"
+          },
+          {
+            "id": 241032,
+            "text": "United States",
+            "correct": false,
+            "count": "302",
+            "percent": "45.21%"
+          },
+          {
+            "id": 241033,
+            "text": "France",
+            "correct": true,
+            "count": "213",
+            "percent": "31.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/18",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 213,
+        "incorrect_answers": 455,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 18,
+          "players_left": 189,
+          "players_left_formatted": "189",
+          "num_winners": 24,
+          "num_winners_formatted": "24",
+          "prize": 8.22,
+          "prize_formatted": "$8.22",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 111056,
+        "text": "What elementâs chemical symbol does NOT form an English word?",
+        "question_number": 19,
+        "eliminated": "13",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "176",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 241056,
+            "text": "Arsenic",
+            "correct": false,
+            "count": "1",
+            "percent": "0.53%"
+          },
+          {
+            "id": 241061,
+            "text": "Astatine",
+            "correct": false,
+            "count": "8",
+            "percent": "4.28%"
+          },
+          {
+            "id": 241066,
+            "text": "Antimony",
+            "correct": true,
+            "count": "178",
+            "percent": "95.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/19",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 178,
+        "incorrect_answers": 9,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 111072,
+        "text": "Which of these languages is NOT part of the origin of the name âVaselineâ?",
+        "question_number": 20,
+        "eliminated": "5",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "168",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 241082,
+            "text": "Greek",
+            "correct": false,
+            "count": "1",
+            "percent": "0.58%"
+          },
+          {
+            "id": 241084,
+            "text": "German",
+            "correct": false,
+            "count": "3",
+            "percent": "1.74%"
+          },
+          {
+            "id": 241089,
+            "text": "Dutch",
+            "correct": true,
+            "count": "168",
+            "percent": "97.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/20",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 168,
+        "incorrect_answers": 4,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 111092,
+        "text": "Which of these countries contains the Western Hemisphereâs southernmost capital city?",
+        "question_number": 21,
+        "eliminated": "114",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "51",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 241110,
+            "text": "Chile",
+            "correct": false,
+            "count": "56",
+            "percent": "34.36%"
+          },
+          {
+            "id": 241113,
+            "text": "Argentina",
+            "correct": false,
+            "count": "56",
+            "percent": "34.36%"
+          },
+          {
+            "id": 241116,
+            "text": "Uruguay",
+            "correct": true,
+            "count": "51",
+            "percent": "31.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/21",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 51,
+        "incorrect_answers": 112,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 21,
+          "players_left": 47,
+          "players_left_formatted": "47",
+          "num_winners": 3,
+          "num_winners_formatted": "3",
+          "prize": 43.14,
+          "prize_formatted": "$43.14",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 111105,
+        "text": "Which of these Roman emperors ruled for by far the shortest amount of time?",
+        "question_number": 22,
+        "eliminated": "44",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "0",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 241131,
+            "text": "Constantine",
+            "correct": false,
+            "count": "21",
+            "percent": "50.0%"
+          },
+          {
+            "id": 241135,
+            "text": "Augustus",
+            "correct": false,
+            "count": "21",
+            "percent": "50.0%"
+          },
+          {
+            "id": 241141,
+            "text": "Claudius",
+            "correct": true,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-25/1/22",
+        "game_link": "/us/game/2019-05-25/1",
+        "correct_answers": 0,
+        "incorrect_answers": 42,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [
+      {
+        "round_number": 9,
+        "players_left": 17783,
+        "players_left_formatted": "17,783",
+        "num_winners": 5027,
+        "num_winners_formatted": "5,027",
+        "prize": 0.14,
+        "prize_formatted": "$0.14",
+        "currency": "$"
+      },
+      {
+        "round_number": 12,
+        "players_left": 4325,
+        "players_left_formatted": "4,325",
+        "num_winners": 453,
+        "num_winners_formatted": "453",
+        "prize": 0.42,
+        "prize_formatted": "$0.42",
+        "currency": "$"
+      },
+      {
+        "round_number": 15,
+        "players_left": 996,
+        "players_left_formatted": "996",
+        "num_winners": 163,
+        "num_winners_formatted": "163",
+        "prize": 1.73,
+        "prize_formatted": "$1.73",
+        "currency": "$"
+      },
+      {
+        "round_number": 18,
+        "players_left": 189,
+        "players_left_formatted": "189",
+        "num_winners": 24,
+        "num_winners_formatted": "24",
+        "prize": 8.22,
+        "prize_formatted": "$8.22",
+        "currency": "$"
+      },
+      {
+        "round_number": 21,
+        "players_left": 47,
+        "players_left_formatted": "47",
+        "num_winners": 3,
+        "num_winners_formatted": "3",
+        "prize": 43.14,
+        "prize_formatted": "$43.14",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "1,502.73",
+    "total_checkpoint_winners": "5,670",
+    "smallest_checkpoint_prize": "$0.14",
+    "largest_checkpoint_prize": "$43.14",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 106537,
+    "show_id": 11081,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-05-26T01:30:00Z",
+    "direct_link": "/us/game/2019-05-25/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "1,029",
+      "currency": "$",
+      "average_prize": "0.97"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Smarter Day",
+        "slug": "smarter-day"
+      }
+    ],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-05-25/2/1",
+        "question_number": 1,
+        "text": "Prank a Dessert",
+        "answer": [
+          "ICING",
+          "THE",
+          "CAKE"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "N"
+        ],
+        "game_link": "/us/game/2019-05-25/2",
+        "eliminated": 16195,
+        "advancing": 84871,
+        "correct_answers": 84871,
+        "incorrect_answers": 16195
+      },
+      {
+        "direct_link": "/us/game/2019-05-25/2/2",
+        "question_number": 2,
+        "text": "Katy Perry Reality Show",
+        "answer": [
+          "LEFT",
+          "SHARK",
+          "TANK"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "N"
+        ],
+        "game_link": "/us/game/2019-05-25/2",
+        "eliminated": 56336,
+        "advancing": 29201,
+        "correct_answers": 29201,
+        "incorrect_answers": 56336
+      },
+      {
+        "direct_link": "/us/game/2019-05-25/2/3",
+        "question_number": 3,
+        "text": "Weepy Horror Director",
+        "answer": [
+          "CRYING",
+          "JORDAN",
+          "PEELE"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "J"
+        ],
+        "game_link": "/us/game/2019-05-25/2",
+        "eliminated": 17115,
+        "advancing": 13627,
+        "correct_answers": 13627,
+        "incorrect_answers": 17115
+      },
+      {
+        "direct_link": "/us/game/2019-05-25/2/4",
+        "question_number": 4,
+        "text": "Decent Rom-Com Actor",
+        "answer": [
+          "GOOD",
+          "GUY",
+          "GREG",
+          "KINNEAR"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "K",
+          "R"
+        ],
+        "game_link": "/us/game/2019-05-25/2",
+        "eliminated": 2880,
+        "advancing": 11320,
+        "correct_answers": 11320,
+        "incorrect_answers": 2880
+      },
+      {
+        "direct_link": "/us/game/2019-05-25/2/5",
+        "question_number": 5,
+        "text": "A Hurricane of Famous Felines",
+        "answer": [
+          "GRUMPY",
+          "CATEGORY",
+          "FOUR",
+          "STORM"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "F"
+        ],
+        "game_link": "/us/game/2019-05-25/2",
+        "eliminated": 5022,
+        "advancing": 6413,
+        "correct_answers": 6413,
+        "incorrect_answers": 5022
+      },
+      {
+        "direct_link": "/us/game/2019-05-25/2/6",
+        "question_number": 6,
+        "text": "Back Off, Jane Eyre!",
+        "answer": [
+          "DONâT",
+          "TASE",
+          "ME,",
+          "BRONTE!"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          ",",
+          "!",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "R"
+        ],
+        "game_link": "/us/game/2019-05-25/2",
+        "eliminated": 2026,
+        "advancing": 4768,
+        "correct_answers": 4768,
+        "incorrect_answers": 2026
+      },
+      {
+        "direct_link": "/us/game/2019-05-25/2/7",
+        "question_number": 7,
+        "text": "Streaming Scares",
+        "answer": [
+          "NETFLIX",
+          "&",
+          "CHILL",
+          "TO",
+          "THE",
+          "BONE"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "I"
+        ],
+        "game_link": "/us/game/2019-05-25/2",
+        "eliminated": 1278,
+        "advancing": 3759,
+        "correct_answers": 3759,
+        "incorrect_answers": 1278
+      },
+      {
+        "direct_link": "/us/game/2019-05-25/2/8",
+        "question_number": 8,
+        "text": "Undersea Pranking",
+        "answer": [
+          "RICK",
+          "ROLLING",
+          "IN",
+          "THE",
+          "DEEP"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-05-25/2",
+        "eliminated": 1295,
+        "advancing": 2732,
+        "correct_answers": 2732,
+        "incorrect_answers": 1295
+      },
+      {
+        "direct_link": "/us/game/2019-05-25/2/9",
+        "question_number": 9,
+        "text": "Whiny American Kid",
+        "answer": [
+          "FIRST",
+          "WORLD",
+          "PROBLEM",
+          "CHILD"
+        ],
+        "initial_letters": [
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "R",
+          "W"
+        ],
+        "game_link": "/us/game/2019-05-25/2",
+        "eliminated": 511,
+        "advancing": 2564,
+        "correct_answers": 2564,
+        "incorrect_answers": 511
+      },
+      {
+        "direct_link": "/us/game/2019-05-25/2/10",
+        "question_number": 10,
+        "text": "Kanye Assigns Chores",
+        "answer": [
+          "IMMA",
+          "LET",
+          "YOU",
+          "FINISH",
+          "THE",
+          "DECK"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "K"
+        ],
+        "game_link": "/us/game/2019-05-25/2",
+        "eliminated": 1344,
+        "advancing": 1330,
+        "correct_answers": 1330,
+        "incorrect_answers": 1344
+      },
+      {
+        "direct_link": "/us/game/2019-05-25/2/11",
+        "question_number": 11,
+        "text": "Instagram Embarrassment",
+        "answer": [
+          "WORLD",
+          "RECORD",
+          "EGG",
+          "ON",
+          "YOUR",
+          "FACE"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "R"
+        ],
+        "game_link": "/us/game/2019-05-25/2",
+        "eliminated": 470,
+        "advancing": 1237,
+        "correct_answers": 1237,
+        "incorrect_answers": 470
+      },
+      {
+        "direct_link": "/us/game/2019-05-25/2/12",
+        "question_number": 12,
+        "text": "This Theme",
+        "answer": [
+          "CELEBRATING",
+          "MEME-ORIAL",
+          "DAY"
+        ],
+        "initial_letters": [
+          " ",
+          "-",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "T"
+        ],
+        "game_link": "/us/game/2019-05-25/2",
+        "eliminated": 297,
+        "advancing": 1029,
+        "correct_answers": 1029,
+        "incorrect_answers": 297
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

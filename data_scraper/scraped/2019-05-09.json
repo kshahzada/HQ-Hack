@@ -1,0 +1,1485 @@
+[
+  {
+    "id": 101442,
+    "show_id": 10771,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "2,500",
+    "currency": "$",
+    "start_time": "2019-05-09T19:00:00Z",
+    "direct_link": "/us/game/2019-05-09/1",
+    "time": " 3:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,891",
+      "currency": "$",
+      "average_prize": "0.86"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 105243,
+        "text": "Google Chrome recently unveiled what new feature for Android?",
+        "question_number": 1,
+        "eliminated": "-5,685",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "105,913",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232337,
+            "text": "Dark theme",
+            "correct": true,
+            "count": "91,555",
+            "percent": "92.53%"
+          },
+          {
+            "id": 232338,
+            "text": "Dank theme",
+            "correct": false,
+            "count": "4,052",
+            "percent": "4.1%"
+          },
+          {
+            "id": 232339,
+            "text": "Dap theme",
+            "correct": false,
+            "count": "3,339",
+            "percent": "3.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/1/1",
+        "game_link": "/us/game/2019-05-09/1",
+        "correct_answers": 91555,
+        "incorrect_answers": 7391,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105249,
+        "text": "Which steak option should you order if you want the least amount of pink inside?",
+        "question_number": 2,
+        "eliminated": "2,594",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "103,404",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232346,
+            "text": "Rare",
+            "correct": false,
+            "count": "16,924",
+            "percent": "17.26%"
+          },
+          {
+            "id": 232348,
+            "text": "Medium rare",
+            "correct": true,
+            "count": "78,117",
+            "percent": "79.65%"
+          },
+          {
+            "id": 232350,
+            "text": "Massively rare",
+            "correct": false,
+            "count": "3,034",
+            "percent": "3.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/1/2",
+        "game_link": "/us/game/2019-05-09/1",
+        "correct_answers": 78117,
+        "incorrect_answers": 19958,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105257,
+        "text": "What does the âAâ in DNA stand for?",
+        "question_number": 3,
+        "eliminated": "1,053",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "102,910",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232358,
+            "text": "Acid",
+            "correct": true,
+            "count": "69,922",
+            "percent": "73.34%"
+          },
+          {
+            "id": 232359,
+            "text": "Articles",
+            "correct": false,
+            "count": "7,546",
+            "percent": "7.91%"
+          },
+          {
+            "id": 232360,
+            "text": "Antibodies",
+            "correct": false,
+            "count": "17,874",
+            "percent": "18.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/1/3",
+        "game_link": "/us/game/2019-05-09/1",
+        "correct_answers": 69922,
+        "incorrect_answers": 25420,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105263,
+        "text": "Erika Leonard famously wrote what novel?",
+        "question_number": 4,
+        "eliminated": "3,188",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "99,813",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232367,
+            "text": "Gone Girl",
+            "correct": false,
+            "count": "49,438",
+            "percent": "53.0%"
+          },
+          {
+            "id": 232368,
+            "text": "50 Shades of Grey",
+            "correct": true,
+            "count": "28,203",
+            "percent": "30.24%"
+          },
+          {
+            "id": 232369,
+            "text": "The Hunger Games",
+            "correct": false,
+            "count": "15,631",
+            "percent": "16.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/1/4",
+        "game_link": "/us/game/2019-05-09/1",
+        "correct_answers": 28203,
+        "incorrect_answers": 65069,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105271,
+        "text": "What kind of bird is this?",
+        "question_number": 5,
+        "eliminated": "5,211",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "94,808",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232379,
+            "text": "Purple Finch",
+            "correct": true,
+            "count": "62,383",
+            "percent": "69.33%"
+          },
+          {
+            "id": 232381,
+            "text": "Purple Honeycreeper",
+            "correct": false,
+            "count": "8,624",
+            "percent": "9.58%"
+          },
+          {
+            "id": 232383,
+            "text": "Splendid Sunbird",
+            "correct": false,
+            "count": "18,978",
+            "percent": "21.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/1/5",
+        "game_link": "/us/game/2019-05-09/1",
+        "correct_answers": 62383,
+        "incorrect_answers": 27602,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105279,
+        "text": "Where is this famous plaza located?",
+        "question_number": 6,
+        "eliminated": "5,452",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "89,508",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232391,
+            "text": "Sydney",
+            "correct": false,
+            "count": "16,921",
+            "percent": "19.19%"
+          },
+          {
+            "id": 232392,
+            "text": "Shanghai",
+            "correct": false,
+            "count": "24,524",
+            "percent": "27.81%"
+          },
+          {
+            "id": 232393,
+            "text": "Seoul",
+            "correct": true,
+            "count": "46,744",
+            "percent": "53.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/1/6",
+        "game_link": "/us/game/2019-05-09/1",
+        "correct_answers": 46744,
+        "incorrect_answers": 41445,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105287,
+        "text": "Which of these dogs famously exhibits rhotacism?",
+        "question_number": 7,
+        "eliminated": "21,773",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "67,996",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232403,
+            "text": "Marley",
+            "correct": false,
+            "count": "18,964",
+            "percent": "22.95%"
+          },
+          {
+            "id": 232405,
+            "text": "Scooby Doo",
+            "correct": true,
+            "count": "53,705",
+            "percent": "65.0%"
+          },
+          {
+            "id": 232407,
+            "text": "Wishbone",
+            "correct": false,
+            "count": "9,960",
+            "percent": "12.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/1/7",
+        "game_link": "/us/game/2019-05-09/1",
+        "correct_answers": 53705,
+        "incorrect_answers": 28924,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105295,
+        "text": "The first-ever âFor Dummiesâ book was about what?",
+        "question_number": 8,
+        "eliminated": "32,600",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "36,930",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232415,
+            "text": "Etiquette",
+            "correct": false,
+            "count": "13,290",
+            "percent": "19.97%"
+          },
+          {
+            "id": 232416,
+            "text": "Operating system",
+            "correct": true,
+            "count": "35,769",
+            "percent": "53.74%"
+          },
+          {
+            "id": 232417,
+            "text": "Spanish",
+            "correct": false,
+            "count": "17,495",
+            "percent": "26.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/1/8",
+        "game_link": "/us/game/2019-05-09/1",
+        "correct_answers": 35769,
+        "incorrect_answers": 30785,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105303,
+        "text": "Tommy Lee Jonesâ character insists on helping out in âVolcanoâ despite being what?",
+        "question_number": 9,
+        "eliminated": "23,697",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "15,388",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232427,
+            "text": "Recently fired",
+            "correct": false,
+            "count": "7,098",
+            "percent": "18.93%"
+          },
+          {
+            "id": 232428,
+            "text": "On vacation",
+            "correct": true,
+            "count": "15,288",
+            "percent": "40.78%"
+          },
+          {
+            "id": 232431,
+            "text": "Retired",
+            "correct": false,
+            "count": "15,107",
+            "percent": "40.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/1/9",
+        "game_link": "/us/game/2019-05-09/1",
+        "correct_answers": 15288,
+        "incorrect_answers": 22205,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105311,
+        "text": "The founder of what video game brand also founded a restaurant chain with a giant rodent as mascot?",
+        "question_number": 10,
+        "eliminated": "7,871",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "9,655",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232439,
+            "text": "Nintendo",
+            "correct": false,
+            "count": "2,064",
+            "percent": "12.2%"
+          },
+          {
+            "id": 232441,
+            "text": "Sega",
+            "correct": false,
+            "count": "5,202",
+            "percent": "30.76%"
+          },
+          {
+            "id": 232443,
+            "text": "Atari",
+            "correct": true,
+            "count": "9,647",
+            "percent": "57.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/1/10",
+        "game_link": "/us/game/2019-05-09/1",
+        "correct_answers": 9647,
+        "incorrect_answers": 7266,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105319,
+        "text": "The composer of âThe Nutcrackerâ called what classical music legend a âconceited mediocrityâ?",
+        "question_number": 11,
+        "eliminated": "4,953",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "5,597",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232451,
+            "text": "Brahms",
+            "correct": true,
+            "count": "5,597",
+            "percent": "54.3%"
+          },
+          {
+            "id": 232452,
+            "text": "Mozart",
+            "correct": false,
+            "count": "2,578",
+            "percent": "25.01%"
+          },
+          {
+            "id": 232453,
+            "text": "Beethoven",
+            "correct": false,
+            "count": "2,133",
+            "percent": "20.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/1/11",
+        "game_link": "/us/game/2019-05-09/1",
+        "correct_answers": 5597,
+        "incorrect_answers": 4711,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105327,
+        "text": "This opening sequence was inspired by a different movie with what musical number?",
+        "question_number": 12,
+        "eliminated": "3,769",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,891",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232463,
+            "text": "A Lot of Livinâ to Do",
+            "correct": true,
+            "count": "2,891",
+            "percent": "45.12%"
+          },
+          {
+            "id": 232467,
+            "text": "When Youâre a Jet",
+            "correct": false,
+            "count": "1,393",
+            "percent": "21.74%"
+          },
+          {
+            "id": 232471,
+            "text": "Summer Nights",
+            "correct": false,
+            "count": "2,123",
+            "percent": "33.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/1/12",
+        "game_link": "/us/game/2019-05-09/1",
+        "correct_answers": 2891,
+        "incorrect_answers": 3516,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 101500,
+    "show_id": 10770,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-05-10T01:00:00Z",
+    "direct_link": "/us/game/2019-05-09/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "3,905",
+      "currency": "$",
+      "average_prize": "1.28"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Games",
+        "slug": "games"
+      }
+    ],
+    "questions": [
+      {
+        "id": 105335,
+        "text": "Which of these is the name of a classic card game?",
+        "question_number": 1,
+        "eliminated": "-8,041",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "231,603",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232475,
+            "text": "Go Fish",
+            "correct": true,
+            "count": "217,832",
+            "percent": "99.34%"
+          },
+          {
+            "id": 232476,
+            "text": "Go Get Me a Coffee",
+            "correct": false,
+            "count": "977",
+            "percent": "0.45%"
+          },
+          {
+            "id": 232477,
+            "text": "Go Back to Your Home",
+            "correct": false,
+            "count": "471",
+            "percent": "0.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/2/1",
+        "game_link": "/us/game/2019-05-09/2",
+        "correct_answers": 217832,
+        "incorrect_answers": 1448,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105341,
+        "text": "Which is one of the combatants in Rock âEm Sock âEm Robots?",
+        "question_number": 2,
+        "eliminated": "1,209",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "230,514",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232484,
+            "text": "Blue Bomber",
+            "correct": true,
+            "count": "208,822",
+            "percent": "95.46%"
+          },
+          {
+            "id": 232485,
+            "text": "Saffron Snowflake",
+            "correct": false,
+            "count": "5,588",
+            "percent": "2.55%"
+          },
+          {
+            "id": 232486,
+            "text": "Carnelian Coward",
+            "correct": false,
+            "count": "4,332",
+            "percent": "1.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/2/2",
+        "game_link": "/us/game/2019-05-09/2",
+        "correct_answers": 208822,
+        "incorrect_answers": 9920,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105349,
+        "text": "What game is this New York skyscraper nicknamed after?",
+        "question_number": 3,
+        "eliminated": "560",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "230,066",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232496,
+            "text": "Kendama",
+            "correct": false,
+            "count": "1,573",
+            "percent": "0.71%"
+          },
+          {
+            "id": 232498,
+            "text": "Jenga",
+            "correct": true,
+            "count": "217,403",
+            "percent": "98.14%"
+          },
+          {
+            "id": 232501,
+            "text": "Shogi",
+            "correct": false,
+            "count": "2,543",
+            "percent": "1.15%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/2/3",
+        "game_link": "/us/game/2019-05-09/2",
+        "correct_answers": 217403,
+        "incorrect_answers": 4116,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105357,
+        "text": "Sorry! is closest in format to what other board game?",
+        "question_number": 4,
+        "eliminated": "3,009",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "227,089",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232508,
+            "text": "Gomoku",
+            "correct": false,
+            "count": "19,588",
+            "percent": "8.93%"
+          },
+          {
+            "id": 232509,
+            "text": "Parcheesi",
+            "correct": true,
+            "count": "176,622",
+            "percent": "80.56%"
+          },
+          {
+            "id": 232510,
+            "text": "Cribbage",
+            "correct": false,
+            "count": "23,034",
+            "percent": "10.51%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/2/4",
+        "game_link": "/us/game/2019-05-09/2",
+        "correct_answers": 176622,
+        "incorrect_answers": 42622,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105365,
+        "text": "What does tugging on your earlobe indicate in Charades?",
+        "question_number": 5,
+        "eliminated": "2,813",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "224,497",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232520,
+            "text": "âSounds likeâ",
+            "correct": true,
+            "count": "204,918",
+            "percent": "94.21%"
+          },
+          {
+            "id": 232521,
+            "text": "âSay it againâ",
+            "correct": false,
+            "count": "9,733",
+            "percent": "4.47%"
+          },
+          {
+            "id": 232522,
+            "text": "\"Music\"",
+            "correct": false,
+            "count": "2,854",
+            "percent": "1.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/2/5",
+        "game_link": "/us/game/2019-05-09/2",
+        "correct_answers": 204918,
+        "incorrect_answers": 12587,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105373,
+        "text": "What is printed on the green cards in Apples to Apples?",
+        "question_number": 6,
+        "eliminated": "16,550",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "208,106",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232532,
+            "text": "Nouns",
+            "correct": false,
+            "count": "67,953",
+            "percent": "32.03%"
+          },
+          {
+            "id": 232533,
+            "text": "Adjectives",
+            "correct": true,
+            "count": "77,419",
+            "percent": "36.49%"
+          },
+          {
+            "id": 232534,
+            "text": "Verbs",
+            "correct": false,
+            "count": "66,784",
+            "percent": "31.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/2/6",
+        "game_link": "/us/game/2019-05-09/2",
+        "correct_answers": 77419,
+        "incorrect_answers": 134737,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105379,
+        "text": "Which is NOT one of the resources in Settlers of Catan?",
+        "question_number": 7,
+        "eliminated": "68,822",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "140,624",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232541,
+            "text": "Brick",
+            "correct": false,
+            "count": "63,545",
+            "percent": "31.65%"
+          },
+          {
+            "id": 232542,
+            "text": "Water",
+            "correct": true,
+            "count": "109,383",
+            "percent": "54.48%"
+          },
+          {
+            "id": 232543,
+            "text": "Lumber",
+            "correct": false,
+            "count": "27,854",
+            "percent": "13.87%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/2/7",
+        "game_link": "/us/game/2019-05-09/2",
+        "correct_answers": 109383,
+        "incorrect_answers": 91399,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105387,
+        "text": "What is the name of this game?",
+        "question_number": 8,
+        "eliminated": "31,999",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "116,833",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232553,
+            "text": "Quirrell",
+            "correct": false,
+            "count": "17,957",
+            "percent": "12.38%"
+          },
+          {
+            "id": 232554,
+            "text": "Qwirkle",
+            "correct": true,
+            "count": "116,433",
+            "percent": "80.25%"
+          },
+          {
+            "id": 232556,
+            "text": "Squircle",
+            "correct": false,
+            "count": "10,706",
+            "percent": "7.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/2/8",
+        "game_link": "/us/game/2019-05-09/2",
+        "correct_answers": 116433,
+        "incorrect_answers": 28663,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105395,
+        "text": "Which of these games is designed to be more about cooperation than competition?",
+        "question_number": 9,
+        "eliminated": "28,526",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "91,596",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232565,
+            "text": "Pandemic",
+            "correct": true,
+            "count": "91,555",
+            "percent": "78.35%"
+          },
+          {
+            "id": 232566,
+            "text": "Carcassonne",
+            "correct": false,
+            "count": "8,205",
+            "percent": "7.02%"
+          },
+          {
+            "id": 232567,
+            "text": "Ticket to Ride",
+            "correct": false,
+            "count": "17,088",
+            "percent": "14.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/2/9",
+        "game_link": "/us/game/2019-05-09/2",
+        "correct_answers": 91555,
+        "incorrect_answers": 25293,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105403,
+        "text": "Toss Across is a skill game based on what older game?",
+        "question_number": 10,
+        "eliminated": "22,215",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "73,174",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232577,
+            "text": "Pente",
+            "correct": false,
+            "count": "10,037",
+            "percent": "10.72%"
+          },
+          {
+            "id": 232578,
+            "text": "Tic-tac-toe",
+            "correct": true,
+            "count": "73,169",
+            "percent": "78.16%"
+          },
+          {
+            "id": 232579,
+            "text": "Connect Four",
+            "correct": false,
+            "count": "10,411",
+            "percent": "11.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/2/10",
+        "game_link": "/us/game/2019-05-09/2",
+        "correct_answers": 73169,
+        "incorrect_answers": 20448,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105411,
+        "text": "What cards are there fewest of in a standard Uno deck?",
+        "question_number": 11,
+        "eliminated": "47,880",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "29,651",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232589,
+            "text": "Reverse",
+            "correct": false,
+            "count": "17,947",
+            "percent": "24.23%"
+          },
+          {
+            "id": 232590,
+            "text": "Zero",
+            "correct": true,
+            "count": "29,651",
+            "percent": "40.03%"
+          },
+          {
+            "id": 232591,
+            "text": "Draw Two",
+            "correct": false,
+            "count": "26,475",
+            "percent": "35.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/2/11",
+        "game_link": "/us/game/2019-05-09/2",
+        "correct_answers": 29651,
+        "incorrect_answers": 44422,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105419,
+        "text": "Very early editions of The Game of Life closely resembled what other gameâs board?",
+        "question_number": 12,
+        "eliminated": "32,732",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "10,355",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232601,
+            "text": "Monopoly",
+            "correct": false,
+            "count": "23,706",
+            "percent": "56.59%"
+          },
+          {
+            "id": 232602,
+            "text": "Checkers",
+            "correct": true,
+            "count": "10,355",
+            "percent": "24.72%"
+          },
+          {
+            "id": 232606,
+            "text": "Backgammon",
+            "correct": false,
+            "count": "7,830",
+            "percent": "18.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/2/12",
+        "game_link": "/us/game/2019-05-09/2",
+        "correct_answers": 10355,
+        "incorrect_answers": 31536,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105427,
+        "text": "What activity is simulated in the game Pit?",
+        "question_number": 13,
+        "eliminated": "6,901",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "11,987",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232613,
+            "text": "Investing",
+            "correct": true,
+            "count": "11,987",
+            "percent": "64.16%"
+          },
+          {
+            "id": 232614,
+            "text": "Car repair",
+            "correct": false,
+            "count": "1,407",
+            "percent": "7.53%"
+          },
+          {
+            "id": 232615,
+            "text": "Mining",
+            "correct": false,
+            "count": "5,288",
+            "percent": "28.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/2/13",
+        "game_link": "/us/game/2019-05-09/2",
+        "correct_answers": 11987,
+        "incorrect_answers": 6695,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105433,
+        "text": "Who hosted all four editions of the video game âHasbro Family Game Nightâ?",
+        "question_number": 14,
+        "eliminated": "2,765",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "9,943",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232622,
+            "text": "Professor Plum",
+            "correct": false,
+            "count": "573",
+            "percent": "4.57%"
+          },
+          {
+            "id": 232624,
+            "text": "Mr. Potato Head",
+            "correct": true,
+            "count": "9,943",
+            "percent": "79.33%"
+          },
+          {
+            "id": 232627,
+            "text": "Rich Uncle Pennybags",
+            "correct": false,
+            "count": "2,018",
+            "percent": "16.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/2/14",
+        "game_link": "/us/game/2019-05-09/2",
+        "correct_answers": 9943,
+        "incorrect_answers": 2591,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105441,
+        "text": "Which of these is NOT a real-world Monopoly edition?",
+        "question_number": 15,
+        "eliminated": "6,460",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "3,905",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232634,
+            "text": "Golden Girls Monopoly",
+            "correct": false,
+            "count": "4,482",
+            "percent": "44.28%"
+          },
+          {
+            "id": 232636,
+            "text": "Miami Dolphins Monopoly",
+            "correct": false,
+            "count": "1,734",
+            "percent": "17.13%"
+          },
+          {
+            "id": 232638,
+            "text": "Funopoly",
+            "correct": true,
+            "count": "3,905",
+            "percent": "38.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-09/2/15",
+        "game_link": "/us/game/2019-05-09/2",
+        "correct_answers": 3905,
+        "incorrect_answers": 6216,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 101569,
+    "show_id": 10780,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-05-10T01:30:00Z",
+    "direct_link": "/us/game/2019-05-09/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "7,018",
+      "currency": "$",
+      "average_prize": "0.14"
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-05-09/3/1",
+        "question_number": 1,
+        "text": "Colorful Cards",
+        "answer": [
+          "UNO",
+          "DECK"
+        ],
+        "initial_letters": [
+          " ",
+          "U"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "N"
+        ],
+        "game_link": "/us/game/2019-05-09/3",
+        "eliminated": 14781,
+        "advancing": 114207,
+        "correct_answers": 114207,
+        "incorrect_answers": 14781
+      },
+      {
+        "direct_link": "/us/game/2019-05-09/3/2",
+        "question_number": 2,
+        "text": "Zany Game",
+        "answer": [
+          "CRAZY",
+          "EIGHTS"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "Z"
+        ],
+        "game_link": "/us/game/2019-05-09/3",
+        "eliminated": 19338,
+        "advancing": 95520,
+        "correct_answers": 95520,
+        "incorrect_answers": 19338
+      },
+      {
+        "direct_link": "/us/game/2019-05-09/3/3",
+        "question_number": 3,
+        "text": "Scrabble Goal",
+        "answer": [
+          "TRIPLE",
+          "WORD",
+          "SCORE"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "S",
+          "T"
+        ],
+        "game_link": "/us/game/2019-05-09/3",
+        "eliminated": 16681,
+        "advancing": 79336,
+        "correct_answers": 79336,
+        "incorrect_answers": 16681
+      },
+      {
+        "direct_link": "/us/game/2019-05-09/3/4",
+        "question_number": 4,
+        "text": "Dark Chase",
+        "answer": [
+          "FLASHLIGHT",
+          "TAG"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "H"
+        ],
+        "game_link": "/us/game/2019-05-09/3",
+        "eliminated": 7057,
+        "advancing": 73150,
+        "correct_answers": 73150,
+        "incorrect_answers": 7057
+      },
+      {
+        "direct_link": "/us/game/2019-05-09/3/5",
+        "question_number": 5,
+        "text": "Twister Task",
+        "answer": [
+          "RIGHT",
+          "HAND",
+          "YELLOW"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "L"
+        ],
+        "game_link": "/us/game/2019-05-09/3",
+        "eliminated": 8976,
+        "advancing": 64441,
+        "correct_answers": 64441,
+        "incorrect_answers": 8976
+      },
+      {
+        "direct_link": "/us/game/2019-05-09/3/6",
+        "question_number": 6,
+        "text": "Operation Target",
+        "answer": [
+          "WRITERâS",
+          "CRAMP"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "T"
+        ],
+        "game_link": "/us/game/2019-05-09/3",
+        "eliminated": 37201,
+        "advancing": 27833,
+        "correct_answers": 27833,
+        "incorrect_answers": 37201
+      },
+      {
+        "direct_link": "/us/game/2019-05-09/3/7",
+        "question_number": 7,
+        "text": "Bad Party Advice",
+        "answer": [
+          "DONâT",
+          "BREAK",
+          "THE",
+          "ICE"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "T"
+        ],
+        "game_link": "/us/game/2019-05-09/3",
+        "eliminated": 4200,
+        "advancing": 27218,
+        "correct_answers": 27218,
+        "incorrect_answers": 4200
+      },
+      {
+        "direct_link": "/us/game/2019-05-09/3/8",
+        "question_number": 8,
+        "text": "Monopoly Question",
+        "answer": [
+          "WHO",
+          "WANTS",
+          "TO",
+          "BE",
+          "BANKER?"
+        ],
+        "initial_letters": [
+          " ",
+          "?",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "O"
+        ],
+        "game_link": "/us/game/2019-05-09/3",
+        "eliminated": 7972,
+        "advancing": 19655,
+        "correct_answers": 19655,
+        "incorrect_answers": 7972
+      },
+      {
+        "direct_link": "/us/game/2019-05-09/3/9",
+        "question_number": 9,
+        "text": "What's That Noise",
+        "answer": [
+          "TUMBLING",
+          "JENGA",
+          "TOWER"
+        ],
+        "initial_letters": [
+          " ",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "R"
+        ],
+        "game_link": "/us/game/2019-05-09/3",
+        "eliminated": 9203,
+        "advancing": 11733,
+        "correct_answers": 11733,
+        "incorrect_answers": 9203
+      },
+      {
+        "direct_link": "/us/game/2019-05-09/3/10",
+        "question_number": 10,
+        "text": "I Lost!",
+        "answer": [
+          "YOU",
+          "SUNK",
+          "MY",
+          "BATTLESHIP!"
+        ],
+        "initial_letters": [
+          " ",
+          "!",
+          "Y"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "S"
+        ],
+        "game_link": "/us/game/2019-05-09/3",
+        "eliminated": 1322,
+        "advancing": 11916,
+        "correct_answers": 11916,
+        "incorrect_answers": 1322
+      },
+      {
+        "direct_link": "/us/game/2019-05-09/3/11",
+        "question_number": 11,
+        "text": "Clue Combo",
+        "answer": [
+          "PROFESSOR",
+          "PLUM",
+          "/",
+          "WRENCH",
+          "/",
+          "STUDY"
+        ],
+        "initial_letters": [
+          " ",
+          "/",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "P",
+          "S"
+        ],
+        "game_link": "/us/game/2019-05-09/3",
+        "eliminated": 5950,
+        "advancing": 6276,
+        "correct_answers": 6276,
+        "incorrect_answers": 5950
+      },
+      {
+        "direct_link": "/us/game/2019-05-09/3/12",
+        "question_number": 12,
+        "text": "Kidâs Crafting Curiosity",
+        "answer": [
+          "WHAT",
+          "DOES",
+          "PLAY-DOH",
+          "TASTE",
+          "LIKE?"
+        ],
+        "initial_letters": [
+          " ",
+          "-",
+          "?",
+          "K"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "W"
+        ],
+        "game_link": "/us/game/2019-05-09/3",
+        "eliminated": 1022,
+        "advancing": 7018,
+        "correct_answers": 7018,
+        "incorrect_answers": 1022
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

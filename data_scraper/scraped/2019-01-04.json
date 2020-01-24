@@ -1,0 +1,806 @@
+[
+  {
+    "id": 41708,
+    "show_id": 8934,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-01-05T02:00:00Z",
+    "direct_link": "/us/game/2019-01-04/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "12,698",
+      "currency": "$",
+      "average_prize": "0.39"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 40700,
+        "text": "In pickup trucks, â4WDâ stands for âfourâ what?",
+        "question_number": 1,
+        "eliminated": "-7,987",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "385,610",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 121995,
+            "text": "Wheel drive",
+            "correct": true,
+            "count": "368,768",
+            "percent": "99.18%"
+          },
+          {
+            "id": 121997,
+            "text": "Window decals",
+            "correct": false,
+            "count": "2,080",
+            "percent": "0.56%"
+          },
+          {
+            "id": 122000,
+            "text": "Wonderful decorations",
+            "correct": false,
+            "count": "954",
+            "percent": "0.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-04/1/1",
+        "game_link": "/us/game/2019-01-04/1",
+        "correct_answers": 368768,
+        "incorrect_answers": 3034,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40710,
+        "text": "Which of these surfaces is most common for painting?",
+        "question_number": 2,
+        "eliminated": "3,575",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "382,357",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122025,
+            "text": "Burlap",
+            "correct": false,
+            "count": "1,768",
+            "percent": "0.47%"
+          },
+          {
+            "id": 122026,
+            "text": "Canvas",
+            "correct": true,
+            "count": "372,687",
+            "percent": "99.17%"
+          },
+          {
+            "id": 122029,
+            "text": "Felt",
+            "correct": false,
+            "count": "1,357",
+            "percent": "0.36%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-04/1/2",
+        "game_link": "/us/game/2019-01-04/1",
+        "correct_answers": 372687,
+        "incorrect_answers": 3125,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40716,
+        "text": "Who first performed the classic song âLike a Rolling Stoneâ?",
+        "question_number": 3,
+        "eliminated": "51,634",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "330,929",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122043,
+            "text": "Bob Dylan",
+            "correct": true,
+            "count": "248,740",
+            "percent": "67.55%"
+          },
+          {
+            "id": 122044,
+            "text": "Paul Simon",
+            "correct": false,
+            "count": "29,817",
+            "percent": "8.1%"
+          },
+          {
+            "id": 122045,
+            "text": "Mick Jagger",
+            "correct": false,
+            "count": "89,673",
+            "percent": "24.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-04/1/3",
+        "game_link": "/us/game/2019-01-04/1",
+        "correct_answers": 248740,
+        "incorrect_answers": 119490,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40724,
+        "text": "Candies called âCanada Mintsâ have a shape that most closely resembles what?",
+        "question_number": 4,
+        "eliminated": "88,650",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "245,279",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122067,
+            "text": "Hockey pucks",
+            "correct": true,
+            "count": "86,224",
+            "percent": "26.94%"
+          },
+          {
+            "id": 122071,
+            "text": "Maple leaves",
+            "correct": false,
+            "count": "218,731",
+            "percent": "68.34%"
+          },
+          {
+            "id": 122079,
+            "text": "Bagels",
+            "correct": false,
+            "count": "15,124",
+            "percent": "4.73%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-04/1/4",
+        "game_link": "/us/game/2019-01-04/1",
+        "correct_answers": 86224,
+        "incorrect_answers": 233855,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40731,
+        "text": "By definition, which of these airships has a rigid internal structure?",
+        "question_number": 5,
+        "eliminated": "27,851",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "226,157",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122089,
+            "text": "Zeppelin",
+            "correct": true,
+            "count": "175,402",
+            "percent": "73.02%"
+          },
+          {
+            "id": 122093,
+            "text": "Blimp",
+            "correct": false,
+            "count": "51,001",
+            "percent": "21.23%"
+          },
+          {
+            "id": 122095,
+            "text": "Hot air balloon",
+            "correct": false,
+            "count": "13,815",
+            "percent": "5.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-04/1/5",
+        "game_link": "/us/game/2019-01-04/1",
+        "correct_answers": 175402,
+        "incorrect_answers": 64816,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40741,
+        "text": "Which is the correct pairing of actor to âSaved by the Bellâ character?",
+        "question_number": 6,
+        "eliminated": "74,061",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "154,225",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122118,
+            "text": "Lark / Lisa",
+            "correct": true,
+            "count": "77,403",
+            "percent": "36.13%"
+          },
+          {
+            "id": 122120,
+            "text": "Elizabeth / Kelly",
+            "correct": false,
+            "count": "61,912",
+            "percent": "28.9%"
+          },
+          {
+            "id": 122124,
+            "text": "Tiffani / Jessie",
+            "correct": false,
+            "count": "74,917",
+            "percent": "34.97%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-04/1/6",
+        "game_link": "/us/game/2019-01-04/1",
+        "correct_answers": 77403,
+        "incorrect_answers": 136829,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40749,
+        "text": "The marathon world record time is approaching what never-broken barrier?",
+        "question_number": 7,
+        "eliminated": "31,881",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "128,408",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122143,
+            "text": "2 hours",
+            "correct": true,
+            "count": "86,689",
+            "percent": "56.58%"
+          },
+          {
+            "id": 122147,
+            "text": "2 hours and 15 minutes",
+            "correct": false,
+            "count": "49,453",
+            "percent": "32.28%"
+          },
+          {
+            "id": 122149,
+            "text": "2 and a half hours",
+            "correct": false,
+            "count": "17,074",
+            "percent": "11.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-04/1/7",
+        "game_link": "/us/game/2019-01-04/1",
+        "correct_answers": 86689,
+        "incorrect_answers": 66527,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40754,
+        "text": "The folk tale of the Pied Piper is set in what country?",
+        "question_number": 8,
+        "eliminated": "47,384",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "83,748",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122164,
+            "text": "Germany",
+            "correct": true,
+            "count": "43,137",
+            "percent": "34.15%"
+          },
+          {
+            "id": 122168,
+            "text": "Austria",
+            "correct": false,
+            "count": "58,660",
+            "percent": "46.44%"
+          },
+          {
+            "id": 122171,
+            "text": "England",
+            "correct": false,
+            "count": "24,525",
+            "percent": "19.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-04/1/8",
+        "game_link": "/us/game/2019-01-04/1",
+        "correct_answers": 43137,
+        "incorrect_answers": 83185,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40764,
+        "text": "George Washington crossing the Delaware is depicted on what stateâs commemorative quarter?",
+        "question_number": 9,
+        "eliminated": "24,979",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "63,320",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122187,
+            "text": "New Jersey",
+            "correct": true,
+            "count": "39,518",
+            "percent": "46.17%"
+          },
+          {
+            "id": 122190,
+            "text": "Delaware",
+            "correct": false,
+            "count": "26,503",
+            "percent": "30.96%"
+          },
+          {
+            "id": 122194,
+            "text": "Pennsylvania",
+            "correct": false,
+            "count": "19,574",
+            "percent": "22.87%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-04/1/9",
+        "game_link": "/us/game/2019-01-04/1",
+        "correct_answers": 39518,
+        "incorrect_answers": 46077,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40772,
+        "text": "Who won an Oscar for the 2013 film â12 Years a Slaveâ?",
+        "question_number": 10,
+        "eliminated": "33,354",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "33,015",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122213,
+            "text": "Brad Pitt",
+            "correct": true,
+            "count": "14,200",
+            "percent": "21.85%"
+          },
+          {
+            "id": 122215,
+            "text": "George Clooney",
+            "correct": false,
+            "count": "4,978",
+            "percent": "7.66%"
+          },
+          {
+            "id": 122216,
+            "text": "Chiwetel Ejiofor",
+            "correct": false,
+            "count": "45,821",
+            "percent": "70.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-04/1/10",
+        "game_link": "/us/game/2019-01-04/1",
+        "correct_answers": 14200,
+        "incorrect_answers": 50799,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40779,
+        "text": "The creators of Trivial Pursuit were sued for copyright infringement based on a question about what TV show?",
+        "question_number": 11,
+        "eliminated": "16,722",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "21,888",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122233,
+            "text": "Starsky & Hutch",
+            "correct": false,
+            "count": "6,648",
+            "percent": "17.66%"
+          },
+          {
+            "id": 122242,
+            "text": "Kojak",
+            "correct": false,
+            "count": "9,114",
+            "percent": "24.21%"
+          },
+          {
+            "id": 122244,
+            "text": "Columbo",
+            "correct": true,
+            "count": "21,888",
+            "percent": "58.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-04/1/11",
+        "game_link": "/us/game/2019-01-04/1",
+        "correct_answers": 21888,
+        "incorrect_answers": 15762,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40789,
+        "text": "Until the early â80s, which comic strip featured a main character named Lyman?",
+        "question_number": 12,
+        "eliminated": "12,852",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "12,698",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122262,
+            "text": "Peanuts",
+            "correct": false,
+            "count": "3,864",
+            "percent": "15.29%"
+          },
+          {
+            "id": 122266,
+            "text": "Blondie",
+            "correct": false,
+            "count": "8,703",
+            "percent": "34.45%"
+          },
+          {
+            "id": 122269,
+            "text": "Garfield",
+            "correct": true,
+            "count": "12,698",
+            "percent": "50.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-04/1/12",
+        "game_link": "/us/game/2019-01-04/1",
+        "correct_answers": 12698,
+        "incorrect_answers": 12567,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 41823,
+    "show_id": 9195,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-01-05T02:30:00Z",
+    "direct_link": "/us/game/2019-01-04/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "300.36",
+          "time": "53.32"
+        },
+        {
+          "number": "2",
+          "amount": "150.36",
+          "time": "65.67"
+        },
+        {
+          "number": "3",
+          "amount": "50.36",
+          "time": "66.07"
+        },
+        {
+          "number": "1,370",
+          "amount": "0.36",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.3641660597232338,
+      "top_players_prize": 500.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-01-04/2/1",
+        "question_number": 1,
+        "text": "Language",
+        "answer": [
+          "FRENCH"
+        ],
+        "initial_letters": [
+          "F"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "N"
+        ],
+        "game_link": "/us/game/2019-01-04/2",
+        "eliminated": 9476,
+        "advancing": 183968,
+        "correct_answers": 183968,
+        "incorrect_answers": 9476
+      },
+      {
+        "direct_link": "/us/game/2019-01-04/2/2",
+        "question_number": 2,
+        "text": "Sport",
+        "answer": [
+          "ICE",
+          "HOCKEY"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-01-04/2",
+        "eliminated": 9889,
+        "advancing": 174459,
+        "correct_answers": 174459,
+        "incorrect_answers": 9889
+      },
+      {
+        "direct_link": "/us/game/2019-01-04/2/3",
+        "question_number": 3,
+        "text": "NY Tourist Destination",
+        "answer": [
+          "STATUE",
+          "OF",
+          "LIBERTY"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-01-04/2",
+        "eliminated": 21465,
+        "advancing": 153273,
+        "correct_answers": 153273,
+        "incorrect_answers": 21465
+      },
+      {
+        "direct_link": "/us/game/2019-01-04/2/4",
+        "question_number": 4,
+        "text": "In The Kitchen",
+        "answer": [
+          "CUTTING",
+          "BOARD"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "I"
+        ],
+        "game_link": "/us/game/2019-01-04/2",
+        "eliminated": 74080,
+        "advancing": 80271,
+        "correct_answers": 80271,
+        "incorrect_answers": 74080
+      },
+      {
+        "direct_link": "/us/game/2019-01-04/2/5",
+        "question_number": 5,
+        "text": "Modern Slang",
+        "answer": [
+          "THROWING",
+          "SHADE"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "G"
+        ],
+        "game_link": "/us/game/2019-01-04/2",
+        "eliminated": 55428,
+        "advancing": 29080,
+        "correct_answers": 29080,
+        "incorrect_answers": 55428
+      },
+      {
+        "direct_link": "/us/game/2019-01-04/2/6",
+        "question_number": 6,
+        "text": "Unusual Job",
+        "answer": [
+          "BIRTHDAY",
+          "PARTY",
+          "MAGICIAN"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "P"
+        ],
+        "game_link": "/us/game/2019-01-04/2",
+        "eliminated": 22091,
+        "advancing": 9863,
+        "correct_answers": 9863,
+        "incorrect_answers": 22091
+      },
+      {
+        "direct_link": "/us/game/2019-01-04/2/7",
+        "question_number": 7,
+        "text": "Regional Cuisine",
+        "answer": [
+          "CANADIAN",
+          "POUTINE"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "O"
+        ],
+        "game_link": "/us/game/2019-01-04/2",
+        "eliminated": 5431,
+        "advancing": 6128,
+        "correct_answers": 6128,
+        "incorrect_answers": 5431
+      },
+      {
+        "direct_link": "/us/game/2019-01-04/2/8",
+        "question_number": 8,
+        "text": "Saying",
+        "answer": [
+          "EARLY",
+          "BIRD",
+          "GETS",
+          "THE",
+          "WORM"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "E"
+        ],
+        "game_link": "/us/game/2019-01-04/2",
+        "eliminated": 1475,
+        "advancing": 5148,
+        "correct_answers": 5148,
+        "incorrect_answers": 1475
+      },
+      {
+        "direct_link": "/us/game/2019-01-04/2/9",
+        "question_number": 9,
+        "text": "White-Collar Crime",
+        "answer": [
+          "EMBEZZLING",
+          "COMPANY",
+          "FUNDS"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "L"
+        ],
+        "game_link": "/us/game/2019-01-04/2",
+        "eliminated": 3353,
+        "advancing": 1989,
+        "correct_answers": 1989,
+        "incorrect_answers": 3353
+      },
+      {
+        "direct_link": "/us/game/2019-01-04/2/10",
+        "question_number": 10,
+        "text": "Poolside at the Resort",
+        "answer": [
+          "DAIQUIRIS",
+          "WITH",
+          "TINY",
+          "UMBRELLAS"
+        ],
+        "initial_letters": [
+          " ",
+          "U"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "S"
+        ],
+        "game_link": "/us/game/2019-01-04/2",
+        "eliminated": 1208,
+        "advancing": 1373,
+        "correct_answers": 1373,
+        "incorrect_answers": 1208
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

@@ -1,0 +1,987 @@
+[
+  {
+    "id": 93152,
+    "show_id": 10209,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-04-07T01:00:00Z",
+    "direct_link": "/us/game/2019-04-06/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,936",
+      "currency": "$",
+      "average_prize": "1.70"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Smarter Day",
+        "slug": "smarter-day"
+      }
+    ],
+    "questions": [
+      {
+        "id": 96239,
+        "text": "Which of these is an autumn month in the Southern Hemisphere?",
+        "question_number": 1,
+        "eliminated": "9,253",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "276,332",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218831,
+            "text": "July",
+            "correct": false,
+            "count": "57,417",
+            "percent": "20.66%"
+          },
+          {
+            "id": 218832,
+            "text": "February",
+            "correct": false,
+            "count": "105,759",
+            "percent": "38.05%"
+          },
+          {
+            "id": 218833,
+            "text": "April",
+            "correct": true,
+            "count": "114,775",
+            "percent": "41.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-06/1/1",
+        "game_link": "/us/game/2019-04-06/1",
+        "correct_answers": 114775,
+        "incorrect_answers": 163176,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96251,
+        "text": "When the cable channel AMC launched, what did the âMâ stand for?",
+        "question_number": 2,
+        "eliminated": "2,392",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "278,828",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218849,
+            "text": "Movie",
+            "correct": true,
+            "count": "219,847",
+            "percent": "83.14%"
+          },
+          {
+            "id": 218850,
+            "text": "Music",
+            "correct": false,
+            "count": "24,915",
+            "percent": "9.42%"
+          },
+          {
+            "id": 218851,
+            "text": "Magazine",
+            "correct": false,
+            "count": "19,682",
+            "percent": "7.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-06/1/2",
+        "game_link": "/us/game/2019-04-06/1",
+        "correct_answers": 219847,
+        "incorrect_answers": 44597,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96269,
+        "text": "What toys famously wobble but do not fall down?",
+        "question_number": 3,
+        "eliminated": "3,066",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "275,959",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218875,
+            "text": "Teeteroos",
+            "correct": false,
+            "count": "9,813",
+            "percent": "3.73%"
+          },
+          {
+            "id": 218879,
+            "text": "Eggmen",
+            "correct": false,
+            "count": "17,208",
+            "percent": "6.55%"
+          },
+          {
+            "id": 218881,
+            "text": "Weebles",
+            "correct": true,
+            "count": "235,720",
+            "percent": "89.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-06/1/3",
+        "game_link": "/us/game/2019-04-06/1",
+        "correct_answers": 235720,
+        "incorrect_answers": 27021,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96285,
+        "text": "Which city is in the same time zone as Chicago?",
+        "question_number": 4,
+        "eliminated": "13,901",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "262,253",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218902,
+            "text": "Detroit",
+            "correct": false,
+            "count": "104,189",
+            "percent": "40.41%"
+          },
+          {
+            "id": 218905,
+            "text": "Dallas",
+            "correct": true,
+            "count": "135,551",
+            "percent": "52.58%"
+          },
+          {
+            "id": 218907,
+            "text": "Denver",
+            "correct": false,
+            "count": "18,062",
+            "percent": "7.01%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-06/1/4",
+        "game_link": "/us/game/2019-04-06/1",
+        "correct_answers": 135551,
+        "incorrect_answers": 122251,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96299,
+        "text": "In logic, the âBandwagon fallacyâ is also known as what?",
+        "question_number": 5,
+        "eliminated": "8,193",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "255,139",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218921,
+            "text": "False dichotomy",
+            "correct": false,
+            "count": "20,133",
+            "percent": "8.16%"
+          },
+          {
+            "id": 218922,
+            "text": "Begging the question",
+            "correct": false,
+            "count": "14,895",
+            "percent": "6.04%"
+          },
+          {
+            "id": 218924,
+            "text": "Appeal to popularity",
+            "correct": true,
+            "count": "211,589",
+            "percent": "85.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-06/1/5",
+        "game_link": "/us/game/2019-04-06/1",
+        "correct_answers": 211589,
+        "incorrect_answers": 35028,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96315,
+        "text": "Mathematically, what are the shapes in classic Tetris games called?",
+        "question_number": 6,
+        "eliminated": "35,839",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "219,766",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218945,
+            "text": "Nonominoes",
+            "correct": false,
+            "count": "18,933",
+            "percent": "7.9%"
+          },
+          {
+            "id": 218946,
+            "text": "Polyabolos",
+            "correct": false,
+            "count": "67,641",
+            "percent": "28.22%"
+          },
+          {
+            "id": 218949,
+            "text": "Tetrominoes",
+            "correct": true,
+            "count": "153,110",
+            "percent": "63.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-06/1/6",
+        "game_link": "/us/game/2019-04-06/1",
+        "correct_answers": 153110,
+        "incorrect_answers": 86574,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96331,
+        "text": "Turritopsis dohrnii, which replenishes its own cells, is better known as what?",
+        "question_number": 7,
+        "eliminated": "111,751",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "111,053",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218969,
+            "text": "Immortal mushroom",
+            "correct": false,
+            "count": "22,520",
+            "percent": "10.8%"
+          },
+          {
+            "id": 218970,
+            "text": "Immortal jellyfish",
+            "correct": true,
+            "count": "110,519",
+            "percent": "52.99%"
+          },
+          {
+            "id": 218971,
+            "text": "Immortal flatworm",
+            "correct": false,
+            "count": "75,531",
+            "percent": "36.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-06/1/7",
+        "game_link": "/us/game/2019-04-06/1",
+        "correct_answers": 110519,
+        "incorrect_answers": 98051,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96347,
+        "text": "Maurice Sendak created his âWild Thingsâ because he couldnât draw what?",
+        "question_number": 8,
+        "eliminated": "64,865",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "54,498",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218993,
+            "text": "Tigers",
+            "correct": false,
+            "count": "32,886",
+            "percent": "27.99%"
+          },
+          {
+            "id": 218994,
+            "text": "Horses",
+            "correct": true,
+            "count": "54,497",
+            "percent": "46.39%"
+          },
+          {
+            "id": 218996,
+            "text": "Dogs",
+            "correct": false,
+            "count": "30,092",
+            "percent": "25.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-06/1/8",
+        "game_link": "/us/game/2019-04-06/1",
+        "correct_answers": 54497,
+        "incorrect_answers": 62978,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96365,
+        "text": "What bandâs album covers often depict a huge guitar-shaped flying vehicle?",
+        "question_number": 9,
+        "eliminated": "18,638",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "41,071",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 219022,
+            "text": "ELO",
+            "correct": false,
+            "count": "12,989",
+            "percent": "22.07%"
+          },
+          {
+            "id": 219024,
+            "text": "Boston",
+            "correct": true,
+            "count": "41,069",
+            "percent": "69.78%"
+          },
+          {
+            "id": 219028,
+            "text": "Parliament",
+            "correct": false,
+            "count": "4,794",
+            "percent": "8.15%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-06/1/9",
+        "game_link": "/us/game/2019-04-06/1",
+        "correct_answers": 41069,
+        "incorrect_answers": 17783,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96380,
+        "text": "Who did NOT win in the only Best Actress tie in Oscar history?",
+        "question_number": 10,
+        "eliminated": "19,200",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "23,982",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 219043,
+            "text": "Katherine Hepburn",
+            "correct": false,
+            "count": "7,642",
+            "percent": "18.25%"
+          },
+          {
+            "id": 219046,
+            "text": "Barbra Streisand",
+            "correct": false,
+            "count": "10,246",
+            "percent": "24.47%"
+          },
+          {
+            "id": 219049,
+            "text": "Vanessa Redgrave",
+            "correct": true,
+            "count": "23,982",
+            "percent": "57.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-06/1/10",
+        "game_link": "/us/game/2019-04-06/1",
+        "correct_answers": 23982,
+        "incorrect_answers": 17888,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96396,
+        "text": "The principal owner of the Boston Red Sox also owns what British soccer team?",
+        "question_number": 11,
+        "eliminated": "7,729",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "19,301",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 219066,
+            "text": "Liverpool FC",
+            "correct": true,
+            "count": "19,301",
+            "percent": "72.89%"
+          },
+          {
+            "id": 219068,
+            "text": "Manchester FC",
+            "correct": false,
+            "count": "5,237",
+            "percent": "19.78%"
+          },
+          {
+            "id": 219070,
+            "text": "West Ham United FC",
+            "correct": false,
+            "count": "1,940",
+            "percent": "7.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-06/1/11",
+        "game_link": "/us/game/2019-04-06/1",
+        "correct_answers": 19301,
+        "incorrect_answers": 7177,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96412,
+        "text": "What âMonty Pythonâ-style name did the press give a 1979 incident involving President Carter?",
+        "question_number": 12,
+        "eliminated": "4,184",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "16,530",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 219090,
+            "text": "Killer Rabbit",
+            "correct": true,
+            "count": "16,530",
+            "percent": "81.47%"
+          },
+          {
+            "id": 219093,
+            "text": "Silly Walk",
+            "correct": false,
+            "count": "1,326",
+            "percent": "6.54%"
+          },
+          {
+            "id": 219097,
+            "text": "Dead Parrot",
+            "correct": false,
+            "count": "2,433",
+            "percent": "11.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-06/1/12",
+        "game_link": "/us/game/2019-04-06/1",
+        "correct_answers": 16530,
+        "incorrect_answers": 3759,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96427,
+        "text": "Which of these Pennsylvania cities did NOT serve as the capital of the US?",
+        "question_number": 13,
+        "eliminated": "13,621",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "3,651",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 219113,
+            "text": "York",
+            "correct": false,
+            "count": "493",
+            "percent": "2.89%"
+          },
+          {
+            "id": 219115,
+            "text": "Washington",
+            "correct": true,
+            "count": "3,651",
+            "percent": "21.43%"
+          },
+          {
+            "id": 219119,
+            "text": "Lancaster",
+            "correct": false,
+            "count": "12,895",
+            "percent": "75.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-06/1/13",
+        "game_link": "/us/game/2019-04-06/1",
+        "correct_answers": 3651,
+        "incorrect_answers": 13388,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96444,
+        "text": "Which of these is on the flag of the only inhabited US territory in the Southern Hemisphere?",
+        "question_number": 14,
+        "eliminated": "3,974",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "4,227",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 219138,
+            "text": "Tree",
+            "correct": false,
+            "count": "599",
+            "percent": "7.52%"
+          },
+          {
+            "id": 219140,
+            "text": "Eagle",
+            "correct": true,
+            "count": "4,230",
+            "percent": "53.09%"
+          },
+          {
+            "id": 219145,
+            "text": "Star",
+            "correct": false,
+            "count": "3,139",
+            "percent": "39.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-06/1/14",
+        "game_link": "/us/game/2019-04-06/1",
+        "correct_answers": 4230,
+        "incorrect_answers": 3738,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96461,
+        "text": "What is the capital of the country from which the US imports the most oil?",
+        "question_number": 15,
+        "eliminated": "1,903",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "2,936",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 219165,
+            "text": "Ottawa",
+            "correct": true,
+            "count": "2,937",
+            "percent": "62.82%"
+          },
+          {
+            "id": 219169,
+            "text": "Riyadh",
+            "correct": false,
+            "count": "1,111",
+            "percent": "23.76%"
+          },
+          {
+            "id": 219173,
+            "text": "Caracas",
+            "correct": false,
+            "count": "627",
+            "percent": "13.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-06/1/15",
+        "game_link": "/us/game/2019-04-06/1",
+        "correct_answers": 2937,
+        "incorrect_answers": 1738,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 93297,
+    "show_id": 10393,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-04-07T01:30:00Z",
+    "direct_link": "/us/game/2019-04-06/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "3,463",
+      "currency": "$",
+      "average_prize": "0.29"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Smarter Day",
+        "slug": "smarter-day"
+      },
+      {
+        "name": "Buddies",
+        "slug": "buddies"
+      }
+    ],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-04-06/2/1",
+        "question_number": 1,
+        "text": "Pre-Dance Practice",
+        "answer": [
+          "PROM",
+          "DRESS",
+          "REHEARSAL"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "D"
+        ],
+        "game_link": "/us/game/2019-04-06/2",
+        "eliminated": 47091,
+        "advancing": 70075,
+        "correct_answers": 70075,
+        "incorrect_answers": 47091
+      },
+      {
+        "direct_link": "/us/game/2019-04-06/2/2",
+        "question_number": 2,
+        "text": "Get Up, Itâs Nice Out",
+        "answer": [
+          "BED",
+          "SPRING",
+          "HAS",
+          "SPRUNG"
+        ],
+        "initial_letters": [
+          " ",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "I"
+        ],
+        "game_link": "/us/game/2019-04-06/2",
+        "eliminated": 44780,
+        "advancing": 27795,
+        "correct_answers": 27795,
+        "incorrect_answers": 44780
+      },
+      {
+        "direct_link": "/us/game/2019-04-06/2/3",
+        "question_number": 3,
+        "text": "Spooky Propane Seller",
+        "answer": [
+          "STEPHEN",
+          "KING",
+          "OF",
+          "THE",
+          "HILL"
+        ],
+        "initial_letters": [
+          " ",
+          "K"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "S"
+        ],
+        "game_link": "/us/game/2019-04-06/2",
+        "eliminated": 3518,
+        "advancing": 26363,
+        "correct_answers": 26363,
+        "incorrect_answers": 3518
+      },
+      {
+        "direct_link": "/us/game/2019-04-06/2/4",
+        "question_number": 4,
+        "text": "Caesarâs Bracket",
+        "answer": [
+          "THE",
+          "IDES",
+          "OF",
+          "MARCH",
+          "MADNESS"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-04-06/2",
+        "eliminated": 3541,
+        "advancing": 23001,
+        "correct_answers": 23001,
+        "incorrect_answers": 3541
+      },
+      {
+        "direct_link": "/us/game/2019-04-06/2/5",
+        "question_number": 5,
+        "text": "Tyler Durdenâs Lunch",
+        "answer": [
+          "FIGHT",
+          "CLUB",
+          "SANDWICH"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "I"
+        ],
+        "game_link": "/us/game/2019-04-06/2",
+        "eliminated": 6869,
+        "advancing": 16434,
+        "correct_answers": 16434,
+        "incorrect_answers": 6869
+      },
+      {
+        "direct_link": "/us/game/2019-04-06/2/6",
+        "question_number": 6,
+        "text": "Celebrated Breakfast",
+        "answer": [
+          "AVOCADO",
+          "TOAST",
+          "OF",
+          "THE",
+          "TOWN"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "N"
+        ],
+        "game_link": "/us/game/2019-04-06/2",
+        "eliminated": 2940,
+        "advancing": 14395,
+        "correct_answers": 14395,
+        "incorrect_answers": 2940
+      },
+      {
+        "direct_link": "/us/game/2019-04-06/2/7",
+        "question_number": 7,
+        "text": "Thank Goodness for Sylvia Plath",
+        "answer": [
+          "SAVED",
+          "BY",
+          "THE",
+          "BELL",
+          "JAR"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "L"
+        ],
+        "game_link": "/us/game/2019-04-06/2",
+        "eliminated": 5951,
+        "advancing": 8893,
+        "correct_answers": 8893,
+        "incorrect_answers": 5951
+      },
+      {
+        "direct_link": "/us/game/2019-04-06/2/8",
+        "question_number": 8,
+        "text": "Another Dimension on the Court",
+        "answer": [
+          "TWILIGHT",
+          "ZONE",
+          "DEFENSE"
+        ],
+        "initial_letters": [
+          " ",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-06/2",
+        "eliminated": 2081,
+        "advancing": 8179,
+        "correct_answers": 8179,
+        "incorrect_answers": 2081
+      },
+      {
+        "direct_link": "/us/game/2019-04-06/2/9",
+        "question_number": 9,
+        "text": "Springfielder in Washington",
+        "answer": [
+          "MILHOUSE",
+          "OF",
+          "REPRESENTATIVES"
+        ],
+        "initial_letters": [
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "R"
+        ],
+        "game_link": "/us/game/2019-04-06/2",
+        "eliminated": 4901,
+        "advancing": 3840,
+        "correct_answers": 3840,
+        "incorrect_answers": 4901
+      },
+      {
+        "direct_link": "/us/game/2019-04-06/2/10",
+        "question_number": 10,
+        "text": "Comedy Central Reruns",
+        "answer": [
+          "DRUNK",
+          "HISTORY",
+          "REPEATS",
+          "ITSELF"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "R"
+        ],
+        "game_link": "/us/game/2019-04-06/2",
+        "eliminated": 874,
+        "advancing": 4329,
+        "correct_answers": 4329,
+        "incorrect_answers": 874
+      },
+      {
+        "direct_link": "/us/game/2019-04-06/2/11",
+        "question_number": 11,
+        "text": "Mileyâs Baby Shower",
+        "answer": [
+          "GENDER",
+          "REVEAL",
+          "PARTY",
+          "IN",
+          "THE",
+          "USA"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "S"
+        ],
+        "game_link": "/us/game/2019-04-06/2",
+        "eliminated": 710,
+        "advancing": 3792,
+        "correct_answers": 3792,
+        "incorrect_answers": 710
+      },
+      {
+        "direct_link": "/us/game/2019-04-06/2/12",
+        "question_number": 12,
+        "text": "Grab an EU Souvenir",
+        "answer": [
+          "BREXIT",
+          "THROUGH",
+          "THE",
+          "GIFT",
+          "SHOP"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "X"
+        ],
+        "game_link": "/us/game/2019-04-06/2",
+        "eliminated": 516,
+        "advancing": 3463,
+        "correct_answers": 3463,
+        "incorrect_answers": 516
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

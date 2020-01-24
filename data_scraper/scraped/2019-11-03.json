@@ -1,0 +1,977 @@
+[
+  {
+    "id": 139677,
+    "show_id": 12868,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "250",
+    "currency": "$",
+    "start_time": "2019-11-03T04:15:00Z",
+    "direct_link": "/us/game/2019-11-03/1",
+    "time": "12:15 am",
+    "country": "us",
+    "summary": {
+      "winner_count": "5,864",
+      "currency": "$",
+      "average_prize": "0.04"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      null,
+      null,
+      null,
+      {
+        "id": 156825,
+        "text": "What do they call the game Ding Dong Ditch in England?",
+        "question_number": 4,
+        "eliminated": "16,181",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "31,049",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309710,
+            "text": "Gong-O-Guvner",
+            "correct": false,
+            "count": "4,555",
+            "percent": "10.68%"
+          },
+          {
+            "id": 309711,
+            "text": "Whinge the Whazzock",
+            "correct": false,
+            "count": "9,660",
+            "percent": "22.65%"
+          },
+          {
+            "id": 309712,
+            "text": "Knock, Knock, Ginger",
+            "correct": true,
+            "count": "28,435",
+            "percent": "66.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-03/1/4",
+        "game_link": "/us/game/2019-11-03/1",
+        "correct_answers": 28435,
+        "incorrect_answers": 14215,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156827,
+        "text": "What is Mitt Romneyâs real first name?",
+        "question_number": 5,
+        "eliminated": "14,253",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "19,145",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309713,
+            "text": "Mitthew",
+            "correct": false,
+            "count": "1,190",
+            "percent": "3.66%"
+          },
+          {
+            "id": 309715,
+            "text": "Willard",
+            "correct": true,
+            "count": "16,784",
+            "percent": "51.63%"
+          },
+          {
+            "id": 309717,
+            "text": "Milton",
+            "correct": false,
+            "count": "14,535",
+            "percent": "44.71%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-03/1/5",
+        "game_link": "/us/game/2019-11-03/1",
+        "correct_answers": 16784,
+        "incorrect_answers": 15725,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      null,
+      {
+        "id": 156833,
+        "text": "Which of these films did Justin Timberlake appear in?",
+        "question_number": 7,
+        "eliminated": "3,116",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "13,620",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309722,
+            "text": "Friends With Benefits",
+            "correct": true,
+            "count": "13,021",
+            "percent": "79.62%"
+          },
+          {
+            "id": 309723,
+            "text": "Just Friends",
+            "correct": false,
+            "count": "1,136",
+            "percent": "6.95%"
+          },
+          {
+            "id": 309724,
+            "text": "No Strings Attached",
+            "correct": false,
+            "count": "2,196",
+            "percent": "13.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-03/1/7",
+        "game_link": "/us/game/2019-11-03/1",
+        "correct_answers": 13021,
+        "incorrect_answers": 3332,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      null,
+      null,
+      {
+        "id": 156835,
+        "text": "What language originated in the Isle of Man?",
+        "question_number": 10,
+        "eliminated": "1,612",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "10,088",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309725,
+            "text": "Manx",
+            "correct": true,
+            "count": "9,963",
+            "percent": "85.7%"
+          },
+          {
+            "id": 309727,
+            "text": "Mannish",
+            "correct": false,
+            "count": "1,260",
+            "percent": "10.84%"
+          },
+          {
+            "id": 309729,
+            "text": "Manic",
+            "correct": false,
+            "count": "402",
+            "percent": "3.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-03/1/10",
+        "game_link": "/us/game/2019-11-03/1",
+        "correct_answers": 9963,
+        "incorrect_answers": 1662,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      null,
+      {
+        "id": 156839,
+        "text": "What is the name of this Japanese mascot?",
+        "question_number": 12,
+        "eliminated": "1,415",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "5,864",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309731,
+            "text": "Chiitan",
+            "correct": true,
+            "count": "5,864",
+            "percent": "81.06%"
+          },
+          {
+            "id": 309732,
+            "text": "Kumamom",
+            "correct": false,
+            "count": "674",
+            "percent": "9.32%"
+          },
+          {
+            "id": 309733,
+            "text": "Goku",
+            "correct": false,
+            "count": "696",
+            "percent": "9.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-03/1/12",
+        "game_link": "/us/game/2019-11-03/1",
+        "correct_answers": 5864,
+        "incorrect_answers": 1370,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 139733,
+    "show_id": 12654,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-11-04T02:00:00Z",
+    "direct_link": "/us/game/2019-11-03/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "8,144",
+      "currency": "$",
+      "average_prize": "0.12"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "TV",
+        "slug": "tv"
+      }
+    ],
+    "questions": [
+      {
+        "id": 156841,
+        "text": "Lorelai and Rory share an obsession with what drink?",
+        "question_number": 1,
+        "eliminated": "-1,736",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "109,707",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309734,
+            "text": "Pumpkin Juice",
+            "correct": false,
+            "count": "2,945",
+            "percent": "2.85%"
+          },
+          {
+            "id": 309735,
+            "text": "Mountain Dew",
+            "correct": false,
+            "count": "11,134",
+            "percent": "10.78%"
+          },
+          {
+            "id": 309736,
+            "text": "Coffee",
+            "correct": true,
+            "count": "89,240",
+            "percent": "86.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-03/2/1",
+        "game_link": "/us/game/2019-11-03/2",
+        "correct_answers": 89240,
+        "incorrect_answers": 14079,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156849,
+        "text": "What's Richard Gilmoreâs signature accessory?",
+        "question_number": 2,
+        "eliminated": "6,624",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "103,542",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309746,
+            "text": "Hoodies",
+            "correct": false,
+            "count": "6,990",
+            "percent": "6.98%"
+          },
+          {
+            "id": 309748,
+            "text": "Funny socks",
+            "correct": false,
+            "count": "8,405",
+            "percent": "8.39%"
+          },
+          {
+            "id": 309752,
+            "text": "Bowties",
+            "correct": true,
+            "count": "84,790",
+            "percent": "84.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-03/2/2",
+        "game_link": "/us/game/2019-11-03/2",
+        "correct_answers": 84790,
+        "incorrect_answers": 15395,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156857,
+        "text": "Where does Rory first kiss Jess?",
+        "question_number": 3,
+        "eliminated": "27,890",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "76,017",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309758,
+            "text": "Dance Marathon",
+            "correct": false,
+            "count": "12,126",
+            "percent": "12.73%"
+          },
+          {
+            "id": 309759,
+            "text": "Gazebo",
+            "correct": false,
+            "count": "36,433",
+            "percent": "38.24%"
+          },
+          {
+            "id": 309761,
+            "text": "Sookie's wedding",
+            "correct": true,
+            "count": "46,719",
+            "percent": "49.03%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-03/2/3",
+        "game_link": "/us/game/2019-11-03/2",
+        "correct_answers": 46719,
+        "incorrect_answers": 48559,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156865,
+        "text": "The actress behind what character hates coffee in real life?",
+        "question_number": 4,
+        "eliminated": "23,242",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "55,712",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309770,
+            "text": "Emily",
+            "correct": false,
+            "count": "4,657",
+            "percent": "6.32%"
+          },
+          {
+            "id": 309773,
+            "text": "Lorelai",
+            "correct": false,
+            "count": "19,754",
+            "percent": "26.8%"
+          },
+          {
+            "id": 309777,
+            "text": "Rory",
+            "correct": true,
+            "count": "49,291",
+            "percent": "66.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-03/2/4",
+        "game_link": "/us/game/2019-11-03/2",
+        "correct_answers": 49291,
+        "incorrect_answers": 24411,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156873,
+        "text": "What's the motto of the Life and Death Brigade?",
+        "question_number": 5,
+        "eliminated": "7,625",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "50,736",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309782,
+            "text": "Never Say Die",
+            "correct": false,
+            "count": "4,734",
+            "percent": "8.32%"
+          },
+          {
+            "id": 309785,
+            "text": "In Omnia Paratus",
+            "correct": true,
+            "count": "47,863",
+            "percent": "84.16%"
+          },
+          {
+            "id": 309788,
+            "text": "Filius Mortis",
+            "correct": false,
+            "count": "4,275",
+            "percent": "7.52%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-03/2/5",
+        "game_link": "/us/game/2019-11-03/2",
+        "correct_answers": 47863,
+        "incorrect_answers": 9009,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156881,
+        "text": "A former maid sues Emily after she's fired for what reason?",
+        "question_number": 6,
+        "eliminated": "7,980",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "43,612",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309794,
+            "text": "Serving dinner early",
+            "correct": false,
+            "count": "4,009",
+            "percent": "7.99%"
+          },
+          {
+            "id": 309796,
+            "text": "Stealing toilet paper",
+            "correct": false,
+            "count": "4,696",
+            "percent": "9.36%"
+          },
+          {
+            "id": 309799,
+            "text": "Walking too loudly",
+            "correct": true,
+            "count": "41,482",
+            "percent": "82.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-03/2/6",
+        "game_link": "/us/game/2019-11-03/2",
+        "correct_answers": 41482,
+        "incorrect_answers": 8705,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156891,
+        "text": "What nickname does Logan give Rory?",
+        "question_number": 7,
+        "eliminated": "2,334",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "43,793",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309809,
+            "text": "Kid",
+            "correct": false,
+            "count": "1,718",
+            "percent": "3.77%"
+          },
+          {
+            "id": 309811,
+            "text": "Ace",
+            "correct": true,
+            "count": "42,853",
+            "percent": "94.04%"
+          },
+          {
+            "id": 309813,
+            "text": "Doll",
+            "correct": false,
+            "count": "999",
+            "percent": "2.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-03/2/7",
+        "game_link": "/us/game/2019-11-03/2",
+        "correct_answers": 42853,
+        "incorrect_answers": 2717,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156899,
+        "text": "Who has Lorelai NEVER been married to?",
+        "question_number": 8,
+        "eliminated": "4,500",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "39,693",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309821,
+            "text": "Max",
+            "correct": true,
+            "count": "38,910",
+            "percent": "89.78%"
+          },
+          {
+            "id": 309823,
+            "text": "Luke",
+            "correct": false,
+            "count": "2,673",
+            "percent": "6.17%"
+          },
+          {
+            "id": 309826,
+            "text": "Christopher",
+            "correct": false,
+            "count": "1,758",
+            "percent": "4.06%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-03/2/8",
+        "game_link": "/us/game/2019-11-03/2",
+        "correct_answers": 38910,
+        "incorrect_answers": 4431,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156909,
+        "text": "During production, the actor playing Brad also appeared in what Broadway show?",
+        "question_number": 9,
+        "eliminated": "25,729",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "15,555",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309836,
+            "text": "Into the Woods",
+            "correct": true,
+            "count": "13,779",
+            "percent": "35.31%"
+          },
+          {
+            "id": 309837,
+            "text": "Wicked",
+            "correct": false,
+            "count": "12,326",
+            "percent": "31.58%"
+          },
+          {
+            "id": 309839,
+            "text": "Book of Mormon",
+            "correct": false,
+            "count": "12,921",
+            "percent": "33.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-03/2/9",
+        "game_link": "/us/game/2019-11-03/2",
+        "correct_answers": 13779,
+        "incorrect_answers": 25247,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156917,
+        "text": "What ever happened to Dave Rygalski?",
+        "question_number": 10,
+        "eliminated": "4,900",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "19,762",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309848,
+            "text": "Signed a record deal",
+            "correct": false,
+            "count": "1,878",
+            "percent": "7.71%"
+          },
+          {
+            "id": 309851,
+            "text": "College in California",
+            "correct": true,
+            "count": "19,205",
+            "percent": "78.83%"
+          },
+          {
+            "id": 309855,
+            "text": "Moved to London",
+            "correct": false,
+            "count": "3,280",
+            "percent": "13.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-03/2/10",
+        "game_link": "/us/game/2019-11-03/2",
+        "correct_answers": 19205,
+        "incorrect_answers": 5158,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156927,
+        "text": "Before Parisâ first date with Jamie, she makes Rory do what?",
+        "question_number": 11,
+        "eliminated": "2,245",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "18,996",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309863,
+            "text": "Give her a book",
+            "correct": false,
+            "count": "853",
+            "percent": "4.06%"
+          },
+          {
+            "id": 309865,
+            "text": "Hide in the closet",
+            "correct": true,
+            "count": "18,996",
+            "percent": "90.38%"
+          },
+          {
+            "id": 309868,
+            "text": "Finish her column",
+            "correct": false,
+            "count": "1,168",
+            "percent": "5.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-03/2/11",
+        "game_link": "/us/game/2019-11-03/2",
+        "correct_answers": 18996,
+        "incorrect_answers": 2021,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156935,
+        "text": "What Hollywood actress does Rory name in her first conversation with Dean?",
+        "question_number": 12,
+        "eliminated": "9,071",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "11,003",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309875,
+            "text": "Mia Farrow",
+            "correct": false,
+            "count": "4,226",
+            "percent": "21.46%"
+          },
+          {
+            "id": 309876,
+            "text": "Tippi Hedren",
+            "correct": false,
+            "count": "4,459",
+            "percent": "22.65%"
+          },
+          {
+            "id": 309879,
+            "text": "Ruth Gordon",
+            "correct": true,
+            "count": "11,003",
+            "percent": "55.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-03/2/12",
+        "game_link": "/us/game/2019-11-03/2",
+        "correct_answers": 11003,
+        "incorrect_answers": 8685,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156945,
+        "text": "What are Michelâs dogs named?",
+        "question_number": 13,
+        "eliminated": "453",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "14,287",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309890,
+            "text": "Madeleine and Gerard",
+            "correct": false,
+            "count": "138",
+            "percent": "0.94%"
+          },
+          {
+            "id": 309893,
+            "text": "Chin-Chin and Paw-Paw",
+            "correct": true,
+            "count": "14,287",
+            "percent": "97.37%"
+          },
+          {
+            "id": 309897,
+            "text": "Fifi and Bebe",
+            "correct": false,
+            "count": "248",
+            "percent": "1.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-03/2/13",
+        "game_link": "/us/game/2019-11-03/2",
+        "correct_answers": 14287,
+        "incorrect_answers": 386,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156953,
+        "text": "The actor who played Gil was the frontman for the band behind which rock song?",
+        "question_number": 14,
+        "eliminated": "2,413",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "12,085",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309902,
+            "text": "18 and Life",
+            "correct": true,
+            "count": "12,085",
+            "percent": "84.34%"
+          },
+          {
+            "id": 309903,
+            "text": "Livinâ on a Prayer",
+            "correct": false,
+            "count": "528",
+            "percent": "3.68%"
+          },
+          {
+            "id": 309907,
+            "text": "Every Rose Has Its Thorn",
+            "correct": false,
+            "count": "1,716",
+            "percent": "11.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-03/2/14",
+        "game_link": "/us/game/2019-11-03/2",
+        "correct_answers": 12085,
+        "incorrect_answers": 2244,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156961,
+        "text": "In the pilot, Rory's upset because she lost a CD with what song?",
+        "question_number": 15,
+        "eliminated": "5,266",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "8,144",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309914,
+            "text": "Walk Like an Egyptian",
+            "correct": false,
+            "count": "2,880",
+            "percent": "21.83%"
+          },
+          {
+            "id": 309915,
+            "text": "I Try",
+            "correct": true,
+            "count": "8,144",
+            "percent": "61.73%"
+          },
+          {
+            "id": 309917,
+            "text": "Ironic",
+            "correct": false,
+            "count": "2,170",
+            "percent": "16.45%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-03/2/15",
+        "game_link": "/us/game/2019-11-03/2",
+        "correct_answers": 8144,
+        "incorrect_answers": 5050,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2221,
+        "game_id": 139733,
+        "question": "Choose an item of clothing: ",
+        "results": [
+          {
+            "id": 13037,
+            "display_count": "30",
+            "vote_count": 14221,
+            "text": "Jean jacket"
+          },
+          {
+            "id": 13040,
+            "display_count": "34",
+            "vote_count": 16351,
+            "text": "Leather jacket"
+          },
+          {
+            "id": 13036,
+            "display_count": "36",
+            "vote_count": 16886,
+            "text": "Plaid shirt"
+          }
+        ],
+        "created_at": "2019-11-04T02:04:07Z"
+      },
+      {
+        "id": 2217,
+        "game_id": 139733,
+        "question": "Choose a pet:",
+        "results": [
+          {
+            "id": 13015,
+            "display_count": "27",
+            "vote_count": 10941,
+            "text": "Cat"
+          },
+          {
+            "id": 13018,
+            "display_count": "62",
+            "vote_count": 25674,
+            "text": "Dog"
+          },
+          {
+            "id": 13012,
+            "display_count": "11",
+            "vote_count": 4535,
+            "text": "Pig"
+          }
+        ],
+        "created_at": "2019-11-04T02:03:29Z"
+      },
+      {
+        "id": 2213,
+        "game_id": 139733,
+        "question": "Choose a place to hang out:",
+        "results": [
+          {
+            "id": 12991,
+            "display_count": "61",
+            "vote_count": 20102,
+            "text": "Coffee Shop"
+          },
+          {
+            "id": 12994,
+            "display_count": "21",
+            "vote_count": 6721,
+            "text": "Library"
+          },
+          {
+            "id": 12988,
+            "display_count": "18",
+            "vote_count": 5952,
+            "text": "Record Store"
+          }
+        ],
+        "created_at": "2019-11-04T02:02:53Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

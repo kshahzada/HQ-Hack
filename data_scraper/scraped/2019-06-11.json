@@ -1,0 +1,1321 @@
+[
+  {
+    "id": 112414,
+    "show_id": 11162,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "125,000",
+    "currency": "$",
+    "start_time": "2019-06-12T01:00:00Z",
+    "direct_link": "/us/game/2019-06-11/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Checkpoints",
+        "slug": "checkpoints"
+      }
+    ],
+    "questions": [
+      {
+        "id": 118039,
+        "text": "What is the capital of Greece?",
+        "question_number": 1,
+        "eliminated": "-1,332",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "277,441",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 251531,
+            "text": "Athens",
+            "correct": true,
+            "count": "262,132",
+            "percent": "98.97%"
+          },
+          {
+            "id": 251533,
+            "text": "Atlantis",
+            "correct": false,
+            "count": "2,270",
+            "percent": "0.86%"
+          },
+          {
+            "id": 251536,
+            "text": "Animaniville",
+            "correct": false,
+            "count": "462",
+            "percent": "0.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/1",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 262132,
+        "incorrect_answers": 2732,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 118055,
+        "text": "Which of these organisms is most closely related to moss?",
+        "question_number": 2,
+        "eliminated": "34,347",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "243,301",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 251555,
+            "text": "Pine tree",
+            "correct": false,
+            "count": "6,767",
+            "percent": "2.54%"
+          },
+          {
+            "id": 251556,
+            "text": "Fern",
+            "correct": true,
+            "count": "135,199",
+            "percent": "50.69%"
+          },
+          {
+            "id": 251557,
+            "text": "Mushroom",
+            "correct": false,
+            "count": "124,762",
+            "percent": "46.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/2",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 135199,
+        "incorrect_answers": 131529,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 118069,
+        "text": "Which of these is a Germanic language?",
+        "question_number": 3,
+        "eliminated": "34,437",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "211,040",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 251576,
+            "text": "Irish",
+            "correct": false,
+            "count": "27,863",
+            "percent": "11.79%"
+          },
+          {
+            "id": 251577,
+            "text": "English",
+            "correct": true,
+            "count": "136,874",
+            "percent": "57.89%"
+          },
+          {
+            "id": 251578,
+            "text": "Turkish",
+            "correct": false,
+            "count": "71,685",
+            "percent": "30.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/3",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 136874,
+        "incorrect_answers": 99548,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 118087,
+        "text": "Where did episodes of the TV show âWhose Line Is It Anyway?â first air?",
+        "question_number": 4,
+        "eliminated": "16,794",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "196,897",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 251603,
+            "text": "Australia",
+            "correct": false,
+            "count": "20,025",
+            "percent": "9.77%"
+          },
+          {
+            "id": 251604,
+            "text": "United States",
+            "correct": false,
+            "count": "22,421",
+            "percent": "10.93%"
+          },
+          {
+            "id": 251605,
+            "text": "United Kingdom",
+            "correct": true,
+            "count": "162,607",
+            "percent": "79.3%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/4",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 162607,
+        "incorrect_answers": 42446,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 118100,
+        "text": "Which movie stars an actor who turned down a chance to be in the Backstreet Boys?",
+        "question_number": 5,
+        "eliminated": "73,929",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "124,555",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 251624,
+            "text": "The Proposal",
+            "correct": false,
+            "count": "21,581",
+            "percent": "11.51%"
+          },
+          {
+            "id": 251625,
+            "text": "Magic Mike",
+            "correct": false,
+            "count": "104,242",
+            "percent": "55.59%"
+          },
+          {
+            "id": 251626,
+            "text": "The Notebook",
+            "correct": true,
+            "count": "61,683",
+            "percent": "32.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/5",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 61683,
+        "incorrect_answers": 125823,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 118115,
+        "text": "Which of these exercises is included in the sport of powerlifting?",
+        "question_number": 6,
+        "eliminated": "16,585",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "116,365",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 251645,
+            "text": "Curl",
+            "correct": false,
+            "count": "14,674",
+            "percent": "11.42%"
+          },
+          {
+            "id": 251648,
+            "text": "Lunge",
+            "correct": false,
+            "count": "6,361",
+            "percent": "4.95%"
+          },
+          {
+            "id": 251651,
+            "text": "Squat",
+            "correct": true,
+            "count": "107,410",
+            "percent": "83.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/6",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 107410,
+        "incorrect_answers": 21035,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 118134,
+        "text": "Which of these British monarchs was Catholic?",
+        "question_number": 7,
+        "eliminated": "47,385",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "70,998",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 251672,
+            "text": "Mary I",
+            "correct": true,
+            "count": "63,434",
+            "percent": "54.86%"
+          },
+          {
+            "id": 251675,
+            "text": "Anne",
+            "correct": false,
+            "count": "21,677",
+            "percent": "18.75%"
+          },
+          {
+            "id": 251677,
+            "text": "Elizabeth I",
+            "correct": false,
+            "count": "30,517",
+            "percent": "26.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/7",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 63434,
+        "incorrect_answers": 52194,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 118147,
+        "text": "An original name of Amazon was a shortened version of which of these words?",
+        "question_number": 8,
+        "eliminated": "26,313",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "51,654",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 251693,
+            "text": "Optimization",
+            "correct": false,
+            "count": "14,380",
+            "percent": "19.03%"
+          },
+          {
+            "id": 251694,
+            "text": "Encyclopedia",
+            "correct": false,
+            "count": "10,582",
+            "percent": "14.0%"
+          },
+          {
+            "id": 251696,
+            "text": "Abracadabra",
+            "correct": true,
+            "count": "50,602",
+            "percent": "66.97%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/8",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 50602,
+        "incorrect_answers": 24962,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 118164,
+        "text": "Which of these is a party that won more than 5 percent of the popular vote in a US presidential election?",
+        "question_number": 9,
+        "eliminated": "38,454",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "18,018",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 251718,
+            "text": "Prohibition",
+            "correct": false,
+            "count": "11,975",
+            "percent": "21.91%"
+          },
+          {
+            "id": 251720,
+            "text": "Libertarian",
+            "correct": false,
+            "count": "24,665",
+            "percent": "45.13%"
+          },
+          {
+            "id": 251722,
+            "text": "Anti-Masonic",
+            "correct": true,
+            "count": "18,018",
+            "percent": "32.96%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/9",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 18018,
+        "incorrect_answers": 36640,
+        "savage": true,
+        "checkpoint": {
+          "round_number": 9,
+          "players_left": 14109,
+          "players_left_formatted": "14,109",
+          "num_winners": 3909,
+          "num_winners_formatted": "3,909",
+          "prize": 0.14,
+          "prize_formatted": "$0.14",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 118180,
+        "text": "Which of these movies features Jason Voorhees as the main villain?",
+        "question_number": 10,
+        "eliminated": "7,848",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "9,170",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 251742,
+            "text": "Friday the 13th III",
+            "correct": true,
+            "count": "9,168",
+            "percent": "73.98%"
+          },
+          {
+            "id": 251744,
+            "text": "Friday the 13th",
+            "correct": false,
+            "count": "1,584",
+            "percent": "12.78%"
+          },
+          {
+            "id": 251747,
+            "text": "Friday the 13th V",
+            "correct": false,
+            "count": "1,640",
+            "percent": "13.23%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/10",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 9168,
+        "incorrect_answers": 3224,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 118198,
+        "text": "The Louisiana Purchase included part of which of these US states?",
+        "question_number": 11,
+        "eliminated": "2,236",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "8,376",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 251771,
+            "text": "New Mexico",
+            "correct": true,
+            "count": "8,376",
+            "percent": "79.7%"
+          },
+          {
+            "id": 251774,
+            "text": "Mississippi",
+            "correct": false,
+            "count": "1,285",
+            "percent": "12.23%"
+          },
+          {
+            "id": 251777,
+            "text": "Illinois",
+            "correct": false,
+            "count": "848",
+            "percent": "8.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/11",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 8376,
+        "incorrect_answers": 2133,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 118211,
+        "text": "Which of these iconic roles won an Emmy for their portrayer?",
+        "question_number": 12,
+        "eliminated": "3,906",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "5,409",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 251789,
+            "text": "Dr. Melfi",
+            "correct": false,
+            "count": "1,144",
+            "percent": "12.8%"
+          },
+          {
+            "id": 251790,
+            "text": "Jessica Fletcher",
+            "correct": false,
+            "count": "2,385",
+            "percent": "26.68%"
+          },
+          {
+            "id": 251791,
+            "text": "Olivia Benson",
+            "correct": true,
+            "count": "5,409",
+            "percent": "60.52%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/12",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 5409,
+        "incorrect_answers": 3529,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 118227,
+        "text": "Of these Olympic sports, which was the first to award competition medals?",
+        "question_number": 13,
+        "eliminated": "4,252",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,157",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 251813,
+            "text": "Ski jumping",
+            "correct": true,
+            "count": "1,157",
+            "percent": "21.83%"
+          },
+          {
+            "id": 251817,
+            "text": "Alpine skiing",
+            "correct": false,
+            "count": "3,235",
+            "percent": "61.05%"
+          },
+          {
+            "id": 251822,
+            "text": "Freestyle skiing",
+            "correct": false,
+            "count": "907",
+            "percent": "17.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/13",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 1157,
+        "incorrect_answers": 4142,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 13,
+          "players_left": 337,
+          "players_left_formatted": "337",
+          "num_winners": 820,
+          "num_winners_formatted": "820",
+          "prize": 1.73,
+          "prize_formatted": "$1.73",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 118244,
+        "text": "Which countryâs current flag has the fewest colors?",
+        "question_number": 14,
+        "eliminated": "54",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "283",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 251838,
+            "text": "Norway",
+            "correct": false,
+            "count": "20",
+            "percent": "6.02%"
+          },
+          {
+            "id": 251842,
+            "text": "Afghanistan",
+            "correct": false,
+            "count": "29",
+            "percent": "8.73%"
+          },
+          {
+            "id": 251848,
+            "text": "Ukraine",
+            "correct": true,
+            "count": "283",
+            "percent": "85.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/14",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 283,
+        "incorrect_answers": 49,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 118260,
+        "text": "Who is the only non-royal person to decline an offer to be king of England?",
+        "question_number": 15,
+        "eliminated": "42",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "241",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 251863,
+            "text": "Thomas Becket",
+            "correct": false,
+            "count": "9",
+            "percent": "3.2%"
+          },
+          {
+            "id": 251869,
+            "text": "Oliver Cromwell",
+            "correct": true,
+            "count": "241",
+            "percent": "85.77%"
+          },
+          {
+            "id": 251877,
+            "text": "Duke of Wellington",
+            "correct": false,
+            "count": "31",
+            "percent": "11.03%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/15",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 241,
+        "incorrect_answers": 40,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 118276,
+        "text": "According to the UN, which of these countries will be more populous than the US in 30 years?",
+        "question_number": 16,
+        "eliminated": "101",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "140",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 251888,
+            "text": "Japan",
+            "correct": false,
+            "count": "51",
+            "percent": "21.25%"
+          },
+          {
+            "id": 251891,
+            "text": "Brazil",
+            "correct": false,
+            "count": "49",
+            "percent": "20.42%"
+          },
+          {
+            "id": 251896,
+            "text": "Nigeria",
+            "correct": true,
+            "count": "140",
+            "percent": "58.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/16",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 140,
+        "incorrect_answers": 100,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 118295,
+        "text": "Which of these Shakespeare characters was in a play that was published first?",
+        "question_number": 17,
+        "eliminated": "86",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "54",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 251911,
+            "text": "Ophelia",
+            "correct": true,
+            "count": "54",
+            "percent": "38.57%"
+          },
+          {
+            "id": 251917,
+            "text": "Desdemona",
+            "correct": false,
+            "count": "55",
+            "percent": "39.29%"
+          },
+          {
+            "id": 251925,
+            "text": "Lady Macbeth",
+            "correct": false,
+            "count": "31",
+            "percent": "22.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/17",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 54,
+        "incorrect_answers": 86,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 17,
+          "players_left": 19,
+          "players_left_formatted": "19",
+          "num_winners": 35,
+          "num_winners_formatted": "35",
+          "prize": 55.56,
+          "prize_formatted": "$55.56",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 118308,
+        "text": "Which of these is NOT the capital of a state named after a European king?",
+        "question_number": 18,
+        "eliminated": "15",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "4",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 251934,
+            "text": "Baton Rouge",
+            "correct": false,
+            "count": "1",
+            "percent": "5.26%"
+          },
+          {
+            "id": 251936,
+            "text": "Columbia",
+            "correct": false,
+            "count": "14",
+            "percent": "73.68%"
+          },
+          {
+            "id": 251951,
+            "text": "Providence",
+            "correct": true,
+            "count": "4",
+            "percent": "21.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/18",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 4,
+        "incorrect_answers": 15,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 118326,
+        "text": "Outside of Alaska, the highest mountain in the US is in which state?",
+        "question_number": 19,
+        "eliminated": "0",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "4",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 251963,
+            "text": "California",
+            "correct": true,
+            "count": "4",
+            "percent": "100.0%"
+          },
+          {
+            "id": 251967,
+            "text": "Colorado",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 251972,
+            "text": "Washington",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/19",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 4,
+        "incorrect_answers": 0,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 118340,
+        "text": "Which of these real-life people did Meryl Streep portray first in a film?",
+        "question_number": 20,
+        "eliminated": "3",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "1",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 251984,
+            "text": "Margaret Thatcher",
+            "correct": false,
+            "count": "1",
+            "percent": "25.0%"
+          },
+          {
+            "id": 251985,
+            "text": "Florence Foster Jenkins",
+            "correct": false,
+            "count": "2",
+            "percent": "50.0%"
+          },
+          {
+            "id": 251986,
+            "text": "Julia Child",
+            "correct": true,
+            "count": "1",
+            "percent": "25.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/20",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 1,
+        "incorrect_answers": 3,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 118355,
+        "text": "Which of these NBA franchises are based farthest apart from each other?",
+        "question_number": 21,
+        "eliminated": "0",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 252005,
+            "text": "Trail Blazers / Knicks",
+            "correct": true,
+            "count": "1",
+            "percent": "100.0%"
+          },
+          {
+            "id": 252006,
+            "text": "Lakers / Raptors",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 252007,
+            "text": "Kings / Hawks",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-11/1/21",
+        "game_link": "/us/game/2019-06-11/1",
+        "correct_answers": 1,
+        "incorrect_answers": 0,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 21,
+          "players_left": 0,
+          "players_left_formatted": "0",
+          "num_winners": 1,
+          "num_winners_formatted": "1",
+          "prize": 1500.0,
+          "prize_formatted": "$1,500",
+          "currency": "$"
+        },
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 193,
+        "game_id": 112414,
+        "question": "What's the worst summer fashion faux pas?",
+        "results": [
+          {
+            "id": 1190,
+            "display_count": "24",
+            "vote_count": 26614,
+            "text": "Fanny pack"
+          },
+          {
+            "id": 1177,
+            "display_count": "9",
+            "vote_count": 9378,
+            "text": "Flip-flops"
+          },
+          {
+            "id": 1183,
+            "display_count": "67",
+            "vote_count": 73679,
+            "text": "Socks and sandals"
+          }
+        ],
+        "created_at": "2019-06-12T01:04:25Z"
+      },
+      {
+        "id": 186,
+        "game_id": 112414,
+        "question": "What Super Smash Bros. character should Nintendo add next?",
+        "results": [
+          {
+            "id": 1134,
+            "display_count": "19",
+            "vote_count": 13511,
+            "text": "Goose"
+          },
+          {
+            "id": 1140,
+            "display_count": "36",
+            "vote_count": 25799,
+            "text": "Minions"
+          },
+          {
+            "id": 1130,
+            "display_count": "46",
+            "vote_count": 33082,
+            "text": "Waluigi"
+          }
+        ],
+        "created_at": "2019-06-12T01:03:56Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 9,
+        "players_left": 14109,
+        "players_left_formatted": "14,109",
+        "num_winners": 3909,
+        "num_winners_formatted": "3,909",
+        "prize": 0.14,
+        "prize_formatted": "$0.14",
+        "currency": "$"
+      },
+      {
+        "round_number": 13,
+        "players_left": 337,
+        "players_left_formatted": "337",
+        "num_winners": 820,
+        "num_winners_formatted": "820",
+        "prize": 1.73,
+        "prize_formatted": "$1.73",
+        "currency": "$"
+      },
+      {
+        "round_number": 17,
+        "players_left": 19,
+        "players_left_formatted": "19",
+        "num_winners": 35,
+        "num_winners_formatted": "35",
+        "prize": 55.56,
+        "prize_formatted": "$55.56",
+        "currency": "$"
+      },
+      {
+        "round_number": 21,
+        "players_left": 0,
+        "players_left_formatted": "0",
+        "num_winners": 1,
+        "num_winners_formatted": "1",
+        "prize": 1500.0,
+        "prize_formatted": "$1,500",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "5,410.46",
+    "total_checkpoint_winners": "4,765",
+    "smallest_checkpoint_prize": "$0.14",
+    "largest_checkpoint_prize": "$1,500",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 112595,
+    "show_id": 11274,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-06-12T01:30:00Z",
+    "direct_link": "/us/game/2019-06-11/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "12,944",
+      "currency": "$",
+      "average_prize": "0.08"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-06-11/2/1",
+        "question_number": 1,
+        "text": "Warning Sound",
+        "answer": [
+          "AIR",
+          "HORN"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "R"
+        ],
+        "game_link": "/us/game/2019-06-11/2",
+        "eliminated": 7036,
+        "advancing": 105310,
+        "correct_answers": 105310,
+        "incorrect_answers": 7036
+      },
+      {
+        "direct_link": "/us/game/2019-06-11/2/2",
+        "question_number": 2,
+        "text": "Action Sport",
+        "answer": [
+          "SKATEBOARDING"
+        ],
+        "initial_letters": [
+          "K"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "S"
+        ],
+        "game_link": "/us/game/2019-06-11/2",
+        "eliminated": 23136,
+        "advancing": 82516,
+        "correct_answers": 82516,
+        "incorrect_answers": 23136
+      },
+      {
+        "direct_link": "/us/game/2019-06-11/2/3",
+        "question_number": 3,
+        "text": "Hot TV Show",
+        "answer": [
+          "CHERNOBYL"
+        ],
+        "initial_letters": [
+          "C"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-06-11/2",
+        "eliminated": 16954,
+        "advancing": 66485,
+        "correct_answers": 66485,
+        "incorrect_answers": 16954
+      },
+      {
+        "direct_link": "/us/game/2019-06-11/2/4",
+        "question_number": 4,
+        "text": "Unflattering Garb",
+        "answer": [
+          "HOSPITAL",
+          "GOWN"
+        ],
+        "initial_letters": [
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "P"
+        ],
+        "game_link": "/us/game/2019-06-11/2",
+        "eliminated": 18986,
+        "advancing": 48088,
+        "correct_answers": 48088,
+        "incorrect_answers": 18986
+      },
+      {
+        "direct_link": "/us/game/2019-06-11/2/5",
+        "question_number": 5,
+        "text": "Life Story",
+        "answer": [
+          "AUTOBIOGRAPHY"
+        ],
+        "initial_letters": [
+          "B"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "U"
+        ],
+        "game_link": "/us/game/2019-06-11/2",
+        "eliminated": 2646,
+        "advancing": 46292,
+        "correct_answers": 46292,
+        "incorrect_answers": 2646
+      },
+      {
+        "direct_link": "/us/game/2019-06-11/2/6",
+        "question_number": 6,
+        "text": "Film Financier",
+        "answer": [
+          "EXECUTIVE",
+          "PRODUCER"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "P",
+          "R"
+        ],
+        "game_link": "/us/game/2019-06-11/2",
+        "eliminated": 8523,
+        "advancing": 37892,
+        "correct_answers": 37892,
+        "incorrect_answers": 8523
+      },
+      {
+        "direct_link": "/us/game/2019-06-11/2/7",
+        "question_number": 7,
+        "text": "Dog Breed",
+        "answer": [
+          "DOBERMAN",
+          "PINSCHER"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "E"
+        ],
+        "game_link": "/us/game/2019-06-11/2",
+        "eliminated": 10479,
+        "advancing": 27942,
+        "correct_answers": 27942,
+        "incorrect_answers": 10479
+      },
+      {
+        "direct_link": "/us/game/2019-06-11/2/8",
+        "question_number": 8,
+        "text": "Old School Compliment",
+        "answer": [
+          "YOU'RE",
+          "THE",
+          "BEE'S",
+          "KNEES"
+        ],
+        "initial_letters": [
+          "''",
+          " ",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-06-11/2",
+        "eliminated": 1103,
+        "advancing": 27868,
+        "correct_answers": 27868,
+        "incorrect_answers": 1103
+      },
+      {
+        "direct_link": "/us/game/2019-06-11/2/9",
+        "question_number": 9,
+        "text": "Songwriterâs Assistant",
+        "answer": [
+          "RHYMING",
+          "DICTIONARY"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "R"
+        ],
+        "game_link": "/us/game/2019-06-11/2",
+        "eliminated": 7090,
+        "advancing": 20875,
+        "correct_answers": 20875,
+        "incorrect_answers": 7090
+      },
+      {
+        "direct_link": "/us/game/2019-06-11/2/10",
+        "question_number": 10,
+        "text": "Breakfast Helper",
+        "answer": [
+          "BUTTERMILK",
+          "PANCAKE",
+          "MIX"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "X"
+        ],
+        "game_link": "/us/game/2019-06-11/2",
+        "eliminated": 4583,
+        "advancing": 17377,
+        "correct_answers": 17377,
+        "incorrect_answers": 4583
+      },
+      {
+        "direct_link": "/us/game/2019-06-11/2/11",
+        "question_number": 11,
+        "text": "â80s Hit Song",
+        "answer": [
+          "KARMA",
+          "CHAMELEON"
+        ],
+        "initial_letters": [
+          " ",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "K"
+        ],
+        "game_link": "/us/game/2019-06-11/2",
+        "eliminated": 2104,
+        "advancing": 16233,
+        "correct_answers": 16233,
+        "incorrect_answers": 2104
+      },
+      {
+        "direct_link": "/us/game/2019-06-11/2/12",
+        "question_number": 12,
+        "text": "Graduation Combo",
+        "answer": [
+          "MORTARBOARD",
+          "&",
+          "GOWN"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "T",
+          "W"
+        ],
+        "game_link": "/us/game/2019-06-11/2",
+        "eliminated": 3662,
+        "advancing": 12944,
+        "correct_answers": 12944,
+        "incorrect_answers": 3662
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

@@ -1,0 +1,1464 @@
+[
+  {
+    "id": 50589,
+    "show_id": 9502,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-02-07T00:00:00Z",
+    "direct_link": "/us/game/2019-02-06/1",
+    "time": " 7:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,453",
+      "currency": "$",
+      "average_prize": "0.41"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 45793,
+        "text": "What is the nickname of the NCAA Division I basketball tournament?",
+        "question_number": 1,
+        "eliminated": "-3,871",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "120,708",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137269,
+            "text": "February Fever",
+            "correct": false,
+            "count": "2,014",
+            "percent": "1.72%"
+          },
+          {
+            "id": 137272,
+            "text": "March Madness",
+            "correct": true,
+            "count": "113,906",
+            "percent": "97.49%"
+          },
+          {
+            "id": 137278,
+            "text": "April Agitation",
+            "correct": false,
+            "count": "917",
+            "percent": "0.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/1/1",
+        "game_link": "/us/game/2019-02-06/1",
+        "correct_answers": 113906,
+        "incorrect_answers": 2931,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45802,
+        "text": "What was the real first name of the baseball legend known as âCharlie Hustleâ?",
+        "question_number": 2,
+        "eliminated": "2,427",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "118,344",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137300,
+            "text": "Huckleberry",
+            "correct": false,
+            "count": "17,410",
+            "percent": "15.0%"
+          },
+          {
+            "id": 137304,
+            "text": "Charlotte",
+            "correct": false,
+            "count": "11,935",
+            "percent": "10.28%"
+          },
+          {
+            "id": 137307,
+            "text": "Pete",
+            "correct": true,
+            "count": "86,724",
+            "percent": "74.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/1/2",
+        "game_link": "/us/game/2019-02-06/1",
+        "correct_answers": 86724,
+        "incorrect_answers": 29345,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45810,
+        "text": "This yearâs NFL MVP played for what team?",
+        "question_number": 3,
+        "eliminated": "4,647",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "113,784",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137321,
+            "text": "Los Angeles Rams",
+            "correct": false,
+            "count": "25,319",
+            "percent": "22.89%"
+          },
+          {
+            "id": 137324,
+            "text": "New Orleans Saints",
+            "correct": false,
+            "count": "11,697",
+            "percent": "10.57%"
+          },
+          {
+            "id": 137329,
+            "text": "Kansas City Chiefs",
+            "correct": true,
+            "count": "73,615",
+            "percent": "66.54%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/1/3",
+        "game_link": "/us/game/2019-02-06/1",
+        "correct_answers": 73615,
+        "incorrect_answers": 37016,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45818,
+        "text": "Which of these players is NOT a team captain for the NBA All-Star Game?",
+        "question_number": 4,
+        "eliminated": "6,139",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "107,804",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137349,
+            "text": "Giannis Antetokounmpo",
+            "correct": false,
+            "count": "28,415",
+            "percent": "27.66%"
+          },
+          {
+            "id": 137351,
+            "text": "LeBron James",
+            "correct": false,
+            "count": "13,522",
+            "percent": "13.16%"
+          },
+          {
+            "id": 137355,
+            "text": "Kyrie Irving",
+            "correct": true,
+            "count": "60,778",
+            "percent": "59.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/1/4",
+        "game_link": "/us/game/2019-02-06/1",
+        "correct_answers": 60778,
+        "incorrect_answers": 41937,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45827,
+        "text": "Which of these running backs eclipsed 2,000 yards from scrimmage as an NFL rookie?",
+        "question_number": 5,
+        "eliminated": "15,420",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "92,627",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137374,
+            "text": "Chris Johnson",
+            "correct": false,
+            "count": "17,336",
+            "percent": "17.43%"
+          },
+          {
+            "id": 137378,
+            "text": "Saquon Barkley",
+            "correct": true,
+            "count": "51,621",
+            "percent": "51.9%"
+          },
+          {
+            "id": 137380,
+            "text": "Adrian Peterson",
+            "correct": false,
+            "count": "30,497",
+            "percent": "30.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/1/5",
+        "game_link": "/us/game/2019-02-06/1",
+        "correct_answers": 51621,
+        "incorrect_answers": 47833,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45833,
+        "text": "Which city has an MLB franchise that plays in a stadium that shares the name of the team?",
+        "question_number": 6,
+        "eliminated": "43,417",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "50,116",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137392,
+            "text": "Washington DC",
+            "correct": true,
+            "count": "49,290",
+            "percent": "58.96%"
+          },
+          {
+            "id": 137394,
+            "text": "Chicago",
+            "correct": false,
+            "count": "19,048",
+            "percent": "22.78%"
+          },
+          {
+            "id": 137396,
+            "text": "Boston",
+            "correct": false,
+            "count": "15,262",
+            "percent": "18.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/1/6",
+        "game_link": "/us/game/2019-02-06/1",
+        "correct_answers": 49290,
+        "incorrect_answers": 34310,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45841,
+        "text": "Which of these NBA players has had a longer streak of 30-point games than James Harden?",
+        "question_number": 7,
+        "eliminated": "17,761",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "35,346",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137416,
+            "text": "Michael Jordan",
+            "correct": false,
+            "count": "4,967",
+            "percent": "9.64%"
+          },
+          {
+            "id": 137422,
+            "text": "Kobe Bryant",
+            "correct": false,
+            "count": "11,225",
+            "percent": "21.78%"
+          },
+          {
+            "id": 137427,
+            "text": "Wilt Chamberlain",
+            "correct": true,
+            "count": "35,346",
+            "percent": "68.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/1/7",
+        "game_link": "/us/game/2019-02-06/1",
+        "correct_answers": 35346,
+        "incorrect_answers": 16192,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45849,
+        "text": "What team recently hired the first female assistant GM in NBA history?",
+        "question_number": 8,
+        "eliminated": "22,405",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "14,017",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137438,
+            "text": "Golden State Warriors",
+            "correct": false,
+            "count": "3,468",
+            "percent": "9.69%"
+          },
+          {
+            "id": 137442,
+            "text": "San Antonio Spurs",
+            "correct": false,
+            "count": "18,299",
+            "percent": "51.14%"
+          },
+          {
+            "id": 137445,
+            "text": "Indiana Pacers",
+            "correct": true,
+            "count": "14,017",
+            "percent": "39.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/1/8",
+        "game_link": "/us/game/2019-02-06/1",
+        "correct_answers": 14017,
+        "incorrect_answers": 21767,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45856,
+        "text": "Who was the last goaltender to win the Hart Trophy for NHL MVP?",
+        "question_number": 9,
+        "eliminated": "7,415",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "9,242",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137461,
+            "text": "Jose Theodore",
+            "correct": false,
+            "count": "1,519",
+            "percent": "9.26%"
+          },
+          {
+            "id": 137465,
+            "text": "Carey Price",
+            "correct": true,
+            "count": "9,242",
+            "percent": "56.36%"
+          },
+          {
+            "id": 137469,
+            "text": "Dominik Hasek",
+            "correct": false,
+            "count": "5,638",
+            "percent": "34.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/1/9",
+        "game_link": "/us/game/2019-02-06/1",
+        "correct_answers": 9242,
+        "incorrect_answers": 7157,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45864,
+        "text": "Which of these golfers won the same major three years in a row?",
+        "question_number": 10,
+        "eliminated": "6,104",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,085",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137486,
+            "text": "Peter Thomson",
+            "correct": true,
+            "count": "4,085",
+            "percent": "42.22%"
+          },
+          {
+            "id": 137488,
+            "text": "Lee Trevino",
+            "correct": false,
+            "count": "1,561",
+            "percent": "16.13%"
+          },
+          {
+            "id": 137493,
+            "text": "Tiger Woods",
+            "correct": false,
+            "count": "4,029",
+            "percent": "41.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/1/10",
+        "game_link": "/us/game/2019-02-06/1",
+        "correct_answers": 4085,
+        "incorrect_answers": 5590,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45871,
+        "text": "What NASCAR racer is second only to Richard Petty in career wins?",
+        "question_number": 11,
+        "eliminated": "1,790",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "3,593",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137508,
+            "text": "Jimmie Johnson",
+            "correct": false,
+            "count": "976",
+            "percent": "18.86%"
+          },
+          {
+            "id": 137511,
+            "text": "David Pearson",
+            "correct": true,
+            "count": "3,593",
+            "percent": "69.44%"
+          },
+          {
+            "id": 137515,
+            "text": "Dale Earnhardt",
+            "correct": false,
+            "count": "605",
+            "percent": "11.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/1/11",
+        "game_link": "/us/game/2019-02-06/1",
+        "correct_answers": 3593,
+        "incorrect_answers": 1581,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45879,
+        "text": "Which of these MLB pitchers has NOT thrown a wild pitch in the last two years?",
+        "question_number": 12,
+        "eliminated": "1,510",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,453",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137532,
+            "text": "Jacob deGrom",
+            "correct": false,
+            "count": "496",
+            "percent": "13.32%"
+          },
+          {
+            "id": 137534,
+            "text": "Bartolo Colon",
+            "correct": false,
+            "count": "774",
+            "percent": "20.79%"
+          },
+          {
+            "id": 137536,
+            "text": "Kyle Hendricks",
+            "correct": true,
+            "count": "2,453",
+            "percent": "65.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/1/12",
+        "game_link": "/us/game/2019-02-06/1",
+        "correct_answers": 2453,
+        "incorrect_answers": 1270,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 50709,
+    "show_id": 9561,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "75,000",
+    "currency": "$",
+    "start_time": "2019-02-07T02:00:00Z",
+    "direct_link": "/us/game/2019-02-06/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "10,363",
+      "currency": "$",
+      "average_prize": "7.24"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Gluten Free",
+        "slug": "gluten-free"
+      },
+      {
+        "name": "The Lego Movie 2",
+        "slug": "the-lego-movie-2"
+      }
+    ],
+    "questions": [
+      {
+        "id": 45889,
+        "text": "A popular song from âThe LEGO Movieâ asserts that everything is what?",
+        "question_number": 1,
+        "eliminated": "-9,991",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "554,634",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137562,
+            "text": "Awesome",
+            "correct": true,
+            "count": "525,671",
+            "percent": "97.91%"
+          },
+          {
+            "id": 137563,
+            "text": "Gluten-free",
+            "correct": false,
+            "count": "4,135",
+            "percent": "0.77%"
+          },
+          {
+            "id": 137564,
+            "text": "Password-protected",
+            "correct": false,
+            "count": "7,094",
+            "percent": "1.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/2/1",
+        "game_link": "/us/game/2019-02-06/2",
+        "correct_answers": 525671,
+        "incorrect_answers": 11229,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45895,
+        "text": "What catchphrase was popularized by comedian Tiffany Haddish?",
+        "question_number": 2,
+        "eliminated": "24,055",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "531,083",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137580,
+            "text": "She ready!",
+            "correct": true,
+            "count": "408,419",
+            "percent": "77.41%"
+          },
+          {
+            "id": 137581,
+            "text": "Youâve got mail!",
+            "correct": false,
+            "count": "83,288",
+            "percent": "15.79%"
+          },
+          {
+            "id": 137582,
+            "text": "It's a-me, Mario!",
+            "correct": false,
+            "count": "35,870",
+            "percent": "6.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/2/2",
+        "game_link": "/us/game/2019-02-06/2",
+        "correct_answers": 408419,
+        "incorrect_answers": 119158,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45903,
+        "text": "What is the name of large LEGO pieces designed for smaller kids?",
+        "question_number": 3,
+        "eliminated": "24,010",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "508,379",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137604,
+            "text": "PINTO",
+            "correct": false,
+            "count": "30,202",
+            "percent": "6.0%"
+          },
+          {
+            "id": 137605,
+            "text": "DUPLO",
+            "correct": true,
+            "count": "444,509",
+            "percent": "88.33%"
+          },
+          {
+            "id": 137606,
+            "text": "BILBO",
+            "correct": false,
+            "count": "28,526",
+            "percent": "5.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/2/3",
+        "game_link": "/us/game/2019-02-06/2",
+        "correct_answers": 444509,
+        "incorrect_answers": 58728,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45912,
+        "text": "The members of The Lonely Island worked together on what TV show?",
+        "question_number": 4,
+        "eliminated": "61,342",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "447,939",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137631,
+            "text": "Mad TV",
+            "correct": false,
+            "count": "118,546",
+            "percent": "24.63%"
+          },
+          {
+            "id": 137632,
+            "text": "Saturday Night Live",
+            "correct": true,
+            "count": "280,769",
+            "percent": "58.32%"
+          },
+          {
+            "id": 137633,
+            "text": "In Living Color",
+            "correct": false,
+            "count": "82,088",
+            "percent": "17.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/2/4",
+        "game_link": "/us/game/2019-02-06/2",
+        "correct_answers": 280769,
+        "incorrect_answers": 200634,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45919,
+        "text": "Which of these is NOT a profession held by a Chris Pratt movie character?",
+        "question_number": 5,
+        "eliminated": "91,209",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "360,324",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137652,
+            "text": "Pet detective",
+            "correct": true,
+            "count": "265,522",
+            "percent": "62.83%"
+          },
+          {
+            "id": 137653,
+            "text": "Navy SEAL",
+            "correct": false,
+            "count": "45,420",
+            "percent": "10.75%"
+          },
+          {
+            "id": 137654,
+            "text": "Baseball player",
+            "correct": false,
+            "count": "111,695",
+            "percent": "26.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/2/5",
+        "game_link": "/us/game/2019-02-06/2",
+        "correct_answers": 265522,
+        "incorrect_answers": 157115,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45929,
+        "text": "The original inspiration for Batmanâs cape came from a sketch by whom?",
+        "question_number": 6,
+        "eliminated": "163,324",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "208,976",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137682,
+            "text": "Leonardo da Vinci",
+            "correct": true,
+            "count": "207,918",
+            "percent": "57.86%"
+          },
+          {
+            "id": 137684,
+            "text": "Isaac Newton",
+            "correct": false,
+            "count": "39,194",
+            "percent": "10.91%"
+          },
+          {
+            "id": 137688,
+            "text": "Galileo Galilei",
+            "correct": false,
+            "count": "112,254",
+            "percent": "31.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/2/6",
+        "game_link": "/us/game/2019-02-06/2",
+        "correct_answers": 207918,
+        "incorrect_answers": 151448,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45938,
+        "text": "LEGO bricks were invented in what country?",
+        "question_number": 7,
+        "eliminated": "73,095",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "159,223",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137708,
+            "text": "The Netherlands",
+            "correct": false,
+            "count": "53,330",
+            "percent": "23.25%"
+          },
+          {
+            "id": 137710,
+            "text": "Denmark",
+            "correct": true,
+            "count": "159,223",
+            "percent": "69.42%"
+          },
+          {
+            "id": 137711,
+            "text": "Australia",
+            "correct": false,
+            "count": "16,805",
+            "percent": "7.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/2/7",
+        "game_link": "/us/game/2019-02-06/2",
+        "correct_answers": 159223,
+        "incorrect_answers": 70135,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45944,
+        "text": "The name âLEGOâ is derived from what two Danish words?",
+        "question_number": 8,
+        "eliminated": "82,705",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "88,860",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137725,
+            "text": "Happy / bricks",
+            "correct": false,
+            "count": "33,700",
+            "percent": "19.96%"
+          },
+          {
+            "id": 137728,
+            "text": "Build / fun",
+            "correct": false,
+            "count": "46,257",
+            "percent": "27.4%"
+          },
+          {
+            "id": 137730,
+            "text": "Play / well",
+            "correct": true,
+            "count": "88,860",
+            "percent": "52.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/2/8",
+        "game_link": "/us/game/2019-02-06/2",
+        "correct_answers": 88860,
+        "incorrect_answers": 79957,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45953,
+        "text": "Which of these fashion designers is famous for popularizing the âpunkâ look?",
+        "question_number": 9,
+        "eliminated": "51,977",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "50,282",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137754,
+            "text": "Betsey Johnson",
+            "correct": false,
+            "count": "38,928",
+            "percent": "38.52%"
+          },
+          {
+            "id": 137755,
+            "text": "Tom Ford",
+            "correct": false,
+            "count": "11,843",
+            "percent": "11.72%"
+          },
+          {
+            "id": 137756,
+            "text": "Vivienne Westwood",
+            "correct": true,
+            "count": "50,282",
+            "percent": "49.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/2/9",
+        "game_link": "/us/game/2019-02-06/2",
+        "correct_answers": 50282,
+        "incorrect_answers": 50771,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45961,
+        "text": "Who supplied key building material for the construction of the original Yankee Stadium?",
+        "question_number": 10,
+        "eliminated": "31,414",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "29,065",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137774,
+            "text": "Howard Hughes",
+            "correct": false,
+            "count": "11,928",
+            "percent": "20.24%"
+          },
+          {
+            "id": 137777,
+            "text": "Henry Ford",
+            "correct": false,
+            "count": "17,951",
+            "percent": "30.45%"
+          },
+          {
+            "id": 137780,
+            "text": "Thomas Edison",
+            "correct": true,
+            "count": "29,065",
+            "percent": "49.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/2/10",
+        "game_link": "/us/game/2019-02-06/2",
+        "correct_answers": 29065,
+        "incorrect_answers": 29879,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45967,
+        "text": "The Guinness World Record for largest LEGO structure features what landmark?",
+        "question_number": 11,
+        "eliminated": "9,029",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "26,742",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137796,
+            "text": "Tower Bridge",
+            "correct": true,
+            "count": "26,742",
+            "percent": "75.94%"
+          },
+          {
+            "id": 137798,
+            "text": "Empire State Building",
+            "correct": false,
+            "count": "2,285",
+            "percent": "6.49%"
+          },
+          {
+            "id": 137800,
+            "text": "Taj Mahal",
+            "correct": false,
+            "count": "6,188",
+            "percent": "17.57%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/2/11",
+        "game_link": "/us/game/2019-02-06/2",
+        "correct_answers": 26742,
+        "incorrect_answers": 8473,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45975,
+        "text": "Which of these authors wrote far more novels than the other two?",
+        "question_number": 12,
+        "eliminated": "7,004",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "21,124",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137820,
+            "text": "Alexandre Dumas",
+            "correct": true,
+            "count": "21,124",
+            "percent": "76.14%"
+          },
+          {
+            "id": 137823,
+            "text": "Jane Austen",
+            "correct": false,
+            "count": "1,146",
+            "percent": "4.13%"
+          },
+          {
+            "id": 137831,
+            "text": "Charles Dickens",
+            "correct": false,
+            "count": "5,472",
+            "percent": "19.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/2/12",
+        "game_link": "/us/game/2019-02-06/2",
+        "correct_answers": 21124,
+        "incorrect_answers": 6618,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45983,
+        "text": "What is the name of the first-ever LEGO computer game released in the US?",
+        "question_number": 13,
+        "eliminated": "2,020",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "21,375",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137844,
+            "text": "Lego Island",
+            "correct": true,
+            "count": "21,375",
+            "percent": "92.63%"
+          },
+          {
+            "id": 137847,
+            "text": "Lego Racers",
+            "correct": false,
+            "count": "467",
+            "percent": "2.02%"
+          },
+          {
+            "id": 137852,
+            "text": "Lego Creator",
+            "correct": false,
+            "count": "1,233",
+            "percent": "5.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/2/13",
+        "game_link": "/us/game/2019-02-06/2",
+        "correct_answers": 21375,
+        "incorrect_answers": 1700,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 45992,
+        "text": "Which of these classic â80s songs repeatedly mentions a 1909 Nobel Prize winner?",
+        "question_number": 14,
+        "eliminated": "4,267",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "17,387",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137870,
+            "text": "We Built This City",
+            "correct": true,
+            "count": "17,387",
+            "percent": "84.46%"
+          },
+          {
+            "id": 137875,
+            "text": "We Didnât Start the Fire",
+            "correct": false,
+            "count": "502",
+            "percent": "2.44%"
+          },
+          {
+            "id": 137881,
+            "text": "The Final Countdown",
+            "correct": false,
+            "count": "2,696",
+            "percent": "13.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/2/14",
+        "game_link": "/us/game/2019-02-06/2",
+        "correct_answers": 17387,
+        "incorrect_answers": 3198,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46000,
+        "text": "What is the newest color introduced to the LEGO brick palette?",
+        "question_number": 15,
+        "eliminated": "8,174",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "10,363",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 137893,
+            "text": "Bright Violet",
+            "correct": false,
+            "count": "3,884",
+            "percent": "21.38%"
+          },
+          {
+            "id": 137897,
+            "text": "Vibrant Coral",
+            "correct": true,
+            "count": "10,363",
+            "percent": "57.03%"
+          },
+          {
+            "id": 137902,
+            "text": "Light Nougat",
+            "correct": false,
+            "count": "3,923",
+            "percent": "21.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-06/2/15",
+        "game_link": "/us/game/2019-02-06/2",
+        "correct_answers": 10363,
+        "incorrect_answers": 7807,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 50852,
+    "show_id": 9587,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-02-07T02:20:00Z",
+    "direct_link": "/us/game/2019-02-06/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "45.94"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "50.21"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "52.83"
+        },
+        {
+          "number": "7,630",
+          "amount": "0.10",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.10153281802698808,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:20 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-02-06/3/1",
+        "question_number": 1,
+        "text": "Kids' Card Game",
+        "answer": [
+          "GO",
+          "FISH"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "S"
+        ],
+        "game_link": "/us/game/2019-02-06/3",
+        "eliminated": 12153,
+        "advancing": 220043,
+        "correct_answers": 220043,
+        "incorrect_answers": 12153
+      },
+      {
+        "direct_link": "/us/game/2019-02-06/3/2",
+        "question_number": 2,
+        "text": "Big River",
+        "answer": [
+          "AMAZON"
+        ],
+        "initial_letters": [
+          "A"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "N"
+        ],
+        "game_link": "/us/game/2019-02-06/3",
+        "eliminated": 9092,
+        "advancing": 211286,
+        "correct_answers": 211286,
+        "incorrect_answers": 9092
+      },
+      {
+        "direct_link": "/us/game/2019-02-06/3/3",
+        "question_number": 3,
+        "text": "Vegetable",
+        "answer": [
+          "BROCCOLI"
+        ],
+        "initial_letters": [
+          "B"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "O"
+        ],
+        "game_link": "/us/game/2019-02-06/3",
+        "eliminated": 5449,
+        "advancing": 205930,
+        "correct_answers": 205930,
+        "incorrect_answers": 5449
+      },
+      {
+        "direct_link": "/us/game/2019-02-06/3/4",
+        "question_number": 4,
+        "text": "Bug",
+        "answer": [
+          "BUMBLEBEE"
+        ],
+        "initial_letters": [
+          "M"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "L"
+        ],
+        "game_link": "/us/game/2019-02-06/3",
+        "eliminated": 31228,
+        "advancing": 174810,
+        "correct_answers": 174810,
+        "incorrect_answers": 31228
+      },
+      {
+        "direct_link": "/us/game/2019-02-06/3/5",
+        "question_number": 5,
+        "text": "Sports Event",
+        "answer": [
+          "KENTUCKY",
+          "DERBY"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "T"
+        ],
+        "game_link": "/us/game/2019-02-06/3",
+        "eliminated": 68748,
+        "advancing": 107613,
+        "correct_answers": 107613,
+        "incorrect_answers": 68748
+      },
+      {
+        "direct_link": "/us/game/2019-02-06/3/6",
+        "question_number": 6,
+        "text": "British Snack",
+        "answer": [
+          "SCONES",
+          "&",
+          "TEA"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "N"
+        ],
+        "game_link": "/us/game/2019-02-06/3",
+        "eliminated": 22817,
+        "advancing": 88046,
+        "correct_answers": 88046,
+        "incorrect_answers": 22817
+      },
+      {
+        "direct_link": "/us/game/2019-02-06/3/7",
+        "question_number": 7,
+        "text": "Historical Figure",
+        "answer": [
+          "CONFUCIUS"
+        ],
+        "initial_letters": [
+          "I"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "N"
+        ],
+        "game_link": "/us/game/2019-02-06/3",
+        "eliminated": 30152,
+        "advancing": 59200,
+        "correct_answers": 59200,
+        "incorrect_answers": 30152
+      },
+      {
+        "direct_link": "/us/game/2019-02-06/3/8",
+        "question_number": 8,
+        "text": "Trendy Question",
+        "answer": [
+          "DOES",
+          "IT",
+          "SPARK",
+          "JOY?"
+        ],
+        "initial_letters": [
+          " ",
+          "?",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "T",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-02-06/3",
+        "eliminated": 41574,
+        "advancing": 20126,
+        "correct_answers": 20126,
+        "incorrect_answers": 41574
+      },
+      {
+        "direct_link": "/us/game/2019-02-06/3/9",
+        "question_number": 9,
+        "text": "Cautionary Saying",
+        "answer": [
+          "ITâS",
+          "A",
+          "SLIPPERY",
+          "SLOPE"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "P"
+        ],
+        "game_link": "/us/game/2019-02-06/3",
+        "eliminated": 1102,
+        "advancing": 23290,
+        "correct_answers": 23290,
+        "incorrect_answers": 1102
+      },
+      {
+        "direct_link": "/us/game/2019-02-06/3/10",
+        "question_number": 10,
+        "text": "Beyonce Lyric",
+        "answer": [
+          "NOW",
+          "LETâS",
+          "GET",
+          "IN",
+          "FORMATION"
+        ],
+        "initial_letters": [
+          " ",
+          "â",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "S"
+        ],
+        "game_link": "/us/game/2019-02-06/3",
+        "eliminated": 15740,
+        "advancing": 7633,
+        "correct_answers": 7633,
+        "incorrect_answers": 15740
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

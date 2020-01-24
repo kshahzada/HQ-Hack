@@ -1,0 +1,1349 @@
+[
+  {
+    "id": 47264,
+    "show_id": 9409,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "0",
+    "currency": "$",
+    "start_time": "2019-01-29T00:00:00Z",
+    "direct_link": "/us/game/2019-01-28/1",
+    "time": " 7:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "99",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 44267,
+        "text": "Americans are estimated to bet $6 billion on what upcoming sports event?",
+        "question_number": 1,
+        "eliminated": "-746",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "112,016",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132696,
+            "text": "Super Bowl",
+            "correct": true,
+            "count": "107,635",
+            "percent": "99.28%"
+          },
+          {
+            "id": 132699,
+            "text": "Quidditch Cup",
+            "correct": false,
+            "count": "591",
+            "percent": "0.55%"
+          },
+          {
+            "id": 132703,
+            "text": "Chessboxing Finals",
+            "correct": false,
+            "count": "190",
+            "percent": "0.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/1/1",
+        "game_link": "/us/game/2019-01-28/1",
+        "correct_answers": 107635,
+        "incorrect_answers": 781,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44275,
+        "text": "What area of the baseball field typically contains the greatest number of fielders?",
+        "question_number": 2,
+        "eliminated": "3,641",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "108,453",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132720,
+            "text": "Infield",
+            "correct": true,
+            "count": "89,183",
+            "percent": "82.83%"
+          },
+          {
+            "id": 132721,
+            "text": "Outfield",
+            "correct": false,
+            "count": "17,689",
+            "percent": "16.43%"
+          },
+          {
+            "id": 132722,
+            "text": "Pitcherâs mound",
+            "correct": false,
+            "count": "801",
+            "percent": "0.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/1/2",
+        "game_link": "/us/game/2019-01-28/1",
+        "correct_answers": 89183,
+        "incorrect_answers": 18490,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44283,
+        "text": "What NBA star just requested to be traded from the New Orleans Pelicans?",
+        "question_number": 3,
+        "eliminated": "4,744",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "103,830",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132744,
+            "text": "Carmelo Anthony",
+            "correct": false,
+            "count": "16,269",
+            "percent": "15.79%"
+          },
+          {
+            "id": 132746,
+            "text": "Anthony Davis",
+            "correct": true,
+            "count": "77,871",
+            "percent": "75.58%"
+          },
+          {
+            "id": 132749,
+            "text": "Damian Lillard",
+            "correct": false,
+            "count": "8,888",
+            "percent": "8.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/1/3",
+        "game_link": "/us/game/2019-01-28/1",
+        "correct_answers": 77871,
+        "incorrect_answers": 25157,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44291,
+        "text": "In club soccer, the period of time where players are allowed to change teams is called what?",
+        "question_number": 4,
+        "eliminated": "5,658",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "98,386",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132768,
+            "text": "Trade deadline",
+            "correct": false,
+            "count": "15,511",
+            "percent": "15.92%"
+          },
+          {
+            "id": 132769,
+            "text": "Transfer window",
+            "correct": true,
+            "count": "77,833",
+            "percent": "79.9%"
+          },
+          {
+            "id": 132770,
+            "text": "SuperDraft",
+            "correct": false,
+            "count": "4,074",
+            "percent": "4.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/1/4",
+        "game_link": "/us/game/2019-01-28/1",
+        "correct_answers": 77833,
+        "incorrect_answers": 19585,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44299,
+        "text": "Which team was NOT in the most recent non-Warriors/Cavaliers NBA Finals?",
+        "question_number": 5,
+        "eliminated": "43,037",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "55,658",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132792,
+            "text": "San Antonio Spurs",
+            "correct": false,
+            "count": "20,813",
+            "percent": "23.32%"
+          },
+          {
+            "id": 132794,
+            "text": "Miami Heat",
+            "correct": false,
+            "count": "30,499",
+            "percent": "34.17%"
+          },
+          {
+            "id": 132797,
+            "text": "Oklahoma City Thunder",
+            "correct": true,
+            "count": "37,933",
+            "percent": "42.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/1/5",
+        "game_link": "/us/game/2019-01-28/1",
+        "correct_answers": 37933,
+        "incorrect_answers": 51312,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44307,
+        "text": "What NFL team won the greatest number of shutouts in a single postseason?",
+        "question_number": 6,
+        "eliminated": "35,626",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "23,109",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132816,
+            "text": "Chicago Bears",
+            "correct": true,
+            "count": "23,109",
+            "percent": "40.98%"
+          },
+          {
+            "id": 132817,
+            "text": "Baltimore Ravens",
+            "correct": false,
+            "count": "13,960",
+            "percent": "24.75%"
+          },
+          {
+            "id": 132819,
+            "text": "Pittsburgh Steelers",
+            "correct": false,
+            "count": "19,324",
+            "percent": "34.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/1/6",
+        "game_link": "/us/game/2019-01-28/1",
+        "correct_answers": 23109,
+        "incorrect_answers": 33284,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44317,
+        "text": "Before James Harden, who was the last NBA MVP to primarily shoot left-handed?",
+        "question_number": 7,
+        "eliminated": "15,083",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "10,394",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132840,
+            "text": "Steve Nash",
+            "correct": false,
+            "count": "11,132",
+            "percent": "44.57%"
+          },
+          {
+            "id": 132842,
+            "text": "David Robinson",
+            "correct": true,
+            "count": "10,394",
+            "percent": "41.61%"
+          },
+          {
+            "id": 132845,
+            "text": "Charles Barkley",
+            "correct": false,
+            "count": "3,453",
+            "percent": "13.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/1/7",
+        "game_link": "/us/game/2019-01-28/1",
+        "correct_answers": 10394,
+        "incorrect_answers": 14585,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44323,
+        "text": "Who was the defending Australian Open champion eliminated early in this yearâs tournament?",
+        "question_number": 8,
+        "eliminated": "5,634",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "6,123",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132864,
+            "text": "Simona Halep",
+            "correct": false,
+            "count": "2,978",
+            "percent": "25.9%"
+          },
+          {
+            "id": 132866,
+            "text": "Sloane Stephens",
+            "correct": false,
+            "count": "2,398",
+            "percent": "20.85%"
+          },
+          {
+            "id": 132870,
+            "text": "Caroline Wozniacki",
+            "correct": true,
+            "count": "6,123",
+            "percent": "53.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/1/8",
+        "game_link": "/us/game/2019-01-28/1",
+        "correct_answers": 6123,
+        "incorrect_answers": 5376,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44331,
+        "text": "Before Mariano Rivera, who received the highest percentage of Baseball Hall of Fame votes?",
+        "question_number": 9,
+        "eliminated": "2,753",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,234",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132888,
+            "text": "Cal Ripken Jr.",
+            "correct": false,
+            "count": "2,097",
+            "percent": "30.3%"
+          },
+          {
+            "id": 132890,
+            "text": "Babe Ruth",
+            "correct": false,
+            "count": "589",
+            "percent": "8.51%"
+          },
+          {
+            "id": 132893,
+            "text": "Ken Griffey Jr.",
+            "correct": true,
+            "count": "4,234",
+            "percent": "61.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/1/9",
+        "game_link": "/us/game/2019-01-28/1",
+        "correct_answers": 4234,
+        "incorrect_answers": 2686,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44339,
+        "text": "The only wrestler to win four Division I championships in four different weight classes attended what school?",
+        "question_number": 10,
+        "eliminated": "3,180",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,497",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132912,
+            "text": "Iowa State",
+            "correct": false,
+            "count": "2,033",
+            "percent": "44.0%"
+          },
+          {
+            "id": 132913,
+            "text": "Ohio State",
+            "correct": false,
+            "count": "1,090",
+            "percent": "23.59%"
+          },
+          {
+            "id": 132914,
+            "text": "Cornell",
+            "correct": true,
+            "count": "1,497",
+            "percent": "32.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/1/10",
+        "game_link": "/us/game/2019-01-28/1",
+        "correct_answers": 1497,
+        "incorrect_answers": 3123,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44347,
+        "text": "Which of these countries boasts the greatest number of Indy 500 winners?",
+        "question_number": 11,
+        "eliminated": "1,624",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "526",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132936,
+            "text": "Brazil",
+            "correct": false,
+            "count": "1,127",
+            "percent": "53.34%"
+          },
+          {
+            "id": 132939,
+            "text": "Australia",
+            "correct": false,
+            "count": "460",
+            "percent": "21.77%"
+          },
+          {
+            "id": 132943,
+            "text": "United Kingdom",
+            "correct": true,
+            "count": "526",
+            "percent": "24.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/1/11",
+        "game_link": "/us/game/2019-01-28/1",
+        "correct_answers": 526,
+        "incorrect_answers": 1587,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44355,
+        "text": "Who was the oldest menâs tennis player ever to attain the year-end No. 1 world ranking?",
+        "question_number": 12,
+        "eliminated": "753",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "99",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132961,
+            "text": "Rafael Nadal",
+            "correct": false,
+            "count": "60",
+            "percent": "7.11%"
+          },
+          {
+            "id": 132967,
+            "text": "Novak Djokovic",
+            "correct": true,
+            "count": "99",
+            "percent": "11.73%"
+          },
+          {
+            "id": 132973,
+            "text": "Roger Federer",
+            "correct": false,
+            "count": "685",
+            "percent": "81.16%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/1/12",
+        "game_link": "/us/game/2019-01-28/1",
+        "correct_answers": 99,
+        "incorrect_answers": 745,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 47384,
+    "show_id": 9471,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-01-29T01:00:00Z",
+    "direct_link": "/us/game/2019-01-28/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "66.38"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "67.28"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "69.01"
+        },
+        {
+          "number": "1,190",
+          "amount": "0.65",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.6496227996647108,
+      "top_players_prize": 225.0
+    },
+    "time": " 8:00 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Movie Night",
+        "slug": "movie-night"
+      }
+    ],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-01-28/2/1",
+        "question_number": 1,
+        "text": "Sci-Fi Franchise",
+        "answer": [
+          "STAR",
+          "WARS"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "W"
+        ],
+        "game_link": "/us/game/2019-01-28/2",
+        "eliminated": 10162,
+        "advancing": 182319,
+        "correct_answers": 182319,
+        "incorrect_answers": 10162
+      },
+      {
+        "direct_link": "/us/game/2019-01-28/2/2",
+        "question_number": 2,
+        "text": "Famous Boxer",
+        "answer": [
+          "ROCKY"
+        ],
+        "initial_letters": [
+          "R"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-01-28/2",
+        "eliminated": 16771,
+        "advancing": 165658,
+        "correct_answers": 165658,
+        "incorrect_answers": 16771
+      },
+      {
+        "direct_link": "/us/game/2019-01-28/2/3",
+        "question_number": 3,
+        "text": "Iconic Director",
+        "answer": [
+          "SPIELBERG"
+        ],
+        "initial_letters": [
+          "S"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "R"
+        ],
+        "game_link": "/us/game/2019-01-28/2",
+        "eliminated": 42802,
+        "advancing": 123180,
+        "correct_answers": 123180,
+        "incorrect_answers": 42802
+      },
+      {
+        "direct_link": "/us/game/2019-01-28/2/4",
+        "question_number": 4,
+        "text": "Beloved Hanks Role",
+        "answer": [
+          "FORREST",
+          "GUMP"
+        ],
+        "initial_letters": [
+          " ",
+          "U"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "R"
+        ],
+        "game_link": "/us/game/2019-01-28/2",
+        "eliminated": 15167,
+        "advancing": 109956,
+        "correct_answers": 109956,
+        "incorrect_answers": 15167
+      },
+      {
+        "direct_link": "/us/game/2019-01-28/2/5",
+        "question_number": 5,
+        "text": "Magical Place",
+        "answer": [
+          "LAND",
+          "OF",
+          "OZ"
+        ],
+        "initial_letters": [
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "Z"
+        ],
+        "game_link": "/us/game/2019-01-28/2",
+        "eliminated": 5109,
+        "advancing": 105543,
+        "correct_answers": 105543,
+        "incorrect_answers": 5109
+      },
+      {
+        "direct_link": "/us/game/2019-01-28/2/6",
+        "question_number": 6,
+        "text": "Superhero Quote",
+        "answer": [
+          "WAKANDA",
+          "FOREVER"
+        ],
+        "initial_letters": [
+          " ",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "O"
+        ],
+        "game_link": "/us/game/2019-01-28/2",
+        "eliminated": 59797,
+        "advancing": 45996,
+        "correct_answers": 45996,
+        "incorrect_answers": 59797
+      },
+      {
+        "direct_link": "/us/game/2019-01-28/2/7",
+        "question_number": 7,
+        "text": "Rom-Com",
+        "answer": [
+          "WHEN",
+          "HARRY",
+          "MET",
+          "SALLY..."
+        ],
+        "initial_letters": [
+          " ",
+          ".",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "S"
+        ],
+        "game_link": "/us/game/2019-01-28/2",
+        "eliminated": 10776,
+        "advancing": 39753,
+        "correct_answers": 39753,
+        "incorrect_answers": 10776
+      },
+      {
+        "direct_link": "/us/game/2019-01-28/2/8",
+        "question_number": 8,
+        "text": "Hero / Villain",
+        "answer": [
+          "JOHN",
+          "MCCLANE",
+          "/",
+          "HANS",
+          "GRUBER"
+        ],
+        "initial_letters": [
+          " ",
+          "/",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "S"
+        ],
+        "game_link": "/us/game/2019-01-28/2",
+        "eliminated": 29935,
+        "advancing": 11091,
+        "correct_answers": 11091,
+        "incorrect_answers": 29935
+      },
+      {
+        "direct_link": "/us/game/2019-01-28/2/9",
+        "question_number": 9,
+        "text": "Classic Disney Quote",
+        "answer": [
+          "MAGIC",
+          "MIRROR",
+          "ON",
+          "THE",
+          "WALL"
+        ],
+        "initial_letters": [
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "H"
+        ],
+        "game_link": "/us/game/2019-01-28/2",
+        "eliminated": 9169,
+        "advancing": 6138,
+        "correct_answers": 6138,
+        "incorrect_answers": 9169
+      },
+      {
+        "direct_link": "/us/game/2019-01-28/2/10",
+        "question_number": 10,
+        "text": "Horror Debate",
+        "answer": [
+          "BIRD",
+          "BOX",
+          "OR",
+          "A",
+          "QUIET",
+          "PLACE?"
+        ],
+        "initial_letters": [
+          " ",
+          "?",
+          "U"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "L"
+        ],
+        "game_link": "/us/game/2019-01-28/2",
+        "eliminated": 6708,
+        "advancing": 1193,
+        "correct_answers": 1193,
+        "incorrect_answers": 6708
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  },
+  {
+    "id": 47432,
+    "show_id": 9432,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 3,
+    "prize": "0",
+    "currency": "$",
+    "start_time": "2019-01-29T02:00:00Z",
+    "direct_link": "/us/game/2019-01-28/3",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "995",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "questions": [
+      {
+        "id": 44364,
+        "text": "âI know it was you, Fredoâ is a line from what classic mafia movie sequel?",
+        "question_number": 1,
+        "eliminated": "1,150",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "374,924",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 132987,
+            "text": "The Godfather: Part II",
+            "correct": true,
+            "count": "345,359",
+            "percent": "95.25%"
+          },
+          {
+            "id": 132988,
+            "text": "Grease 2",
+            "correct": false,
+            "count": "11,332",
+            "percent": "3.13%"
+          },
+          {
+            "id": 132989,
+            "text": "Speed 2: Cruise Control",
+            "correct": false,
+            "count": "5,892",
+            "percent": "1.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/3/1",
+        "game_link": "/us/game/2019-01-28/3",
+        "correct_answers": 345359,
+        "incorrect_answers": 17224,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44371,
+        "text": "In âTo All the Boys Iâve Loved Before,â what gets sent to all the boys?",
+        "question_number": 2,
+        "eliminated": "6,545",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "368,800",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 133008,
+            "text": "Letters",
+            "correct": true,
+            "count": "353,070",
+            "percent": "98.2%"
+          },
+          {
+            "id": 133009,
+            "text": "Fyre Festival tickets",
+            "correct": false,
+            "count": "5,217",
+            "percent": "1.45%"
+          },
+          {
+            "id": 133011,
+            "text": "HQ Extra Lives",
+            "correct": false,
+            "count": "1,253",
+            "percent": "0.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/3/2",
+        "game_link": "/us/game/2019-01-28/3",
+        "correct_answers": 353070,
+        "incorrect_answers": 6470,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44379,
+        "text": "What does Dorothy have to do with her ruby slippers in order to go home?",
+        "question_number": 3,
+        "eliminated": "5,448",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "363,500",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 133032,
+            "text": "Take them off",
+            "correct": false,
+            "count": "5,281",
+            "percent": "1.47%"
+          },
+          {
+            "id": 133033,
+            "text": "Tap them together",
+            "correct": true,
+            "count": "351,198",
+            "percent": "98.0%"
+          },
+          {
+            "id": 133034,
+            "text": "Put them in water",
+            "correct": false,
+            "count": "1,893",
+            "percent": "0.53%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/3/3",
+        "game_link": "/us/game/2019-01-28/3",
+        "correct_answers": 351198,
+        "incorrect_answers": 7174,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44387,
+        "text": "The hit biopic âStraight Outta Comptonâ is based on what music group?",
+        "question_number": 4,
+        "eliminated": "26,301",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "337,432",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 133056,
+            "text": "Wu-Tang Clan",
+            "correct": false,
+            "count": "49,813",
+            "percent": "14.09%"
+          },
+          {
+            "id": 133057,
+            "text": "Fugees",
+            "correct": false,
+            "count": "19,174",
+            "percent": "5.42%"
+          },
+          {
+            "id": 133058,
+            "text": "NWA",
+            "correct": true,
+            "count": "284,532",
+            "percent": "80.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/3/4",
+        "game_link": "/us/game/2019-01-28/3",
+        "correct_answers": 284532,
+        "incorrect_answers": 68987,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44394,
+        "text": "Jim Carrey became the first actor to make $20 million per movie for what film?",
+        "question_number": 5,
+        "eliminated": "223,191",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "116,027",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 133077,
+            "text": "Bruce Almighty",
+            "correct": false,
+            "count": "73,702",
+            "percent": "22.52%"
+          },
+          {
+            "id": 133078,
+            "text": "The Mask",
+            "correct": false,
+            "count": "198,262",
+            "percent": "60.59%"
+          },
+          {
+            "id": 133079,
+            "text": "The Cable Guy",
+            "correct": true,
+            "count": "55,247",
+            "percent": "16.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/3/5",
+        "game_link": "/us/game/2019-01-28/3",
+        "correct_answers": 55247,
+        "incorrect_answers": 271964,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44401,
+        "text": "Which of these romantic movies does NOT have a dramatic airport scene?",
+        "question_number": 6,
+        "eliminated": "75,306",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "65,733",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 133098,
+            "text": "Garden State",
+            "correct": false,
+            "count": "49,138",
+            "percent": "36.17%"
+          },
+          {
+            "id": 133100,
+            "text": "Love Actually",
+            "correct": false,
+            "count": "21,053",
+            "percent": "15.5%"
+          },
+          {
+            "id": 133102,
+            "text": "Maid in Manhattan",
+            "correct": true,
+            "count": "65,678",
+            "percent": "48.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/3/6",
+        "game_link": "/us/game/2019-01-28/3",
+        "correct_answers": 65678,
+        "incorrect_answers": 70191,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44409,
+        "text": "What is the response after Indiana Jones first asks, âSnakes, whyâd it have to be snakes?â",
+        "question_number": 7,
+        "eliminated": "52,847",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "19,811",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 133122,
+            "text": "Good luck, Dr. Jones!",
+            "correct": false,
+            "count": "25,511",
+            "percent": "36.93%"
+          },
+          {
+            "id": 133123,
+            "text": "Try charming them",
+            "correct": false,
+            "count": "23,760",
+            "percent": "34.39%"
+          },
+          {
+            "id": 133124,
+            "text": "Asps! Very dangerous",
+            "correct": true,
+            "count": "19,811",
+            "percent": "28.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/3/7",
+        "game_link": "/us/game/2019-01-28/3",
+        "correct_answers": 19811,
+        "incorrect_answers": 49271,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44417,
+        "text": "Which of these on-screen Batmans has also played a fictional US president in a movie?",
+        "question_number": 8,
+        "eliminated": "10,846",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "15,304",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 133146,
+            "text": "Val Kilmer",
+            "correct": false,
+            "count": "4,704",
+            "percent": "18.23%"
+          },
+          {
+            "id": 133147,
+            "text": "Christian Bale",
+            "correct": false,
+            "count": "5,802",
+            "percent": "22.48%"
+          },
+          {
+            "id": 133151,
+            "text": "Michael Keaton",
+            "correct": true,
+            "count": "15,304",
+            "percent": "59.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/3/8",
+        "game_link": "/us/game/2019-01-28/3",
+        "correct_answers": 15304,
+        "incorrect_answers": 10506,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44425,
+        "text": "In which film did Marilyn Monroe portray a ukulele player?",
+        "question_number": 9,
+        "eliminated": "9,094",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "7,682",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 133170,
+            "text": "Some Like It Hot",
+            "correct": true,
+            "count": "7,682",
+            "percent": "46.16%"
+          },
+          {
+            "id": 133172,
+            "text": "Gentlemen Prefer Blondes",
+            "correct": false,
+            "count": "4,158",
+            "percent": "24.98%"
+          },
+          {
+            "id": 133174,
+            "text": "The Seven Year Itch",
+            "correct": false,
+            "count": "4,802",
+            "percent": "28.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/3/9",
+        "game_link": "/us/game/2019-01-28/3",
+        "correct_answers": 7682,
+        "incorrect_answers": 8960,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44434,
+        "text": "Which of these is one of the aliases of the lead hacker in âHackersâ?",
+        "question_number": 10,
+        "eliminated": "4,474",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "4,489",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 133194,
+            "text": "The Plague",
+            "correct": false,
+            "count": "1,719",
+            "percent": "19.34%"
+          },
+          {
+            "id": 133196,
+            "text": "Crash Override",
+            "correct": true,
+            "count": "4,489",
+            "percent": "50.49%"
+          },
+          {
+            "id": 133200,
+            "text": "Phantom Phreak",
+            "correct": false,
+            "count": "2,682",
+            "percent": "30.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/3/10",
+        "game_link": "/us/game/2019-01-28/3",
+        "correct_answers": 4489,
+        "incorrect_answers": 4401,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44441,
+        "text": "What Disney movie inspired the Beatles lyric âDo you want to know a secret? / Do you promise not to tell?â",
+        "question_number": 11,
+        "eliminated": "2,947",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,312",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 133218,
+            "text": "Dumbo",
+            "correct": false,
+            "count": "1,087",
+            "percent": "21.25%"
+          },
+          {
+            "id": 133219,
+            "text": "Sleeping Beauty",
+            "correct": false,
+            "count": "1,716",
+            "percent": "33.55%"
+          },
+          {
+            "id": 133221,
+            "text": "Snow White",
+            "correct": true,
+            "count": "2,312",
+            "percent": "45.2%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/3/11",
+        "game_link": "/us/game/2019-01-28/3",
+        "correct_answers": 2312,
+        "incorrect_answers": 2803,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 44449,
+        "text": "The âSpecial Thanksâ in the end credits of âWall-Eâ includes the director of which film?",
+        "question_number": 12,
+        "eliminated": "1,938",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "995",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 133242,
+            "text": "Gran Torino",
+            "correct": false,
+            "count": "956",
+            "percent": "33.07%"
+          },
+          {
+            "id": 133243,
+            "text": "Zodiac",
+            "correct": true,
+            "count": "995",
+            "percent": "34.42%"
+          },
+          {
+            "id": 133245,
+            "text": "American Hustle",
+            "correct": false,
+            "count": "940",
+            "percent": "32.51%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-28/3/12",
+        "game_link": "/us/game/2019-01-28/3",
+        "correct_answers": 995,
+        "incorrect_answers": 1896,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

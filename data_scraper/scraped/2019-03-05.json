@@ -1,0 +1,1330 @@
+[
+  {
+    "id": 83806,
+    "show_id": 9743,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "2,500",
+    "currency": "$",
+    "start_time": "2019-03-05T20:00:00Z",
+    "direct_link": "/us/game/2019-03-05/1",
+    "time": " 3:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "469",
+      "currency": "$",
+      "average_prize": "5.33"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 86269,
+        "text": "Which of these animals has horns?",
+        "question_number": 1,
+        "eliminated": "1,742",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "158,643",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 203869,
+            "text": "Goldfish",
+            "correct": false,
+            "count": "885",
+            "percent": "0.55%"
+          },
+          {
+            "id": 203873,
+            "text": "Earthworm",
+            "correct": false,
+            "count": "857",
+            "percent": "0.53%"
+          },
+          {
+            "id": 203875,
+            "text": "Bull",
+            "correct": true,
+            "count": "158,643",
+            "percent": "98.91%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/1/1",
+        "game_link": "/us/game/2019-03-05/1",
+        "correct_answers": 158643,
+        "incorrect_answers": 1742,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86285,
+        "text": "Today is Mardi Gras, which means what in French?",
+        "question_number": 2,
+        "eliminated": "19,254",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "141,229",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 203893,
+            "text": "Mullet Monday",
+            "correct": false,
+            "count": "3,639",
+            "percent": "2.34%"
+          },
+          {
+            "id": 203896,
+            "text": "Fat Tuesday",
+            "correct": true,
+            "count": "141,229",
+            "percent": "90.85%"
+          },
+          {
+            "id": 203900,
+            "text": "Ash Wednesday",
+            "correct": false,
+            "count": "10,583",
+            "percent": "6.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/1/2",
+        "game_link": "/us/game/2019-03-05/1",
+        "correct_answers": 141229,
+        "incorrect_answers": 14222,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86300,
+        "text": "Which president nearly doubled the size of the US through the Louisiana Purchase?",
+        "question_number": 3,
+        "eliminated": "63,163",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "79,147",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 203915,
+            "text": "Thomas Jefferson",
+            "correct": true,
+            "count": "79,147",
+            "percent": "57.15%"
+          },
+          {
+            "id": 203918,
+            "text": "James Madison",
+            "correct": false,
+            "count": "25,757",
+            "percent": "18.6%"
+          },
+          {
+            "id": 203922,
+            "text": "Andrew Jackson",
+            "correct": false,
+            "count": "33,589",
+            "percent": "24.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/1/3",
+        "game_link": "/us/game/2019-03-05/1",
+        "correct_answers": 79147,
+        "incorrect_answers": 59346,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86315,
+        "text": "Which of these can refer to either a variety of coffee or an Indonesian island?",
+        "question_number": 4,
+        "eliminated": "4,467",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "77,722",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 203937,
+            "text": "Java",
+            "correct": true,
+            "count": "77,722",
+            "percent": "96.42%"
+          },
+          {
+            "id": 203939,
+            "text": "Falkland",
+            "correct": false,
+            "count": "1,816",
+            "percent": "2.25%"
+          },
+          {
+            "id": 203943,
+            "text": "Seram",
+            "correct": false,
+            "count": "1,067",
+            "percent": "1.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/1/4",
+        "game_link": "/us/game/2019-03-05/1",
+        "correct_answers": 77722,
+        "incorrect_answers": 2883,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86331,
+        "text": "Which of these sports leagues does NOT currently employ officials designated as âumpiresâ?",
+        "question_number": 5,
+        "eliminated": "55,289",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "22,641",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 203961,
+            "text": "NFL",
+            "correct": false,
+            "count": "11,991",
+            "percent": "16.24%"
+          },
+          {
+            "id": 203962,
+            "text": "NBA",
+            "correct": false,
+            "count": "39,226",
+            "percent": "53.11%"
+          },
+          {
+            "id": 203963,
+            "text": "NHL",
+            "correct": true,
+            "count": "22,641",
+            "percent": "30.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/1/5",
+        "game_link": "/us/game/2019-03-05/1",
+        "correct_answers": 22641,
+        "incorrect_answers": 51217,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86347,
+        "text": "Which of these is a brand name for irregular gourmet jelly beans?",
+        "question_number": 6,
+        "eliminated": "10,735",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "20,076",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 203985,
+            "text": "Has-Beans",
+            "correct": false,
+            "count": "5,898",
+            "percent": "19.66%"
+          },
+          {
+            "id": 203987,
+            "text": "Belly Flops",
+            "correct": true,
+            "count": "20,076",
+            "percent": "66.91%"
+          },
+          {
+            "id": 203990,
+            "text": "Sweejects",
+            "correct": false,
+            "count": "4,029",
+            "percent": "13.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/1/6",
+        "game_link": "/us/game/2019-03-05/1",
+        "correct_answers": 20076,
+        "incorrect_answers": 9927,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86363,
+        "text": "By definition, Flemish people are predominantly from what country?",
+        "question_number": 7,
+        "eliminated": "5,667",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "15,102",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204009,
+            "text": "Netherlands",
+            "correct": false,
+            "count": "4,344",
+            "percent": "21.27%"
+          },
+          {
+            "id": 204011,
+            "text": "Switzerland",
+            "correct": false,
+            "count": "978",
+            "percent": "4.79%"
+          },
+          {
+            "id": 204013,
+            "text": "Belgium",
+            "correct": true,
+            "count": "15,102",
+            "percent": "73.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/1/7",
+        "game_link": "/us/game/2019-03-05/1",
+        "correct_answers": 15102,
+        "incorrect_answers": 5322,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86379,
+        "text": "Which of these medical words literally translates to âwithout painâ in Greek?",
+        "question_number": 8,
+        "eliminated": "7,925",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "7,642",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204033,
+            "text": "Anesthetic",
+            "correct": false,
+            "count": "6,509",
+            "percent": "42.77%"
+          },
+          {
+            "id": 204034,
+            "text": "Antibiotic",
+            "correct": false,
+            "count": "1,066",
+            "percent": "7.01%"
+          },
+          {
+            "id": 204037,
+            "text": "Analgesic",
+            "correct": true,
+            "count": "7,642",
+            "percent": "50.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/1/8",
+        "game_link": "/us/game/2019-03-05/1",
+        "correct_answers": 7642,
+        "incorrect_answers": 7575,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86395,
+        "text": "Which song is by a band named for a capital city?",
+        "question_number": 9,
+        "eliminated": "4,450",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "4,198",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204057,
+            "text": "Saturday in the Park",
+            "correct": false,
+            "count": "1,816",
+            "percent": "21.92%"
+          },
+          {
+            "id": 204058,
+            "text": "Amanda",
+            "correct": true,
+            "count": "4,198",
+            "percent": "50.67%"
+          },
+          {
+            "id": 204061,
+            "text": "Rhythm Is Gonna Get You",
+            "correct": false,
+            "count": "2,271",
+            "percent": "27.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/1/9",
+        "game_link": "/us/game/2019-03-05/1",
+        "correct_answers": 4198,
+        "incorrect_answers": 4087,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86411,
+        "text": "Which is the English translation of a common rule in calculus?",
+        "question_number": 10,
+        "eliminated": "1,575",
+        "category": "Math",
+        "category_slug": "math",
+        "advancing": "3,183",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204081,
+            "text": "The basketâs rule",
+            "correct": false,
+            "count": "981",
+            "percent": "20.9%"
+          },
+          {
+            "id": 204083,
+            "text": "The hospitalâs rule",
+            "correct": true,
+            "count": "3,183",
+            "percent": "67.81%"
+          },
+          {
+            "id": 204086,
+            "text": "The spongeâs rule",
+            "correct": false,
+            "count": "530",
+            "percent": "11.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/1/10",
+        "game_link": "/us/game/2019-03-05/1",
+        "correct_answers": 3183,
+        "incorrect_answers": 1511,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86429,
+        "text": "Which is NOT a game in the ongoing âTomb Raiderâ series?",
+        "question_number": 11,
+        "eliminated": "2,260",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "1,181",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204109,
+            "text": "The Cradle of Life",
+            "correct": true,
+            "count": "1,181",
+            "percent": "34.9%"
+          },
+          {
+            "id": 204112,
+            "text": "The Last Revelation",
+            "correct": false,
+            "count": "153",
+            "percent": "4.52%"
+          },
+          {
+            "id": 204117,
+            "text": "Curse of the Sword",
+            "correct": false,
+            "count": "2,050",
+            "percent": "60.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/1/11",
+        "game_link": "/us/game/2019-03-05/1",
+        "correct_answers": 1181,
+        "incorrect_answers": 2203,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86445,
+        "text": "The final âStar Trek: The Original Seriesâ film ends with Captain Kirk quoting what author?",
+        "question_number": 12,
+        "eliminated": "904",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "469",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204132,
+            "text": "Arthur Conan Doyle",
+            "correct": false,
+            "count": "367",
+            "percent": "27.19%"
+          },
+          {
+            "id": 204134,
+            "text": "Shakespeare",
+            "correct": false,
+            "count": "514",
+            "percent": "38.07%"
+          },
+          {
+            "id": 204139,
+            "text": "JM Barrie",
+            "correct": true,
+            "count": "469",
+            "percent": "34.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/1/12",
+        "game_link": "/us/game/2019-03-05/1",
+        "correct_answers": 469,
+        "incorrect_answers": 881,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 83926,
+    "show_id": 9744,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-03-06T02:00:00Z",
+    "direct_link": "/us/game/2019-03-05/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,669",
+      "currency": "$",
+      "average_prize": "3.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 86459,
+        "text": "Where is the world-famous Louvre museum?",
+        "question_number": 1,
+        "eliminated": "3,372",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "374,522",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204153,
+            "text": "Paris",
+            "correct": true,
+            "count": "374,522",
+            "percent": "99.11%"
+          },
+          {
+            "id": 204155,
+            "text": "On a rollercoaster",
+            "correct": false,
+            "count": "1,774",
+            "percent": "0.47%"
+          },
+          {
+            "id": 204157,
+            "text": "In a volcano",
+            "correct": false,
+            "count": "1,598",
+            "percent": "0.42%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/2/1",
+        "game_link": "/us/game/2019-03-05/2",
+        "correct_answers": 374522,
+        "incorrect_answers": 3372,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86476,
+        "text": "What is the primary ingredient in gasoline?",
+        "question_number": 2,
+        "eliminated": "7,121",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "369,879",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204178,
+            "text": "Milk",
+            "correct": false,
+            "count": "609",
+            "percent": "0.16%"
+          },
+          {
+            "id": 204180,
+            "text": "Matcha",
+            "correct": false,
+            "count": "1,159",
+            "percent": "0.31%"
+          },
+          {
+            "id": 204182,
+            "text": "Petroleum",
+            "correct": true,
+            "count": "369,879",
+            "percent": "99.52%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/2/2",
+        "game_link": "/us/game/2019-03-05/2",
+        "correct_answers": 369879,
+        "incorrect_answers": 1768,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86492,
+        "text": "Which is most commonly part of a filmâs post-production?",
+        "question_number": 3,
+        "eliminated": "29,364",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "340,969",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204203,
+            "text": "Editing",
+            "correct": true,
+            "count": "340,969",
+            "percent": "93.14%"
+          },
+          {
+            "id": 204205,
+            "text": "Casting",
+            "correct": false,
+            "count": "17,620",
+            "percent": "4.81%"
+          },
+          {
+            "id": 204208,
+            "text": "Writing",
+            "correct": false,
+            "count": "7,489",
+            "percent": "2.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/2/3",
+        "game_link": "/us/game/2019-03-05/2",
+        "correct_answers": 340969,
+        "incorrect_answers": 25109,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86507,
+        "text": "Which name did Kanye West and Kim Kardashian NOT give to one of their children?",
+        "question_number": 4,
+        "eliminated": "155,103",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "188,211",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204225,
+            "text": "Prince West",
+            "correct": true,
+            "count": "188,211",
+            "percent": "55.98%"
+          },
+          {
+            "id": 204226,
+            "text": "Saint West",
+            "correct": false,
+            "count": "39,866",
+            "percent": "11.86%"
+          },
+          {
+            "id": 204228,
+            "text": "Chicago West",
+            "correct": false,
+            "count": "108,131",
+            "percent": "32.16%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/2/4",
+        "game_link": "/us/game/2019-03-05/2",
+        "correct_answers": 188211,
+        "incorrect_answers": 147997,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86523,
+        "text": "The first Nike TV commercial in 1982 showed people excelling in what sport?",
+        "question_number": 5,
+        "eliminated": "98,463",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "99,395",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204250,
+            "text": "Basketball",
+            "correct": false,
+            "count": "79,857",
+            "percent": "41.46%"
+          },
+          {
+            "id": 204253,
+            "text": "Skateboarding",
+            "correct": false,
+            "count": "13,339",
+            "percent": "6.93%"
+          },
+          {
+            "id": 204255,
+            "text": "Running",
+            "correct": true,
+            "count": "99,395",
+            "percent": "51.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/2/5",
+        "game_link": "/us/game/2019-03-05/2",
+        "correct_answers": 99395,
+        "incorrect_answers": 93196,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86537,
+        "text": "Where on a duck would you typically find a speculum?",
+        "question_number": 6,
+        "eliminated": "95,033",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "13,722",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204270,
+            "text": "Feathers",
+            "correct": true,
+            "count": "13,722",
+            "percent": "12.93%"
+          },
+          {
+            "id": 204272,
+            "text": "Beak",
+            "correct": false,
+            "count": "68,212",
+            "percent": "64.26%"
+          },
+          {
+            "id": 204275,
+            "text": "Feet",
+            "correct": false,
+            "count": "24,209",
+            "percent": "22.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/2/6",
+        "game_link": "/us/game/2019-03-05/2",
+        "correct_answers": 13722,
+        "incorrect_answers": 92421,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86554,
+        "text": "Which of these musicians has written a Broadway musical about the shipbuilding industry?",
+        "question_number": 7,
+        "eliminated": "11,193",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "12,177",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204295,
+            "text": "Elton John",
+            "correct": false,
+            "count": "4,010",
+            "percent": "18.35%"
+          },
+          {
+            "id": 204299,
+            "text": "Sting",
+            "correct": true,
+            "count": "12,177",
+            "percent": "55.73%"
+          },
+          {
+            "id": 204305,
+            "text": "Meat Loaf",
+            "correct": false,
+            "count": "5,664",
+            "percent": "25.92%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/2/7",
+        "game_link": "/us/game/2019-03-05/2",
+        "correct_answers": 12177,
+        "incorrect_answers": 9674,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86570,
+        "text": "What was the Hoover Dam formerly known as?",
+        "question_number": 8,
+        "eliminated": "3,763",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "9,328",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204319,
+            "text": "Grand Coulee Dam",
+            "correct": false,
+            "count": "2,077",
+            "percent": "16.06%"
+          },
+          {
+            "id": 204321,
+            "text": "Glen Canyon Dam",
+            "correct": false,
+            "count": "1,526",
+            "percent": "11.8%"
+          },
+          {
+            "id": 204323,
+            "text": "Boulder Dam",
+            "correct": true,
+            "count": "9,328",
+            "percent": "72.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/2/8",
+        "game_link": "/us/game/2019-03-05/2",
+        "correct_answers": 9328,
+        "incorrect_answers": 3603,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86586,
+        "text": "The star of which television show was once roommates with Robert Downey, Jr.?",
+        "question_number": 9,
+        "eliminated": "3,881",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "5,862",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204343,
+            "text": "24",
+            "correct": true,
+            "count": "5,862",
+            "percent": "61.76%"
+          },
+          {
+            "id": 204347,
+            "text": "The Young Pope",
+            "correct": false,
+            "count": "840",
+            "percent": "8.85%"
+          },
+          {
+            "id": 204356,
+            "text": "Two and a Half Men",
+            "correct": false,
+            "count": "2,789",
+            "percent": "29.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/2/9",
+        "game_link": "/us/game/2019-03-05/2",
+        "correct_answers": 5862,
+        "incorrect_answers": 3629,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86601,
+        "text": "The piece of music known as \"Infernal Galop\" is associated with what famous dance?",
+        "question_number": 10,
+        "eliminated": "1,830",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "4,628",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204366,
+            "text": "Tango",
+            "correct": false,
+            "count": "755",
+            "percent": "11.94%"
+          },
+          {
+            "id": 204370,
+            "text": "Cancan",
+            "correct": true,
+            "count": "4,628",
+            "percent": "73.2%"
+          },
+          {
+            "id": 204377,
+            "text": "Lambada",
+            "correct": false,
+            "count": "939",
+            "percent": "14.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/2/10",
+        "game_link": "/us/game/2019-03-05/2",
+        "correct_answers": 4628,
+        "incorrect_answers": 1694,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86618,
+        "text": "Where would you find a subtrahend?",
+        "question_number": 11,
+        "eliminated": "828",
+        "category": "Math",
+        "category_slug": "math",
+        "advancing": "4,089",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204393,
+            "text": "Underwater",
+            "correct": false,
+            "count": "359",
+            "percent": "7.46%"
+          },
+          {
+            "id": 204399,
+            "text": "In a math problem",
+            "correct": true,
+            "count": "4,089",
+            "percent": "84.94%"
+          },
+          {
+            "id": 204405,
+            "text": "On the human shoulder",
+            "correct": false,
+            "count": "366",
+            "percent": "7.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/2/11",
+        "game_link": "/us/game/2019-03-05/2",
+        "correct_answers": 4089,
+        "incorrect_answers": 725,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 86633,
+        "text": "Which of these countries is NOT home to a massive desert whose name translates to âwaterless placeâ?",
+        "question_number": 12,
+        "eliminated": "2,545",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "1,669",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 204414,
+            "text": "Mongolia",
+            "correct": false,
+            "count": "581",
+            "percent": "14.3%"
+          },
+          {
+            "id": 204417,
+            "text": "Botswana",
+            "correct": false,
+            "count": "1,813",
+            "percent": "44.62%"
+          },
+          {
+            "id": 204423,
+            "text": "United States",
+            "correct": true,
+            "count": "1,669",
+            "percent": "41.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-05/2/12",
+        "game_link": "/us/game/2019-03-05/2",
+        "correct_answers": 1669,
+        "incorrect_answers": 2394,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 84045,
+    "show_id": 9906,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-03-06T02:30:00Z",
+    "direct_link": "/us/game/2019-03-05/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "58.47"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "61.97"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "63.22"
+        },
+        {
+          "number": "30,911",
+          "amount": "0.03",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.025069547777705894,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-03-05/3/1",
+        "question_number": 1,
+        "text": "Mardi Gras City",
+        "answer": [
+          "NEW",
+          "ORLEANS"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "L"
+        ],
+        "game_link": "/us/game/2019-03-05/3",
+        "eliminated": 7486,
+        "advancing": 152399,
+        "correct_answers": 152399,
+        "incorrect_answers": 7486
+      },
+      {
+        "direct_link": "/us/game/2019-03-05/3/2",
+        "question_number": 2,
+        "text": "Fun to Throw",
+        "answer": [
+          "BEADS"
+        ],
+        "initial_letters": [
+          "B"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "S"
+        ],
+        "game_link": "/us/game/2019-03-05/3",
+        "eliminated": 5529,
+        "advancing": 147238,
+        "correct_answers": 147238,
+        "incorrect_answers": 5529
+      },
+      {
+        "direct_link": "/us/game/2019-03-05/3/3",
+        "question_number": 3,
+        "text": "Mardi Gras Traditions",
+        "answer": [
+          "PARADES"
+        ],
+        "initial_letters": [
+          "P"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "E"
+        ],
+        "game_link": "/us/game/2019-03-05/3",
+        "eliminated": 2529,
+        "advancing": 144520,
+        "correct_answers": 144520,
+        "incorrect_answers": 2529
+      },
+      {
+        "direct_link": "/us/game/2019-03-05/3/4",
+        "question_number": 4,
+        "text": "Party Place",
+        "answer": [
+          "BOURBON",
+          "STREET"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "R"
+        ],
+        "game_link": "/us/game/2019-03-05/3",
+        "eliminated": 12219,
+        "advancing": 132304,
+        "correct_answers": 132304,
+        "incorrect_answers": 12219
+      },
+      {
+        "direct_link": "/us/game/2019-03-05/3/5",
+        "question_number": 5,
+        "text": "When the Partyâs Over",
+        "answer": [
+          "ASH",
+          "WEDNESDAY"
+        ],
+        "initial_letters": [
+          " ",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-03-05/3",
+        "eliminated": 11037,
+        "advancing": 121853,
+        "correct_answers": 121853,
+        "incorrect_answers": 11037
+      },
+      {
+        "direct_link": "/us/game/2019-03-05/3/6",
+        "question_number": 6,
+        "text": "Pastry Topping",
+        "answer": [
+          "POWDERED",
+          "SUGAR"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "P"
+        ],
+        "game_link": "/us/game/2019-03-05/3",
+        "eliminated": 29570,
+        "advancing": 92909,
+        "correct_answers": 92909,
+        "incorrect_answers": 29570
+      },
+      {
+        "direct_link": "/us/game/2019-03-05/3/7",
+        "question_number": 7,
+        "text": "Famous Design",
+        "answer": [
+          "FLEUR",
+          "DE",
+          "LIS"
+        ],
+        "initial_letters": [
+          " ",
+          "F"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "S"
+        ],
+        "game_link": "/us/game/2019-03-05/3",
+        "eliminated": 14339,
+        "advancing": 80738,
+        "correct_answers": 80738,
+        "incorrect_answers": 14339
+      },
+      {
+        "direct_link": "/us/game/2019-03-05/3/8",
+        "question_number": 8,
+        "text": "Good Luck",
+        "answer": [
+          "FIND",
+          "THE",
+          "BABY",
+          "FIGURINE"
+        ],
+        "initial_letters": [
+          " ",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "T",
+          "U"
+        ],
+        "game_link": "/us/game/2019-03-05/3",
+        "eliminated": 45214,
+        "advancing": 37003,
+        "correct_answers": 37003,
+        "incorrect_answers": 45214
+      },
+      {
+        "direct_link": "/us/game/2019-03-05/3/9",
+        "question_number": 9,
+        "text": "Partying Motto",
+        "answer": [
+          "LET",
+          "THE",
+          "GOOD",
+          "TIMES",
+          "ROLL"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "S"
+        ],
+        "game_link": "/us/game/2019-03-05/3",
+        "eliminated": 8282,
+        "advancing": 35587,
+        "correct_answers": 35587,
+        "incorrect_answers": 8282
+      },
+      {
+        "direct_link": "/us/game/2019-03-05/3/10",
+        "question_number": 10,
+        "text": "New Orleans Lunch",
+        "answer": [
+          "OYSTER",
+          "POâBOY",
+          "SANDWICH"
+        ],
+        "initial_letters": [
+          " ",
+          "â",
+          "Y"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "R"
+        ],
+        "game_link": "/us/game/2019-03-05/3",
+        "eliminated": 6506,
+        "advancing": 30914,
+        "correct_answers": 30914,
+        "incorrect_answers": 6506
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

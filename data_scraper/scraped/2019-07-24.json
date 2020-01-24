@@ -1,0 +1,1421 @@
+[
+  {
+    "id": 123236,
+    "show_id": 11884,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-07-25T00:00:00Z",
+    "direct_link": "/us/game/2019-07-24/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,114",
+      "currency": "$",
+      "average_prize": "0.47"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 133903,
+        "text": "The âFosbury Flopâ is a technique that comes from what sport?",
+        "question_number": 1,
+        "eliminated": "-12,915",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "93,526",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275327,
+            "text": "High jump",
+            "correct": true,
+            "count": "60,866",
+            "percent": "79.0%"
+          },
+          {
+            "id": 275328,
+            "text": "Swimming",
+            "correct": false,
+            "count": "9,352",
+            "percent": "12.14%"
+          },
+          {
+            "id": 275329,
+            "text": "Basketball",
+            "correct": false,
+            "count": "6,828",
+            "percent": "8.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/1/1",
+        "game_link": "/us/game/2019-07-24/1",
+        "correct_answers": 60866,
+        "incorrect_answers": 16180,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 133922,
+        "text": "In basketball, what call is demonstrated with this hand motion?",
+        "question_number": 2,
+        "eliminated": "2,089",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "91,497",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275354,
+            "text": "Double dribble",
+            "correct": false,
+            "count": "3,616",
+            "percent": "4.56%"
+          },
+          {
+            "id": 275361,
+            "text": "Traveling",
+            "correct": true,
+            "count": "73,628",
+            "percent": "92.9%"
+          },
+          {
+            "id": 275367,
+            "text": "Charging",
+            "correct": false,
+            "count": "2,013",
+            "percent": "2.54%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/1/2",
+        "game_link": "/us/game/2019-07-24/1",
+        "correct_answers": 73628,
+        "incorrect_answers": 5629,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 133935,
+        "text": "Which of these is an event typically found in womenâs gymnastics?",
+        "question_number": 3,
+        "eliminated": "3,947",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "87,590",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275375,
+            "text": "Pommel horse",
+            "correct": false,
+            "count": "6,426",
+            "percent": "8.23%"
+          },
+          {
+            "id": 275377,
+            "text": "Parallel bars",
+            "correct": false,
+            "count": "12,070",
+            "percent": "15.46%"
+          },
+          {
+            "id": 275380,
+            "text": "Uneven bars",
+            "correct": true,
+            "count": "59,591",
+            "percent": "76.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/1/3",
+        "game_link": "/us/game/2019-07-24/1",
+        "correct_answers": 59591,
+        "incorrect_answers": 18496,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 133951,
+        "text": "Which of these reigning champion teams was in last place more than one-third of the way into their last season?",
+        "question_number": 4,
+        "eliminated": "3,225",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "84,546",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275399,
+            "text": "Boston Red Sox",
+            "correct": false,
+            "count": "9,485",
+            "percent": "13.4%"
+          },
+          {
+            "id": 275400,
+            "text": "St. Louis Blues",
+            "correct": true,
+            "count": "49,671",
+            "percent": "70.17%"
+          },
+          {
+            "id": 275401,
+            "text": "Toronto Raptors",
+            "correct": false,
+            "count": "11,629",
+            "percent": "16.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/1/4",
+        "game_link": "/us/game/2019-07-24/1",
+        "correct_answers": 49671,
+        "incorrect_answers": 21114,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 133968,
+        "text": "In which of these stat categories does LeBron James have the highest per-game average in his career?",
+        "question_number": 5,
+        "eliminated": "9,712",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "74,966",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275425,
+            "text": "Turnovers",
+            "correct": false,
+            "count": "10,891",
+            "percent": "15.56%"
+          },
+          {
+            "id": 275427,
+            "text": "Rebounds",
+            "correct": true,
+            "count": "22,967",
+            "percent": "32.81%"
+          },
+          {
+            "id": 275428,
+            "text": "Assists",
+            "correct": false,
+            "count": "36,143",
+            "percent": "51.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/1/5",
+        "game_link": "/us/game/2019-07-24/1",
+        "correct_answers": 22967,
+        "incorrect_answers": 47034,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 133982,
+        "text": "Who was the last person besides Joey Chestnut to win the menâs portion of the Nathanâs Hot Dog Eating Contest?",
+        "question_number": 6,
+        "eliminated": "4,250",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "71,462",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275447,
+            "text": "Kobayashi",
+            "correct": false,
+            "count": "34,793",
+            "percent": "55.2%"
+          },
+          {
+            "id": 275450,
+            "text": "Eater X",
+            "correct": false,
+            "count": "1,823",
+            "percent": "2.89%"
+          },
+          {
+            "id": 275453,
+            "text": "Matt Stonie",
+            "correct": true,
+            "count": "26,414",
+            "percent": "41.91%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/1/6",
+        "game_link": "/us/game/2019-07-24/1",
+        "correct_answers": 26414,
+        "incorrect_answers": 36616,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 133997,
+        "text": "Which of these players was NOT at one time the highest-paid NFL player in history?",
+        "question_number": 7,
+        "eliminated": "4,212",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "67,464",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275468,
+            "text": "Joe Flacco",
+            "correct": false,
+            "count": "9,757",
+            "percent": "16.17%"
+          },
+          {
+            "id": 275469,
+            "text": "Matthew Stafford",
+            "correct": false,
+            "count": "8,877",
+            "percent": "14.71%"
+          },
+          {
+            "id": 275470,
+            "text": "Eli Manning",
+            "correct": true,
+            "count": "41,714",
+            "percent": "69.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/1/7",
+        "game_link": "/us/game/2019-07-24/1",
+        "correct_answers": 41714,
+        "incorrect_answers": 18634,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134016,
+        "text": "Which of these players won the greatest number of NBA scoring titles?",
+        "question_number": 8,
+        "eliminated": "8,833",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "58,776",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275495,
+            "text": "Kareem Abdul-Jabbar",
+            "correct": false,
+            "count": "19,409",
+            "percent": "33.46%"
+          },
+          {
+            "id": 275498,
+            "text": "Allen Iverson",
+            "correct": true,
+            "count": "27,134",
+            "percent": "46.77%"
+          },
+          {
+            "id": 275501,
+            "text": "Kobe Bryant",
+            "correct": false,
+            "count": "11,470",
+            "percent": "19.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/1/8",
+        "game_link": "/us/game/2019-07-24/1",
+        "correct_answers": 27134,
+        "incorrect_answers": 30879,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134031,
+        "text": "According to the âForbesâ annual rankings, what was the first sports team to surpass a value of $2 billion?",
+        "question_number": 9,
+        "eliminated": "20,507",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "38,827",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275519,
+            "text": "New York Knicks",
+            "correct": false,
+            "count": "2,868",
+            "percent": "5.7%"
+          },
+          {
+            "id": 275523,
+            "text": "Manchester United",
+            "correct": true,
+            "count": "21,708",
+            "percent": "43.16%"
+          },
+          {
+            "id": 275529,
+            "text": "Dallas Cowboys",
+            "correct": false,
+            "count": "25,715",
+            "percent": "51.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/1/9",
+        "game_link": "/us/game/2019-07-24/1",
+        "correct_answers": 21708,
+        "incorrect_answers": 28583,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134047,
+        "text": "What NFL team currently employs the player with the FBS record for career receptions?",
+        "question_number": 10,
+        "eliminated": "21,365",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "19,087",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275542,
+            "text": "Oakland Raiders",
+            "correct": false,
+            "count": "8,990",
+            "percent": "24.51%"
+          },
+          {
+            "id": 275545,
+            "text": "Buffalo Bills",
+            "correct": true,
+            "count": "16,063",
+            "percent": "43.79%"
+          },
+          {
+            "id": 275549,
+            "text": "Tennessee Titans",
+            "correct": false,
+            "count": "11,626",
+            "percent": "31.7%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/1/10",
+        "game_link": "/us/game/2019-07-24/1",
+        "correct_answers": 16063,
+        "incorrect_answers": 20616,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134066,
+        "text": "By nationality of the driver, what nation has won the greatest number of Formula One races?",
+        "question_number": 11,
+        "eliminated": "15,043",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "6,404",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275571,
+            "text": "Germany",
+            "correct": false,
+            "count": "3,419",
+            "percent": "17.27%"
+          },
+          {
+            "id": 275574,
+            "text": "Brazil",
+            "correct": false,
+            "count": "9,976",
+            "percent": "50.39%"
+          },
+          {
+            "id": 275580,
+            "text": "UK",
+            "correct": true,
+            "count": "6,404",
+            "percent": "32.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/1/11",
+        "game_link": "/us/game/2019-07-24/1",
+        "correct_answers": 6404,
+        "incorrect_answers": 13395,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134079,
+        "text": "What position player holds the single-season record for WAR, also known as wins above replacement?",
+        "question_number": 12,
+        "eliminated": "7,404",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,114",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275591,
+            "text": "Barry Bonds",
+            "correct": false,
+            "count": "2,733",
+            "percent": "29.25%"
+          },
+          {
+            "id": 275592,
+            "text": "Babe Ruth",
+            "correct": true,
+            "count": "2,114",
+            "percent": "22.63%"
+          },
+          {
+            "id": 275595,
+            "text": "Mike Trout",
+            "correct": false,
+            "count": "4,495",
+            "percent": "48.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/1/12",
+        "game_link": "/us/game/2019-07-24/1",
+        "correct_answers": 2114,
+        "incorrect_answers": 7228,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 886,
+        "game_id": 123236,
+        "question": "Which AL team will make it to the World Series?",
+        "results": [
+          {
+            "id": 5320,
+            "display_count": "36",
+            "vote_count": 11616,
+            "text": "Astros"
+          },
+          {
+            "id": 5323,
+            "display_count": "25",
+            "vote_count": 7974,
+            "text": "Twins"
+          },
+          {
+            "id": 5328,
+            "display_count": "39",
+            "vote_count": 12349,
+            "text": "Yankees"
+          }
+        ],
+        "created_at": "2019-07-25T00:13:05Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 123354,
+    "show_id": 11747,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "230,000",
+    "currency": "$",
+    "start_time": "2019-07-25T01:00:00Z",
+    "direct_link": "/us/game/2019-07-24/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Checkpoints",
+        "slug": "checkpoints"
+      }
+    ],
+    "questions": [
+      {
+        "id": 134093,
+        "text": "In grocery stores, corn is often sold in what unique unit?",
+        "question_number": 1,
+        "eliminated": "-23,081",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "246,802",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275612,
+            "text": "Nose",
+            "correct": false,
+            "count": "2,827",
+            "percent": "1.32%"
+          },
+          {
+            "id": 275613,
+            "text": "Mouth",
+            "correct": false,
+            "count": "5,818",
+            "percent": "2.71%"
+          },
+          {
+            "id": 275614,
+            "text": "Ear",
+            "correct": true,
+            "count": "206,029",
+            "percent": "95.97%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/2/1",
+        "game_link": "/us/game/2019-07-24/2",
+        "correct_answers": 206029,
+        "incorrect_answers": 8645,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134109,
+        "text": "What war was fought with Sherman tanks?",
+        "question_number": 2,
+        "eliminated": "8,235",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "238,701",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275636,
+            "text": "Hundred Yearsâ War",
+            "correct": false,
+            "count": "10,099",
+            "percent": "4.63%"
+          },
+          {
+            "id": 275638,
+            "text": "Wars of the Roses",
+            "correct": false,
+            "count": "5,846",
+            "percent": "2.68%"
+          },
+          {
+            "id": 275643,
+            "text": "World War II",
+            "correct": true,
+            "count": "201,953",
+            "percent": "92.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/2/2",
+        "game_link": "/us/game/2019-07-24/2",
+        "correct_answers": 201953,
+        "incorrect_answers": 15945,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134125,
+        "text": "Which of these is a kind of fungus?",
+        "question_number": 3,
+        "eliminated": "15,226",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "223,687",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275660,
+            "text": "Chia",
+            "correct": false,
+            "count": "6,653",
+            "percent": "3.14%"
+          },
+          {
+            "id": 275662,
+            "text": "Moss",
+            "correct": false,
+            "count": "74,361",
+            "percent": "35.09%"
+          },
+          {
+            "id": 275665,
+            "text": "Yeast",
+            "correct": true,
+            "count": "130,881",
+            "percent": "61.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/2/3",
+        "game_link": "/us/game/2019-07-24/2",
+        "correct_answers": 130881,
+        "incorrect_answers": 81014,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134141,
+        "text": "Which type of shoe typically has no laces?",
+        "question_number": 4,
+        "eliminated": "8,065",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "216,349",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275684,
+            "text": "Derby",
+            "correct": false,
+            "count": "2,954",
+            "percent": "1.47%"
+          },
+          {
+            "id": 275686,
+            "text": "Oxford",
+            "correct": false,
+            "count": "28,196",
+            "percent": "14.02%"
+          },
+          {
+            "id": 275688,
+            "text": "Loafer",
+            "correct": true,
+            "count": "169,951",
+            "percent": "84.51%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/2/4",
+        "game_link": "/us/game/2019-07-24/2",
+        "correct_answers": 169951,
+        "incorrect_answers": 31150,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134157,
+        "text": "Which big change in English pronunciation took place in the last millennium?",
+        "question_number": 5,
+        "eliminated": "14,115",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "203,902",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275708,
+            "text": "Tongue-Straightening",
+            "correct": false,
+            "count": "20,997",
+            "percent": "11.31%"
+          },
+          {
+            "id": 275712,
+            "text": "European Refinement",
+            "correct": false,
+            "count": "26,784",
+            "percent": "14.42%"
+          },
+          {
+            "id": 275715,
+            "text": "Great Vowel Shift",
+            "correct": true,
+            "count": "137,926",
+            "percent": "74.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/2/5",
+        "game_link": "/us/game/2019-07-24/2",
+        "correct_answers": 137926,
+        "incorrect_answers": 47781,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134176,
+        "text": "What reptile-themed game has the same designer as âCrocodile Dentistâ?",
+        "question_number": 6,
+        "eliminated": "11,265",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "193,344",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275739,
+            "text": "Gator Golf",
+            "correct": true,
+            "count": "130,255",
+            "percent": "71.67%"
+          },
+          {
+            "id": 275745,
+            "text": "Hurtling Turtles",
+            "correct": false,
+            "count": "38,333",
+            "percent": "21.09%"
+          },
+          {
+            "id": 275750,
+            "text": "Tiddly-Skinks",
+            "correct": false,
+            "count": "13,156",
+            "percent": "7.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/2/6",
+        "game_link": "/us/game/2019-07-24/2",
+        "correct_answers": 130255,
+        "incorrect_answers": 51489,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134191,
+        "text": "Which US state has more than one representative in the House?",
+        "question_number": 7,
+        "eliminated": "38,238",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "155,688",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275759,
+            "text": "Montana",
+            "correct": false,
+            "count": "32,258",
+            "percent": "18.27%"
+          },
+          {
+            "id": 275762,
+            "text": "Idaho",
+            "correct": true,
+            "count": "61,228",
+            "percent": "34.68%"
+          },
+          {
+            "id": 275765,
+            "text": "North Dakota",
+            "correct": false,
+            "count": "83,064",
+            "percent": "47.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/2/7",
+        "game_link": "/us/game/2019-07-24/2",
+        "correct_answers": 61228,
+        "incorrect_answers": 115322,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134205,
+        "text": "What nation is this band from?",
+        "question_number": 8,
+        "eliminated": "22,830",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "139,497",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275780,
+            "text": "Norway",
+            "correct": true,
+            "count": "79,960",
+            "percent": "53.41%"
+          },
+          {
+            "id": 275781,
+            "text": "Denmark",
+            "correct": false,
+            "count": "23,321",
+            "percent": "15.58%"
+          },
+          {
+            "id": 275782,
+            "text": "Sweden",
+            "correct": false,
+            "count": "46,430",
+            "percent": "31.01%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/2/8",
+        "game_link": "/us/game/2019-07-24/2",
+        "correct_answers": 79960,
+        "incorrect_answers": 69751,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134221,
+        "text": "What is the current geologic eon?",
+        "question_number": 9,
+        "eliminated": "50,442",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "90,982",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275804,
+            "text": "Phanerozoic",
+            "correct": true,
+            "count": "53,971",
+            "percent": "41.8%"
+          },
+          {
+            "id": 275805,
+            "text": "Hadean",
+            "correct": false,
+            "count": "49,454",
+            "percent": "38.31%"
+          },
+          {
+            "id": 275807,
+            "text": "Archaean",
+            "correct": false,
+            "count": "25,677",
+            "percent": "19.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/2/9",
+        "game_link": "/us/game/2019-07-24/2",
+        "correct_answers": 53971,
+        "incorrect_answers": 75131,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134237,
+        "text": "Which of these comedians was a cast member on âSaturday Night Liveâ?",
+        "question_number": 10,
+        "eliminated": "27,861",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "67,581",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275828,
+            "text": "Gilbert Gottfried",
+            "correct": true,
+            "count": "64,779",
+            "percent": "71.26%"
+          },
+          {
+            "id": 275831,
+            "text": "Steve Carell",
+            "correct": false,
+            "count": "11,322",
+            "percent": "12.46%"
+          },
+          {
+            "id": 275834,
+            "text": "Bob Odenkirk",
+            "correct": false,
+            "count": "14,802",
+            "percent": "16.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/2/10",
+        "game_link": "/us/game/2019-07-24/2",
+        "correct_answers": 64779,
+        "incorrect_answers": 26124,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134253,
+        "text": "In The Modern Libraryâs 100 Best Novels, what author got two selections in the top 10?",
+        "question_number": 11,
+        "eliminated": "55,808",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "17,036",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275852,
+            "text": "James Joyce",
+            "correct": true,
+            "count": "17,036",
+            "percent": "24.38%"
+          },
+          {
+            "id": 275856,
+            "text": "William Faulkner",
+            "correct": false,
+            "count": "18,454",
+            "percent": "26.41%"
+          },
+          {
+            "id": 275861,
+            "text": "F. Scott Fitzgerald",
+            "correct": false,
+            "count": "34,393",
+            "percent": "49.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/2/11",
+        "game_link": "/us/game/2019-07-24/2",
+        "correct_answers": 17036,
+        "incorrect_answers": 52847,
+        "savage": true,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 13887,
+          "players_left_formatted": "13,887",
+          "num_winners": 3146,
+          "num_winners_formatted": "3,146",
+          "prize": 0.12,
+          "prize_formatted": "$0.12",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 134269,
+        "text": "What product did the Guinness brewery stop using to give its beer vegan status?",
+        "question_number": 12,
+        "eliminated": "4,658",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "11,374",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275876,
+            "text": "Beetle dye",
+            "correct": false,
+            "count": "639",
+            "percent": "4.82%"
+          },
+          {
+            "id": 275877,
+            "text": "Fish bladders",
+            "correct": true,
+            "count": "11,374",
+            "percent": "85.86%"
+          },
+          {
+            "id": 275878,
+            "text": "Mutton tallow",
+            "correct": false,
+            "count": "1,234",
+            "percent": "9.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/2/12",
+        "game_link": "/us/game/2019-07-24/2",
+        "correct_answers": 11374,
+        "incorrect_answers": 1873,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134286,
+        "text": "Jetâs âAre You Gonna Be My Girlâ gained popularity after being featured in a commercial for what?",
+        "question_number": 13,
+        "eliminated": "5,501",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "6,903",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275903,
+            "text": "Car",
+            "correct": false,
+            "count": "3,713",
+            "percent": "30.04%"
+          },
+          {
+            "id": 275905,
+            "text": "Airline",
+            "correct": false,
+            "count": "1,745",
+            "percent": "14.12%"
+          },
+          {
+            "id": 275907,
+            "text": "MP3 player",
+            "correct": true,
+            "count": "6,903",
+            "percent": "55.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/2/13",
+        "game_link": "/us/game/2019-07-24/2",
+        "correct_answers": 6903,
+        "incorrect_answers": 5458,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134301,
+        "text": "What activity does Bradley Cooper do in both âHeâs Just Not That Into Youâ and âFailure to Launchâ?",
+        "question_number": 14,
+        "eliminated": "4,467",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,436",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275924,
+            "text": "Yoga",
+            "correct": true,
+            "count": "2,436",
+            "percent": "35.85%"
+          },
+          {
+            "id": 275927,
+            "text": "Tennis",
+            "correct": false,
+            "count": "2,643",
+            "percent": "38.9%"
+          },
+          {
+            "id": 275931,
+            "text": "Dancing",
+            "correct": false,
+            "count": "1,716",
+            "percent": "25.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/2/14",
+        "game_link": "/us/game/2019-07-24/2",
+        "correct_answers": 2436,
+        "incorrect_answers": 4359,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134319,
+        "text": "Which of these building materials is often a component of the other two?",
+        "question_number": 15,
+        "eliminated": "1,775",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "661",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275950,
+            "text": "Plaster",
+            "correct": false,
+            "count": "810",
+            "percent": "33.37%"
+          },
+          {
+            "id": 275954,
+            "text": "Concrete",
+            "correct": false,
+            "count": "955",
+            "percent": "39.35%"
+          },
+          {
+            "id": 275958,
+            "text": "Cement",
+            "correct": true,
+            "count": "662",
+            "percent": "27.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/2/15",
+        "game_link": "/us/game/2019-07-24/2",
+        "correct_answers": 662,
+        "incorrect_answers": 1765,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 15,
+          "players_left": 267,
+          "players_left_formatted": "267",
+          "num_winners": 391,
+          "num_winners_formatted": "391",
+          "prize": 4.55,
+          "prize_formatted": "$4.55",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 134333,
+        "text": "Which of these Fleetwood Mac songs contains a scientific inaccuracy in the chorus?",
+        "question_number": 16,
+        "eliminated": "166",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "101",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275972,
+            "text": "Go Your Own Way",
+            "correct": false,
+            "count": "72",
+            "percent": "27.38%"
+          },
+          {
+            "id": 275975,
+            "text": "Donât Stop",
+            "correct": false,
+            "count": "90",
+            "percent": "34.22%"
+          },
+          {
+            "id": 275981,
+            "text": "Dreams",
+            "correct": true,
+            "count": "101",
+            "percent": "38.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/2/16",
+        "game_link": "/us/game/2019-07-24/2",
+        "correct_answers": 101,
+        "incorrect_answers": 162,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134347,
+        "text": "The name for the longest single nerve in the human body comes from a word relating to what?",
+        "question_number": 17,
+        "eliminated": "69",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "30",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 275993,
+            "text": "Leg",
+            "correct": false,
+            "count": "35",
+            "percent": "36.08%"
+          },
+          {
+            "id": 275994,
+            "text": "Spine",
+            "correct": false,
+            "count": "31",
+            "percent": "31.96%"
+          },
+          {
+            "id": 275997,
+            "text": "Hip",
+            "correct": true,
+            "count": "31",
+            "percent": "31.96%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/2/17",
+        "game_link": "/us/game/2019-07-24/2",
+        "correct_answers": 31,
+        "incorrect_answers": 66,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134366,
+        "text": "Which of these is the capital of a state with an alliterative NHL team name?",
+        "question_number": 18,
+        "eliminated": "17",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "12",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276021,
+            "text": "Denver",
+            "correct": false,
+            "count": "6",
+            "percent": "22.22%"
+          },
+          {
+            "id": 276026,
+            "text": "Lansing",
+            "correct": false,
+            "count": "8",
+            "percent": "29.63%"
+          },
+          {
+            "id": 276030,
+            "text": "Harrisburg",
+            "correct": true,
+            "count": "13",
+            "percent": "48.15%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/2/18",
+        "game_link": "/us/game/2019-07-24/2",
+        "correct_answers": 13,
+        "incorrect_answers": 14,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 18,
+          "players_left": 1,
+          "players_left_formatted": "1",
+          "num_winners": 10,
+          "num_winners_formatted": "10",
+          "prize": 166.67,
+          "prize_formatted": "$166.67",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 134379,
+        "text": "Which of these elements is found in nature?",
+        "question_number": 19,
+        "eliminated": "1",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "0",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276041,
+            "text": "Moscovium",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 276044,
+            "text": "Actinium",
+            "correct": true,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 276048,
+            "text": "Einsteinium",
+            "correct": false,
+            "count": "1",
+            "percent": "100.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-24/2/19",
+        "game_link": "/us/game/2019-07-24/2",
+        "correct_answers": 0,
+        "incorrect_answers": 1,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [
+      {
+        "round_number": 11,
+        "players_left": 13887,
+        "players_left_formatted": "13,887",
+        "num_winners": 3146,
+        "num_winners_formatted": "3,146",
+        "prize": 0.12,
+        "prize_formatted": "$0.12",
+        "currency": "$"
+      },
+      {
+        "round_number": 15,
+        "players_left": 267,
+        "players_left_formatted": "267",
+        "num_winners": 391,
+        "num_winners_formatted": "391",
+        "prize": 4.55,
+        "prize_formatted": "$4.55",
+        "currency": "$"
+      },
+      {
+        "round_number": 18,
+        "players_left": 1,
+        "players_left_formatted": "1",
+        "num_winners": 10,
+        "num_winners_formatted": "10",
+        "prize": 166.67,
+        "prize_formatted": "$166.67",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "3,823.27",
+    "total_checkpoint_winners": "3,547",
+    "smallest_checkpoint_prize": "$0.12",
+    "largest_checkpoint_prize": "$166.67",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

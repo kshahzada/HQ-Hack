@@ -1,0 +1,1319 @@
+[
+  {
+    "id": 42517,
+    "show_id": 9213,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "2,500",
+    "currency": "$",
+    "start_time": "2019-01-08T20:00:00Z",
+    "direct_link": "/us/game/2019-01-08/1",
+    "time": " 3:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "8,675",
+      "currency": "$",
+      "average_prize": "0.29"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 41189,
+        "text": "Which exercise typically engages your arms the most?",
+        "question_number": 1,
+        "eliminated": "-4,043",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "204,713",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123456,
+            "text": "Crunches",
+            "correct": false,
+            "count": "3,575",
+            "percent": "1.81%"
+          },
+          {
+            "id": 123461,
+            "text": "Push-ups",
+            "correct": true,
+            "count": "193,273",
+            "percent": "97.63%"
+          },
+          {
+            "id": 123469,
+            "text": "Squats",
+            "correct": false,
+            "count": "1,108",
+            "percent": "0.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/1/1",
+        "game_link": "/us/game/2019-01-08/1",
+        "correct_answers": 193273,
+        "incorrect_answers": 4683,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41194,
+        "text": "Which of these athletes famously sells a line of grills?",
+        "question_number": 2,
+        "eliminated": "5,842",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "199,031",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123476,
+            "text": "Wayne Gretzky",
+            "correct": false,
+            "count": "4,823",
+            "percent": "2.44%"
+          },
+          {
+            "id": 123479,
+            "text": "Tom Brady",
+            "correct": false,
+            "count": "4,232",
+            "percent": "2.14%"
+          },
+          {
+            "id": 123485,
+            "text": "George Foreman",
+            "correct": true,
+            "count": "188,940",
+            "percent": "95.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/1/2",
+        "game_link": "/us/game/2019-01-08/1",
+        "correct_answers": 188940,
+        "incorrect_answers": 9055,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41201,
+        "text": "What long-running newspaper comic usually appears in a circular panel, not a square one?",
+        "question_number": 3,
+        "eliminated": "18,814",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "180,525",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123498,
+            "text": "Dennis the Menace",
+            "correct": false,
+            "count": "27,782",
+            "percent": "14.76%"
+          },
+          {
+            "id": 123501,
+            "text": "The Family Circus",
+            "correct": true,
+            "count": "142,196",
+            "percent": "75.55%"
+          },
+          {
+            "id": 123505,
+            "text": "Ziggy",
+            "correct": false,
+            "count": "18,245",
+            "percent": "9.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/1/3",
+        "game_link": "/us/game/2019-01-08/1",
+        "correct_answers": 142196,
+        "incorrect_answers": 46027,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41209,
+        "text": "Celebrities on the Golden Globes red carpet were repeatedly âphotobombedâ by a woman holding what?",
+        "question_number": 4,
+        "eliminated": "20,241",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "161,434",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123523,
+            "text": "Water bottles",
+            "correct": true,
+            "count": "114,748",
+            "percent": "66.4%"
+          },
+          {
+            "id": 123528,
+            "text": "A cat",
+            "correct": false,
+            "count": "36,555",
+            "percent": "21.15%"
+          },
+          {
+            "id": 123535,
+            "text": "Muffins",
+            "correct": false,
+            "count": "21,522",
+            "percent": "12.45%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/1/4",
+        "game_link": "/us/game/2019-01-08/1",
+        "correct_answers": 114748,
+        "incorrect_answers": 58077,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41221,
+        "text": "Nuuk is the capital of which of these places?",
+        "question_number": 5,
+        "eliminated": "27,998",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "134,979",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123557,
+            "text": "Greenland",
+            "correct": true,
+            "count": "74,249",
+            "percent": "47.69%"
+          },
+          {
+            "id": 123559,
+            "text": "Finland",
+            "correct": false,
+            "count": "45,499",
+            "percent": "29.22%"
+          },
+          {
+            "id": 123560,
+            "text": "Iceland",
+            "correct": false,
+            "count": "35,947",
+            "percent": "23.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/1/5",
+        "game_link": "/us/game/2019-01-08/1",
+        "correct_answers": 74249,
+        "incorrect_answers": 81446,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41227,
+        "text": "What music superstar does Stitch impersonate in âLilo & Stitchâ?",
+        "question_number": 6,
+        "eliminated": "10,458",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "126,465",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123574,
+            "text": "Madonna",
+            "correct": false,
+            "count": "5,918",
+            "percent": "4.52%"
+          },
+          {
+            "id": 123581,
+            "text": "Prince",
+            "correct": false,
+            "count": "11,731",
+            "percent": "8.96%"
+          },
+          {
+            "id": 123585,
+            "text": "Elvis",
+            "correct": true,
+            "count": "113,327",
+            "percent": "86.53%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/1/6",
+        "game_link": "/us/game/2019-01-08/1",
+        "correct_answers": 113327,
+        "incorrect_answers": 17649,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41233,
+        "text": "Meghan Markle is now known as the Duchess of what?",
+        "question_number": 7,
+        "eliminated": "23,957",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "103,346",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123595,
+            "text": "Sussex",
+            "correct": true,
+            "count": "76,022",
+            "percent": "61.72%"
+          },
+          {
+            "id": 123602,
+            "text": "Essex",
+            "correct": false,
+            "count": "21,673",
+            "percent": "17.59%"
+          },
+          {
+            "id": 123608,
+            "text": "Cambridge",
+            "correct": false,
+            "count": "25,484",
+            "percent": "20.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/1/7",
+        "game_link": "/us/game/2019-01-08/1",
+        "correct_answers": 76022,
+        "incorrect_answers": 47157,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41241,
+        "text": "Which of these is NOT an âAmerican Horror Storyâ season subtitle?",
+        "question_number": 8,
+        "eliminated": "14,813",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "90,654",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123618,
+            "text": "Camp",
+            "correct": true,
+            "count": "75,779",
+            "percent": "74.04%"
+          },
+          {
+            "id": 123619,
+            "text": "Coven",
+            "correct": false,
+            "count": "12,103",
+            "percent": "11.82%"
+          },
+          {
+            "id": 123620,
+            "text": "Cult",
+            "correct": false,
+            "count": "14,473",
+            "percent": "14.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/1/8",
+        "game_link": "/us/game/2019-01-08/1",
+        "correct_answers": 75779,
+        "incorrect_answers": 26576,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41250,
+        "text": "Which of these magazines once wrote a cover story on a fake up-and-coming star?",
+        "question_number": 9,
+        "eliminated": "32,146",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "60,240",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123643,
+            "text": "Cosmopolitan",
+            "correct": false,
+            "count": "13,936",
+            "percent": "15.9%"
+          },
+          {
+            "id": 123646,
+            "text": "Vanity Fair",
+            "correct": false,
+            "count": "39,016",
+            "percent": "44.51%"
+          },
+          {
+            "id": 123658,
+            "text": "Esquire",
+            "correct": true,
+            "count": "34,702",
+            "percent": "39.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/1/9",
+        "game_link": "/us/game/2019-01-08/1",
+        "correct_answers": 34702,
+        "incorrect_answers": 52952,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41256,
+        "text": "Which of these popular websites does NOT have a founding member in common?",
+        "question_number": 10,
+        "eliminated": "25,632",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "38,966",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123666,
+            "text": "The Daily Beast",
+            "correct": true,
+            "count": "23,284",
+            "percent": "37.36%"
+          },
+          {
+            "id": 123678,
+            "text": "Buzzfeed",
+            "correct": false,
+            "count": "15,351",
+            "percent": "24.63%"
+          },
+          {
+            "id": 123682,
+            "text": "Huffpost",
+            "correct": false,
+            "count": "23,693",
+            "percent": "38.01%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/1/10",
+        "game_link": "/us/game/2019-01-08/1",
+        "correct_answers": 23284,
+        "incorrect_answers": 39044,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41264,
+        "text": "Photos submitted for wedding announcements in âThe New York Timesâ must comply with what rule?",
+        "question_number": 11,
+        "eliminated": "16,602",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "26,334",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123687,
+            "text": "Taken outdoors",
+            "correct": false,
+            "count": "9,113",
+            "percent": "22.25%"
+          },
+          {
+            "id": 123688,
+            "text": "Coupleâs eyes aligned",
+            "correct": true,
+            "count": "26,334",
+            "percent": "64.31%"
+          },
+          {
+            "id": 123689,
+            "text": "Matching outfits",
+            "correct": false,
+            "count": "5,503",
+            "percent": "13.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/1/11",
+        "game_link": "/us/game/2019-01-08/1",
+        "correct_answers": 26334,
+        "incorrect_answers": 14616,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41276,
+        "text": "Which legendary athlete earned positive reviews for their singing role in a Broadway musical?",
+        "question_number": 12,
+        "eliminated": "21,192",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "8,675",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123723,
+            "text": "Bruce Lee",
+            "correct": false,
+            "count": "6,219",
+            "percent": "21.39%"
+          },
+          {
+            "id": 123725,
+            "text": "Muhammad Ali",
+            "correct": true,
+            "count": "8,675",
+            "percent": "29.84%"
+          },
+          {
+            "id": 123730,
+            "text": "Billie Jean King",
+            "correct": false,
+            "count": "14,178",
+            "percent": "48.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/1/12",
+        "game_link": "/us/game/2019-01-08/1",
+        "correct_answers": 8675,
+        "incorrect_answers": 20397,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 42638,
+    "show_id": 9261,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "50,000",
+    "currency": "$",
+    "start_time": "2019-01-09T02:00:00Z",
+    "direct_link": "/us/game/2019-01-08/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 41283,
+        "text": "Which of these locations shares its name with a Chevy truck?",
+        "question_number": 1,
+        "eliminated": "3,613",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "663,850",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123740,
+            "text": "Appalachian Mountains",
+            "correct": false,
+            "count": "18,943",
+            "percent": "2.86%"
+          },
+          {
+            "id": 123746,
+            "text": "Silverado Trail",
+            "correct": true,
+            "count": "629,490",
+            "percent": "94.98%"
+          },
+          {
+            "id": 123750,
+            "text": "Everglades",
+            "correct": false,
+            "count": "14,362",
+            "percent": "2.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/2/1",
+        "game_link": "/us/game/2019-01-08/2",
+        "correct_answers": 629490,
+        "incorrect_answers": 33305,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41292,
+        "text": "A truck without any walls or roof on its rear portion is known as what?",
+        "question_number": 2,
+        "eliminated": "18,025",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "647,027",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123771,
+            "text": "Longtable",
+            "correct": false,
+            "count": "14,995",
+            "percent": "2.33%"
+          },
+          {
+            "id": 123772,
+            "text": "Flatbed",
+            "correct": true,
+            "count": "623,441",
+            "percent": "96.91%"
+          },
+          {
+            "id": 123773,
+            "text": "Roundchair",
+            "correct": false,
+            "count": "4,860",
+            "percent": "0.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/2/2",
+        "game_link": "/us/game/2019-01-08/2",
+        "correct_answers": 623441,
+        "incorrect_answers": 19855,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41296,
+        "text": "When a truck is referred to as a semi, what is âsemiâ short for?",
+        "question_number": 3,
+        "eliminated": "56,373",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "591,735",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123783,
+            "text": "Semi-duty",
+            "correct": false,
+            "count": "104,481",
+            "percent": "16.62%"
+          },
+          {
+            "id": 123784,
+            "text": "Semi-final",
+            "correct": false,
+            "count": "3,226",
+            "percent": "0.51%"
+          },
+          {
+            "id": 123785,
+            "text": "Semi-trailer",
+            "correct": true,
+            "count": "521,048",
+            "percent": "82.87%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/2/3",
+        "game_link": "/us/game/2019-01-08/2",
+        "correct_answers": 521048,
+        "incorrect_answers": 107707,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41303,
+        "text": "Which of these typically contains components called trucks?",
+        "question_number": 4,
+        "eliminated": "59,037",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "538,246",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123804,
+            "text": "Skateboard",
+            "correct": true,
+            "count": "475,644",
+            "percent": "82.34%"
+          },
+          {
+            "id": 123806,
+            "text": "Dartboard",
+            "correct": false,
+            "count": "50,947",
+            "percent": "8.82%"
+          },
+          {
+            "id": 123809,
+            "text": "Surfboard",
+            "correct": false,
+            "count": "51,051",
+            "percent": "8.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/2/4",
+        "game_link": "/us/game/2019-01-08/2",
+        "correct_answers": 475644,
+        "incorrect_answers": 101998,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41311,
+        "text": "Which of these stars once played a professional truck driver in a movie?",
+        "question_number": 5,
+        "eliminated": "143,659",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "401,362",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123828,
+            "text": "Arnold Schwarzenegger",
+            "correct": false,
+            "count": "54,012",
+            "percent": "10.21%"
+          },
+          {
+            "id": 123829,
+            "text": "Bruce Willis",
+            "correct": false,
+            "count": "200,131",
+            "percent": "37.83%"
+          },
+          {
+            "id": 123831,
+            "text": "Sylvester Stallone",
+            "correct": true,
+            "count": "274,885",
+            "percent": "51.96%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/2/5",
+        "game_link": "/us/game/2019-01-08/2",
+        "correct_answers": 274885,
+        "incorrect_answers": 254143,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41318,
+        "text": "What is the term for a pickup truck with four wheels on the rear axle?",
+        "question_number": 6,
+        "eliminated": "69,265",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "354,489",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123849,
+            "text": "Six-wheel drive",
+            "correct": false,
+            "count": "52,211",
+            "percent": "12.61%"
+          },
+          {
+            "id": 123851,
+            "text": "Quadder",
+            "correct": false,
+            "count": "66,092",
+            "percent": "15.97%"
+          },
+          {
+            "id": 123854,
+            "text": "Dually",
+            "correct": true,
+            "count": "295,674",
+            "percent": "71.42%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/2/6",
+        "game_link": "/us/game/2019-01-08/2",
+        "correct_answers": 295674,
+        "incorrect_answers": 118303,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41325,
+        "text": "Which of these industries often involves a technique known as âdouble truckâ?",
+        "question_number": 7,
+        "eliminated": "216,355",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "176,963",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123872,
+            "text": "Food catering",
+            "correct": false,
+            "count": "82,268",
+            "percent": "21.38%"
+          },
+          {
+            "id": 123874,
+            "text": "Logging",
+            "correct": false,
+            "count": "253,154",
+            "percent": "65.79%"
+          },
+          {
+            "id": 123876,
+            "text": "Magazine publishing",
+            "correct": true,
+            "count": "49,354",
+            "percent": "12.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/2/7",
+        "game_link": "/us/game/2019-01-08/2",
+        "correct_answers": 49354,
+        "incorrect_answers": 335422,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41335,
+        "text": "Which of these TV characters has their own food truck?",
+        "question_number": 8,
+        "eliminated": "103,592",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "202,666",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123897,
+            "text": "Cookie Monster",
+            "correct": true,
+            "count": "154,078",
+            "percent": "51.34%"
+          },
+          {
+            "id": 123901,
+            "text": "Fred Flintstone",
+            "correct": false,
+            "count": "62,558",
+            "percent": "20.85%"
+          },
+          {
+            "id": 123905,
+            "text": "Roger Rabbit",
+            "correct": false,
+            "count": "83,470",
+            "percent": "27.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/2/8",
+        "game_link": "/us/game/2019-01-08/2",
+        "correct_answers": 154078,
+        "incorrect_answers": 146028,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41344,
+        "text": "Now known for making very large trucks, what is the oldest still-active automobile brand in the US?",
+        "question_number": 9,
+        "eliminated": "107,043",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "119,384",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123927,
+            "text": "Dixie Flyer",
+            "correct": false,
+            "count": "80,620",
+            "percent": "36.69%"
+          },
+          {
+            "id": 123929,
+            "text": "Autocar",
+            "correct": true,
+            "count": "53,404",
+            "percent": "24.3%"
+          },
+          {
+            "id": 123935,
+            "text": "Columbia",
+            "correct": false,
+            "count": "85,702",
+            "percent": "39.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/2/9",
+        "game_link": "/us/game/2019-01-08/2",
+        "correct_answers": 53404,
+        "incorrect_answers": 166322,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41349,
+        "text": "In the âTransformersâ universe, what was the original name of Optimus Prime?",
+        "question_number": 10,
+        "eliminated": "62,746",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "88,789",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123942,
+            "text": "Rodimus Prime",
+            "correct": false,
+            "count": "17,061",
+            "percent": "11.54%"
+          },
+          {
+            "id": 123943,
+            "text": "Orion Pax",
+            "correct": true,
+            "count": "65,779",
+            "percent": "44.49%"
+          },
+          {
+            "id": 123944,
+            "text": "Sentinel Prime",
+            "correct": false,
+            "count": "65,008",
+            "percent": "43.97%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/2/10",
+        "game_link": "/us/game/2019-01-08/2",
+        "correct_answers": 65779,
+        "incorrect_answers": 82069,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41359,
+        "text": "The noun âtruckâ is thought to come from what earlier word?",
+        "question_number": 11,
+        "eliminated": "55,704",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "57,266",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123972,
+            "text": "Truckle",
+            "correct": true,
+            "count": "57,266",
+            "percent": "51.36%"
+          },
+          {
+            "id": 123974,
+            "text": "Truckage",
+            "correct": false,
+            "count": "37,285",
+            "percent": "33.44%"
+          },
+          {
+            "id": 123979,
+            "text": "Truckie",
+            "correct": false,
+            "count": "16,959",
+            "percent": "15.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/2/11",
+        "game_link": "/us/game/2019-01-08/2",
+        "correct_answers": 57266,
+        "incorrect_answers": 54244,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41367,
+        "text": "Which of these places is one of the cities mentioned in the Grateful Dead song âTruckinââ?",
+        "question_number": 12,
+        "eliminated": "54,957",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "28,572",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 123999,
+            "text": "Buffalo",
+            "correct": true,
+            "count": "28,572",
+            "percent": "35.15%"
+          },
+          {
+            "id": 124001,
+            "text": "Kansas City",
+            "correct": false,
+            "count": "29,767",
+            "percent": "36.62%"
+          },
+          {
+            "id": 124005,
+            "text": "Cleveland",
+            "correct": false,
+            "count": "22,942",
+            "percent": "28.23%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-08/2/12",
+        "game_link": "/us/game/2019-01-08/2",
+        "correct_answers": 28572,
+        "incorrect_answers": 52709,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 42737,
+    "show_id": 9269,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-01-09T02:30:00Z",
+    "direct_link": "/us/game/2019-01-08/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "300.09",
+          "time": "77.42"
+        },
+        {
+          "number": "2",
+          "amount": "150.09",
+          "time": "78.96"
+        },
+        {
+          "number": "3",
+          "amount": "50.09",
+          "time": "79.49"
+        },
+        {
+          "number": "5,537",
+          "amount": "0.09",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.09025270758122744,
+      "top_players_prize": 500.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-01-08/3/1",
+        "question_number": 1,
+        "text": "Planet",
+        "answer": [
+          "SATURN"
+        ],
+        "initial_letters": [
+          "S"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "R"
+        ],
+        "game_link": "/us/game/2019-01-08/3",
+        "eliminated": 9905,
+        "advancing": 267257,
+        "correct_answers": 267257,
+        "incorrect_answers": 9905
+      },
+      {
+        "direct_link": "/us/game/2019-01-08/3/2",
+        "question_number": 2,
+        "text": "Body Part",
+        "answer": [
+          "WRIST"
+        ],
+        "initial_letters": [
+          "W"
+        ],
+        "to_reveal_letters": [
+          "R",
+          "T"
+        ],
+        "game_link": "/us/game/2019-01-08/3",
+        "eliminated": 17603,
+        "advancing": 250511,
+        "correct_answers": 250511,
+        "incorrect_answers": 17603
+      },
+      {
+        "direct_link": "/us/game/2019-01-08/3/3",
+        "question_number": 3,
+        "text": "Mammal",
+        "answer": [
+          "ANTEATER"
+        ],
+        "initial_letters": [
+          "A"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "T"
+        ],
+        "game_link": "/us/game/2019-01-08/3",
+        "eliminated": 16840,
+        "advancing": 235332,
+        "correct_answers": 235332,
+        "incorrect_answers": 16840
+      },
+      {
+        "direct_link": "/us/game/2019-01-08/3/4",
+        "question_number": 4,
+        "text": "Outdoor Kids' Game",
+        "answer": [
+          "HOPSCOTCH"
+        ],
+        "initial_letters": [
+          "H"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "O"
+        ],
+        "game_link": "/us/game/2019-01-08/3",
+        "eliminated": 27419,
+        "advancing": 209903,
+        "correct_answers": 209903,
+        "incorrect_answers": 27419
+      },
+      {
+        "direct_link": "/us/game/2019-01-08/3/5",
+        "question_number": 5,
+        "text": "Music Genre",
+        "answer": [
+          "SMOOTH",
+          "JAZZ"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "J",
+          "T"
+        ],
+        "game_link": "/us/game/2019-01-08/3",
+        "eliminated": 78949,
+        "advancing": 134505,
+        "correct_answers": 134505,
+        "incorrect_answers": 78949
+      },
+      {
+        "direct_link": "/us/game/2019-01-08/3/6",
+        "question_number": 6,
+        "text": "Cartoon Characters",
+        "answer": [
+          "ALVIN",
+          "&",
+          "THE",
+          "CHIPMUNKS"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "M"
+        ],
+        "game_link": "/us/game/2019-01-08/3",
+        "eliminated": 81097,
+        "advancing": 64529,
+        "correct_answers": 64529,
+        "incorrect_answers": 81097
+      },
+      {
+        "direct_link": "/us/game/2019-01-08/3/7",
+        "question_number": 7,
+        "text": "What's On The Shelf?",
+        "answer": [
+          "BOWLING",
+          "TROPHY"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "P",
+          "T"
+        ],
+        "game_link": "/us/game/2019-01-08/3",
+        "eliminated": 60951,
+        "advancing": 17632,
+        "correct_answers": 17632,
+        "incorrect_answers": 60951
+      },
+      {
+        "direct_link": "/us/game/2019-01-08/3/8",
+        "question_number": 8,
+        "text": "US School Routine",
+        "answer": [
+          "PLEDGE",
+          "OF",
+          "ALLEGIANCE"
+        ],
+        "initial_letters": [
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "I"
+        ],
+        "game_link": "/us/game/2019-01-08/3",
+        "eliminated": 3244,
+        "advancing": 24704,
+        "correct_answers": 24704,
+        "incorrect_answers": 3244
+      },
+      {
+        "direct_link": "/us/game/2019-01-08/3/9",
+        "question_number": 9,
+        "text": "Beauty Process",
+        "answer": [
+          "THREADING",
+          "YOUR",
+          "EYEBROWS"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "I"
+        ],
+        "game_link": "/us/game/2019-01-08/3",
+        "eliminated": 14140,
+        "advancing": 10943,
+        "correct_answers": 10943,
+        "incorrect_answers": 14140
+      },
+      {
+        "direct_link": "/us/game/2019-01-08/3/10",
+        "question_number": 10,
+        "text": "Artistic Disappointment",
+        "answer": [
+          "SOPHOMORE",
+          "SLUMP"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "M"
+        ],
+        "game_link": "/us/game/2019-01-08/3",
+        "eliminated": 7832,
+        "advancing": 5540,
+        "correct_answers": 5540,
+        "incorrect_answers": 7832
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

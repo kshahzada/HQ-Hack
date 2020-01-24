@@ -1,0 +1,976 @@
+[
+  {
+    "id": 95443,
+    "show_id": 10301,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-04-14T01:00:00Z",
+    "direct_link": "/us/game/2019-04-13/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "5,816",
+      "currency": "$",
+      "average_prize": "0.86"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Smarter Day",
+        "slug": "smarter-day"
+      }
+    ],
+    "questions": [
+      {
+        "id": 98674,
+        "text": "Who won in the biblical tale of David and Goliath?",
+        "question_number": 1,
+        "eliminated": "-17,752",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "312,078",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 222484,
+            "text": "Goliath",
+            "correct": false,
+            "count": "22,374",
+            "percent": "7.67%"
+          },
+          {
+            "id": 222486,
+            "text": "David",
+            "correct": true,
+            "count": "267,201",
+            "percent": "91.6%"
+          },
+          {
+            "id": 222487,
+            "text": "Carl",
+            "correct": false,
+            "count": "2,144",
+            "percent": "0.73%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-13/1/1",
+        "game_link": "/us/game/2019-04-13/1",
+        "correct_answers": 267201,
+        "incorrect_answers": 24518,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98690,
+        "text": "By definition, a person who âexpectoratesâ while speaking is doing what?",
+        "question_number": 2,
+        "eliminated": "5,935",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "306,676",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 222508,
+            "text": "Waiting",
+            "correct": false,
+            "count": "26,197",
+            "percent": "8.86%"
+          },
+          {
+            "id": 222510,
+            "text": "Hoping",
+            "correct": false,
+            "count": "27,093",
+            "percent": "9.16%"
+          },
+          {
+            "id": 222511,
+            "text": "Spitting",
+            "correct": true,
+            "count": "242,526",
+            "percent": "81.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-13/1/2",
+        "game_link": "/us/game/2019-04-13/1",
+        "correct_answers": 242526,
+        "incorrect_answers": 53290,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98710,
+        "text": "Which of these places has a recognized monarchy?",
+        "question_number": 3,
+        "eliminated": "5,021",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "302,188",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 222537,
+            "text": "Denmark",
+            "correct": true,
+            "count": "226,375",
+            "percent": "78.54%"
+          },
+          {
+            "id": 222539,
+            "text": "Russia",
+            "correct": false,
+            "count": "54,009",
+            "percent": "18.74%"
+          },
+          {
+            "id": 222541,
+            "text": "Mexico",
+            "correct": false,
+            "count": "7,856",
+            "percent": "2.73%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-13/1/3",
+        "game_link": "/us/game/2019-04-13/1",
+        "correct_answers": 226375,
+        "incorrect_answers": 61865,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98719,
+        "text": "Which of these words is part of the business acronym IPO?",
+        "question_number": 4,
+        "eliminated": "11,718",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "290,888",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 222551,
+            "text": "Overflow",
+            "correct": false,
+            "count": "26,017",
+            "percent": "9.24%"
+          },
+          {
+            "id": 222552,
+            "text": "Price",
+            "correct": false,
+            "count": "69,541",
+            "percent": "24.69%"
+          },
+          {
+            "id": 222553,
+            "text": "Initial",
+            "correct": true,
+            "count": "186,083",
+            "percent": "66.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-13/1/4",
+        "game_link": "/us/game/2019-04-13/1",
+        "correct_answers": 186083,
+        "incorrect_answers": 95558,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98735,
+        "text": "Which of these is technically an ossicle?",
+        "question_number": 5,
+        "eliminated": "22,131",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "269,620",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 222575,
+            "text": "Lysosome",
+            "correct": false,
+            "count": "80,723",
+            "percent": "29.75%"
+          },
+          {
+            "id": 222576,
+            "text": "Schwinn",
+            "correct": false,
+            "count": "85,221",
+            "percent": "31.41%"
+          },
+          {
+            "id": 222582,
+            "text": "Stapes",
+            "correct": true,
+            "count": "105,354",
+            "percent": "38.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-13/1/5",
+        "game_link": "/us/game/2019-04-13/1",
+        "correct_answers": 105354,
+        "incorrect_answers": 165944,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98752,
+        "text": "Which of these is NOT in the same family as the other two?",
+        "question_number": 6,
+        "eliminated": "44,100",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "227,205",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 222600,
+            "text": "Tobacco",
+            "correct": false,
+            "count": "94,295",
+            "percent": "37.68%"
+          },
+          {
+            "id": 222608,
+            "text": "Tomato",
+            "correct": false,
+            "count": "65,400",
+            "percent": "26.14%"
+          },
+          {
+            "id": 222616,
+            "text": "Cauliflower",
+            "correct": true,
+            "count": "90,535",
+            "percent": "36.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-13/1/6",
+        "game_link": "/us/game/2019-04-13/1",
+        "correct_answers": 90535,
+        "incorrect_answers": 159695,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98767,
+        "text": "By definition, which of these weather conditions is part of the weather phenomenon known as pogonip?",
+        "question_number": 7,
+        "eliminated": "102,513",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "128,829",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 222623,
+            "text": "Snow",
+            "correct": false,
+            "count": "10,966",
+            "percent": "5.16%"
+          },
+          {
+            "id": 222629,
+            "text": "Fog",
+            "correct": true,
+            "count": "125,213",
+            "percent": "58.91%"
+          },
+          {
+            "id": 222635,
+            "text": "Hail",
+            "correct": false,
+            "count": "76,383",
+            "percent": "35.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-13/1/7",
+        "game_link": "/us/game/2019-04-13/1",
+        "correct_answers": 125213,
+        "incorrect_answers": 87349,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98783,
+        "text": "A complex of walls thousands of miles long once protected what African kingdom?",
+        "question_number": 8,
+        "eliminated": "90,213",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "45,528",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 222647,
+            "text": "Timbuktu",
+            "correct": false,
+            "count": "51,921",
+            "percent": "40.19%"
+          },
+          {
+            "id": 222648,
+            "text": "Benin",
+            "correct": true,
+            "count": "45,515",
+            "percent": "35.23%"
+          },
+          {
+            "id": 222650,
+            "text": "Lesotho",
+            "correct": false,
+            "count": "31,766",
+            "percent": "24.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-13/1/8",
+        "game_link": "/us/game/2019-04-13/1",
+        "correct_answers": 45515,
+        "incorrect_answers": 83687,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98795,
+        "text": "Which of these organizations has NOT won the Nobel Peace Prize?",
+        "question_number": 9,
+        "eliminated": "19,888",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "33,208",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 222665,
+            "text": "Greenpeace",
+            "correct": true,
+            "count": "33,207",
+            "percent": "67.71%"
+          },
+          {
+            "id": 222668,
+            "text": "Red Cross",
+            "correct": false,
+            "count": "6,309",
+            "percent": "12.86%"
+          },
+          {
+            "id": 222672,
+            "text": "UNICEF",
+            "correct": false,
+            "count": "9,527",
+            "percent": "19.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-13/1/9",
+        "game_link": "/us/game/2019-04-13/1",
+        "correct_answers": 33207,
+        "incorrect_answers": 15836,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98813,
+        "text": "Which of these is the name of a cat in TS Eliotâs beloved cat poetry book?",
+        "question_number": 10,
+        "eliminated": "6,630",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "29,267",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 222691,
+            "text": "Mabel Meows",
+            "correct": false,
+            "count": "1,983",
+            "percent": "5.6%"
+          },
+          {
+            "id": 222695,
+            "text": "Quilliam Smith",
+            "correct": false,
+            "count": "4,146",
+            "percent": "11.71%"
+          },
+          {
+            "id": 222700,
+            "text": "Bustopher Jones",
+            "correct": true,
+            "count": "29,267",
+            "percent": "82.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-13/1/10",
+        "game_link": "/us/game/2019-04-13/1",
+        "correct_answers": 29267,
+        "incorrect_answers": 6129,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98827,
+        "text": "What does the government of Finland famously give all new mothers?",
+        "question_number": 11,
+        "eliminated": "4,096",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "26,039",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 222713,
+            "text": "Cardboard box",
+            "correct": true,
+            "count": "26,039",
+            "percent": "86.96%"
+          },
+          {
+            "id": 222718,
+            "text": "Disposable diaper pack",
+            "correct": false,
+            "count": "1,104",
+            "percent": "3.69%"
+          },
+          {
+            "id": 222724,
+            "text": "Stroller",
+            "correct": false,
+            "count": "2,802",
+            "percent": "9.36%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-13/1/11",
+        "game_link": "/us/game/2019-04-13/1",
+        "correct_answers": 26039,
+        "incorrect_answers": 3906,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98845,
+        "text": "If you suffer from oenophobia, youâll most likely be revolted by what?",
+        "question_number": 12,
+        "eliminated": "6,050",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "20,744",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 222739,
+            "text": "Clowns",
+            "correct": false,
+            "count": "780",
+            "percent": "3.02%"
+          },
+          {
+            "id": 222746,
+            "text": "Cabernet",
+            "correct": true,
+            "count": "20,744",
+            "percent": "80.23%"
+          },
+          {
+            "id": 222753,
+            "text": "Blood",
+            "correct": false,
+            "count": "4,331",
+            "percent": "16.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-13/1/12",
+        "game_link": "/us/game/2019-04-13/1",
+        "correct_answers": 20744,
+        "incorrect_answers": 5111,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98859,
+        "text": "Which fountain does the lead actress in Felliniâs âLa Dolce Vitaâ splash around in?",
+        "question_number": 13,
+        "eliminated": "1,432",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "20,922",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 222761,
+            "text": "Jet DâEau",
+            "correct": false,
+            "count": "219",
+            "percent": "0.98%"
+          },
+          {
+            "id": 222763,
+            "text": "Bellagio",
+            "correct": false,
+            "count": "1,136",
+            "percent": "5.1%"
+          },
+          {
+            "id": 222771,
+            "text": "Trevi",
+            "correct": true,
+            "count": "20,922",
+            "percent": "93.92%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-13/1/13",
+        "game_link": "/us/game/2019-04-13/1",
+        "correct_answers": 20922,
+        "incorrect_answers": 1355,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98875,
+        "text": "The African capital that comes first alphabetically is located in what country?",
+        "question_number": 14,
+        "eliminated": "15,810",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "5,494",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 222785,
+            "text": "Ethiopia",
+            "correct": false,
+            "count": "15,030",
+            "percent": "71.47%"
+          },
+          {
+            "id": 222790,
+            "text": "Algeria",
+            "correct": false,
+            "count": "505",
+            "percent": "2.4%"
+          },
+          {
+            "id": 222795,
+            "text": "Nigeria",
+            "correct": true,
+            "count": "5,494",
+            "percent": "26.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-13/1/14",
+        "game_link": "/us/game/2019-04-13/1",
+        "correct_answers": 5494,
+        "incorrect_answers": 15535,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 98891,
+        "text": "Which historical figures is depicted in a carving at the US Supreme Court building?",
+        "question_number": 15,
+        "eliminated": "6,429",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "5,816",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 222809,
+            "text": "Robert E. Lee",
+            "correct": false,
+            "count": "3,727",
+            "percent": "31.16%"
+          },
+          {
+            "id": 222817,
+            "text": "Oliver Cromwell",
+            "correct": false,
+            "count": "2,419",
+            "percent": "20.22%"
+          },
+          {
+            "id": 222825,
+            "text": "Muhammad",
+            "correct": true,
+            "count": "5,816",
+            "percent": "48.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-13/1/15",
+        "game_link": "/us/game/2019-04-13/1",
+        "correct_answers": 5816,
+        "incorrect_answers": 6146,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 95585,
+    "show_id": 10441,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-04-14T01:30:00Z",
+    "direct_link": "/us/game/2019-04-13/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "15,978",
+      "currency": "$",
+      "average_prize": "0.06"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Smarter Day",
+        "slug": "smarter-day"
+      }
+    ],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-04-13/2/1",
+        "question_number": 1,
+        "text": "A Month",
+        "answer": [
+          "THIRTY",
+          "ONE",
+          "DAYS"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-13/2",
+        "eliminated": 54000,
+        "advancing": 89513,
+        "correct_answers": 89513,
+        "incorrect_answers": 54000
+      },
+      {
+        "direct_link": "/us/game/2019-04-13/2/2",
+        "question_number": 2,
+        "text": "Jousting Dinner Theater",
+        "answer": [
+          "MEDIEVAL",
+          "TIMES"
+        ],
+        "initial_letters": [
+          " ",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "L"
+        ],
+        "game_link": "/us/game/2019-04-13/2",
+        "eliminated": 7788,
+        "advancing": 85103,
+        "correct_answers": 85103,
+        "incorrect_answers": 7788
+      },
+      {
+        "direct_link": "/us/game/2019-04-13/2/3",
+        "question_number": 3,
+        "text": "D&D Accessory",
+        "answer": [
+          "TWENTY",
+          "SIDED",
+          "DIE"
+        ],
+        "initial_letters": [
+          " ",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "T"
+        ],
+        "game_link": "/us/game/2019-04-13/2",
+        "eliminated": 13596,
+        "advancing": 71816,
+        "correct_answers": 71816,
+        "incorrect_answers": 13596
+      },
+      {
+        "direct_link": "/us/game/2019-04-13/2/4",
+        "question_number": 4,
+        "text": "Bridging Differences",
+        "answer": [
+          "CROSS",
+          "THE",
+          "GREAT",
+          "DIVIDE"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "T"
+        ],
+        "game_link": "/us/game/2019-04-13/2",
+        "eliminated": 13282,
+        "advancing": 59055,
+        "correct_answers": 59055,
+        "incorrect_answers": 13282
+      },
+      {
+        "direct_link": "/us/game/2019-04-13/2/5",
+        "question_number": 5,
+        "text": "Failed Marvel Movie",
+        "answer": [
+          "FANTASTIC",
+          "FOUR",
+          "REBOOT"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "U"
+        ],
+        "game_link": "/us/game/2019-04-13/2",
+        "eliminated": 17063,
+        "advancing": 42786,
+        "correct_answers": 42786,
+        "incorrect_answers": 17063
+      },
+      {
+        "direct_link": "/us/game/2019-04-13/2/6",
+        "question_number": 6,
+        "text": "Make Even Worse",
+        "answer": [
+          "ADD",
+          "INSULT",
+          "TO",
+          "INJURY"
+        ],
+        "initial_letters": [
+          " ",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "R"
+        ],
+        "game_link": "/us/game/2019-04-13/2",
+        "eliminated": 12592,
+        "advancing": 31708,
+        "correct_answers": 31708,
+        "incorrect_answers": 12592
+      },
+      {
+        "direct_link": "/us/game/2019-04-13/2/7",
+        "question_number": 7,
+        "text": "Rocky Road",
+        "answer": [
+          "ROUTE",
+          "SIXTY",
+          "SIX"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "T",
+          "X"
+        ],
+        "game_link": "/us/game/2019-04-13/2",
+        "eliminated": 4640,
+        "advancing": 28540,
+        "correct_answers": 28540,
+        "incorrect_answers": 4640
+      },
+      {
+        "direct_link": "/us/game/2019-04-13/2/8",
+        "question_number": 8,
+        "text": "Can You Sum It Up?",
+        "answer": [
+          "WHATâS",
+          "THE",
+          "TAKE",
+          "AWAY?"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "?",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-04-13/2",
+        "eliminated": 897,
+        "advancing": 28202,
+        "correct_answers": 28202,
+        "incorrect_answers": 897
+      },
+      {
+        "direct_link": "/us/game/2019-04-13/2/9",
+        "question_number": 9,
+        "text": "Steamy Novel",
+        "answer": [
+          "FIFTY",
+          "SHADES",
+          "OF",
+          "GREY"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "I"
+        ],
+        "game_link": "/us/game/2019-04-13/2",
+        "eliminated": 1214,
+        "advancing": 27134,
+        "correct_answers": 27134,
+        "incorrect_answers": 1214
+      },
+      {
+        "direct_link": "/us/game/2019-04-13/2/10",
+        "question_number": 10,
+        "text": "End of the Commuter Line",
+        "answer": [
+          "BUS",
+          "TERMINUS"
+        ],
+        "initial_letters": [
+          " ",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "R",
+          "T"
+        ],
+        "game_link": "/us/game/2019-04-13/2",
+        "eliminated": 10009,
+        "advancing": 17368,
+        "correct_answers": 17368,
+        "incorrect_answers": 10009
+      },
+      {
+        "direct_link": "/us/game/2019-04-13/2/11",
+        "question_number": 11,
+        "text": "Cartoon Team Up",
+        "answer": [
+          "SNOW",
+          "WHITE",
+          "&",
+          "SEVEN",
+          "DWARVES"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "V"
+        ],
+        "game_link": "/us/game/2019-04-13/2",
+        "eliminated": 2941,
+        "advancing": 16780,
+        "correct_answers": 16780,
+        "incorrect_answers": 2941
+      },
+      {
+        "direct_link": "/us/game/2019-04-13/2/12",
+        "question_number": 12,
+        "text": "Whatâs the Answer?",
+        "answer": [
+          "ONE",
+          "HUNDRED",
+          "SIXTY",
+          "FOUR"
+        ],
+        "initial_letters": [
+          " ",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "S",
+          "X"
+        ],
+        "game_link": "/us/game/2019-04-13/2",
+        "eliminated": 1711,
+        "advancing": 15978,
+        "correct_answers": 15978,
+        "incorrect_answers": 1711
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

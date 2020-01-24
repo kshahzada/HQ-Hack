@@ -1,0 +1,957 @@
+[
+  {
+    "id": 92902,
+    "show_id": 10230,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-04-06T01:00:00Z",
+    "direct_link": "/us/game/2019-04-05/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "594",
+      "currency": "$",
+      "average_prize": "8.42"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 96003,
+        "text": "Which of these has been a common feature of churches for centuries?",
+        "question_number": 1,
+        "eliminated": "-16,260",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "329,084",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218479,
+            "text": "Steeple",
+            "correct": true,
+            "count": "304,459",
+            "percent": "97.99%"
+          },
+          {
+            "id": 218482,
+            "text": "Jumbotron",
+            "correct": false,
+            "count": "4,704",
+            "percent": "1.51%"
+          },
+          {
+            "id": 218484,
+            "text": "Skateboarding ramp",
+            "correct": false,
+            "count": "1,552",
+            "percent": "0.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-05/1/1",
+        "game_link": "/us/game/2019-04-05/1",
+        "correct_answers": 304459,
+        "incorrect_answers": 6256,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96015,
+        "text": "Which of these instruments is often heard in Baroque music?",
+        "question_number": 2,
+        "eliminated": "4,779",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "324,845",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218495,
+            "text": "Synthesizer",
+            "correct": false,
+            "count": "32,599",
+            "percent": "10.31%"
+          },
+          {
+            "id": 218496,
+            "text": "Vocoder",
+            "correct": false,
+            "count": "22,253",
+            "percent": "7.04%"
+          },
+          {
+            "id": 218497,
+            "text": "Violin",
+            "correct": true,
+            "count": "261,448",
+            "percent": "82.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-05/1/2",
+        "game_link": "/us/game/2019-04-05/1",
+        "correct_answers": 261448,
+        "incorrect_answers": 54852,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96034,
+        "text": "A paleontologist would most likely study the fossils of which animal?",
+        "question_number": 3,
+        "eliminated": "2,257",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "323,113",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218523,
+            "text": "Okapi",
+            "correct": false,
+            "count": "6,265",
+            "percent": "2.01%"
+          },
+          {
+            "id": 218526,
+            "text": "Emu",
+            "correct": false,
+            "count": "6,210",
+            "percent": "2.0%"
+          },
+          {
+            "id": 218530,
+            "text": "Brontosaurus",
+            "correct": true,
+            "count": "298,552",
+            "percent": "95.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-05/1/3",
+        "game_link": "/us/game/2019-04-05/1",
+        "correct_answers": 298552,
+        "incorrect_answers": 12475,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96047,
+        "text": "What is the only country that produces Prosecco?",
+        "question_number": 4,
+        "eliminated": "8,852",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "314,435",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218543,
+            "text": "United States",
+            "correct": false,
+            "count": "8,032",
+            "percent": "2.6%"
+          },
+          {
+            "id": 218544,
+            "text": "France",
+            "correct": false,
+            "count": "44,965",
+            "percent": "14.53%"
+          },
+          {
+            "id": 218545,
+            "text": "Italy",
+            "correct": true,
+            "count": "256,360",
+            "percent": "82.87%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-05/1/4",
+        "game_link": "/us/game/2019-04-05/1",
+        "correct_answers": 256360,
+        "incorrect_answers": 52997,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96064,
+        "text": "The author of what childrenâs book also wrote raunchy rock n roll songs?",
+        "question_number": 5,
+        "eliminated": "24,431",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "290,766",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218568,
+            "text": "The Phantom Tollbooth",
+            "correct": false,
+            "count": "53,082",
+            "percent": "18.36%"
+          },
+          {
+            "id": 218571,
+            "text": "Corduroy",
+            "correct": false,
+            "count": "62,856",
+            "percent": "21.75%"
+          },
+          {
+            "id": 218575,
+            "text": "The Giving Tree",
+            "correct": true,
+            "count": "173,112",
+            "percent": "59.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-05/1/5",
+        "game_link": "/us/game/2019-04-05/1",
+        "correct_answers": 173112,
+        "incorrect_answers": 115938,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96080,
+        "text": "Which of these chess openings can only be performed by the player using the black pieces?",
+        "question_number": 6,
+        "eliminated": "61,687",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "231,442",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218592,
+            "text": "Variation",
+            "correct": false,
+            "count": "36,776",
+            "percent": "13.55%"
+          },
+          {
+            "id": 218596,
+            "text": "Defense",
+            "correct": true,
+            "count": "125,357",
+            "percent": "46.2%"
+          },
+          {
+            "id": 218603,
+            "text": "Gambit",
+            "correct": false,
+            "count": "109,229",
+            "percent": "40.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-05/1/6",
+        "game_link": "/us/game/2019-04-05/1",
+        "correct_answers": 125357,
+        "incorrect_answers": 146005,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96095,
+        "text": "Which of these metals occurs in its metallic form in nature?",
+        "question_number": 7,
+        "eliminated": "79,714",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "159,027",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218615,
+            "text": "Sodium",
+            "correct": false,
+            "count": "31,427",
+            "percent": "13.83%"
+          },
+          {
+            "id": 218621,
+            "text": "Copper",
+            "correct": true,
+            "count": "158,663",
+            "percent": "69.83%"
+          },
+          {
+            "id": 218627,
+            "text": "Lithium",
+            "correct": false,
+            "count": "37,113",
+            "percent": "16.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-05/1/7",
+        "game_link": "/us/game/2019-04-05/1",
+        "correct_answers": 158663,
+        "incorrect_answers": 68540,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96111,
+        "text": "Which of these attractions still exists at the original Disneyland under the same name?",
+        "question_number": 8,
+        "eliminated": "105,810",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "61,465",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218639,
+            "text": "Country Bear Jamboree",
+            "correct": false,
+            "count": "65,441",
+            "percent": "40.87%"
+          },
+          {
+            "id": 218640,
+            "text": "Star Tours",
+            "correct": false,
+            "count": "33,235",
+            "percent": "20.75%"
+          },
+          {
+            "id": 218642,
+            "text": "Enchanted Tiki Room",
+            "correct": true,
+            "count": "61,457",
+            "percent": "38.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-05/1/8",
+        "game_link": "/us/game/2019-04-05/1",
+        "correct_answers": 61457,
+        "incorrect_answers": 98676,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96129,
+        "text": "In which of these states is the largest city also the capital?",
+        "question_number": 9,
+        "eliminated": "46,967",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "34,287",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218669,
+            "text": "California",
+            "correct": false,
+            "count": "10,281",
+            "percent": "12.97%"
+          },
+          {
+            "id": 218675,
+            "text": "Ohio",
+            "correct": true,
+            "count": "34,285",
+            "percent": "43.27%"
+          },
+          {
+            "id": 218679,
+            "text": "Connecticut",
+            "correct": false,
+            "count": "34,678",
+            "percent": "43.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-05/1/9",
+        "game_link": "/us/game/2019-04-05/1",
+        "correct_answers": 34285,
+        "incorrect_answers": 44959,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96141,
+        "text": "âTake it Easysterâ is the name of a holiday often celebrated by fans of what film?",
+        "question_number": 10,
+        "eliminated": "23,176",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "19,432",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218684,
+            "text": "Cheech & Chong",
+            "correct": false,
+            "count": "8,131",
+            "percent": "20.09%"
+          },
+          {
+            "id": 218688,
+            "text": "The Big Lebowski",
+            "correct": true,
+            "count": "19,432",
+            "percent": "48.0%"
+          },
+          {
+            "id": 218696,
+            "text": "Wayneâs World",
+            "correct": false,
+            "count": "12,918",
+            "percent": "31.91%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-05/1/10",
+        "game_link": "/us/game/2019-04-05/1",
+        "correct_answers": 19432,
+        "incorrect_answers": 21049,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96157,
+        "text": "At which of point in the moon cycle is the difference between high and low tide at its smallest?",
+        "question_number": 11,
+        "eliminated": "15,421",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "8,113",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218708,
+            "text": "New moon",
+            "correct": false,
+            "count": "8,065",
+            "percent": "36.05%"
+          },
+          {
+            "id": 218710,
+            "text": "Full moon",
+            "correct": false,
+            "count": "6,196",
+            "percent": "27.69%"
+          },
+          {
+            "id": 218713,
+            "text": "First quarter",
+            "correct": true,
+            "count": "8,113",
+            "percent": "36.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-05/1/11",
+        "game_link": "/us/game/2019-04-05/1",
+        "correct_answers": 8113,
+        "incorrect_answers": 14261,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96173,
+        "text": "In Japan, which of these foods is often made and eaten by family members on New Yearâs Day?",
+        "question_number": 12,
+        "eliminated": "1,289",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "9,686",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218732,
+            "text": "Sushi",
+            "correct": false,
+            "count": "579",
+            "percent": "5.32%"
+          },
+          {
+            "id": 218735,
+            "text": "Mochi",
+            "correct": true,
+            "count": "9,686",
+            "percent": "89.03%"
+          },
+          {
+            "id": 218738,
+            "text": "Teriyaki",
+            "correct": false,
+            "count": "614",
+            "percent": "5.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-05/1/12",
+        "game_link": "/us/game/2019-04-05/1",
+        "correct_answers": 9686,
+        "incorrect_answers": 1193,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96189,
+        "text": "When expressed in everyday US math terms, a long scale billion is equivalent to what?",
+        "question_number": 13,
+        "eliminated": "3,821",
+        "category": "Math",
+        "category_slug": "math",
+        "advancing": "6,060",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218758,
+            "text": "Million",
+            "correct": false,
+            "count": "946",
+            "percent": "9.68%"
+          },
+          {
+            "id": 218762,
+            "text": "Billion",
+            "correct": false,
+            "count": "2,765",
+            "percent": "28.3%"
+          },
+          {
+            "id": 218767,
+            "text": "Trillion",
+            "correct": true,
+            "count": "6,060",
+            "percent": "62.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-05/1/13",
+        "game_link": "/us/game/2019-04-05/1",
+        "correct_answers": 6060,
+        "incorrect_answers": 3711,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96205,
+        "text": "Which of these was NOT one of George Washingtonâs original cabinet posts?",
+        "question_number": 14,
+        "eliminated": "4,566",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "2,054",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218780,
+            "text": "Attorney General",
+            "correct": false,
+            "count": "1,856",
+            "percent": "28.28%"
+          },
+          {
+            "id": 218788,
+            "text": "Postmaster General",
+            "correct": true,
+            "count": "2,054",
+            "percent": "31.3%"
+          },
+          {
+            "id": 218793,
+            "text": "Secretary of War",
+            "correct": false,
+            "count": "2,652",
+            "percent": "40.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-05/1/14",
+        "game_link": "/us/game/2019-04-05/1",
+        "correct_answers": 2054,
+        "incorrect_answers": 4508,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 96220,
+        "text": "Which continent has the most countries with four-letter English names?",
+        "question_number": 15,
+        "eliminated": "2,524",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "594",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 218802,
+            "text": "Africa",
+            "correct": false,
+            "count": "1,709",
+            "percent": "55.33%"
+          },
+          {
+            "id": 218806,
+            "text": "South America",
+            "correct": false,
+            "count": "786",
+            "percent": "25.45%"
+          },
+          {
+            "id": 218809,
+            "text": "Asia",
+            "correct": true,
+            "count": "594",
+            "percent": "19.23%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-05/1/15",
+        "game_link": "/us/game/2019-04-05/1",
+        "correct_answers": 594,
+        "incorrect_answers": 2495,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 93040,
+    "show_id": 10317,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-04-06T01:30:00Z",
+    "direct_link": "/us/game/2019-04-05/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "7,444",
+      "currency": "$",
+      "average_prize": "0.13"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-04-05/2/1",
+        "question_number": 1,
+        "text": "Kidsâ Toys",
+        "answer": [
+          "PUPPETS"
+        ],
+        "initial_letters": [
+          "P"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "S"
+        ],
+        "game_link": "/us/game/2019-04-05/2",
+        "eliminated": 13297,
+        "advancing": 115589,
+        "correct_answers": 115589,
+        "incorrect_answers": 13297
+      },
+      {
+        "direct_link": "/us/game/2019-04-05/2/2",
+        "question_number": 2,
+        "text": "Fancy Floor",
+        "answer": [
+          "RED",
+          "CARPET"
+        ],
+        "initial_letters": [
+          " ",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "T"
+        ],
+        "game_link": "/us/game/2019-04-05/2",
+        "eliminated": 6065,
+        "advancing": 110019,
+        "correct_answers": 110019,
+        "incorrect_answers": 6065
+      },
+      {
+        "direct_link": "/us/game/2019-04-05/2/3",
+        "question_number": 3,
+        "text": "Hockey Accomplishment",
+        "answer": [
+          "HAT",
+          "TRICK"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "I"
+        ],
+        "game_link": "/us/game/2019-04-05/2",
+        "eliminated": 12267,
+        "advancing": 97908,
+        "correct_answers": 97908,
+        "incorrect_answers": 12267
+      },
+      {
+        "direct_link": "/us/game/2019-04-05/2/4",
+        "question_number": 4,
+        "text": "Ones in Charge",
+        "answer": [
+          "THE",
+          "POWERS",
+          "THAT",
+          "BE"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "W"
+        ],
+        "game_link": "/us/game/2019-04-05/2",
+        "eliminated": 22904,
+        "advancing": 75668,
+        "correct_answers": 75668,
+        "incorrect_answers": 22904
+      },
+      {
+        "direct_link": "/us/game/2019-04-05/2/5",
+        "question_number": 5,
+        "text": "Scenic Banking Spot",
+        "answer": [
+          "CAYMAN",
+          "ISLANDS"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "M"
+        ],
+        "game_link": "/us/game/2019-04-05/2",
+        "eliminated": 18594,
+        "advancing": 58530,
+        "correct_answers": 58530,
+        "incorrect_answers": 18594
+      },
+      {
+        "direct_link": "/us/game/2019-04-05/2/6",
+        "question_number": 6,
+        "text": "Southern Dinner",
+        "answer": [
+          "SHRIMP",
+          "&",
+          "GRITS"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "R",
+          "T"
+        ],
+        "game_link": "/us/game/2019-04-05/2",
+        "eliminated": 7411,
+        "advancing": 52529,
+        "correct_answers": 52529,
+        "incorrect_answers": 7411
+      },
+      {
+        "direct_link": "/us/game/2019-04-05/2/7",
+        "question_number": 7,
+        "text": "Patriotic Nickname",
+        "answer": [
+          "OLD",
+          "GLORY"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-04-05/2",
+        "eliminated": 8664,
+        "advancing": 44552,
+        "correct_answers": 44552,
+        "incorrect_answers": 8664
+      },
+      {
+        "direct_link": "/us/game/2019-04-05/2/8",
+        "question_number": 8,
+        "text": "Honking Birds",
+        "answer": [
+          "MIGRATING",
+          "CANADA",
+          "GEESE"
+        ],
+        "initial_letters": [
+          " ",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "S"
+        ],
+        "game_link": "/us/game/2019-04-05/2",
+        "eliminated": 14550,
+        "advancing": 31040,
+        "correct_answers": 31040,
+        "incorrect_answers": 14550
+      },
+      {
+        "direct_link": "/us/game/2019-04-05/2/9",
+        "question_number": 9,
+        "text": "Classic TV Host",
+        "answer": [
+          "CAPTAIN",
+          "KANGAROO"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "N"
+        ],
+        "game_link": "/us/game/2019-04-05/2",
+        "eliminated": 8945,
+        "advancing": 24222,
+        "correct_answers": 24222,
+        "incorrect_answers": 8945
+      },
+      {
+        "direct_link": "/us/game/2019-04-05/2/10",
+        "question_number": 10,
+        "text": "Singer / Hit Song",
+        "answer": [
+          "RIHANNA",
+          "/",
+          "DIAMONDS"
+        ],
+        "initial_letters": [
+          " ",
+          "/",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "H"
+        ],
+        "game_link": "/us/game/2019-04-05/2",
+        "eliminated": 2079,
+        "advancing": 23840,
+        "correct_answers": 23840,
+        "incorrect_answers": 2079
+      },
+      {
+        "direct_link": "/us/game/2019-04-05/2/11",
+        "question_number": 11,
+        "text": "European Tourist Trap",
+        "answer": [
+          "LONDONâS",
+          "PICCADILLY",
+          "CIRCUS"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "U"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "R"
+        ],
+        "game_link": "/us/game/2019-04-05/2",
+        "eliminated": 11863,
+        "advancing": 12456,
+        "correct_answers": 12456,
+        "incorrect_answers": 11863
+      },
+      {
+        "direct_link": "/us/game/2019-04-05/2/12",
+        "question_number": 12,
+        "text": "Field Trip Choice",
+        "answer": [
+          "ZOO,",
+          "AQUARIUM",
+          "OR",
+          "CAPITOL?"
+        ],
+        "initial_letters": [
+          ",",
+          " ",
+          "?",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "U",
+          "Z"
+        ],
+        "game_link": "/us/game/2019-04-05/2",
+        "eliminated": 8161,
+        "advancing": 7444,
+        "correct_answers": 7444,
+        "incorrect_answers": 8161
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

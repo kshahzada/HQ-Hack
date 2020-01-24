@@ -1,0 +1,976 @@
+[
+  {
+    "id": 103395,
+    "show_id": 10864,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-05-18T01:00:00Z",
+    "direct_link": "/us/game/2019-05-17/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "22,148",
+      "currency": "$",
+      "average_prize": "0.23"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Game of Thrones : Season 8",
+        "slug": "game-of-thrones-:-season-8"
+      },
+      {
+        "name": "Homeless Harry Potter",
+        "slug": "homeless-harry-potter"
+      },
+      {
+        "name": "TV",
+        "slug": "tv"
+      }
+    ],
+    "questions": [
+      {
+        "id": 107301,
+        "text": "How does Jon say goodbye to his direwolf Ghost?",
+        "question_number": 1,
+        "eliminated": "-11,517",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "274,615",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235424,
+            "text": "Pets him",
+            "correct": false,
+            "count": "38,761",
+            "percent": "14.73%"
+          },
+          {
+            "id": 235426,
+            "text": "Gives him a boop",
+            "correct": false,
+            "count": "9,504",
+            "percent": "3.61%"
+          },
+          {
+            "id": 235428,
+            "text": "Neither of these",
+            "correct": true,
+            "count": "214,833",
+            "percent": "81.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-17/1/1",
+        "game_link": "/us/game/2019-05-17/1",
+        "correct_answers": 214833,
+        "incorrect_answers": 48265,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107311,
+        "text": "What is Qyburnâs last order to the Mountain?",
+        "question_number": 2,
+        "eliminated": "1,834",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "273,221",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235439,
+            "text": "Obey your queen.",
+            "correct": true,
+            "count": "217,579",
+            "percent": "83.99%"
+          },
+          {
+            "id": 235441,
+            "text": "Cool it.",
+            "correct": false,
+            "count": "23,283",
+            "percent": "8.99%"
+          },
+          {
+            "id": 235443,
+            "text": "Please let me go.",
+            "correct": false,
+            "count": "18,185",
+            "percent": "7.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-17/1/2",
+        "game_link": "/us/game/2019-05-17/1",
+        "correct_answers": 217579,
+        "incorrect_answers": 41468,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107329,
+        "text": "Which of these characters sings a song at one point this season?",
+        "question_number": 3,
+        "eliminated": "2,593",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "270,776",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235469,
+            "text": "Pod",
+            "correct": true,
+            "count": "166,084",
+            "percent": "65.35%"
+          },
+          {
+            "id": 235471,
+            "text": "Tyrion",
+            "correct": false,
+            "count": "56,759",
+            "percent": "22.33%"
+          },
+          {
+            "id": 235475,
+            "text": "Missandei",
+            "correct": false,
+            "count": "31,283",
+            "percent": "12.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-17/1/3",
+        "game_link": "/us/game/2019-05-17/1",
+        "correct_answers": 166084,
+        "incorrect_answers": 88042,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107344,
+        "text": "Which of these characters recently took out an undead giant?",
+        "question_number": 4,
+        "eliminated": "2,334",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "268,729",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235488,
+            "text": "Ned Umber",
+            "correct": false,
+            "count": "13,841",
+            "percent": "5.59%"
+          },
+          {
+            "id": 235492,
+            "text": "Tormund Giantsbane",
+            "correct": false,
+            "count": "30,084",
+            "percent": "12.16%"
+          },
+          {
+            "id": 235493,
+            "text": "Lyanna Mormont",
+            "correct": true,
+            "count": "203,501",
+            "percent": "82.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-17/1/4",
+        "game_link": "/us/game/2019-05-17/1",
+        "correct_answers": 203501,
+        "incorrect_answers": 43925,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107361,
+        "text": "What does Sansa say in response to Tyrion bringing up Joffreyâs wedding?",
+        "question_number": 5,
+        "eliminated": "9,939",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "258,928",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235513,
+            "text": "Letâs change the subject",
+            "correct": false,
+            "count": "20,080",
+            "percent": "8.27%"
+          },
+          {
+            "id": 235517,
+            "text": "It had its moments",
+            "correct": true,
+            "count": "142,963",
+            "percent": "58.86%"
+          },
+          {
+            "id": 235524,
+            "text": "I was a different person",
+            "correct": false,
+            "count": "79,855",
+            "percent": "32.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-17/1/5",
+        "game_link": "/us/game/2019-05-17/1",
+        "correct_answers": 142963,
+        "incorrect_answers": 99935,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107376,
+        "text": "According to Daenerys in the second-to-last episode, âI donât have love here, I only haveâ what?",
+        "question_number": 6,
+        "eliminated": "6,963",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "253,071",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235538,
+            "text": "Fire",
+            "correct": false,
+            "count": "15,145",
+            "percent": "6.48%"
+          },
+          {
+            "id": 235539,
+            "text": "Fear",
+            "correct": true,
+            "count": "188,145",
+            "percent": "80.49%"
+          },
+          {
+            "id": 235540,
+            "text": "Vengeance",
+            "correct": false,
+            "count": "30,449",
+            "percent": "13.03%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-17/1/6",
+        "game_link": "/us/game/2019-05-17/1",
+        "correct_answers": 188145,
+        "incorrect_answers": 45594,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107392,
+        "text": "With what hand does Arya stab the Night King?",
+        "question_number": 7,
+        "eliminated": "28,711",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "224,904",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235560,
+            "text": "Left",
+            "correct": false,
+            "count": "47,022",
+            "percent": "20.24%"
+          },
+          {
+            "id": 235565,
+            "text": "Right",
+            "correct": true,
+            "count": "152,896",
+            "percent": "65.8%"
+          },
+          {
+            "id": 235570,
+            "text": "Both",
+            "correct": false,
+            "count": "32,430",
+            "percent": "13.96%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-17/1/7",
+        "game_link": "/us/game/2019-05-17/1",
+        "correct_answers": 152896,
+        "incorrect_answers": 79452,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107409,
+        "text": "Who is the leader of Cerseiâs sellsword army during Daenerysâs attack on Kingâs Landing?",
+        "question_number": 8,
+        "eliminated": "87,628",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "140,102",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235586,
+            "text": "Harry Strickland",
+            "correct": true,
+            "count": "106,417",
+            "percent": "54.71%"
+          },
+          {
+            "id": 235589,
+            "text": "Harald Karstark",
+            "correct": false,
+            "count": "60,820",
+            "percent": "31.27%"
+          },
+          {
+            "id": 235592,
+            "text": "Robett Glover",
+            "correct": false,
+            "count": "27,265",
+            "percent": "14.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-17/1/8",
+        "game_link": "/us/game/2019-05-17/1",
+        "correct_answers": 106417,
+        "incorrect_answers": 88085,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107421,
+        "text": "Missandeiâs final spoken word is in what language?",
+        "question_number": 9,
+        "eliminated": "49,600",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "104,240",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235604,
+            "text": "High Valyrian",
+            "correct": true,
+            "count": "102,473",
+            "percent": "69.6%"
+          },
+          {
+            "id": 235607,
+            "text": "Common Tongue",
+            "correct": false,
+            "count": "11,404",
+            "percent": "7.75%"
+          },
+          {
+            "id": 235609,
+            "text": "Dothraki",
+            "correct": false,
+            "count": "33,349",
+            "percent": "22.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-17/1/9",
+        "game_link": "/us/game/2019-05-17/1",
+        "correct_answers": 102473,
+        "incorrect_answers": 44753,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107439,
+        "text": "What character uses Heartsbane during the Battle of Winterfell?",
+        "question_number": 10,
+        "eliminated": "19,977",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "93,433",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235634,
+            "text": "Jaime",
+            "correct": false,
+            "count": "6,341",
+            "percent": "5.7%"
+          },
+          {
+            "id": 235635,
+            "text": "Brienne",
+            "correct": false,
+            "count": "11,604",
+            "percent": "10.43%"
+          },
+          {
+            "id": 235637,
+            "text": "Jorah",
+            "correct": true,
+            "count": "93,349",
+            "percent": "83.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-17/1/10",
+        "game_link": "/us/game/2019-05-17/1",
+        "correct_answers": 93349,
+        "incorrect_answers": 17945,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107454,
+        "text": "Which of these famous lines is NOT directly referenced by a character this season?",
+        "question_number": 11,
+        "eliminated": "58,495",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "40,470",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235655,
+            "text": "The things I do for love",
+            "correct": false,
+            "count": "28,195",
+            "percent": "29.78%"
+          },
+          {
+            "id": 235656,
+            "text": "The pointy end",
+            "correct": false,
+            "count": "26,004",
+            "percent": "27.47%"
+          },
+          {
+            "id": 235657,
+            "text": "We are not men",
+            "correct": true,
+            "count": "40,470",
+            "percent": "42.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-17/1/11",
+        "game_link": "/us/game/2019-05-17/1",
+        "correct_answers": 40470,
+        "incorrect_answers": 54199,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107470,
+        "text": "What NFL teamâs quarterback made a cameo?",
+        "question_number": 12,
+        "eliminated": "10,372",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "49,247",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235678,
+            "text": "Green Bay Packers",
+            "correct": true,
+            "count": "49,247",
+            "percent": "83.82%"
+          },
+          {
+            "id": 235680,
+            "text": "Seattle Seahawks",
+            "correct": false,
+            "count": "5,343",
+            "percent": "9.09%"
+          },
+          {
+            "id": 235685,
+            "text": "New England Patriots",
+            "correct": false,
+            "count": "4,165",
+            "percent": "7.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-17/1/12",
+        "game_link": "/us/game/2019-05-17/1",
+        "correct_answers": 49247,
+        "incorrect_answers": 9508,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107486,
+        "text": "This season, who first proposes that Jon and Daenerys should get married?",
+        "question_number": 13,
+        "eliminated": "37,147",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "16,257",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235701,
+            "text": "Varys",
+            "correct": false,
+            "count": "9,310",
+            "percent": "17.65%"
+          },
+          {
+            "id": 235704,
+            "text": "Tyrion",
+            "correct": false,
+            "count": "27,187",
+            "percent": "51.54%"
+          },
+          {
+            "id": 235711,
+            "text": "Davos",
+            "correct": true,
+            "count": "16,257",
+            "percent": "30.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-17/1/13",
+        "game_link": "/us/game/2019-05-17/1",
+        "correct_answers": 16257,
+        "incorrect_answers": 36497,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107501,
+        "text": "Which of these guest stars is sneakily implied to have gotten scorched by dragon fire?",
+        "question_number": 14,
+        "eliminated": "7,203",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "23,644",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235724,
+            "text": "Ian McShane",
+            "correct": false,
+            "count": "3,232",
+            "percent": "10.62%"
+          },
+          {
+            "id": 235732,
+            "text": "Ed Sheeran",
+            "correct": true,
+            "count": "23,644",
+            "percent": "77.7%"
+          },
+          {
+            "id": 235740,
+            "text": "Richard E. Grant",
+            "correct": false,
+            "count": "3,555",
+            "percent": "11.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-17/1/14",
+        "game_link": "/us/game/2019-05-17/1",
+        "correct_answers": 23644,
+        "incorrect_answers": 6787,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107519,
+        "text": "Who is NOT featured in the scene where an accidental coffee cup appeared in the shot?",
+        "question_number": 15,
+        "eliminated": "4,903",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "22,148",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235751,
+            "text": "Sansa",
+            "correct": false,
+            "count": "2,559",
+            "percent": "9.51%"
+          },
+          {
+            "id": 235755,
+            "text": "Arya",
+            "correct": true,
+            "count": "22,148",
+            "percent": "82.35%"
+          },
+          {
+            "id": 235759,
+            "text": "Tormund",
+            "correct": false,
+            "count": "2,189",
+            "percent": "8.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-17/1/15",
+        "game_link": "/us/game/2019-05-17/1",
+        "correct_answers": 22148,
+        "incorrect_answers": 4748,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 103535,
+    "show_id": 10905,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-05-18T01:30:00Z",
+    "direct_link": "/us/game/2019-05-17/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "7,262",
+      "currency": "$",
+      "average_prize": "0.14"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "TV",
+        "slug": "tv"
+      },
+      {
+        "name": "Game of Thrones : Season 8",
+        "slug": "game-of-thrones-:-season-8"
+      }
+    ],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-05-17/2/1",
+        "question_number": 1,
+        "text": "Hideout",
+        "answer": [
+          "RED",
+          "KEEP"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "K"
+        ],
+        "game_link": "/us/game/2019-05-17/2",
+        "eliminated": 9570,
+        "advancing": 97649,
+        "correct_answers": 97649,
+        "incorrect_answers": 9570
+      },
+      {
+        "direct_link": "/us/game/2019-05-17/2/2",
+        "question_number": 2,
+        "text": "Army for Hire",
+        "answer": [
+          "SELLSWORDS"
+        ],
+        "initial_letters": [
+          "S"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "O"
+        ],
+        "game_link": "/us/game/2019-05-17/2",
+        "eliminated": 38772,
+        "advancing": 58636,
+        "correct_answers": 58636,
+        "incorrect_answers": 38772
+      },
+      {
+        "direct_link": "/us/game/2019-05-17/2/3",
+        "question_number": 3,
+        "text": "Anticipated Showdown",
+        "answer": [
+          "CLEGANEBOWL"
+        ],
+        "initial_letters": [
+          "A"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "W"
+        ],
+        "game_link": "/us/game/2019-05-17/2",
+        "eliminated": 29086,
+        "advancing": 30581,
+        "correct_answers": 30581,
+        "incorrect_answers": 29086
+      },
+      {
+        "direct_link": "/us/game/2019-05-17/2/4",
+        "question_number": 4,
+        "text": "Giant Killer",
+        "answer": [
+          "LYANNA",
+          "MORMONT"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "R",
+          "T"
+        ],
+        "game_link": "/us/game/2019-05-17/2",
+        "eliminated": 3629,
+        "advancing": 27883,
+        "correct_answers": 27883,
+        "incorrect_answers": 3629
+      },
+      {
+        "direct_link": "/us/game/2019-05-17/2/5",
+        "question_number": 5,
+        "text": "Real Know-It-All",
+        "answer": [
+          "THREE-EYED",
+          "RAVEN"
+        ],
+        "initial_letters": [
+          "-",
+          " ",
+          "Y"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "R"
+        ],
+        "game_link": "/us/game/2019-05-17/2",
+        "eliminated": 4589,
+        "advancing": 23476,
+        "correct_answers": 23476,
+        "incorrect_answers": 4589
+      },
+      {
+        "direct_link": "/us/game/2019-05-17/2/6",
+        "question_number": 6,
+        "text": "Cold Dead Hands",
+        "answer": [
+          "THE",
+          "NIGHT",
+          "KING"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "K"
+        ],
+        "game_link": "/us/game/2019-05-17/2",
+        "eliminated": 390,
+        "advancing": 23623,
+        "correct_answers": 23623,
+        "incorrect_answers": 390
+      },
+      {
+        "direct_link": "/us/game/2019-05-17/2/7",
+        "question_number": 7,
+        "text": "Pointy End",
+        "answer": [
+          "VALYRIAN",
+          "STEEL",
+          "DAGGER"
+        ],
+        "initial_letters": [
+          " ",
+          "V"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "S"
+        ],
+        "game_link": "/us/game/2019-05-17/2",
+        "eliminated": 1922,
+        "advancing": 21716,
+        "correct_answers": 21716,
+        "incorrect_answers": 1922
+      },
+      {
+        "direct_link": "/us/game/2019-05-17/2/8",
+        "question_number": 8,
+        "text": "Quick End",
+        "answer": [
+          "MOUNTAIN",
+          "KILLS",
+          "QYBURN"
+        ],
+        "initial_letters": [
+          " ",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "U"
+        ],
+        "game_link": "/us/game/2019-05-17/2",
+        "eliminated": 14254,
+        "advancing": 7731,
+        "correct_answers": 7731,
+        "incorrect_answers": 14254
+      },
+      {
+        "direct_link": "/us/game/2019-05-17/2/9",
+        "question_number": 9,
+        "text": "Ignored Sound",
+        "answer": [
+          "BELLS",
+          "OF",
+          "SURRENDER"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "U"
+        ],
+        "game_link": "/us/game/2019-05-17/2",
+        "eliminated": 738,
+        "advancing": 9728,
+        "correct_answers": 9728,
+        "incorrect_answers": 738
+      },
+      {
+        "direct_link": "/us/game/2019-05-17/2/10",
+        "question_number": 10,
+        "text": "Sibling Rivalry",
+        "answer": [
+          "DROGON",
+          "VS.",
+          "VISERION"
+        ],
+        "initial_letters": [
+          " ",
+          ".",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "R"
+        ],
+        "game_link": "/us/game/2019-05-17/2",
+        "eliminated": 913,
+        "advancing": 8915,
+        "correct_answers": 8915,
+        "incorrect_answers": 913
+      },
+      {
+        "direct_link": "/us/game/2019-05-17/2/11",
+        "question_number": 11,
+        "text": "Hot Couple",
+        "answer": [
+          "ARYA",
+          "STARK",
+          "&",
+          "GENDRY",
+          "BARATHEON"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "S"
+        ],
+        "game_link": "/us/game/2019-05-17/2",
+        "eliminated": 1045,
+        "advancing": 8001,
+        "correct_answers": 8001,
+        "incorrect_answers": 1045
+      },
+      {
+        "direct_link": "/us/game/2019-05-17/2/12",
+        "question_number": 12,
+        "text": "Long-Running Prediction",
+        "answer": [
+          "WINTER",
+          "IS",
+          "COMING"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "M"
+        ],
+        "game_link": "/us/game/2019-05-17/2",
+        "eliminated": 953,
+        "advancing": 7262,
+        "correct_answers": 7262,
+        "incorrect_answers": 953
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

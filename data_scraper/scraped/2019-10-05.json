@@ -1,0 +1,692 @@
+[
+  {
+    "id": 135682,
+    "show_id": 12524,
+    "active": true,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "100",
+    "currency": "$",
+    "start_time": "2019-10-05T05:00:00Z",
+    "direct_link": "/us/game/2019-10-05/1",
+    "time": " 1:00 am",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 151307,
+        "text": "In a massive hit new video game, what kind of creature runs around bothering villagers?",
+        "question_number": 1,
+        "eliminated": "-3,196",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "59,928",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 301433,
+            "text": "Goose",
+            "correct": true,
+            "count": "43,164",
+            "percent": "79.86%"
+          },
+          {
+            "id": 301434,
+            "text": "Unhatched Egg",
+            "correct": false,
+            "count": "10,251",
+            "percent": "18.97%"
+          },
+          {
+            "id": 301435,
+            "text": "Kelly Clarkson",
+            "correct": false,
+            "count": "634",
+            "percent": "1.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-05/1/1",
+        "game_link": "/us/game/2019-10-05/1",
+        "correct_answers": 43164,
+        "incorrect_answers": 10885,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151315,
+        "text": "What is the title of one of Kanyeâs upcoming albums?",
+        "question_number": 2,
+        "eliminated": "1,945",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "58,304",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 301445,
+            "text": "Matriculating Again!",
+            "correct": false,
+            "count": "5,228",
+            "percent": "9.98%"
+          },
+          {
+            "id": 301448,
+            "text": "I Am Sasha Fierce",
+            "correct": false,
+            "count": "3,461",
+            "percent": "6.61%"
+          },
+          {
+            "id": 301452,
+            "text": "Jesus is King",
+            "correct": true,
+            "count": "43,679",
+            "percent": "83.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-05/1/2",
+        "game_link": "/us/game/2019-10-05/1",
+        "correct_answers": 43679,
+        "incorrect_answers": 8689,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1950,
+        "game_id": 135682,
+        "question": "Which would you rather be?",
+        "results": [
+          {
+            "id": 11426,
+            "display_count": "14",
+            "vote_count": 5272,
+            "text": "Egg"
+          },
+          {
+            "id": 11430,
+            "display_count": "53",
+            "vote_count": 20485,
+            "text": "Kelly Clarkson"
+          },
+          {
+            "id": 11422,
+            "display_count": "33",
+            "vote_count": 12971,
+            "text": "Rude goose"
+          }
+        ],
+        "created_at": "2019-10-05T05:11:09Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 135694,
+    "show_id": 12587,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "100",
+    "currency": "$",
+    "start_time": "2019-10-05T05:45:00Z",
+    "direct_link": "/us/game/2019-10-05/2",
+    "time": " 1:45 am",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,705",
+      "currency": "$",
+      "average_prize": "0.04"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 151323,
+        "text": "In a massive hit new video game, what kind of creature runs around bothering villagers?",
+        "question_number": 1,
+        "eliminated": "-7,049",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "56,773",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 301457,
+            "text": "Goose",
+            "correct": true,
+            "count": "44,648",
+            "percent": "94.61%"
+          },
+          {
+            "id": 301458,
+            "text": "Unhatched Egg",
+            "correct": false,
+            "count": "2,182",
+            "percent": "4.62%"
+          },
+          {
+            "id": 301459,
+            "text": "Kelly Clarkson",
+            "correct": false,
+            "count": "360",
+            "percent": "0.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-05/2/1",
+        "game_link": "/us/game/2019-10-05/2",
+        "correct_answers": 44648,
+        "incorrect_answers": 2542,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151331,
+        "text": "What is the title of one of Kanyeâs upcoming albums?",
+        "question_number": 2,
+        "eliminated": "1,357",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "55,519",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 301469,
+            "text": "Matriculating Again!",
+            "correct": false,
+            "count": "1,275",
+            "percent": "2.7%"
+          },
+          {
+            "id": 301472,
+            "text": "I Am Sasha Fierce",
+            "correct": false,
+            "count": "886",
+            "percent": "1.87%"
+          },
+          {
+            "id": 301476,
+            "text": "Jesus is King",
+            "correct": true,
+            "count": "45,135",
+            "percent": "95.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-05/2/2",
+        "game_link": "/us/game/2019-10-05/2",
+        "correct_answers": 45135,
+        "incorrect_answers": 2161,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151339,
+        "text": "Lana Del Rey made headlines this week for dating a man with what profession?",
+        "question_number": 3,
+        "eliminated": "3,336",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "52,220",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 301481,
+            "text": "Personal Assistant",
+            "correct": false,
+            "count": "5,590",
+            "percent": "11.96%"
+          },
+          {
+            "id": 301484,
+            "text": "Rapper",
+            "correct": false,
+            "count": "4,706",
+            "percent": "10.07%"
+          },
+          {
+            "id": 301488,
+            "text": "Cop",
+            "correct": true,
+            "count": "36,442",
+            "percent": "77.97%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-05/2/3",
+        "game_link": "/us/game/2019-10-05/2",
+        "correct_answers": 36442,
+        "incorrect_answers": 10296,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151347,
+        "text": "Which of the following is NOT a lyric in the original rap Kendall performed in this week's episode of Succession?",
+        "question_number": 4,
+        "eliminated": "3,381",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "48,978",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 301493,
+            "text": "But the kingâs my daddy",
+            "correct": false,
+            "count": "6,237",
+            "percent": "16.75%"
+          },
+          {
+            "id": 301495,
+            "text": "When I say L, you say OG",
+            "correct": false,
+            "count": "15,396",
+            "percent": "41.35%"
+          },
+          {
+            "id": 301498,
+            "text": "These is bloody shoes",
+            "correct": true,
+            "count": "15,601",
+            "percent": "41.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-05/2/4",
+        "game_link": "/us/game/2019-10-05/2",
+        "correct_answers": 15601,
+        "incorrect_answers": 21633,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151355,
+        "text": "Justin Bieber and Hailey Baldwin just celebrated what?",
+        "question_number": 5,
+        "eliminated": "6,735",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "42,567",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 301505,
+            "text": "Joint birthday",
+            "correct": false,
+            "count": "7,950",
+            "percent": "17.93%"
+          },
+          {
+            "id": 301507,
+            "text": "Second Wedding",
+            "correct": true,
+            "count": "32,356",
+            "percent": "72.98%"
+          },
+          {
+            "id": 301510,
+            "text": "Early Christmas",
+            "correct": false,
+            "count": "4,032",
+            "percent": "9.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-05/2/5",
+        "game_link": "/us/game/2019-10-05/2",
+        "correct_answers": 32356,
+        "incorrect_answers": 11982,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151363,
+        "text": "Lady Gaga's new album will allegedly share a name with what famous singer?",
+        "question_number": 6,
+        "eliminated": "7,517",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "35,805",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 301517,
+            "text": "Adele",
+            "correct": true,
+            "count": "27,973",
+            "percent": "67.5%"
+          },
+          {
+            "id": 301519,
+            "text": "Selena",
+            "correct": false,
+            "count": "8,179",
+            "percent": "19.74%"
+          },
+          {
+            "id": 301523,
+            "text": "Britney",
+            "correct": false,
+            "count": "5,292",
+            "percent": "12.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-05/2/6",
+        "game_link": "/us/game/2019-10-05/2",
+        "correct_answers": 27973,
+        "incorrect_answers": 13471,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151371,
+        "text": "Which of these faiths just celebrated New Year?",
+        "question_number": 7,
+        "eliminated": "8,612",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "28,642",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 301529,
+            "text": "Christianity",
+            "correct": false,
+            "count": "347",
+            "percent": "0.96%"
+          },
+          {
+            "id": 301531,
+            "text": "Islam",
+            "correct": false,
+            "count": "8,693",
+            "percent": "24.0%"
+          },
+          {
+            "id": 301535,
+            "text": "Judaism",
+            "correct": true,
+            "count": "27,177",
+            "percent": "75.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-05/2/7",
+        "game_link": "/us/game/2019-10-05/2",
+        "correct_answers": 27177,
+        "incorrect_answers": 9040,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151379,
+        "text": "Which television character believes he's being followed by foxes?",
+        "question_number": 8,
+        "eliminated": "11,066",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "20,135",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 301541,
+            "text": "Gene, âBob's Burgersâ",
+            "correct": false,
+            "count": "5,772",
+            "percent": "19.28%"
+          },
+          {
+            "id": 301544,
+            "text": "Joey, âFriendsâ",
+            "correct": false,
+            "count": "5,513",
+            "percent": "18.41%"
+          },
+          {
+            "id": 301548,
+            "text": "Hot Priest, âFleabagâ",
+            "correct": true,
+            "count": "18,654",
+            "percent": "62.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-05/2/8",
+        "game_link": "/us/game/2019-10-05/2",
+        "correct_answers": 18654,
+        "incorrect_answers": 11285,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151387,
+        "text": "In the new trailer for âBirds of Prey,â Margot Robbieâs Harley Quinn is shown cutting what?",
+        "question_number": 9,
+        "eliminated": "6,319",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "16,997",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 301553,
+            "text": "Bouquet of Daisies",
+            "correct": false,
+            "count": "1,438",
+            "percent": "6.4%"
+          },
+          {
+            "id": 301557,
+            "text": "Her pigtail",
+            "correct": true,
+            "count": "15,892",
+            "percent": "70.69%"
+          },
+          {
+            "id": 301560,
+            "text": "Barbie's head",
+            "correct": false,
+            "count": "5,151",
+            "percent": "22.91%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-05/2/9",
+        "game_link": "/us/game/2019-10-05/2",
+        "correct_answers": 15892,
+        "incorrect_answers": 6589,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151395,
+        "text": "On Freeformâs annual 31 Nights of Halloween marathon, what movie is airing 30 times?",
+        "question_number": 10,
+        "eliminated": "1,283",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "17,779",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 301565,
+            "text": "Hocus Pocus",
+            "correct": true,
+            "count": "17,318",
+            "percent": "92.2%"
+          },
+          {
+            "id": 301569,
+            "text": "Casper",
+            "correct": false,
+            "count": "386",
+            "percent": "2.06%"
+          },
+          {
+            "id": 301572,
+            "text": "Addams Family Values",
+            "correct": false,
+            "count": "1,079",
+            "percent": "5.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-05/2/10",
+        "game_link": "/us/game/2019-10-05/2",
+        "correct_answers": 17318,
+        "incorrect_answers": 1465,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151403,
+        "text": "According to IMdB, actors in âHustlersâ have appeared in all BUT which of the following?",
+        "question_number": 11,
+        "eliminated": "9,387",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "8,896",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 301577,
+            "text": "Pose",
+            "correct": false,
+            "count": "1,860",
+            "percent": "10.79%"
+          },
+          {
+            "id": 301581,
+            "text": "The Politician",
+            "correct": true,
+            "count": "8,896",
+            "percent": "51.59%"
+          },
+          {
+            "id": 301585,
+            "text": "Riverdale",
+            "correct": false,
+            "count": "6,489",
+            "percent": "37.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-05/2/11",
+        "game_link": "/us/game/2019-10-05/2",
+        "correct_answers": 8896,
+        "incorrect_answers": 8349,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151411,
+        "text": "The main hitman in âThe Irishmanâ works for a mafia family with what sitcom's setting in their nickname?",
+        "question_number": 12,
+        "eliminated": "10,718",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,705",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 301589,
+            "text": "Family Matters",
+            "correct": false,
+            "count": "6,320",
+            "percent": "53.45%"
+          },
+          {
+            "id": 301592,
+            "text": "The Office",
+            "correct": true,
+            "count": "2,705",
+            "percent": "22.88%"
+          },
+          {
+            "id": 301595,
+            "text": "Broad City",
+            "correct": false,
+            "count": "2,799",
+            "percent": "23.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-05/2/12",
+        "game_link": "/us/game/2019-10-05/2",
+        "correct_answers": 2705,
+        "incorrect_answers": 9119,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1954,
+        "game_id": 135694,
+        "question": "A second wedding is...",
+        "results": [
+          {
+            "id": 11453,
+            "display_count": "43",
+            "vote_count": 13249,
+            "text": "Pointless"
+          },
+          {
+            "id": 11446,
+            "display_count": "32",
+            "vote_count": 9897,
+            "text": "Romantic"
+          },
+          {
+            "id": 11450,
+            "display_count": "24",
+            "vote_count": 7416,
+            "text": "Sign of trouble"
+          }
+        ],
+        "created_at": "2019-10-05T05:42:36Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

@@ -1,0 +1,1313 @@
+[
+  {
+    "id": 123520,
+    "show_id": 11899,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "230,000",
+    "currency": "$",
+    "start_time": "2019-07-26T01:00:00Z",
+    "direct_link": "/us/game/2019-07-25/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Checkpoints",
+        "slug": "checkpoints"
+      }
+    ],
+    "questions": [
+      {
+        "id": 134393,
+        "text": "What is the real name of Uma Thurmanâs character in the âKill Billâ franchise?",
+        "question_number": 1,
+        "eliminated": "-19,942",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "232,791",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276062,
+            "text": "Bill",
+            "correct": false,
+            "count": "19,942",
+            "percent": "9.97%"
+          },
+          {
+            "id": 276063,
+            "text": "Mia Wallace",
+            "correct": false,
+            "count": "53,316",
+            "percent": "26.65%"
+          },
+          {
+            "id": 276064,
+            "text": "Beatrix Kiddo",
+            "correct": true,
+            "count": "126,769",
+            "percent": "63.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-25/1/1",
+        "game_link": "/us/game/2019-07-25/1",
+        "correct_answers": 126769,
+        "incorrect_answers": 73258,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134409,
+        "text": "How is Michael Fassbenderâs character ultimately exposed as an Englishman in this scene?",
+        "question_number": 2,
+        "eliminated": "10,418",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "222,970",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276086,
+            "text": "Hand gesture",
+            "correct": true,
+            "count": "155,434",
+            "percent": "78.21%"
+          },
+          {
+            "id": 276087,
+            "text": "âMonty Pythonâ quotes",
+            "correct": false,
+            "count": "28,892",
+            "percent": "14.54%"
+          },
+          {
+            "id": 276088,
+            "text": "Love of the Beatles",
+            "correct": false,
+            "count": "14,420",
+            "percent": "7.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-25/1/2",
+        "game_link": "/us/game/2019-07-25/1",
+        "correct_answers": 155434,
+        "incorrect_answers": 43312,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134426,
+        "text": "Itâs rumored that Tarantinoâs next movie will be an entry in which franchise?",
+        "question_number": 3,
+        "eliminated": "11,921",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "211,380",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276113,
+            "text": "Star Wars",
+            "correct": false,
+            "count": "18,006",
+            "percent": "9.41%"
+          },
+          {
+            "id": 276114,
+            "text": "Star Trek",
+            "correct": true,
+            "count": "122,435",
+            "percent": "64.01%"
+          },
+          {
+            "id": 276115,
+            "text": "Marvel",
+            "correct": false,
+            "count": "50,834",
+            "percent": "26.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-25/1/3",
+        "game_link": "/us/game/2019-07-25/1",
+        "correct_answers": 122435,
+        "incorrect_answers": 68840,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134443,
+        "text": "What book of the Bible is Jules supposedly quoting here?",
+        "question_number": 4,
+        "eliminated": "5,040",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "206,915",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276137,
+            "text": "Revelation",
+            "correct": false,
+            "count": "32,272",
+            "percent": "17.66%"
+          },
+          {
+            "id": 276142,
+            "text": "Numbers",
+            "correct": false,
+            "count": "7,210",
+            "percent": "3.94%"
+          },
+          {
+            "id": 276148,
+            "text": "Ezekiel",
+            "correct": true,
+            "count": "143,300",
+            "percent": "78.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-25/1/4",
+        "game_link": "/us/game/2019-07-25/1",
+        "correct_answers": 143300,
+        "incorrect_answers": 39482,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134457,
+        "text": "On which of these movies does Tarantino NOT have a writing credit?",
+        "question_number": 5,
+        "eliminated": "28,997",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "178,134",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276158,
+            "text": "True Romance",
+            "correct": false,
+            "count": "65,481",
+            "percent": "37.02%"
+          },
+          {
+            "id": 276159,
+            "text": "Wild at Heart",
+            "correct": true,
+            "count": "60,177",
+            "percent": "34.02%"
+          },
+          {
+            "id": 276160,
+            "text": "Natural Born Killers",
+            "correct": false,
+            "count": "51,210",
+            "percent": "28.95%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-25/1/5",
+        "game_link": "/us/game/2019-07-25/1",
+        "correct_answers": 60177,
+        "incorrect_answers": 116691,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134475,
+        "text": "What actor plays a âPulp Fictionâ character with the same last name as a character in âReservoir Dogsâ?",
+        "question_number": 6,
+        "eliminated": "11,778",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "171,699",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276186,
+            "text": "John Travolta",
+            "correct": true,
+            "count": "92,867",
+            "percent": "59.37%"
+          },
+          {
+            "id": 276189,
+            "text": "Bruce Willis",
+            "correct": false,
+            "count": "28,566",
+            "percent": "18.26%"
+          },
+          {
+            "id": 276195,
+            "text": "Tim Roth",
+            "correct": false,
+            "count": "34,980",
+            "percent": "22.36%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-25/1/6",
+        "game_link": "/us/game/2019-07-25/1",
+        "correct_answers": 92867,
+        "incorrect_answers": 63546,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134492,
+        "text": "Which of these actors appears in the most Tarantino films?",
+        "question_number": 7,
+        "eliminated": "19,297",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "153,238",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276209,
+            "text": "Michael Madsen",
+            "correct": true,
+            "count": "66,860",
+            "percent": "44.77%"
+          },
+          {
+            "id": 276215,
+            "text": "Harvey Keitel",
+            "correct": false,
+            "count": "65,510",
+            "percent": "43.87%"
+          },
+          {
+            "id": 276219,
+            "text": "Kurt Russell",
+            "correct": false,
+            "count": "16,969",
+            "percent": "11.36%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-25/1/7",
+        "game_link": "/us/game/2019-07-25/1",
+        "correct_answers": 66860,
+        "incorrect_answers": 82479,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134507,
+        "text": "What horror film was reportedly a huge inspiration for âThe Hateful Eightâ?",
+        "question_number": 8,
+        "eliminated": "17,172",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "137,303",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276233,
+            "text": "The Evil Dead",
+            "correct": false,
+            "count": "29,766",
+            "percent": "21.98%"
+          },
+          {
+            "id": 276234,
+            "text": "The Thing",
+            "correct": true,
+            "count": "81,072",
+            "percent": "59.88%"
+          },
+          {
+            "id": 276235,
+            "text": "Hellraiser",
+            "correct": false,
+            "count": "24,557",
+            "percent": "18.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-25/1/8",
+        "game_link": "/us/game/2019-07-25/1",
+        "correct_answers": 81072,
+        "incorrect_answers": 54323,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134527,
+        "text": "What actor actually owned the horse they ride in âDjango Unchainedâ?",
+        "question_number": 9,
+        "eliminated": "32,639",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "105,907",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276263,
+            "text": "Christoph Waltz",
+            "correct": false,
+            "count": "20,989",
+            "percent": "17.04%"
+          },
+          {
+            "id": 276264,
+            "text": "Leonardo DiCaprio",
+            "correct": false,
+            "count": "18,897",
+            "percent": "15.34%"
+          },
+          {
+            "id": 276265,
+            "text": "Jamie Foxx",
+            "correct": true,
+            "count": "83,318",
+            "percent": "67.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-25/1/9",
+        "game_link": "/us/game/2019-07-25/1",
+        "correct_answers": 83318,
+        "incorrect_answers": 39886,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134539,
+        "text": "Which actor describes in a Tarantino film a character oddly similar to one they play in another Tarantino film?",
+        "question_number": 10,
+        "eliminated": "42,849",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "65,855",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276281,
+            "text": "Uma Thurman",
+            "correct": true,
+            "count": "60,998",
+            "percent": "60.41%"
+          },
+          {
+            "id": 276282,
+            "text": "Michael Madsen",
+            "correct": false,
+            "count": "8,664",
+            "percent": "8.58%"
+          },
+          {
+            "id": 276283,
+            "text": "Tim Roth",
+            "correct": false,
+            "count": "31,317",
+            "percent": "31.01%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-25/1/10",
+        "game_link": "/us/game/2019-07-25/1",
+        "correct_answers": 60998,
+        "incorrect_answers": 39981,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134554,
+        "text": "Which of these TV shows does NOT have an episode directed by Tarantino?",
+        "question_number": 11,
+        "eliminated": "50,235",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "23,605",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276305,
+            "text": "Alias",
+            "correct": true,
+            "count": "23,605",
+            "percent": "32.55%"
+          },
+          {
+            "id": 276307,
+            "text": "CSI",
+            "correct": false,
+            "count": "22,557",
+            "percent": "31.11%"
+          },
+          {
+            "id": 276310,
+            "text": "ER",
+            "correct": false,
+            "count": "26,347",
+            "percent": "36.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-25/1/11",
+        "game_link": "/us/game/2019-07-25/1",
+        "correct_answers": 23605,
+        "incorrect_answers": 48904,
+        "savage": true,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 20068,
+          "players_left_formatted": "20,068",
+          "num_winners": 3535,
+          "num_winners_formatted": "3,535",
+          "prize": 0.09,
+          "prize_formatted": "$0.09",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 134573,
+        "text": "Which Muppet movie features Tarantino?",
+        "question_number": 12,
+        "eliminated": "5,543",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "17,060",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276335,
+            "text": "Muppets From Space",
+            "correct": false,
+            "count": "1,241",
+            "percent": "6.27%"
+          },
+          {
+            "id": 276336,
+            "text": "Muppetsâ Wizard of Oz",
+            "correct": true,
+            "count": "17,060",
+            "percent": "86.2%"
+          },
+          {
+            "id": 276337,
+            "text": "Muppet Christmas Carol",
+            "correct": false,
+            "count": "1,491",
+            "percent": "7.53%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-25/1/12",
+        "game_link": "/us/game/2019-07-25/1",
+        "correct_answers": 17060,
+        "incorrect_answers": 2732,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134585,
+        "text": "In which of these films does the director NOT make a clearly identifiable cameo?",
+        "question_number": 13,
+        "eliminated": "13,909",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "4,242",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276350,
+            "text": "Kill Bill Vol. 1",
+            "correct": true,
+            "count": "4,242",
+            "percent": "23.45%"
+          },
+          {
+            "id": 276353,
+            "text": "Django Unchained",
+            "correct": false,
+            "count": "6,519",
+            "percent": "36.04%"
+          },
+          {
+            "id": 276358,
+            "text": "Death Proof",
+            "correct": false,
+            "count": "7,325",
+            "percent": "40.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-25/1/13",
+        "game_link": "/us/game/2019-07-25/1",
+        "correct_answers": 4242,
+        "incorrect_answers": 13844,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134601,
+        "text": "Tarantino played what kind of character in an interactive mid-â90s computer game?",
+        "question_number": 14,
+        "eliminated": "2,477",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "1,765",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276374,
+            "text": "Movie director",
+            "correct": false,
+            "count": "1,372",
+            "percent": "32.5%"
+          },
+          {
+            "id": 276378,
+            "text": "Criminal",
+            "correct": true,
+            "count": "1,766",
+            "percent": "41.84%"
+          },
+          {
+            "id": 276384,
+            "text": "Cop",
+            "correct": false,
+            "count": "1,083",
+            "percent": "25.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-25/1/14",
+        "game_link": "/us/game/2019-07-25/1",
+        "correct_answers": 1766,
+        "incorrect_answers": 2455,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134617,
+        "text": "What movie is Tarantino referencing with this dance?",
+        "question_number": 15,
+        "eliminated": "1,132",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "632",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276398,
+            "text": "The Aristocats",
+            "correct": true,
+            "count": "634",
+            "percent": "35.98%"
+          },
+          {
+            "id": 276400,
+            "text": "Grease",
+            "correct": false,
+            "count": "660",
+            "percent": "37.46%"
+          },
+          {
+            "id": 276405,
+            "text": "West Side Story",
+            "correct": false,
+            "count": "468",
+            "percent": "26.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-25/1/15",
+        "game_link": "/us/game/2019-07-25/1",
+        "correct_answers": 634,
+        "incorrect_answers": 1128,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 15,
+          "players_left": 185,
+          "players_left_formatted": "185",
+          "num_winners": 447,
+          "num_winners_formatted": "447",
+          "prize": 4.75,
+          "prize_formatted": "$4.75",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 134637,
+        "text": "Which of these Apple models was released while Steve Jobs was NOT at the company?",
+        "question_number": 16,
+        "eliminated": "160",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "22",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276427,
+            "text": "iMac",
+            "correct": false,
+            "count": "47",
+            "percent": "40.87%"
+          },
+          {
+            "id": 276429,
+            "text": "iBook",
+            "correct": false,
+            "count": "46",
+            "percent": "40.0%"
+          },
+          {
+            "id": 276434,
+            "text": "Quadra",
+            "correct": true,
+            "count": "22",
+            "percent": "19.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-25/1/16",
+        "game_link": "/us/game/2019-07-25/1",
+        "correct_answers": 22,
+        "incorrect_answers": 93,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134651,
+        "text": "Which of these singers appears in the liner notes of a U2 album, but under a different name?",
+        "question_number": 17,
+        "eliminated": "9",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "11",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276450,
+            "text": "Sinead OâConnor",
+            "correct": false,
+            "count": "7",
+            "percent": "35.0%"
+          },
+          {
+            "id": 276453,
+            "text": "Annie Lennox",
+            "correct": false,
+            "count": "2",
+            "percent": "10.0%"
+          },
+          {
+            "id": 276457,
+            "text": "Chrissie Hynde",
+            "correct": true,
+            "count": "11",
+            "percent": "55.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-25/1/17",
+        "game_link": "/us/game/2019-07-25/1",
+        "correct_answers": 11,
+        "incorrect_answers": 9,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134665,
+        "text": "Which of these words is NOT in the first sentence of the US Declaration of Independence?",
+        "question_number": 18,
+        "eliminated": "5",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "6",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276471,
+            "text": "Nature",
+            "correct": false,
+            "count": "1",
+            "percent": "11.11%"
+          },
+          {
+            "id": 276475,
+            "text": "Happiness",
+            "correct": true,
+            "count": "6",
+            "percent": "66.67%"
+          },
+          {
+            "id": 276480,
+            "text": "Separation",
+            "correct": false,
+            "count": "2",
+            "percent": "22.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-25/1/18",
+        "game_link": "/us/game/2019-07-25/1",
+        "correct_answers": 6,
+        "incorrect_answers": 3,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 18,
+          "players_left": 2,
+          "players_left_formatted": "2",
+          "num_winners": 4,
+          "num_winners_formatted": "4",
+          "prize": 333.34,
+          "prize_formatted": "$333.34",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 134684,
+        "text": "Which of these classical pieces was composed before the American Revolution?",
+        "question_number": 19,
+        "eliminated": "1",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "1",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276497,
+            "text": "Beethovenâs 5th",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 276504,
+            "text": "Pachelbelâs Canon",
+            "correct": true,
+            "count": "1",
+            "percent": "50.0%"
+          },
+          {
+            "id": 276510,
+            "text": "Eine Kleine Nachtmusik",
+            "correct": false,
+            "count": "1",
+            "percent": "50.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-25/1/19",
+        "game_link": "/us/game/2019-07-25/1",
+        "correct_answers": 1,
+        "incorrect_answers": 1,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 134697,
+        "text": "This sign is least likely to be found in what country?",
+        "question_number": 20,
+        "eliminated": "0",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "1",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 276518,
+            "text": "Algeria",
+            "correct": true,
+            "count": "1",
+            "percent": "100.0%"
+          },
+          {
+            "id": 276522,
+            "text": "Angola",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 276526,
+            "text": "Chile",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-07-25/1/20",
+        "game_link": "/us/game/2019-07-25/1",
+        "correct_answers": 1,
+        "incorrect_answers": 0,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 894,
+        "game_id": 123520,
+        "question": "What is the Quarter Pounder called in France?",
+        "results": [
+          {
+            "id": 5376,
+            "display_count": "13",
+            "vote_count": 5878,
+            "text": "J'adore Burger"
+          },
+          {
+            "id": 5371,
+            "display_count": "11",
+            "vote_count": 5309,
+            "text": "Le Fromage"
+          },
+          {
+            "id": 5368,
+            "display_count": "76",
+            "vote_count": 35542,
+            "text": "Royale with cheese"
+          }
+        ],
+        "created_at": "2019-07-26T01:03:25Z"
+      },
+      {
+        "id": 912,
+        "game_id": 123520,
+        "question": "Which of these international Dunkin' Donuts donuts do you want to try?",
+        "results": [
+          {
+            "id": 5473,
+            "display_count": "22",
+            "vote_count": 13933,
+            "text": "Green Tea"
+          },
+          {
+            "id": 5468,
+            "display_count": "9",
+            "vote_count": 5805,
+            "text": "Pork"
+          },
+          {
+            "id": 5479,
+            "display_count": "69",
+            "vote_count": 44351,
+            "text": "Rocky Road"
+          }
+        ],
+        "created_at": "2019-07-26T01:04:28Z"
+      },
+      {
+        "id": 903,
+        "game_id": 123520,
+        "question": "Which of these is a real McDonalds Spain burger menu item?",
+        "results": [
+          {
+            "id": 5417,
+            "display_count": "59",
+            "vote_count": 29896,
+            "text": "McPollo"
+          },
+          {
+            "id": 5419,
+            "display_count": "13",
+            "vote_count": 6730,
+            "text": "Radical Sandwich"
+          },
+          {
+            "id": 5422,
+            "display_count": "28",
+            "vote_count": 14254,
+            "text": "Ultra Meaty"
+          }
+        ],
+        "created_at": "2019-07-26T01:03:55Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 11,
+        "players_left": 20068,
+        "players_left_formatted": "20,068",
+        "num_winners": 3535,
+        "num_winners_formatted": "3,535",
+        "prize": 0.09,
+        "prize_formatted": "$0.09",
+        "currency": "$"
+      },
+      {
+        "round_number": 15,
+        "players_left": 185,
+        "players_left_formatted": "185",
+        "num_winners": 447,
+        "num_winners_formatted": "447",
+        "prize": 4.75,
+        "prize_formatted": "$4.75",
+        "currency": "$"
+      },
+      {
+        "round_number": 18,
+        "players_left": 2,
+        "players_left_formatted": "2",
+        "num_winners": 4,
+        "num_winners_formatted": "4",
+        "prize": 333.34,
+        "prize_formatted": "$333.34",
+        "currency": "$"
+      },
+      {
+        "round_number": 21,
+        "players_left": 0,
+        "players_left_formatted": "0",
+        "num_winners": 1,
+        "num_winners_formatted": "1",
+        "prize": 1500.0,
+        "prize_formatted": "$1,500",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "5,274.76",
+    "total_checkpoint_winners": "3,987",
+    "smallest_checkpoint_prize": "$0.09",
+    "largest_checkpoint_prize": "$1,500",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 123702,
+    "show_id": 11920,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-07-26T01:30:00Z",
+    "direct_link": "/us/game/2019-07-25/2",
+    "currency": "$",
+    "prize": "2,000",
+    "summary": {
+      "winner_count": "3,262",
+      "currency": "$",
+      "average_prize": "0.61"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-07-25/2/1",
+        "question_number": 1,
+        "text": "Classic Villain",
+        "answer": [
+          "CHUCKY",
+          "DOLL"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"C\""
+        ],
+        "to_reveal_letters": [
+          "K",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-07-25/2",
+        "eliminated": 22737,
+        "advancing": 63610,
+        "correct_answers": 63610,
+        "incorrect_answers": 22737
+      },
+      {
+        "direct_link": "/us/game/2019-07-25/2/2",
+        "question_number": 2,
+        "text": "Recent âStoryâ Addition",
+        "answer": [
+          "FORKY"
+        ],
+        "initial_letters": [
+          "\"F\""
+        ],
+        "to_reveal_letters": [
+          "K",
+          "R"
+        ],
+        "game_link": "/us/game/2019-07-25/2",
+        "eliminated": 4778,
+        "advancing": 59404,
+        "correct_answers": 59404,
+        "incorrect_answers": 4778
+      },
+      {
+        "direct_link": "/us/game/2019-07-25/2/3",
+        "question_number": 3,
+        "text": "Hollywood Legend",
+        "answer": [
+          "WALT",
+          "DISNEY"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "N",
+          "W"
+        ],
+        "game_link": "/us/game/2019-07-25/2",
+        "eliminated": 11221,
+        "advancing": 48177,
+        "correct_answers": 48177,
+        "incorrect_answers": 11221
+      },
+      {
+        "direct_link": "/us/game/2019-07-25/2/4",
+        "question_number": 4,
+        "text": "Small Undertaking",
+        "answer": [
+          "INDIE",
+          "PROJECT"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"I\""
+        ],
+        "to_reveal_letters": [
+          "D",
+          "N"
+        ],
+        "game_link": "/us/game/2019-07-25/2",
+        "eliminated": 29320,
+        "advancing": 19481,
+        "correct_answers": 19481,
+        "incorrect_answers": 29320
+      },
+      {
+        "direct_link": "/us/game/2019-07-25/2/5",
+        "question_number": 5,
+        "text": "Film Duo",
+        "answer": [
+          "DICAPRIO",
+          "&",
+          "PITT"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"&\"",
+          "\"C\""
+        ],
+        "to_reveal_letters": [
+          "I",
+          "R"
+        ],
+        "game_link": "/us/game/2019-07-25/2",
+        "eliminated": 5401,
+        "advancing": 16068,
+        "correct_answers": 16068,
+        "incorrect_answers": 5401
+      },
+      {
+        "direct_link": "/us/game/2019-07-25/2/6",
+        "question_number": 6,
+        "text": "James Corden Role",
+        "answer": [
+          "BUSTOPHER",
+          "JONES"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"U\""
+        ],
+        "to_reveal_letters": [
+          "H",
+          "J"
+        ],
+        "game_link": "/us/game/2019-07-25/2",
+        "eliminated": 10540,
+        "advancing": 5899,
+        "correct_answers": 5899,
+        "incorrect_answers": 10540
+      },
+      {
+        "direct_link": "/us/game/2019-07-25/2/7",
+        "question_number": 7,
+        "text": "Iconic Line",
+        "answer": [
+          "âET",
+          "PHONE",
+          "HOMEâ"
+        ],
+        "initial_letters": [
+          "\"â\"",
+          "\" \"",
+          "\"â\"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "H"
+        ],
+        "game_link": "/us/game/2019-07-25/2",
+        "eliminated": 718,
+        "advancing": 6824,
+        "correct_answers": 6824,
+        "incorrect_answers": 718
+      },
+      {
+        "direct_link": "/us/game/2019-07-25/2/8",
+        "question_number": 8,
+        "text": "Awards Speech Go-To",
+        "answer": [
+          "THANK",
+          "THE",
+          "ACADEMY"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"H\""
+        ],
+        "to_reveal_letters": [
+          "A",
+          "M"
+        ],
+        "game_link": "/us/game/2019-07-25/2",
+        "eliminated": 148,
+        "advancing": 6790,
+        "correct_answers": 6790,
+        "incorrect_answers": 148
+      },
+      {
+        "direct_link": "/us/game/2019-07-25/2/9",
+        "question_number": 9,
+        "text": "Big Film Fests",
+        "answer": [
+          "CANNES,",
+          "BERLIN,",
+          "&",
+          "VENICE"
+        ],
+        "initial_letters": [
+          "\",\"",
+          "\" \"",
+          "\"&\"",
+          "\"L\""
+        ],
+        "to_reveal_letters": [
+          "B",
+          "R"
+        ],
+        "game_link": "/us/game/2019-07-25/2",
+        "eliminated": 570,
+        "advancing": 6250,
+        "correct_answers": 6250,
+        "incorrect_answers": 570
+      },
+      {
+        "direct_link": "/us/game/2019-07-25/2/10",
+        "question_number": 10,
+        "text": "Fast & Furious Boost",
+        "answer": [
+          "SWITCH",
+          "ON",
+          "THE",
+          "NITROUS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"R\""
+        ],
+        "to_reveal_letters": [
+          "T",
+          "U"
+        ],
+        "game_link": "/us/game/2019-07-25/2",
+        "eliminated": 1046,
+        "advancing": 5329,
+        "correct_answers": 5329,
+        "incorrect_answers": 1046
+      },
+      {
+        "direct_link": "/us/game/2019-07-25/2/11",
+        "question_number": 11,
+        "text": "Creepy Kids Film",
+        "answer": [
+          "ESCAPE",
+          "TO",
+          "WITCH",
+          "MOUNTAIN"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"O\""
+        ],
+        "to_reveal_letters": [
+          "C",
+          "M"
+        ],
+        "game_link": "/us/game/2019-07-25/2",
+        "eliminated": 492,
+        "advancing": 5083,
+        "correct_answers": 5083,
+        "incorrect_answers": 492
+      },
+      {
+        "direct_link": "/us/game/2019-07-25/2/12",
+        "question_number": 12,
+        "text": "Big Movie News",
+        "answer": [
+          "WOMAN",
+          "PLAYING",
+          "DOUBLE-O",
+          "SEVEN"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"-\"",
+          "\"S\""
+        ],
+        "to_reveal_letters": [
+          "D",
+          "E"
+        ],
+        "game_link": "/us/game/2019-07-25/2",
+        "eliminated": 1968,
+        "advancing": 3262,
+        "correct_answers": 3262,
+        "incorrect_answers": 1968
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

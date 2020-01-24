@@ -1,0 +1,1635 @@
+[
+  {
+    "id": 135045,
+    "show_id": 12453,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-10-01T00:00:00Z",
+    "direct_link": "/us/game/2019-09-30/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,065",
+      "currency": "$",
+      "average_prize": "0.48"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 150346,
+        "text": "The first 49 Super Bowls were all officially titled using what kind of numbering system?",
+        "question_number": 1,
+        "eliminated": "-5,680",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "55,953",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299975,
+            "text": "Binary",
+            "correct": false,
+            "count": "2,210",
+            "percent": "4.69%"
+          },
+          {
+            "id": 299976,
+            "text": "Dewey Decimal",
+            "correct": false,
+            "count": "1,289",
+            "percent": "2.74%"
+          },
+          {
+            "id": 299977,
+            "text": "Roman numerals",
+            "correct": true,
+            "count": "43,594",
+            "percent": "92.57%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/1/1",
+        "game_link": "/us/game/2019-09-30/1",
+        "correct_answers": 43594,
+        "incorrect_answers": 3499,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150354,
+        "text": "In Buffaloâs record four consecutive Super Bowl losses, which team did they lose to twice?",
+        "question_number": 2,
+        "eliminated": "1,156",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "54,834",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299987,
+            "text": "Cowboys",
+            "correct": true,
+            "count": "35,794",
+            "percent": "74.32%"
+          },
+          {
+            "id": 299988,
+            "text": "Giants",
+            "correct": false,
+            "count": "8,745",
+            "percent": "18.16%"
+          },
+          {
+            "id": 299989,
+            "text": "Redskins",
+            "correct": false,
+            "count": "3,625",
+            "percent": "7.53%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/1/2",
+        "game_link": "/us/game/2019-09-30/1",
+        "correct_answers": 35794,
+        "incorrect_answers": 12370,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150362,
+        "text": "What unique thing happens as soon as the ball is snapped on this play?",
+        "question_number": 3,
+        "eliminated": "1,622",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "53,260",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 299999,
+            "text": "Manningâs final play",
+            "correct": false,
+            "count": "2,349",
+            "percent": "4.98%"
+          },
+          {
+            "id": 300000,
+            "text": "Longest SB TD pass",
+            "correct": false,
+            "count": "3,181",
+            "percent": "6.74%"
+          },
+          {
+            "id": 300001,
+            "text": "Safety on 1st play",
+            "correct": true,
+            "count": "41,678",
+            "percent": "88.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/1/3",
+        "game_link": "/us/game/2019-09-30/1",
+        "correct_answers": 41678,
+        "incorrect_answers": 5530,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150370,
+        "text": "With his last Super Bowl win, Tom Brady broke a tie for âmost ringsâ with what player?",
+        "question_number": 4,
+        "eliminated": "5,892",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "47,498",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300011,
+            "text": "Steve Young",
+            "correct": false,
+            "count": "10,435",
+            "percent": "23.29%"
+          },
+          {
+            "id": 300012,
+            "text": "Adam Vinatieri",
+            "correct": false,
+            "count": "12,329",
+            "percent": "27.52%"
+          },
+          {
+            "id": 300014,
+            "text": "Charles Haley",
+            "correct": true,
+            "count": "22,042",
+            "percent": "49.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/1/4",
+        "game_link": "/us/game/2019-09-30/1",
+        "correct_answers": 22042,
+        "incorrect_answers": 22764,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150378,
+        "text": "Who was the first man to win a Super Bowl as both a starting QB and GM?",
+        "question_number": 5,
+        "eliminated": "4,700",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "43,116",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300023,
+            "text": "Roger Staubach",
+            "correct": false,
+            "count": "10,444",
+            "percent": "25.26%"
+          },
+          {
+            "id": 300025,
+            "text": "John Elway",
+            "correct": true,
+            "count": "28,431",
+            "percent": "68.75%"
+          },
+          {
+            "id": 300028,
+            "text": "Jim Plunkett",
+            "correct": false,
+            "count": "2,479",
+            "percent": "5.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/1/5",
+        "game_link": "/us/game/2019-09-30/1",
+        "correct_answers": 28431,
+        "incorrect_answers": 12923,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150386,
+        "text": "Who is the only player to win three consecutive Super Bowl rings?",
+        "question_number": 6,
+        "eliminated": "10,955",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "32,418",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300035,
+            "text": "Ty Law",
+            "correct": false,
+            "count": "5,981",
+            "percent": "15.27%"
+          },
+          {
+            "id": 300037,
+            "text": "Deion Sanders",
+            "correct": false,
+            "count": "15,972",
+            "percent": "40.78%"
+          },
+          {
+            "id": 300041,
+            "text": "Ken Norton, Jr.",
+            "correct": true,
+            "count": "17,210",
+            "percent": "43.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/1/6",
+        "game_link": "/us/game/2019-09-30/1",
+        "correct_answers": 17210,
+        "incorrect_answers": 21953,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150394,
+        "text": "Which city has had a team play the most seasons without appearing in the Super Bowl?",
+        "question_number": 7,
+        "eliminated": "7,951",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "25,675",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300047,
+            "text": "Oakland",
+            "correct": false,
+            "count": "2,383",
+            "percent": "7.7%"
+          },
+          {
+            "id": 300049,
+            "text": "Detroit",
+            "correct": true,
+            "count": "19,971",
+            "percent": "64.53%"
+          },
+          {
+            "id": 300052,
+            "text": "Cleveland",
+            "correct": false,
+            "count": "8,593",
+            "percent": "27.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/1/7",
+        "game_link": "/us/game/2019-09-30/1",
+        "correct_answers": 19971,
+        "incorrect_answers": 10976,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150402,
+        "text": "What player both threw and caught a touchdown pass in a Super Bowl?",
+        "question_number": 8,
+        "eliminated": "4,044",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "23,099",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300059,
+            "text": "Nick Foles",
+            "correct": true,
+            "count": "20,384",
+            "percent": "78.39%"
+          },
+          {
+            "id": 300061,
+            "text": "Russell Wilson",
+            "correct": false,
+            "count": "2,733",
+            "percent": "10.51%"
+          },
+          {
+            "id": 300064,
+            "text": "Kordell Stewart",
+            "correct": false,
+            "count": "2,886",
+            "percent": "11.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/1/8",
+        "game_link": "/us/game/2019-09-30/1",
+        "correct_answers": 20384,
+        "incorrect_answers": 5619,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150410,
+        "text": "Which city has NOT hosted at least 10 Super Bowls?",
+        "question_number": 9,
+        "eliminated": "6,718",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "16,871",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300071,
+            "text": "Miami",
+            "correct": false,
+            "count": "2,688",
+            "percent": "11.98%"
+          },
+          {
+            "id": 300073,
+            "text": "New Orleans",
+            "correct": false,
+            "count": "5,553",
+            "percent": "24.76%"
+          },
+          {
+            "id": 300075,
+            "text": "Los Angeles",
+            "correct": true,
+            "count": "14,190",
+            "percent": "63.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/1/9",
+        "game_link": "/us/game/2019-09-30/1",
+        "correct_answers": 14190,
+        "incorrect_answers": 8241,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150418,
+        "text": "What was the position of the only players to score touchdowns for different teams in the Super Bowl?",
+        "question_number": 10,
+        "eliminated": "9,431",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "8,826",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300083,
+            "text": "Tight End",
+            "correct": false,
+            "count": "4,521",
+            "percent": "27.37%"
+          },
+          {
+            "id": 300085,
+            "text": "Wide Receiver",
+            "correct": true,
+            "count": "5,927",
+            "percent": "35.89%"
+          },
+          {
+            "id": 300087,
+            "text": "Running Back",
+            "correct": false,
+            "count": "6,068",
+            "percent": "36.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/1/10",
+        "game_link": "/us/game/2019-09-30/1",
+        "correct_answers": 5927,
+        "incorrect_answers": 10589,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150426,
+        "text": "Which of these players was NOT named Super Bowl MVP in back-to-back years?",
+        "question_number": 11,
+        "eliminated": "5,044",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "6,453",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300095,
+            "text": "Bart Starr",
+            "correct": false,
+            "count": "1,588",
+            "percent": "14.72%"
+          },
+          {
+            "id": 300096,
+            "text": "Terry Bradshaw",
+            "correct": false,
+            "count": "2,748",
+            "percent": "25.47%"
+          },
+          {
+            "id": 300099,
+            "text": "Tom Brady",
+            "correct": true,
+            "count": "6,453",
+            "percent": "59.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/1/11",
+        "game_link": "/us/game/2019-09-30/1",
+        "correct_answers": 6453,
+        "incorrect_answers": 4336,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150434,
+        "text": "What two teams played in the Super Bowl that got the highest TV rating?",
+        "question_number": 12,
+        "eliminated": "6,689",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,065",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300107,
+            "text": "Cowboys vs. Steelers",
+            "correct": false,
+            "count": "2,697",
+            "percent": "32.01%"
+          },
+          {
+            "id": 300110,
+            "text": "49ers vs. Bengals",
+            "correct": true,
+            "count": "2,065",
+            "percent": "24.51%"
+          },
+          {
+            "id": 300112,
+            "text": "Patriots vs. Eagles",
+            "correct": false,
+            "count": "3,663",
+            "percent": "43.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/1/12",
+        "game_link": "/us/game/2019-09-30/1",
+        "correct_answers": 2065,
+        "incorrect_answers": 6360,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1873,
+        "game_id": 135045,
+        "question": "Who wins MNF tonight?",
+        "results": [
+          {
+            "id": 11125,
+            "display_count": "33",
+            "vote_count": 7298,
+            "text": "Bengals"
+          },
+          {
+            "id": 11128,
+            "display_count": "54",
+            "vote_count": 11842,
+            "text": "Steelers"
+          },
+          {
+            "id": 11131,
+            "display_count": "13",
+            "vote_count": 2782,
+            "text": "Tie"
+          }
+        ],
+        "created_at": "2019-10-01T00:11:23Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 135105,
+    "show_id": 12167,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "10,000",
+    "currency": "$",
+    "start_time": "2019-10-01T01:00:00Z",
+    "direct_link": "/us/game/2019-09-30/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 150442,
+        "text": "Which of these animals typically has a tail?",
+        "question_number": 1,
+        "eliminated": "-10,508",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "124,835",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300119,
+            "text": "Chimpanzee",
+            "correct": false,
+            "count": "6,535",
+            "percent": "6.02%"
+          },
+          {
+            "id": 300120,
+            "text": "Hermit crab",
+            "correct": false,
+            "count": "996",
+            "percent": "0.92%"
+          },
+          {
+            "id": 300121,
+            "text": "Horse",
+            "correct": true,
+            "count": "100,956",
+            "percent": "93.06%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/1",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 100956,
+        "incorrect_answers": 7531,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150450,
+        "text": "How would you order coffee in Spanish?",
+        "question_number": 2,
+        "eliminated": "1,091",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "123,836",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300131,
+            "text": "El autobus es rapido",
+            "correct": false,
+            "count": "1,029",
+            "percent": "0.92%"
+          },
+          {
+            "id": 300132,
+            "text": "Un cafÃ©, por favor",
+            "correct": true,
+            "count": "108,094",
+            "percent": "96.68%"
+          },
+          {
+            "id": 300134,
+            "text": "Donde esta el huevo?",
+            "correct": false,
+            "count": "2,680",
+            "percent": "2.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/2",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 108094,
+        "incorrect_answers": 3709,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150458,
+        "text": "Which of these video games is NOT in the \"battle royale\" genre?",
+        "question_number": 3,
+        "eliminated": "3,331",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "120,529",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300143,
+            "text": "Fortnite",
+            "correct": false,
+            "count": "7,520",
+            "percent": "6.71%"
+          },
+          {
+            "id": 300146,
+            "text": "Sim City",
+            "correct": true,
+            "count": "96,151",
+            "percent": "85.83%"
+          },
+          {
+            "id": 300149,
+            "text": "Apex Legends",
+            "correct": false,
+            "count": "8,355",
+            "percent": "7.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/3",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 96151,
+        "incorrect_answers": 15875,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150466,
+        "text": "What is it called when a piece of a glacier breaks off?",
+        "question_number": 4,
+        "eliminated": "13,804",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "106,841",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300155,
+            "text": "Hurling",
+            "correct": false,
+            "count": "3,460",
+            "percent": "3.12%"
+          },
+          {
+            "id": 300156,
+            "text": "Sharding",
+            "correct": false,
+            "count": "46,020",
+            "percent": "41.45%"
+          },
+          {
+            "id": 300157,
+            "text": "Calving",
+            "correct": true,
+            "count": "61,542",
+            "percent": "55.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/4",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 61542,
+        "incorrect_answers": 49480,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150474,
+        "text": "What is a common seasoning on Chicago-style hot dogs?",
+        "question_number": 5,
+        "eliminated": "14,351",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "93,196",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300167,
+            "text": "Celery salt",
+            "correct": true,
+            "count": "70,151",
+            "percent": "69.64%"
+          },
+          {
+            "id": 300170,
+            "text": "Chili powder",
+            "correct": false,
+            "count": "24,206",
+            "percent": "24.03%"
+          },
+          {
+            "id": 300174,
+            "text": "White pepper",
+            "correct": false,
+            "count": "6,378",
+            "percent": "6.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/5",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 70151,
+        "incorrect_answers": 30584,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150482,
+        "text": "The works of what childrenâs author have become a trilogy of animated films?",
+        "question_number": 6,
+        "eliminated": "28,318",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "65,980",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300179,
+            "text": "Judi Barrett",
+            "correct": false,
+            "count": "30,890",
+            "percent": "35.47%"
+          },
+          {
+            "id": 300182,
+            "text": "Margery Sharp",
+            "correct": false,
+            "count": "16,719",
+            "percent": "19.2%"
+          },
+          {
+            "id": 300186,
+            "text": "Cressida Cowell",
+            "correct": true,
+            "count": "39,486",
+            "percent": "45.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/6",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 39486,
+        "incorrect_answers": 47609,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150490,
+        "text": "What âSaturday Night Liveâ cast member has appeared on âBlueâs Cluesâ?",
+        "question_number": 7,
+        "eliminated": "36,761",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "32,761",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300191,
+            "text": "Rachel Dratch",
+            "correct": false,
+            "count": "25,773",
+            "percent": "38.48%"
+          },
+          {
+            "id": 300195,
+            "text": "Julia Louis-Dreyfus",
+            "correct": true,
+            "count": "17,391",
+            "percent": "25.97%"
+          },
+          {
+            "id": 300199,
+            "text": "Molly Shannon",
+            "correct": false,
+            "count": "23,811",
+            "percent": "35.55%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/7",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 17391,
+        "incorrect_answers": 49584,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150498,
+        "text": "Where is the USAâs âZero Milestoneâ?",
+        "question_number": 8,
+        "eliminated": "19,519",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "21,371",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300203,
+            "text": "Washington, DC",
+            "correct": true,
+            "count": "12,440",
+            "percent": "31.22%"
+          },
+          {
+            "id": 300205,
+            "text": "Cambridge, MA",
+            "correct": false,
+            "count": "10,718",
+            "percent": "26.9%"
+          },
+          {
+            "id": 300209,
+            "text": "Philadelphia, PA",
+            "correct": false,
+            "count": "16,691",
+            "percent": "41.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/8",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 12440,
+        "incorrect_answers": 27409,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150506,
+        "text": "Which math operation is NOT commutative?",
+        "question_number": 9,
+        "eliminated": "4,264",
+        "category": "Math",
+        "category_slug": "math",
+        "advancing": "22,618",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300215,
+            "text": "Addition",
+            "correct": false,
+            "count": "3,519",
+            "percent": "13.32%"
+          },
+          {
+            "id": 300218,
+            "text": "Division",
+            "correct": true,
+            "count": "20,128",
+            "percent": "76.17%"
+          },
+          {
+            "id": 300220,
+            "text": "Multiplication",
+            "correct": false,
+            "count": "2,778",
+            "percent": "10.51%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/9",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 20128,
+        "incorrect_answers": 6297,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 9,
+          "players_left": 19386,
+          "players_left_formatted": "19,386",
+          "num_winners": 4563,
+          "num_winners_formatted": "4,563",
+          "prize": 0.03,
+          "prize_formatted": "$0.03",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 150514,
+        "text": "Which WWII Axis power opposed the other two back during WWI?",
+        "question_number": 10,
+        "eliminated": "10,996",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "11,953",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300227,
+            "text": "Italy",
+            "correct": false,
+            "count": "4,646",
+            "percent": "24.64%"
+          },
+          {
+            "id": 300229,
+            "text": "Germany",
+            "correct": true,
+            "count": "7,488",
+            "percent": "39.72%"
+          },
+          {
+            "id": 300233,
+            "text": "Japan",
+            "correct": false,
+            "count": "6,720",
+            "percent": "35.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/10",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 7488,
+        "incorrect_answers": 11366,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150522,
+        "text": "The smartphone app âWhat3wordsâ is most specifically helpful to people who are what?",
+        "question_number": 11,
+        "eliminated": "5,133",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "9,799",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300239,
+            "text": "Hungry",
+            "correct": false,
+            "count": "1,215",
+            "percent": "8.62%"
+          },
+          {
+            "id": 300242,
+            "text": "Lonely",
+            "correct": false,
+            "count": "3,080",
+            "percent": "21.85%"
+          },
+          {
+            "id": 300246,
+            "text": "Lost",
+            "correct": true,
+            "count": "9,799",
+            "percent": "69.53%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/11",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 9799,
+        "incorrect_answers": 4295,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150530,
+        "text": "Which classic rock song does NOT resemble the chord progression of Pachelbelâs Canon?",
+        "question_number": 12,
+        "eliminated": "3,444",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "8,466",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300251,
+            "text": "1999",
+            "correct": true,
+            "count": "8,466",
+            "percent": "72.88%"
+          },
+          {
+            "id": 300254,
+            "text": "Let It Be",
+            "correct": false,
+            "count": "1,700",
+            "percent": "14.63%"
+          },
+          {
+            "id": 300259,
+            "text": "Basket Case",
+            "correct": false,
+            "count": "1,450",
+            "percent": "12.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/12",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 8466,
+        "incorrect_answers": 3150,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150538,
+        "text": "âWhat does she do with itâ was a publication questioning the spending of which public figure?",
+        "question_number": 13,
+        "eliminated": "3,212",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "7,053",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300263,
+            "text": "Marie Antoinette",
+            "correct": false,
+            "count": "819",
+            "percent": "8.18%"
+          },
+          {
+            "id": 300267,
+            "text": "Mary Todd Lincoln",
+            "correct": false,
+            "count": "2,143",
+            "percent": "21.4%"
+          },
+          {
+            "id": 300271,
+            "text": "Queen Victoria",
+            "correct": true,
+            "count": "7,054",
+            "percent": "70.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/13",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 7054,
+        "incorrect_answers": 2962,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150546,
+        "text": "Which Declaration of Independence signer is NOT portrayed in the play â1776â?",
+        "question_number": 14,
+        "eliminated": "4,970",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "4,135",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300275,
+            "text": "Lewis Morris",
+            "correct": false,
+            "count": "594",
+            "percent": "6.79%"
+          },
+          {
+            "id": 300277,
+            "text": "Josiah Bartlett",
+            "correct": false,
+            "count": "4,021",
+            "percent": "45.95%"
+          },
+          {
+            "id": 300279,
+            "text": "Button Gwinnett",
+            "correct": true,
+            "count": "4,135",
+            "percent": "47.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/14",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 4135,
+        "incorrect_answers": 4615,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150554,
+        "text": "Which of these teams was featured in the first sports event broadcast on HBO?",
+        "question_number": 15,
+        "eliminated": "4,545",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,477",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300287,
+            "text": "Vancouver Canucks",
+            "correct": true,
+            "count": "2,477",
+            "percent": "35.73%"
+          },
+          {
+            "id": 300289,
+            "text": "Philadelphia 76ers",
+            "correct": false,
+            "count": "1,104",
+            "percent": "15.93%"
+          },
+          {
+            "id": 300292,
+            "text": "New York Mets",
+            "correct": false,
+            "count": "3,351",
+            "percent": "48.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/15",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 2477,
+        "incorrect_answers": 4455,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 15,
+          "players_left": 3404,
+          "players_left_formatted": "3,404",
+          "num_winners": 1403,
+          "num_winners_formatted": "1,403",
+          "prize": 0.61,
+          "prize_formatted": "$0.61",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 150562,
+        "text": "Who is the leader of the country in which this piece is currently displayed?",
+        "question_number": 16,
+        "eliminated": "952",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "2,855",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300299,
+            "text": "Boris Johnson",
+            "correct": false,
+            "count": "304",
+            "percent": "8.88%"
+          },
+          {
+            "id": 300302,
+            "text": "Angela Merkel",
+            "correct": true,
+            "count": "2,855",
+            "percent": "83.41%"
+          },
+          {
+            "id": 300306,
+            "text": "Abdel Fattah el-Sisi",
+            "correct": false,
+            "count": "264",
+            "percent": "7.71%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/16",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 2855,
+        "incorrect_answers": 568,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150570,
+        "text": "The theme song to the WBâs âCharmedâ was originally written by the band that also sang what?",
+        "question_number": 17,
+        "eliminated": "606",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "2,489",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300311,
+            "text": "Bigmouth Strikes Again",
+            "correct": true,
+            "count": "2,489",
+            "percent": "81.47%"
+          },
+          {
+            "id": 300314,
+            "text": "Love My Way",
+            "correct": false,
+            "count": "218",
+            "percent": "7.14%"
+          },
+          {
+            "id": 300318,
+            "text": "The Killing Moon",
+            "correct": false,
+            "count": "348",
+            "percent": "11.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/17",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 2489,
+        "incorrect_answers": 566,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150578,
+        "text": "What is the capital of the only country in which this animal is naturally found?",
+        "question_number": 18,
+        "eliminated": "971",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "1,704",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300323,
+            "text": "Beijing",
+            "correct": false,
+            "count": "221",
+            "percent": "8.43%"
+          },
+          {
+            "id": 300327,
+            "text": "Addis Ababa",
+            "correct": true,
+            "count": "1,704",
+            "percent": "64.99%"
+          },
+          {
+            "id": 300331,
+            "text": "Kuala Lumpur",
+            "correct": false,
+            "count": "697",
+            "percent": "26.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/18",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 1704,
+        "incorrect_answers": 918,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150586,
+        "text": "A three-time World Memory champ has admitted to losing which of these on several occasions?",
+        "question_number": 19,
+        "eliminated": "1,464",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "240",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300335,
+            "text": "Car keys",
+            "correct": false,
+            "count": "1,272",
+            "percent": "77.51%"
+          },
+          {
+            "id": 300337,
+            "text": "Lucky hat",
+            "correct": true,
+            "count": "240",
+            "percent": "14.63%"
+          },
+          {
+            "id": 300341,
+            "text": "Cell phone",
+            "correct": false,
+            "count": "129",
+            "percent": "7.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/19",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 240,
+        "incorrect_answers": 1401,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150594,
+        "text": "Who won the Choice Movie Actress award at the first Teen Choice Awards?",
+        "question_number": 20,
+        "eliminated": "115",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "123",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300347,
+            "text": "Jennifer Love Hewitt",
+            "correct": true,
+            "count": "124",
+            "percent": "54.63%"
+          },
+          {
+            "id": 300350,
+            "text": "Cameron Diaz",
+            "correct": false,
+            "count": "37",
+            "percent": "16.3%"
+          },
+          {
+            "id": 300354,
+            "text": "Sarah Michelle Gellar",
+            "correct": false,
+            "count": "66",
+            "percent": "29.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/20",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 124,
+        "incorrect_answers": 103,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150602,
+        "text": "According to Urban Dictionary, when does the âpre-kendâ start?",
+        "question_number": 21,
+        "eliminated": "43",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "76",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300359,
+            "text": "Friday morning",
+            "correct": false,
+            "count": "19",
+            "percent": "16.24%"
+          },
+          {
+            "id": 300362,
+            "text": "Thursday after lunch",
+            "correct": true,
+            "count": "77",
+            "percent": "65.81%"
+          },
+          {
+            "id": 300366,
+            "text": "Friday afternoon",
+            "correct": false,
+            "count": "21",
+            "percent": "17.95%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/21",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 77,
+        "incorrect_answers": 40,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 21,
+          "players_left": 10,
+          "players_left_formatted": "10",
+          "num_winners": 63,
+          "num_winners_formatted": "63",
+          "prize": 19.74,
+          "prize_formatted": "$19.74",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 150610,
+        "text": "A co-writer of the âCheersâ theme song was also Emmy-nominated for which show?",
+        "question_number": 22,
+        "eliminated": "4",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "2",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300371,
+            "text": "Fame",
+            "correct": true,
+            "count": "2",
+            "percent": "100.0%"
+          },
+          {
+            "id": 300375,
+            "text": "Friends",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 300379,
+            "text": "Tonight Show",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/22",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 2,
+        "incorrect_answers": 0,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150618,
+        "text": "The first driver to win both the Daytona and Indy 500s was born in a town in what present-day country?",
+        "question_number": 23,
+        "eliminated": "1",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300383,
+            "text": "Slovenia",
+            "correct": false,
+            "count": "1",
+            "percent": "50.0%"
+          },
+          {
+            "id": 300386,
+            "text": "Croatia",
+            "correct": true,
+            "count": "1",
+            "percent": "50.0%"
+          },
+          {
+            "id": 300390,
+            "text": "Italy",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/23",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 1,
+        "incorrect_answers": 1,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 150626,
+        "text": "Because of the filmâs title, which characterâs portrayer almost didnât do âThe Sisterhood of the Traveling Pantsâ?",
+        "question_number": 24,
+        "eliminated": "1",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "0",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 300395,
+            "text": "Tibby",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 300397,
+            "text": "Bridget",
+            "correct": false,
+            "count": "1",
+            "percent": "100.0%"
+          },
+          {
+            "id": 300400,
+            "text": "Carmen",
+            "correct": true,
+            "count": "0",
+            "percent": "0.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-30/2/24",
+        "game_link": "/us/game/2019-09-30/2",
+        "correct_answers": 0,
+        "incorrect_answers": 1,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1877,
+        "game_id": 135105,
+        "question": "What was your favorite Season 6 show?",
+        "results": [
+          {
+            "id": 11152,
+            "display_count": "28",
+            "vote_count": 6046,
+            "text": "Anatomy "
+          },
+          {
+            "id": 11156,
+            "display_count": "34",
+            "vote_count": 7393,
+            "text": "Disney Princess"
+          },
+          {
+            "id": 11149,
+            "display_count": "38",
+            "vote_count": 8245,
+            "text": "Eugene"
+          }
+        ],
+        "created_at": "2019-10-01T01:02:13Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 9,
+        "players_left": 19386,
+        "players_left_formatted": "19,386",
+        "num_winners": 4563,
+        "num_winners_formatted": "4,563",
+        "prize": 0.03,
+        "prize_formatted": "$0.03",
+        "currency": "$"
+      },
+      {
+        "round_number": 15,
+        "players_left": 3404,
+        "players_left_formatted": "3,404",
+        "num_winners": 1403,
+        "num_winners_formatted": "1,403",
+        "prize": 0.61,
+        "prize_formatted": "$0.61",
+        "currency": "$"
+      },
+      {
+        "round_number": 21,
+        "players_left": 10,
+        "players_left_formatted": "10",
+        "num_winners": 63,
+        "num_winners_formatted": "63",
+        "prize": 19.74,
+        "prize_formatted": "$19.74",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "2,236.34",
+    "total_checkpoint_winners": "6,029",
+    "smallest_checkpoint_prize": "$0.03",
+    "largest_checkpoint_prize": "$19.74",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

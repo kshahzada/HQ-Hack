@@ -1,0 +1,1702 @@
+[
+  {
+    "id": 102965,
+    "show_id": 10846,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "2,500",
+    "currency": "$",
+    "start_time": "2019-05-16T19:00:00Z",
+    "direct_link": "/us/game/2019-05-16/1",
+    "time": " 3:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "629",
+      "currency": "$",
+      "average_prize": "3.97"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Homeless Harry Potter",
+        "slug": "homeless-harry-potter"
+      }
+    ],
+    "questions": [
+      {
+        "id": 106829,
+        "text": "In which childrenâs game do you perform exactly as one person demands, at least most of the time?",
+        "question_number": 1,
+        "eliminated": "-7,118",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "108,626",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 234716,
+            "text": "Alice Asks",
+            "correct": false,
+            "count": "1,750",
+            "percent": "1.72%"
+          },
+          {
+            "id": 234717,
+            "text": "Taylor Tells",
+            "correct": false,
+            "count": "1,666",
+            "percent": "1.64%"
+          },
+          {
+            "id": 234719,
+            "text": "Simon Says",
+            "correct": true,
+            "count": "98,092",
+            "percent": "96.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/1/1",
+        "game_link": "/us/game/2019-05-16/1",
+        "correct_answers": 98092,
+        "incorrect_answers": 3416,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 106846,
+        "text": "What action registers a âlikeâ on an Instagram post?",
+        "question_number": 2,
+        "eliminated": "410",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "108,289",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 234743,
+            "text": "Scroll down",
+            "correct": false,
+            "count": "2,092",
+            "percent": "2.04%"
+          },
+          {
+            "id": 234744,
+            "text": "Double tap",
+            "correct": true,
+            "count": "90,639",
+            "percent": "88.4%"
+          },
+          {
+            "id": 234745,
+            "text": "Swipe up",
+            "correct": false,
+            "count": "9,805",
+            "percent": "9.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/1/2",
+        "game_link": "/us/game/2019-05-16/1",
+        "correct_answers": 90639,
+        "incorrect_answers": 11897,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 106861,
+        "text": "Audio cassette tapes were mainly replaced by what technology?",
+        "question_number": 3,
+        "eliminated": "641",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "107,677",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 234764,
+            "text": "Gramophones",
+            "correct": false,
+            "count": "1,693",
+            "percent": "1.67%"
+          },
+          {
+            "id": 234768,
+            "text": "Compact discs",
+            "correct": true,
+            "count": "95,657",
+            "percent": "94.25%"
+          },
+          {
+            "id": 234770,
+            "text": "Vinyl records",
+            "correct": false,
+            "count": "4,140",
+            "percent": "4.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/1/3",
+        "game_link": "/us/game/2019-05-16/1",
+        "correct_answers": 95657,
+        "incorrect_answers": 5833,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 106876,
+        "text": "Which of these classic TV characters had a super-smooth alter-ego named Stefan?",
+        "question_number": 4,
+        "eliminated": "1,805",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "105,939",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 234786,
+            "text": "Urkel",
+            "correct": true,
+            "count": "85,816",
+            "percent": "86.7%"
+          },
+          {
+            "id": 234788,
+            "text": "Milhouse",
+            "correct": false,
+            "count": "10,304",
+            "percent": "10.41%"
+          },
+          {
+            "id": 234790,
+            "text": "Liz Lemon",
+            "correct": false,
+            "count": "2,864",
+            "percent": "2.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/1/4",
+        "game_link": "/us/game/2019-05-16/1",
+        "correct_answers": 85816,
+        "incorrect_answers": 13168,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 106894,
+        "text": "Ancient Romans most often ate with what utensil?",
+        "question_number": 5,
+        "eliminated": "7,471",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "98,563",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 234815,
+            "text": "Spoon",
+            "correct": true,
+            "count": "67,190",
+            "percent": "68.77%"
+          },
+          {
+            "id": 234817,
+            "text": "Fork",
+            "correct": false,
+            "count": "24,447",
+            "percent": "25.02%"
+          },
+          {
+            "id": 234819,
+            "text": "Chopsticks",
+            "correct": false,
+            "count": "6,069",
+            "percent": "6.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/1/5",
+        "game_link": "/us/game/2019-05-16/1",
+        "correct_answers": 67190,
+        "incorrect_answers": 30516,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 106907,
+        "text": "What kind of fungus is this?",
+        "question_number": 6,
+        "eliminated": "16,856",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "82,513",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 234833,
+            "text": "Shelf",
+            "correct": false,
+            "count": "28,967",
+            "percent": "31.13%"
+          },
+          {
+            "id": 234834,
+            "text": "Jelly",
+            "correct": true,
+            "count": "7,937",
+            "percent": "8.53%"
+          },
+          {
+            "id": 234835,
+            "text": "Coral",
+            "correct": false,
+            "count": "56,147",
+            "percent": "60.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/1/6",
+        "game_link": "/us/game/2019-05-16/1",
+        "correct_answers": 7937,
+        "incorrect_answers": 85114,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 106927,
+        "text": "In golf, what term is shorthand for a hole-in-one on a par five?",
+        "question_number": 7,
+        "eliminated": "30,617",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "54,469",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 234863,
+            "text": "Condor",
+            "correct": true,
+            "count": "21,549",
+            "percent": "27.82%"
+          },
+          {
+            "id": 234864,
+            "text": "Albatross",
+            "correct": false,
+            "count": "34,582",
+            "percent": "44.65%"
+          },
+          {
+            "id": 234865,
+            "text": "Falcon",
+            "correct": false,
+            "count": "21,320",
+            "percent": "27.53%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/1/7",
+        "game_link": "/us/game/2019-05-16/1",
+        "correct_answers": 21549,
+        "incorrect_answers": 55902,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 106945,
+        "text": "Norville is the âbirth nameâ of which of these popular cartoon characters?",
+        "question_number": 8,
+        "eliminated": "21,665",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "35,519",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 234890,
+            "text": "Shaggy",
+            "correct": true,
+            "count": "34,080",
+            "percent": "62.52%"
+          },
+          {
+            "id": 234891,
+            "text": "Jughead",
+            "correct": false,
+            "count": "13,993",
+            "percent": "25.67%"
+          },
+          {
+            "id": 234892,
+            "text": "Popeye",
+            "correct": false,
+            "count": "6,435",
+            "percent": "11.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/1/8",
+        "game_link": "/us/game/2019-05-16/1",
+        "correct_answers": 34080,
+        "incorrect_answers": 20428,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 106956,
+        "text": "Which of these topics have both Angela Carter and Anne Sexton written about?",
+        "question_number": 9,
+        "eliminated": "13,651",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "23,493",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 234907,
+            "text": "Shakespeare",
+            "correct": false,
+            "count": "5,451",
+            "percent": "15.16%"
+          },
+          {
+            "id": 234910,
+            "text": "Fairy tales",
+            "correct": true,
+            "count": "23,321",
+            "percent": "64.86%"
+          },
+          {
+            "id": 234913,
+            "text": "Dinosaurs",
+            "correct": false,
+            "count": "7,185",
+            "percent": "19.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/1/9",
+        "game_link": "/us/game/2019-05-16/1",
+        "correct_answers": 23321,
+        "incorrect_answers": 12636,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 106974,
+        "text": "The artist behind this photo famously worked as what to pay the bills?",
+        "question_number": 10,
+        "eliminated": "7,859",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "16,769",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 234934,
+            "text": "Art teacher",
+            "correct": false,
+            "count": "2,192",
+            "percent": "9.06%"
+          },
+          {
+            "id": 234940,
+            "text": "Nanny",
+            "correct": true,
+            "count": "16,748",
+            "percent": "69.2%"
+          },
+          {
+            "id": 234944,
+            "text": "Tour guide",
+            "correct": false,
+            "count": "5,263",
+            "percent": "21.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/1/10",
+        "game_link": "/us/game/2019-05-16/1",
+        "correct_answers": 16748,
+        "incorrect_answers": 7455,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 106987,
+        "text": "Which of these writers is NOT the same person?",
+        "question_number": 11,
+        "eliminated": "6,894",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "10,950",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 234953,
+            "text": "Nora Roberts",
+            "correct": false,
+            "count": "1,316",
+            "percent": "7.63%"
+          },
+          {
+            "id": 234954,
+            "text": "Judith Krantz",
+            "correct": true,
+            "count": "10,950",
+            "percent": "63.46%"
+          },
+          {
+            "id": 234960,
+            "text": "JD Robb",
+            "correct": false,
+            "count": "4,988",
+            "percent": "28.91%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/1/11",
+        "game_link": "/us/game/2019-05-16/1",
+        "correct_answers": 10950,
+        "incorrect_answers": 6304,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107006,
+        "text": "Which showâs lead actor reportedly yelled, âHeâs not an actor, heâs a dog!â about his canine costar?",
+        "question_number": 12,
+        "eliminated": "7,242",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "5,738",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 234983,
+            "text": "Full House",
+            "correct": false,
+            "count": "1,780",
+            "percent": "15.09%"
+          },
+          {
+            "id": 234985,
+            "text": "Brooklyn Nine-Nine",
+            "correct": false,
+            "count": "4,279",
+            "percent": "36.27%"
+          },
+          {
+            "id": 234987,
+            "text": "Frasier",
+            "correct": true,
+            "count": "5,738",
+            "percent": "48.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/1/12",
+        "game_link": "/us/game/2019-05-16/1",
+        "correct_answers": 5738,
+        "incorrect_answers": 6059,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107020,
+        "text": "About 10 percent of Five Guys franchise locations are owned by a former pro athlete in what?",
+        "question_number": 13,
+        "eliminated": "4,929",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,906",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235003,
+            "text": "Ice hockey",
+            "correct": false,
+            "count": "780",
+            "percent": "10.41%"
+          },
+          {
+            "id": 235005,
+            "text": "Baseball",
+            "correct": false,
+            "count": "3,805",
+            "percent": "50.79%"
+          },
+          {
+            "id": 235007,
+            "text": "Basketball",
+            "correct": true,
+            "count": "2,906",
+            "percent": "38.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/1/13",
+        "game_link": "/us/game/2019-05-16/1",
+        "correct_answers": 2906,
+        "incorrect_answers": 4585,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107035,
+        "text": "What fashion house did this designer famously take over when he was barely into his 20s?",
+        "question_number": 14,
+        "eliminated": "3,036",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "1,770",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235025,
+            "text": "Louis Vuitton",
+            "correct": false,
+            "count": "715",
+            "percent": "15.1%"
+          },
+          {
+            "id": 235029,
+            "text": "Chanel",
+            "correct": false,
+            "count": "2,250",
+            "percent": "47.52%"
+          },
+          {
+            "id": 235034,
+            "text": "Christian Dior",
+            "correct": true,
+            "count": "1,770",
+            "percent": "37.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/1/14",
+        "game_link": "/us/game/2019-05-16/1",
+        "correct_answers": 1770,
+        "incorrect_answers": 2965,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107051,
+        "text": "In âThe Perfect Storm,â the line âIt would beâ¦ the perfect stormâ is spoken by the actor famous for what role?",
+        "question_number": 15,
+        "eliminated": "2,468",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "629",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235049,
+            "text": "Dr. Doug Ross",
+            "correct": false,
+            "count": "1,719",
+            "percent": "60.19%"
+          },
+          {
+            "id": 235050,
+            "text": "Shooter McGavin",
+            "correct": true,
+            "count": "629",
+            "percent": "22.02%"
+          },
+          {
+            "id": 235051,
+            "text": "Dirk Diggler",
+            "correct": false,
+            "count": "508",
+            "percent": "17.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/1/15",
+        "game_link": "/us/game/2019-05-16/1",
+        "correct_answers": 629,
+        "incorrect_answers": 2227,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 103108,
+    "show_id": 10832,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-05-17T01:00:00Z",
+    "direct_link": "/us/game/2019-05-16/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "4,989",
+      "currency": "$",
+      "average_prize": "1.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "The Big Bang Theory",
+        "slug": "the-big-bang-theory"
+      },
+      {
+        "name": "TV",
+        "slug": "tv"
+      }
+    ],
+    "questions": [
+      {
+        "id": 107070,
+        "text": "What is Pennyâs initial relationship to Leonard and Sheldon?",
+        "question_number": 1,
+        "eliminated": "-10,750",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "247,973",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235079,
+            "text": "Coworker",
+            "correct": false,
+            "count": "12,798",
+            "percent": "5.39%"
+          },
+          {
+            "id": 235080,
+            "text": "Science experiment",
+            "correct": false,
+            "count": "5,600",
+            "percent": "2.36%"
+          },
+          {
+            "id": 235081,
+            "text": "Neighbor",
+            "correct": true,
+            "count": "218,825",
+            "percent": "92.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/2/1",
+        "game_link": "/us/game/2019-05-16/2",
+        "correct_answers": 218825,
+        "incorrect_answers": 18398,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107079,
+        "text": "What is Sheldonâs signature phrase?",
+        "question_number": 2,
+        "eliminated": "417",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "247,795",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235091,
+            "text": "Borneo!",
+            "correct": false,
+            "count": "1,829",
+            "percent": "0.76%"
+          },
+          {
+            "id": 235092,
+            "text": "Bazinga!",
+            "correct": true,
+            "count": "232,311",
+            "percent": "96.97%"
+          },
+          {
+            "id": 235093,
+            "text": "Bingo bango!",
+            "correct": false,
+            "count": "5,440",
+            "percent": "2.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/2/2",
+        "game_link": "/us/game/2019-05-16/2",
+        "correct_answers": 232311,
+        "incorrect_answers": 7269,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107094,
+        "text": "What is Sheldonâs occupation?",
+        "question_number": 3,
+        "eliminated": "1,178",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "246,635",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235115,
+            "text": "Statistical analyst",
+            "correct": false,
+            "count": "10,220",
+            "percent": "4.31%"
+          },
+          {
+            "id": 235116,
+            "text": "Rocket scientist",
+            "correct": false,
+            "count": "23,233",
+            "percent": "9.81%"
+          },
+          {
+            "id": 235117,
+            "text": "Theoretical physicist",
+            "correct": true,
+            "count": "203,399",
+            "percent": "85.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/2/3",
+        "game_link": "/us/game/2019-05-16/2",
+        "correct_answers": 203399,
+        "incorrect_answers": 33453,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107109,
+        "text": "The actress who plays Amy is known for starring in what earlier sitcom?",
+        "question_number": 4,
+        "eliminated": "2,354",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "244,341",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235136,
+            "text": "Blossom",
+            "correct": true,
+            "count": "202,479",
+            "percent": "85.84%"
+          },
+          {
+            "id": 235137,
+            "text": "Roseanne",
+            "correct": false,
+            "count": "19,681",
+            "percent": "8.34%"
+          },
+          {
+            "id": 235138,
+            "text": "Grace Under Fire",
+            "correct": false,
+            "count": "13,714",
+            "percent": "5.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/2/4",
+        "game_link": "/us/game/2019-05-16/2",
+        "correct_answers": 202479,
+        "incorrect_answers": 33395,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107125,
+        "text": "What landmark is visible through Sheldon and Leonardâs window?",
+        "question_number": 5,
+        "eliminated": "5,745",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "238,777",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235160,
+            "text": "The Hollywood sign",
+            "correct": false,
+            "count": "25,529",
+            "percent": "11.06%"
+          },
+          {
+            "id": 235161,
+            "text": "Golden Gate Bridge",
+            "correct": false,
+            "count": "56,430",
+            "percent": "24.45%"
+          },
+          {
+            "id": 235162,
+            "text": "Pasadena City Hall",
+            "correct": true,
+            "count": "148,851",
+            "percent": "64.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/2/5",
+        "game_link": "/us/game/2019-05-16/2",
+        "correct_answers": 148851,
+        "incorrect_answers": 81959,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107148,
+        "text": "The frontman of which band wrote the showâs theme song?",
+        "question_number": 6,
+        "eliminated": "8,514",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "230,688",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235196,
+            "text": "Weezer",
+            "correct": false,
+            "count": "30,064",
+            "percent": "13.24%"
+          },
+          {
+            "id": 235197,
+            "text": "Barenaked Ladies",
+            "correct": true,
+            "count": "182,025",
+            "percent": "80.13%"
+          },
+          {
+            "id": 235198,
+            "text": "Ben Folds Five",
+            "correct": false,
+            "count": "15,065",
+            "percent": "6.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/2/6",
+        "game_link": "/us/game/2019-05-16/2",
+        "correct_answers": 182025,
+        "incorrect_answers": 45129,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107157,
+        "text": "What is Sheldon's comfort song about?",
+        "question_number": 7,
+        "eliminated": "30,505",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "200,638",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235208,
+            "text": "Cuddly feline",
+            "correct": true,
+            "count": "181,844",
+            "percent": "81.89%"
+          },
+          {
+            "id": 235210,
+            "text": "Perfect blanket",
+            "correct": false,
+            "count": "14,975",
+            "percent": "6.74%"
+          },
+          {
+            "id": 235212,
+            "text": "Elegant equation",
+            "correct": false,
+            "count": "25,238",
+            "percent": "11.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/2/7",
+        "game_link": "/us/game/2019-05-16/2",
+        "correct_answers": 181844,
+        "incorrect_answers": 40213,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107174,
+        "text": "What causes Sheldon to hug Penny for the first time?",
+        "question_number": 8,
+        "eliminated": "69,759",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "133,078",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235233,
+            "text": "Gift",
+            "correct": true,
+            "count": "130,282",
+            "percent": "66.05%"
+          },
+          {
+            "id": 235235,
+            "text": "Misunderstanding",
+            "correct": false,
+            "count": "43,263",
+            "percent": "21.93%"
+          },
+          {
+            "id": 235237,
+            "text": "Compliment",
+            "correct": false,
+            "count": "23,700",
+            "percent": "12.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/2/8",
+        "game_link": "/us/game/2019-05-16/2",
+        "correct_answers": 130282,
+        "incorrect_answers": 66963,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107187,
+        "text": "The actor who plays which character was nominated for a Golden Globe for a film role?",
+        "question_number": 9,
+        "eliminated": "71,779",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "72,787",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235253,
+            "text": "Howard",
+            "correct": true,
+            "count": "72,405",
+            "percent": "52.78%"
+          },
+          {
+            "id": 235254,
+            "text": "Bernadette",
+            "correct": false,
+            "count": "29,708",
+            "percent": "21.66%"
+          },
+          {
+            "id": 235255,
+            "text": "Raj",
+            "correct": false,
+            "count": "35,064",
+            "percent": "25.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/2/9",
+        "game_link": "/us/game/2019-05-16/2",
+        "correct_answers": 72405,
+        "incorrect_answers": 64772,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107207,
+        "text": "How did Chuck Lorre initially pitch the show to CBS?",
+        "question_number": 10,
+        "eliminated": "66,784",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "23,070",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235283,
+            "text": "Staged reading",
+            "correct": true,
+            "count": "22,943",
+            "percent": "26.46%"
+          },
+          {
+            "id": 235284,
+            "text": "PowerPoint presentation",
+            "correct": false,
+            "count": "20,756",
+            "percent": "23.94%"
+          },
+          {
+            "id": 235285,
+            "text": "Venn diagrams",
+            "correct": false,
+            "count": "43,018",
+            "percent": "49.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/2/10",
+        "game_link": "/us/game/2019-05-16/2",
+        "correct_answers": 22943,
+        "incorrect_answers": 63774,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107220,
+        "text": "What is NOT part of Pennyâs outfit the first time she and Leonard kiss?",
+        "question_number": 11,
+        "eliminated": "22,094",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "18,618",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235303,
+            "text": "Tail",
+            "correct": false,
+            "count": "8,168",
+            "percent": "20.63%"
+          },
+          {
+            "id": 235305,
+            "text": "Bow tie",
+            "correct": true,
+            "count": "18,618",
+            "percent": "47.02%"
+          },
+          {
+            "id": 235306,
+            "text": "Cat ears",
+            "correct": false,
+            "count": "12,809",
+            "percent": "32.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/2/11",
+        "game_link": "/us/game/2019-05-16/2",
+        "correct_answers": 18618,
+        "incorrect_answers": 20977,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107235,
+        "text": "In this scene, Sheldon hopes to learn about friendship from what literary character?",
+        "question_number": 12,
+        "eliminated": "5,699",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "18,639",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235325,
+            "text": "Moliere the Bear",
+            "correct": false,
+            "count": "2,774",
+            "percent": "11.47%"
+          },
+          {
+            "id": 235326,
+            "text": "Trish the Fish",
+            "correct": false,
+            "count": "2,764",
+            "percent": "11.43%"
+          },
+          {
+            "id": 235328,
+            "text": "Stu the Cockatoo",
+            "correct": true,
+            "count": "18,639",
+            "percent": "77.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/2/12",
+        "game_link": "/us/game/2019-05-16/2",
+        "correct_answers": 18639,
+        "incorrect_answers": 5538,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107252,
+        "text": "What is Pennyâs screen name in Age of Conan?",
+        "question_number": 13,
+        "eliminated": "4,619",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "16,199",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235351,
+            "text": "Queen Penelope",
+            "correct": true,
+            "count": "16,199",
+            "percent": "78.29%"
+          },
+          {
+            "id": 235354,
+            "text": "Lady Lovelace",
+            "correct": false,
+            "count": "2,680",
+            "percent": "12.95%"
+          },
+          {
+            "id": 235358,
+            "text": "Ms. Artemis",
+            "correct": false,
+            "count": "1,811",
+            "percent": "8.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/2/13",
+        "game_link": "/us/game/2019-05-16/2",
+        "correct_answers": 16199,
+        "incorrect_answers": 4491,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107267,
+        "text": "Amyâs wedding day look did NOT have which of the following?",
+        "question_number": 14,
+        "eliminated": "9,363",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "8,724",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235373,
+            "text": "Capelet",
+            "correct": false,
+            "count": "2,848",
+            "percent": "16.63%"
+          },
+          {
+            "id": 235375,
+            "text": "Hoop skirt",
+            "correct": false,
+            "count": "5,552",
+            "percent": "32.42%"
+          },
+          {
+            "id": 235377,
+            "text": "Flower crown",
+            "correct": true,
+            "count": "8,724",
+            "percent": "50.95%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/2/14",
+        "game_link": "/us/game/2019-05-16/2",
+        "correct_answers": 8724,
+        "incorrect_answers": 8400,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 107284,
+        "text": "According to this song, what does Thor sarcastically compliment Indiana Jones on?",
+        "question_number": 15,
+        "eliminated": "8,389",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "4,989",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 235397,
+            "text": "Attitude",
+            "correct": false,
+            "count": "1,516",
+            "percent": "11.4%"
+          },
+          {
+            "id": 235400,
+            "text": "Whip",
+            "correct": false,
+            "count": "6,798",
+            "percent": "51.1%"
+          },
+          {
+            "id": 235403,
+            "text": "Hat",
+            "correct": true,
+            "count": "4,989",
+            "percent": "37.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-16/2/15",
+        "game_link": "/us/game/2019-05-16/2",
+        "correct_answers": 4989,
+        "incorrect_answers": 8314,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 103248,
+    "show_id": 10880,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-05-17T01:30:00Z",
+    "direct_link": "/us/game/2019-05-16/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [],
+    "tags": [
+      {
+        "name": "Buddies",
+        "slug": "buddies"
+      },
+      {
+        "name": "Technical Difficulties",
+        "slug": "technical-difficulties"
+      }
+    ],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-05-16/3/1",
+        "question_number": 1,
+        "text": "Favorite Genre",
+        "answer": [
+          "SCIENCE",
+          "FICTION"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "T"
+        ],
+        "game_link": "/us/game/2019-05-16/3",
+        "eliminated": 12891,
+        "advancing": 95655,
+        "correct_answers": 95655,
+        "incorrect_answers": 12891
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  },
+  {
+    "id": 103280,
+    "show_id": 10902,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-05-17T02:00:00Z",
+    "direct_link": "/us/game/2019-05-16/4",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "3,426",
+      "currency": "$",
+      "average_prize": "0.29"
+    },
+    "time": "10:00 pm",
+    "game_number": 4,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Buddies",
+        "slug": "buddies"
+      },
+      {
+        "name": "Restarted Game",
+        "slug": "restarted-game"
+      }
+    ],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-05-16/4/1",
+        "question_number": 1,
+        "text": "Favorite Genre",
+        "answer": [
+          "SCIENCE",
+          "FICTION"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "T"
+        ],
+        "game_link": "/us/game/2019-05-16/4",
+        "eliminated": 7377,
+        "advancing": 71422,
+        "correct_answers": 71422,
+        "incorrect_answers": 7377
+      },
+      {
+        "direct_link": "/us/game/2019-05-16/4/2",
+        "question_number": 2,
+        "text": "Sheldon's Fashion",
+        "answer": [
+          "FLASH",
+          "T-SHIRT"
+        ],
+        "initial_letters": [
+          " ",
+          "-",
+          "F"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "H"
+        ],
+        "game_link": "/us/game/2019-05-16/4",
+        "eliminated": 14470,
+        "advancing": 57583,
+        "correct_answers": 57583,
+        "incorrect_answers": 14470
+      },
+      {
+        "direct_link": "/us/game/2019-05-16/4/3",
+        "question_number": 3,
+        "text": "Exclamation",
+        "answer": [
+          "WHAT",
+          "THE",
+          "FRAK?"
+        ],
+        "initial_letters": [
+          " ",
+          "?",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "R"
+        ],
+        "game_link": "/us/game/2019-05-16/4",
+        "eliminated": 21048,
+        "advancing": 37259,
+        "correct_answers": 37259,
+        "incorrect_answers": 21048
+      },
+      {
+        "direct_link": "/us/game/2019-05-16/4/4",
+        "question_number": 4,
+        "text": "Young Sheldonâs Tune",
+        "answer": [
+          "SOFT",
+          "KITTY"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "K"
+        ],
+        "game_link": "/us/game/2019-05-16/4",
+        "eliminated": 3462,
+        "advancing": 35082,
+        "correct_answers": 35082,
+        "incorrect_answers": 3462
+      },
+      {
+        "direct_link": "/us/game/2019-05-16/4/5",
+        "question_number": 5,
+        "text": "Undoctored Character",
+        "answer": [
+          "HOWARD",
+          "WOLOWITZ"
+        ],
+        "initial_letters": [
+          " ",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "H"
+        ],
+        "game_link": "/us/game/2019-05-16/4",
+        "eliminated": 8881,
+        "advancing": 26337,
+        "correct_answers": 26337,
+        "incorrect_answers": 8881
+      },
+      {
+        "direct_link": "/us/game/2019-05-16/4/6",
+        "question_number": 6,
+        "text": "Important Document",
+        "answer": [
+          "ROOMMATE",
+          "AGREEMENT"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "T"
+        ],
+        "game_link": "/us/game/2019-05-16/4",
+        "eliminated": 632,
+        "advancing": 26064,
+        "correct_answers": 26064,
+        "incorrect_answers": 632
+      },
+      {
+        "direct_link": "/us/game/2019-05-16/4/7",
+        "question_number": 7,
+        "text": "First Contact",
+        "answer": [
+          "PENNY",
+          "&",
+          "LEONARD'S",
+          "KISS"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "''",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "K",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-05-16/4",
+        "eliminated": 2786,
+        "advancing": 23316,
+        "correct_answers": 23316,
+        "incorrect_answers": 2786
+      },
+      {
+        "direct_link": "/us/game/2019-05-16/4/8",
+        "question_number": 8,
+        "text": "Lane Name",
+        "answer": [
+          "THE",
+          "WESLEY",
+          "CRUSHERS"
+        ],
+        "initial_letters": [
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "W",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-05-16/4",
+        "eliminated": 8376,
+        "advancing": 15296,
+        "correct_answers": 15296,
+        "incorrect_answers": 8376
+      },
+      {
+        "direct_link": "/us/game/2019-05-16/4/9",
+        "question_number": 9,
+        "text": "Fictional Game",
+        "answer": [
+          "MYSTIC",
+          "WARLORDS",
+          "OF",
+          "KAâA"
+        ],
+        "initial_letters": [
+          " ",
+          "â",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "S",
+          "T"
+        ],
+        "game_link": "/us/game/2019-05-16/4",
+        "eliminated": 12804,
+        "advancing": 3687,
+        "correct_answers": 3687,
+        "incorrect_answers": 12804
+      },
+      {
+        "direct_link": "/us/game/2019-05-16/4/10",
+        "question_number": 10,
+        "text": "Appropriate Guest Stars",
+        "answer": [
+          "NEIL",
+          "DEGRASSE",
+          "TYSON",
+          "&",
+          "BILL",
+          "NYE"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "R",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-05-16/4",
+        "eliminated": 1417,
+        "advancing": 5004,
+        "correct_answers": 5004,
+        "incorrect_answers": 1417
+      },
+      {
+        "direct_link": "/us/game/2019-05-16/4/11",
+        "question_number": 11,
+        "text": "Hangout",
+        "answer": [
+          "COMIC",
+          "CENTER",
+          "OF",
+          "PASADENA"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "P"
+        ],
+        "game_link": "/us/game/2019-05-16/4",
+        "eliminated": 864,
+        "advancing": 4350,
+        "correct_answers": 4350,
+        "incorrect_answers": 864
+      },
+      {
+        "direct_link": "/us/game/2019-05-16/4/12",
+        "question_number": 12,
+        "text": "Dashboard Confession",
+        "answer": [
+          "YOUR",
+          "CHECK",
+          "ENGINE",
+          "LIGHT",
+          "IS",
+          "ON"
+        ],
+        "initial_letters": [
+          " ",
+          "U"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "G"
+        ],
+        "game_link": "/us/game/2019-05-16/4",
+        "eliminated": 1113,
+        "advancing": 3426,
+        "correct_answers": 3426,
+        "incorrect_answers": 1113
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

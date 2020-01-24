@@ -1,0 +1,804 @@
+[
+  {
+    "id": 43359,
+    "show_id": 9222,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-01-12T02:00:00Z",
+    "direct_link": "/us/game/2019-01-11/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "513",
+      "currency": "$",
+      "average_prize": "9.75"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 41760,
+        "text": "Not telling a person something is âkeeping themâ where?",
+        "question_number": 1,
+        "eliminated": "13,651",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "305,785",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 125175,
+            "text": "On truckinâ",
+            "correct": false,
+            "count": "5,204",
+            "percent": "1.65%"
+          },
+          {
+            "id": 125179,
+            "text": "Handy",
+            "correct": false,
+            "count": "5,318",
+            "percent": "1.68%"
+          },
+          {
+            "id": 125183,
+            "text": "In the dark",
+            "correct": true,
+            "count": "305,785",
+            "percent": "96.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-11/1/1",
+        "game_link": "/us/game/2019-01-11/1",
+        "correct_answers": 305785,
+        "incorrect_answers": 10522,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41765,
+        "text": "Which of these artists has won multiple Grammy Awards?",
+        "question_number": 2,
+        "eliminated": "12,194",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "299,752",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 125187,
+            "text": "BeyoncÃ©",
+            "correct": true,
+            "count": "299,752",
+            "percent": "98.07%"
+          },
+          {
+            "id": 125189,
+            "text": "Kevin Federline",
+            "correct": false,
+            "count": "3,735",
+            "percent": "1.22%"
+          },
+          {
+            "id": 125192,
+            "text": "Insane Clown Posse",
+            "correct": false,
+            "count": "2,169",
+            "percent": "0.71%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-11/1/2",
+        "game_link": "/us/game/2019-01-11/1",
+        "correct_answers": 299752,
+        "incorrect_answers": 5904,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41775,
+        "text": "What is the adjective in the sentence, âInterrogate presumptuous marsupialsâ?",
+        "question_number": 3,
+        "eliminated": "59,860",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "241,715",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 125220,
+            "text": "Interrogate",
+            "correct": false,
+            "count": "40,069",
+            "percent": "13.81%"
+          },
+          {
+            "id": 125221,
+            "text": "Presumptuous",
+            "correct": true,
+            "count": "241,715",
+            "percent": "83.3%"
+          },
+          {
+            "id": 125222,
+            "text": "Marsupials",
+            "correct": false,
+            "count": "8,399",
+            "percent": "2.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-11/1/3",
+        "game_link": "/us/game/2019-01-11/1",
+        "correct_answers": 241715,
+        "incorrect_answers": 48468,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41781,
+        "text": "What is needed for an âimmaculate inningâ in a baseball game?",
+        "question_number": 4,
+        "eliminated": "85,958",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "168,421",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 125235,
+            "text": "One grand slam",
+            "correct": false,
+            "count": "33,632",
+            "percent": "14.07%"
+          },
+          {
+            "id": 125237,
+            "text": "Nine total pitches",
+            "correct": true,
+            "count": "168,421",
+            "percent": "70.48%"
+          },
+          {
+            "id": 125241,
+            "text": "Three tag-outs",
+            "correct": false,
+            "count": "36,924",
+            "percent": "15.45%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-11/1/4",
+        "game_link": "/us/game/2019-01-11/1",
+        "correct_answers": 168421,
+        "incorrect_answers": 70556,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41791,
+        "text": "Which type of mammal lays eggs?",
+        "question_number": 5,
+        "eliminated": "99,492",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "87,568",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 125265,
+            "text": "Pinniped",
+            "correct": false,
+            "count": "48,896",
+            "percent": "26.77%"
+          },
+          {
+            "id": 125268,
+            "text": "Monotreme",
+            "correct": true,
+            "count": "87,568",
+            "percent": "47.94%"
+          },
+          {
+            "id": 125270,
+            "text": "Cetacean",
+            "correct": false,
+            "count": "46,193",
+            "percent": "25.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-11/1/5",
+        "game_link": "/us/game/2019-01-11/1",
+        "correct_answers": 87568,
+        "incorrect_answers": 95089,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41796,
+        "text": "Which continent was NOT involved in the Punic Wars?",
+        "question_number": 6,
+        "eliminated": "43,879",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "61,943",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 125283,
+            "text": "Africa",
+            "correct": false,
+            "count": "27,049",
+            "percent": "26.17%"
+          },
+          {
+            "id": 125284,
+            "text": "Europe",
+            "correct": false,
+            "count": "14,372",
+            "percent": "13.9%"
+          },
+          {
+            "id": 125289,
+            "text": "Asia",
+            "correct": true,
+            "count": "61,943",
+            "percent": "59.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-11/1/6",
+        "game_link": "/us/game/2019-01-11/1",
+        "correct_answers": 61943,
+        "incorrect_answers": 41421,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41803,
+        "text": "Which of these food names, on its own, is an active registered trademark?",
+        "question_number": 7,
+        "eliminated": "49,402",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "19,690",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 125304,
+            "text": "Chili mac",
+            "correct": false,
+            "count": "2,906",
+            "percent": "4.36%"
+          },
+          {
+            "id": 125305,
+            "text": "Tater tots",
+            "correct": true,
+            "count": "19,690",
+            "percent": "29.53%"
+          },
+          {
+            "id": 125306,
+            "text": "Raisin bran",
+            "correct": false,
+            "count": "44,075",
+            "percent": "66.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-11/1/7",
+        "game_link": "/us/game/2019-01-11/1",
+        "correct_answers": 19690,
+        "incorrect_answers": 46981,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41812,
+        "text": "What nickname did astronomers give the newly discovered most-distant object in the Solar System?",
+        "question_number": 8,
+        "eliminated": "11,440",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "23,087",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 125334,
+            "text": "Boondocks",
+            "correct": false,
+            "count": "6,942",
+            "percent": "20.61%"
+          },
+          {
+            "id": 125338,
+            "text": "Nosebleed",
+            "correct": false,
+            "count": "3,659",
+            "percent": "10.86%"
+          },
+          {
+            "id": 125343,
+            "text": "Farout",
+            "correct": true,
+            "count": "23,087",
+            "percent": "68.53%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-11/1/8",
+        "game_link": "/us/game/2019-01-11/1",
+        "correct_answers": 23087,
+        "incorrect_answers": 10601,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41819,
+        "text": "In which metropolitan area would you find an airport with a nine-hole golf course?",
+        "question_number": 9,
+        "eliminated": "10,435",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "14,499",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 125352,
+            "text": "Hong Kong",
+            "correct": true,
+            "count": "14,499",
+            "percent": "58.52%"
+          },
+          {
+            "id": 125354,
+            "text": "Abu Dhabi",
+            "correct": false,
+            "count": "7,459",
+            "percent": "30.11%"
+          },
+          {
+            "id": 125358,
+            "text": "Glasgow",
+            "correct": false,
+            "count": "2,817",
+            "percent": "11.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-11/1/9",
+        "game_link": "/us/game/2019-01-11/1",
+        "correct_answers": 14499,
+        "incorrect_answers": 10276,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41827,
+        "text": "Which place does NOT border both of the landlocked nations on its continent?",
+        "question_number": 10,
+        "eliminated": "13,608",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "2,588",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 125376,
+            "text": "Brazil",
+            "correct": false,
+            "count": "700",
+            "percent": "4.5%"
+          },
+          {
+            "id": 125377,
+            "text": "Peru",
+            "correct": true,
+            "count": "2,588",
+            "percent": "16.65%"
+          },
+          {
+            "id": 125380,
+            "text": "Argentina",
+            "correct": false,
+            "count": "12,256",
+            "percent": "78.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-11/1/10",
+        "game_link": "/us/game/2019-01-11/1",
+        "correct_answers": 2588,
+        "incorrect_answers": 12956,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41836,
+        "text": "Which of these was extensively used by the 20th-century recording industry?",
+        "question_number": 11,
+        "eliminated": "3,563",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "898",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 125401,
+            "text": "Scully lathe",
+            "correct": true,
+            "count": "898",
+            "percent": "20.63%"
+          },
+          {
+            "id": 125410,
+            "text": "Barconic pick",
+            "correct": false,
+            "count": "446",
+            "percent": "10.25%"
+          },
+          {
+            "id": 125417,
+            "text": "Ames room",
+            "correct": false,
+            "count": "3,009",
+            "percent": "69.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-11/1/11",
+        "game_link": "/us/game/2019-01-11/1",
+        "correct_answers": 898,
+        "incorrect_answers": 3455,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41846,
+        "text": "What does Guinness list as the best-selling sports video game franchise?",
+        "question_number": 12,
+        "eliminated": "649",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "513",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 125425,
+            "text": "FIFA Soccer",
+            "correct": true,
+            "count": "513",
+            "percent": "45.48%"
+          },
+          {
+            "id": 125436,
+            "text": "Madden NFL",
+            "correct": false,
+            "count": "416",
+            "percent": "36.88%"
+          },
+          {
+            "id": 125443,
+            "text": "NBA 2K",
+            "correct": false,
+            "count": "199",
+            "percent": "17.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-11/1/12",
+        "game_link": "/us/game/2019-01-11/1",
+        "correct_answers": 513,
+        "incorrect_answers": 615,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 43478,
+    "show_id": 9310,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-01-12T02:30:00Z",
+    "direct_link": "/us/game/2019-01-11/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "300.10",
+          "time": "71.88"
+        },
+        {
+          "number": "2",
+          "amount": "150.10",
+          "time": "71.88"
+        },
+        {
+          "number": "3",
+          "amount": "50.10",
+          "time": "71.98"
+        },
+        {
+          "number": "4,975",
+          "amount": "0.10",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.1004419445560466,
+      "top_players_prize": 500.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-01-11/2/1",
+        "question_number": 1,
+        "text": "Breakfast Drink",
+        "answer": [
+          "SMOOTHIE"
+        ],
+        "initial_letters": [
+          "S"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "T"
+        ],
+        "game_link": "/us/game/2019-01-11/2",
+        "eliminated": 14371,
+        "advancing": 174242,
+        "correct_answers": 174242,
+        "incorrect_answers": 14371
+      },
+      {
+        "direct_link": "/us/game/2019-01-11/2/2",
+        "question_number": 2,
+        "text": "Basketball Move",
+        "answer": [
+          "SLAM",
+          "DUNK"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "U"
+        ],
+        "game_link": "/us/game/2019-01-11/2",
+        "eliminated": 32762,
+        "advancing": 143420,
+        "correct_answers": 143420,
+        "incorrect_answers": 32762
+      },
+      {
+        "direct_link": "/us/game/2019-01-11/2/3",
+        "question_number": 3,
+        "text": "Famous NYC Landmark",
+        "answer": [
+          "CENTRAL",
+          "PARK"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "P"
+        ],
+        "game_link": "/us/game/2019-01-11/2",
+        "eliminated": 15038,
+        "advancing": 132926,
+        "correct_answers": 132926,
+        "incorrect_answers": 15038
+      },
+      {
+        "direct_link": "/us/game/2019-01-11/2/4",
+        "question_number": 4,
+        "text": "Newspaper Feature",
+        "answer": [
+          "CLASSIFIED",
+          "AD"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-01-11/2",
+        "eliminated": 44162,
+        "advancing": 91113,
+        "correct_answers": 91113,
+        "incorrect_answers": 44162
+      },
+      {
+        "direct_link": "/us/game/2019-01-11/2/5",
+        "question_number": 5,
+        "text": "At the Beach",
+        "answer": [
+          "BOOGIE",
+          "BOARDING"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "G"
+        ],
+        "game_link": "/us/game/2019-01-11/2",
+        "eliminated": 64923,
+        "advancing": 33855,
+        "correct_answers": 33855,
+        "incorrect_answers": 64923
+      },
+      {
+        "direct_link": "/us/game/2019-01-11/2/6",
+        "question_number": 6,
+        "text": "Personality Type",
+        "answer": [
+          "HAPPY",
+          "GO",
+          "LUCKY"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-01-11/2",
+        "eliminated": 23445,
+        "advancing": 22134,
+        "correct_answers": 22134,
+        "incorrect_answers": 23445
+      },
+      {
+        "direct_link": "/us/game/2019-01-11/2/7",
+        "question_number": 7,
+        "text": "Rock N Roll Classic",
+        "answer": [
+          "BOHEMIAN",
+          "RHAPSODY"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "P"
+        ],
+        "game_link": "/us/game/2019-01-11/2",
+        "eliminated": 3287,
+        "advancing": 23031,
+        "correct_answers": 23031,
+        "incorrect_answers": 3287
+      },
+      {
+        "direct_link": "/us/game/2019-01-11/2/8",
+        "question_number": 8,
+        "text": "In Mom's Kitchen",
+        "answer": [
+          "FULLY",
+          "STOCKED",
+          "PANTRY"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-01-11/2",
+        "eliminated": 14492,
+        "advancing": 9065,
+        "correct_answers": 9065,
+        "incorrect_answers": 14492
+      },
+      {
+        "direct_link": "/us/game/2019-01-11/2/9",
+        "question_number": 9,
+        "text": "90's Characters",
+        "answer": [
+          "AC",
+          "SLATER",
+          "&",
+          "ZACK",
+          "MORRIS"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "Z"
+        ],
+        "game_link": "/us/game/2019-01-11/2",
+        "eliminated": 7357,
+        "advancing": 5138,
+        "correct_answers": 5138,
+        "incorrect_answers": 7357
+      },
+      {
+        "direct_link": "/us/game/2019-01-11/2/10",
+        "question_number": 10,
+        "text": "Unpleasant Visitor",
+        "answer": [
+          "GRUMPY",
+          "GRANDPA"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "G"
+        ],
+        "game_link": "/us/game/2019-01-11/2",
+        "eliminated": 1875,
+        "advancing": 4978,
+        "correct_answers": 4978,
+        "incorrect_answers": 1875
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

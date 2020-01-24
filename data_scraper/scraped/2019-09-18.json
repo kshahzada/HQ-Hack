@@ -1,0 +1,1290 @@
+[
+  {
+    "id": 133700,
+    "show_id": 12377,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-09-19T00:00:00Z",
+    "direct_link": "/us/game/2019-09-18/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "622",
+      "currency": "$",
+      "average_prize": "1.61"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 148422,
+        "text": "Which of these is an NFL scoring play only available to the defense?",
+        "question_number": 1,
+        "eliminated": "-8,354",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "73,962",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297089,
+            "text": "PAT",
+            "correct": false,
+            "count": "1,524",
+            "percent": "2.48%"
+          },
+          {
+            "id": 297090,
+            "text": "Field Goal",
+            "correct": false,
+            "count": "4,058",
+            "percent": "6.61%"
+          },
+          {
+            "id": 297091,
+            "text": "Safety",
+            "correct": true,
+            "count": "55,779",
+            "percent": "90.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/1/1",
+        "game_link": "/us/game/2019-09-18/1",
+        "correct_answers": 55779,
+        "incorrect_answers": 5582,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148434,
+        "text": "Which of these veteran QBs is currently scheduled to start on Sunday?",
+        "question_number": 2,
+        "eliminated": "1,302",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "72,684",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297107,
+            "text": "Tom Brady",
+            "correct": true,
+            "count": "55,873",
+            "percent": "88.08%"
+          },
+          {
+            "id": 297108,
+            "text": "Ben Roethlisberger",
+            "correct": false,
+            "count": "2,308",
+            "percent": "3.64%"
+          },
+          {
+            "id": 297110,
+            "text": "Eli Manning",
+            "correct": false,
+            "count": "5,254",
+            "percent": "8.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/1/2",
+        "game_link": "/us/game/2019-09-18/1",
+        "correct_answers": 55873,
+        "incorrect_answers": 7562,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148450,
+        "text": "Which of these is a feature of the Canadian Football League?",
+        "question_number": 3,
+        "eliminated": "8,518",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "64,182",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297131,
+            "text": "200 yard field",
+            "correct": false,
+            "count": "2,960",
+            "percent": "4.7%"
+          },
+          {
+            "id": 297135,
+            "text": "No punts",
+            "correct": false,
+            "count": "11,480",
+            "percent": "18.23%"
+          },
+          {
+            "id": 297139,
+            "text": "Only 3 downs",
+            "correct": true,
+            "count": "48,522",
+            "percent": "77.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/1/3",
+        "game_link": "/us/game/2019-09-18/1",
+        "correct_answers": 48522,
+        "incorrect_answers": 14440,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148466,
+        "text": "What is the only team to lose to both the Rangers and the Islanders in the Stanley Cup Finals?",
+        "question_number": 4,
+        "eliminated": "15,488",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "48,986",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297155,
+            "text": "Canucks",
+            "correct": true,
+            "count": "36,783",
+            "percent": "63.24%"
+          },
+          {
+            "id": 297157,
+            "text": "Redwings",
+            "correct": false,
+            "count": "13,066",
+            "percent": "22.46%"
+          },
+          {
+            "id": 297162,
+            "text": "Blues",
+            "correct": false,
+            "count": "8,319",
+            "percent": "14.3%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/1/4",
+        "game_link": "/us/game/2019-09-18/1",
+        "correct_answers": 36783,
+        "incorrect_answers": 21385,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148482,
+        "text": "Which premier league team features young American star Christian Pulisic?",
+        "question_number": 5,
+        "eliminated": "14,438",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "35,482",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297179,
+            "text": "Chelsea",
+            "correct": true,
+            "count": "29,923",
+            "percent": "63.41%"
+          },
+          {
+            "id": 297182,
+            "text": "Manchester United",
+            "correct": false,
+            "count": "6,502",
+            "percent": "13.78%"
+          },
+          {
+            "id": 297190,
+            "text": "Liverpool",
+            "correct": false,
+            "count": "10,765",
+            "percent": "22.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/1/5",
+        "game_link": "/us/game/2019-09-18/1",
+        "correct_answers": 29923,
+        "incorrect_answers": 17267,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148498,
+        "text": "Which of these golfers has shot a 58 in a single round?",
+        "question_number": 6,
+        "eliminated": "11,313",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "25,013",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297203,
+            "text": "David Duval",
+            "correct": false,
+            "count": "9,678",
+            "percent": "28.58%"
+          },
+          {
+            "id": 297204,
+            "text": "Phil Mickelson",
+            "correct": false,
+            "count": "2,730",
+            "percent": "8.06%"
+          },
+          {
+            "id": 297206,
+            "text": "Jim Furyk",
+            "correct": true,
+            "count": "21,458",
+            "percent": "63.36%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/1/6",
+        "game_link": "/us/game/2019-09-18/1",
+        "correct_answers": 21458,
+        "incorrect_answers": 12408,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148514,
+        "text": "The first official college football game was played between two teams from what state?",
+        "question_number": 7,
+        "eliminated": "2,763",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "23,239",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297227,
+            "text": "Texas",
+            "correct": false,
+            "count": "1,285",
+            "percent": "5.09%"
+          },
+          {
+            "id": 297230,
+            "text": "New Jersey",
+            "correct": true,
+            "count": "21,963",
+            "percent": "87.06%"
+          },
+          {
+            "id": 297234,
+            "text": "Ohio",
+            "correct": false,
+            "count": "1,979",
+            "percent": "7.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/1/7",
+        "game_link": "/us/game/2019-09-18/1",
+        "correct_answers": 21963,
+        "incorrect_answers": 3264,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148530,
+        "text": "Which of these colleges has won a national championship in menâs football, basketball and baseball?",
+        "question_number": 8,
+        "eliminated": "4,136",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "19,623",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297251,
+            "text": "North Carolina",
+            "correct": false,
+            "count": "2,031",
+            "percent": "8.94%"
+          },
+          {
+            "id": 297253,
+            "text": "Florida",
+            "correct": true,
+            "count": "18,741",
+            "percent": "82.5%"
+          },
+          {
+            "id": 297256,
+            "text": "Notre Dame",
+            "correct": false,
+            "count": "1,944",
+            "percent": "8.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/1/8",
+        "game_link": "/us/game/2019-09-18/1",
+        "correct_answers": 18741,
+        "incorrect_answers": 3975,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148546,
+        "text": "What player has thrown a touchdown pass for the greatest number of NFL teams?",
+        "question_number": 9,
+        "eliminated": "6,178",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "13,679",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297276,
+            "text": "Jeff George",
+            "correct": false,
+            "count": "768",
+            "percent": "4.86%"
+          },
+          {
+            "id": 297278,
+            "text": "Josh McCown",
+            "correct": false,
+            "count": "1,891",
+            "percent": "11.97%"
+          },
+          {
+            "id": 297283,
+            "text": "Ryan Fitzpatrick",
+            "correct": true,
+            "count": "13,141",
+            "percent": "83.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/1/9",
+        "game_link": "/us/game/2019-09-18/1",
+        "correct_answers": 13141,
+        "incorrect_answers": 2659,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148562,
+        "text": "Which of these women is NOT one of the three tied for most MVPâs in WNBA history?",
+        "question_number": 10,
+        "eliminated": "9,690",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,420",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297299,
+            "text": "Sheryl Swoopes",
+            "correct": false,
+            "count": "1,898",
+            "percent": "18.5%"
+          },
+          {
+            "id": 297301,
+            "text": "Lisa Leslie",
+            "correct": false,
+            "count": "4,417",
+            "percent": "43.05%"
+          },
+          {
+            "id": 297305,
+            "text": "Diana Taurasi",
+            "correct": true,
+            "count": "3,946",
+            "percent": "38.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/1/10",
+        "game_link": "/us/game/2019-09-18/1",
+        "correct_answers": 3946,
+        "incorrect_answers": 6315,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148578,
+        "text": "The most decorated winter Olympian of all time competed in what sport?",
+        "question_number": 11,
+        "eliminated": "2,756",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "3,330",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297323,
+            "text": "Speed skating",
+            "correct": false,
+            "count": "1,179",
+            "percent": "21.85%"
+          },
+          {
+            "id": 297325,
+            "text": "Cross country skiing",
+            "correct": true,
+            "count": "3,330",
+            "percent": "61.7%"
+          },
+          {
+            "id": 297331,
+            "text": "Bobsled",
+            "correct": false,
+            "count": "888",
+            "percent": "16.45%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/1/11",
+        "game_link": "/us/game/2019-09-18/1",
+        "correct_answers": 3330,
+        "incorrect_answers": 2067,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148594,
+        "text": "Which of these men was once player-manager in MLB?",
+        "question_number": 12,
+        "eliminated": "3,628",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "622",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297349,
+            "text": "Yogi Berra",
+            "correct": false,
+            "count": "2,016",
+            "percent": "64.7%"
+          },
+          {
+            "id": 297353,
+            "text": "Joe Torre",
+            "correct": true,
+            "count": "622",
+            "percent": "19.96%"
+          },
+          {
+            "id": 297362,
+            "text": "Billy Martin",
+            "correct": false,
+            "count": "478",
+            "percent": "15.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/1/12",
+        "game_link": "/us/game/2019-09-18/1",
+        "correct_answers": 622,
+        "incorrect_answers": 2494,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1721,
+        "game_id": 133700,
+        "question": "Who do you think will win tomorrow's TNF game?",
+        "results": [
+          {
+            "id": 10218,
+            "display_count": "29",
+            "vote_count": 2669,
+            "text": "Jaguars"
+          },
+          {
+            "id": 10222,
+            "display_count": "12",
+            "vote_count": 1081,
+            "text": "Tie"
+          },
+          {
+            "id": 10213,
+            "display_count": "60",
+            "vote_count": 5516,
+            "text": "Titans"
+          }
+        ],
+        "created_at": "2019-09-19T00:11:53Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 133821,
+    "show_id": 12265,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "1,500",
+    "currency": "$",
+    "start_time": "2019-09-19T01:00:00Z",
+    "direct_link": "/us/game/2019-09-18/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "409",
+      "currency": "$",
+      "average_prize": "3.67"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 148610,
+        "text": "Which of these is a new hit movie starring Jennifer Lopez?",
+        "question_number": 1,
+        "eliminated": "-11,823",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "162,797",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297371,
+            "text": "Rustlers",
+            "correct": false,
+            "count": "3,139",
+            "percent": "2.18%"
+          },
+          {
+            "id": 297372,
+            "text": "Chucklers",
+            "correct": false,
+            "count": "1,225",
+            "percent": "0.85%"
+          },
+          {
+            "id": 297373,
+            "text": "Hustlers",
+            "correct": true,
+            "count": "139,755",
+            "percent": "96.97%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/2/1",
+        "game_link": "/us/game/2019-09-18/2",
+        "correct_answers": 139755,
+        "incorrect_answers": 4364,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148626,
+        "text": "One book in the Harry Potter series is âHarry Potter and theâ what?",
+        "question_number": 2,
+        "eliminated": "2,797",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "160,078",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297395,
+            "text": "Winds of Winter",
+            "correct": false,
+            "count": "1,807",
+            "percent": "1.27%"
+          },
+          {
+            "id": 297397,
+            "text": "Goblet of Fire",
+            "correct": true,
+            "count": "140,634",
+            "percent": "98.49%"
+          },
+          {
+            "id": 297401,
+            "text": "Small Porcelain Giraffe",
+            "correct": false,
+            "count": "346",
+            "percent": "0.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/2/2",
+        "game_link": "/us/game/2019-09-18/2",
+        "correct_answers": 140634,
+        "incorrect_answers": 2153,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148642,
+        "text": "What type of shoe is this?",
+        "question_number": 3,
+        "eliminated": "11,516",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "148,608",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297419,
+            "text": "Espadrille",
+            "correct": false,
+            "count": "5,851",
+            "percent": "4.09%"
+          },
+          {
+            "id": 297421,
+            "text": "Loafer",
+            "correct": true,
+            "count": "133,600",
+            "percent": "93.44%"
+          },
+          {
+            "id": 297424,
+            "text": "Ballet flat",
+            "correct": false,
+            "count": "3,525",
+            "percent": "2.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/2/3",
+        "game_link": "/us/game/2019-09-18/2",
+        "correct_answers": 133600,
+        "incorrect_answers": 9376,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148658,
+        "text": "What did Franklin Roosevelt call âA date which will live in infamyâ?",
+        "question_number": 4,
+        "eliminated": "18,689",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "130,198",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297443,
+            "text": "March 6, 1960",
+            "correct": false,
+            "count": "5,806",
+            "percent": "4.29%"
+          },
+          {
+            "id": 297446,
+            "text": "December 7, 1941",
+            "correct": true,
+            "count": "124,891",
+            "percent": "92.23%"
+          },
+          {
+            "id": 297449,
+            "text": "May 8, 1892",
+            "correct": false,
+            "count": "4,714",
+            "percent": "3.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/2/4",
+        "game_link": "/us/game/2019-09-18/2",
+        "correct_answers": 124891,
+        "incorrect_answers": 10520,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148674,
+        "text": "The classic recipe for a no-chocolate brownie shares its name with a famous what?",
+        "question_number": 5,
+        "eliminated": "42,233",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "89,034",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297467,
+            "text": "Cable channel",
+            "correct": false,
+            "count": "16,922",
+            "percent": "13.94%"
+          },
+          {
+            "id": 297470,
+            "text": "Comic strip",
+            "correct": true,
+            "count": "83,438",
+            "percent": "68.73%"
+          },
+          {
+            "id": 297474,
+            "text": "Sports team",
+            "correct": false,
+            "count": "21,041",
+            "percent": "17.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/2/5",
+        "game_link": "/us/game/2019-09-18/2",
+        "correct_answers": 83438,
+        "incorrect_answers": 37963,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148690,
+        "text": "Which board game has the most spaces on its included spinner?",
+        "question_number": 6,
+        "eliminated": "70,148",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "24,298",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297491,
+            "text": "Game of Life",
+            "correct": false,
+            "count": "64,061",
+            "percent": "69.71%"
+          },
+          {
+            "id": 297492,
+            "text": "Twister",
+            "correct": true,
+            "count": "18,473",
+            "percent": "20.1%"
+          },
+          {
+            "id": 297495,
+            "text": "Hi Ho! Cherry-O",
+            "correct": false,
+            "count": "9,357",
+            "percent": "10.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/2/6",
+        "game_link": "/us/game/2019-09-18/2",
+        "correct_answers": 18473,
+        "incorrect_answers": 73418,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148707,
+        "text": "Which of these is a real Meryl Streep movie quote?",
+        "question_number": 7,
+        "eliminated": "19,759",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "16,496",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297515,
+            "text": "The dingo took my baby",
+            "correct": true,
+            "count": "13,725",
+            "percent": "39.72%"
+          },
+          {
+            "id": 297519,
+            "text": "A dingo ate my baby",
+            "correct": false,
+            "count": "7,719",
+            "percent": "22.34%"
+          },
+          {
+            "id": 297526,
+            "text": "Neither",
+            "correct": false,
+            "count": "13,107",
+            "percent": "37.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/2/7",
+        "game_link": "/us/game/2019-09-18/2",
+        "correct_answers": 13725,
+        "incorrect_answers": 20826,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148722,
+        "text": "What playâs title contains a pun on the name of a London neighborhood?",
+        "question_number": 8,
+        "eliminated": "13,979",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "8,056",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297539,
+            "text": "Our American Cousin",
+            "correct": false,
+            "count": "1,601",
+            "percent": "7.58%"
+          },
+          {
+            "id": 297541,
+            "text": "My Fair Lady",
+            "correct": true,
+            "count": "6,316",
+            "percent": "29.92%"
+          },
+          {
+            "id": 297543,
+            "text": "Merry Wives Of Windsor",
+            "correct": false,
+            "count": "13,192",
+            "percent": "62.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/2/8",
+        "game_link": "/us/game/2019-09-18/2",
+        "correct_answers": 6316,
+        "incorrect_answers": 14793,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148739,
+        "text": "Who did NOT make a cameo appearance in this Super Bowl ad?",
+        "question_number": 9,
+        "eliminated": "4,455",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "9,347",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297565,
+            "text": "Alex Rodriguez",
+            "correct": false,
+            "count": "2,585",
+            "percent": "19.06%"
+          },
+          {
+            "id": 297570,
+            "text": "Charlie Sheen",
+            "correct": false,
+            "count": "2,624",
+            "percent": "19.34%"
+          },
+          {
+            "id": 297577,
+            "text": "Jason Alexander",
+            "correct": true,
+            "count": "8,356",
+            "percent": "61.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/2/9",
+        "game_link": "/us/game/2019-09-18/2",
+        "correct_answers": 8356,
+        "incorrect_answers": 5209,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 9,
+          "players_left": 9071,
+          "players_left_formatted": "9,071",
+          "num_winners": 1013,
+          "num_winners_formatted": "1,013",
+          "prize": 0.06,
+          "prize_formatted": "$0.06",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 148754,
+        "text": "Who was depicted in Apple computerâs first logo?",
+        "question_number": 10,
+        "eliminated": "583",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "8,502",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297587,
+            "text": "Eris",
+            "correct": false,
+            "count": "245",
+            "percent": "2.74%"
+          },
+          {
+            "id": 297590,
+            "text": "Johnny Appleseed",
+            "correct": false,
+            "count": "369",
+            "percent": "4.13%"
+          },
+          {
+            "id": 297593,
+            "text": "Isaac Newton",
+            "correct": true,
+            "count": "8,315",
+            "percent": "93.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/2/10",
+        "game_link": "/us/game/2019-09-18/2",
+        "correct_answers": 8315,
+        "incorrect_answers": 614,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148770,
+        "text": "The man co-credited as writing the âHR Pufnstuffâ theme song also wrote which of these?",
+        "question_number": 11,
+        "eliminated": "4,763",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "3,891",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297611,
+            "text": "Kodachrome",
+            "correct": true,
+            "count": "3,891",
+            "percent": "45.93%"
+          },
+          {
+            "id": 297614,
+            "text": "Rocket Man",
+            "correct": false,
+            "count": "1,873",
+            "percent": "22.11%"
+          },
+          {
+            "id": 297618,
+            "text": "Your Smiling Face",
+            "correct": false,
+            "count": "2,708",
+            "percent": "31.96%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/2/11",
+        "game_link": "/us/game/2019-09-18/2",
+        "correct_answers": 3891,
+        "incorrect_answers": 4581,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148787,
+        "text": "The line of shoals between India and Sri Lanka is named for what?",
+        "question_number": 12,
+        "eliminated": "4,252",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "1,237",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297635,
+            "text": "Mythic character",
+            "correct": true,
+            "count": "1,237",
+            "percent": "27.64%"
+          },
+          {
+            "id": 297638,
+            "text": "Explorer",
+            "correct": false,
+            "count": "2,299",
+            "percent": "51.36%"
+          },
+          {
+            "id": 297645,
+            "text": "Politician",
+            "correct": false,
+            "count": "940",
+            "percent": "21.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/2/12",
+        "game_link": "/us/game/2019-09-18/2",
+        "correct_answers": 1237,
+        "incorrect_answers": 3239,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 12,
+          "players_left": 2018,
+          "players_left_formatted": "2,018",
+          "num_winners": 340,
+          "num_winners_formatted": "340",
+          "prize": 0.81,
+          "prize_formatted": "$0.81",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 148802,
+        "text": "A special-effects Oscar was awarded to the first film to prominently use what technology?",
+        "question_number": 13,
+        "eliminated": "1,003",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "1,016",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297659,
+            "text": "Matte painting",
+            "correct": false,
+            "count": "66",
+            "percent": "4.06%"
+          },
+          {
+            "id": 297661,
+            "text": "Steadicam",
+            "correct": false,
+            "count": "544",
+            "percent": "33.46%"
+          },
+          {
+            "id": 297663,
+            "text": "Bluescreen",
+            "correct": true,
+            "count": "1,016",
+            "percent": "62.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/2/13",
+        "game_link": "/us/game/2019-09-18/2",
+        "correct_answers": 1016,
+        "incorrect_answers": 610,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148818,
+        "text": "What band is paid a veiled homage in the Eaglesâ âHotel California?â",
+        "question_number": 14,
+        "eliminated": "420",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "994",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297683,
+            "text": "Procol Harum",
+            "correct": false,
+            "count": "83",
+            "percent": "6.58%"
+          },
+          {
+            "id": 297685,
+            "text": "Pink Floyd",
+            "correct": false,
+            "count": "185",
+            "percent": "14.66%"
+          },
+          {
+            "id": 297693,
+            "text": "Steely Dan",
+            "correct": true,
+            "count": "994",
+            "percent": "78.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/2/14",
+        "game_link": "/us/game/2019-09-18/2",
+        "correct_answers": 994,
+        "incorrect_answers": 268,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 148834,
+        "text": "Which of these was written by the man depicted in this sculpture?",
+        "question_number": 15,
+        "eliminated": "725",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "409",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 297707,
+            "text": "Being and Nothingness",
+            "correct": false,
+            "count": "225",
+            "percent": "25.63%"
+          },
+          {
+            "id": 297710,
+            "text": "Self-Reliance",
+            "correct": false,
+            "count": "244",
+            "percent": "27.79%"
+          },
+          {
+            "id": 297718,
+            "text": "Interpretation of Dreams",
+            "correct": true,
+            "count": "409",
+            "percent": "46.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-09-18/2/15",
+        "game_link": "/us/game/2019-09-18/2",
+        "correct_answers": 409,
+        "incorrect_answers": 469,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1737,
+        "game_id": 133821,
+        "question": "What's the most embarrassing back to school trend you've ever worn?",
+        "results": [
+          {
+            "id": 10314,
+            "display_count": "17",
+            "vote_count": 4617,
+            "text": "Bucket hat"
+          },
+          {
+            "id": 10319,
+            "display_count": "31",
+            "vote_count": 8373,
+            "text": "Jorts/jeggings"
+          },
+          {
+            "id": 10309,
+            "display_count": "52",
+            "vote_count": 14306,
+            "text": "Oversized jeans"
+          }
+        ],
+        "created_at": "2019-09-19T01:03:42Z"
+      },
+      {
+        "id": 1730,
+        "game_id": 133821,
+        "question": "What trend would you most want to wear the first day of school?",
+        "results": [
+          {
+            "id": 10272,
+            "display_count": "17",
+            "vote_count": 4930,
+            "text": "Fanny pack"
+          },
+          {
+            "id": 10268,
+            "display_count": "26",
+            "vote_count": 7412,
+            "text": "Plaid pants"
+          },
+          {
+            "id": 10262,
+            "display_count": "57",
+            "vote_count": 16348,
+            "text": "Tie-Dye tee"
+          }
+        ],
+        "created_at": "2019-09-19T01:03:14Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 12,
+        "players_left": 2018,
+        "players_left_formatted": "2,018",
+        "num_winners": 340,
+        "num_winners_formatted": "340",
+        "prize": 0.81,
+        "prize_formatted": "$0.81",
+        "currency": "$"
+      },
+      {
+        "round_number": 9,
+        "players_left": 9071,
+        "players_left_formatted": "9,071",
+        "num_winners": 1013,
+        "num_winners_formatted": "1,013",
+        "prize": 0.06,
+        "prize_formatted": "$0.06",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "336.18",
+    "total_checkpoint_winners": "1,353",
+    "smallest_checkpoint_prize": "$0.06",
+    "largest_checkpoint_prize": "$0.81",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

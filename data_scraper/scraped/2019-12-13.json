@@ -1,0 +1,890 @@
+[
+  {
+    "id": 142140,
+    "show_id": 13154,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "500",
+    "currency": "$",
+    "start_time": "2019-12-14T02:00:00Z",
+    "direct_link": "/us/game/2019-12-13/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "",
+        "slug": ""
+      },
+      {
+        "name": "HQ Tunes",
+        "slug": "hq-tunes"
+      }
+    ],
+    "questions": [
+      null,
+      {
+        "id": 159912,
+        "text": "What sketch show did this video appear on?",
+        "question_number": 2,
+        "eliminated": "13,036",
+        "category": "",
+        "category_slug": "",
+        "advancing": "35,895",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314324,
+            "text": "Key & Peele",
+            "correct": false,
+            "count": "8,067",
+            "percent": "17.82%"
+          },
+          {
+            "id": 314325,
+            "text": "Saturday Night Live",
+            "correct": true,
+            "count": "33,310",
+            "percent": "73.57%"
+          },
+          {
+            "id": 314326,
+            "text": "Inside Amy Schumer",
+            "correct": false,
+            "count": "3,900",
+            "percent": "8.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-13/1/2",
+        "game_link": "/us/game/2019-12-13/1",
+        "correct_answers": 33310,
+        "incorrect_answers": 11967,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "ab0ab09a-e17d-485d-bb96-b2dfa94b83a6",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/ab0ab09a-e17d-485d-bb96-b2dfa94b83a6.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164653Z&X-Amz-SignedHeaders=host&X-Amz-Signature=d7f0e7c49619781cb78d02f675e30d21c732d7e47d50aaa7143b4dd3cbc677ed",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 159914,
+        "text": "Who featured on this song with Rih?",
+        "question_number": 3,
+        "eliminated": "4,774",
+        "category": "",
+        "category_slug": "",
+        "advancing": "32,717",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314327,
+            "text": "Kendrick Lamar",
+            "correct": false,
+            "count": "2,930",
+            "percent": "8.1%"
+          },
+          {
+            "id": 314328,
+            "text": "Kanye West",
+            "correct": false,
+            "count": "1,331",
+            "percent": "3.68%"
+          },
+          {
+            "id": 314329,
+            "text": "Drake",
+            "correct": true,
+            "count": "31,897",
+            "percent": "88.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-13/1/3",
+        "game_link": "/us/game/2019-12-13/1",
+        "correct_answers": 31897,
+        "incorrect_answers": 4261,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "47dddc99-0d09-4e0c-bf64-2df01ab0633d",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/47dddc99-0d09-4e0c-bf64-2df01ab0633d.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164653Z&X-Amz-SignedHeaders=host&X-Amz-Signature=6bf61ef123ea424f76f00b99d7f57f60774680fa966c184f43716c1f09789f2b",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 159916,
+        "text": "What drink do Rihanna and Drake spill in this vid?",
+        "question_number": 4,
+        "eliminated": "9,094",
+        "category": "",
+        "category_slug": "",
+        "advancing": "24,308",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314330,
+            "text": "Iced tea",
+            "correct": false,
+            "count": "3,367",
+            "percent": "10.45%"
+          },
+          {
+            "id": 314331,
+            "text": "Milk",
+            "correct": true,
+            "count": "23,755",
+            "percent": "73.75%"
+          },
+          {
+            "id": 314332,
+            "text": "White wine",
+            "correct": false,
+            "count": "5,089",
+            "percent": "15.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-13/1/4",
+        "game_link": "/us/game/2019-12-13/1",
+        "correct_answers": 23755,
+        "incorrect_answers": 8456,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "ae986333-077d-4da0-a055-2694267292bc",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/ae986333-077d-4da0-a055-2694267292bc.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164653Z&X-Amz-SignedHeaders=host&X-Amz-Signature=d0f3c4f2ab5c5299dfbbc14b7bd56fc906ca3b693a296cc99d2a8c6398ecd95a",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 159918,
+        "text": "What album did this song appear on?",
+        "question_number": 5,
+        "eliminated": "6,553",
+        "category": "",
+        "category_slug": "",
+        "advancing": "19,222",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314333,
+            "text": "Unapologetic",
+            "correct": false,
+            "count": "3,530",
+            "percent": "14.2%"
+          },
+          {
+            "id": 314334,
+            "text": "Loud",
+            "correct": false,
+            "count": "2,637",
+            "percent": "10.61%"
+          },
+          {
+            "id": 314335,
+            "text": "Anti",
+            "correct": true,
+            "count": "18,686",
+            "percent": "75.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-13/1/5",
+        "game_link": "/us/game/2019-12-13/1",
+        "correct_answers": 18686,
+        "incorrect_answers": 6167,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "7599a6a4-05be-40b6-8ac5-e5a9b95a0d24",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/7599a6a4-05be-40b6-8ac5-e5a9b95a0d24.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164653Z&X-Amz-SignedHeaders=host&X-Amz-Signature=1fb993fe5cb6508f0815d3432055b657270c57cb67df0ba499e8b1b836bb549d",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 159920,
+        "text": "What does the title of this song most closely mean in dancehall slang?",
+        "question_number": 6,
+        "eliminated": "10,255",
+        "category": "",
+        "category_slug": "",
+        "advancing": "10,131",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314336,
+            "text": "Ska fan",
+            "correct": true,
+            "count": "9,593",
+            "percent": "51.73%"
+          },
+          {
+            "id": 314337,
+            "text": "Criminal",
+            "correct": false,
+            "count": "1,888",
+            "percent": "10.18%"
+          },
+          {
+            "id": 314338,
+            "text": "Love interest",
+            "correct": false,
+            "count": "7,065",
+            "percent": "38.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-13/1/6",
+        "game_link": "/us/game/2019-12-13/1",
+        "correct_answers": 9593,
+        "incorrect_answers": 8953,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "d3d979f0-8815-4d27-a647-5b19ff8d1638",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/d3d979f0-8815-4d27-a647-5b19ff8d1638.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164653Z&X-Amz-SignedHeaders=host&X-Amz-Signature=2363738d8bd79252231aa35353fbc8ba2dffb4bd27dcf3a06629e77cb78f7dd9",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 159922,
+        "text": "What animal features in this video?",
+        "question_number": 7,
+        "eliminated": "3,644",
+        "category": "",
+        "category_slug": "",
+        "advancing": "8,655",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314339,
+            "text": "Horse",
+            "correct": true,
+            "count": "8,634",
+            "percent": "72.77%"
+          },
+          {
+            "id": 314340,
+            "text": "Lion",
+            "correct": false,
+            "count": "1,140",
+            "percent": "9.61%"
+          },
+          {
+            "id": 314341,
+            "text": "Whale",
+            "correct": false,
+            "count": "2,091",
+            "percent": "17.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-13/1/7",
+        "game_link": "/us/game/2019-12-13/1",
+        "correct_answers": 8634,
+        "incorrect_answers": 3231,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "5d569d07-35a0-4c82-96c2-588f5a6763cc",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/5d569d07-35a0-4c82-96c2-588f5a6763cc.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164653Z&X-Amz-SignedHeaders=host&X-Amz-Signature=6b55a13db9c5a09da4e5aa8f80e0b8745af132d0d4f7b787ef85752cdb8c4a9c",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 159924,
+        "text": "Who is sampled on this song?",
+        "question_number": 8,
+        "eliminated": "627",
+        "category": "",
+        "category_slug": "",
+        "advancing": "9,205",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314342,
+            "text": "Pete Rodriguez",
+            "correct": false,
+            "count": "98",
+            "percent": "1.0%"
+          },
+          {
+            "id": 314343,
+            "text": "Tito Puente",
+            "correct": false,
+            "count": "459",
+            "percent": "4.7%"
+          },
+          {
+            "id": 314344,
+            "text": "Carlos Santana",
+            "correct": true,
+            "count": "9,202",
+            "percent": "94.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-13/1/8",
+        "game_link": "/us/game/2019-12-13/1",
+        "correct_answers": 9202,
+        "incorrect_answers": 557,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "cdb67a29-5245-4b57-a810-bae03bc82dc2",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/cdb67a29-5245-4b57-a810-bae03bc82dc2.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164653Z&X-Amz-SignedHeaders=host&X-Amz-Signature=47d208b9563d820cf0ebf2ed8529af46886d3eb3561f6c53216ef758d2bd1228",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 159926,
+        "text": "Who famously co-wrote this song?",
+        "question_number": 9,
+        "eliminated": "903",
+        "category": "",
+        "category_slug": "",
+        "advancing": "8,593",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314345,
+            "text": "Taylor Swift",
+            "correct": true,
+            "count": "8,592",
+            "percent": "91.44%"
+          },
+          {
+            "id": 314346,
+            "text": "Kanye West",
+            "correct": false,
+            "count": "408",
+            "percent": "4.34%"
+          },
+          {
+            "id": 314347,
+            "text": "Jack Antonoff",
+            "correct": false,
+            "count": "396",
+            "percent": "4.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-13/1/9",
+        "game_link": "/us/game/2019-12-13/1",
+        "correct_answers": 8592,
+        "incorrect_answers": 804,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "48d865eb-e4bd-4c97-9d68-696374a3101e",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/48d865eb-e4bd-4c97-9d68-696374a3101e.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164653Z&X-Amz-SignedHeaders=host&X-Amz-Signature=e756952a5c30f125c3f2e5caf0e736ba8b46b332052ba76217986ef1dac68abb",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 159928,
+        "text": "On what day does this song likely take place?",
+        "question_number": 10,
+        "eliminated": "7,256",
+        "category": "",
+        "category_slug": "",
+        "advancing": "1,779",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314348,
+            "text": "Friday",
+            "correct": false,
+            "count": "4,358",
+            "percent": "54.85%"
+          },
+          {
+            "id": 314349,
+            "text": "Tuesday",
+            "correct": true,
+            "count": "1,778",
+            "percent": "22.38%"
+          },
+          {
+            "id": 314350,
+            "text": "Thursday",
+            "correct": false,
+            "count": "1,810",
+            "percent": "22.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-13/1/10",
+        "game_link": "/us/game/2019-12-13/1",
+        "correct_answers": 1778,
+        "incorrect_answers": 6168,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "d42aa57b-a47d-4735-a4d3-7f1c237e933d",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/d42aa57b-a47d-4735-a4d3-7f1c237e933d.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164653Z&X-Amz-SignedHeaders=host&X-Amz-Signature=6c72af0b99410dd79e79d36e9493db33da710e585289b514b1c4108ebc687be7",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 159930,
+        "text": "The actor who plays this vidâs titular villain is known for what other role?",
+        "question_number": 11,
+        "eliminated": "5,094",
+        "category": "",
+        "category_slug": "",
+        "advancing": "0",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314351,
+            "text": "The Joker",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 314352,
+            "text": "Hannibal Lecter",
+            "correct": true,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 314353,
+            "text": "Hans Landa",
+            "correct": false,
+            "count": "1",
+            "percent": "100.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-13/1/11",
+        "game_link": "/us/game/2019-12-13/1",
+        "correct_answers": 0,
+        "incorrect_answers": 1,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "92867787-0df3-424d-a659-f3c87f047e68",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/92867787-0df3-424d-a659-f3c87f047e68.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164654Z&X-Amz-SignedHeaders=host&X-Amz-Signature=5615faf047962934a34b67299589718a21229903fb3c871d7bde1e843df16d4f",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2434,
+        "game_id": 142140,
+        "question": " Which of these Rihanna songs is your favorite? ",
+        "results": [
+          {
+            "id": 14109,
+            "display_count": "21",
+            "vote_count": 6767,
+            "text": " Love on the Brain"
+          },
+          {
+            "id": 14108,
+            "display_count": "53",
+            "vote_count": 17163,
+            "text": "Umbrella"
+          },
+          {
+            "id": 14107,
+            "display_count": "26",
+            "vote_count": 8208,
+            "text": "We Found Love"
+          }
+        ],
+        "created_at": "2019-12-14T02:04:59Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-tunes"
+    }
+  },
+  {
+    "id": 142153,
+    "show_id": 13241,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "500",
+    "currency": "$",
+    "start_time": "2019-12-14T02:19:00Z",
+    "direct_link": "/us/game/2019-12-13/2",
+    "time": " 9:19 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "4,656",
+      "currency": "$",
+      "average_prize": "0.11"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Tunes",
+        "slug": "hq-tunes"
+      },
+      {
+        "name": "",
+        "slug": ""
+      }
+    ],
+    "questions": [
+      null,
+      {
+        "id": 159932,
+        "text": "What does the title of this song most closely mean in dancehall slang?",
+        "question_number": 2,
+        "eliminated": "7,044",
+        "category": "",
+        "category_slug": "",
+        "advancing": "26,427",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314354,
+            "text": "Ska fan",
+            "correct": true,
+            "count": "19,848",
+            "percent": "73.12%"
+          },
+          {
+            "id": 314355,
+            "text": "Criminal",
+            "correct": false,
+            "count": "2,557",
+            "percent": "9.42%"
+          },
+          {
+            "id": 314356,
+            "text": "Love interest",
+            "correct": false,
+            "count": "4,741",
+            "percent": "17.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-13/2/2",
+        "game_link": "/us/game/2019-12-13/2",
+        "correct_answers": 19848,
+        "incorrect_answers": 7298,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "d3d979f0-8815-4d27-a647-5b19ff8d1638",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/d3d979f0-8815-4d27-a647-5b19ff8d1638.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164654Z&X-Amz-SignedHeaders=host&X-Amz-Signature=ddf94f279f3b980028f6fe4ee919bfeb0edf378bb8da1a65cf45cbd1d7eab304",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 159934,
+        "text": "What animal features in this video?",
+        "question_number": 3,
+        "eliminated": "5,578",
+        "category": "",
+        "category_slug": "",
+        "advancing": "21,405",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314357,
+            "text": "Horse",
+            "correct": true,
+            "count": "20,085",
+            "percent": "85.41%"
+          },
+          {
+            "id": 314358,
+            "text": "Lion",
+            "correct": false,
+            "count": "2,575",
+            "percent": "10.95%"
+          },
+          {
+            "id": 314359,
+            "text": "Whale",
+            "correct": false,
+            "count": "855",
+            "percent": "3.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-13/2/3",
+        "game_link": "/us/game/2019-12-13/2",
+        "correct_answers": 20085,
+        "incorrect_answers": 3430,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "5d569d07-35a0-4c82-96c2-588f5a6763cc",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/5d569d07-35a0-4c82-96c2-588f5a6763cc.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164654Z&X-Amz-SignedHeaders=host&X-Amz-Signature=c7281bcd571db4f3b6c05122b32e0587c03b55ede87cce3b32ed84c74ccedebc",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 159936,
+        "text": "Who is sampled on this song?",
+        "question_number": 4,
+        "eliminated": "1,809",
+        "category": "",
+        "category_slug": "",
+        "advancing": "19,963",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314360,
+            "text": "Pete Rodriguez",
+            "correct": false,
+            "count": "348",
+            "percent": "1.65%"
+          },
+          {
+            "id": 314361,
+            "text": "Tito Puente",
+            "correct": false,
+            "count": "1,101",
+            "percent": "5.23%"
+          },
+          {
+            "id": 314362,
+            "text": "Carlos Santana",
+            "correct": true,
+            "count": "19,593",
+            "percent": "93.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-13/2/4",
+        "game_link": "/us/game/2019-12-13/2",
+        "correct_answers": 19593,
+        "incorrect_answers": 1449,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "cdb67a29-5245-4b57-a810-bae03bc82dc2",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/cdb67a29-5245-4b57-a810-bae03bc82dc2.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164654Z&X-Amz-SignedHeaders=host&X-Amz-Signature=a34235af5b5e5e121ac7f59a16f3329856a7bff5614b9a03805679f3b2b1203d",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 159938,
+        "text": "Who famously co-wrote this song?",
+        "question_number": 5,
+        "eliminated": "1,719",
+        "category": "",
+        "category_slug": "",
+        "advancing": "18,497",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314363,
+            "text": "Taylor Swift",
+            "correct": true,
+            "count": "18,251",
+            "percent": "92.08%"
+          },
+          {
+            "id": 314364,
+            "text": "Kanye West",
+            "correct": false,
+            "count": "953",
+            "percent": "4.81%"
+          },
+          {
+            "id": 314365,
+            "text": "Jack Antonoff",
+            "correct": false,
+            "count": "616",
+            "percent": "3.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-13/2/5",
+        "game_link": "/us/game/2019-12-13/2",
+        "correct_answers": 18251,
+        "incorrect_answers": 1569,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "48d865eb-e4bd-4c97-9d68-696374a3101e",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/48d865eb-e4bd-4c97-9d68-696374a3101e.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164654Z&X-Amz-SignedHeaders=host&X-Amz-Signature=9afc183db10f9fc4fd4bcbc1b7e32723e521c111332dd5a0a7e5bf940f35ff04",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 159940,
+        "text": "On what day does this song likely take place?",
+        "question_number": 6,
+        "eliminated": "1,943",
+        "category": "",
+        "category_slug": "",
+        "advancing": "16,837",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314366,
+            "text": "Friday",
+            "correct": false,
+            "count": "1,116",
+            "percent": "6.1%"
+          },
+          {
+            "id": 314367,
+            "text": "Tuesday",
+            "correct": true,
+            "count": "16,678",
+            "percent": "91.1%"
+          },
+          {
+            "id": 314368,
+            "text": "Thursday",
+            "correct": false,
+            "count": "514",
+            "percent": "2.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-13/2/6",
+        "game_link": "/us/game/2019-12-13/2",
+        "correct_answers": 16678,
+        "incorrect_answers": 1630,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "d42aa57b-a47d-4735-a4d3-7f1c237e933d",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/d42aa57b-a47d-4735-a4d3-7f1c237e933d.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164654Z&X-Amz-SignedHeaders=host&X-Amz-Signature=b569023c133e5ef43de572455c5613abb7d1007174dce303fab8bc6ce1e5f7fb",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 159942,
+        "text": "The actor who plays this vidâs titular villain is known for what other role?",
+        "question_number": 7,
+        "eliminated": "6,427",
+        "category": "",
+        "category_slug": "",
+        "advancing": "10,867",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314369,
+            "text": "The Joker",
+            "correct": false,
+            "count": "1,501",
+            "percent": "8.92%"
+          },
+          {
+            "id": 314370,
+            "text": "Hannibal Lecter",
+            "correct": true,
+            "count": "10,817",
+            "percent": "64.31%"
+          },
+          {
+            "id": 314371,
+            "text": "Hans Landa",
+            "correct": false,
+            "count": "4,501",
+            "percent": "26.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-13/2/7",
+        "game_link": "/us/game/2019-12-13/2",
+        "correct_answers": 10817,
+        "incorrect_answers": 6002,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "92867787-0df3-424d-a659-f3c87f047e68",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/92867787-0df3-424d-a659-f3c87f047e68.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164654Z&X-Amz-SignedHeaders=host&X-Amz-Signature=5615faf047962934a34b67299589718a21229903fb3c871d7bde1e843df16d4f",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 159944,
+        "text": "The director of this video also helmed what film?",
+        "question_number": 8,
+        "eliminated": "8,682",
+        "category": "",
+        "category_slug": "",
+        "advancing": "4,656",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314372,
+            "text": "Gone Girl",
+            "correct": false,
+            "count": "1,593",
+            "percent": "12.57%"
+          },
+          {
+            "id": 314373,
+            "text": "Spring Breakers",
+            "correct": true,
+            "count": "4,656",
+            "percent": "36.74%"
+          },
+          {
+            "id": 314374,
+            "text": "Her",
+            "correct": false,
+            "count": "6,425",
+            "percent": "50.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-13/2/8",
+        "game_link": "/us/game/2019-12-13/2",
+        "correct_answers": 4656,
+        "incorrect_answers": 8018,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "e79a30d0-5ecd-4d84-b793-e071c0526a9f",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/e79a30d0-5ecd-4d84-b793-e071c0526a9f.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164654Z&X-Amz-SignedHeaders=host&X-Amz-Signature=704f5cc390425c2950e1601b29091c9e0a7bfd0beb277319a304f92b9e62c312",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-tunes"
+    }
+  }
+]

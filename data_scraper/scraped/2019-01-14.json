@@ -1,0 +1,1328 @@
+[
+  {
+    "id": 43924,
+    "show_id": 9244,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-01-15T00:00:00Z",
+    "direct_link": "/us/game/2019-01-14/1",
+    "time": " 7:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "491",
+      "currency": "$",
+      "average_prize": "2.04"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 42121,
+        "text": "In which sport do players typically wear the most padding?",
+        "question_number": 1,
+        "eliminated": "1,354",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "88,122",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126258,
+            "text": "Bowling",
+            "correct": false,
+            "count": "602",
+            "percent": "0.67%"
+          },
+          {
+            "id": 126261,
+            "text": "Cane toad racing",
+            "correct": false,
+            "count": "752",
+            "percent": "0.84%"
+          },
+          {
+            "id": 126266,
+            "text": "Football",
+            "correct": true,
+            "count": "88,122",
+            "percent": "98.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/1/1",
+        "game_link": "/us/game/2019-01-14/1",
+        "correct_answers": 88122,
+        "incorrect_answers": 1354,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42129,
+        "text": "What team did Team USA defeat in the game nicknamed the âMiracle on Iceâ?",
+        "question_number": 2,
+        "eliminated": "21,988",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "66,854",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126282,
+            "text": "USSR",
+            "correct": true,
+            "count": "66,855",
+            "percent": "76.91%"
+          },
+          {
+            "id": 126286,
+            "text": "Finland",
+            "correct": false,
+            "count": "5,276",
+            "percent": "6.07%"
+          },
+          {
+            "id": 126291,
+            "text": "Canada",
+            "correct": false,
+            "count": "14,798",
+            "percent": "17.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/1/2",
+        "game_link": "/us/game/2019-01-14/1",
+        "correct_answers": 66855,
+        "incorrect_answers": 20074,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42138,
+        "text": "In basketball, which foul awards a team both a free throw and possession immediately after?",
+        "question_number": 3,
+        "eliminated": "17,935",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "50,485",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126307,
+            "text": "Offensive",
+            "correct": false,
+            "count": "3,510",
+            "percent": "5.32%"
+          },
+          {
+            "id": 126314,
+            "text": "Personal",
+            "correct": false,
+            "count": "12,013",
+            "percent": "18.2%"
+          },
+          {
+            "id": 126319,
+            "text": "Flagrant",
+            "correct": true,
+            "count": "50,485",
+            "percent": "76.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/1/3",
+        "game_link": "/us/game/2019-01-14/1",
+        "correct_answers": 50485,
+        "incorrect_answers": 15523,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42147,
+        "text": "What was the last college football team to win the National Championship besides âBama and Clemson?",
+        "question_number": 4,
+        "eliminated": "19,127",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "32,887",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126331,
+            "text": "Ohio State",
+            "correct": true,
+            "count": "32,887",
+            "percent": "64.75%"
+          },
+          {
+            "id": 126333,
+            "text": "Florida State",
+            "correct": false,
+            "count": "7,365",
+            "percent": "14.5%"
+          },
+          {
+            "id": 126335,
+            "text": "Auburn",
+            "correct": false,
+            "count": "10,542",
+            "percent": "20.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/1/4",
+        "game_link": "/us/game/2019-01-14/1",
+        "correct_answers": 32887,
+        "incorrect_answers": 17907,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42157,
+        "text": "What NBA team is currently coached by a one-time NCAA record holder for single-season 3-point percentage?",
+        "question_number": 5,
+        "eliminated": "13,201",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "21,668",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126366,
+            "text": "Warriors",
+            "correct": true,
+            "count": "21,668",
+            "percent": "68.46%"
+          },
+          {
+            "id": 126367,
+            "text": "Cavaliers",
+            "correct": false,
+            "count": "3,611",
+            "percent": "11.41%"
+          },
+          {
+            "id": 126370,
+            "text": "Thunder",
+            "correct": false,
+            "count": "6,370",
+            "percent": "20.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/1/5",
+        "game_link": "/us/game/2019-01-14/1",
+        "correct_answers": 21668,
+        "incorrect_answers": 9981,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42163,
+        "text": "What league has its biggest event as its first official competition of the year?",
+        "question_number": 6,
+        "eliminated": "5,188",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "17,976",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126379,
+            "text": "Premier League",
+            "correct": false,
+            "count": "1,647",
+            "percent": "7.2%"
+          },
+          {
+            "id": 126382,
+            "text": "NASCAR",
+            "correct": true,
+            "count": "17,976",
+            "percent": "78.62%"
+          },
+          {
+            "id": 126387,
+            "text": "PGA",
+            "correct": false,
+            "count": "3,240",
+            "percent": "14.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/1/6",
+        "game_link": "/us/game/2019-01-14/1",
+        "correct_answers": 17976,
+        "incorrect_answers": 4887,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42170,
+        "text": "Who is the active NFL leader in career quarterback rating?",
+        "question_number": 7,
+        "eliminated": "10,413",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "8,226",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126405,
+            "text": "Russell Wilson",
+            "correct": false,
+            "count": "2,268",
+            "percent": "12.23%"
+          },
+          {
+            "id": 126414,
+            "text": "Aaron Rodgers",
+            "correct": true,
+            "count": "8,226",
+            "percent": "44.38%"
+          },
+          {
+            "id": 126420,
+            "text": "Drew Brees",
+            "correct": false,
+            "count": "8,043",
+            "percent": "43.39%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/1/7",
+        "game_link": "/us/game/2019-01-14/1",
+        "correct_answers": 8226,
+        "incorrect_answers": 10311,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42177,
+        "text": "In addition to the host nationâs language, the âofficial languagesâ of the Olympics are always what?",
+        "question_number": 8,
+        "eliminated": "2,971",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "7,181",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126426,
+            "text": "English / French",
+            "correct": true,
+            "count": "7,181",
+            "percent": "73.4%"
+          },
+          {
+            "id": 126428,
+            "text": "English / Spanish",
+            "correct": false,
+            "count": "2,327",
+            "percent": "23.79%"
+          },
+          {
+            "id": 126429,
+            "text": "French / Spanish",
+            "correct": false,
+            "count": "275",
+            "percent": "2.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/1/8",
+        "game_link": "/us/game/2019-01-14/1",
+        "correct_answers": 7181,
+        "incorrect_answers": 2602,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42185,
+        "text": "What is the only team to pick Heisman winners back-to-back at No. 1 overall in the draft?",
+        "question_number": 9,
+        "eliminated": "5,841",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,829",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126450,
+            "text": "Lions",
+            "correct": false,
+            "count": "1,677",
+            "percent": "22.19%"
+          },
+          {
+            "id": 126455,
+            "text": "Buccaneers",
+            "correct": true,
+            "count": "1,829",
+            "percent": "24.2%"
+          },
+          {
+            "id": 126460,
+            "text": "Raiders",
+            "correct": false,
+            "count": "4,053",
+            "percent": "53.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/1/9",
+        "game_link": "/us/game/2019-01-14/1",
+        "correct_answers": 1829,
+        "incorrect_answers": 5730,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42194,
+        "text": "What English city is NOT found in any current Premier League official team name?",
+        "question_number": 10,
+        "eliminated": "456",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,546",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126475,
+            "text": "London",
+            "correct": true,
+            "count": "2,546",
+            "percent": "85.21%"
+          },
+          {
+            "id": 126479,
+            "text": "Manchester",
+            "correct": false,
+            "count": "34",
+            "percent": "1.14%"
+          },
+          {
+            "id": 126484,
+            "text": "Newcastle",
+            "correct": false,
+            "count": "408",
+            "percent": "13.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/1/10",
+        "game_link": "/us/game/2019-01-14/1",
+        "correct_answers": 2546,
+        "incorrect_answers": 442,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42201,
+        "text": "What state has hosted the greatest number of golf US Opens?",
+        "question_number": 11,
+        "eliminated": "1,369",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,223",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126498,
+            "text": "New York",
+            "correct": true,
+            "count": "1,223",
+            "percent": "47.83%"
+          },
+          {
+            "id": 126499,
+            "text": "Georgia",
+            "correct": false,
+            "count": "639",
+            "percent": "24.99%"
+          },
+          {
+            "id": 126501,
+            "text": "California",
+            "correct": false,
+            "count": "695",
+            "percent": "27.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/1/11",
+        "game_link": "/us/game/2019-01-14/1",
+        "correct_answers": 1223,
+        "incorrect_answers": 1334,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42210,
+        "text": "What team did NOT tie for the most 1st team All-Pro players in the 2018-19 NFL season?",
+        "question_number": 12,
+        "eliminated": "1,003",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "491",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126523,
+            "text": "Bears",
+            "correct": false,
+            "count": "559",
+            "percent": "38.29%"
+          },
+          {
+            "id": 126528,
+            "text": "Chiefs",
+            "correct": false,
+            "count": "410",
+            "percent": "28.08%"
+          },
+          {
+            "id": 126536,
+            "text": "Rams",
+            "correct": true,
+            "count": "491",
+            "percent": "33.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/1/12",
+        "game_link": "/us/game/2019-01-14/1",
+        "correct_answers": 491,
+        "incorrect_answers": 969,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 44044,
+    "show_id": 9283,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-01-15T02:00:00Z",
+    "direct_link": "/us/game/2019-01-14/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "4,261",
+      "currency": "$",
+      "average_prize": "1.17"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "questions": [
+      {
+        "id": 42217,
+        "text": "Who directed âThe Bling Ringâ?",
+        "question_number": 1,
+        "eliminated": "99,294",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "287,862",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126546,
+            "text": "Sofia Coppola",
+            "correct": true,
+            "count": "287,862",
+            "percent": "75.46%"
+          },
+          {
+            "id": 126547,
+            "text": "Apollo Creed",
+            "correct": false,
+            "count": "37,188",
+            "percent": "9.75%"
+          },
+          {
+            "id": 126548,
+            "text": "Tony Montana",
+            "correct": false,
+            "count": "56,434",
+            "percent": "14.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/2/1",
+        "game_link": "/us/game/2019-01-14/2",
+        "correct_answers": 287862,
+        "incorrect_answers": 93622,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42225,
+        "text": "âRoads? Where weâre going, we donât need roads!â is the last line in what film?",
+        "question_number": 2,
+        "eliminated": "21,650",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "277,240",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126570,
+            "text": "Citizen Kane",
+            "correct": false,
+            "count": "10,437",
+            "percent": "3.56%"
+          },
+          {
+            "id": 126572,
+            "text": "Back to the Future",
+            "correct": true,
+            "count": "277,240",
+            "percent": "94.65%"
+          },
+          {
+            "id": 126574,
+            "text": "Xanadu",
+            "correct": false,
+            "count": "5,236",
+            "percent": "1.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/2/2",
+        "game_link": "/us/game/2019-01-14/2",
+        "correct_answers": 277240,
+        "incorrect_answers": 15673,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42234,
+        "text": "Which of these songs is performed in the film âBohemian Rhapsodyâ?",
+        "question_number": 3,
+        "eliminated": "21,723",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "257,405",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126605,
+            "text": "Come Sail Away",
+            "correct": false,
+            "count": "9,012",
+            "percent": "3.27%"
+          },
+          {
+            "id": 126607,
+            "text": "We Are the Champions",
+            "correct": true,
+            "count": "257,405",
+            "percent": "93.37%"
+          },
+          {
+            "id": 126608,
+            "text": "Stairway to Heaven",
+            "correct": false,
+            "count": "9,268",
+            "percent": "3.36%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/2/3",
+        "game_link": "/us/game/2019-01-14/2",
+        "correct_answers": 257405,
+        "incorrect_answers": 18280,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42244,
+        "text": "In which of these horror movies are blindfolds extremely important?",
+        "question_number": 4,
+        "eliminated": "11,836",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "247,882",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126618,
+            "text": "Don't Breathe",
+            "correct": false,
+            "count": "3,793",
+            "percent": "1.47%"
+          },
+          {
+            "id": 126619,
+            "text": "A Quiet Place",
+            "correct": false,
+            "count": "6,222",
+            "percent": "2.41%"
+          },
+          {
+            "id": 126621,
+            "text": "Bird Box",
+            "correct": true,
+            "count": "247,882",
+            "percent": "96.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/2/4",
+        "game_link": "/us/game/2019-01-14/2",
+        "correct_answers": 247882,
+        "incorrect_answers": 10015,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42249,
+        "text": "Which of these Hitchcock films starred the future princess of Monaco?",
+        "question_number": 5,
+        "eliminated": "157,212",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "92,023",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126642,
+            "text": "Marnie",
+            "correct": false,
+            "count": "41,472",
+            "percent": "16.89%"
+          },
+          {
+            "id": 126643,
+            "text": "The Birds",
+            "correct": false,
+            "count": "112,114",
+            "percent": "45.65%"
+          },
+          {
+            "id": 126644,
+            "text": "Dial M for Murder",
+            "correct": true,
+            "count": "92,023",
+            "percent": "37.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/2/5",
+        "game_link": "/us/game/2019-01-14/2",
+        "correct_answers": 92023,
+        "incorrect_answers": 153586,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42257,
+        "text": "Which of these is one of the a capella groups in âPitch Perfectâ?",
+        "question_number": 6,
+        "eliminated": "19,296",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "101,413",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126667,
+            "text": "The Treblemakers",
+            "correct": true,
+            "count": "101,413",
+            "percent": "85.02%"
+          },
+          {
+            "id": 126672,
+            "text": "Chorussaurus Rex",
+            "correct": false,
+            "count": "3,196",
+            "percent": "2.68%"
+          },
+          {
+            "id": 126682,
+            "text": "The Bass Lines",
+            "correct": false,
+            "count": "14,672",
+            "percent": "12.3%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/2/6",
+        "game_link": "/us/game/2019-01-14/2",
+        "correct_answers": 101413,
+        "incorrect_answers": 17868,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42265,
+        "text": "For which of these films was Meryl Streep NOT nominated for an Oscar?",
+        "question_number": 7,
+        "eliminated": "42,444",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "61,923",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126690,
+            "text": "The Devil Wears Prada",
+            "correct": false,
+            "count": "21,590",
+            "percent": "20.91%"
+          },
+          {
+            "id": 126691,
+            "text": "Itâs Complicated",
+            "correct": true,
+            "count": "61,923",
+            "percent": "59.98%"
+          },
+          {
+            "id": 126692,
+            "text": "Julie and Julia",
+            "correct": false,
+            "count": "19,727",
+            "percent": "19.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/2/7",
+        "game_link": "/us/game/2019-01-14/2",
+        "correct_answers": 61923,
+        "incorrect_answers": 41317,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42273,
+        "text": "The singer of which â90s song once portrayed God in a Kevin Smith movie?",
+        "question_number": 8,
+        "eliminated": "30,130",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "38,615",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126714,
+            "text": "Angel",
+            "correct": false,
+            "count": "16,417",
+            "percent": "24.29%"
+          },
+          {
+            "id": 126715,
+            "text": "Torn",
+            "correct": false,
+            "count": "12,543",
+            "percent": "18.56%"
+          },
+          {
+            "id": 126716,
+            "text": "Ironic",
+            "correct": true,
+            "count": "38,615",
+            "percent": "57.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/2/8",
+        "game_link": "/us/game/2019-01-14/2",
+        "correct_answers": 38615,
+        "incorrect_answers": 28960,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42281,
+        "text": "Which of the actresses from âThe First Wives Clubâ did NOT co-star in another film with Sarah Jessica Parker?",
+        "question_number": 9,
+        "eliminated": "22,886",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "21,144",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126738,
+            "text": "Goldie Hawn",
+            "correct": true,
+            "count": "21,144",
+            "percent": "49.42%"
+          },
+          {
+            "id": 126739,
+            "text": "Diane Keaton",
+            "correct": false,
+            "count": "8,824",
+            "percent": "20.63%"
+          },
+          {
+            "id": 126740,
+            "text": "Bette Midler",
+            "correct": false,
+            "count": "12,815",
+            "percent": "29.95%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/2/9",
+        "game_link": "/us/game/2019-01-14/2",
+        "correct_answers": 21144,
+        "incorrect_answers": 21639,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42289,
+        "text": "In which of these kidsâ films is there a villain named Juice?",
+        "question_number": 10,
+        "eliminated": "15,863",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "10,233",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126762,
+            "text": "Blank Check",
+            "correct": true,
+            "count": "10,233",
+            "percent": "39.44%"
+          },
+          {
+            "id": 126763,
+            "text": "Big Fat Liar",
+            "correct": false,
+            "count": "6,427",
+            "percent": "24.77%"
+          },
+          {
+            "id": 126766,
+            "text": "Heavy Weights",
+            "correct": false,
+            "count": "9,284",
+            "percent": "35.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/2/10",
+        "game_link": "/us/game/2019-01-14/2",
+        "correct_answers": 10233,
+        "incorrect_answers": 15711,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42297,
+        "text": "Steven Soderberghâs âContagionâ reunited much of the cast from what film?",
+        "question_number": 11,
+        "eliminated": "5,046",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "8,679",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126786,
+            "text": "Shakespeare in Love",
+            "correct": false,
+            "count": "1,884",
+            "percent": "13.81%"
+          },
+          {
+            "id": 126788,
+            "text": "The Talented Mr. Ripley",
+            "correct": true,
+            "count": "8,679",
+            "percent": "63.63%"
+          },
+          {
+            "id": 126792,
+            "text": "The Royal Tenenbaums",
+            "correct": false,
+            "count": "3,077",
+            "percent": "22.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/2/11",
+        "game_link": "/us/game/2019-01-14/2",
+        "correct_answers": 8679,
+        "incorrect_answers": 4961,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42305,
+        "text": "What is said right after E.T. helps Elliott and his friends take flight on their bikes?",
+        "question_number": 12,
+        "eliminated": "5,369",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "4,261",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 126810,
+            "text": "Hang on!",
+            "correct": false,
+            "count": "2,262",
+            "percent": "23.81%"
+          },
+          {
+            "id": 126811,
+            "text": "How are you doing this?",
+            "correct": false,
+            "count": "2,979",
+            "percent": "31.35%"
+          },
+          {
+            "id": 126812,
+            "text": "Tell me when itâs over!",
+            "correct": true,
+            "count": "4,261",
+            "percent": "44.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-14/2/12",
+        "game_link": "/us/game/2019-01-14/2",
+        "correct_answers": 4261,
+        "incorrect_answers": 5241,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 44164,
+    "show_id": 9314,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-01-15T02:30:00Z",
+    "direct_link": "/us/game/2019-01-14/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "300.05",
+          "time": "58.17"
+        },
+        {
+          "number": "2",
+          "amount": "150.05",
+          "time": "59.52"
+        },
+        {
+          "number": "3",
+          "amount": "50.05",
+          "time": "60.61"
+        },
+        {
+          "number": "9,299",
+          "amount": "0.05",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.05375188131584605,
+      "top_players_prize": 500.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-01-14/3/1",
+        "question_number": 1,
+        "text": "National Bird",
+        "answer": [
+          "EAGLE"
+        ],
+        "initial_letters": [
+          "E"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "L"
+        ],
+        "game_link": "/us/game/2019-01-14/3",
+        "eliminated": 5651,
+        "advancing": 206304,
+        "correct_answers": 206304,
+        "incorrect_answers": 5651
+      },
+      {
+        "direct_link": "/us/game/2019-01-14/3/2",
+        "question_number": 2,
+        "text": "Clothing",
+        "answer": [
+          "SWEATER"
+        ],
+        "initial_letters": [
+          "S"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "E"
+        ],
+        "game_link": "/us/game/2019-01-14/3",
+        "eliminated": 37744,
+        "advancing": 168918,
+        "correct_answers": 168918,
+        "incorrect_answers": 37744
+      },
+      {
+        "direct_link": "/us/game/2019-01-14/3/3",
+        "question_number": 3,
+        "text": "Cartoon Cat",
+        "answer": [
+          "GARFIELD"
+        ],
+        "initial_letters": [
+          "G"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "I"
+        ],
+        "game_link": "/us/game/2019-01-14/3",
+        "eliminated": 3409,
+        "advancing": 167926,
+        "correct_answers": 167926,
+        "incorrect_answers": 3409
+      },
+      {
+        "direct_link": "/us/game/2019-01-14/3/4",
+        "question_number": 4,
+        "text": "Loose Change",
+        "answer": [
+          "QUARTERS"
+        ],
+        "initial_letters": [
+          "Q"
+        ],
+        "to_reveal_letters": [
+          "R",
+          "S"
+        ],
+        "game_link": "/us/game/2019-01-14/3",
+        "eliminated": 964,
+        "advancing": 167095,
+        "correct_answers": 167095,
+        "incorrect_answers": 964
+      },
+      {
+        "direct_link": "/us/game/2019-01-14/3/5",
+        "question_number": 5,
+        "text": "Nice Office Perk",
+        "answer": [
+          "CATERED",
+          "LUNCH"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "R"
+        ],
+        "game_link": "/us/game/2019-01-14/3",
+        "eliminated": 111209,
+        "advancing": 55872,
+        "correct_answers": 55872,
+        "incorrect_answers": 111209
+      },
+      {
+        "direct_link": "/us/game/2019-01-14/3/6",
+        "question_number": 6,
+        "text": "Winter Worry",
+        "answer": [
+          "SLIPPING",
+          "ON",
+          "BLACK",
+          "ICE"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "S"
+        ],
+        "game_link": "/us/game/2019-01-14/3",
+        "eliminated": 28353,
+        "advancing": 37583,
+        "correct_answers": 37583,
+        "incorrect_answers": 28353
+      },
+      {
+        "direct_link": "/us/game/2019-01-14/3/7",
+        "question_number": 7,
+        "text": "Music Announcement",
+        "answer": [
+          "FESTIVAL",
+          "LINEUP"
+        ],
+        "initial_letters": [
+          " ",
+          "V"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "N"
+        ],
+        "game_link": "/us/game/2019-01-14/3",
+        "eliminated": 18168,
+        "advancing": 22809,
+        "correct_answers": 22809,
+        "incorrect_answers": 18168
+      },
+      {
+        "direct_link": "/us/game/2019-01-14/3/8",
+        "question_number": 8,
+        "text": "Group Activity",
+        "answer": [
+          "MATCHING",
+          "HALLOWEEN",
+          "COSTUMES"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "T"
+        ],
+        "game_link": "/us/game/2019-01-14/3",
+        "eliminated": 14318,
+        "advancing": 11034,
+        "correct_answers": 11034,
+        "incorrect_answers": 14318
+      },
+      {
+        "direct_link": "/us/game/2019-01-14/3/9",
+        "question_number": 9,
+        "text": "Cultural Era",
+        "answer": [
+          "SWINGING",
+          "SIXTIES"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "X"
+        ],
+        "game_link": "/us/game/2019-01-14/3",
+        "eliminated": 3153,
+        "advancing": 10560,
+        "correct_answers": 10560,
+        "incorrect_answers": 3153
+      },
+      {
+        "direct_link": "/us/game/2019-01-14/3/10",
+        "question_number": 10,
+        "text": "Teacher's Guide",
+        "answer": [
+          "PUBLIC",
+          "SCHOOL",
+          "CURRICULUM"
+        ],
+        "initial_letters": [
+          " ",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "L"
+        ],
+        "game_link": "/us/game/2019-01-14/3",
+        "eliminated": 1877,
+        "advancing": 9302,
+        "correct_answers": 9302,
+        "incorrect_answers": 1877
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

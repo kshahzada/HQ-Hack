@@ -1,0 +1,1483 @@
+[
+  {
+    "id": 142845,
+    "show_id": 13269,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "250",
+    "currency": "$",
+    "start_time": "2020-01-04T05:30:00Z",
+    "direct_link": "/us/game/2020-01-04/1",
+    "time": "12:30 am",
+    "country": "us",
+    "summary": {
+      "winner_count": "4,302",
+      "currency": "$",
+      "average_prize": "0.06"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      null,
+      {
+        "id": 160950,
+        "text": "By definition, an apiarist cares for what kind of animal?",
+        "question_number": 2,
+        "eliminated": "9,474",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "31,326",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315881,
+            "text": "Apes",
+            "correct": false,
+            "count": "7,463",
+            "percent": "20.54%"
+          },
+          {
+            "id": 315882,
+            "text": "Canaries",
+            "correct": false,
+            "count": "8,736",
+            "percent": "24.04%"
+          },
+          {
+            "id": 315883,
+            "text": "Bees",
+            "correct": true,
+            "count": "20,137",
+            "percent": "55.42%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/1/2",
+        "game_link": "/us/game/2020-01-04/1",
+        "correct_answers": 20137,
+        "incorrect_answers": 16199,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160952,
+        "text": "What character is this?",
+        "question_number": 3,
+        "eliminated": "2,414",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "30,274",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315884,
+            "text": "Ali G",
+            "correct": false,
+            "count": "656",
+            "percent": "2.25%"
+          },
+          {
+            "id": 315885,
+            "text": "Borat",
+            "correct": true,
+            "count": "26,893",
+            "percent": "92.08%"
+          },
+          {
+            "id": 315886,
+            "text": "BrÃ¼no",
+            "correct": false,
+            "count": "1,658",
+            "percent": "5.68%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/1/3",
+        "game_link": "/us/game/2020-01-04/1",
+        "correct_answers": 26893,
+        "incorrect_answers": 2314,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160954,
+        "text": "Sharon Stone recently revealed that she was kicked off what dating platform?",
+        "question_number": 4,
+        "eliminated": "6,540",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "24,058",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315887,
+            "text": "Christian Mingle",
+            "correct": false,
+            "count": "3,544",
+            "percent": "12.83%"
+          },
+          {
+            "id": 315888,
+            "text": "Farmers Only",
+            "correct": false,
+            "count": "1,220",
+            "percent": "4.42%"
+          },
+          {
+            "id": 315889,
+            "text": "Bumble",
+            "correct": true,
+            "count": "22,862",
+            "percent": "82.76%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/1/4",
+        "game_link": "/us/game/2020-01-04/1",
+        "correct_answers": 22862,
+        "incorrect_answers": 4764,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160956,
+        "text": "Which dance move is also the name of a fish?",
+        "question_number": 5,
+        "eliminated": "14,681",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "10,138",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315890,
+            "text": "Dougie",
+            "correct": false,
+            "count": "8,847",
+            "percent": "39.4%"
+          },
+          {
+            "id": 315891,
+            "text": "Dab",
+            "correct": true,
+            "count": "6,421",
+            "percent": "28.6%"
+          },
+          {
+            "id": 315892,
+            "text": "Macarena",
+            "correct": false,
+            "count": "7,184",
+            "percent": "32.0%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/1/5",
+        "game_link": "/us/game/2020-01-04/1",
+        "correct_answers": 6421,
+        "incorrect_answers": 16031,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160958,
+        "text": "Which Disney princess had two living parents?",
+        "question_number": 6,
+        "eliminated": "1,666",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "11,433",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315893,
+            "text": "Cinderella",
+            "correct": false,
+            "count": "756",
+            "percent": "6.06%"
+          },
+          {
+            "id": 315894,
+            "text": "Sleeping Beauty",
+            "correct": true,
+            "count": "10,659",
+            "percent": "85.47%"
+          },
+          {
+            "id": 315895,
+            "text": "Snow White",
+            "correct": false,
+            "count": "1,056",
+            "percent": "8.47%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/1/6",
+        "game_link": "/us/game/2020-01-04/1",
+        "correct_answers": 10659,
+        "incorrect_answers": 1812,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160960,
+        "text": "Who was the longest-running host of the show that included the games Plinko and Punch-A-Bunch?",
+        "question_number": 7,
+        "eliminated": "1,759",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "10,196",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315896,
+            "text": "Drew Carey",
+            "correct": false,
+            "count": "735",
+            "percent": "6.6%"
+          },
+          {
+            "id": 315897,
+            "text": "Regis Philbin",
+            "correct": false,
+            "count": "930",
+            "percent": "8.35%"
+          },
+          {
+            "id": 315898,
+            "text": "Bob Barker",
+            "correct": true,
+            "count": "9,475",
+            "percent": "85.05%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/1/7",
+        "game_link": "/us/game/2020-01-04/1",
+        "correct_answers": 9475,
+        "incorrect_answers": 1665,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160962,
+        "text": "By definition, someone who is callipygian has a notably well-shaped what?",
+        "question_number": 8,
+        "eliminated": "4,879",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "5,989",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315899,
+            "text": "Nose",
+            "correct": false,
+            "count": "4,184",
+            "percent": "42.89%"
+          },
+          {
+            "id": 315900,
+            "text": "Butt",
+            "correct": true,
+            "count": "4,626",
+            "percent": "47.42%"
+          },
+          {
+            "id": 315901,
+            "text": "Personality",
+            "correct": false,
+            "count": "946",
+            "percent": "9.7%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/1/8",
+        "game_link": "/us/game/2020-01-04/1",
+        "correct_answers": 4626,
+        "incorrect_answers": 5130,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160964,
+        "text": "Which of these is an old-fashioned English word for an inept politician?",
+        "question_number": 9,
+        "eliminated": "2,964",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "4,797",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315902,
+            "text": "Throttlebottom",
+            "correct": true,
+            "count": "3,656",
+            "percent": "51.37%"
+          },
+          {
+            "id": 315903,
+            "text": "Wayzgoose",
+            "correct": false,
+            "count": "2,430",
+            "percent": "34.14%"
+          },
+          {
+            "id": 315904,
+            "text": "Rawgabbit",
+            "correct": false,
+            "count": "1,031",
+            "percent": "14.49%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/1/9",
+        "game_link": "/us/game/2020-01-04/1",
+        "correct_answers": 3656,
+        "incorrect_answers": 3461,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160966,
+        "text": "Which Ashley are the Olsen twins wishing a happy birthday in this video?",
+        "question_number": 10,
+        "eliminated": "2,225",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "4,045",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315905,
+            "text": "Ashley Tisdale",
+            "correct": false,
+            "count": "1,335",
+            "percent": "21.95%"
+          },
+          {
+            "id": 315906,
+            "text": "Ashley Olsen",
+            "correct": false,
+            "count": "1,001",
+            "percent": "16.46%"
+          },
+          {
+            "id": 315907,
+            "text": "Ashley Benson",
+            "correct": true,
+            "count": "3,747",
+            "percent": "61.6%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/1/10",
+        "game_link": "/us/game/2020-01-04/1",
+        "correct_answers": 3747,
+        "incorrect_answers": 2336,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160968,
+        "text": "This picture depicts what mythical figure?",
+        "question_number": 11,
+        "eliminated": "992",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "4,302",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315908,
+            "text": "Jupiter",
+            "correct": false,
+            "count": "702",
+            "percent": "13.5%"
+          },
+          {
+            "id": 315909,
+            "text": "Hercules",
+            "correct": false,
+            "count": "197",
+            "percent": "3.79%"
+          },
+          {
+            "id": 315910,
+            "text": "Saturn",
+            "correct": true,
+            "count": "4,302",
+            "percent": "82.71%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/1/11",
+        "game_link": "/us/game/2020-01-04/1",
+        "correct_answers": 4302,
+        "incorrect_answers": 899,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2467,
+        "game_id": 142845,
+        "question": "Choose Anna's Jellicle Cat Name:",
+        "results": [
+          {
+            "id": 14307,
+            "display_count": "23",
+            "vote_count": 7156,
+            "text": "Bella Bebe"
+          },
+          {
+            "id": 14306,
+            "display_count": "54",
+            "vote_count": 16728,
+            "text": "Ginger Toes"
+          },
+          {
+            "id": 14305,
+            "display_count": "22",
+            "vote_count": 6825,
+            "text": "Miss Smokey"
+          }
+        ],
+        "created_at": "2020-01-04T05:38:15Z"
+      },
+      {
+        "id": 2466,
+        "game_id": 142845,
+        "question": "Choose Matt's Jellicle Cat Name:",
+        "results": [
+          {
+            "id": 14299,
+            "display_count": "33",
+            "vote_count": 9070,
+            "text": "Jaspurr"
+          },
+          {
+            "id": 14301,
+            "display_count": "40",
+            "vote_count": 10995,
+            "text": "Whiskadoo"
+          },
+          {
+            "id": 14300,
+            "display_count": "27",
+            "vote_count": 7542,
+            "text": "Ziggytig"
+          }
+        ],
+        "created_at": "2020-01-04T05:37:46Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 142859,
+    "show_id": 12788,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2020-01-05T02:00:00Z",
+    "direct_link": "/us/game/2020-01-04/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "124",
+      "currency": "$",
+      "average_prize": "8.06"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 160970,
+        "text": "Who typically directs an orchestra by waving a baton?",
+        "question_number": 1,
+        "eliminated": "-3,080",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "79,206",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315911,
+            "text": "Conductor",
+            "correct": true,
+            "count": "72,414",
+            "percent": "98.71%"
+          },
+          {
+            "id": 315912,
+            "text": "Confounder",
+            "correct": false,
+            "count": "368",
+            "percent": "0.5%"
+          },
+          {
+            "id": 315913,
+            "text": "Constrictor",
+            "correct": false,
+            "count": "579",
+            "percent": "0.79%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/1",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 72414,
+        "incorrect_answers": 947,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160972,
+        "text": "What are cookies called in the United Kingdom?",
+        "question_number": 2,
+        "eliminated": "3,016",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "76,605",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315914,
+            "text": "Biscuits",
+            "correct": true,
+            "count": "70,520",
+            "percent": "95.78%"
+          },
+          {
+            "id": 315915,
+            "text": "Crackers",
+            "correct": false,
+            "count": "2,529",
+            "percent": "3.43%"
+          },
+          {
+            "id": 315916,
+            "text": "Bumbles",
+            "correct": false,
+            "count": "577",
+            "percent": "0.78%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/2",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 70520,
+        "incorrect_answers": 3106,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160974,
+        "text": "What game show regularly urges contestants to âcome on downâ?",
+        "question_number": 3,
+        "eliminated": "2,543",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "74,447",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315917,
+            "text": "The Price is Right",
+            "correct": true,
+            "count": "71,256",
+            "percent": "98.53%"
+          },
+          {
+            "id": 315918,
+            "text": "HQ Trivia",
+            "correct": false,
+            "count": "384",
+            "percent": "0.53%"
+          },
+          {
+            "id": 315919,
+            "text": "Jeopardy!",
+            "correct": false,
+            "count": "681",
+            "percent": "0.94%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/3",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 71256,
+        "incorrect_answers": 1065,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160976,
+        "text": "Which of these is considered a two-dimensional form?",
+        "question_number": 4,
+        "eliminated": "25,818",
+        "category": "Math",
+        "category_slug": "math",
+        "advancing": "48,887",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315920,
+            "text": "Square",
+            "correct": true,
+            "count": "42,495",
+            "percent": "59.79%"
+          },
+          {
+            "id": 315921,
+            "text": "Line",
+            "correct": false,
+            "count": "12,922",
+            "percent": "18.18%"
+          },
+          {
+            "id": 315922,
+            "text": "Cube",
+            "correct": false,
+            "count": "15,655",
+            "percent": "22.03%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/4",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 42495,
+        "incorrect_answers": 28577,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160978,
+        "text": "What American feminist authored 1963âs âThe Feminine Mystiqueâ?",
+        "question_number": 5,
+        "eliminated": "21,316",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "32,847",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315923,
+            "text": "Gloria Steinem",
+            "correct": false,
+            "count": "20,033",
+            "percent": "37.97%"
+          },
+          {
+            "id": 315924,
+            "text": "Betty Friedan",
+            "correct": true,
+            "count": "28,634",
+            "percent": "54.28%"
+          },
+          {
+            "id": 315925,
+            "text": "Shirley Chisholm",
+            "correct": false,
+            "count": "4,090",
+            "percent": "7.75%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/5",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 28634,
+        "incorrect_answers": 24123,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160980,
+        "text": "What construction toyâs name is derived from the Danish for âplay wellâ?",
+        "question_number": 6,
+        "eliminated": "7,492",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "29,242",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315926,
+            "text": "Tinkertoy",
+            "correct": false,
+            "count": "3,112",
+            "percent": "8.79%"
+          },
+          {
+            "id": 315927,
+            "text": "Duplo",
+            "correct": false,
+            "count": "5,137",
+            "percent": "14.52%"
+          },
+          {
+            "id": 315928,
+            "text": "Lego",
+            "correct": true,
+            "count": "27,135",
+            "percent": "76.69%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/6",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 27135,
+        "incorrect_answers": 8249,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 6,
+          "players_left": 22767,
+          "players_left_formatted": "22,767",
+          "num_winners": 8198,
+          "num_winners_formatted": "8,198",
+          "prize": 148.0,
+          "prize_formatted": "148 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160982,
+        "text": "What cooking term describes food thatâs seared first, then stewed inside a tightly sealed container?",
+        "question_number": 7,
+        "eliminated": "12,460",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "17,506",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315929,
+            "text": "Poach",
+            "correct": false,
+            "count": "3,418",
+            "percent": "16.75%"
+          },
+          {
+            "id": 315930,
+            "text": "Braise",
+            "correct": true,
+            "count": "15,012",
+            "percent": "73.57%"
+          },
+          {
+            "id": 315931,
+            "text": "SautÃ©",
+            "correct": false,
+            "count": "1,975",
+            "percent": "9.68%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/7",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 15012,
+        "incorrect_answers": 5393,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160984,
+        "text": "Which of these is considered to be pseudoscience?",
+        "question_number": 8,
+        "eliminated": "2,123",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "17,394",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315932,
+            "text": "The Tunguska event",
+            "correct": false,
+            "count": "837",
+            "percent": "4.59%"
+          },
+          {
+            "id": 315933,
+            "text": "Homeopathic medicine",
+            "correct": true,
+            "count": "16,193",
+            "percent": "88.81%"
+          },
+          {
+            "id": 315934,
+            "text": "The Dogon people",
+            "correct": false,
+            "count": "1,204",
+            "percent": "6.6%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/8",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 16193,
+        "incorrect_answers": 2041,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160986,
+        "text": "Which beverage does NOT advise buyers to shake the container before serving?",
+        "question_number": 9,
+        "eliminated": "9,277",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "8,925",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315935,
+            "text": "Lipton Brisk",
+            "correct": true,
+            "count": "6,165",
+            "percent": "35.99%"
+          },
+          {
+            "id": 315936,
+            "text": "Lemon Snapple",
+            "correct": false,
+            "count": "4,613",
+            "percent": "26.93%"
+          },
+          {
+            "id": 315937,
+            "text": "Yoo-hoo",
+            "correct": false,
+            "count": "6,353",
+            "percent": "37.08%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/9",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 6165,
+        "incorrect_answers": 10966,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160988,
+        "text": "Which of these is NOT known as âThe Golden Bearâ?",
+        "question_number": 10,
+        "eliminated": "6,324",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "6,896",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315938,
+            "text": "Francis Drake's ship",
+            "correct": true,
+            "count": "6,094",
+            "percent": "49.82%"
+          },
+          {
+            "id": 315939,
+            "text": "Golfer Jack Nicklaus",
+            "correct": false,
+            "count": "1,015",
+            "percent": "8.3%"
+          },
+          {
+            "id": 315940,
+            "text": "Berlin's top film prize",
+            "correct": false,
+            "count": "5,122",
+            "percent": "41.88%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/10",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 6094,
+        "incorrect_answers": 6137,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160990,
+        "text": "Which of these is the given first name of a member of the Beatles?",
+        "question_number": 11,
+        "eliminated": "6,323",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "3,905",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315941,
+            "text": "Paul",
+            "correct": false,
+            "count": "5,272",
+            "percent": "52.96%"
+          },
+          {
+            "id": 315942,
+            "text": "Richard",
+            "correct": true,
+            "count": "3,905",
+            "percent": "39.23%"
+          },
+          {
+            "id": 315943,
+            "text": "Jonathan",
+            "correct": false,
+            "count": "778",
+            "percent": "7.82%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/11",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 3905,
+        "incorrect_answers": 6050,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 4883,
+          "players_left_formatted": "4,883",
+          "num_winners": 2245,
+          "num_winners_formatted": "2,245",
+          "prize": 1000.0,
+          "prize_formatted": "1K coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160992,
+        "text": "What author created the characters Skimbleshanks and Rumpleteazer?",
+        "question_number": 12,
+        "eliminated": "2,558",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "3,571",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315944,
+            "text": "T.S. Eliot",
+            "correct": true,
+            "count": "3,571",
+            "percent": "74.49%"
+          },
+          {
+            "id": 315945,
+            "text": "J.K. Rowling",
+            "correct": false,
+            "count": "453",
+            "percent": "9.45%"
+          },
+          {
+            "id": 315946,
+            "text": "E.B. White",
+            "correct": false,
+            "count": "770",
+            "percent": "16.06%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/12",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 3571,
+        "incorrect_answers": 1223,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160994,
+        "text": "What Greek letter is used to indicate the âgolden ratioâ?",
+        "question_number": 13,
+        "eliminated": "1,556",
+        "category": "Math",
+        "category_slug": "math",
+        "advancing": "2,726",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315947,
+            "text": "Pi",
+            "correct": false,
+            "count": "930",
+            "percent": "21.9%"
+          },
+          {
+            "id": 315948,
+            "text": "Phi",
+            "correct": true,
+            "count": "2,726",
+            "percent": "64.2%"
+          },
+          {
+            "id": 315949,
+            "text": "Psi",
+            "correct": false,
+            "count": "590",
+            "percent": "13.9%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/13",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 2726,
+        "incorrect_answers": 1520,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160996,
+        "text": "Which of these flowers is known for often being blue?",
+        "question_number": 14,
+        "eliminated": "409",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "3,245",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315950,
+            "text": "Forget-me-not",
+            "correct": true,
+            "count": "3,245",
+            "percent": "89.44%"
+          },
+          {
+            "id": 315951,
+            "text": "Lily of the valley",
+            "correct": false,
+            "count": "227",
+            "percent": "6.26%"
+          },
+          {
+            "id": 315952,
+            "text": "Common daisy",
+            "correct": false,
+            "count": "156",
+            "percent": "4.3%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/14",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 3245,
+        "incorrect_answers": 383,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160998,
+        "text": "Which classic arcade game was controlled using a joystick?",
+        "question_number": 15,
+        "eliminated": "1,851",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "1,643",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315953,
+            "text": "Centipede",
+            "correct": false,
+            "count": "755",
+            "percent": "22.15%"
+          },
+          {
+            "id": 315954,
+            "text": "Tempest",
+            "correct": false,
+            "count": "1,011",
+            "percent": "29.66%"
+          },
+          {
+            "id": 315955,
+            "text": "Stargate",
+            "correct": true,
+            "count": "1,643",
+            "percent": "48.2%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/15",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 1643,
+        "incorrect_answers": 1766,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161000,
+        "text": "Which of these nationsâ capital cities is on the coast?",
+        "question_number": 16,
+        "eliminated": "1,509",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "1,383",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315956,
+            "text": "Australia",
+            "correct": false,
+            "count": "719",
+            "percent": "25.8%"
+          },
+          {
+            "id": 315957,
+            "text": "Morocco",
+            "correct": true,
+            "count": "1,383",
+            "percent": "49.62%"
+          },
+          {
+            "id": 315958,
+            "text": "Chile",
+            "correct": false,
+            "count": "685",
+            "percent": "24.58%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/16",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 1383,
+        "incorrect_answers": 1404,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161002,
+        "text": "What are the bare minimum of substances that, when combined, will form rust?",
+        "question_number": 17,
+        "eliminated": "1,045",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "1,223",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315959,
+            "text": "Iron, water and oxygen",
+            "correct": true,
+            "count": "1,223",
+            "percent": "55.92%"
+          },
+          {
+            "id": 315960,
+            "text": "Iron and water",
+            "correct": false,
+            "count": "186",
+            "percent": "8.5%"
+          },
+          {
+            "id": 315961,
+            "text": "Iron and oxygen",
+            "correct": false,
+            "count": "778",
+            "percent": "35.57%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/17",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 1223,
+        "incorrect_answers": 964,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161004,
+        "text": "Which of these Shakespeare plays takes place in Verona?",
+        "question_number": 18,
+        "eliminated": "148",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "1,664",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315962,
+            "text": "Romeo and Juliet",
+            "correct": true,
+            "count": "1,664",
+            "percent": "92.19%"
+          },
+          {
+            "id": 315963,
+            "text": "Hamlet",
+            "correct": false,
+            "count": "95",
+            "percent": "5.26%"
+          },
+          {
+            "id": 315964,
+            "text": "Macbeth",
+            "correct": false,
+            "count": "46",
+            "percent": "2.55%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/18",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 1664,
+        "incorrect_answers": 141,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 18,
+          "players_left": 1439,
+          "players_left_formatted": "1,439",
+          "num_winners": 225,
+          "num_winners_formatted": "225",
+          "prize": 601.0,
+          "prize_formatted": "601 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 161006,
+        "text": "A book by Norman Cousins advocated what unorthodox treatment for illness?",
+        "question_number": 19,
+        "eliminated": "254",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "1,185",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315965,
+            "text": "Painting",
+            "correct": false,
+            "count": "106",
+            "percent": "7.5%"
+          },
+          {
+            "id": 315966,
+            "text": "Laughing",
+            "correct": true,
+            "count": "1,185",
+            "percent": "83.86%"
+          },
+          {
+            "id": 315967,
+            "text": "Revenge",
+            "correct": false,
+            "count": "122",
+            "percent": "8.63%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/19",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 1185,
+        "incorrect_answers": 228,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161008,
+        "text": "Which book is in the Catholic Old Testament but NOT most versions of the Protestant Old Testament?",
+        "question_number": 20,
+        "eliminated": "786",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "399",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315968,
+            "text": "Judith",
+            "correct": true,
+            "count": "399",
+            "percent": "34.61%"
+          },
+          {
+            "id": 315969,
+            "text": "Judges",
+            "correct": false,
+            "count": "597",
+            "percent": "51.78%"
+          },
+          {
+            "id": 315970,
+            "text": "Ruth",
+            "correct": false,
+            "count": "157",
+            "percent": "13.62%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/20",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 399,
+        "incorrect_answers": 754,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161010,
+        "text": "Which Shakespeare play is NOT quoted in âRobin Hood: Men in Tightsâ?",
+        "question_number": 21,
+        "eliminated": "275",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "124",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315971,
+            "text": "Julius Caesar",
+            "correct": false,
+            "count": "76",
+            "percent": "19.34%"
+          },
+          {
+            "id": 315972,
+            "text": "The Merchant of Venice",
+            "correct": true,
+            "count": "124",
+            "percent": "31.55%"
+          },
+          {
+            "id": 315973,
+            "text": "Richard III",
+            "correct": false,
+            "count": "193",
+            "percent": "49.11%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-04/2/21",
+        "game_link": "/us/game/2020-01-04/2",
+        "correct_answers": 124,
+        "incorrect_answers": 269,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2469,
+        "game_id": 142859,
+        "question": "What year is it currently on the Buddhist calendar?",
+        "results": [
+          {
+            "id": 14318,
+            "display_count": "25",
+            "vote_count": 8038,
+            "text": "1030 "
+          },
+          {
+            "id": 14319,
+            "display_count": "36",
+            "vote_count": 11897,
+            "text": "2563"
+          },
+          {
+            "id": 14317,
+            "display_count": "39",
+            "vote_count": 12823,
+            "text": "3760"
+          }
+        ],
+        "created_at": "2020-01-05T02:05:08Z"
+      },
+      {
+        "id": 2468,
+        "game_id": 142859,
+        "question": "What year is it currently on the Jewish calendar?",
+        "results": [
+          {
+            "id": 14311,
+            "display_count": "25",
+            "vote_count": 6869,
+            "text": "3400"
+          },
+          {
+            "id": 14312,
+            "display_count": "51",
+            "vote_count": 13993,
+            "text": "5780"
+          },
+          {
+            "id": 14313,
+            "display_count": "23",
+            "vote_count": 6372,
+            "text": "6180"
+          }
+        ],
+        "created_at": "2020-01-05T02:04:29Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 6,
+        "players_left": 22767,
+        "players_left_formatted": "22,767",
+        "num_winners": 8198,
+        "num_winners_formatted": "8,198",
+        "prize": 148.0,
+        "prize_formatted": "148 coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 11,
+        "players_left": 4883,
+        "players_left_formatted": "4,883",
+        "num_winners": 2245,
+        "num_winners_formatted": "2,245",
+        "prize": 1000.0,
+        "prize_formatted": "1K coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 18,
+        "players_left": 1439,
+        "players_left_formatted": "1,439",
+        "num_winners": 225,
+        "num_winners_formatted": "225",
+        "prize": 601.0,
+        "prize_formatted": "601 coins",
+        "currency": "coins"
+      }
+    ],
+    "total_checkpoint_prize": "0.00",
+    "total_checkpoint_winners": "10,668",
+    "smallest_checkpoint_prize": "148 coins",
+    "largest_checkpoint_prize": "1K coins",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

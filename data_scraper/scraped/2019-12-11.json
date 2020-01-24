@@ -1,0 +1,1229 @@
+[
+  {
+    "id": 142068,
+    "show_id": 13174,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-12-12T01:00:00Z",
+    "direct_link": "/us/game/2019-12-11/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,624",
+      "currency": "$",
+      "average_prize": "0.62"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 159816,
+        "text": "Which of these surfaces is a golfer typically targeting when they use their driver?",
+        "question_number": 1,
+        "eliminated": "-5,168",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "39,535",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314180,
+            "text": "Fairway",
+            "correct": true,
+            "count": "30,413",
+            "percent": "92.85%"
+          },
+          {
+            "id": 314181,
+            "text": "Sand",
+            "correct": false,
+            "count": "1,576",
+            "percent": "4.81%"
+          },
+          {
+            "id": 314182,
+            "text": "Rough",
+            "correct": false,
+            "count": "766",
+            "percent": "2.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/1/1",
+        "game_link": "/us/game/2019-12-11/1",
+        "correct_answers": 30413,
+        "incorrect_answers": 2342,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159818,
+        "text": "In baseball, which base does not have its own coach?",
+        "question_number": 2,
+        "eliminated": "525",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "39,052",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314183,
+            "text": "3rd",
+            "correct": false,
+            "count": "1,144",
+            "percent": "3.46%"
+          },
+          {
+            "id": 314184,
+            "text": "2nd",
+            "correct": true,
+            "count": "31,009",
+            "percent": "93.68%"
+          },
+          {
+            "id": 314185,
+            "text": "1st",
+            "correct": false,
+            "count": "947",
+            "percent": "2.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/1/2",
+        "game_link": "/us/game/2019-12-11/1",
+        "correct_answers": 31009,
+        "incorrect_answers": 2091,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159820,
+        "text": "Which of these boxing classes features the heaviest fighters?",
+        "question_number": 3,
+        "eliminated": "2,545",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "36,529",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314186,
+            "text": "Bantam weight",
+            "correct": false,
+            "count": "22,130",
+            "percent": "68.5%"
+          },
+          {
+            "id": 314187,
+            "text": "Featherweight",
+            "correct": true,
+            "count": "6,000",
+            "percent": "18.57%"
+          },
+          {
+            "id": 314188,
+            "text": "Flyweight",
+            "correct": false,
+            "count": "4,178",
+            "percent": "12.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/1/3",
+        "game_link": "/us/game/2019-12-11/1",
+        "correct_answers": 6000,
+        "incorrect_answers": 26308,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159822,
+        "text": "Which of these sports has inducted both male and female athletes into their US Hall of Fame?",
+        "question_number": 4,
+        "eliminated": "1,915",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "34,759",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314189,
+            "text": "Basketball",
+            "correct": true,
+            "count": "27,697",
+            "percent": "90.08%"
+          },
+          {
+            "id": 314190,
+            "text": "Baseball",
+            "correct": false,
+            "count": "2,468",
+            "percent": "8.03%"
+          },
+          {
+            "id": 314191,
+            "text": "Football",
+            "correct": false,
+            "count": "581",
+            "percent": "1.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/1/4",
+        "game_link": "/us/game/2019-12-11/1",
+        "correct_answers": 27697,
+        "incorrect_answers": 3049,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159824,
+        "text": "Which MLB distinction is true of Gerrit Coleâs new contract?",
+        "question_number": 5,
+        "eliminated": "5,377",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "29,444",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314192,
+            "text": "Highest annual salary",
+            "correct": true,
+            "count": "9,332",
+            "percent": "31.65%"
+          },
+          {
+            "id": 314193,
+            "text": "Most total money",
+            "correct": false,
+            "count": "12,639",
+            "percent": "42.86%"
+          },
+          {
+            "id": 314194,
+            "text": "Longest in years",
+            "correct": false,
+            "count": "7,518",
+            "percent": "25.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/1/5",
+        "game_link": "/us/game/2019-12-11/1",
+        "correct_answers": 9332,
+        "incorrect_answers": 20157,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159826,
+        "text": "What college has NOT had a record-tying 7 players win the Heisman Trophy?",
+        "question_number": 6,
+        "eliminated": "11,546",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "18,489",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314195,
+            "text": "Ohio State",
+            "correct": true,
+            "count": "5,020",
+            "percent": "18.93%"
+          },
+          {
+            "id": 314196,
+            "text": "Notre Dame",
+            "correct": false,
+            "count": "6,778",
+            "percent": "25.56%"
+          },
+          {
+            "id": 314197,
+            "text": "Oklahoma",
+            "correct": false,
+            "count": "14,719",
+            "percent": "55.51%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/1/6",
+        "game_link": "/us/game/2019-12-11/1",
+        "correct_answers": 5020,
+        "incorrect_answers": 21497,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159828,
+        "text": "What player has the most points as a reserve in NBA history?",
+        "question_number": 7,
+        "eliminated": "7,552",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "12,669",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314198,
+            "text": "Jamal Crawford",
+            "correct": false,
+            "count": "8,550",
+            "percent": "46.32%"
+          },
+          {
+            "id": 314199,
+            "text": "Lou Williams",
+            "correct": true,
+            "count": "5,041",
+            "percent": "27.31%"
+          },
+          {
+            "id": 314200,
+            "text": "JR Smith",
+            "correct": false,
+            "count": "4,868",
+            "percent": "26.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/1/7",
+        "game_link": "/us/game/2019-12-11/1",
+        "correct_answers": 5041,
+        "incorrect_answers": 13418,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 7,
+          "players_left": 11947,
+          "players_left_formatted": "11,947",
+          "num_winners": 2052,
+          "num_winners_formatted": "2,052",
+          "prize": 199.0,
+          "prize_formatted": "199 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 159830,
+        "text": "Which of these was NOT one of the team names used before the franchise became the Dallas Cowboys?",
+        "question_number": 8,
+        "eliminated": "3,609",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "9,390",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314201,
+            "text": "Rangers",
+            "correct": false,
+            "count": "3,161",
+            "percent": "29.66%"
+          },
+          {
+            "id": 314202,
+            "text": "Steers",
+            "correct": false,
+            "count": "3,994",
+            "percent": "37.48%"
+          },
+          {
+            "id": 314203,
+            "text": "Texans",
+            "correct": true,
+            "count": "3,502",
+            "percent": "32.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/1/8",
+        "game_link": "/us/game/2019-12-11/1",
+        "correct_answers": 3502,
+        "incorrect_answers": 7155,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159832,
+        "text": "What âtripleâ jump is demonstrated by Mirai Nagasu here?",
+        "question_number": 9,
+        "eliminated": "1,109",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "9,074",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314204,
+            "text": "Toe loop",
+            "correct": false,
+            "count": "1,180",
+            "percent": "12.92%"
+          },
+          {
+            "id": 314205,
+            "text": "Axel",
+            "correct": true,
+            "count": "5,557",
+            "percent": "60.84%"
+          },
+          {
+            "id": 314206,
+            "text": "Lutz",
+            "correct": false,
+            "count": "2,397",
+            "percent": "26.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/1/9",
+        "game_link": "/us/game/2019-12-11/1",
+        "correct_answers": 5557,
+        "incorrect_answers": 3577,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159834,
+        "text": "Who was the first man to win Sports Illustratedâs Sportsperson of the Year twice?",
+        "question_number": 10,
+        "eliminated": "2,143",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "7,262",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314207,
+            "text": "Tiger Woods",
+            "correct": true,
+            "count": "2,369",
+            "percent": "28.19%"
+          },
+          {
+            "id": 314208,
+            "text": "Michael Jordan",
+            "correct": false,
+            "count": "2,693",
+            "percent": "32.05%"
+          },
+          {
+            "id": 314209,
+            "text": "Joe Montana",
+            "correct": false,
+            "count": "3,341",
+            "percent": "39.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/1/10",
+        "game_link": "/us/game/2019-12-11/1",
+        "correct_answers": 2369,
+        "incorrect_answers": 6034,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159836,
+        "text": "Who has played the most consecutive games with a catch for a single team?",
+        "question_number": 11,
+        "eliminated": "5,160",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,902",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314210,
+            "text": "Larry Fitzgerald",
+            "correct": true,
+            "count": "2,902",
+            "percent": "39.59%"
+          },
+          {
+            "id": 314211,
+            "text": "Cris Carter",
+            "correct": false,
+            "count": "1,287",
+            "percent": "17.56%"
+          },
+          {
+            "id": 314212,
+            "text": "Jerry Rice",
+            "correct": false,
+            "count": "3,142",
+            "percent": "42.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/1/11",
+        "game_link": "/us/game/2019-12-11/1",
+        "correct_answers": 2902,
+        "incorrect_answers": 4429,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159838,
+        "text": "Dating back to 2005, who leads MLB in fWAR?",
+        "question_number": 12,
+        "eliminated": "4,423",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,624",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314213,
+            "text": "Mike Trout",
+            "correct": true,
+            "count": "1,624",
+            "percent": "29.02%"
+          },
+          {
+            "id": 314214,
+            "text": "Albert Pujols",
+            "correct": false,
+            "count": "2,471",
+            "percent": "44.15%"
+          },
+          {
+            "id": 314215,
+            "text": "Clayton Kershaw",
+            "correct": false,
+            "count": "1,502",
+            "percent": "26.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/1/12",
+        "game_link": "/us/game/2019-12-11/1",
+        "correct_answers": 1624,
+        "incorrect_answers": 3973,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2430,
+        "game_id": 142068,
+        "question": "What's going on with Gab this weekend?",
+        "results": [
+          {
+            "id": 14083,
+            "display_count": "43",
+            "vote_count": 3199,
+            "text": "Beer Olympics"
+          },
+          {
+            "id": 14084,
+            "display_count": "26",
+            "vote_count": 1909,
+            "text": "Santacon"
+          },
+          {
+            "id": 14085,
+            "display_count": "31",
+            "vote_count": 2252,
+            "text": "Winning Fantasy"
+          }
+        ],
+        "created_at": "2019-12-12T01:13:51Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 7,
+        "players_left": 11947,
+        "players_left_formatted": "11,947",
+        "num_winners": 2052,
+        "num_winners_formatted": "2,052",
+        "prize": 199.0,
+        "prize_formatted": "199 coins",
+        "currency": "coins"
+      }
+    ],
+    "total_checkpoint_prize": "0.00",
+    "total_checkpoint_winners": "2,052",
+    "smallest_checkpoint_prize": "199 coins",
+    "largest_checkpoint_prize": "199 coins",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 142083,
+    "show_id": 13142,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-12-12T02:00:00Z",
+    "direct_link": "/us/game/2019-12-11/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "8,911",
+      "currency": "$",
+      "average_prize": "0.11"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "",
+        "slug": ""
+      }
+    ],
+    "questions": [
+      null,
+      {
+        "id": 159840,
+        "text": "The Committee to Plan Parties was founded in opposition to whom?",
+        "question_number": 2,
+        "eliminated": "3,114",
+        "category": "",
+        "category_slug": "",
+        "advancing": "98,499",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314216,
+            "text": "Dwight",
+            "correct": false,
+            "count": "24,373",
+            "percent": "28.08%"
+          },
+          {
+            "id": 314217,
+            "text": "Angela",
+            "correct": true,
+            "count": "56,202",
+            "percent": "64.75%"
+          },
+          {
+            "id": 314218,
+            "text": "Kevin",
+            "correct": false,
+            "count": "6,229",
+            "percent": "7.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/2/2",
+        "game_link": "/us/game/2019-12-11/2",
+        "correct_answers": 56202,
+        "incorrect_answers": 30602,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159842,
+        "text": "Who is Michaelâs iPod gift originally intended for?",
+        "question_number": 3,
+        "eliminated": "4,324",
+        "category": "",
+        "category_slug": "",
+        "advancing": "94,366",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314219,
+            "text": "Dwight",
+            "correct": false,
+            "count": "7,440",
+            "percent": "8.76%"
+          },
+          {
+            "id": 314220,
+            "text": "Jim",
+            "correct": false,
+            "count": "12,178",
+            "percent": "14.34%"
+          },
+          {
+            "id": 314221,
+            "text": "Ryan",
+            "correct": true,
+            "count": "65,311",
+            "percent": "76.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/2/3",
+        "game_link": "/us/game/2019-12-11/2",
+        "correct_answers": 65311,
+        "incorrect_answers": 19618,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159844,
+        "text": "Carol dumps Michael after he photoshops himself into a picture with who?",
+        "question_number": 4,
+        "eliminated": "8,818",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "85,700",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314222,
+            "text": "Her kids",
+            "correct": true,
+            "count": "60,464",
+            "percent": "73.57%"
+          },
+          {
+            "id": 314223,
+            "text": "Jan",
+            "correct": false,
+            "count": "14,710",
+            "percent": "17.9%"
+          },
+          {
+            "id": 314224,
+            "text": "The Pope",
+            "correct": false,
+            "count": "7,009",
+            "percent": "8.53%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/2/4",
+        "game_link": "/us/game/2019-12-11/2",
+        "correct_answers": 60464,
+        "incorrect_answers": 21719,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159846,
+        "text": "When Phyllis plans the Christmas party, what theme does she choose?",
+        "question_number": 5,
+        "eliminated": "9,789",
+        "category": "",
+        "category_slug": "",
+        "advancing": "76,501",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314225,
+            "text": "Dueling Parties",
+            "correct": false,
+            "count": "4,982",
+            "percent": "6.48%"
+          },
+          {
+            "id": 314226,
+            "text": "Classy Christmas",
+            "correct": false,
+            "count": "13,024",
+            "percent": "16.94%"
+          },
+          {
+            "id": 314227,
+            "text": "Moroccan Christmas",
+            "correct": true,
+            "count": "58,858",
+            "percent": "76.57%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/2/5",
+        "game_link": "/us/game/2019-12-11/2",
+        "correct_answers": 58858,
+        "incorrect_answers": 18006,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159848,
+        "text": "What German folklore creature does Dwight dress up as?",
+        "question_number": 6,
+        "eliminated": "13,239",
+        "category": "",
+        "category_slug": "",
+        "advancing": "64,322",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314228,
+            "text": "BergmÃ¶nch",
+            "correct": false,
+            "count": "9,341",
+            "percent": "13.31%"
+          },
+          {
+            "id": 314229,
+            "text": "Belsnickel",
+            "correct": true,
+            "count": "57,330",
+            "percent": "81.67%"
+          },
+          {
+            "id": 314230,
+            "text": "Bilwis",
+            "correct": false,
+            "count": "3,522",
+            "percent": "5.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/2/6",
+        "game_link": "/us/game/2019-12-11/2",
+        "correct_answers": 57330,
+        "incorrect_answers": 12863,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159852,
+        "text": "When Phyllis dresses up as Santa, Michael changes to dress up as who?",
+        "question_number": 7,
+        "eliminated": "9,434",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "57,257",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314234,
+            "text": "Phyllis",
+            "correct": false,
+            "count": "5,455",
+            "percent": "8.84%"
+          },
+          {
+            "id": 314235,
+            "text": "Jesus",
+            "correct": true,
+            "count": "52,846",
+            "percent": "85.6%"
+          },
+          {
+            "id": 314236,
+            "text": "Satan",
+            "correct": false,
+            "count": "3,433",
+            "percent": "5.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/2/7",
+        "game_link": "/us/game/2019-12-11/2",
+        "correct_answers": 52846,
+        "incorrect_answers": 8888,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159854,
+        "text": "Which character is first introduced at a Christmas party?",
+        "question_number": 8,
+        "eliminated": "12,558",
+        "category": "",
+        "category_slug": "",
+        "advancing": "46,082",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314237,
+            "text": "Bob Vance",
+            "correct": true,
+            "count": "40,985",
+            "percent": "72.76%"
+          },
+          {
+            "id": 314238,
+            "text": "Mose Schrute",
+            "correct": false,
+            "count": "4,006",
+            "percent": "7.11%"
+          },
+          {
+            "id": 314239,
+            "text": "Todd Packer",
+            "correct": false,
+            "count": "11,340",
+            "percent": "20.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/2/8",
+        "game_link": "/us/game/2019-12-11/2",
+        "correct_answers": 40985,
+        "incorrect_answers": 15346,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159856,
+        "text": "Who performs an original song in âA Benihana Christmasâ?",
+        "question_number": 9,
+        "eliminated": "29,029",
+        "category": "",
+        "category_slug": "",
+        "advancing": "20,124",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314240,
+            "text": "Creed",
+            "correct": true,
+            "count": "12,285",
+            "percent": "26.09%"
+          },
+          {
+            "id": 314241,
+            "text": "Andy",
+            "correct": false,
+            "count": "16,084",
+            "percent": "34.16%"
+          },
+          {
+            "id": 314242,
+            "text": "Michael",
+            "correct": false,
+            "count": "18,717",
+            "percent": "39.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/2/9",
+        "game_link": "/us/game/2019-12-11/2",
+        "correct_answers": 12285,
+        "incorrect_answers": 34801,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159858,
+        "text": "What does Dwight look forward to getting from his goose?",
+        "question_number": 10,
+        "eliminated": "8,666",
+        "category": "",
+        "category_slug": "",
+        "advancing": "19,414",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314243,
+            "text": "Feathers",
+            "correct": false,
+            "count": "1,674",
+            "percent": "6.31%"
+          },
+          {
+            "id": 314244,
+            "text": "Goose grease",
+            "correct": true,
+            "count": "13,962",
+            "percent": "52.65%"
+          },
+          {
+            "id": 314245,
+            "text": "The beak",
+            "correct": false,
+            "count": "10,884",
+            "percent": "41.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/2/10",
+        "game_link": "/us/game/2019-12-11/2",
+        "correct_answers": 13962,
+        "incorrect_answers": 12558,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159860,
+        "text": "In Pamâs comic âThe Adventures of Jimmy Halpert,â Jim turns into what?",
+        "question_number": 11,
+        "eliminated": "5,017",
+        "category": "",
+        "category_slug": "",
+        "advancing": "17,433",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314246,
+            "text": "Bear",
+            "correct": true,
+            "count": "17,433",
+            "percent": "81.45%"
+          },
+          {
+            "id": 314247,
+            "text": "Beet",
+            "correct": false,
+            "count": "1,016",
+            "percent": "4.75%"
+          },
+          {
+            "id": 314248,
+            "text": "Dwight",
+            "correct": false,
+            "count": "2,954",
+            "percent": "13.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/2/11",
+        "game_link": "/us/game/2019-12-11/2",
+        "correct_answers": 17433,
+        "incorrect_answers": 3970,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159862,
+        "text": "Which Christmas episode was followed by a â30 Rockâ episode with the same title?",
+        "question_number": 12,
+        "eliminated": "7,792",
+        "category": "",
+        "category_slug": "",
+        "advancing": "11,452",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314249,
+            "text": "Classy Christmas",
+            "correct": false,
+            "count": "5,359",
+            "percent": "28.37%"
+          },
+          {
+            "id": 314250,
+            "text": "A Benihana Christmas",
+            "correct": false,
+            "count": "2,077",
+            "percent": "11.0%"
+          },
+          {
+            "id": 314251,
+            "text": "Secret Santa",
+            "correct": true,
+            "count": "11,452",
+            "percent": "60.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/2/12",
+        "game_link": "/us/game/2019-12-11/2",
+        "correct_answers": 11452,
+        "incorrect_answers": 7436,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159864,
+        "text": "What ingredient does Michael NOT include in his âOne of Everythingâ cocktail?",
+        "question_number": 13,
+        "eliminated": "8,746",
+        "category": "",
+        "category_slug": "",
+        "advancing": "6,762",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314252,
+            "text": "Triple sec",
+            "correct": false,
+            "count": "1,919",
+            "percent": "12.68%"
+          },
+          {
+            "id": 314253,
+            "text": "Absinthe",
+            "correct": false,
+            "count": "6,453",
+            "percent": "42.64%"
+          },
+          {
+            "id": 314254,
+            "text": "Blue curaÃ§ao",
+            "correct": true,
+            "count": "6,762",
+            "percent": "44.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/2/13",
+        "game_link": "/us/game/2019-12-11/2",
+        "correct_answers": 6762,
+        "incorrect_answers": 8372,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159866,
+        "text": "Who wrote the most Christmas episodes?",
+        "question_number": 14,
+        "eliminated": "6,063",
+        "category": "",
+        "category_slug": "",
+        "advancing": "6,218",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314255,
+            "text": "Michael Schur",
+            "correct": false,
+            "count": "3,545",
+            "percent": "29.34%"
+          },
+          {
+            "id": 314256,
+            "text": "Greg Daniels",
+            "correct": false,
+            "count": "2,318",
+            "percent": "19.19%"
+          },
+          {
+            "id": 314257,
+            "text": "Mindy Kaling",
+            "correct": true,
+            "count": "6,218",
+            "percent": "51.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/2/14",
+        "game_link": "/us/game/2019-12-11/2",
+        "correct_answers": 6218,
+        "incorrect_answers": 5863,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159868,
+        "text": "What song appears in both the pilot and a Christmas episode?",
+        "question_number": 15,
+        "eliminated": "1,433",
+        "category": "",
+        "category_slug": "",
+        "advancing": "8,911",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314258,
+            "text": "Carol of the Bells",
+            "correct": false,
+            "count": "733",
+            "percent": "7.13%"
+          },
+          {
+            "id": 314259,
+            "text": "Little Drummer Boy",
+            "correct": true,
+            "count": "8,911",
+            "percent": "86.73%"
+          },
+          {
+            "id": 314260,
+            "text": "Jingle Bells",
+            "correct": false,
+            "count": "630",
+            "percent": "6.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-11/2/15",
+        "game_link": "/us/game/2019-12-11/2",
+        "correct_answers": 8911,
+        "incorrect_answers": 1363,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2431,
+        "game_id": 142083,
+        "question": "Best Office gift to give this holiday season?",
+        "results": [
+          {
+            "id": 14091,
+            "display_count": "32",
+            "vote_count": 10772,
+            "text": "Dundie Award"
+          },
+          {
+            "id": 14090,
+            "display_count": "37",
+            "vote_count": 12595,
+            "text": "Dwight Bobblehead"
+          },
+          {
+            "id": 14089,
+            "display_count": "31",
+            "vote_count": 10671,
+            "text": "Green kettle pot"
+          }
+        ],
+        "created_at": "2019-12-12T02:04:31Z"
+      },
+      {
+        "id": 2432,
+        "game_id": 142083,
+        "question": "Which Dunder Mifflin merch would you want the most?",
+        "results": [
+          {
+            "id": 14096,
+            "display_count": "26",
+            "vote_count": 8915,
+            "text": "Baseball henley"
+          },
+          {
+            "id": 14097,
+            "display_count": "37",
+            "vote_count": 12864,
+            "text": "Pam's poster"
+          },
+          {
+            "id": 14095,
+            "display_count": "37",
+            "vote_count": 12573,
+            "text": "WBB mug"
+          }
+        ],
+        "created_at": "2019-12-12T02:04:59Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

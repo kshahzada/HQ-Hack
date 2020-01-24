@@ -1,0 +1,804 @@
+[
+  {
+    "id": 84848,
+    "show_id": 9741,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-03-09T02:00:00Z",
+    "direct_link": "/us/game/2019-03-08/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "488",
+      "currency": "$",
+      "average_prize": "10.25"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 87423,
+        "text": "According to an old saying, what spoils the broth?",
+        "question_number": 1,
+        "eliminated": "16,544",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "257,638",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 205599,
+            "text": "Ghost peppers",
+            "correct": false,
+            "count": "12,976",
+            "percent": "4.74%"
+          },
+          {
+            "id": 205600,
+            "text": "Too many cooks",
+            "correct": true,
+            "count": "257,638",
+            "percent": "94.08%"
+          },
+          {
+            "id": 205601,
+            "text": "Lax food safety",
+            "correct": false,
+            "count": "3,236",
+            "percent": "1.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-08/1/1",
+        "game_link": "/us/game/2019-03-08/1",
+        "correct_answers": 257638,
+        "incorrect_answers": 16212,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87438,
+        "text": "Which kind of number is two?",
+        "question_number": 2,
+        "eliminated": "12,905",
+        "category": "Math",
+        "category_slug": "math",
+        "advancing": "248,394",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 205621,
+            "text": "Whole",
+            "correct": true,
+            "count": "248,394",
+            "percent": "97.22%"
+          },
+          {
+            "id": 205625,
+            "text": "Irrational",
+            "correct": false,
+            "count": "5,603",
+            "percent": "2.19%"
+          },
+          {
+            "id": 205628,
+            "text": "Negative",
+            "correct": false,
+            "count": "1,494",
+            "percent": "0.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-08/1/2",
+        "game_link": "/us/game/2019-03-08/1",
+        "correct_answers": 248394,
+        "incorrect_answers": 7097,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87453,
+        "text": "Which of these is a citrus fruit?",
+        "question_number": 3,
+        "eliminated": "4,709",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "244,609",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 205645,
+            "text": "Plum",
+            "correct": false,
+            "count": "1,048",
+            "percent": "0.42%"
+          },
+          {
+            "id": 205648,
+            "text": "Grapefruit",
+            "correct": true,
+            "count": "244,609",
+            "percent": "99.0%"
+          },
+          {
+            "id": 205653,
+            "text": "Pear",
+            "correct": false,
+            "count": "1,435",
+            "percent": "0.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-08/1/3",
+        "game_link": "/us/game/2019-03-08/1",
+        "correct_answers": 244609,
+        "incorrect_answers": 2483,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87469,
+        "text": "What object appears in the production logo that opens Pixar movies?",
+        "question_number": 4,
+        "eliminated": "23,107",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "221,881",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 205668,
+            "text": "Gear",
+            "correct": false,
+            "count": "12,874",
+            "percent": "5.32%"
+          },
+          {
+            "id": 205669,
+            "text": "Apple",
+            "correct": false,
+            "count": "7,430",
+            "percent": "3.07%"
+          },
+          {
+            "id": 205671,
+            "text": "Lamp",
+            "correct": true,
+            "count": "221,881",
+            "percent": "91.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-08/1/4",
+        "game_link": "/us/game/2019-03-08/1",
+        "correct_answers": 221881,
+        "incorrect_answers": 20304,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87485,
+        "text": "Which of these cities is one of the âBig Fourâ fashion capitals?",
+        "question_number": 5,
+        "eliminated": "66,445",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "157,544",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 205692,
+            "text": "Los Angeles",
+            "correct": false,
+            "count": "26,119",
+            "percent": "11.82%"
+          },
+          {
+            "id": 205693,
+            "text": "London",
+            "correct": true,
+            "count": "157,544",
+            "percent": "71.29%"
+          },
+          {
+            "id": 205694,
+            "text": "Rome",
+            "correct": false,
+            "count": "37,340",
+            "percent": "16.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-08/1/5",
+        "game_link": "/us/game/2019-03-08/1",
+        "correct_answers": 157544,
+        "incorrect_answers": 63459,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87505,
+        "text": "Which of these Disney movies has characters named for bits of ship wreckage?",
+        "question_number": 6,
+        "eliminated": "82,225",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "80,662",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 205722,
+            "text": "The Little Mermaid",
+            "correct": true,
+            "count": "80,662",
+            "percent": "51.88%"
+          },
+          {
+            "id": 205723,
+            "text": "Finding Nemo",
+            "correct": false,
+            "count": "50,735",
+            "percent": "32.63%"
+          },
+          {
+            "id": 205724,
+            "text": "Lilo and Stitch",
+            "correct": false,
+            "count": "24,092",
+            "percent": "15.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-08/1/6",
+        "game_link": "/us/game/2019-03-08/1",
+        "correct_answers": 80662,
+        "incorrect_answers": 74827,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87520,
+        "text": "Who was NOT British Prime Minister during WWII?",
+        "question_number": 7,
+        "eliminated": "32,947",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "55,028",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 205742,
+            "text": "Neville Chamberlain",
+            "correct": false,
+            "count": "11,133",
+            "percent": "13.09%"
+          },
+          {
+            "id": 205748,
+            "text": "Stanley Baldwin",
+            "correct": true,
+            "count": "55,028",
+            "percent": "64.71%"
+          },
+          {
+            "id": 205754,
+            "text": "Winston Churchill",
+            "correct": false,
+            "count": "18,874",
+            "percent": "22.2%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-08/1/7",
+        "game_link": "/us/game/2019-03-08/1",
+        "correct_answers": 55028,
+        "incorrect_answers": 30007,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87534,
+        "text": "In Monopoly, which is NOT a way a player in jail can get out?",
+        "question_number": 8,
+        "eliminated": "26,970",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "31,843",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 205765,
+            "text": "Roll doubles",
+            "correct": false,
+            "count": "10,130",
+            "percent": "17.68%"
+          },
+          {
+            "id": 205767,
+            "text": "Draw a card",
+            "correct": true,
+            "count": "31,843",
+            "percent": "55.58%"
+          },
+          {
+            "id": 205769,
+            "text": "Pay a fine",
+            "correct": false,
+            "count": "15,322",
+            "percent": "26.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-08/1/8",
+        "game_link": "/us/game/2019-03-08/1",
+        "correct_answers": 31843,
+        "incorrect_answers": 25452,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87550,
+        "text": "Which of these animals is an equine?",
+        "question_number": 9,
+        "eliminated": "23,877",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "12,500",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 205791,
+            "text": "Kiang",
+            "correct": true,
+            "count": "12,500",
+            "percent": "34.89%"
+          },
+          {
+            "id": 205793,
+            "text": "Kob",
+            "correct": false,
+            "count": "4,099",
+            "percent": "11.44%"
+          },
+          {
+            "id": 205796,
+            "text": "Eland",
+            "correct": false,
+            "count": "19,228",
+            "percent": "53.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-08/1/9",
+        "game_link": "/us/game/2019-03-08/1",
+        "correct_answers": 12500,
+        "incorrect_answers": 23327,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87566,
+        "text": "Which of these is an example of a synecdoche?",
+        "question_number": 10,
+        "eliminated": "12,590",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "3,743",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 205813,
+            "text": "Iâm only human.",
+            "correct": false,
+            "count": "2,902",
+            "percent": "18.16%"
+          },
+          {
+            "id": 205817,
+            "text": "Single and looking!",
+            "correct": false,
+            "count": "9,331",
+            "percent": "58.41%"
+          },
+          {
+            "id": 205822,
+            "text": "Paper or plastic?",
+            "correct": true,
+            "count": "3,743",
+            "percent": "23.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-08/1/10",
+        "game_link": "/us/game/2019-03-08/1",
+        "correct_answers": 3743,
+        "incorrect_answers": 12233,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87582,
+        "text": "Pastafarian prayers end in a word believed to be from what language of origin?",
+        "question_number": 11,
+        "eliminated": "5,389",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "1,671",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 205837,
+            "text": "Italian",
+            "correct": false,
+            "count": "1,810",
+            "percent": "25.98%"
+          },
+          {
+            "id": 205839,
+            "text": "Japanese",
+            "correct": false,
+            "count": "3,485",
+            "percent": "50.03%"
+          },
+          {
+            "id": 205843,
+            "text": "Mandarin",
+            "correct": true,
+            "count": "1,671",
+            "percent": "23.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-08/1/11",
+        "game_link": "/us/game/2019-03-08/1",
+        "correct_answers": 1671,
+        "incorrect_answers": 5295,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 87598,
+        "text": "Corsi and Fenwick are specific types of statistics found in what sport?",
+        "question_number": 12,
+        "eliminated": "1,917",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "488",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 205860,
+            "text": "Ice hockey",
+            "correct": true,
+            "count": "488",
+            "percent": "20.47%"
+          },
+          {
+            "id": 205868,
+            "text": "Equestrian",
+            "correct": false,
+            "count": "720",
+            "percent": "30.2%"
+          },
+          {
+            "id": 205876,
+            "text": "Cricket",
+            "correct": false,
+            "count": "1,176",
+            "percent": "49.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-08/1/12",
+        "game_link": "/us/game/2019-03-08/1",
+        "correct_answers": 488,
+        "incorrect_answers": 1896,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 84973,
+    "show_id": 9951,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-03-09T02:30:00Z",
+    "direct_link": "/us/game/2019-03-08/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "80.76"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "81.35"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "82.63"
+        },
+        {
+          "number": "6,590",
+          "amount": "0.12",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.11754891551645685,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-03-08/2/1",
+        "question_number": 1,
+        "text": "Afternoon Break",
+        "answer": [
+          "CATNAP"
+        ],
+        "initial_letters": [
+          "C"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "P"
+        ],
+        "game_link": "/us/game/2019-03-08/2",
+        "eliminated": 11965,
+        "advancing": 134007,
+        "correct_answers": 134007,
+        "incorrect_answers": 11965
+      },
+      {
+        "direct_link": "/us/game/2019-03-08/2/2",
+        "question_number": 2,
+        "text": "Soap Opera Cliche",
+        "answer": [
+          "EVIL",
+          "TWIN"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "N"
+        ],
+        "game_link": "/us/game/2019-03-08/2",
+        "eliminated": 43993,
+        "advancing": 90464,
+        "correct_answers": 90464,
+        "incorrect_answers": 43993
+      },
+      {
+        "direct_link": "/us/game/2019-03-08/2/3",
+        "question_number": 3,
+        "text": "Nice Light",
+        "answer": [
+          "CHANDELIER"
+        ],
+        "initial_letters": [
+          "C"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "D"
+        ],
+        "game_link": "/us/game/2019-03-08/2",
+        "eliminated": 6895,
+        "advancing": 85169,
+        "correct_answers": 85169,
+        "incorrect_answers": 6895
+      },
+      {
+        "direct_link": "/us/game/2019-03-08/2/4",
+        "question_number": 4,
+        "text": "Low Cut Shoes",
+        "answer": [
+          "MARY",
+          "JANES"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "J"
+        ],
+        "game_link": "/us/game/2019-03-08/2",
+        "eliminated": 36320,
+        "advancing": 49094,
+        "correct_answers": 49094,
+        "incorrect_answers": 36320
+      },
+      {
+        "direct_link": "/us/game/2019-03-08/2/5",
+        "question_number": 5,
+        "text": "At The Billiards Hall",
+        "answer": [
+          "POOL",
+          "CUE",
+          "CHALK"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "U"
+        ],
+        "game_link": "/us/game/2019-03-08/2",
+        "eliminated": 17053,
+        "advancing": 34188,
+        "correct_answers": 34188,
+        "incorrect_answers": 17053
+      },
+      {
+        "direct_link": "/us/game/2019-03-08/2/6",
+        "question_number": 6,
+        "text": "Barbecue Classic",
+        "answer": [
+          "BABY",
+          "BACK",
+          "RIBS"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "K",
+          "R"
+        ],
+        "game_link": "/us/game/2019-03-08/2",
+        "eliminated": 3994,
+        "advancing": 31671,
+        "correct_answers": 31671,
+        "incorrect_answers": 3994
+      },
+      {
+        "direct_link": "/us/game/2019-03-08/2/7",
+        "question_number": 7,
+        "text": "Party Game",
+        "answer": [
+          "SCATTERGORIES"
+        ],
+        "initial_letters": [
+          "G"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "O"
+        ],
+        "game_link": "/us/game/2019-03-08/2",
+        "eliminated": 6785,
+        "advancing": 25401,
+        "correct_answers": 25401,
+        "incorrect_answers": 6785
+      },
+      {
+        "direct_link": "/us/game/2019-03-08/2/8",
+        "question_number": 8,
+        "text": "Unusual Pet",
+        "answer": [
+          "POTBELLIED",
+          "PIG"
+        ],
+        "initial_letters": [
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "T"
+        ],
+        "game_link": "/us/game/2019-03-08/2",
+        "eliminated": 9409,
+        "advancing": 16856,
+        "correct_answers": 16856,
+        "incorrect_answers": 9409
+      },
+      {
+        "direct_link": "/us/game/2019-03-08/2/9",
+        "question_number": 9,
+        "text": "Spelled-Out Abbreviation",
+        "answer": [
+          "IF",
+          "I",
+          "RECALL",
+          "CORRECTLY"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "R"
+        ],
+        "game_link": "/us/game/2019-03-08/2",
+        "eliminated": 11172,
+        "advancing": 7696,
+        "correct_answers": 7696,
+        "incorrect_answers": 11172
+      },
+      {
+        "direct_link": "/us/game/2019-03-08/2/10",
+        "question_number": 10,
+        "text": "Playground Game",
+        "answer": [
+          "DOUBLE",
+          "DUTCH",
+          "JUMP",
+          "ROPE"
+        ],
+        "initial_letters": [
+          " ",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "O"
+        ],
+        "game_link": "/us/game/2019-03-08/2",
+        "eliminated": 3510,
+        "advancing": 6593,
+        "correct_answers": 6593,
+        "incorrect_answers": 3510
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

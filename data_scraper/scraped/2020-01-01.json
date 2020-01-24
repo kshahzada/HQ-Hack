@@ -1,0 +1,1661 @@
+[
+  {
+    "id": 142750,
+    "show_id": 13305,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2020-01-02T01:00:00Z",
+    "direct_link": "/us/game/2020-01-01/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,086",
+      "currency": "$",
+      "average_prize": "0.48"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 160816,
+        "text": "What bowl game is nicknamed the âGranddaddy of Them Allâ?",
+        "question_number": 1,
+        "eliminated": "-4,021",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "40,330",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315680,
+            "text": "Orange Bowl",
+            "correct": false,
+            "count": "2,014",
+            "percent": "5.9%"
+          },
+          {
+            "id": 315681,
+            "text": "Rose Bowl",
+            "correct": true,
+            "count": "31,893",
+            "percent": "93.38%"
+          },
+          {
+            "id": 315682,
+            "text": "Cheetos Bowl",
+            "correct": false,
+            "count": "248",
+            "percent": "0.73%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/1/1",
+        "game_link": "/us/game/2020-01-01/1",
+        "correct_answers": 31893,
+        "incorrect_answers": 2262,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160818,
+        "text": "Who is the only NCAA player to have 30 passing and 20 rushing TDs in a regular season?",
+        "question_number": 2,
+        "eliminated": "1,578",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "38,827",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315683,
+            "text": "Johnny Manziel",
+            "correct": false,
+            "count": "9,325",
+            "percent": "27.94%"
+          },
+          {
+            "id": 315684,
+            "text": "Peyton Manning",
+            "correct": false,
+            "count": "8,665",
+            "percent": "25.96%"
+          },
+          {
+            "id": 315685,
+            "text": "Lamar Jackson",
+            "correct": true,
+            "count": "15,385",
+            "percent": "46.1%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/1/2",
+        "game_link": "/us/game/2020-01-01/1",
+        "correct_answers": 15385,
+        "incorrect_answers": 17990,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160820,
+        "text": "Which of these is the title of an actual bowl game?",
+        "question_number": 3,
+        "eliminated": "1,072",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "37,874",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315686,
+            "text": "Boys Are Back In Bowl",
+            "correct": false,
+            "count": "1,005",
+            "percent": "3.05%"
+          },
+          {
+            "id": 315687,
+            "text": "Bobâs Big Bowl",
+            "correct": false,
+            "count": "3,162",
+            "percent": "9.61%"
+          },
+          {
+            "id": 315688,
+            "text": "TaxSlayer Gator Bowl",
+            "correct": true,
+            "count": "28,746",
+            "percent": "87.34%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/1/3",
+        "game_link": "/us/game/2020-01-01/1",
+        "correct_answers": 28746,
+        "incorrect_answers": 4167,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160822,
+        "text": "What conference features an annual game known as âThe Worldâs Largest Outdoor Cocktail Partyâ?",
+        "question_number": 4,
+        "eliminated": "2,433",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "35,481",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315689,
+            "text": "ACC",
+            "correct": false,
+            "count": "3,849",
+            "percent": "11.87%"
+          },
+          {
+            "id": 315690,
+            "text": "Big 12",
+            "correct": false,
+            "count": "4,088",
+            "percent": "12.61%"
+          },
+          {
+            "id": 315691,
+            "text": "SEC",
+            "correct": true,
+            "count": "24,478",
+            "percent": "75.51%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/1/4",
+        "game_link": "/us/game/2020-01-01/1",
+        "correct_answers": 24478,
+        "incorrect_answers": 7937,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160824,
+        "text": "Which team has won the Commander-in-Chiefâs trophy the greatest number of times?",
+        "question_number": 5,
+        "eliminated": "6,397",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "29,224",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315692,
+            "text": "Navy",
+            "correct": false,
+            "count": "12,342",
+            "percent": "39.77%"
+          },
+          {
+            "id": 315693,
+            "text": "Army",
+            "correct": false,
+            "count": "16,224",
+            "percent": "52.28%"
+          },
+          {
+            "id": 315694,
+            "text": "Air Force",
+            "correct": true,
+            "count": "2,465",
+            "percent": "7.94%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/1/5",
+        "game_link": "/us/game/2020-01-01/1",
+        "correct_answers": 2465,
+        "incorrect_answers": 28566,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160826,
+        "text": "Which of these schools is in the top three all-time in FBS wins?",
+        "question_number": 6,
+        "eliminated": "6,320",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "23,745",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315695,
+            "text": "Texas",
+            "correct": true,
+            "count": "5,185",
+            "percent": "19.9%"
+          },
+          {
+            "id": 315696,
+            "text": "Nebraska",
+            "correct": false,
+            "count": "7,181",
+            "percent": "27.57%"
+          },
+          {
+            "id": 315697,
+            "text": "Alabama",
+            "correct": false,
+            "count": "13,683",
+            "percent": "52.53%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/1/6",
+        "game_link": "/us/game/2020-01-01/1",
+        "correct_answers": 5185,
+        "incorrect_answers": 20864,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160828,
+        "text": "Which of these annual rivalry games is NOT typically played at a neutral site?",
+        "question_number": 7,
+        "eliminated": "5,792",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "19,051",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315698,
+            "text": "Bayou Classic",
+            "correct": false,
+            "count": "4,239",
+            "percent": "19.2%"
+          },
+          {
+            "id": 315699,
+            "text": "Iron Bowl",
+            "correct": true,
+            "count": "8,925",
+            "percent": "40.42%"
+          },
+          {
+            "id": 315700,
+            "text": "Red River Shootout",
+            "correct": false,
+            "count": "8,915",
+            "percent": "40.38%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/1/7",
+        "game_link": "/us/game/2020-01-01/1",
+        "correct_answers": 8925,
+        "incorrect_answers": 13154,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 7,
+          "players_left": 16476,
+          "players_left_formatted": "16,476",
+          "num_winners": 3230,
+          "num_winners_formatted": "3,230",
+          "prize": 124.0,
+          "prize_formatted": "124 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160830,
+        "text": "What position was played by this yearâs only non-quarterback Heisman finalist?",
+        "question_number": 8,
+        "eliminated": "3,620",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "15,086",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315701,
+            "text": "Wide receiver",
+            "correct": false,
+            "count": "1,710",
+            "percent": "11.59%"
+          },
+          {
+            "id": 315702,
+            "text": "Defensive end",
+            "correct": true,
+            "count": "9,065",
+            "percent": "61.42%"
+          },
+          {
+            "id": 315703,
+            "text": "Running back",
+            "correct": false,
+            "count": "3,984",
+            "percent": "26.99%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/1/8",
+        "game_link": "/us/game/2020-01-01/1",
+        "correct_answers": 9065,
+        "incorrect_answers": 5694,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160832,
+        "text": "Which of these teams is NOT tied for the most College Football Playoff appearances?",
+        "question_number": 9,
+        "eliminated": "2,550",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "12,935",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315704,
+            "text": "Alabama",
+            "correct": false,
+            "count": "1,470",
+            "percent": "10.91%"
+          },
+          {
+            "id": 315705,
+            "text": "Oklahoma",
+            "correct": true,
+            "count": "6,900",
+            "percent": "51.22%"
+          },
+          {
+            "id": 315706,
+            "text": "Clemson",
+            "correct": false,
+            "count": "5,100",
+            "percent": "37.86%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/1/9",
+        "game_link": "/us/game/2020-01-01/1",
+        "correct_answers": 6900,
+        "incorrect_answers": 6570,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160834,
+        "text": "What video game system once presented the Rose Bowl?",
+        "question_number": 10,
+        "eliminated": "2,897",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "10,769",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315707,
+            "text": "Nintendo",
+            "correct": false,
+            "count": "2,197",
+            "percent": "18.2%"
+          },
+          {
+            "id": 315708,
+            "text": "Playstation",
+            "correct": true,
+            "count": "4,353",
+            "percent": "36.06%"
+          },
+          {
+            "id": 315709,
+            "text": "XBOX",
+            "correct": false,
+            "count": "5,520",
+            "percent": "45.73%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/1/10",
+        "game_link": "/us/game/2020-01-01/1",
+        "correct_answers": 4353,
+        "incorrect_answers": 7717,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160836,
+        "text": "What was the last school to have two consecutive Heisman winners before Oklahoma's recent streak?",
+        "question_number": 11,
+        "eliminated": "7,629",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,179",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315710,
+            "text": "Miami",
+            "correct": false,
+            "count": "4,257",
+            "percent": "41.16%"
+          },
+          {
+            "id": 315711,
+            "text": "Florida State",
+            "correct": false,
+            "count": "1,906",
+            "percent": "18.43%"
+          },
+          {
+            "id": 315712,
+            "text": "USC",
+            "correct": true,
+            "count": "4,179",
+            "percent": "40.41%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/1/11",
+        "game_link": "/us/game/2020-01-01/1",
+        "correct_answers": 4179,
+        "incorrect_answers": 6163,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 5251,
+          "players_left_formatted": "5,251",
+          "num_winners": 1659,
+          "num_winners_formatted": "1,659",
+          "prize": 359.0,
+          "prize_formatted": "359 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160838,
+        "text": "Last year, what school tied USC for the most first round NFL draft picks of all time?",
+        "question_number": 12,
+        "eliminated": "2,006",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "3,904",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315713,
+            "text": "Notre Dame",
+            "correct": false,
+            "count": "517",
+            "percent": "10.01%"
+          },
+          {
+            "id": 315714,
+            "text": "Ohio State",
+            "correct": true,
+            "count": "3,904",
+            "percent": "75.61%"
+          },
+          {
+            "id": 315715,
+            "text": "Clemson",
+            "correct": false,
+            "count": "742",
+            "percent": "14.37%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/1/12",
+        "game_link": "/us/game/2020-01-01/1",
+        "correct_answers": 3904,
+        "incorrect_answers": 1259,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160840,
+        "text": "Which of these players finished top three in Heisman voting three times?",
+        "question_number": 13,
+        "eliminated": "3,406",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,496",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315716,
+            "text": "Tim Tebow",
+            "correct": false,
+            "count": "1,278",
+            "percent": "26.93%"
+          },
+          {
+            "id": 315717,
+            "text": "Archie Griffin",
+            "correct": false,
+            "count": "1,972",
+            "percent": "41.55%"
+          },
+          {
+            "id": 315718,
+            "text": "Herschel Walker",
+            "correct": true,
+            "count": "1,496",
+            "percent": "31.52%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/1/13",
+        "game_link": "/us/game/2020-01-01/1",
+        "correct_answers": 1496,
+        "incorrect_answers": 3250,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160842,
+        "text": "Which college football team has the most all-time wins while still being sub-.500?",
+        "question_number": 14,
+        "eliminated": "1,998",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,241",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315719,
+            "text": "Army",
+            "correct": false,
+            "count": "655",
+            "percent": "15.96%"
+          },
+          {
+            "id": 315720,
+            "text": "Rutgers",
+            "correct": true,
+            "count": "2,241",
+            "percent": "54.61%"
+          },
+          {
+            "id": 315721,
+            "text": "Harvard",
+            "correct": false,
+            "count": "1,208",
+            "percent": "29.43%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/1/14",
+        "game_link": "/us/game/2020-01-01/1",
+        "correct_answers": 2241,
+        "incorrect_answers": 1863,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160844,
+        "text": "At the end of Cal-Stanfordâs âThe Play,â what instrument does the runner knock out of a manâs hand?",
+        "question_number": 15,
+        "eliminated": "1,737",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,086",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315722,
+            "text": "Trombone",
+            "correct": true,
+            "count": "2,086",
+            "percent": "56.79%"
+          },
+          {
+            "id": 315723,
+            "text": "Tuba",
+            "correct": false,
+            "count": "1,307",
+            "percent": "35.58%"
+          },
+          {
+            "id": 315724,
+            "text": "Trumpet",
+            "correct": false,
+            "count": "280",
+            "percent": "7.62%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/1/15",
+        "game_link": "/us/game/2020-01-01/1",
+        "correct_answers": 2086,
+        "incorrect_answers": 1587,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2463,
+        "game_id": 142750,
+        "question": "Who will be our next National Champion?",
+        "results": [
+          {
+            "id": 14282,
+            "display_count": "24",
+            "vote_count": 3226,
+            "text": "Clemson"
+          },
+          {
+            "id": 14281,
+            "display_count": "61",
+            "vote_count": 8097,
+            "text": "LSU"
+          },
+          {
+            "id": 14283,
+            "display_count": "15",
+            "vote_count": 1966,
+            "text": "Toss up"
+          }
+        ],
+        "created_at": "2020-01-02T01:11:42Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 7,
+        "players_left": 16476,
+        "players_left_formatted": "16,476",
+        "num_winners": 3230,
+        "num_winners_formatted": "3,230",
+        "prize": 124.0,
+        "prize_formatted": "124 coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 11,
+        "players_left": 5251,
+        "players_left_formatted": "5,251",
+        "num_winners": 1659,
+        "num_winners_formatted": "1,659",
+        "prize": 359.0,
+        "prize_formatted": "359 coins",
+        "currency": "coins"
+      }
+    ],
+    "total_checkpoint_prize": "0.00",
+    "total_checkpoint_winners": "4,889",
+    "smallest_checkpoint_prize": "124 coins",
+    "largest_checkpoint_prize": "359 coins",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 142768,
+    "show_id": 13314,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2020-01-02T02:00:00Z",
+    "direct_link": "/us/game/2020-01-01/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "141",
+      "currency": "$",
+      "average_prize": "7.09"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      null,
+      {
+        "id": 160846,
+        "text": "According to the old saying, âpractice makesâ what?",
+        "question_number": 2,
+        "eliminated": "851",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "92,753",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315725,
+            "text": "Perfect",
+            "correct": true,
+            "count": "82,406",
+            "percent": "99.39%"
+          },
+          {
+            "id": 315726,
+            "text": "Mediocre",
+            "correct": false,
+            "count": "290",
+            "percent": "0.35%"
+          },
+          {
+            "id": 315727,
+            "text": "Allen Iverson angry",
+            "correct": false,
+            "count": "219",
+            "percent": "0.26%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/2/2",
+        "game_link": "/us/game/2020-01-01/2",
+        "correct_answers": 82406,
+        "incorrect_answers": 509,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160848,
+        "text": "Which of these plants is known for climbing up walls?",
+        "question_number": 3,
+        "eliminated": "1,668",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "91,103",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315728,
+            "text": "Ivy",
+            "correct": true,
+            "count": "82,441",
+            "percent": "98.75%"
+          },
+          {
+            "id": 315729,
+            "text": "Oak trees",
+            "correct": false,
+            "count": "622",
+            "percent": "0.75%"
+          },
+          {
+            "id": 315730,
+            "text": "Dandelions",
+            "correct": false,
+            "count": "422",
+            "percent": "0.51%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/2/3",
+        "game_link": "/us/game/2020-01-01/2",
+        "correct_answers": 82441,
+        "incorrect_answers": 1044,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160850,
+        "text": "Which of these phrases describes typical modern car engines?",
+        "question_number": 4,
+        "eliminated": "3,214",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "87,920",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315731,
+            "text": "Internal combustion",
+            "correct": true,
+            "count": "79,811",
+            "percent": "96.25%"
+          },
+          {
+            "id": 315732,
+            "text": "Informal production",
+            "correct": false,
+            "count": "972",
+            "percent": "1.17%"
+          },
+          {
+            "id": 315733,
+            "text": "External construction",
+            "correct": false,
+            "count": "2,137",
+            "percent": "2.58%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/2/4",
+        "game_link": "/us/game/2020-01-01/2",
+        "correct_answers": 79811,
+        "incorrect_answers": 3109,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160852,
+        "text": "Which is the worldâs most widely spoken language by native speakers?",
+        "question_number": 5,
+        "eliminated": "13,844",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "74,233",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315734,
+            "text": "Spanish",
+            "correct": false,
+            "count": "29,118",
+            "percent": "35.56%"
+          },
+          {
+            "id": 315735,
+            "text": "Mandarin",
+            "correct": true,
+            "count": "42,391",
+            "percent": "51.77%"
+          },
+          {
+            "id": 315736,
+            "text": "Arabic",
+            "correct": false,
+            "count": "10,376",
+            "percent": "12.67%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/2/5",
+        "game_link": "/us/game/2020-01-01/2",
+        "correct_answers": 42391,
+        "incorrect_answers": 39494,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160854,
+        "text": "The film âHidden Figuresâ celebrates the overlooked contributions of women to what organization?",
+        "question_number": 6,
+        "eliminated": "5,295",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "70,508",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315737,
+            "text": "The U.S. Senate",
+            "correct": false,
+            "count": "3,085",
+            "percent": "4.34%"
+          },
+          {
+            "id": 315738,
+            "text": "NASA",
+            "correct": true,
+            "count": "65,999",
+            "percent": "92.92%"
+          },
+          {
+            "id": 315739,
+            "text": "Major League Baseball",
+            "correct": false,
+            "count": "1,946",
+            "percent": "2.74%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/2/6",
+        "game_link": "/us/game/2020-01-01/2",
+        "correct_answers": 65999,
+        "incorrect_answers": 5031,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 6,
+          "players_left": 60945,
+          "players_left_formatted": "60,945",
+          "num_winners": 10252,
+          "num_winners_formatted": "10,252",
+          "prize": 54.0,
+          "prize_formatted": "54 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160856,
+        "text": "Which US state lies on the Gulf of Mexico?",
+        "question_number": 7,
+        "eliminated": "14,119",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "56,080",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315740,
+            "text": "Georgia",
+            "correct": false,
+            "count": "2,395",
+            "percent": "4.11%"
+          },
+          {
+            "id": 315741,
+            "text": "Louisiana",
+            "correct": true,
+            "count": "50,666",
+            "percent": "86.92%"
+          },
+          {
+            "id": 315742,
+            "text": "California",
+            "correct": false,
+            "count": "5,232",
+            "percent": "8.98%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/2/7",
+        "game_link": "/us/game/2020-01-01/2",
+        "correct_answers": 50666,
+        "incorrect_answers": 7627,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160858,
+        "text": "Which property in the US edition of Monopoly is an avenue?",
+        "question_number": 8,
+        "eliminated": "23,374",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "34,065",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315743,
+            "text": "Marvin",
+            "correct": false,
+            "count": "9,774",
+            "percent": "18.09%"
+          },
+          {
+            "id": 315744,
+            "text": "Ventnor",
+            "correct": true,
+            "count": "22,260",
+            "percent": "41.2%"
+          },
+          {
+            "id": 315745,
+            "text": "St. James",
+            "correct": false,
+            "count": "22,001",
+            "percent": "40.72%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/2/8",
+        "game_link": "/us/game/2020-01-01/2",
+        "correct_answers": 22260,
+        "incorrect_answers": 31775,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160860,
+        "text": "Which of these âlandsâ is landlocked?",
+        "question_number": 9,
+        "eliminated": "2,918",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "37,667",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315746,
+            "text": "Switzerland",
+            "correct": true,
+            "count": "35,161",
+            "percent": "90.58%"
+          },
+          {
+            "id": 315747,
+            "text": "Ireland",
+            "correct": false,
+            "count": "1,441",
+            "percent": "3.71%"
+          },
+          {
+            "id": 315748,
+            "text": "Thailand",
+            "correct": false,
+            "count": "2,215",
+            "percent": "5.71%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/2/9",
+        "game_link": "/us/game/2020-01-01/2",
+        "correct_answers": 35161,
+        "incorrect_answers": 3656,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160862,
+        "text": "Which of these Coen Brothers movies is entering its fourth season as a TV show on FX?",
+        "question_number": 10,
+        "eliminated": "4,262",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "34,314",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315749,
+            "text": "The Big Lebowski",
+            "correct": false,
+            "count": "1,874",
+            "percent": "5.04%"
+          },
+          {
+            "id": 315750,
+            "text": "Raising Arizona",
+            "correct": false,
+            "count": "4,351",
+            "percent": "11.7%"
+          },
+          {
+            "id": 315751,
+            "text": "Fargo",
+            "correct": true,
+            "count": "30,970",
+            "percent": "83.26%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/2/10",
+        "game_link": "/us/game/2020-01-01/2",
+        "correct_answers": 30970,
+        "incorrect_answers": 6225,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160864,
+        "text": "Which of these main characters from a classic war novel has the highest rank?",
+        "question_number": 11,
+        "eliminated": "27,369",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "8,626",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315752,
+            "text": "Billy Pilgrim",
+            "correct": false,
+            "count": "5,090",
+            "percent": "15.01%"
+          },
+          {
+            "id": 315753,
+            "text": "John Yossarian",
+            "correct": true,
+            "count": "8,626",
+            "percent": "25.43%"
+          },
+          {
+            "id": 315754,
+            "text": "Frederic Henry",
+            "correct": false,
+            "count": "20,206",
+            "percent": "59.57%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/2/11",
+        "game_link": "/us/game/2020-01-01/2",
+        "correct_answers": 8626,
+        "incorrect_answers": 25296,
+        "savage": true,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 13828,
+          "players_left_formatted": "13,828",
+          "num_winners": 4195,
+          "num_winners_formatted": "4,195",
+          "prize": 580.0,
+          "prize_formatted": "580 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160866,
+        "text": "What type of baseball pitch does this sign typically indicate?",
+        "question_number": 12,
+        "eliminated": "7,051",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "9,974",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315755,
+            "text": "Fastball",
+            "correct": false,
+            "count": "2,130",
+            "percent": "15.68%"
+          },
+          {
+            "id": 315756,
+            "text": "Curveball",
+            "correct": true,
+            "count": "9,974",
+            "percent": "73.43%"
+          },
+          {
+            "id": 315757,
+            "text": "Slider",
+            "correct": false,
+            "count": "1,479",
+            "percent": "10.89%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/2/12",
+        "game_link": "/us/game/2020-01-01/2",
+        "correct_answers": 9974,
+        "incorrect_answers": 3609,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160868,
+        "text": "Which of these people has NOT been jury president at the Cannes Film Festival?",
+        "question_number": 13,
+        "eliminated": "7,921",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "3,793",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315758,
+            "text": "Orson Welles",
+            "correct": true,
+            "count": "3,793",
+            "percent": "33.04%"
+          },
+          {
+            "id": 315759,
+            "text": "Clint Eastwood",
+            "correct": false,
+            "count": "5,623",
+            "percent": "48.99%"
+          },
+          {
+            "id": 315760,
+            "text": "Sean Penn",
+            "correct": false,
+            "count": "2,063",
+            "percent": "17.97%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/2/13",
+        "game_link": "/us/game/2020-01-01/2",
+        "correct_answers": 3793,
+        "incorrect_answers": 7686,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160870,
+        "text": "Why were female athletes not allowed to run more than 200 meters after the 1928 Olympics?",
+        "question_number": 14,
+        "eliminated": "3,064",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "5,259",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315761,
+            "text": "Not enough judges",
+            "correct": false,
+            "count": "1,030",
+            "percent": "12.82%"
+          },
+          {
+            "id": 315762,
+            "text": "Not enough medals",
+            "correct": false,
+            "count": "1,745",
+            "percent": "21.72%"
+          },
+          {
+            "id": 315763,
+            "text": "It was âtoo tiringâ",
+            "correct": true,
+            "count": "5,259",
+            "percent": "65.46%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/2/14",
+        "game_link": "/us/game/2020-01-01/2",
+        "correct_answers": 5259,
+        "incorrect_answers": 2775,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160872,
+        "text": "The first home pay-per-view boxing match featured which boxer?",
+        "question_number": 15,
+        "eliminated": "4,280",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,875",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315764,
+            "text": "Joe Frazier",
+            "correct": false,
+            "count": "1,387",
+            "percent": "19.5%"
+          },
+          {
+            "id": 315765,
+            "text": "Muhammad Ali",
+            "correct": false,
+            "count": "2,849",
+            "percent": "40.06%"
+          },
+          {
+            "id": 315766,
+            "text": "Floyd Patterson",
+            "correct": true,
+            "count": "2,875",
+            "percent": "40.43%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/2/15",
+        "game_link": "/us/game/2020-01-01/2",
+        "correct_answers": 2875,
+        "incorrect_answers": 4236,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160874,
+        "text": "Which of these works was originally performed as a one act play?",
+        "question_number": 16,
+        "eliminated": "3,425",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "2,072",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315767,
+            "text": "A View From The Bridge",
+            "correct": true,
+            "count": "2,072",
+            "percent": "38.34%"
+          },
+          {
+            "id": 315768,
+            "text": "Hamilton",
+            "correct": false,
+            "count": "1,868",
+            "percent": "34.57%"
+          },
+          {
+            "id": 315769,
+            "text": "Hamlet",
+            "correct": false,
+            "count": "1,464",
+            "percent": "27.09%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/2/16",
+        "game_link": "/us/game/2020-01-01/2",
+        "correct_answers": 2072,
+        "incorrect_answers": 3332,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160876,
+        "text": "Danny DeVito danced to a track by which act when he appeared on âFriendsâ?",
+        "question_number": 17,
+        "eliminated": "2,120",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "1,567",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315770,
+            "text": "The Rembrandts",
+            "correct": false,
+            "count": "461",
+            "percent": "12.59%"
+          },
+          {
+            "id": 315771,
+            "text": "Soft Cell",
+            "correct": true,
+            "count": "1,567",
+            "percent": "42.79%"
+          },
+          {
+            "id": 315772,
+            "text": "R.E.M.",
+            "correct": false,
+            "count": "1,634",
+            "percent": "44.62%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/2/17",
+        "game_link": "/us/game/2020-01-01/2",
+        "correct_answers": 1567,
+        "incorrect_answers": 2095,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160878,
+        "text": "In Monty Python, which performer's silly walk character is criticized for not being silly enough?",
+        "question_number": 18,
+        "eliminated": "1,192",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "1,155",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315773,
+            "text": "John Cleese",
+            "correct": false,
+            "count": "699",
+            "percent": "30.17%"
+          },
+          {
+            "id": 315774,
+            "text": "Michael Palin",
+            "correct": true,
+            "count": "1,155",
+            "percent": "49.85%"
+          },
+          {
+            "id": 315775,
+            "text": "Eric Idle",
+            "correct": false,
+            "count": "463",
+            "percent": "19.98%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/2/18",
+        "game_link": "/us/game/2020-01-01/2",
+        "correct_answers": 1155,
+        "incorrect_answers": 1162,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 18,
+          "players_left": 725,
+          "players_left_formatted": "725",
+          "num_winners": 430,
+          "num_winners_formatted": "430",
+          "prize": 3000.0,
+          "prize_formatted": "3K coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160880,
+        "text": "Alexander the Great was regarded by some as the son of the Egyptian God of what?",
+        "question_number": 19,
+        "eliminated": "156",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "569",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315776,
+            "text": "Earth",
+            "correct": false,
+            "count": "49",
+            "percent": "6.86%"
+          },
+          {
+            "id": 315777,
+            "text": "Water",
+            "correct": false,
+            "count": "96",
+            "percent": "13.45%"
+          },
+          {
+            "id": 315778,
+            "text": "Sun",
+            "correct": true,
+            "count": "569",
+            "percent": "79.69%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/2/19",
+        "game_link": "/us/game/2020-01-01/2",
+        "correct_answers": 569,
+        "incorrect_answers": 145,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160882,
+        "text": "Which sitcom did NOT costar Joey Lawrence?",
+        "question_number": 20,
+        "eliminated": "90",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "479",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315779,
+            "text": "Blossom",
+            "correct": false,
+            "count": "20",
+            "percent": "3.51%"
+          },
+          {
+            "id": 315780,
+            "text": "Gimme A Break!",
+            "correct": false,
+            "count": "70",
+            "percent": "12.3%"
+          },
+          {
+            "id": 315781,
+            "text": "Punky Brewster",
+            "correct": true,
+            "count": "479",
+            "percent": "84.18%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/2/20",
+        "game_link": "/us/game/2020-01-01/2",
+        "correct_answers": 479,
+        "incorrect_answers": 90,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160884,
+        "text": "In âForrest Gumpâ which performerâs character does NOT say âRun, Forrest, Run!â?",
+        "question_number": 21,
+        "eliminated": "338",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "141",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 315782,
+            "text": "Mykelti Williamson",
+            "correct": false,
+            "count": "315",
+            "percent": "66.32%"
+          },
+          {
+            "id": 315783,
+            "text": "Sally Field",
+            "correct": true,
+            "count": "141",
+            "percent": "29.68%"
+          },
+          {
+            "id": 315784,
+            "text": "Robin Wright",
+            "correct": false,
+            "count": "19",
+            "percent": "4.0%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-01/2/21",
+        "game_link": "/us/game/2020-01-01/2",
+        "correct_answers": 141,
+        "incorrect_answers": 334,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2465,
+        "game_id": 142768,
+        "question": "Which of these 2019 clothing trends has to go?",
+        "results": [
+          {
+            "id": 14294,
+            "display_count": "33",
+            "vote_count": 9792,
+            "text": "Animal print"
+          },
+          {
+            "id": 14293,
+            "display_count": "21",
+            "vote_count": 6204,
+            "text": "Dad sneakers"
+          },
+          {
+            "id": 14295,
+            "display_count": "46",
+            "vote_count": 13661,
+            "text": "Tiny sunglasses"
+          }
+        ],
+        "created_at": "2020-01-02T02:04:06Z"
+      },
+      {
+        "id": 2464,
+        "game_id": 142768,
+        "question": "Which of these resolutions is at the top of your list?",
+        "results": [
+          {
+            "id": 14287,
+            "display_count": "41",
+            "vote_count": 10109,
+            "text": "Get fit"
+          },
+          {
+            "id": 14288,
+            "display_count": "37",
+            "vote_count": 9128,
+            "text": "Save money"
+          },
+          {
+            "id": 14289,
+            "display_count": "22",
+            "vote_count": 5583,
+            "text": "Travel more"
+          }
+        ],
+        "created_at": "2020-01-02T02:03:41Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 6,
+        "players_left": 60945,
+        "players_left_formatted": "60,945",
+        "num_winners": 10252,
+        "num_winners_formatted": "10,252",
+        "prize": 54.0,
+        "prize_formatted": "54 coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 11,
+        "players_left": 13828,
+        "players_left_formatted": "13,828",
+        "num_winners": 4195,
+        "num_winners_formatted": "4,195",
+        "prize": 580.0,
+        "prize_formatted": "580 coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 18,
+        "players_left": 725,
+        "players_left_formatted": "725",
+        "num_winners": 430,
+        "num_winners_formatted": "430",
+        "prize": 3000.0,
+        "prize_formatted": "3K coins",
+        "currency": "coins"
+      }
+    ],
+    "total_checkpoint_prize": "0.00",
+    "total_checkpoint_winners": "14,877",
+    "smallest_checkpoint_prize": "54 coins",
+    "largest_checkpoint_prize": "3K coins",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

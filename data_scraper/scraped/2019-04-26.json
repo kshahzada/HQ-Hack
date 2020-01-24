@@ -1,0 +1,953 @@
+[
+  {
+    "id": 99138,
+    "show_id": 10591,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-04-27T01:10:00Z",
+    "direct_link": "/us/game/2019-04-26/1",
+    "time": " 9:10 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "95",
+      "currency": "$",
+      "average_prize": "52.63"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 102671,
+        "text": "What language does Taylor Swift speak at the start of her brand new video for âME!â?",
+        "question_number": 1,
+        "eliminated": "-15,269",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "307,234",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228479,
+            "text": "French",
+            "correct": true,
+            "count": "265,724",
+            "percent": "91.01%"
+          },
+          {
+            "id": 228480,
+            "text": "Klingon",
+            "correct": false,
+            "count": "13,002",
+            "percent": "4.45%"
+          },
+          {
+            "id": 228481,
+            "text": "Ancient Greek",
+            "correct": false,
+            "count": "13,239",
+            "percent": "4.53%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-26/1/1",
+        "game_link": "/us/game/2019-04-26/1",
+        "correct_answers": 265724,
+        "incorrect_answers": 26241,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102679,
+        "text": "What film series is this famous line from?",
+        "question_number": 2,
+        "eliminated": "24,446",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "283,093",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228491,
+            "text": "The Hunger Games",
+            "correct": false,
+            "count": "90,456",
+            "percent": "42.33%"
+          },
+          {
+            "id": 228492,
+            "text": "Star Wars",
+            "correct": false,
+            "count": "87,606",
+            "percent": "40.99%"
+          },
+          {
+            "id": 228493,
+            "text": "The Lord of the Rings",
+            "correct": true,
+            "count": "35,653",
+            "percent": "16.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-26/1/2",
+        "game_link": "/us/game/2019-04-26/1",
+        "correct_answers": 35653,
+        "incorrect_answers": 178062,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102687,
+        "text": "What fruit are prunes made from?",
+        "question_number": 3,
+        "eliminated": "1,706",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "287,284",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228503,
+            "text": "Plums",
+            "correct": true,
+            "count": "254,319",
+            "percent": "96.42%"
+          },
+          {
+            "id": 228504,
+            "text": "Persimmons",
+            "correct": false,
+            "count": "5,012",
+            "percent": "1.9%"
+          },
+          {
+            "id": 228506,
+            "text": "Peaches",
+            "correct": false,
+            "count": "4,428",
+            "percent": "1.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-26/1/3",
+        "game_link": "/us/game/2019-04-26/1",
+        "correct_answers": 254319,
+        "incorrect_answers": 9440,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102695,
+        "text": "What word can mean either âa locationâ or âto seeâ?",
+        "question_number": 4,
+        "eliminated": "8,250",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "279,092",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228515,
+            "text": "Spot",
+            "correct": true,
+            "count": "217,548",
+            "percent": "83.12%"
+          },
+          {
+            "id": 228516,
+            "text": "Regard",
+            "correct": false,
+            "count": "8,156",
+            "percent": "3.12%"
+          },
+          {
+            "id": 228517,
+            "text": "Locale",
+            "correct": false,
+            "count": "36,029",
+            "percent": "13.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-26/1/4",
+        "game_link": "/us/game/2019-04-26/1",
+        "correct_answers": 217548,
+        "incorrect_answers": 44185,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102703,
+        "text": "Which rapper does NOT share a verse with the other two in the Usher song âYeah!â?",
+        "question_number": 5,
+        "eliminated": "8,305",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "271,132",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228527,
+            "text": "Ludacris",
+            "correct": false,
+            "count": "27,739",
+            "percent": "10.9%"
+          },
+          {
+            "id": 228528,
+            "text": "Lil Jon",
+            "correct": false,
+            "count": "41,183",
+            "percent": "16.18%"
+          },
+          {
+            "id": 228529,
+            "text": "Diddy",
+            "correct": true,
+            "count": "185,655",
+            "percent": "72.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-26/1/5",
+        "game_link": "/us/game/2019-04-26/1",
+        "correct_answers": 185655,
+        "incorrect_answers": 68922,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102711,
+        "text": "Which of these is part of human anatomy?",
+        "question_number": 6,
+        "eliminated": "13,002",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "258,577",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228539,
+            "text": "Cloaca",
+            "correct": false,
+            "count": "41,796",
+            "percent": "16.62%"
+          },
+          {
+            "id": 228540,
+            "text": "Thorax",
+            "correct": true,
+            "count": "197,152",
+            "percent": "78.41%"
+          },
+          {
+            "id": 228541,
+            "text": "Fluke",
+            "correct": false,
+            "count": "12,481",
+            "percent": "4.96%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-26/1/6",
+        "game_link": "/us/game/2019-04-26/1",
+        "correct_answers": 197152,
+        "incorrect_answers": 54277,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102719,
+        "text": "Which alloy is mostly composed of tin?",
+        "question_number": 7,
+        "eliminated": "104,907",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "154,349",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228551,
+            "text": "Pewter",
+            "correct": true,
+            "count": "133,861",
+            "percent": "55.21%"
+          },
+          {
+            "id": 228552,
+            "text": "Electrum",
+            "correct": false,
+            "count": "16,519",
+            "percent": "6.81%"
+          },
+          {
+            "id": 228553,
+            "text": "Bronze",
+            "correct": false,
+            "count": "92,072",
+            "percent": "37.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-26/1/7",
+        "game_link": "/us/game/2019-04-26/1",
+        "correct_answers": 133861,
+        "incorrect_answers": 108591,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102727,
+        "text": "Which Ivy League university is farthest south?",
+        "question_number": 8,
+        "eliminated": "96,018",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "70,722",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228563,
+            "text": "Princeton",
+            "correct": false,
+            "count": "35,066",
+            "percent": "21.69%"
+          },
+          {
+            "id": 228564,
+            "text": "Columbia",
+            "correct": false,
+            "count": "56,621",
+            "percent": "35.01%"
+          },
+          {
+            "id": 228565,
+            "text": "Penn",
+            "correct": true,
+            "count": "70,018",
+            "percent": "43.3%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-26/1/8",
+        "game_link": "/us/game/2019-04-26/1",
+        "correct_answers": 70018,
+        "incorrect_answers": 91687,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102735,
+        "text": "What classic novelâs author shares their name with the restaurant over the bar on the TV show âCheersâ?",
+        "question_number": 9,
+        "eliminated": "46,262",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "35,129",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228575,
+            "text": "Little Women",
+            "correct": false,
+            "count": "20,944",
+            "percent": "27.14%"
+          },
+          {
+            "id": 228576,
+            "text": "Civil Disobedience",
+            "correct": false,
+            "count": "21,138",
+            "percent": "27.39%"
+          },
+          {
+            "id": 228577,
+            "text": "Moby-Dick",
+            "correct": true,
+            "count": "35,093",
+            "percent": "45.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-26/1/9",
+        "game_link": "/us/game/2019-04-26/1",
+        "correct_answers": 35093,
+        "incorrect_answers": 42082,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102743,
+        "text": "Who was NOT a villain on the 1960s âBatmanâ TV series?",
+        "question_number": 10,
+        "eliminated": "25,408",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "14,664",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228587,
+            "text": "The Pied Piper",
+            "correct": true,
+            "count": "14,662",
+            "percent": "37.13%"
+          },
+          {
+            "id": 228588,
+            "text": "The Bookworm",
+            "correct": false,
+            "count": "14,357",
+            "percent": "36.35%"
+          },
+          {
+            "id": 228589,
+            "text": "The Puzzler",
+            "correct": false,
+            "count": "10,474",
+            "percent": "26.52%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-26/1/10",
+        "game_link": "/us/game/2019-04-26/1",
+        "correct_answers": 14662,
+        "incorrect_answers": 24831,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102751,
+        "text": "Which of these countries is NOT currently considered a Commonwealth realm?",
+        "question_number": 11,
+        "eliminated": "11,936",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "6,475",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228599,
+            "text": "Grenada",
+            "correct": false,
+            "count": "3,249",
+            "percent": "17.86%"
+          },
+          {
+            "id": 228601,
+            "text": "Belize",
+            "correct": false,
+            "count": "8,468",
+            "percent": "46.55%"
+          },
+          {
+            "id": 228603,
+            "text": "Guyana",
+            "correct": true,
+            "count": "6,475",
+            "percent": "35.59%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-26/1/11",
+        "game_link": "/us/game/2019-04-26/1",
+        "correct_answers": 6475,
+        "incorrect_answers": 11717,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102759,
+        "text": "Which of these musicals won the Tony Award for Best Musical most recently?",
+        "question_number": 12,
+        "eliminated": "5,822",
+        "category": "Theater",
+        "category_slug": "theater",
+        "advancing": "2,667",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228611,
+            "text": "My Fair Lady",
+            "correct": false,
+            "count": "1,942",
+            "percent": "23.22%"
+          },
+          {
+            "id": 228612,
+            "text": "The Music Man",
+            "correct": false,
+            "count": "3,754",
+            "percent": "44.89%"
+          },
+          {
+            "id": 228614,
+            "text": "The Sound of Music",
+            "correct": true,
+            "count": "2,667",
+            "percent": "31.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-26/1/12",
+        "game_link": "/us/game/2019-04-26/1",
+        "correct_answers": 2667,
+        "incorrect_answers": 5696,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102767,
+        "text": "The Olympic Games boycotted by dozens of African nations were held where?",
+        "question_number": 13,
+        "eliminated": "2,839",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "868",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228623,
+            "text": "Mexico City",
+            "correct": false,
+            "count": "795",
+            "percent": "21.74%"
+          },
+          {
+            "id": 228625,
+            "text": "Montreal",
+            "correct": true,
+            "count": "868",
+            "percent": "23.74%"
+          },
+          {
+            "id": 228629,
+            "text": "Berlin",
+            "correct": false,
+            "count": "1,994",
+            "percent": "54.53%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-26/1/13",
+        "game_link": "/us/game/2019-04-26/1",
+        "correct_answers": 868,
+        "incorrect_answers": 2789,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102775,
+        "text": "Which of these is a derivative of a substance used to treat psoriasis?",
+        "question_number": 14,
+        "eliminated": "1,059",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "256",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228635,
+            "text": "Freon",
+            "correct": false,
+            "count": "119",
+            "percent": "9.09%"
+          },
+          {
+            "id": 228636,
+            "text": "Saccharine",
+            "correct": true,
+            "count": "256",
+            "percent": "19.56%"
+          },
+          {
+            "id": 228638,
+            "text": "Lanolin",
+            "correct": false,
+            "count": "934",
+            "percent": "71.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-26/1/14",
+        "game_link": "/us/game/2019-04-26/1",
+        "correct_answers": 256,
+        "incorrect_answers": 1053,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 102783,
+        "text": "Who composed the musical passage heard at the start of the arcade game âMario Bros.â?",
+        "question_number": 15,
+        "eliminated": "299",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "95",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 228647,
+            "text": "Pyotr Tchaikovsky",
+            "correct": false,
+            "count": "201",
+            "percent": "52.07%"
+          },
+          {
+            "id": 228648,
+            "text": "Wolfgang Amadeus Mozart",
+            "correct": true,
+            "count": "95",
+            "percent": "24.61%"
+          },
+          {
+            "id": 228651,
+            "text": "Ludwig van Beethoven",
+            "correct": false,
+            "count": "90",
+            "percent": "23.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-26/1/15",
+        "game_link": "/us/game/2019-04-26/1",
+        "correct_answers": 95,
+        "incorrect_answers": 291,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 99210,
+    "show_id": 10586,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-04-27T01:30:00Z",
+    "direct_link": "/us/game/2019-04-26/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "11,246",
+      "currency": "$",
+      "average_prize": "0.09"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-04-26/2/1",
+        "question_number": 1,
+        "text": "Game / Bad Business Practice",
+        "answer": [
+          "MONOPOLY"
+        ],
+        "initial_letters": [
+          "M"
+        ],
+        "to_reveal_letters": [
+          "P",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-04-26/2",
+        "eliminated": 3861,
+        "advancing": 85618,
+        "correct_answers": 85618,
+        "incorrect_answers": 3861
+      },
+      {
+        "direct_link": "/us/game/2019-04-26/2/2",
+        "question_number": 2,
+        "text": "On the Farm",
+        "answer": [
+          "BALE",
+          "OF",
+          "HAY"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-04-26/2",
+        "eliminated": 15296,
+        "advancing": 70661,
+        "correct_answers": 70661,
+        "incorrect_answers": 15296
+      },
+      {
+        "direct_link": "/us/game/2019-04-26/2/3",
+        "question_number": 3,
+        "text": "Special Occasion Items",
+        "answer": [
+          "CAP",
+          "&",
+          "GOWN"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "P",
+          "W"
+        ],
+        "game_link": "/us/game/2019-04-26/2",
+        "eliminated": 19908,
+        "advancing": 51510,
+        "correct_answers": 51510,
+        "incorrect_answers": 19908
+      },
+      {
+        "direct_link": "/us/game/2019-04-26/2/4",
+        "question_number": 4,
+        "text": "Unpredictable",
+        "answer": [
+          "LOOSE",
+          "CANNON"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "N"
+        ],
+        "game_link": "/us/game/2019-04-26/2",
+        "eliminated": 5552,
+        "advancing": 46871,
+        "correct_answers": 46871,
+        "incorrect_answers": 5552
+      },
+      {
+        "direct_link": "/us/game/2019-04-26/2/5",
+        "question_number": 5,
+        "text": "Tasty Combo",
+        "answer": [
+          "HUMMUS",
+          "&",
+          "TAHINI"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "M"
+        ],
+        "game_link": "/us/game/2019-04-26/2",
+        "eliminated": 21636,
+        "advancing": 25485,
+        "correct_answers": 25485,
+        "incorrect_answers": 21636
+      },
+      {
+        "direct_link": "/us/game/2019-04-26/2/6",
+        "question_number": 6,
+        "text": "TV Quote",
+        "answer": [
+          "THATâS",
+          "WHAT",
+          "SHE",
+          "SAID"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "S"
+        ],
+        "game_link": "/us/game/2019-04-26/2",
+        "eliminated": 1274,
+        "advancing": 25367,
+        "correct_answers": 25367,
+        "incorrect_answers": 1274
+      },
+      {
+        "direct_link": "/us/game/2019-04-26/2/7",
+        "question_number": 7,
+        "text": "Looks Into Stuff",
+        "answer": [
+          "PRIVATE",
+          "DETECTIVE"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "V"
+        ],
+        "game_link": "/us/game/2019-04-26/2",
+        "eliminated": 3228,
+        "advancing": 22236,
+        "correct_answers": 22236,
+        "incorrect_answers": 3228
+      },
+      {
+        "direct_link": "/us/game/2019-04-26/2/8",
+        "question_number": 8,
+        "text": "Yummy Treat",
+        "answer": [
+          "FUDGY",
+          "BROWNIE"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-26/2",
+        "eliminated": 7441,
+        "advancing": 15147,
+        "correct_answers": 15147,
+        "incorrect_answers": 7441
+      },
+      {
+        "direct_link": "/us/game/2019-04-26/2/9",
+        "question_number": 9,
+        "text": "Got What It Takes",
+        "answer": [
+          "SKILLS",
+          "TO",
+          "PAY",
+          "THE",
+          "BILLS"
+        ],
+        "initial_letters": [
+          " ",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "K",
+          "L"
+        ],
+        "game_link": "/us/game/2019-04-26/2",
+        "eliminated": 3152,
+        "advancing": 12941,
+        "correct_answers": 12941,
+        "incorrect_answers": 3152
+      },
+      {
+        "direct_link": "/us/game/2019-04-26/2/10",
+        "question_number": 10,
+        "text": "Why Isnât Grandma Paying Attention?",
+        "answer": [
+          "SHEâS",
+          "BORED",
+          "TO",
+          "TEARS"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "R"
+        ],
+        "game_link": "/us/game/2019-04-26/2",
+        "eliminated": 588,
+        "advancing": 12916,
+        "correct_answers": 12916,
+        "incorrect_answers": 588
+      },
+      {
+        "direct_link": "/us/game/2019-04-26/2/11",
+        "question_number": 11,
+        "text": "Keep Looking",
+        "answer": [
+          "LEAVE",
+          "NO",
+          "STONE",
+          "UNTURNED"
+        ],
+        "initial_letters": [
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "V"
+        ],
+        "game_link": "/us/game/2019-04-26/2",
+        "eliminated": 1069,
+        "advancing": 11968,
+        "correct_answers": 11968,
+        "incorrect_answers": 1069
+      },
+      {
+        "direct_link": "/us/game/2019-04-26/2/12",
+        "question_number": 12,
+        "text": "Fancy Degree",
+        "answer": [
+          "DOCTOR",
+          "OF",
+          "PHILOSOPHY"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "I"
+        ],
+        "game_link": "/us/game/2019-04-26/2",
+        "eliminated": 1078,
+        "advancing": 11246,
+        "correct_answers": 11246,
+        "incorrect_answers": 1078
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

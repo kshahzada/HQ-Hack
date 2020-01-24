@@ -1,0 +1,1456 @@
+[
+  {
+    "id": 143343,
+    "show_id": 13421,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "250",
+    "currency": "$",
+    "start_time": "2020-01-19T05:50:00Z",
+    "direct_link": "/us/game/2020-01-19/1",
+    "time": "12:50 am",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,229",
+      "currency": "$",
+      "average_prize": "0.11"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      null,
+      {
+        "id": 161692,
+        "text": "What beauty supply is this?",
+        "question_number": 2,
+        "eliminated": "958",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "44,097",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316994,
+            "text": "Lip stamp",
+            "correct": false,
+            "count": "182",
+            "percent": "0.56%"
+          },
+          {
+            "id": 316995,
+            "text": "Eyelash curler",
+            "correct": true,
+            "count": "32,038",
+            "percent": "98.55%"
+          },
+          {
+            "id": 316996,
+            "text": "Brow stencil",
+            "correct": false,
+            "count": "290",
+            "percent": "0.89%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/1/2",
+        "game_link": "/us/game/2020-01-19/1",
+        "correct_answers": 32038,
+        "incorrect_answers": 472,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161694,
+        "text": "What chart-topping single did this man release?",
+        "question_number": 3,
+        "eliminated": "2,874",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "41,233",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 316997,
+            "text": "Say You Wonât Let Go",
+            "correct": false,
+            "count": "5,330",
+            "percent": "16.41%"
+          },
+          {
+            "id": 316998,
+            "text": "Shape of You",
+            "correct": false,
+            "count": "3,192",
+            "percent": "9.83%"
+          },
+          {
+            "id": 316999,
+            "text": "What Do You Mean?",
+            "correct": true,
+            "count": "23,953",
+            "percent": "73.76%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/1/3",
+        "game_link": "/us/game/2020-01-19/1",
+        "correct_answers": 23953,
+        "incorrect_answers": 8522,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161696,
+        "text": "Research suggests that which of these animals have âbestâ friends?",
+        "question_number": 4,
+        "eliminated": "5,872",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "35,480",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317000,
+            "text": "Brown bears",
+            "correct": false,
+            "count": "2,169",
+            "percent": "7.19%"
+          },
+          {
+            "id": 317001,
+            "text": "Harbor seals",
+            "correct": false,
+            "count": "9,558",
+            "percent": "31.67%"
+          },
+          {
+            "id": 317002,
+            "text": "Cows",
+            "correct": true,
+            "count": "18,449",
+            "percent": "61.14%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/1/4",
+        "game_link": "/us/game/2020-01-19/1",
+        "correct_answers": 18449,
+        "incorrect_answers": 11727,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161698,
+        "text": "What is this human characterâs name?",
+        "question_number": 5,
+        "eliminated": "2,837",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "32,938",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317003,
+            "text": "Jareth the Goblin King",
+            "correct": true,
+            "count": "24,315",
+            "percent": "87.37%"
+          },
+          {
+            "id": 317004,
+            "text": "Reggie, Duke of Trolls",
+            "correct": false,
+            "count": "2,209",
+            "percent": "7.94%"
+          },
+          {
+            "id": 317005,
+            "text": "Gary the Elf Emperor",
+            "correct": false,
+            "count": "1,305",
+            "percent": "4.69%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/1/5",
+        "game_link": "/us/game/2020-01-19/1",
+        "correct_answers": 24315,
+        "incorrect_answers": 3514,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161700,
+        "text": "What animal is this?",
+        "question_number": 6,
+        "eliminated": "4,202",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "28,873",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317006,
+            "text": "Chinchilla",
+            "correct": true,
+            "count": "24,408",
+            "percent": "90.51%"
+          },
+          {
+            "id": 317007,
+            "text": "Jackrabbit",
+            "correct": false,
+            "count": "433",
+            "percent": "1.61%"
+          },
+          {
+            "id": 317008,
+            "text": "Guinea pig",
+            "correct": false,
+            "count": "2,126",
+            "percent": "7.88%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/1/6",
+        "game_link": "/us/game/2020-01-19/1",
+        "correct_answers": 24408,
+        "incorrect_answers": 2559,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161702,
+        "text": "A Japanese billionaire just released a Google form to find a woman to join him to do what?",
+        "question_number": 7,
+        "eliminated": "6,730",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "22,427",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317009,
+            "text": "Live underground",
+            "correct": false,
+            "count": "3,094",
+            "percent": "12.85%"
+          },
+          {
+            "id": 317010,
+            "text": "Go to the moon",
+            "correct": true,
+            "count": "18,476",
+            "percent": "76.75%"
+          },
+          {
+            "id": 317011,
+            "text": "Start a new nation",
+            "correct": false,
+            "count": "2,503",
+            "percent": "10.4%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/1/7",
+        "game_link": "/us/game/2020-01-19/1",
+        "correct_answers": 18476,
+        "incorrect_answers": 5597,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161704,
+        "text": "If someone is described as âerinaceous,â it means they what?",
+        "question_number": 8,
+        "eliminated": "12,716",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "10,866",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317012,
+            "text": "Are lying to you",
+            "correct": false,
+            "count": "9,254",
+            "percent": "50.2%"
+          },
+          {
+            "id": 317013,
+            "text": "Have a lot of money",
+            "correct": false,
+            "count": "5,213",
+            "percent": "28.28%"
+          },
+          {
+            "id": 317014,
+            "text": "Look like a hedgehog",
+            "correct": true,
+            "count": "3,967",
+            "percent": "21.52%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/1/8",
+        "game_link": "/us/game/2020-01-19/1",
+        "correct_answers": 3967,
+        "incorrect_answers": 14467,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161706,
+        "text": "A movie once credited Ryan Reynolds by which of these ânamesâ?",
+        "question_number": 9,
+        "eliminated": "4,176",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "9,582",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317015,
+            "text": "Poor Manâs Ben Affleck",
+            "correct": false,
+            "count": "3,906",
+            "percent": "33.42%"
+          },
+          {
+            "id": 317016,
+            "text": "Canadaâs Mistake",
+            "correct": false,
+            "count": "3,276",
+            "percent": "28.03%"
+          },
+          {
+            "id": 317017,
+            "text": "Godâs Perfect Idiot",
+            "correct": true,
+            "count": "4,507",
+            "percent": "38.56%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/1/9",
+        "game_link": "/us/game/2020-01-19/1",
+        "correct_answers": 4507,
+        "incorrect_answers": 7182,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161708,
+        "text": "Which of these films competed for the top prize at the Cannes Film Festival?",
+        "question_number": 10,
+        "eliminated": "3,237",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "7,818",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317018,
+            "text": "Gigli",
+            "correct": false,
+            "count": "3,852",
+            "percent": "40.26%"
+          },
+          {
+            "id": 317019,
+            "text": "Shrek 2",
+            "correct": true,
+            "count": "3,404",
+            "percent": "35.58%"
+          },
+          {
+            "id": 317020,
+            "text": "Norbit",
+            "correct": false,
+            "count": "2,312",
+            "percent": "24.16%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/1/10",
+        "game_link": "/us/game/2020-01-19/1",
+        "correct_answers": 3404,
+        "incorrect_answers": 6164,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161710,
+        "text": "Which substance would an evil laugh pass through most slowly?",
+        "question_number": 11,
+        "eliminated": "7,240",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "2,229",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317021,
+            "text": "Laughing gas",
+            "correct": true,
+            "count": "2,229",
+            "percent": "29.2%"
+          },
+          {
+            "id": 317022,
+            "text": "Drywall",
+            "correct": false,
+            "count": "2,372",
+            "percent": "31.07%"
+          },
+          {
+            "id": 317023,
+            "text": "Coca-Cola",
+            "correct": false,
+            "count": "3,033",
+            "percent": "39.73%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/1/11",
+        "game_link": "/us/game/2020-01-19/1",
+        "correct_answers": 2229,
+        "incorrect_answers": 5405,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 143357,
+    "show_id": 13425,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2020-01-20T02:00:00Z",
+    "direct_link": "/us/game/2020-01-19/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "116",
+      "currency": "$",
+      "average_prize": "8.62"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 161712,
+        "text": "What color is the circle in Harvey Ballâs original smiley face?",
+        "question_number": 1,
+        "eliminated": "-7,006",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "83,232",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317024,
+            "text": "Yellow",
+            "correct": true,
+            "count": "55,308",
+            "percent": "77.14%"
+          },
+          {
+            "id": 317025,
+            "text": "Purple",
+            "correct": false,
+            "count": "6,435",
+            "percent": "8.98%"
+          },
+          {
+            "id": 317026,
+            "text": "Slate gray",
+            "correct": false,
+            "count": "9,954",
+            "percent": "13.88%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/1",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 55308,
+        "incorrect_answers": 16389,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161714,
+        "text": "Studies indicate that singing has what effect on the body?",
+        "question_number": 2,
+        "eliminated": "879",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "82,470",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317027,
+            "text": "Lowering blood pressure",
+            "correct": true,
+            "count": "69,517",
+            "percent": "96.04%"
+          },
+          {
+            "id": 317028,
+            "text": "Unexplained hair growth",
+            "correct": false,
+            "count": "2,289",
+            "percent": "3.16%"
+          },
+          {
+            "id": 317029,
+            "text": "Sudden weight gain",
+            "correct": false,
+            "count": "574",
+            "percent": "0.79%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/2",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 69517,
+        "incorrect_answers": 2863,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161716,
+        "text": "CaffÃ¨ sospeso, or the act of buying an extra coffee for someone, is literally translated as what?",
+        "question_number": 3,
+        "eliminated": "6,272",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "76,218",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317030,
+            "text": "Suspended coffee",
+            "correct": true,
+            "count": "7,551",
+            "percent": "11.05%"
+          },
+          {
+            "id": 317031,
+            "text": "Surprise coffee",
+            "correct": false,
+            "count": "40,857",
+            "percent": "59.79%"
+          },
+          {
+            "id": 317032,
+            "text": "Spontaneous Coffee",
+            "correct": false,
+            "count": "19,931",
+            "percent": "29.16%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/3",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 7551,
+        "incorrect_answers": 60788,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161718,
+        "text": "Hugging has been proven to release what hormone?",
+        "question_number": 4,
+        "eliminated": "5,343",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "71,189",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317033,
+            "text": "Insulin",
+            "correct": false,
+            "count": "2,328",
+            "percent": "3.49%"
+          },
+          {
+            "id": 317034,
+            "text": "Melatonin",
+            "correct": false,
+            "count": "18,295",
+            "percent": "27.4%"
+          },
+          {
+            "id": 317035,
+            "text": "Oxytocin",
+            "correct": true,
+            "count": "46,159",
+            "percent": "69.12%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/4",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 46159,
+        "incorrect_answers": 20623,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161720,
+        "text": "Which former president is known for his ongoing work in building houses for the poor?",
+        "question_number": 5,
+        "eliminated": "3,362",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "68,025",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317036,
+            "text": "Jimmy Carter",
+            "correct": true,
+            "count": "59,512",
+            "percent": "92.81%"
+          },
+          {
+            "id": 317037,
+            "text": "Bill Clinton",
+            "correct": false,
+            "count": "2,464",
+            "percent": "3.84%"
+          },
+          {
+            "id": 317038,
+            "text": "George W. Bush",
+            "correct": false,
+            "count": "2,148",
+            "percent": "3.35%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/5",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 59512,
+        "incorrect_answers": 4612,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161722,
+        "text": "Which of these animals is known to leave gifts for people who feed it?",
+        "question_number": 6,
+        "eliminated": "13,231",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "54,955",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317039,
+            "text": "Raccoon",
+            "correct": false,
+            "count": "14,026",
+            "percent": "22.35%"
+          },
+          {
+            "id": 317040,
+            "text": "Crow",
+            "correct": true,
+            "count": "40,870",
+            "percent": "65.14%"
+          },
+          {
+            "id": 317041,
+            "text": "Fox",
+            "correct": false,
+            "count": "7,849",
+            "percent": "12.51%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/6",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 40870,
+        "incorrect_answers": 21875,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 6,
+          "players_left": 44387,
+          "players_left_formatted": "44,387",
+          "num_winners": 11505,
+          "num_winners_formatted": "11,505",
+          "prize": 98.0,
+          "prize_formatted": "98 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 161724,
+        "text": "After a request from a blind fan, Mister Rogers often announced when he did what?",
+        "question_number": 7,
+        "eliminated": "17,899",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "36,993",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317042,
+            "text": "Took off his sweater",
+            "correct": false,
+            "count": "10,313",
+            "percent": "25.54%"
+          },
+          {
+            "id": 317043,
+            "text": "Fed his fish",
+            "correct": true,
+            "count": "26,022",
+            "percent": "64.45%"
+          },
+          {
+            "id": 317044,
+            "text": "Closed the door",
+            "correct": false,
+            "count": "4,039",
+            "percent": "10.0%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/7",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 26022,
+        "incorrect_answers": 14352,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161726,
+        "text": "Which Beatle was the child of candy-makers?",
+        "question_number": 8,
+        "eliminated": "11,028",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "27,199",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317045,
+            "text": "Ringo",
+            "correct": true,
+            "count": "14,957",
+            "percent": "43.73%"
+          },
+          {
+            "id": 317046,
+            "text": "John",
+            "correct": false,
+            "count": "4,099",
+            "percent": "11.98%"
+          },
+          {
+            "id": 317047,
+            "text": "George",
+            "correct": false,
+            "count": "15,149",
+            "percent": "44.29%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/8",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 14957,
+        "incorrect_answers": 19248,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161728,
+        "text": "US zoos now frequently pair dogs with what animal to help them relax?",
+        "question_number": 9,
+        "eliminated": "6,184",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "22,910",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317048,
+            "text": "Cheetahs",
+            "correct": true,
+            "count": "13,022",
+            "percent": "49.71%"
+          },
+          {
+            "id": 317049,
+            "text": "Gorillas",
+            "correct": false,
+            "count": "10,569",
+            "percent": "40.34%"
+          },
+          {
+            "id": 317050,
+            "text": "Penguins",
+            "correct": false,
+            "count": "2,607",
+            "percent": "9.95%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/9",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 13022,
+        "incorrect_answers": 13176,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161730,
+        "text": "Ben Cohen of Ben and Jerryâs famously dealt with what personal issue?",
+        "question_number": 10,
+        "eliminated": "7,324",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "17,023",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317051,
+            "text": "Inability to smell",
+            "correct": true,
+            "count": "5,971",
+            "percent": "26.84%"
+          },
+          {
+            "id": 317052,
+            "text": "Lactose intolerance",
+            "correct": false,
+            "count": "13,552",
+            "percent": "60.92%"
+          },
+          {
+            "id": 317053,
+            "text": "OCD",
+            "correct": false,
+            "count": "2,721",
+            "percent": "12.23%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/10",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 5971,
+        "incorrect_answers": 16273,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161732,
+        "text": "Quentin Tarantino said in an interview that he owes his career to what show?",
+        "question_number": 11,
+        "eliminated": "6,319",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "13,211",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317054,
+            "text": "Golden Girls",
+            "correct": true,
+            "count": "13,211",
+            "percent": "73.33%"
+          },
+          {
+            "id": 317055,
+            "text": "Hill Street Blues",
+            "correct": false,
+            "count": "2,487",
+            "percent": "13.8%"
+          },
+          {
+            "id": 317056,
+            "text": "Miami Vice",
+            "correct": false,
+            "count": "2,318",
+            "percent": "12.87%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/11",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 13211,
+        "incorrect_answers": 4805,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 7475,
+          "players_left_formatted": "7,475",
+          "num_winners": 7311,
+          "num_winners_formatted": "7,311",
+          "prize": 349.0,
+          "prize_formatted": "349 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 161734,
+        "text": "What celebrityâs charity sends monthly books to enrolled children from birth until age five?",
+        "question_number": 12,
+        "eliminated": "8,179",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "5,608",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317057,
+            "text": "Oprah Winfrey",
+            "correct": false,
+            "count": "886",
+            "percent": "12.13%"
+          },
+          {
+            "id": 317058,
+            "text": "Elton John",
+            "correct": false,
+            "count": "812",
+            "percent": "11.11%"
+          },
+          {
+            "id": 317059,
+            "text": "Dolly Parton",
+            "correct": true,
+            "count": "5,608",
+            "percent": "76.76%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/12",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 5608,
+        "incorrect_answers": 1698,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161736,
+        "text": "Pharrell Williamsâ song âHappyâ was on the soundtrack for a film featuring which characters?",
+        "question_number": 13,
+        "eliminated": "849",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "5,879",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317060,
+            "text": "Minions",
+            "correct": true,
+            "count": "5,879",
+            "percent": "88.65%"
+          },
+          {
+            "id": 317061,
+            "text": "Legos",
+            "correct": false,
+            "count": "374",
+            "percent": "5.64%"
+          },
+          {
+            "id": 317062,
+            "text": "Sentient toys",
+            "correct": false,
+            "count": "379",
+            "percent": "5.71%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/13",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 5879,
+        "incorrect_answers": 753,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161738,
+        "text": "By definition, a âmenschâ is someone with what?",
+        "question_number": 14,
+        "eliminated": "1,007",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "5,461",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317063,
+            "text": "Wealth",
+            "correct": false,
+            "count": "409",
+            "percent": "6.36%"
+          },
+          {
+            "id": 317064,
+            "text": "Good looks",
+            "correct": false,
+            "count": "565",
+            "percent": "8.78%"
+          },
+          {
+            "id": 317065,
+            "text": "Integrity",
+            "correct": true,
+            "count": "5,461",
+            "percent": "84.86%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/14",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 5461,
+        "incorrect_answers": 974,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161740,
+        "text": "What does IHOP include in their omelettes?",
+        "question_number": 15,
+        "eliminated": "1,208",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "4,964",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317066,
+            "text": "Bacon fat",
+            "correct": false,
+            "count": "719",
+            "percent": "11.73%"
+          },
+          {
+            "id": 317067,
+            "text": "Pancake batter",
+            "correct": true,
+            "count": "4,964",
+            "percent": "80.97%"
+          },
+          {
+            "id": 317068,
+            "text": "Almond milk",
+            "correct": false,
+            "count": "448",
+            "percent": "7.31%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/15",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 4964,
+        "incorrect_answers": 1167,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161742,
+        "text": "Helen Keller dedicated her autobiography to the co-founder of what company?",
+        "question_number": 16,
+        "eliminated": "3,818",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "1,995",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317069,
+            "text": "Abercrombie & Fitch",
+            "correct": false,
+            "count": "1,018",
+            "percent": "17.93%"
+          },
+          {
+            "id": 317070,
+            "text": "Barnes & Noble",
+            "correct": false,
+            "count": "2,664",
+            "percent": "46.93%"
+          },
+          {
+            "id": 317071,
+            "text": "AT&T",
+            "correct": true,
+            "count": "1,995",
+            "percent": "35.14%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/16",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 1995,
+        "incorrect_answers": 3682,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161744,
+        "text": "On the set of âThe Princess Bride,â how did Andre the Giant help keep Robin Wright warm?",
+        "question_number": 17,
+        "eliminated": "1,829",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,936",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317072,
+            "text": "He knitted blankets",
+            "correct": false,
+            "count": "499",
+            "percent": "11.2%"
+          },
+          {
+            "id": 317073,
+            "text": "Gave her bear hugs",
+            "correct": false,
+            "count": "1,020",
+            "percent": "22.9%"
+          },
+          {
+            "id": 317074,
+            "text": "Put his hand on her head",
+            "correct": true,
+            "count": "2,936",
+            "percent": "65.9%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/17",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 2936,
+        "incorrect_answers": 1519,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161746,
+        "text": "A country with what on their flag receives 20,000 tulips each year as a gift from the Netherlands?",
+        "question_number": 18,
+        "eliminated": "1,817",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "2,469",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317075,
+            "text": "Maple leaf",
+            "correct": true,
+            "count": "2,469",
+            "percent": "59.71%"
+          },
+          {
+            "id": 317076,
+            "text": "Star",
+            "correct": false,
+            "count": "647",
+            "percent": "15.65%"
+          },
+          {
+            "id": 317077,
+            "text": "Red cross",
+            "correct": false,
+            "count": "1,019",
+            "percent": "24.64%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/18",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 2469,
+        "incorrect_answers": 1666,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 18,
+          "players_left": 2018,
+          "players_left_formatted": "2,018",
+          "num_winners": 451,
+          "num_winners_formatted": "451",
+          "prize": 649.0,
+          "prize_formatted": "649 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 161748,
+        "text": "Which type of laughter requires an open mouth?",
+        "question_number": 19,
+        "eliminated": "1,427",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "591",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317078,
+            "text": "Belly laughter",
+            "correct": true,
+            "count": "591",
+            "percent": "29.54%"
+          },
+          {
+            "id": 317079,
+            "text": "Pigeon laughter",
+            "correct": false,
+            "count": "964",
+            "percent": "48.18%"
+          },
+          {
+            "id": 317080,
+            "text": "Snorting",
+            "correct": false,
+            "count": "446",
+            "percent": "22.29%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/19",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 591,
+        "incorrect_answers": 1410,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161750,
+        "text": "In âLOTR: The Return of the King,â who utters the iconic line, âFor Frodoâ?",
+        "question_number": 20,
+        "eliminated": "213",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "378",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317081,
+            "text": "Sam",
+            "correct": false,
+            "count": "163",
+            "percent": "28.15%"
+          },
+          {
+            "id": 317082,
+            "text": "Aragorn",
+            "correct": true,
+            "count": "378",
+            "percent": "65.28%"
+          },
+          {
+            "id": 317083,
+            "text": "Gandalf",
+            "correct": false,
+            "count": "38",
+            "percent": "6.56%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/20",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 378,
+        "incorrect_answers": 201,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 161752,
+        "text": "Which inspirational movie ended up costing the least for the rights to the original story it was based on?",
+        "question_number": 21,
+        "eliminated": "262",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "116",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 317084,
+            "text": "Wild",
+            "correct": false,
+            "count": "39",
+            "percent": "10.6%"
+          },
+          {
+            "id": 317085,
+            "text": "The Shawshank Redemption",
+            "correct": true,
+            "count": "116",
+            "percent": "31.52%"
+          },
+          {
+            "id": 317086,
+            "text": "Itâs a Wonderful Life",
+            "correct": false,
+            "count": "213",
+            "percent": "57.88%"
+          }
+        ],
+        "direct_link": "/us/game/2020-01-19/2/21",
+        "game_link": "/us/game/2020-01-19/2",
+        "correct_answers": 116,
+        "incorrect_answers": 252,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2491,
+        "game_id": 143357,
+        "question": "Which of these could you not live without?",
+        "results": [
+          {
+            "id": 14451,
+            "display_count": "25",
+            "vote_count": 9398,
+            "text": "Burgers"
+          },
+          {
+            "id": 14450,
+            "display_count": "22",
+            "vote_count": 8361,
+            "text": "Fries"
+          },
+          {
+            "id": 14449,
+            "display_count": "53",
+            "vote_count": 20350,
+            "text": "Pizza"
+          }
+        ],
+        "created_at": "2020-01-20T02:04:47Z"
+      },
+      {
+        "id": 2489,
+        "game_id": 143357,
+        "question": "Which of these makes you the happiest?",
+        "results": [
+          {
+            "id": 14439,
+            "display_count": "11",
+            "vote_count": 2161,
+            "text": "Dancing"
+          },
+          {
+            "id": 14438,
+            "display_count": "30",
+            "vote_count": 6051,
+            "text": "Dessert"
+          },
+          {
+            "id": 14437,
+            "display_count": "59",
+            "vote_count": 11693,
+            "text": "Puppies"
+          }
+        ],
+        "created_at": "2020-01-20T02:03:05Z"
+      },
+      {
+        "id": 2490,
+        "game_id": 143357,
+        "question": "Which picture sparks the most joy?",
+        "results": [
+          {
+            "id": 14444,
+            "display_count": "41",
+            "vote_count": 12704,
+            "text": "Hamster"
+          },
+          {
+            "id": 14443,
+            "display_count": "29",
+            "vote_count": 8910,
+            "text": "Kid & fish"
+          },
+          {
+            "id": 14445,
+            "display_count": "30",
+            "vote_count": 9084,
+            "text": "Kid w/ water"
+          }
+        ],
+        "created_at": "2020-01-20T02:04:16Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 6,
+        "players_left": 44387,
+        "players_left_formatted": "44,387",
+        "num_winners": 11505,
+        "num_winners_formatted": "11,505",
+        "prize": 98.0,
+        "prize_formatted": "98 coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 11,
+        "players_left": 7475,
+        "players_left_formatted": "7,475",
+        "num_winners": 7311,
+        "num_winners_formatted": "7,311",
+        "prize": 349.0,
+        "prize_formatted": "349 coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 18,
+        "players_left": 2018,
+        "players_left_formatted": "2,018",
+        "num_winners": 451,
+        "num_winners_formatted": "451",
+        "prize": 649.0,
+        "prize_formatted": "649 coins",
+        "currency": "coins"
+      }
+    ],
+    "total_checkpoint_prize": "0.00",
+    "total_checkpoint_winners": "19,267",
+    "smallest_checkpoint_prize": "98 coins",
+    "largest_checkpoint_prize": "649 coins",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

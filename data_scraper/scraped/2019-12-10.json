@@ -1,0 +1,1019 @@
+[
+  {
+    "id": 142036,
+    "show_id": 12436,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-12-11T02:00:00Z",
+    "direct_link": "/us/game/2019-12-10/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "5,415",
+      "currency": "$",
+      "average_prize": "0.18"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 159786,
+        "text": "Who stars in the âMission: Impossibleâ film series?",
+        "question_number": 1,
+        "eliminated": "-8,412",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "93,243",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314135,
+            "text": "Tom Cruise",
+            "correct": true,
+            "count": "79,287",
+            "percent": "97.66%"
+          },
+          {
+            "id": 314136,
+            "text": "Tom Hanks",
+            "correct": false,
+            "count": "1,724",
+            "percent": "2.12%"
+          },
+          {
+            "id": 314137,
+            "text": "Tom Thumb",
+            "correct": false,
+            "count": "172",
+            "percent": "0.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-10/1/1",
+        "game_link": "/us/game/2019-12-10/1",
+        "correct_answers": 79287,
+        "incorrect_answers": 1896,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159788,
+        "text": "How does the US Constitution begin?",
+        "question_number": 2,
+        "eliminated": "1,042",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "92,320",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314138,
+            "text": "Dear Sir or Madam",
+            "correct": false,
+            "count": "343",
+            "percent": "0.42%"
+          },
+          {
+            "id": 314139,
+            "text": "This is the Constitution",
+            "correct": false,
+            "count": "1,689",
+            "percent": "2.05%"
+          },
+          {
+            "id": 314140,
+            "text": "We the People",
+            "correct": true,
+            "count": "80,431",
+            "percent": "97.54%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-10/1/2",
+        "game_link": "/us/game/2019-12-10/1",
+        "correct_answers": 80431,
+        "incorrect_answers": 2032,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159790,
+        "text": "In geometry, where do you find a chord?",
+        "question_number": 3,
+        "eliminated": "6,067",
+        "category": "Math",
+        "category_slug": "math",
+        "advancing": "86,285",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314141,
+            "text": "Triangle",
+            "correct": false,
+            "count": "23,127",
+            "percent": "28.18%"
+          },
+          {
+            "id": 314142,
+            "text": "Circle",
+            "correct": true,
+            "count": "51,043",
+            "percent": "62.2%"
+          },
+          {
+            "id": 314143,
+            "text": "Square",
+            "correct": false,
+            "count": "7,896",
+            "percent": "9.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-10/1/3",
+        "game_link": "/us/game/2019-12-10/1",
+        "correct_answers": 51043,
+        "incorrect_answers": 31023,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159792,
+        "text": "Who recently became Senior VP of Talent Relations at Fox Entertainment?",
+        "question_number": 4,
+        "eliminated": "15,176",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "71,406",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314144,
+            "text": "Lisa Simpson",
+            "correct": true,
+            "count": "21,851",
+            "percent": "28.98%"
+          },
+          {
+            "id": 314145,
+            "text": "Jenny Hart",
+            "correct": false,
+            "count": "40,826",
+            "percent": "54.14%"
+          },
+          {
+            "id": 314146,
+            "text": "Lois Griffin",
+            "correct": false,
+            "count": "12,731",
+            "percent": "16.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-10/1/4",
+        "game_link": "/us/game/2019-12-10/1",
+        "correct_answers": 21851,
+        "incorrect_answers": 53557,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159794,
+        "text": "The hybrid sport âBossaballâ involves what equipment?",
+        "question_number": 5,
+        "eliminated": "9,062",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "63,296",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314147,
+            "text": "Paint-filled balloons",
+            "correct": false,
+            "count": "12,686",
+            "percent": "19.32%"
+          },
+          {
+            "id": 314148,
+            "text": "Water hoses",
+            "correct": false,
+            "count": "7,525",
+            "percent": "11.46%"
+          },
+          {
+            "id": 314149,
+            "text": "Trampolines",
+            "correct": true,
+            "count": "45,445",
+            "percent": "69.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-10/1/5",
+        "game_link": "/us/game/2019-12-10/1",
+        "correct_answers": 45445,
+        "incorrect_answers": 20211,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159796,
+        "text": "Who did NOT record a song called âHelloâ?",
+        "question_number": 6,
+        "eliminated": "12,517",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "51,711",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314150,
+            "text": "Oasis",
+            "correct": false,
+            "count": "11,601",
+            "percent": "19.25%"
+          },
+          {
+            "id": 314151,
+            "text": "Lionel Richie",
+            "correct": false,
+            "count": "2,832",
+            "percent": "4.7%"
+          },
+          {
+            "id": 314152,
+            "text": "Queen",
+            "correct": true,
+            "count": "45,819",
+            "percent": "76.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-10/1/6",
+        "game_link": "/us/game/2019-12-10/1",
+        "correct_answers": 45819,
+        "incorrect_answers": 14433,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159798,
+        "text": "What type of bean is safe to eat raw?",
+        "question_number": 7,
+        "eliminated": "23,107",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "30,499",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314153,
+            "text": "Soy",
+            "correct": false,
+            "count": "16,652",
+            "percent": "32.3%"
+          },
+          {
+            "id": 314154,
+            "text": "Fava",
+            "correct": true,
+            "count": "21,868",
+            "percent": "42.42%"
+          },
+          {
+            "id": 314155,
+            "text": "Kidney",
+            "correct": false,
+            "count": "13,027",
+            "percent": "25.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-10/1/7",
+        "game_link": "/us/game/2019-12-10/1",
+        "correct_answers": 21868,
+        "incorrect_answers": 29679,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159800,
+        "text": "What obsolete job would be performed for a railroad?",
+        "question_number": 8,
+        "eliminated": "16,843",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "17,311",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314156,
+            "text": "Glimmer man",
+            "correct": false,
+            "count": "4,407",
+            "percent": "13.63%"
+          },
+          {
+            "id": 314157,
+            "text": "Gandy dancer",
+            "correct": true,
+            "count": "8,875",
+            "percent": "27.44%"
+          },
+          {
+            "id": 314158,
+            "text": "Breaker boy",
+            "correct": false,
+            "count": "19,061",
+            "percent": "58.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-10/1/8",
+        "game_link": "/us/game/2019-12-10/1",
+        "correct_answers": 8875,
+        "incorrect_answers": 23468,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159802,
+        "text": "What does NOT turn up in a list of the US presidentsâ last names?",
+        "question_number": 9,
+        "eliminated": "4,646",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "15,775",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314159,
+            "text": "Last name of a Beatle",
+            "correct": false,
+            "count": "3,226",
+            "percent": "18.0%"
+          },
+          {
+            "id": 314160,
+            "text": "Ivy League school",
+            "correct": true,
+            "count": "10,733",
+            "percent": "59.87%"
+          },
+          {
+            "id": 314161,
+            "text": "First Lady maiden name",
+            "correct": false,
+            "count": "3,968",
+            "percent": "22.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-10/1/9",
+        "game_link": "/us/game/2019-12-10/1",
+        "correct_answers": 10733,
+        "incorrect_answers": 7194,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159804,
+        "text": "The deepest part of the Mariana Trench has a name similar to what?",
+        "question_number": 10,
+        "eliminated": "2,720",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "14,575",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314162,
+            "text": "Earth's widest telescope",
+            "correct": false,
+            "count": "1,199",
+            "percent": "7.45%"
+          },
+          {
+            "id": 314163,
+            "text": "Moon of Saturn",
+            "correct": false,
+            "count": "4,315",
+            "percent": "26.8%"
+          },
+          {
+            "id": 314164,
+            "text": "Space shuttle",
+            "correct": true,
+            "count": "10,584",
+            "percent": "65.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-10/1/10",
+        "game_link": "/us/game/2019-12-10/1",
+        "correct_answers": 10584,
+        "incorrect_answers": 5514,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159806,
+        "text": "What nucleotide is NOT visible in this animation?",
+        "question_number": 11,
+        "eliminated": "5,652",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "9,844",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314165,
+            "text": "Guanine",
+            "correct": false,
+            "count": "1,795",
+            "percent": "11.93%"
+          },
+          {
+            "id": 314166,
+            "text": "Adenine",
+            "correct": false,
+            "count": "3,404",
+            "percent": "22.63%"
+          },
+          {
+            "id": 314167,
+            "text": "Thymine",
+            "correct": true,
+            "count": "9,844",
+            "percent": "65.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-10/1/11",
+        "game_link": "/us/game/2019-12-10/1",
+        "correct_answers": 9844,
+        "incorrect_answers": 5199,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159808,
+        "text": "What did Ellen Degeneres scare Channing Tatum with on her talk show?",
+        "question_number": 12,
+        "eliminated": "6,790",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "5,687",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314168,
+            "text": "Creepy doll",
+            "correct": true,
+            "count": "5,687",
+            "percent": "47.43%"
+          },
+          {
+            "id": 314169,
+            "text": "Haunted house",
+            "correct": false,
+            "count": "405",
+            "percent": "3.38%"
+          },
+          {
+            "id": 314170,
+            "text": "Person in a box",
+            "correct": false,
+            "count": "5,899",
+            "percent": "49.2%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-10/1/12",
+        "game_link": "/us/game/2019-12-10/1",
+        "correct_answers": 5687,
+        "incorrect_answers": 6304,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159810,
+        "text": "Which is the capital of a US state that has an official state mushroom?",
+        "question_number": 13,
+        "eliminated": "4,371",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "5,604",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314171,
+            "text": "Lansing",
+            "correct": false,
+            "count": "1,351",
+            "percent": "13.84%"
+          },
+          {
+            "id": 314172,
+            "text": "Salem",
+            "correct": true,
+            "count": "5,604",
+            "percent": "57.39%"
+          },
+          {
+            "id": 314173,
+            "text": "Harrisburg",
+            "correct": false,
+            "count": "2,809",
+            "percent": "28.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-10/1/13",
+        "game_link": "/us/game/2019-12-10/1",
+        "correct_answers": 5604,
+        "incorrect_answers": 4160,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159812,
+        "text": "Which of these characters did NOT have a speaking role in âThe Lego Batman Movieâ?",
+        "question_number": 14,
+        "eliminated": "4,698",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "4,033",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314174,
+            "text": "Bane",
+            "correct": false,
+            "count": "920",
+            "percent": "11.03%"
+          },
+          {
+            "id": 314175,
+            "text": "Vicki Vale",
+            "correct": true,
+            "count": "4,033",
+            "percent": "48.36%"
+          },
+          {
+            "id": 314176,
+            "text": "Harley Quinn",
+            "correct": false,
+            "count": "3,386",
+            "percent": "40.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-10/1/14",
+        "game_link": "/us/game/2019-12-10/1",
+        "correct_answers": 4033,
+        "incorrect_answers": 4306,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159814,
+        "text": "The Ford Motor Companyâs most notorious flop was named after what Henry Ford relative?",
+        "question_number": 15,
+        "eliminated": "2,213",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "5,415",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314177,
+            "text": "Son",
+            "correct": true,
+            "count": "5,415",
+            "percent": "72.38%"
+          },
+          {
+            "id": 314178,
+            "text": "Niece",
+            "correct": false,
+            "count": "1,459",
+            "percent": "19.5%"
+          },
+          {
+            "id": 314179,
+            "text": "Wife",
+            "correct": false,
+            "count": "607",
+            "percent": "8.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-10/1/15",
+        "game_link": "/us/game/2019-12-10/1",
+        "correct_answers": 5415,
+        "incorrect_answers": 2066,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2429,
+        "game_id": 142036,
+        "question": "What is the secret ingredient?",
+        "results": [
+          {
+            "id": 14079,
+            "display_count": "41",
+            "vote_count": 11886,
+            "text": "Cinnamon"
+          },
+          {
+            "id": 14077,
+            "display_count": "40",
+            "vote_count": 11676,
+            "text": "Mayo"
+          },
+          {
+            "id": 14078,
+            "display_count": "18",
+            "vote_count": 5308,
+            "text": "Salt"
+          }
+        ],
+        "created_at": "2019-12-11T02:04:14Z"
+      },
+      {
+        "id": 2427,
+        "game_id": 142036,
+        "question": "Which of these is the worst holiday food?",
+        "results": [
+          {
+            "id": 14067,
+            "display_count": "19",
+            "vote_count": 3964,
+            "text": "Candied Yams"
+          },
+          {
+            "id": 14065,
+            "display_count": "64",
+            "vote_count": 13022,
+            "text": "Fruitcake"
+          },
+          {
+            "id": 14066,
+            "display_count": "17",
+            "vote_count": 3499,
+            "text": "Port Wine Cheese"
+          }
+        ],
+        "created_at": "2019-12-11T02:03:05Z"
+      },
+      {
+        "id": 2428,
+        "game_id": 142036,
+        "question": "Which of these weird vintage holiday foods would you eat?",
+        "results": [
+          {
+            "id": 14072,
+            "display_count": "24",
+            "vote_count": 6042,
+            "text": "Deviled Ham"
+          },
+          {
+            "id": 14073,
+            "display_count": "37",
+            "vote_count": 9397,
+            "text": "Potato Ring"
+          },
+          {
+            "id": 14071,
+            "display_count": "39",
+            "vote_count": 10019,
+            "text": "Shrimp Tree"
+          }
+        ],
+        "created_at": "2019-12-11T02:03:44Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 142054,
+    "show_id": 13168,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-12-11T02:30:00Z",
+    "direct_link": "/us/game/2019-12-10/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "863",
+      "currency": "$",
+      "average_prize": "1.16"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-12-10/2/1",
+        "question_number": 1,
+        "text": "Christmas Downtime",
+        "answer": [
+          "YULE",
+          "LOG",
+          "OFF"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"Y\""
+        ],
+        "to_reveal_letters": [
+          "L"
+        ],
+        "game_link": "/us/game/2019-12-10/2",
+        "eliminated": 21881,
+        "advancing": 16578,
+        "correct_answers": 16578,
+        "incorrect_answers": 21881
+      },
+      {
+        "direct_link": "/us/game/2019-12-10/2/2",
+        "question_number": 2,
+        "text": "Dramatic Standup Moment",
+        "answer": [
+          "OPEN",
+          "MIC",
+          "DROP"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"O\""
+        ],
+        "to_reveal_letters": [
+          "C",
+          "M"
+        ],
+        "game_link": "/us/game/2019-12-10/2",
+        "eliminated": 2223,
+        "advancing": 16423,
+        "correct_answers": 16423,
+        "incorrect_answers": 2223
+      },
+      {
+        "direct_link": "/us/game/2019-12-10/2/3",
+        "question_number": 3,
+        "text": "Sleuthing Saint",
+        "answer": [
+          "NANCY",
+          "DREW",
+          "BREES"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2019-12-10/2",
+        "eliminated": 7192,
+        "advancing": 9381,
+        "correct_answers": 9381,
+        "incorrect_answers": 7192
+      },
+      {
+        "direct_link": "/us/game/2019-12-10/2/4",
+        "question_number": 4,
+        "text": "Marvel-ous Podiatrist?",
+        "answer": [
+          "FOOT",
+          "DOCTOR",
+          "STRANGE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "S"
+        ],
+        "game_link": "/us/game/2019-12-10/2",
+        "eliminated": 1937,
+        "advancing": 8273,
+        "correct_answers": 8273,
+        "incorrect_answers": 1937
+      },
+      {
+        "direct_link": "/us/game/2019-12-10/2/5",
+        "question_number": 5,
+        "text": "Trendy Shopping Spot",
+        "answer": [
+          "EXPOSED",
+          "BRICK",
+          "&",
+          "MORTAR"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"&\"",
+          "\"E\""
+        ],
+        "to_reveal_letters": [
+          "S"
+        ],
+        "game_link": "/us/game/2019-12-10/2",
+        "eliminated": 5528,
+        "advancing": 3064,
+        "correct_answers": 3064,
+        "incorrect_answers": 5528
+      },
+      {
+        "direct_link": "/us/game/2019-12-10/2/6",
+        "question_number": 6,
+        "text": "Actor/Scientist",
+        "answer": [
+          "OSCAR",
+          "ISAAC",
+          "NEWTON"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"I\""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2019-12-10/2",
+        "eliminated": 229,
+        "advancing": 3903,
+        "correct_answers": 3903,
+        "incorrect_answers": 229
+      },
+      {
+        "direct_link": "/us/game/2019-12-10/2/7",
+        "question_number": 7,
+        "text": "Decked-Out Santa",
+        "answer": [
+          "SLEIGH",
+          "BELLS",
+          "&",
+          "WHISTLES"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"&\"",
+          "\"S\""
+        ],
+        "to_reveal_letters": [],
+        "game_link": "/us/game/2019-12-10/2",
+        "eliminated": 920,
+        "advancing": 3008,
+        "correct_answers": 3008,
+        "incorrect_answers": 920
+      },
+      {
+        "direct_link": "/us/game/2019-12-10/2/8",
+        "question_number": 8,
+        "text": "Edithâs Getaway",
+        "answer": [
+          "BATH",
+          "HOUSE",
+          "OF",
+          "MIRTH"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"B\""
+        ],
+        "to_reveal_letters": [
+          "H"
+        ],
+        "game_link": "/us/game/2019-12-10/2",
+        "eliminated": 1283,
+        "advancing": 1950,
+        "correct_answers": 1950,
+        "incorrect_answers": 1283
+      },
+      {
+        "direct_link": "/us/game/2019-12-10/2/9",
+        "question_number": 9,
+        "text": "Personalized Wear",
+        "answer": [
+          "HANDWRITTEN",
+          "LETTER",
+          "JACKET"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"H\""
+        ],
+        "to_reveal_letters": [
+          "L"
+        ],
+        "game_link": "/us/game/2019-12-10/2",
+        "eliminated": 1157,
+        "advancing": 1155,
+        "correct_answers": 1155,
+        "incorrect_answers": 1157
+      },
+      {
+        "direct_link": "/us/game/2019-12-10/2/10",
+        "question_number": 10,
+        "text": "Scandalous Strip",
+        "answer": [
+          "ISTHMUS",
+          "OF",
+          "PANAMA",
+          "PAPERS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"I\""
+        ],
+        "to_reveal_letters": [
+          "H"
+        ],
+        "game_link": "/us/game/2019-12-10/2",
+        "eliminated": 423,
+        "advancing": 1183,
+        "correct_answers": 1183,
+        "incorrect_answers": 423
+      },
+      {
+        "direct_link": "/us/game/2019-12-10/2/11",
+        "question_number": 11,
+        "text": "Rhythmic Laundry",
+        "answer": [
+          "DRUM",
+          "MACHINE",
+          "WASH",
+          "ONLY"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "M"
+        ],
+        "game_link": "/us/game/2019-12-10/2",
+        "eliminated": 504,
+        "advancing": 809,
+        "correct_answers": 809,
+        "incorrect_answers": 504
+      },
+      {
+        "direct_link": "/us/game/2019-12-10/2/12",
+        "question_number": 12,
+        "text": "East Meets Ancient West",
+        "answer": [
+          "PLATOâS",
+          "THE",
+          "REPUBLIC",
+          "OF",
+          "CHINA"
+        ],
+        "initial_letters": [
+          "\"â\"",
+          "\" \"",
+          "\"P\""
+        ],
+        "to_reveal_letters": [
+          "L"
+        ],
+        "game_link": "/us/game/2019-12-10/2",
+        "eliminated": 142,
+        "advancing": 863,
+        "correct_answers": 863,
+        "incorrect_answers": 142
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": null
+  }
+]

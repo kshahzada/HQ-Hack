@@ -1,0 +1,1449 @@
+[
+  {
+    "id": 142188,
+    "show_id": 13132,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "250",
+    "currency": "$",
+    "start_time": "2019-12-15T05:40:00Z",
+    "direct_link": "/us/game/2019-12-15/1",
+    "time": "12:40 am",
+    "country": "us",
+    "summary": {
+      "winner_count": "779",
+      "currency": "$",
+      "average_prize": "0.32"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      null,
+      {
+        "id": 159988,
+        "text": "What animal is in this clip?",
+        "question_number": 2,
+        "eliminated": "1,389",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "35,953",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314438,
+            "text": "Goat",
+            "correct": true,
+            "count": "28,231",
+            "percent": "84.54%"
+          },
+          {
+            "id": 314439,
+            "text": "Sheep",
+            "correct": false,
+            "count": "1,638",
+            "percent": "4.91%"
+          },
+          {
+            "id": 314440,
+            "text": "Alpaca",
+            "correct": false,
+            "count": "3,524",
+            "percent": "10.55%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/1/2",
+        "game_link": "/us/game/2019-12-15/1",
+        "correct_answers": 28231,
+        "incorrect_answers": 5162,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159990,
+        "text": "This actor starred in what film franchise?",
+        "question_number": 3,
+        "eliminated": "6,054",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "30,083",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314441,
+            "text": "Harry Potter",
+            "correct": true,
+            "count": "25,558",
+            "percent": "78.68%"
+          },
+          {
+            "id": 314442,
+            "text": "Hunger Games",
+            "correct": false,
+            "count": "4,487",
+            "percent": "13.81%"
+          },
+          {
+            "id": 314443,
+            "text": "Avengers",
+            "correct": false,
+            "count": "2,437",
+            "percent": "7.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/1/3",
+        "game_link": "/us/game/2019-12-15/1",
+        "correct_answers": 25558,
+        "incorrect_answers": 6924,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159992,
+        "text": "What kind of bird is this?",
+        "question_number": 4,
+        "eliminated": "5,940",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "24,715",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314444,
+            "text": "Blue-footed booby",
+            "correct": false,
+            "count": "3,120",
+            "percent": "10.76%"
+          },
+          {
+            "id": 314445,
+            "text": "Snowy egret",
+            "correct": true,
+            "count": "23,472",
+            "percent": "80.96%"
+          },
+          {
+            "id": 314446,
+            "text": "Yellow-bellied sapsucker",
+            "correct": false,
+            "count": "2,401",
+            "percent": "8.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/1/4",
+        "game_link": "/us/game/2019-12-15/1",
+        "correct_answers": 23472,
+        "incorrect_answers": 5521,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159994,
+        "text": "UC Berkeley now teaches classes in what?",
+        "question_number": 5,
+        "eliminated": "5,517",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "20,068",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314447,
+            "text": "Adulting",
+            "correct": true,
+            "count": "18,857",
+            "percent": "75.7%"
+          },
+          {
+            "id": 314448,
+            "text": "Throwing shade",
+            "correct": false,
+            "count": "1,096",
+            "percent": "4.4%"
+          },
+          {
+            "id": 314449,
+            "text": "Tik Tok",
+            "correct": false,
+            "count": "4,957",
+            "percent": "19.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/1/5",
+        "game_link": "/us/game/2019-12-15/1",
+        "correct_answers": 18857,
+        "incorrect_answers": 6053,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159996,
+        "text": "What is the name of this Mario-character clone?",
+        "question_number": 6,
+        "eliminated": "4,868",
+        "category": "",
+        "category_slug": "",
+        "advancing": "16,381",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314450,
+            "text": "Gooigi",
+            "correct": true,
+            "count": "15,261",
+            "percent": "73.5%"
+          },
+          {
+            "id": 314451,
+            "text": "Slimario",
+            "correct": false,
+            "count": "1,505",
+            "percent": "7.25%"
+          },
+          {
+            "id": 314452,
+            "text": "Lu-ooze-igi",
+            "correct": false,
+            "count": "3,997",
+            "percent": "19.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/1/6",
+        "game_link": "/us/game/2019-12-15/1",
+        "correct_answers": 15261,
+        "incorrect_answers": 5502,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159998,
+        "text": "In fashion, a dickey is meant to be tucked into a what?",
+        "question_number": 7,
+        "eliminated": "4,182",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "13,402",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314453,
+            "text": "Fascinator",
+            "correct": false,
+            "count": "2,086",
+            "percent": "12.92%"
+          },
+          {
+            "id": 314454,
+            "text": "Cummerbund",
+            "correct": true,
+            "count": "12,536",
+            "percent": "77.65%"
+          },
+          {
+            "id": 314455,
+            "text": "Stocking",
+            "correct": false,
+            "count": "1,523",
+            "percent": "9.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/1/7",
+        "game_link": "/us/game/2019-12-15/1",
+        "correct_answers": 12536,
+        "incorrect_answers": 3609,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160000,
+        "text": "Which of these animals is a type of shark?",
+        "question_number": 8,
+        "eliminated": "7,701",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "6,858",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314456,
+            "text": "Fringy wooper",
+            "correct": false,
+            "count": "852",
+            "percent": "6.32%"
+          },
+          {
+            "id": 314457,
+            "text": "Tasseled wobbegong",
+            "correct": true,
+            "count": "5,615",
+            "percent": "41.65%"
+          },
+          {
+            "id": 314458,
+            "text": "String wossel",
+            "correct": false,
+            "count": "7,015",
+            "percent": "52.03%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/1/8",
+        "game_link": "/us/game/2019-12-15/1",
+        "correct_answers": 5615,
+        "incorrect_answers": 7867,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160002,
+        "text": "These siblings are performing the music used by what film studio?",
+        "question_number": 9,
+        "eliminated": "580",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "8,750",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314459,
+            "text": "20th Century Fox",
+            "correct": true,
+            "count": "8,492",
+            "percent": "91.8%"
+          },
+          {
+            "id": 314460,
+            "text": "Dreamworks",
+            "correct": false,
+            "count": "459",
+            "percent": "4.96%"
+          },
+          {
+            "id": 314461,
+            "text": "Columbia",
+            "correct": false,
+            "count": "300",
+            "percent": "3.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/1/9",
+        "game_link": "/us/game/2019-12-15/1",
+        "correct_answers": 8492,
+        "incorrect_answers": 759,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160004,
+        "text": "What word might refer to a wad of cash?",
+        "question_number": 10,
+        "eliminated": "6,388",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "2,638",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314462,
+            "text": "Mondukes",
+            "correct": false,
+            "count": "2,118",
+            "percent": "24.61%"
+          },
+          {
+            "id": 314463,
+            "text": "Grovers",
+            "correct": false,
+            "count": "4,557",
+            "percent": "52.96%"
+          },
+          {
+            "id": 314464,
+            "text": "Spondulicks",
+            "correct": true,
+            "count": "1,930",
+            "percent": "22.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/1/10",
+        "game_link": "/us/game/2019-12-15/1",
+        "correct_answers": 1930,
+        "incorrect_answers": 6675,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160006,
+        "text": "The artist who sold a banana duct taped to a wall was famous for what other piece?",
+        "question_number": 11,
+        "eliminated": "2,248",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "3,527",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314465,
+            "text": "18-karat gold toilet",
+            "correct": true,
+            "count": "3,527",
+            "percent": "69.39%"
+          },
+          {
+            "id": 314466,
+            "text": "10-year-old Big Mac",
+            "correct": false,
+            "count": "1,133",
+            "percent": "22.29%"
+          },
+          {
+            "id": 314467,
+            "text": "Missing car",
+            "correct": false,
+            "count": "423",
+            "percent": "8.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/1/11",
+        "game_link": "/us/game/2019-12-15/1",
+        "correct_answers": 3527,
+        "incorrect_answers": 1556,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160008,
+        "text": "Which â80s band started in the same town as The Beatles?",
+        "question_number": 12,
+        "eliminated": "4,200",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "779",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314468,
+            "text": "A Flock of Seagulls",
+            "correct": true,
+            "count": "779",
+            "percent": "16.15%"
+          },
+          {
+            "id": 314469,
+            "text": "Tears for Fears",
+            "correct": false,
+            "count": "1,242",
+            "percent": "25.75%"
+          },
+          {
+            "id": 314470,
+            "text": "Duran Duran",
+            "correct": false,
+            "count": "2,803",
+            "percent": "58.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/1/12",
+        "game_link": "/us/game/2019-12-15/1",
+        "correct_answers": 779,
+        "incorrect_answers": 4045,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 142203,
+    "show_id": 13178,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-12-16T02:00:00Z",
+    "direct_link": "/us/game/2019-12-15/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "187",
+      "currency": "$",
+      "average_prize": "5.35"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "questions": [
+      {
+        "id": 160010,
+        "text": "In the âHarry Potterâ movies, what does Mrs. Weasley traditionally give her children for Christmas?",
+        "question_number": 1,
+        "eliminated": "296",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "97,073",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314471,
+            "text": "Science lectures",
+            "correct": false,
+            "count": "4,982",
+            "percent": "5.33%"
+          },
+          {
+            "id": 314472,
+            "text": "Homemade sweaters",
+            "correct": true,
+            "count": "87,898",
+            "percent": "94.08%"
+          },
+          {
+            "id": 314473,
+            "text": "Star Wars dolls",
+            "correct": false,
+            "count": "545",
+            "percent": "0.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/1",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 87898,
+        "incorrect_answers": 5527,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160012,
+        "text": "Which is a rule for taking care of the animals in âGremlinsâ?",
+        "question_number": 2,
+        "eliminated": "2,590",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "95,097",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314474,
+            "text": "Donât give them an iPad",
+            "correct": false,
+            "count": "299",
+            "percent": "0.32%"
+          },
+          {
+            "id": 314475,
+            "text": "Donât let them drive",
+            "correct": false,
+            "count": "1,539",
+            "percent": "1.67%"
+          },
+          {
+            "id": 314476,
+            "text": "Don't get them wet",
+            "correct": true,
+            "count": "90,312",
+            "percent": "98.01%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/2",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 90312,
+        "incorrect_answers": 1838,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160014,
+        "text": "What does Edward prepare for the Christmas party in âEdward Scissorhandsâ?",
+        "question_number": 3,
+        "eliminated": "5,855",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "89,460",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314477,
+            "text": "Cronuts",
+            "correct": false,
+            "count": "3,449",
+            "percent": "3.84%"
+          },
+          {
+            "id": 314478,
+            "text": "Ice sculpture",
+            "correct": true,
+            "count": "83,724",
+            "percent": "93.22%"
+          },
+          {
+            "id": 314479,
+            "text": "Santa costume",
+            "correct": false,
+            "count": "2,642",
+            "percent": "2.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/3",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 83724,
+        "incorrect_answers": 6091,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160016,
+        "text": "Who is Rockyâs infamous Russian opponent in âRocky IVâ?",
+        "question_number": 4,
+        "eliminated": "6,399",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "83,682",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314480,
+            "text": "Ivan Drago",
+            "correct": true,
+            "count": "81,985",
+            "percent": "94.34%"
+          },
+          {
+            "id": 314481,
+            "text": "Mr. Freeze",
+            "correct": false,
+            "count": "2,919",
+            "percent": "3.36%"
+          },
+          {
+            "id": 314482,
+            "text": "Thanos",
+            "correct": false,
+            "count": "2,004",
+            "percent": "2.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/4",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 81985,
+        "incorrect_answers": 4923,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160018,
+        "text": "When Bridget first meets Mark Darcy in âBridget Jonesâs Diary,â heâs wearing a sweater with what on it?",
+        "question_number": 5,
+        "eliminated": "10,785",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "73,985",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314483,
+            "text": "Her face",
+            "correct": false,
+            "count": "4,043",
+            "percent": "4.95%"
+          },
+          {
+            "id": 314484,
+            "text": "Reindeer",
+            "correct": true,
+            "count": "72,363",
+            "percent": "88.56%"
+          },
+          {
+            "id": 314485,
+            "text": "Profanity",
+            "correct": false,
+            "count": "5,302",
+            "percent": "6.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/5",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 72363,
+        "incorrect_answers": 9345,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160020,
+        "text": "âDie Hardâ is set inside what fictional building?",
+        "question_number": 6,
+        "eliminated": "14,896",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "60,989",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314486,
+            "text": "Nakatomi Plaza",
+            "correct": true,
+            "count": "59,184",
+            "percent": "78.98%"
+          },
+          {
+            "id": 314487,
+            "text": "McClane Tower",
+            "correct": false,
+            "count": "9,872",
+            "percent": "13.17%"
+          },
+          {
+            "id": 314488,
+            "text": "The Gruber Building",
+            "correct": false,
+            "count": "5,875",
+            "percent": "7.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/6",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 59184,
+        "incorrect_answers": 15747,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 6,
+          "players_left": 56695,
+          "players_left_formatted": "56,695",
+          "num_winners": 7526,
+          "num_winners_formatted": "7,526",
+          "prize": 60.0,
+          "prize_formatted": "60 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160022,
+        "text": "Who stars opposite Dan Aykroyd in âTrading Placesâ?",
+        "question_number": 7,
+        "eliminated": "13,115",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "50,106",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314489,
+            "text": "Richard Pryor",
+            "correct": false,
+            "count": "3,437",
+            "percent": "6.13%"
+          },
+          {
+            "id": 314490,
+            "text": "John Belushi",
+            "correct": false,
+            "count": "3,249",
+            "percent": "5.79%"
+          },
+          {
+            "id": 314491,
+            "text": "Eddie Murphy",
+            "correct": true,
+            "count": "49,396",
+            "percent": "88.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/7",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 49396,
+        "incorrect_answers": 6686,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160024,
+        "text": "The actress who played Kevinâs mother in âHome Aloneâ now stars on what show?",
+        "question_number": 8,
+        "eliminated": "7,649",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "44,215",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314492,
+            "text": "Brooklyn Nine-Nine",
+            "correct": false,
+            "count": "2,464",
+            "percent": "4.81%"
+          },
+          {
+            "id": 314493,
+            "text": "Young Sheldon",
+            "correct": false,
+            "count": "5,591",
+            "percent": "10.92%"
+          },
+          {
+            "id": 314494,
+            "text": "Schitt's Creek",
+            "correct": true,
+            "count": "43,150",
+            "percent": "84.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/8",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 43150,
+        "incorrect_answers": 8055,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160026,
+        "text": "What is Vito Corleone doing before he gets shot in âThe Godfatherâ?",
+        "question_number": 9,
+        "eliminated": "7,987",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "39,113",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314495,
+            "text": "Painting",
+            "correct": false,
+            "count": "6,960",
+            "percent": "14.96%"
+          },
+          {
+            "id": 314496,
+            "text": "Playing ping pong",
+            "correct": false,
+            "count": "1,075",
+            "percent": "2.31%"
+          },
+          {
+            "id": 314497,
+            "text": "Buying fruit",
+            "correct": true,
+            "count": "38,491",
+            "percent": "82.73%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/9",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 38491,
+        "incorrect_answers": 8035,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160028,
+        "text": "Who does Damian deliver the most candy canes to in âMean Girlsâ?",
+        "question_number": 10,
+        "eliminated": "15,325",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "26,968",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314498,
+            "text": "Cady Heron",
+            "correct": false,
+            "count": "7,800",
+            "percent": "18.77%"
+          },
+          {
+            "id": 314499,
+            "text": "Glen Coco",
+            "correct": true,
+            "count": "26,153",
+            "percent": "62.93%"
+          },
+          {
+            "id": 314500,
+            "text": "Gretchen Wieners",
+            "correct": false,
+            "count": "7,605",
+            "percent": "18.3%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/10",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 26153,
+        "incorrect_answers": 15405,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160030,
+        "text": "Which Marvel movie was set during Christmas?",
+        "question_number": 11,
+        "eliminated": "4,496",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "29,587",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314501,
+            "text": "Iron Man 3",
+            "correct": true,
+            "count": "29,587",
+            "percent": "87.31%"
+          },
+          {
+            "id": 314502,
+            "text": "Ant-Man and the Wasp",
+            "correct": false,
+            "count": "2,803",
+            "percent": "8.27%"
+          },
+          {
+            "id": 314503,
+            "text": "Avengers: Endgame",
+            "correct": false,
+            "count": "1,499",
+            "percent": "4.42%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/11",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 29587,
+        "incorrect_answers": 4302,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 11,
+          "players_left": 24442,
+          "players_left_formatted": "24,442",
+          "num_winners": 7433,
+          "num_winners_formatted": "7,433",
+          "prize": 169.0,
+          "prize_formatted": "169 coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160032,
+        "text": "In âSerendipity,â John Cusack and Kate Beckinsale meet when they grab the same what?",
+        "question_number": 12,
+        "eliminated": "24,071",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "6,805",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314504,
+            "text": "Pair of gloves",
+            "correct": true,
+            "count": "6,805",
+            "percent": "28.47%"
+          },
+          {
+            "id": 314505,
+            "text": "Used book",
+            "correct": false,
+            "count": "14,941",
+            "percent": "62.51%"
+          },
+          {
+            "id": 314506,
+            "text": "Umbrella",
+            "correct": false,
+            "count": "2,157",
+            "percent": "9.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/12",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 6805,
+        "incorrect_answers": 17098,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160034,
+        "text": "Where does the heroine of âWhile You Were Sleepingâ work?",
+        "question_number": 13,
+        "eliminated": "4,440",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "10,078",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314507,
+            "text": "âLâ Train Station",
+            "correct": true,
+            "count": "10,078",
+            "percent": "69.87%"
+          },
+          {
+            "id": 314508,
+            "text": "Hospital",
+            "correct": false,
+            "count": "1,108",
+            "percent": "7.68%"
+          },
+          {
+            "id": 314509,
+            "text": "Book shop",
+            "correct": false,
+            "count": "3,237",
+            "percent": "22.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/13",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 10078,
+        "incorrect_answers": 4345,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160036,
+        "text": "Tim Burton reportedly told a casting director he was scared of which âBatman Returnsâ actor?",
+        "question_number": 14,
+        "eliminated": "2,708",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "9,835",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314510,
+            "text": "Danny DeVito",
+            "correct": false,
+            "count": "891",
+            "percent": "7.23%"
+          },
+          {
+            "id": 314511,
+            "text": "Christopher Walken",
+            "correct": true,
+            "count": "9,835",
+            "percent": "79.77%"
+          },
+          {
+            "id": 314512,
+            "text": "Michelle Pfeiffer",
+            "correct": false,
+            "count": "1,603",
+            "percent": "13.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/14",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 9835,
+        "incorrect_answers": 2494,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160038,
+        "text": "In 1994âs âLittle Womenâ, who was in the same part that Saorise Ronan plays in the upcoming adaptation?",
+        "question_number": 15,
+        "eliminated": "2,769",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "8,654",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314513,
+            "text": "Winona Ryder",
+            "correct": true,
+            "count": "8,654",
+            "percent": "80.99%"
+          },
+          {
+            "id": 314514,
+            "text": "Claire Danes",
+            "correct": false,
+            "count": "973",
+            "percent": "9.11%"
+          },
+          {
+            "id": 314515,
+            "text": "Kirsten Dunst",
+            "correct": false,
+            "count": "1,058",
+            "percent": "9.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/15",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 8654,
+        "incorrect_answers": 2031,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160040,
+        "text": "The writer behind âLethal Weaponâ wrote what other film that is technically a Christmas movie?",
+        "question_number": 16,
+        "eliminated": "3,924",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "6,329",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314516,
+            "text": "Reindeer Games",
+            "correct": false,
+            "count": "2,249",
+            "percent": "22.27%"
+          },
+          {
+            "id": 314517,
+            "text": "Four Brothers",
+            "correct": false,
+            "count": "1,521",
+            "percent": "15.06%"
+          },
+          {
+            "id": 314518,
+            "text": "Kiss Kiss Bang Bang",
+            "correct": true,
+            "count": "6,329",
+            "percent": "62.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/16",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 6329,
+        "incorrect_answers": 3770,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160042,
+        "text": "Which Halloween motif is NOT mentioned in the lyrics of âThis Is Halloweenâ from âThe Nightmare Before Christmasâ?",
+        "question_number": 17,
+        "eliminated": "7,595",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "1,008",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314519,
+            "text": "Pumpkins",
+            "correct": false,
+            "count": "4,863",
+            "percent": "57.35%"
+          },
+          {
+            "id": 314520,
+            "text": "Spiders",
+            "correct": false,
+            "count": "2,608",
+            "percent": "30.76%"
+          },
+          {
+            "id": 314521,
+            "text": "Ghosts",
+            "correct": true,
+            "count": "1,008",
+            "percent": "11.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/17",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 1008,
+        "incorrect_answers": 7471,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160044,
+        "text": "The actress who played Meg Ryanâs young coworker in âYou've Got Mailâ starred in three romcoms with whom?",
+        "question_number": 18,
+        "eliminated": "4,083",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "1,874",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314522,
+            "text": "Sandra Bullock",
+            "correct": true,
+            "count": "1,874",
+            "percent": "33.27%"
+          },
+          {
+            "id": 314523,
+            "text": "Nicole Kidman",
+            "correct": false,
+            "count": "2,307",
+            "percent": "40.96%"
+          },
+          {
+            "id": 314524,
+            "text": "Reese Witherspoon",
+            "correct": false,
+            "count": "1,451",
+            "percent": "25.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/18",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 1874,
+        "incorrect_answers": 3758,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 18,
+          "players_left": 1164,
+          "players_left_formatted": "1,164",
+          "num_winners": 710,
+          "num_winners_formatted": "710",
+          "prize": 1000.0,
+          "prize_formatted": "1K coins",
+          "currency": "coins"
+        },
+        "media_element": null
+      },
+      {
+        "id": 160046,
+        "text": "In the original script of âWhen Harry Met Sally,â how did the relationship end?",
+        "question_number": 19,
+        "eliminated": "742",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "422",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314525,
+            "text": "Getting married",
+            "correct": false,
+            "count": "415",
+            "percent": "36.06%"
+          },
+          {
+            "id": 314526,
+            "text": "Staying platonic friends",
+            "correct": true,
+            "count": "422",
+            "percent": "36.66%"
+          },
+          {
+            "id": 314527,
+            "text": "Divorce",
+            "correct": false,
+            "count": "314",
+            "percent": "27.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/19",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 422,
+        "incorrect_answers": 729,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160048,
+        "text": "Cameron Diaz said her role in which movie was âmost physicalâ?",
+        "question_number": 20,
+        "eliminated": "164",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "258",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314528,
+            "text": "Charlie's Angels",
+            "correct": false,
+            "count": "48",
+            "percent": "11.46%"
+          },
+          {
+            "id": 314529,
+            "text": "The Mask",
+            "correct": false,
+            "count": "113",
+            "percent": "26.97%"
+          },
+          {
+            "id": 314530,
+            "text": "The Holiday",
+            "correct": true,
+            "count": "258",
+            "percent": "61.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/20",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 258,
+        "incorrect_answers": 161,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 160050,
+        "text": "Which actress recently revealed she provided the voice for a masked figure in âEyes Wide Shutâ?",
+        "question_number": 21,
+        "eliminated": "71",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "187",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 314531,
+            "text": "Cate Blanchett",
+            "correct": true,
+            "count": "187",
+            "percent": "73.91%"
+          },
+          {
+            "id": 314532,
+            "text": "Nicole Kidman",
+            "correct": false,
+            "count": "26",
+            "percent": "10.28%"
+          },
+          {
+            "id": 314533,
+            "text": "Shelley Duvall",
+            "correct": false,
+            "count": "40",
+            "percent": "15.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-12-15/2/21",
+        "game_link": "/us/game/2019-12-15/2",
+        "correct_answers": 187,
+        "incorrect_answers": 66,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2436,
+        "game_id": 142203,
+        "question": "Which of these is a Christmas movie?",
+        "results": [
+          {
+            "id": 14119,
+            "display_count": "56",
+            "vote_count": 19131,
+            "text": "Die Hard"
+          },
+          {
+            "id": 14121,
+            "display_count": "27",
+            "vote_count": 9344,
+            "text": "Gremlins"
+          },
+          {
+            "id": 14120,
+            "display_count": "16",
+            "vote_count": 5520,
+            "text": "Harry Potter"
+          }
+        ],
+        "created_at": "2019-12-16T02:03:56Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 6,
+        "players_left": 56695,
+        "players_left_formatted": "56,695",
+        "num_winners": 7526,
+        "num_winners_formatted": "7,526",
+        "prize": 60.0,
+        "prize_formatted": "60 coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 11,
+        "players_left": 24442,
+        "players_left_formatted": "24,442",
+        "num_winners": 7433,
+        "num_winners_formatted": "7,433",
+        "prize": 169.0,
+        "prize_formatted": "169 coins",
+        "currency": "coins"
+      },
+      {
+        "round_number": 18,
+        "players_left": 1164,
+        "players_left_formatted": "1,164",
+        "num_winners": 710,
+        "num_winners_formatted": "710",
+        "prize": 1000.0,
+        "prize_formatted": "1K coins",
+        "currency": "coins"
+      }
+    ],
+    "total_checkpoint_prize": "0.00",
+    "total_checkpoint_winners": "15,669",
+    "smallest_checkpoint_prize": "60 coins",
+    "largest_checkpoint_prize": "1K coins",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

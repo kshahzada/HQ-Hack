@@ -1,0 +1,1503 @@
+[
+  {
+    "id": 95972,
+    "show_id": 10444,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-04-16T00:00:00Z",
+    "direct_link": "/us/game/2019-04-15/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "762",
+      "currency": "$",
+      "average_prize": "1.31"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "questions": [
+      {
+        "id": 99146,
+        "text": "What name is shared by the three glasses-wearing brothers in âSlap Shotâ?",
+        "question_number": 1,
+        "eliminated": "-2,015",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "97,906",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223191,
+            "text": "Brooks",
+            "correct": false,
+            "count": "19,531",
+            "percent": "20.37%"
+          },
+          {
+            "id": 223193,
+            "text": "Hanson",
+            "correct": true,
+            "count": "70,368",
+            "percent": "73.38%"
+          },
+          {
+            "id": 223195,
+            "text": "Primanti",
+            "correct": false,
+            "count": "5,992",
+            "percent": "6.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/1/1",
+        "game_link": "/us/game/2019-04-15/1",
+        "correct_answers": 70368,
+        "incorrect_answers": 25523,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99162,
+        "text": "Which athlete is NOT among those featured in âSpace Jamâ?",
+        "question_number": 2,
+        "eliminated": "4,440",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "94,726",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223217,
+            "text": "Charles Barkley",
+            "correct": false,
+            "count": "20,319",
+            "percent": "21.55%"
+          },
+          {
+            "id": 223219,
+            "text": "Larry Bird",
+            "correct": false,
+            "count": "15,882",
+            "percent": "16.85%"
+          },
+          {
+            "id": 223222,
+            "text": "Magic Johnson",
+            "correct": true,
+            "count": "58,072",
+            "percent": "61.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/1/2",
+        "game_link": "/us/game/2019-04-15/1",
+        "correct_answers": 58072,
+        "incorrect_answers": 36201,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99177,
+        "text": "In the first âRockyâ movie, what is the result of Rockyâs climactic match against Apollo Creed?",
+        "question_number": 3,
+        "eliminated": "3,767",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "91,336",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223238,
+            "text": "Split decision",
+            "correct": true,
+            "count": "38,759",
+            "percent": "45.34%"
+          },
+          {
+            "id": 223239,
+            "text": "Unanimous decision",
+            "correct": false,
+            "count": "21,672",
+            "percent": "25.35%"
+          },
+          {
+            "id": 223241,
+            "text": "Knockout",
+            "correct": false,
+            "count": "25,062",
+            "percent": "29.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/1/3",
+        "game_link": "/us/game/2019-04-15/1",
+        "correct_answers": 38759,
+        "incorrect_answers": 46734,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99193,
+        "text": "In âRudy,â what team does Dan Ruettiger get his sack against?",
+        "question_number": 4,
+        "eliminated": "3,323",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "88,272",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223262,
+            "text": "Purdue",
+            "correct": false,
+            "count": "22,444",
+            "percent": "26.28%"
+          },
+          {
+            "id": 223265,
+            "text": "Michigan State",
+            "correct": false,
+            "count": "22,602",
+            "percent": "26.47%"
+          },
+          {
+            "id": 223269,
+            "text": "Georgia Tech",
+            "correct": true,
+            "count": "40,353",
+            "percent": "47.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/1/4",
+        "game_link": "/us/game/2019-04-15/1",
+        "correct_answers": 40353,
+        "incorrect_answers": 45046,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99209,
+        "text": "The championship-winning team in âA League of Their Ownâ represents what state?",
+        "question_number": 5,
+        "eliminated": "9,028",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "79,449",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223286,
+            "text": "Michigan",
+            "correct": false,
+            "count": "7,360",
+            "percent": "8.9%"
+          },
+          {
+            "id": 223287,
+            "text": "Wisconsin",
+            "correct": true,
+            "count": "39,265",
+            "percent": "47.49%"
+          },
+          {
+            "id": 223290,
+            "text": "Illinois",
+            "correct": false,
+            "count": "36,054",
+            "percent": "43.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/1/5",
+        "game_link": "/us/game/2019-04-15/1",
+        "correct_answers": 39265,
+        "incorrect_answers": 43414,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99226,
+        "text": "In the film version of âFriday Night Lights,â in what city do the Panthers play home games?",
+        "question_number": 6,
+        "eliminated": "4,780",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "76,114",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223311,
+            "text": "Dillon",
+            "correct": false,
+            "count": "11,744",
+            "percent": "15.57%"
+          },
+          {
+            "id": 223314,
+            "text": "Plano",
+            "correct": false,
+            "count": "13,476",
+            "percent": "17.86%"
+          },
+          {
+            "id": 223319,
+            "text": "Odessa",
+            "correct": true,
+            "count": "50,213",
+            "percent": "66.57%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/1/6",
+        "game_link": "/us/game/2019-04-15/1",
+        "correct_answers": 50213,
+        "incorrect_answers": 25220,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99243,
+        "text": "The villainous owner in âMajor Leagueâ tries to tank so she can move the team to what city?",
+        "question_number": 7,
+        "eliminated": "22,412",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "54,062",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223336,
+            "text": "Los Angeles",
+            "correct": false,
+            "count": "15,186",
+            "percent": "21.14%"
+          },
+          {
+            "id": 223340,
+            "text": "Miami",
+            "correct": true,
+            "count": "52,950",
+            "percent": "73.72%"
+          },
+          {
+            "id": 223343,
+            "text": "Washington DC",
+            "correct": false,
+            "count": "3,693",
+            "percent": "5.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/1/7",
+        "game_link": "/us/game/2019-04-15/1",
+        "correct_answers": 52950,
+        "incorrect_answers": 18879,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99257,
+        "text": "What team does NOT employ either Quincy or Monica in âLove and Basketballâ?",
+        "question_number": 8,
+        "eliminated": "40,299",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "15,185",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223358,
+            "text": "Barcelona",
+            "correct": false,
+            "count": "19,449",
+            "percent": "36.59%"
+          },
+          {
+            "id": 223361,
+            "text": "LA Clippers",
+            "correct": true,
+            "count": "15,130",
+            "percent": "28.47%"
+          },
+          {
+            "id": 223364,
+            "text": "LA Sparks",
+            "correct": false,
+            "count": "18,569",
+            "percent": "34.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/1/8",
+        "game_link": "/us/game/2019-04-15/1",
+        "correct_answers": 15130,
+        "incorrect_answers": 38018,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99276,
+        "text": "According to the narrator in âThe Sandlot,â where did Babe Ruth call his shot?",
+        "question_number": 9,
+        "eliminated": "14,983",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "4,392",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223385,
+            "text": "Fenway Park",
+            "correct": false,
+            "count": "4,244",
+            "percent": "22.34%"
+          },
+          {
+            "id": 223390,
+            "text": "Yankee Stadium",
+            "correct": true,
+            "count": "4,392",
+            "percent": "23.11%"
+          },
+          {
+            "id": 223395,
+            "text": "Wrigley Field",
+            "correct": false,
+            "count": "10,365",
+            "percent": "54.55%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/1/9",
+        "game_link": "/us/game/2019-04-15/1",
+        "correct_answers": 4392,
+        "incorrect_answers": 14609,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99289,
+        "text": "Which way does Shoeless Joe Jackson bat in âField of Dreamsâ?",
+        "question_number": 10,
+        "eliminated": "5,232",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "1,512",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223406,
+            "text": "Switch",
+            "correct": false,
+            "count": "1,737",
+            "percent": "26.06%"
+          },
+          {
+            "id": 223408,
+            "text": "Left-handed",
+            "correct": false,
+            "count": "3,416",
+            "percent": "51.25%"
+          },
+          {
+            "id": 223414,
+            "text": "Right-handed",
+            "correct": true,
+            "count": "1,512",
+            "percent": "22.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/1/10",
+        "game_link": "/us/game/2019-04-15/1",
+        "correct_answers": 1512,
+        "incorrect_answers": 5153,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99305,
+        "text": "What actor portrays the character who wins the final race in âTalladega Nightsâ?",
+        "question_number": 11,
+        "eliminated": "1,168",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "1,264",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223430,
+            "text": "Will Ferrell",
+            "correct": false,
+            "count": "471",
+            "percent": "19.72%"
+          },
+          {
+            "id": 223431,
+            "text": "Sacha Baron Cohen",
+            "correct": false,
+            "count": "654",
+            "percent": "27.38%"
+          },
+          {
+            "id": 223434,
+            "text": "John C. Reilly",
+            "correct": true,
+            "count": "1,264",
+            "percent": "52.91%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/1/11",
+        "game_link": "/us/game/2019-04-15/1",
+        "correct_answers": 1264,
+        "incorrect_answers": 1125,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99321,
+        "text": "What tournament does Bill Murrayâs character pretend heâs winning in his âCinderella storyâ in âCaddyshackâ?",
+        "question_number": 12,
+        "eliminated": "670",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "762",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223454,
+            "text": "The Masters",
+            "correct": true,
+            "count": "762",
+            "percent": "53.74%"
+          },
+          {
+            "id": 223455,
+            "text": "PGA Championship",
+            "correct": false,
+            "count": "229",
+            "percent": "16.15%"
+          },
+          {
+            "id": 223458,
+            "text": "US Open",
+            "correct": false,
+            "count": "427",
+            "percent": "30.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/1/12",
+        "game_link": "/us/game/2019-04-15/1",
+        "correct_answers": 762,
+        "incorrect_answers": 656,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 96090,
+    "show_id": 10426,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-04-16T01:00:00Z",
+    "direct_link": "/us/game/2019-04-15/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "435",
+      "currency": "$",
+      "average_prize": "11.49"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "questions": [
+      {
+        "id": 99337,
+        "text": "What â90s movie famously paired Al Pacino and Robert De Niro in scenes together for the first time?",
+        "question_number": 1,
+        "eliminated": "-20,152",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "417,870",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223478,
+            "text": "Gradual Thaw",
+            "correct": false,
+            "count": "19,938",
+            "percent": "5.15%"
+          },
+          {
+            "id": 223479,
+            "text": "Heat",
+            "correct": true,
+            "count": "343,934",
+            "percent": "88.77%"
+          },
+          {
+            "id": 223480,
+            "text": "Sizzler",
+            "correct": false,
+            "count": "23,586",
+            "percent": "6.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/2/1",
+        "game_link": "/us/game/2019-04-15/2",
+        "correct_answers": 343934,
+        "incorrect_answers": 43524,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99354,
+        "text": "Which of these actors stars in the action film âThe Rockâ?",
+        "question_number": 2,
+        "eliminated": "4,487",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "414,309",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223503,
+            "text": "Jacob Tremblay",
+            "correct": false,
+            "count": "23,676",
+            "percent": "5.91%"
+          },
+          {
+            "id": 223507,
+            "text": "Nicolas Cage",
+            "correct": true,
+            "count": "356,067",
+            "percent": "88.83%"
+          },
+          {
+            "id": 223511,
+            "text": "Daniel Radcliffe",
+            "correct": false,
+            "count": "21,080",
+            "percent": "5.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/2/2",
+        "game_link": "/us/game/2019-04-15/2",
+        "correct_answers": 356067,
+        "incorrect_answers": 44756,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99371,
+        "text": "Tum-Tum is a lead character in which â90s movie?",
+        "question_number": 3,
+        "eliminated": "14,180",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "400,492",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223528,
+            "text": "The Next Karate Kid",
+            "correct": false,
+            "count": "37,343",
+            "percent": "9.54%"
+          },
+          {
+            "id": 223533,
+            "text": "3 Ninjas",
+            "correct": true,
+            "count": "244,938",
+            "percent": "62.58%"
+          },
+          {
+            "id": 223537,
+            "text": "The Little Rascals",
+            "correct": false,
+            "count": "109,106",
+            "percent": "27.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/2/3",
+        "game_link": "/us/game/2019-04-15/2",
+        "correct_answers": 244938,
+        "incorrect_answers": 146449,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99385,
+        "text": "Tom Hanks won an Oscar for his role in which â90s film?",
+        "question_number": 4,
+        "eliminated": "19,171",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "382,572",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223550,
+            "text": "Saving Private Ryan",
+            "correct": false,
+            "count": "88,835",
+            "percent": "23.63%"
+          },
+          {
+            "id": 223551,
+            "text": "Apollo 13",
+            "correct": false,
+            "count": "56,869",
+            "percent": "15.12%"
+          },
+          {
+            "id": 223552,
+            "text": "Philadelphia",
+            "correct": true,
+            "count": "230,312",
+            "percent": "61.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/2/4",
+        "game_link": "/us/game/2019-04-15/2",
+        "correct_answers": 230312,
+        "incorrect_answers": 145704,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99403,
+        "text": "Who plays the villain in the 1993 version of âThe Three Musketeersâ?",
+        "question_number": 5,
+        "eliminated": "30,039",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "354,063",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223580,
+            "text": "John Lithgow",
+            "correct": false,
+            "count": "70,110",
+            "percent": "19.66%"
+          },
+          {
+            "id": 223581,
+            "text": "Tim Curry",
+            "correct": true,
+            "count": "191,101",
+            "percent": "53.58%"
+          },
+          {
+            "id": 223582,
+            "text": "Gary Oldman",
+            "correct": false,
+            "count": "95,444",
+            "percent": "26.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/2/5",
+        "game_link": "/us/game/2019-04-15/2",
+        "correct_answers": 191101,
+        "incorrect_answers": 165554,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99418,
+        "text": "What was Julia Robertsâs alleged nickname on the set of âHookâ?",
+        "question_number": 6,
+        "eliminated": "38,673",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "318,019",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223601,
+            "text": "Tinkerhell",
+            "correct": true,
+            "count": "225,820",
+            "percent": "68.2%"
+          },
+          {
+            "id": 223602,
+            "text": "Ghoulia",
+            "correct": false,
+            "count": "72,471",
+            "percent": "21.89%"
+          },
+          {
+            "id": 223603,
+            "text": "J-money",
+            "correct": false,
+            "count": "32,839",
+            "percent": "9.92%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/2/6",
+        "game_link": "/us/game/2019-04-15/2",
+        "correct_answers": 225820,
+        "incorrect_answers": 105310,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99433,
+        "text": "âCanât Hardly Waitâ includes a cameo by the actor famous for which TV role?",
+        "question_number": 7,
+        "eliminated": "211,197",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "109,719",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223622,
+            "text": "Sabrina Spellman",
+            "correct": true,
+            "count": "101,119",
+            "percent": "34.17%"
+          },
+          {
+            "id": 223623,
+            "text": "Steve Urkel",
+            "correct": false,
+            "count": "108,772",
+            "percent": "36.75%"
+          },
+          {
+            "id": 223624,
+            "text": "DJ Tanner",
+            "correct": false,
+            "count": "86,077",
+            "percent": "29.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/2/7",
+        "game_link": "/us/game/2019-04-15/2",
+        "correct_answers": 101119,
+        "incorrect_answers": 194849,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99449,
+        "text": "Which of these â90s films was directed by Wes Craven?",
+        "question_number": 8,
+        "eliminated": "108,904",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "29,597",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223646,
+            "text": "Music of the Heart",
+            "correct": true,
+            "count": "29,581",
+            "percent": "21.75%"
+          },
+          {
+            "id": 223647,
+            "text": "Candyman",
+            "correct": false,
+            "count": "61,465",
+            "percent": "45.2%"
+          },
+          {
+            "id": 223648,
+            "text": "The Faculty",
+            "correct": false,
+            "count": "44,935",
+            "percent": "33.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/2/8",
+        "game_link": "/us/game/2019-04-15/2",
+        "correct_answers": 29581,
+        "incorrect_answers": 106400,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99465,
+        "text": "Who met their future husband on the set of âCruel Intentionsâ?",
+        "question_number": 9,
+        "eliminated": "38,825",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "6,120",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223670,
+            "text": "Reese Witherspoon",
+            "correct": false,
+            "count": "32,165",
+            "percent": "73.26%"
+          },
+          {
+            "id": 223671,
+            "text": "Sarah Michelle Gellar",
+            "correct": false,
+            "count": "5,624",
+            "percent": "12.81%"
+          },
+          {
+            "id": 223675,
+            "text": "Neither",
+            "correct": true,
+            "count": "6,117",
+            "percent": "13.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/2/9",
+        "game_link": "/us/game/2019-04-15/2",
+        "correct_answers": 6117,
+        "incorrect_answers": 37789,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99481,
+        "text": "In which of these â90s teen movies does Gabrielle Union play a popular girl?",
+        "question_number": 10,
+        "eliminated": "4,233",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "8,398",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223694,
+            "text": "Sheâs All That",
+            "correct": true,
+            "count": "8,398",
+            "percent": "67.6%"
+          },
+          {
+            "id": 223696,
+            "text": "Never Been Kissed",
+            "correct": false,
+            "count": "2,028",
+            "percent": "16.32%"
+          },
+          {
+            "id": 223699,
+            "text": "Jawbreaker",
+            "correct": false,
+            "count": "1,997",
+            "percent": "16.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/2/10",
+        "game_link": "/us/game/2019-04-15/2",
+        "correct_answers": 8398,
+        "incorrect_answers": 4025,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99497,
+        "text": "Which of these films was almost released with the tagline âIt Sucksâ?",
+        "question_number": 11,
+        "eliminated": "4,190",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "4,751",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223718,
+            "text": "Twister",
+            "correct": true,
+            "count": "4,751",
+            "percent": "53.71%"
+          },
+          {
+            "id": 223721,
+            "text": "Mars Attacks!",
+            "correct": false,
+            "count": "1,177",
+            "percent": "13.31%"
+          },
+          {
+            "id": 223724,
+            "text": "Clerks",
+            "correct": false,
+            "count": "2,918",
+            "percent": "32.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/2/11",
+        "game_link": "/us/game/2019-04-15/2",
+        "correct_answers": 4751,
+        "incorrect_answers": 4095,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99513,
+        "text": "The band playing at the prom in âIdle Handsâ is responsible for which hit?",
+        "question_number": 12,
+        "eliminated": "2,371",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,803",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223742,
+            "text": "All the Small Things",
+            "correct": false,
+            "count": "769",
+            "percent": "15.23%"
+          },
+          {
+            "id": 223743,
+            "text": "Pretty Fly",
+            "correct": true,
+            "count": "2,803",
+            "percent": "55.5%"
+          },
+          {
+            "id": 223748,
+            "text": "Basket Case",
+            "correct": false,
+            "count": "1,478",
+            "percent": "29.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/2/12",
+        "game_link": "/us/game/2019-04-15/2",
+        "correct_answers": 2803,
+        "incorrect_answers": 2247,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99533,
+        "text": "Which auteurâs debut feature film originally ended with a lead character meeting their demise?",
+        "question_number": 13,
+        "eliminated": "692",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,250",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223775,
+            "text": "Kevin Smith",
+            "correct": true,
+            "count": "2,250",
+            "percent": "77.27%"
+          },
+          {
+            "id": 223778,
+            "text": "Wes Anderson",
+            "correct": false,
+            "count": "274",
+            "percent": "9.41%"
+          },
+          {
+            "id": 223783,
+            "text": "Vincent Gallo",
+            "correct": false,
+            "count": "388",
+            "percent": "13.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/2/13",
+        "game_link": "/us/game/2019-04-15/2",
+        "correct_answers": 2250,
+        "incorrect_answers": 662,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99543,
+        "text": "Which movie made more than $1 million at the US box office during a single weekend of its theatrical run?",
+        "question_number": 14,
+        "eliminated": "1,588",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "723",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223787,
+            "text": "Trainspotting",
+            "correct": true,
+            "count": "723",
+            "percent": "31.89%"
+          },
+          {
+            "id": 223789,
+            "text": "Dazed and Confused",
+            "correct": false,
+            "count": "252",
+            "percent": "11.12%"
+          },
+          {
+            "id": 223793,
+            "text": "Empire Records",
+            "correct": false,
+            "count": "1,292",
+            "percent": "56.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/2/14",
+        "game_link": "/us/game/2019-04-15/2",
+        "correct_answers": 723,
+        "incorrect_answers": 1544,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 99561,
+        "text": "Notes from an executive changed âNewsiesâ into a movie with what?",
+        "question_number": 15,
+        "eliminated": "359",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "435",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 223813,
+            "text": "Songs",
+            "correct": true,
+            "count": "435",
+            "percent": "55.2%"
+          },
+          {
+            "id": 223818,
+            "text": "Child actors",
+            "correct": false,
+            "count": "158",
+            "percent": "20.05%"
+          },
+          {
+            "id": 223824,
+            "text": "Period setting",
+            "correct": false,
+            "count": "195",
+            "percent": "24.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-15/2/15",
+        "game_link": "/us/game/2019-04-15/2",
+        "correct_answers": 435,
+        "incorrect_answers": 353,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 96237,
+    "show_id": 10468,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-04-16T01:30:00Z",
+    "direct_link": "/us/game/2019-04-15/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "2,125",
+      "currency": "$",
+      "average_prize": "0.47"
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-04-15/3/1",
+        "question_number": 1,
+        "text": "Royal Feline",
+        "answer": [
+          "THE",
+          "LION",
+          "KING"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "H"
+        ],
+        "game_link": "/us/game/2019-04-15/3",
+        "eliminated": 36597,
+        "advancing": 154554,
+        "correct_answers": 154554,
+        "incorrect_answers": 36597
+      },
+      {
+        "direct_link": "/us/game/2019-04-15/3/2",
+        "question_number": 2,
+        "text": "Great Work",
+        "answer": [
+          "THAT'LL",
+          "DO",
+          "PIG"
+        ],
+        "initial_letters": [
+          "''",
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-15/3",
+        "eliminated": 81082,
+        "advancing": 75285,
+        "correct_answers": 75285,
+        "incorrect_answers": 81082
+      },
+      {
+        "direct_link": "/us/game/2019-04-15/3/3",
+        "question_number": 3,
+        "text": "Pricey Diner Item",
+        "answer": [
+          "FIVE",
+          "DOLLAR",
+          "SHAKE"
+        ],
+        "initial_letters": [
+          " ",
+          "V"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "L"
+        ],
+        "game_link": "/us/game/2019-04-15/3",
+        "eliminated": 52583,
+        "advancing": 26890,
+        "correct_answers": 26890,
+        "incorrect_answers": 52583
+      },
+      {
+        "direct_link": "/us/game/2019-04-15/3/4",
+        "question_number": 4,
+        "text": "Valuable Item",
+        "answer": [
+          "HEART",
+          "OF",
+          "THE",
+          "OCEAN"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-15/3",
+        "eliminated": 1871,
+        "advancing": 28296,
+        "correct_answers": 28296,
+        "incorrect_answers": 1871
+      },
+      {
+        "direct_link": "/us/game/2019-04-15/3/5",
+        "question_number": 5,
+        "text": "Start of a Famous Quote",
+        "answer": [
+          "MY",
+          "MOMMA",
+          "ALWAYS",
+          "SAID"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-15/3",
+        "eliminated": 12374,
+        "advancing": 16026,
+        "correct_answers": 16026,
+        "incorrect_answers": 12374
+      },
+      {
+        "direct_link": "/us/game/2019-04-15/3/6",
+        "question_number": 6,
+        "text": "Subtle Compliment",
+        "answer": [
+          "KIND",
+          "OF",
+          "A",
+          "BALDWIN"
+        ],
+        "initial_letters": [
+          " ",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-15/3",
+        "eliminated": 11225,
+        "advancing": 6097,
+        "correct_answers": 6097,
+        "incorrect_answers": 11225
+      },
+      {
+        "direct_link": "/us/game/2019-04-15/3/7",
+        "question_number": 7,
+        "text": "Top 10 List",
+        "answer": [
+          "THINGS",
+          "I",
+          "HATE",
+          "ABOUT",
+          "YOU"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "I"
+        ],
+        "game_link": "/us/game/2019-04-15/3",
+        "eliminated": 1158,
+        "advancing": 6431,
+        "correct_answers": 6431,
+        "incorrect_answers": 1158
+      },
+      {
+        "direct_link": "/us/game/2019-04-15/3/8",
+        "question_number": 8,
+        "text": "Island Greeting",
+        "answer": [
+          "WELCOME",
+          "TO",
+          "THE",
+          "ROCK"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "R"
+        ],
+        "game_link": "/us/game/2019-04-15/3",
+        "eliminated": 935,
+        "advancing": 5702,
+        "correct_answers": 5702,
+        "incorrect_answers": 935
+      },
+      {
+        "direct_link": "/us/game/2019-04-15/3/9",
+        "question_number": 9,
+        "text": "Sequel Subtitle",
+        "answer": [
+          "BACK",
+          "IN",
+          "THE",
+          "HABIT"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "H"
+        ],
+        "game_link": "/us/game/2019-04-15/3",
+        "eliminated": 1043,
+        "advancing": 4837,
+        "correct_answers": 4837,
+        "incorrect_answers": 1043
+      },
+      {
+        "direct_link": "/us/game/2019-04-15/3/10",
+        "question_number": 10,
+        "text": "Admonition",
+        "answer": [
+          "COFFEE",
+          "IS",
+          "FOR",
+          "CLOSERS"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-15/3",
+        "eliminated": 1266,
+        "advancing": 3838,
+        "correct_answers": 3838,
+        "incorrect_answers": 1266
+      },
+      {
+        "direct_link": "/us/game/2019-04-15/3/11",
+        "question_number": 11,
+        "text": "Park Warning",
+        "answer": [
+          "HOLD",
+          "ONTO",
+          "YOUR",
+          "BUTTS"
+        ],
+        "initial_letters": [
+          " ",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "S",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-04-15/3",
+        "eliminated": 1495,
+        "advancing": 2659,
+        "correct_answers": 2659,
+        "incorrect_answers": 1495
+      },
+      {
+        "direct_link": "/us/game/2019-04-15/3/12",
+        "question_number": 12,
+        "text": "Is That Yours?",
+        "answer": [
+          "I",
+          "BELIEVE",
+          "YOU",
+          "HAVE",
+          "MY",
+          "STAPLER"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "U"
+        ],
+        "game_link": "/us/game/2019-04-15/3",
+        "eliminated": 911,
+        "advancing": 2125,
+        "correct_answers": 2125,
+        "incorrect_answers": 911
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

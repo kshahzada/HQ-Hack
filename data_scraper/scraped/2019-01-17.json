@@ -1,0 +1,1342 @@
+[
+  {
+    "id": 44786,
+    "show_id": 9219,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "2,500",
+    "currency": "$",
+    "start_time": "2019-01-17T20:00:00Z",
+    "direct_link": "/us/game/2019-01-17/1",
+    "time": " 3:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "4,794",
+      "currency": "$",
+      "average_prize": "0.52"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 42693,
+        "text": "The game of poker is traditionally played with what?",
+        "question_number": 1,
+        "eliminated": "1,362",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "173,493",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127974,
+            "text": "Wild abandon",
+            "correct": false,
+            "count": "900",
+            "percent": "0.51%"
+          },
+          {
+            "id": 127975,
+            "text": "Cards",
+            "correct": true,
+            "count": "173,493",
+            "percent": "99.22%"
+          },
+          {
+            "id": 127976,
+            "text": "Half-siblings",
+            "correct": false,
+            "count": "462",
+            "percent": "0.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/1/1",
+        "game_link": "/us/game/2019-01-17/1",
+        "correct_answers": 173493,
+        "incorrect_answers": 1362,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42701,
+        "text": "The Declaration of Independence makes reference to âLife, Liberty, and the pursuit ofâ what?",
+        "question_number": 2,
+        "eliminated": "17,895",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "157,205",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 127998,
+            "text": "Righteousness",
+            "correct": false,
+            "count": "13,384",
+            "percent": "7.82%"
+          },
+          {
+            "id": 128000,
+            "text": "Tremendousness",
+            "correct": false,
+            "count": "499",
+            "percent": "0.29%"
+          },
+          {
+            "id": 128003,
+            "text": "Happiness",
+            "correct": true,
+            "count": "157,205",
+            "percent": "91.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/1/2",
+        "game_link": "/us/game/2019-01-17/1",
+        "correct_answers": 157205,
+        "incorrect_answers": 13883,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42710,
+        "text": "Which is NOT a kind of carbohydrate?",
+        "question_number": 3,
+        "eliminated": "86,303",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "72,029",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128024,
+            "text": "Fat",
+            "correct": true,
+            "count": "72,029",
+            "percent": "46.47%"
+          },
+          {
+            "id": 128028,
+            "text": "Sugar",
+            "correct": false,
+            "count": "13,441",
+            "percent": "8.67%"
+          },
+          {
+            "id": 128032,
+            "text": "Fiber",
+            "correct": false,
+            "count": "69,545",
+            "percent": "44.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/1/3",
+        "game_link": "/us/game/2019-01-17/1",
+        "correct_answers": 72029,
+        "incorrect_answers": 82986,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42717,
+        "text": "In the viral video âCharlie Bit My Finger,â what is Charlie?",
+        "question_number": 4,
+        "eliminated": "22,128",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "55,947",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128046,
+            "text": "Robot",
+            "correct": false,
+            "count": "2,319",
+            "percent": "3.03%"
+          },
+          {
+            "id": 128048,
+            "text": "Human",
+            "correct": true,
+            "count": "55,947",
+            "percent": "73.05%"
+          },
+          {
+            "id": 128054,
+            "text": "Iguana",
+            "correct": false,
+            "count": "18,325",
+            "percent": "23.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/1/4",
+        "game_link": "/us/game/2019-01-17/1",
+        "correct_answers": 55947,
+        "incorrect_answers": 20644,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42729,
+        "text": "Something that has gone âall higgledy-piggledyâ is in what condition?",
+        "question_number": 5,
+        "eliminated": "10,693",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "46,710",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128082,
+            "text": "Magnanimous",
+            "correct": false,
+            "count": "2,994",
+            "percent": "5.5%"
+          },
+          {
+            "id": 128086,
+            "text": "Luminous",
+            "correct": false,
+            "count": "4,781",
+            "percent": "8.77%"
+          },
+          {
+            "id": 128089,
+            "text": "Tumultuous",
+            "correct": true,
+            "count": "46,710",
+            "percent": "85.73%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/1/5",
+        "game_link": "/us/game/2019-01-17/1",
+        "correct_answers": 46710,
+        "incorrect_answers": 7775,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42733,
+        "text": "Multiple dogs are prominently featured in a new trailer for what upcoming film?",
+        "question_number": 6,
+        "eliminated": "14,418",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "33,958",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128094,
+            "text": "Captain Marvel",
+            "correct": false,
+            "count": "5,106",
+            "percent": "10.8%"
+          },
+          {
+            "id": 128096,
+            "text": "The Lego Movie 2",
+            "correct": false,
+            "count": "8,225",
+            "percent": "17.39%"
+          },
+          {
+            "id": 128098,
+            "text": "John Wick 3",
+            "correct": true,
+            "count": "33,958",
+            "percent": "71.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/1/6",
+        "game_link": "/us/game/2019-01-17/1",
+        "correct_answers": 33958,
+        "incorrect_answers": 13331,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42741,
+        "text": "Which of these is one of Apple Computerâs less successful products?",
+        "question_number": 7,
+        "eliminated": "8,622",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "26,756",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128118,
+            "text": "Cider",
+            "correct": false,
+            "count": "1,386",
+            "percent": "3.96%"
+          },
+          {
+            "id": 128122,
+            "text": "Newton",
+            "correct": true,
+            "count": "26,756",
+            "percent": "76.49%"
+          },
+          {
+            "id": 128131,
+            "text": "Fuji",
+            "correct": false,
+            "count": "6,839",
+            "percent": "19.55%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/1/7",
+        "game_link": "/us/game/2019-01-17/1",
+        "correct_answers": 26756,
+        "incorrect_answers": 8225,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42749,
+        "text": "On 12 consecutive piano keys, how many are there of each color?",
+        "question_number": 8,
+        "eliminated": "11,943",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "15,803",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128142,
+            "text": "5 black / 7 white",
+            "correct": true,
+            "count": "15,803",
+            "percent": "62.86%"
+          },
+          {
+            "id": 128144,
+            "text": "4 black / 8 white",
+            "correct": false,
+            "count": "4,534",
+            "percent": "18.04%"
+          },
+          {
+            "id": 128147,
+            "text": "6 of each",
+            "correct": false,
+            "count": "4,802",
+            "percent": "19.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/1/8",
+        "game_link": "/us/game/2019-01-17/1",
+        "correct_answers": 15803,
+        "incorrect_answers": 9336,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42758,
+        "text": "Which of these actors has directed episodes of both âThe Sopranosâ and â30 Rockâ?",
+        "question_number": 9,
+        "eliminated": "5,568",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "11,984",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128167,
+            "text": "Steve Buscemi",
+            "correct": true,
+            "count": "11,984",
+            "percent": "69.09%"
+          },
+          {
+            "id": 128173,
+            "text": "John Turturro",
+            "correct": false,
+            "count": "3,226",
+            "percent": "18.6%"
+          },
+          {
+            "id": 128183,
+            "text": "Steven van Zandt",
+            "correct": false,
+            "count": "2,136",
+            "percent": "12.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/1/9",
+        "game_link": "/us/game/2019-01-17/1",
+        "correct_answers": 11984,
+        "incorrect_answers": 5362,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42769,
+        "text": "âMoby-Dickâ begins with what type of sentence?",
+        "question_number": 10,
+        "eliminated": "6,052",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "6,891",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128197,
+            "text": "Imperative",
+            "correct": true,
+            "count": "6,891",
+            "percent": "54.6%"
+          },
+          {
+            "id": 128201,
+            "text": "Interrogative",
+            "correct": false,
+            "count": "825",
+            "percent": "6.54%"
+          },
+          {
+            "id": 128208,
+            "text": "Declarative",
+            "correct": false,
+            "count": "4,905",
+            "percent": "38.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/1/10",
+        "game_link": "/us/game/2019-01-17/1",
+        "correct_answers": 6891,
+        "incorrect_answers": 5730,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42773,
+        "text": "Rankin/Bass made an animated New Yearâs Eve special that required Rudolph to travel where?",
+        "question_number": 11,
+        "eliminated": "1,390",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "6,941",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128214,
+            "text": "Isthmus",
+            "correct": false,
+            "count": "406",
+            "percent": "4.93%"
+          },
+          {
+            "id": 128215,
+            "text": "Archipelago",
+            "correct": true,
+            "count": "6,941",
+            "percent": "84.34%"
+          },
+          {
+            "id": 128217,
+            "text": "Peninsula",
+            "correct": false,
+            "count": "883",
+            "percent": "10.73%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/1/11",
+        "game_link": "/us/game/2019-01-17/1",
+        "correct_answers": 6941,
+        "incorrect_answers": 1289,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42782,
+        "text": "Which of these countries reaches the northernmost latitude?",
+        "question_number": 12,
+        "eliminated": "2,368",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "4,794",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128238,
+            "text": "Norway",
+            "correct": true,
+            "count": "4,794",
+            "percent": "67.87%"
+          },
+          {
+            "id": 128240,
+            "text": "Iceland",
+            "correct": false,
+            "count": "952",
+            "percent": "13.48%"
+          },
+          {
+            "id": 128243,
+            "text": "Finland",
+            "correct": false,
+            "count": "1,317",
+            "percent": "18.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/1/12",
+        "game_link": "/us/game/2019-01-17/1",
+        "correct_answers": 4794,
+        "incorrect_answers": 2269,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 44906,
+    "show_id": 9332,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-01-18T02:00:00Z",
+    "direct_link": "/us/game/2019-01-17/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "3,371",
+      "currency": "$",
+      "average_prize": "1.48"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Greyâs Anatomy",
+        "slug": "greys-anatomy"
+      },
+      {
+        "name": "TV",
+        "slug": "tv"
+      }
+    ],
+    "questions": [
+      {
+        "id": 42793,
+        "text": "âGreyâs Anatomyâ is primarily a show about what?",
+        "question_number": 1,
+        "eliminated": "4,935",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "427,328",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128274,
+            "text": "Doctors",
+            "correct": true,
+            "count": "427,328",
+            "percent": "99.49%"
+          },
+          {
+            "id": 128275,
+            "text": "Dentists",
+            "correct": false,
+            "count": "1,397",
+            "percent": "0.33%"
+          },
+          {
+            "id": 128276,
+            "text": "Textbooks",
+            "correct": false,
+            "count": "801",
+            "percent": "0.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/2/1",
+        "game_link": "/us/game/2019-01-17/2",
+        "correct_answers": 427328,
+        "incorrect_answers": 2198,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42797,
+        "text": "Where is âGreyâs Anatomyâ mainly set?",
+        "question_number": 2,
+        "eliminated": "11,591",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "418,081",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128286,
+            "text": "Seattle",
+            "correct": true,
+            "count": "418,081",
+            "percent": "98.55%"
+          },
+          {
+            "id": 128288,
+            "text": "Hawaii",
+            "correct": false,
+            "count": "2,006",
+            "percent": "0.47%"
+          },
+          {
+            "id": 128291,
+            "text": "Peoria",
+            "correct": false,
+            "count": "4,127",
+            "percent": "0.97%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/2/2",
+        "game_link": "/us/game/2019-01-17/2",
+        "correct_answers": 418081,
+        "incorrect_answers": 6133,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42807,
+        "text": "Which of these is a âGreyâs Anatomyâ spin-off?",
+        "question_number": 3,
+        "eliminated": "97,433",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "321,237",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128315,
+            "text": "Good Medicine",
+            "correct": false,
+            "count": "11,145",
+            "percent": "2.69%"
+          },
+          {
+            "id": 128316,
+            "text": "Private Practice",
+            "correct": true,
+            "count": "321,237",
+            "percent": "77.64%"
+          },
+          {
+            "id": 128318,
+            "text": "The Good Doctor",
+            "correct": false,
+            "count": "81,394",
+            "percent": "19.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/2/3",
+        "game_link": "/us/game/2019-01-17/2",
+        "correct_answers": 321237,
+        "incorrect_answers": 92539,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42813,
+        "text": "Which of these couples got married first?",
+        "question_number": 4,
+        "eliminated": "165,559",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "164,334",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128334,
+            "text": "Callie / Arizona",
+            "correct": false,
+            "count": "40,094",
+            "percent": "12.39%"
+          },
+          {
+            "id": 128335,
+            "text": "Cristina / Burke",
+            "correct": false,
+            "count": "119,073",
+            "percent": "36.81%"
+          },
+          {
+            "id": 128336,
+            "text": "Izzie / Alex",
+            "correct": true,
+            "count": "164,334",
+            "percent": "50.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/2/4",
+        "game_link": "/us/game/2019-01-17/2",
+        "correct_answers": 164334,
+        "incorrect_answers": 159167,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42821,
+        "text": "Before saying goodbye, Cristina compares Meredith to what?",
+        "question_number": 5,
+        "eliminated": "106,578",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "90,916",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128358,
+            "text": "Ocean",
+            "correct": false,
+            "count": "38,817",
+            "percent": "20.04%"
+          },
+          {
+            "id": 128359,
+            "text": "Stars",
+            "correct": false,
+            "count": "63,990",
+            "percent": "33.03%"
+          },
+          {
+            "id": 128360,
+            "text": "Sun",
+            "correct": true,
+            "count": "90,915",
+            "percent": "46.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/2/5",
+        "game_link": "/us/game/2019-01-17/2",
+        "correct_answers": 90915,
+        "incorrect_answers": 102807,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42829,
+        "text": "Which of these is one of Meredith and Derekâs Post-It vows?",
+        "question_number": 6,
+        "eliminated": "35,722",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "71,236",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128382,
+            "text": "No more lies",
+            "correct": false,
+            "count": "7,033",
+            "percent": "6.66%"
+          },
+          {
+            "id": 128383,
+            "text": "No running",
+            "correct": true,
+            "count": "71,236",
+            "percent": "67.49%"
+          },
+          {
+            "id": 128384,
+            "text": "No secrets",
+            "correct": false,
+            "count": "27,285",
+            "percent": "25.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/2/6",
+        "game_link": "/us/game/2019-01-17/2",
+        "correct_answers": 71236,
+        "incorrect_answers": 34318,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42836,
+        "text": "Which of these nicknames is NOT suggested for McSteamy?",
+        "question_number": 7,
+        "eliminated": "35,218",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "40,897",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128403,
+            "text": "McSexy",
+            "correct": false,
+            "count": "12,263",
+            "percent": "16.35%"
+          },
+          {
+            "id": 128404,
+            "text": "McGorgeous",
+            "correct": true,
+            "count": "40,897",
+            "percent": "54.51%"
+          },
+          {
+            "id": 128405,
+            "text": "McYummy",
+            "correct": false,
+            "count": "21,865",
+            "percent": "29.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/2/7",
+        "game_link": "/us/game/2019-01-17/2",
+        "correct_answers": 40897,
+        "incorrect_answers": 34128,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42846,
+        "text": "What is the last line Meredith says to Derek before he's taken off life support?",
+        "question_number": 8,
+        "eliminated": "13,817",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "33,017",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128429,
+            "text": "Come back.",
+            "correct": false,
+            "count": "4,882",
+            "percent": "10.61%"
+          },
+          {
+            "id": 128432,
+            "text": "Derek, please.",
+            "correct": false,
+            "count": "8,114",
+            "percent": "17.63%"
+          },
+          {
+            "id": 128434,
+            "text": "Weâll be fine.",
+            "correct": true,
+            "count": "33,017",
+            "percent": "71.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/2/8",
+        "game_link": "/us/game/2019-01-17/2",
+        "correct_answers": 33017,
+        "incorrect_answers": 12996,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42852,
+        "text": "When Meredithâs underwear is pasted to the bulletin board, what does the sign say?",
+        "question_number": 9,
+        "eliminated": "15,245",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "20,162",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128451,
+            "text": "See Bailey",
+            "correct": false,
+            "count": "4,211",
+            "percent": "11.98%"
+          },
+          {
+            "id": 128453,
+            "text": "Lost and found",
+            "correct": true,
+            "count": "20,162",
+            "percent": "57.36%"
+          },
+          {
+            "id": 128455,
+            "text": "Is this yours?",
+            "correct": false,
+            "count": "10,779",
+            "percent": "30.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/2/9",
+        "game_link": "/us/game/2019-01-17/2",
+        "correct_answers": 20162,
+        "incorrect_answers": 14990,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42861,
+        "text": "What is the first thing Callie says after waking up in the musical episode?",
+        "question_number": 10,
+        "eliminated": "4,219",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "18,632",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128476,
+            "text": "Iâm sorry.",
+            "correct": false,
+            "count": "2,197",
+            "percent": "9.69%"
+          },
+          {
+            "id": 128477,
+            "text": "Hi!",
+            "correct": false,
+            "count": "1,842",
+            "percent": "8.12%"
+          },
+          {
+            "id": 128480,
+            "text": "Yes, Iâll marry you.",
+            "correct": true,
+            "count": "18,632",
+            "percent": "82.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/2/10",
+        "game_link": "/us/game/2019-01-17/2",
+        "correct_answers": 18632,
+        "incorrect_answers": 4039,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42868,
+        "text": "Who is the last intern to âconfessâ to cutting the LVAD wire when Izzie tries to save Denny?",
+        "question_number": 11,
+        "eliminated": "11,831",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "7,531",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128499,
+            "text": "George",
+            "correct": false,
+            "count": "2,681",
+            "percent": "14.2%"
+          },
+          {
+            "id": 128500,
+            "text": "Cristina",
+            "correct": true,
+            "count": "7,529",
+            "percent": "39.87%"
+          },
+          {
+            "id": 128501,
+            "text": "Alex",
+            "correct": false,
+            "count": "8,675",
+            "percent": "45.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/2/11",
+        "game_link": "/us/game/2019-01-17/2",
+        "correct_answers": 7529,
+        "incorrect_answers": 11356,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 42876,
+        "text": "What is the last spoken line in the first-ever episode of âGreyâs Anatomyâ?",
+        "question_number": 12,
+        "eliminated": "6,658",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "3,371",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 128523,
+            "text": "You were a surgeon.",
+            "correct": true,
+            "count": "3,371",
+            "percent": "34.59%"
+          },
+          {
+            "id": 128524,
+            "text": "Thanks, Mom.",
+            "correct": false,
+            "count": "1,869",
+            "percent": "19.18%"
+          },
+          {
+            "id": 128528,
+            "text": "Nice to meet you, Derek.",
+            "correct": false,
+            "count": "4,507",
+            "percent": "46.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-17/2/12",
+        "game_link": "/us/game/2019-01-17/2",
+        "correct_answers": 3371,
+        "incorrect_answers": 6376,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 45022,
+    "show_id": 9339,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-01-18T02:30:00Z",
+    "direct_link": "/us/game/2019-01-17/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "300.09",
+          "time": "72.54"
+        },
+        {
+          "number": "2",
+          "amount": "150.09",
+          "time": "72.77"
+        },
+        {
+          "number": "3",
+          "amount": "50.09",
+          "time": "72.77"
+        },
+        {
+          "number": "5,289",
+          "amount": "0.09",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.0944822373393802,
+      "top_players_prize": 500.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-01-17/3/1",
+        "question_number": 1,
+        "text": "Month",
+        "answer": [
+          "OCTOBER"
+        ],
+        "initial_letters": [
+          "O"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "C"
+        ],
+        "game_link": "/us/game/2019-01-17/3",
+        "eliminated": 6533,
+        "advancing": 197250,
+        "correct_answers": 197250,
+        "incorrect_answers": 6533
+      },
+      {
+        "direct_link": "/us/game/2019-01-17/3/2",
+        "question_number": 2,
+        "text": "US City",
+        "answer": [
+          "NEW",
+          "ORLEANS"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "W"
+        ],
+        "game_link": "/us/game/2019-01-17/3",
+        "eliminated": 39430,
+        "advancing": 158164,
+        "correct_answers": 158164,
+        "incorrect_answers": 39430
+      },
+      {
+        "direct_link": "/us/game/2019-01-17/3/3",
+        "question_number": 3,
+        "text": "Greeting",
+        "answer": [
+          "HOW",
+          "ARE",
+          "YOU?"
+        ],
+        "initial_letters": [
+          " ",
+          "?",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "W"
+        ],
+        "game_link": "/us/game/2019-01-17/3",
+        "eliminated": 3369,
+        "advancing": 157273,
+        "correct_answers": 157273,
+        "incorrect_answers": 3369
+      },
+      {
+        "direct_link": "/us/game/2019-01-17/3/4",
+        "question_number": 4,
+        "text": "Sweet Beverage",
+        "answer": [
+          "ROOT",
+          "BEER",
+          "FLOAT"
+        ],
+        "initial_letters": [
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "O"
+        ],
+        "game_link": "/us/game/2019-01-17/3",
+        "eliminated": 37255,
+        "advancing": 120142,
+        "correct_answers": 120142,
+        "incorrect_answers": 37255
+      },
+      {
+        "direct_link": "/us/game/2019-01-17/3/5",
+        "question_number": 5,
+        "text": "In the Living Room",
+        "answer": [
+          "REMOTE",
+          "CONTROL"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "T"
+        ],
+        "game_link": "/us/game/2019-01-17/3",
+        "eliminated": 42244,
+        "advancing": 80502,
+        "correct_answers": 80502,
+        "incorrect_answers": 42244
+      },
+      {
+        "direct_link": "/us/game/2019-01-17/3/6",
+        "question_number": 6,
+        "text": "Video Game",
+        "answer": [
+          "DONKEY",
+          "KONG",
+          "JR."
+        ],
+        "initial_letters": [
+          " ",
+          ".",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "J",
+          "N"
+        ],
+        "game_link": "/us/game/2019-01-17/3",
+        "eliminated": 40649,
+        "advancing": 43172,
+        "correct_answers": 43172,
+        "incorrect_answers": 40649
+      },
+      {
+        "direct_link": "/us/game/2019-01-17/3/7",
+        "question_number": 7,
+        "text": "High School Rivalry",
+        "answer": [
+          "BOOKWORMS",
+          "VS.",
+          "JOCKS"
+        ],
+        "initial_letters": [
+          " ",
+          ".",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "O"
+        ],
+        "game_link": "/us/game/2019-01-17/3",
+        "eliminated": 31933,
+        "advancing": 15480,
+        "correct_answers": 15480,
+        "incorrect_answers": 31933
+      },
+      {
+        "direct_link": "/us/game/2019-01-17/3/8",
+        "question_number": 8,
+        "text": "Internet Question",
+        "answer": [
+          "FORGOT",
+          "YOUR",
+          "PASSWORD?"
+        ],
+        "initial_letters": [
+          " ",
+          "?",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "W"
+        ],
+        "game_link": "/us/game/2019-01-17/3",
+        "eliminated": 6102,
+        "advancing": 13465,
+        "correct_answers": 13465,
+        "incorrect_answers": 6102
+      },
+      {
+        "direct_link": "/us/game/2019-01-17/3/9",
+        "question_number": 9,
+        "text": "Liqueur",
+        "answer": [
+          "PEACH",
+          "SCHNAPPS"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "S"
+        ],
+        "game_link": "/us/game/2019-01-17/3",
+        "eliminated": 3407,
+        "advancing": 11004,
+        "correct_answers": 11004,
+        "incorrect_answers": 3407
+      },
+      {
+        "direct_link": "/us/game/2019-01-17/3/10",
+        "question_number": 10,
+        "text": "In the Attic",
+        "answer": [
+          "TROPHIES,",
+          "PICTURES",
+          "&",
+          "TOYS"
+        ],
+        "initial_letters": [
+          ",",
+          " ",
+          "&",
+          "U"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "O"
+        ],
+        "game_link": "/us/game/2019-01-17/3",
+        "eliminated": 6369,
+        "advancing": 5292,
+        "correct_answers": 5292,
+        "incorrect_answers": 6369
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

@@ -1,0 +1,938 @@
+[
+  {
+    "id": 42036,
+    "show_id": 9216,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "10,000",
+    "currency": "$",
+    "start_time": "2019-01-07T02:00:00Z",
+    "direct_link": "/us/game/2019-01-06/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "10,037",
+      "currency": "$",
+      "average_prize": "1.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "The Simpsons",
+        "slug": "the-simpsons"
+      },
+      {
+        "name": "TV",
+        "slug": "tv"
+      }
+    ],
+    "questions": [
+      {
+        "id": 40889,
+        "text": "Who shot Mr. Burns?",
+        "question_number": 1,
+        "eliminated": "12,051",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "477,395",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122562,
+            "text": "Maggie",
+            "correct": true,
+            "count": "398,055",
+            "percent": "82.44%"
+          },
+          {
+            "id": 122563,
+            "text": "Scratchy",
+            "correct": false,
+            "count": "61,905",
+            "percent": "12.82%"
+          },
+          {
+            "id": 122564,
+            "text": "Tito Puente",
+            "correct": false,
+            "count": "22,881",
+            "percent": "4.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-06/1/1",
+        "game_link": "/us/game/2019-01-06/1",
+        "correct_answers": 398055,
+        "incorrect_answers": 84786,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40898,
+        "text": "What was the name of Homerâs snow-plowing company?",
+        "question_number": 2,
+        "eliminated": "30,643",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "447,897",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122588,
+            "text": "Plow This",
+            "correct": false,
+            "count": "65,671",
+            "percent": "14.32%"
+          },
+          {
+            "id": 122589,
+            "text": "Plow Now, and How",
+            "correct": false,
+            "count": "44,333",
+            "percent": "9.66%"
+          },
+          {
+            "id": 122596,
+            "text": "Mr. Plow",
+            "correct": true,
+            "count": "348,729",
+            "percent": "76.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-06/1/2",
+        "game_link": "/us/game/2019-01-06/1",
+        "correct_answers": 348729,
+        "incorrect_answers": 110004,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40905,
+        "text": "In âBart the Daredevil,â what destroys the Simpsonsâ car?",
+        "question_number": 3,
+        "eliminated": "70,057",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "379,303",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122610,
+            "text": "Runaway monorail",
+            "correct": false,
+            "count": "116,986",
+            "percent": "27.69%"
+          },
+          {
+            "id": 122612,
+            "text": "Malibu Stacyâs new hat",
+            "correct": false,
+            "count": "50,703",
+            "percent": "12.0%"
+          },
+          {
+            "id": 122614,
+            "text": "Truckasaurus",
+            "correct": true,
+            "count": "254,752",
+            "percent": "60.3%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-06/1/3",
+        "game_link": "/us/game/2019-01-06/1",
+        "correct_answers": 254752,
+        "incorrect_answers": 167689,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40913,
+        "text": "According to the dictionary in âThe Simpsons,â how would you âpull a Homerâ?",
+        "question_number": 4,
+        "eliminated": "25,778",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "359,064",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122634,
+            "text": "Keep your wits close",
+            "correct": false,
+            "count": "14,003",
+            "percent": "3.89%"
+          },
+          {
+            "id": 122635,
+            "text": "Unsurprise everyone",
+            "correct": false,
+            "count": "30,385",
+            "percent": "8.44%"
+          },
+          {
+            "id": 122640,
+            "text": "Succeed despite idiocy",
+            "correct": true,
+            "count": "315,644",
+            "percent": "87.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-06/1/4",
+        "game_link": "/us/game/2019-01-06/1",
+        "correct_answers": 315644,
+        "incorrect_answers": 44388,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40921,
+        "text": "What is Margeâs pet name for Bart?",
+        "question_number": 5,
+        "eliminated": "25,203",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "335,606",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122658,
+            "text": "My special little guy",
+            "correct": true,
+            "count": "288,301",
+            "percent": "82.75%"
+          },
+          {
+            "id": 122659,
+            "text": "Mr. Britches",
+            "correct": false,
+            "count": "31,810",
+            "percent": "9.13%"
+          },
+          {
+            "id": 122661,
+            "text": "First born, last nerve",
+            "correct": false,
+            "count": "28,296",
+            "percent": "8.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-06/1/5",
+        "game_link": "/us/game/2019-01-06/1",
+        "correct_answers": 288301,
+        "incorrect_answers": 60106,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40930,
+        "text": "Which of these is the name of one of the Seven Duffs?",
+        "question_number": 6,
+        "eliminated": "68,296",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "268,782",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122682,
+            "text": "Uppity",
+            "correct": false,
+            "count": "39,276",
+            "percent": "11.99%"
+          },
+          {
+            "id": 122684,
+            "text": "Ornery",
+            "correct": false,
+            "count": "72,062",
+            "percent": "22.01%"
+          },
+          {
+            "id": 122686,
+            "text": "Queasy",
+            "correct": true,
+            "count": "216,128",
+            "percent": "66.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-06/1/6",
+        "game_link": "/us/game/2019-01-06/1",
+        "correct_answers": 216128,
+        "incorrect_answers": 111338,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40937,
+        "text": "Which character is known for his deathly bee-sting allergy?",
+        "question_number": 7,
+        "eliminated": "66,227",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "209,855",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122706,
+            "text": "Superintendent Chalmers",
+            "correct": false,
+            "count": "41,191",
+            "percent": "15.32%"
+          },
+          {
+            "id": 122707,
+            "text": "Waylon Smithers",
+            "correct": true,
+            "count": "159,164",
+            "percent": "59.2%"
+          },
+          {
+            "id": 122708,
+            "text": "Moe Szyslak",
+            "correct": false,
+            "count": "68,513",
+            "percent": "25.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-06/1/7",
+        "game_link": "/us/game/2019-01-06/1",
+        "correct_answers": 159164,
+        "incorrect_answers": 109704,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40946,
+        "text": "The proposed spin-off âChief Wiggum, P.I.â was set in what city?",
+        "question_number": 8,
+        "eliminated": "77,696",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "140,465",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122733,
+            "text": "New Orleans",
+            "correct": true,
+            "count": "94,039",
+            "percent": "44.15%"
+          },
+          {
+            "id": 122735,
+            "text": "Miami",
+            "correct": false,
+            "count": "70,010",
+            "percent": "32.87%"
+          },
+          {
+            "id": 122739,
+            "text": "Beverly Hills",
+            "correct": false,
+            "count": "48,971",
+            "percent": "22.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-06/1/8",
+        "game_link": "/us/game/2019-01-06/1",
+        "correct_answers": 94039,
+        "incorrect_answers": 118981,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40953,
+        "text": "Which of these is NOT a real name Bart used in a prank call to Moeâs Tavern?",
+        "question_number": 9,
+        "eliminated": "39,114",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "111,318",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122754,
+            "text": "Jacques Strap",
+            "correct": false,
+            "count": "12,340",
+            "percent": "8.49%"
+          },
+          {
+            "id": 122756,
+            "text": "Stu Pitt",
+            "correct": true,
+            "count": "80,797",
+            "percent": "55.59%"
+          },
+          {
+            "id": 122759,
+            "text": "Bea OâProblem",
+            "correct": false,
+            "count": "52,216",
+            "percent": "35.92%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-06/1/9",
+        "game_link": "/us/game/2019-01-06/1",
+        "correct_answers": 80797,
+        "incorrect_answers": 64556,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40961,
+        "text": "What weird European candy did Ãter have in his first âSimpsonsâ appearance?",
+        "question_number": 10,
+        "eliminated": "38,697",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "78,257",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122788,
+            "text": "ApfelnÃ¶ugat",
+            "correct": false,
+            "count": "37,358",
+            "percent": "32.74%"
+          },
+          {
+            "id": 122792,
+            "text": "Jellied nuts",
+            "correct": false,
+            "count": "14,667",
+            "percent": "12.86%"
+          },
+          {
+            "id": 122794,
+            "text": "Marzipan Joy Joys",
+            "correct": true,
+            "count": "62,066",
+            "percent": "54.4%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-06/1/10",
+        "game_link": "/us/game/2019-01-06/1",
+        "correct_answers": 62066,
+        "incorrect_answers": 52025,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40969,
+        "text": "Which is one way of identifying the âPhony Popeâ?",
+        "question_number": 11,
+        "eliminated": "29,941",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "54,446",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122802,
+            "text": "Shaggy mullet",
+            "correct": false,
+            "count": "8,801",
+            "percent": "10.6%"
+          },
+          {
+            "id": 122803,
+            "text": "Foam finger",
+            "correct": false,
+            "count": "19,789",
+            "percent": "23.83%"
+          },
+          {
+            "id": 122807,
+            "text": "Hi-top sneakers",
+            "correct": true,
+            "count": "54,446",
+            "percent": "65.57%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-06/1/11",
+        "game_link": "/us/game/2019-01-06/1",
+        "correct_answers": 54446,
+        "incorrect_answers": 28590,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40976,
+        "text": "What location is mentioned in the Kamp Krusty theme song?",
+        "question_number": 12,
+        "eliminated": "23,255",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "36,111",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122823,
+            "text": "Mount Avalanche",
+            "correct": true,
+            "count": "36,111",
+            "percent": "61.42%"
+          },
+          {
+            "id": 122824,
+            "text": "Forest of No Return",
+            "correct": false,
+            "count": "10,735",
+            "percent": "18.26%"
+          },
+          {
+            "id": 122826,
+            "text": "Crocodile Creek",
+            "correct": false,
+            "count": "11,943",
+            "percent": "20.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-06/1/12",
+        "game_link": "/us/game/2019-01-06/1",
+        "correct_answers": 36111,
+        "incorrect_answers": 22678,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40988,
+        "text": "Who are Eastern Europeâs favorite cat-and-mouse team?",
+        "question_number": 13,
+        "eliminated": "10,965",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "28,937",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122859,
+            "text": "Bourgeois & Proletariat",
+            "correct": false,
+            "count": "4,607",
+            "percent": "11.74%"
+          },
+          {
+            "id": 122861,
+            "text": "Vladislav & Humorous",
+            "correct": false,
+            "count": "5,686",
+            "percent": "14.49%"
+          },
+          {
+            "id": 122863,
+            "text": "Worker & Parasite",
+            "correct": true,
+            "count": "28,937",
+            "percent": "73.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-06/1/13",
+        "game_link": "/us/game/2019-01-06/1",
+        "correct_answers": 28937,
+        "incorrect_answers": 10293,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 40993,
+        "text": "What therapist helped Marge with her fear of flying?",
+        "question_number": 14,
+        "eliminated": "9,348",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "21,423",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122872,
+            "text": "Dr. Lowenstein",
+            "correct": false,
+            "count": "6,647",
+            "percent": "21.87%"
+          },
+          {
+            "id": 122874,
+            "text": "Dr. Zweig",
+            "correct": true,
+            "count": "21,423",
+            "percent": "70.5%"
+          },
+          {
+            "id": 122879,
+            "text": "Dr. Pryor",
+            "correct": false,
+            "count": "2,319",
+            "percent": "7.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-06/1/14",
+        "game_link": "/us/game/2019-01-06/1",
+        "correct_answers": 21423,
+        "incorrect_answers": 8966,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 41003,
+        "text": "Which of these movies did Troy McClure NOT appear in?",
+        "question_number": 15,
+        "eliminated": "13,643",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "10,037",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 122899,
+            "text": "Make-Out King of Montana",
+            "correct": false,
+            "count": "6,923",
+            "percent": "30.33%"
+          },
+          {
+            "id": 122904,
+            "text": "David vs. Super Goliath",
+            "correct": false,
+            "count": "5,862",
+            "percent": "25.69%"
+          },
+          {
+            "id": 122907,
+            "text": "Stop That Dream",
+            "correct": true,
+            "count": "10,037",
+            "percent": "43.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-01-06/1/15",
+        "game_link": "/us/game/2019-01-06/1",
+        "correct_answers": 10037,
+        "incorrect_answers": 12785,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 42179,
+    "show_id": 9246,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-01-07T02:30:00Z",
+    "direct_link": "/us/game/2019-01-06/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "300.15",
+          "time": "65.39"
+        },
+        {
+          "number": "2",
+          "amount": "150.15",
+          "time": "69.56"
+        },
+        {
+          "number": "3",
+          "amount": "50.15",
+          "time": "70.75"
+        },
+        {
+          "number": "3,363",
+          "amount": "0.15",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.14854426619132502,
+      "top_players_prize": 500.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-01-06/2/1",
+        "question_number": 1,
+        "text": "Beauty Product",
+        "answer": [
+          "HAIR",
+          "SPRAY"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "P",
+          "S"
+        ],
+        "game_link": "/us/game/2019-01-06/2",
+        "eliminated": 14269,
+        "advancing": 200091,
+        "correct_answers": 200091,
+        "incorrect_answers": 14269
+      },
+      {
+        "direct_link": "/us/game/2019-01-06/2/2",
+        "question_number": 2,
+        "text": "Office Supply",
+        "answer": [
+          "STAPLER"
+        ],
+        "initial_letters": [
+          "S"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "P"
+        ],
+        "game_link": "/us/game/2019-01-06/2",
+        "eliminated": 9541,
+        "advancing": 191150,
+        "correct_answers": 191150,
+        "incorrect_answers": 9541
+      },
+      {
+        "direct_link": "/us/game/2019-01-06/2/3",
+        "question_number": 3,
+        "text": "Park Activity",
+        "answer": [
+          "HAVING",
+          "A",
+          "PICNIC"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "P"
+        ],
+        "game_link": "/us/game/2019-01-06/2",
+        "eliminated": 60862,
+        "advancing": 130511,
+        "correct_answers": 130511,
+        "incorrect_answers": 60862
+      },
+      {
+        "direct_link": "/us/game/2019-01-06/2/4",
+        "question_number": 4,
+        "text": "Healthy Habit",
+        "answer": [
+          "STAYING",
+          "HYDRATED"
+        ],
+        "initial_letters": [
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-01-06/2",
+        "eliminated": 53580,
+        "advancing": 79540,
+        "correct_answers": 79540,
+        "incorrect_answers": 53580
+      },
+      {
+        "direct_link": "/us/game/2019-01-06/2/5",
+        "question_number": 5,
+        "text": "Common Debate",
+        "answer": [
+          "ARE",
+          "HOROSCOPES",
+          "FAKE?"
+        ],
+        "initial_letters": [
+          " ",
+          "?",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "S"
+        ],
+        "game_link": "/us/game/2019-01-06/2",
+        "eliminated": 43056,
+        "advancing": 39206,
+        "correct_answers": 39206,
+        "incorrect_answers": 43056
+      },
+      {
+        "direct_link": "/us/game/2019-01-06/2/6",
+        "question_number": 6,
+        "text": "Relationship Status",
+        "answer": [
+          "SINGLE",
+          "&",
+          "READY",
+          "TO",
+          "MINGLE"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "Y"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "R"
+        ],
+        "game_link": "/us/game/2019-01-06/2",
+        "eliminated": 7411,
+        "advancing": 33821,
+        "correct_answers": 33821,
+        "incorrect_answers": 7411
+      },
+      {
+        "direct_link": "/us/game/2019-01-06/2/7",
+        "question_number": 7,
+        "text": "Noisy Animal",
+        "answer": [
+          "SQUAWKING",
+          "BIRD"
+        ],
+        "initial_letters": [
+          " ",
+          "W"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "N"
+        ],
+        "game_link": "/us/game/2019-01-06/2",
+        "eliminated": 22735,
+        "advancing": 11627,
+        "correct_answers": 11627,
+        "incorrect_answers": 22735
+      },
+      {
+        "direct_link": "/us/game/2019-01-06/2/8",
+        "question_number": 8,
+        "text": "On a DVD",
+        "answer": [
+          "DIRECTORâS",
+          "COMMENTARY"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-01-06/2",
+        "eliminated": 3788,
+        "advancing": 9891,
+        "correct_answers": 9891,
+        "incorrect_answers": 3788
+      },
+      {
+        "direct_link": "/us/game/2019-01-06/2/9",
+        "question_number": 9,
+        "text": "Winter Problem",
+        "answer": [
+          "BROKEN",
+          "PARKA",
+          "ZIPPER"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "P"
+        ],
+        "game_link": "/us/game/2019-01-06/2",
+        "eliminated": 3528,
+        "advancing": 6761,
+        "correct_answers": 6761,
+        "incorrect_answers": 3528
+      },
+      {
+        "direct_link": "/us/game/2019-01-06/2/10",
+        "question_number": 10,
+        "text": "Famous Scientific Event",
+        "answer": [
+          "DARWIN",
+          "VISITS",
+          "THE",
+          "GALAPAGOS"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "W"
+        ],
+        "game_link": "/us/game/2019-01-06/2",
+        "eliminated": 3900,
+        "advancing": 3366,
+        "correct_answers": 3366,
+        "incorrect_answers": 3900
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

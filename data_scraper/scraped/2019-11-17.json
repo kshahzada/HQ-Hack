@@ -1,0 +1,1199 @@
+[
+  {
+    "id": 141383,
+    "show_id": 12946,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "250",
+    "currency": "$",
+    "start_time": "2019-11-17T05:45:00Z",
+    "direct_link": "/us/game/2019-11-17/1",
+    "time": "12:45 am",
+    "country": "us",
+    "summary": {
+      "winner_count": "908",
+      "currency": "$",
+      "average_prize": "0.28"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 158880,
+        "text": "By definition, a picnic is a meal eaten where?",
+        "question_number": 1,
+        "eliminated": "-3,197",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "53,450",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312776,
+            "text": "At a Wendyâs",
+            "correct": false,
+            "count": "370",
+            "percent": "0.77%"
+          },
+          {
+            "id": 312777,
+            "text": "In the bathtub",
+            "correct": false,
+            "count": "217",
+            "percent": "0.45%"
+          },
+          {
+            "id": 312778,
+            "text": "Outside",
+            "correct": true,
+            "count": "47,191",
+            "percent": "98.77%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/1/1",
+        "game_link": "/us/game/2019-11-17/1",
+        "correct_answers": 47191,
+        "incorrect_answers": 587,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158882,
+        "text": "What phrase is Gen Z using to fight criticism from an older generation?",
+        "question_number": 2,
+        "eliminated": "4,976",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "48,722",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312779,
+            "text": "Nah-lennials",
+            "correct": false,
+            "count": "4,899",
+            "percent": "10.58%"
+          },
+          {
+            "id": 312780,
+            "text": "Yeah, No, Olds",
+            "correct": false,
+            "count": "2,204",
+            "percent": "4.76%"
+          },
+          {
+            "id": 312781,
+            "text": "OK Boomer",
+            "correct": true,
+            "count": "39,212",
+            "percent": "84.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/1/2",
+        "game_link": "/us/game/2019-11-17/1",
+        "correct_answers": 39212,
+        "incorrect_answers": 7103,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158884,
+        "text": "In this infamous episode of âSaved by the Bell,â Jessie is dealing with what?",
+        "question_number": 3,
+        "eliminated": "8,110",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "41,058",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312782,
+            "text": "Caffeine pill addiction",
+            "correct": true,
+            "count": "32,518",
+            "percent": "76.5%"
+          },
+          {
+            "id": 312783,
+            "text": "Insomnia",
+            "correct": false,
+            "count": "5,169",
+            "percent": "12.16%"
+          },
+          {
+            "id": 312784,
+            "text": "Dyslexia",
+            "correct": false,
+            "count": "4,818",
+            "percent": "11.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/1/3",
+        "game_link": "/us/game/2019-11-17/1",
+        "correct_answers": 32518,
+        "incorrect_answers": 9987,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158886,
+        "text": "Cowbells are worn for what purpose?",
+        "question_number": 4,
+        "eliminated": "9,186",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "32,564",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312785,
+            "text": "iPod for cows",
+            "correct": false,
+            "count": "299",
+            "percent": "0.78%"
+          },
+          {
+            "id": 312786,
+            "text": "Mark ownership",
+            "correct": false,
+            "count": "7,137",
+            "percent": "18.65%"
+          },
+          {
+            "id": 312787,
+            "text": "Frighten predators",
+            "correct": true,
+            "count": "30,839",
+            "percent": "80.57%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/1/4",
+        "game_link": "/us/game/2019-11-17/1",
+        "correct_answers": 30839,
+        "incorrect_answers": 7436,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158888,
+        "text": "What Snoop Dogg solo single rose highest on the Billboard Hot 100?",
+        "question_number": 5,
+        "eliminated": "26,342",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "7,525",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312788,
+            "text": "Whatâs My Name",
+            "correct": false,
+            "count": "7,228",
+            "percent": "22.7%"
+          },
+          {
+            "id": 312789,
+            "text": "Still a G Thang",
+            "correct": false,
+            "count": "20,892",
+            "percent": "65.62%"
+          },
+          {
+            "id": 312790,
+            "text": "Sensual Seduction",
+            "correct": true,
+            "count": "3,718",
+            "percent": "11.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/1/5",
+        "game_link": "/us/game/2019-11-17/1",
+        "correct_answers": 3718,
+        "incorrect_answers": 28120,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158890,
+        "text": "What movie is this scene from?",
+        "question_number": 6,
+        "eliminated": "4,567",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "7,592",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312791,
+            "text": "Perfect",
+            "correct": true,
+            "count": "6,163",
+            "percent": "53.05%"
+          },
+          {
+            "id": 312792,
+            "text": "Pulp Fiction",
+            "correct": false,
+            "count": "711",
+            "percent": "6.12%"
+          },
+          {
+            "id": 312793,
+            "text": "Staying Alive",
+            "correct": false,
+            "count": "4,743",
+            "percent": "40.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/1/6",
+        "game_link": "/us/game/2019-11-17/1",
+        "correct_answers": 6163,
+        "incorrect_answers": 5454,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158892,
+        "text": "What is a kipper?",
+        "question_number": 7,
+        "eliminated": "1,417",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "7,397",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312794,
+            "text": "Split herring",
+            "correct": true,
+            "count": "6,865",
+            "percent": "81.34%"
+          },
+          {
+            "id": 312795,
+            "text": "Short nap",
+            "correct": false,
+            "count": "639",
+            "percent": "7.57%"
+          },
+          {
+            "id": 312796,
+            "text": "Blood sausage",
+            "correct": false,
+            "count": "936",
+            "percent": "11.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/1/7",
+        "game_link": "/us/game/2019-11-17/1",
+        "correct_answers": 6865,
+        "incorrect_answers": 1575,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158894,
+        "text": "Desus and Mero recently interviewed Bernie Sanders about the price of what?",
+        "question_number": 8,
+        "eliminated": "3,129",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "4,678",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312797,
+            "text": "Sneakers",
+            "correct": true,
+            "count": "3,573",
+            "percent": "48.71%"
+          },
+          {
+            "id": 312798,
+            "text": "Bodega sandwiches",
+            "correct": false,
+            "count": "1,164",
+            "percent": "15.87%"
+          },
+          {
+            "id": 312799,
+            "text": "Knicks tickets",
+            "correct": false,
+            "count": "2,598",
+            "percent": "35.42%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/1/8",
+        "game_link": "/us/game/2019-11-17/1",
+        "correct_answers": 3573,
+        "incorrect_answers": 3762,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158896,
+        "text": "Which shark can you find in the Atlantic Ocean?",
+        "question_number": 9,
+        "eliminated": "1,006",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "4,801",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312800,
+            "text": "Hammerhead shark",
+            "correct": true,
+            "count": "4,487",
+            "percent": "80.27%"
+          },
+          {
+            "id": 312801,
+            "text": "Dumb gulper shark",
+            "correct": false,
+            "count": "331",
+            "percent": "5.92%"
+          },
+          {
+            "id": 312802,
+            "text": "Plunket shark",
+            "correct": false,
+            "count": "772",
+            "percent": "13.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/1/9",
+        "game_link": "/us/game/2019-11-17/1",
+        "correct_answers": 4487,
+        "incorrect_answers": 1103,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158898,
+        "text": "Who ascended to the Russian throne by pretending to be Ivan the Terribleâs son?",
+        "question_number": 10,
+        "eliminated": "2,651",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "2,545",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312803,
+            "text": "False Dmitry",
+            "correct": true,
+            "count": "2,178",
+            "percent": "45.19%"
+          },
+          {
+            "id": 312804,
+            "text": "Vlad the Fraud",
+            "correct": false,
+            "count": "1,693",
+            "percent": "35.12%"
+          },
+          {
+            "id": 312805,
+            "text": "Fake Gregor",
+            "correct": false,
+            "count": "949",
+            "percent": "19.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/1/10",
+        "game_link": "/us/game/2019-11-17/1",
+        "correct_answers": 2178,
+        "incorrect_answers": 2642,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158900,
+        "text": "What did locals dub a wild elephant after it trampled villagers last week?",
+        "question_number": 11,
+        "eliminated": "2,807",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "1,046",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312806,
+            "text": "Kim Jong-Un",
+            "correct": false,
+            "count": "553",
+            "percent": "16.41%"
+          },
+          {
+            "id": 312807,
+            "text": "Donald Trump",
+            "correct": false,
+            "count": "1,771",
+            "percent": "52.55%"
+          },
+          {
+            "id": 312808,
+            "text": "Osama bin Laden",
+            "correct": true,
+            "count": "1,046",
+            "percent": "31.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/1/11",
+        "game_link": "/us/game/2019-11-17/1",
+        "correct_answers": 1046,
+        "incorrect_answers": 2324,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158902,
+        "text": "The Chandos portrait of William Shakespeare shows the Bard wearing what accessory?",
+        "question_number": 12,
+        "eliminated": "1,957",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "908",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312809,
+            "text": "Feathered hat",
+            "correct": false,
+            "count": "551",
+            "percent": "20.01%"
+          },
+          {
+            "id": 312810,
+            "text": "Ruff",
+            "correct": false,
+            "count": "1,294",
+            "percent": "47.0%"
+          },
+          {
+            "id": 312811,
+            "text": "Gold earring",
+            "correct": true,
+            "count": "908",
+            "percent": "32.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/1/12",
+        "game_link": "/us/game/2019-11-17/1",
+        "correct_answers": 908,
+        "incorrect_answers": 1845,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2382,
+        "game_id": 141383,
+        "question": "What playing on a cows ipod?",
+        "results": [
+          {
+            "id": 13795,
+            "display_count": "42",
+            "vote_count": 11652,
+            "text": "(Don't Fear) The Reaper"
+          },
+          {
+            "id": 13796,
+            "display_count": "31",
+            "vote_count": 8423,
+            "text": "Macarena"
+          },
+          {
+            "id": 13797,
+            "display_count": "27",
+            "vote_count": 7459,
+            "text": "What's New Pussycat?"
+          }
+        ],
+        "created_at": "2019-11-17T05:59:56Z"
+      },
+      {
+        "id": 2381,
+        "game_id": 141383,
+        "question": "Which generation is the coolest?",
+        "results": [
+          {
+            "id": 13789,
+            "display_count": "30",
+            "vote_count": 10798,
+            "text": "Baby Boomers"
+          },
+          {
+            "id": 13790,
+            "display_count": "30",
+            "vote_count": 10542,
+            "text": "Gen Z"
+          },
+          {
+            "id": 13791,
+            "display_count": "40",
+            "vote_count": 14311,
+            "text": "Millennials "
+          }
+        ],
+        "created_at": "2019-11-17T05:56:36Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 141398,
+    "show_id": 12914,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-11-18T02:00:00Z",
+    "direct_link": "/us/game/2019-11-17/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,848",
+      "currency": "$",
+      "average_prize": "0.54"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      null,
+      {
+        "id": 158904,
+        "text": "What river made the Grand Canyon?",
+        "question_number": 2,
+        "eliminated": "2,870",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "93,664",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312812,
+            "text": "Ohio River",
+            "correct": false,
+            "count": "1,132",
+            "percent": "1.26%"
+          },
+          {
+            "id": 312813,
+            "text": "Colorado River",
+            "correct": true,
+            "count": "85,974",
+            "percent": "95.61%"
+          },
+          {
+            "id": 312814,
+            "text": "Missouri River",
+            "correct": false,
+            "count": "2,813",
+            "percent": "3.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/2/2",
+        "game_link": "/us/game/2019-11-17/2",
+        "correct_answers": 85974,
+        "incorrect_answers": 3945,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158906,
+        "text": "This national park was named for what natural feature?",
+        "question_number": 3,
+        "eliminated": "13,395",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "80,500",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312815,
+            "text": "Red rocks",
+            "correct": false,
+            "count": "25,223",
+            "percent": "28.5%"
+          },
+          {
+            "id": 312816,
+            "text": "Canyons",
+            "correct": false,
+            "count": "2,664",
+            "percent": "3.01%"
+          },
+          {
+            "id": 312817,
+            "text": "Arches",
+            "correct": true,
+            "count": "60,621",
+            "percent": "68.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/2/3",
+        "game_link": "/us/game/2019-11-17/2",
+        "correct_answers": 60621,
+        "incorrect_answers": 27887,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158908,
+        "text": "What can you NOT find at Biscayne National Park?",
+        "question_number": 4,
+        "eliminated": "35,950",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "45,600",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312818,
+            "text": "Coral reefs",
+            "correct": false,
+            "count": "31,621",
+            "percent": "41.5%"
+          },
+          {
+            "id": 312819,
+            "text": "19th-century shipwrecks",
+            "correct": false,
+            "count": "10,191",
+            "percent": "13.37%"
+          },
+          {
+            "id": 312820,
+            "text": "Elephant seals",
+            "correct": true,
+            "count": "34,390",
+            "percent": "45.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/2/4",
+        "game_link": "/us/game/2019-11-17/2",
+        "correct_answers": 34390,
+        "incorrect_answers": 41812,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158910,
+        "text": "What are these rock formations called?",
+        "question_number": 5,
+        "eliminated": "16,697",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "32,919",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312821,
+            "text": "Potreros",
+            "correct": false,
+            "count": "12,108",
+            "percent": "24.84%"
+          },
+          {
+            "id": 312822,
+            "text": "Ergs",
+            "correct": false,
+            "count": "7,713",
+            "percent": "15.82%"
+          },
+          {
+            "id": 312823,
+            "text": "Hoodoos",
+            "correct": true,
+            "count": "28,928",
+            "percent": "59.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/2/5",
+        "game_link": "/us/game/2019-11-17/2",
+        "correct_answers": 28928,
+        "incorrect_answers": 19821,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158912,
+        "text": "Which of these species is NOT native to the Everglades?",
+        "question_number": 6,
+        "eliminated": "10,167",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "24,750",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312824,
+            "text": "Burmese pythons",
+            "correct": true,
+            "count": "21,753",
+            "percent": "64.8%"
+          },
+          {
+            "id": 312825,
+            "text": "West Indian manatees",
+            "correct": false,
+            "count": "7,163",
+            "percent": "21.34%"
+          },
+          {
+            "id": 312826,
+            "text": "Florida panthers",
+            "correct": false,
+            "count": "4,654",
+            "percent": "13.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/2/6",
+        "game_link": "/us/game/2019-11-17/2",
+        "correct_answers": 21753,
+        "incorrect_answers": 11817,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158914,
+        "text": "Which president created the first national park?",
+        "question_number": 7,
+        "eliminated": "17,196",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "9,122",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312827,
+            "text": "Franklin Roosevelt",
+            "correct": false,
+            "count": "1,619",
+            "percent": "6.26%"
+          },
+          {
+            "id": 312828,
+            "text": "Theodore Roosevelt",
+            "correct": false,
+            "count": "19,881",
+            "percent": "76.86%"
+          },
+          {
+            "id": 312829,
+            "text": "Ulysses S. Grant",
+            "correct": true,
+            "count": "4,365",
+            "percent": "16.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/2/7",
+        "game_link": "/us/game/2019-11-17/2",
+        "correct_answers": 4365,
+        "incorrect_answers": 21500,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158916,
+        "text": "What national park would you most likely find this animal in?",
+        "question_number": 8,
+        "eliminated": "2,429",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "10,887",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312830,
+            "text": "Yellowstone",
+            "correct": false,
+            "count": "3,202",
+            "percent": "24.51%"
+          },
+          {
+            "id": 312831,
+            "text": "Badlands",
+            "correct": false,
+            "count": "574",
+            "percent": "4.39%"
+          },
+          {
+            "id": 312832,
+            "text": "Denali",
+            "correct": true,
+            "count": "9,290",
+            "percent": "71.1%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/2/8",
+        "game_link": "/us/game/2019-11-17/2",
+        "correct_answers": 9290,
+        "incorrect_answers": 3776,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158918,
+        "text": "Which of these animals are naturally found in Death Valley Natural Park?",
+        "question_number": 9,
+        "eliminated": "3,939",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "7,812",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312833,
+            "text": "Fish",
+            "correct": true,
+            "count": "5,496",
+            "percent": "47.63%"
+          },
+          {
+            "id": 312834,
+            "text": "Raccoons",
+            "correct": false,
+            "count": "5,638",
+            "percent": "48.86%"
+          },
+          {
+            "id": 312835,
+            "text": "Penguins",
+            "correct": false,
+            "count": "406",
+            "percent": "3.52%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/2/9",
+        "game_link": "/us/game/2019-11-17/2",
+        "correct_answers": 5496,
+        "incorrect_answers": 6044,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158920,
+        "text": "In what national park can you find the US national mammal?",
+        "question_number": 10,
+        "eliminated": "4,249",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "5,032",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312836,
+            "text": "Big Bend",
+            "correct": false,
+            "count": "1,924",
+            "percent": "21.49%"
+          },
+          {
+            "id": 312837,
+            "text": "Badlands",
+            "correct": true,
+            "count": "3,740",
+            "percent": "41.78%"
+          },
+          {
+            "id": 312838,
+            "text": "Shenandoah",
+            "correct": false,
+            "count": "3,287",
+            "percent": "36.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/2/10",
+        "game_link": "/us/game/2019-11-17/2",
+        "correct_answers": 3740,
+        "incorrect_answers": 5211,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158922,
+        "text": "Which national park has NO coral reefs?",
+        "question_number": 11,
+        "eliminated": "3,416",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "3,788",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312839,
+            "text": "Dry Tortugas",
+            "correct": false,
+            "count": "1,078",
+            "percent": "15.17%"
+          },
+          {
+            "id": 312840,
+            "text": "Capitol Reef",
+            "correct": true,
+            "count": "3,788",
+            "percent": "53.32%"
+          },
+          {
+            "id": 312841,
+            "text": "Virgin Islands",
+            "correct": false,
+            "count": "2,238",
+            "percent": "31.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/2/11",
+        "game_link": "/us/game/2019-11-17/2",
+        "correct_answers": 3788,
+        "incorrect_answers": 3316,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158924,
+        "text": "In the 1920s, entrepreneurial explorers competed to sell tourist tickets for what location?",
+        "question_number": 12,
+        "eliminated": "2,989",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "2,973",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312842,
+            "text": "KÄ«lauea Volcano",
+            "correct": false,
+            "count": "1,520",
+            "percent": "27.53%"
+          },
+          {
+            "id": 312843,
+            "text": "Mammoth Cave",
+            "correct": true,
+            "count": "2,973",
+            "percent": "53.85%"
+          },
+          {
+            "id": 312844,
+            "text": "Grand Canyon",
+            "correct": false,
+            "count": "1,028",
+            "percent": "18.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/2/12",
+        "game_link": "/us/game/2019-11-17/2",
+        "correct_answers": 2973,
+        "incorrect_answers": 2548,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158926,
+        "text": "The oldest restaurant in Acadia National Park serves what speciality?",
+        "question_number": 13,
+        "eliminated": "2,522",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "2,204",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312845,
+            "text": "Popovers and tea",
+            "correct": true,
+            "count": "2,204",
+            "percent": "47.15%"
+          },
+          {
+            "id": 312846,
+            "text": "Blueberry ice cream",
+            "correct": false,
+            "count": "1,109",
+            "percent": "23.73%"
+          },
+          {
+            "id": 312847,
+            "text": "Lobster thermidor",
+            "correct": false,
+            "count": "1,361",
+            "percent": "29.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/2/13",
+        "game_link": "/us/game/2019-11-17/2",
+        "correct_answers": 2204,
+        "incorrect_answers": 2470,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158928,
+        "text": "Part of the notoriously snowy southern slope of Mount Rainier National Park has what name?",
+        "question_number": 14,
+        "eliminated": "1,706",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "2,228",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312848,
+            "text": "Mount Doom",
+            "correct": false,
+            "count": "802",
+            "percent": "20.78%"
+          },
+          {
+            "id": 312849,
+            "text": "Paradise",
+            "correct": true,
+            "count": "2,228",
+            "percent": "57.74%"
+          },
+          {
+            "id": 312850,
+            "text": "Santaâs Workshop",
+            "correct": false,
+            "count": "829",
+            "percent": "21.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/2/14",
+        "game_link": "/us/game/2019-11-17/2",
+        "correct_answers": 2228,
+        "incorrect_answers": 1631,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 158930,
+        "text": "The first US land set aside by the federal government specifically for recreation is known for what?",
+        "question_number": 15,
+        "eliminated": "1,541",
+        "category": "",
+        "category_slug": "",
+        "advancing": "1,848",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 312851,
+            "text": "Fine-grain sand",
+            "correct": false,
+            "count": "474",
+            "percent": "14.32%"
+          },
+          {
+            "id": 312852,
+            "text": "Hot springs",
+            "correct": true,
+            "count": "1,848",
+            "percent": "55.81%"
+          },
+          {
+            "id": 312853,
+            "text": "Elk",
+            "correct": false,
+            "count": "989",
+            "percent": "29.87%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-17/2/15",
+        "game_link": "/us/game/2019-11-17/2",
+        "correct_answers": 1848,
+        "incorrect_answers": 1463,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2383,
+        "game_id": 141398,
+        "question": "What is your favorite outdoor activity?",
+        "results": [
+          {
+            "id": 13801,
+            "display_count": "33",
+            "vote_count": 8838,
+            "text": "Camping "
+          },
+          {
+            "id": 13803,
+            "display_count": "16",
+            "vote_count": 4175,
+            "text": "Kayaking "
+          },
+          {
+            "id": 13802,
+            "display_count": "51",
+            "vote_count": 13492,
+            "text": "Nature Walk"
+          }
+        ],
+        "created_at": "2019-11-18T02:03:21Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

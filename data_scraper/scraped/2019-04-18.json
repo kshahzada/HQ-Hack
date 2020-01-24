@@ -1,0 +1,1490 @@
+[
+  {
+    "id": 97092,
+    "show_id": 10307,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "2,500",
+    "currency": "$",
+    "start_time": "2019-04-18T19:00:00Z",
+    "direct_link": "/us/game/2019-04-18/1",
+    "time": " 3:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "3,415",
+      "currency": "$",
+      "average_prize": "0.73"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 100433,
+        "text": "Where would you typically find the apex of something?",
+        "question_number": 1,
+        "eliminated": "-5,902",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "130,407",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225122,
+            "text": "Top",
+            "correct": true,
+            "count": "110,633",
+            "percent": "88.86%"
+          },
+          {
+            "id": 225123,
+            "text": "Bottom",
+            "correct": false,
+            "count": "4,371",
+            "percent": "3.51%"
+          },
+          {
+            "id": 225126,
+            "text": "Neither",
+            "correct": false,
+            "count": "9,501",
+            "percent": "7.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/1/1",
+        "game_link": "/us/game/2019-04-18/1",
+        "correct_answers": 110633,
+        "incorrect_answers": 13872,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100450,
+        "text": "Which of these is a process that yields butter?",
+        "question_number": 2,
+        "eliminated": "1,430",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "129,172",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225147,
+            "text": "Kerning",
+            "correct": false,
+            "count": "1,590",
+            "percent": "1.28%"
+          },
+          {
+            "id": 225150,
+            "text": "Churning",
+            "correct": true,
+            "count": "121,840",
+            "percent": "97.98%"
+          },
+          {
+            "id": 225155,
+            "text": "Yearning",
+            "correct": false,
+            "count": "919",
+            "percent": "0.74%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/1/2",
+        "game_link": "/us/game/2019-04-18/1",
+        "correct_answers": 121840,
+        "incorrect_answers": 2509,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100465,
+        "text": "Jazzercise is best described as what type of workout?",
+        "question_number": 3,
+        "eliminated": "905",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "128,306",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225170,
+            "text": "Dance",
+            "correct": true,
+            "count": "120,510",
+            "percent": "97.79%"
+          },
+          {
+            "id": 225171,
+            "text": "Yoga",
+            "correct": false,
+            "count": "1,785",
+            "percent": "1.45%"
+          },
+          {
+            "id": 225175,
+            "text": "Stationary biking",
+            "correct": false,
+            "count": "933",
+            "percent": "0.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/1/3",
+        "game_link": "/us/game/2019-04-18/1",
+        "correct_answers": 120510,
+        "incorrect_answers": 2718,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100482,
+        "text": "What is the name of this character?",
+        "question_number": 4,
+        "eliminated": "4,270",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "124,076",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225195,
+            "text": "Daenerys Targaryen",
+            "correct": false,
+            "count": "13,011",
+            "percent": "10.65%"
+          },
+          {
+            "id": 225203,
+            "text": "Bran Stark",
+            "correct": true,
+            "count": "92,015",
+            "percent": "75.3%"
+          },
+          {
+            "id": 225211,
+            "text": "Tyrion Lannister",
+            "correct": false,
+            "count": "17,169",
+            "percent": "14.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/1/4",
+        "game_link": "/us/game/2019-04-18/1",
+        "correct_answers": 92015,
+        "incorrect_answers": 30180,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100497,
+        "text": "Which famous highway contains long stretches without a speed limit?",
+        "question_number": 5,
+        "eliminated": "3,501",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "120,799",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225218,
+            "text": "Autobahn",
+            "correct": true,
+            "count": "100,673",
+            "percent": "84.84%"
+          },
+          {
+            "id": 225221,
+            "text": "Pacific Coast Highway",
+            "correct": false,
+            "count": "2,680",
+            "percent": "2.26%"
+          },
+          {
+            "id": 225226,
+            "text": "Route 66",
+            "correct": false,
+            "count": "15,304",
+            "percent": "12.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/1/5",
+        "game_link": "/us/game/2019-04-18/1",
+        "correct_answers": 100673,
+        "incorrect_answers": 17984,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100513,
+        "text": "What was the username of the early infamous YouTube âvlogâ account that was revealed to be staged?",
+        "question_number": 6,
+        "eliminated": "9,487",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "111,555",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225242,
+            "text": "DailyGrace",
+            "correct": false,
+            "count": "10,501",
+            "percent": "9.26%"
+          },
+          {
+            "id": 225244,
+            "text": "Jenny4U",
+            "correct": false,
+            "count": "22,155",
+            "percent": "19.54%"
+          },
+          {
+            "id": 225248,
+            "text": "Lonelygirl15",
+            "correct": true,
+            "count": "80,727",
+            "percent": "71.2%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/1/6",
+        "game_link": "/us/game/2019-04-18/1",
+        "correct_answers": 80727,
+        "incorrect_answers": 32656,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100529,
+        "text": "In the 1980s, Macintosh print menu screens featured what kind of hybrid animal?",
+        "question_number": 7,
+        "eliminated": "68,463",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "43,749",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225266,
+            "text": "Sheep / Wolf",
+            "correct": false,
+            "count": "15,849",
+            "percent": "15.19%"
+          },
+          {
+            "id": 225268,
+            "text": "Dog / Cow",
+            "correct": true,
+            "count": "38,495",
+            "percent": "36.89%"
+          },
+          {
+            "id": 225272,
+            "text": "Cat / Mouse",
+            "correct": false,
+            "count": "50,002",
+            "percent": "47.92%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/1/7",
+        "game_link": "/us/game/2019-04-18/1",
+        "correct_answers": 38495,
+        "incorrect_answers": 65851,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100546,
+        "text": "Kathmandu is the capital of which place?",
+        "question_number": 8,
+        "eliminated": "17,528",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "34,246",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225291,
+            "text": "Nepal",
+            "correct": true,
+            "count": "34,234",
+            "percent": "68.03%"
+          },
+          {
+            "id": 225294,
+            "text": "Tibet",
+            "correct": false,
+            "count": "6,087",
+            "percent": "12.1%"
+          },
+          {
+            "id": 225298,
+            "text": "Mongolia",
+            "correct": false,
+            "count": "10,001",
+            "percent": "19.87%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/1/8",
+        "game_link": "/us/game/2019-04-18/1",
+        "correct_answers": 34234,
+        "incorrect_answers": 16088,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100561,
+        "text": "The designer of this building also designed which of these?",
+        "question_number": 9,
+        "eliminated": "27,064",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "8,627",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225314,
+            "text": "Taliesin West",
+            "correct": true,
+            "count": "8,624",
+            "percent": "24.7%"
+          },
+          {
+            "id": 225317,
+            "text": "Royal Ontario Museum",
+            "correct": false,
+            "count": "4,173",
+            "percent": "11.95%"
+          },
+          {
+            "id": 225320,
+            "text": "Sydney Opera House",
+            "correct": false,
+            "count": "22,119",
+            "percent": "63.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/1/9",
+        "game_link": "/us/game/2019-04-18/1",
+        "correct_answers": 8624,
+        "incorrect_answers": 26292,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100578,
+        "text": "Which of these US presidents shares a name with a Pulitzer Prize-winning composer?",
+        "question_number": 10,
+        "eliminated": "3,261",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "9,580",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225339,
+            "text": "Richard Nixon",
+            "correct": false,
+            "count": "1,408",
+            "percent": "11.27%"
+          },
+          {
+            "id": 225342,
+            "text": "George Bush",
+            "correct": false,
+            "count": "1,506",
+            "percent": "12.05%"
+          },
+          {
+            "id": 225348,
+            "text": "John Adams",
+            "correct": true,
+            "count": "9,580",
+            "percent": "76.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/1/10",
+        "game_link": "/us/game/2019-04-18/1",
+        "correct_answers": 9580,
+        "incorrect_answers": 2914,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100594,
+        "text": "Which queen has Helen Mirren NOT played?",
+        "question_number": 11,
+        "eliminated": "2,111",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "7,874",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225363,
+            "text": "Queen Elizabeth II",
+            "correct": false,
+            "count": "671",
+            "percent": "6.76%"
+          },
+          {
+            "id": 225365,
+            "text": "Queen Elizabeth I",
+            "correct": false,
+            "count": "1,382",
+            "percent": "13.92%"
+          },
+          {
+            "id": 225370,
+            "text": "Elizabeth, Queen Mother",
+            "correct": true,
+            "count": "7,874",
+            "percent": "79.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/1/11",
+        "game_link": "/us/game/2019-04-18/1",
+        "correct_answers": 7874,
+        "incorrect_answers": 2053,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100611,
+        "text": "Whose song did Sarah Jessica Parker perform during her âGleeâ appearances?",
+        "question_number": 12,
+        "eliminated": "4,911",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "3,415",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225389,
+            "text": "Maroon 5",
+            "correct": false,
+            "count": "2,552",
+            "percent": "31.15%"
+          },
+          {
+            "id": 225392,
+            "text": "Scissor Sisters",
+            "correct": true,
+            "count": "3,415",
+            "percent": "41.68%"
+          },
+          {
+            "id": 225397,
+            "text": "The Killers",
+            "correct": false,
+            "count": "2,226",
+            "percent": "27.17%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/1/12",
+        "game_link": "/us/game/2019-04-18/1",
+        "correct_answers": 3415,
+        "incorrect_answers": 4778,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 97210,
+    "show_id": 10487,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-04-19T01:00:00Z",
+    "direct_link": "/us/game/2019-04-18/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "291",
+      "currency": "$",
+      "average_prize": "17.18"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "TV",
+        "slug": "tv"
+      }
+    ],
+    "questions": [
+      {
+        "id": 100626,
+        "text": "What is the name of the tattoo on Little Peteâs arm on âThe Adventures of Pete & Peteâ?",
+        "question_number": 1,
+        "eliminated": "-19,050",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "385,007",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225411,
+            "text": "Petunia",
+            "correct": true,
+            "count": "323,410",
+            "percent": "92.89%"
+          },
+          {
+            "id": 225413,
+            "text": "Post Malone",
+            "correct": false,
+            "count": "14,108",
+            "percent": "4.05%"
+          },
+          {
+            "id": 225416,
+            "text": "Pneumonia",
+            "correct": false,
+            "count": "10,635",
+            "percent": "3.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/2/1",
+        "game_link": "/us/game/2019-04-18/2",
+        "correct_answers": 323410,
+        "incorrect_answers": 24743,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100642,
+        "text": "Which of these is a âLegends of the Hidden Templeâ team name?",
+        "question_number": 2,
+        "eliminated": "10,990",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "374,821",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225435,
+            "text": "Chonky Monkeys",
+            "correct": false,
+            "count": "81,025",
+            "percent": "23.42%"
+          },
+          {
+            "id": 225438,
+            "text": "Millennial Pink Parrots",
+            "correct": false,
+            "count": "25,558",
+            "percent": "7.39%"
+          },
+          {
+            "id": 225441,
+            "text": "Orange Iguanas",
+            "correct": true,
+            "count": "239,349",
+            "percent": "69.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/2/2",
+        "game_link": "/us/game/2019-04-18/2",
+        "correct_answers": 239349,
+        "incorrect_answers": 106583,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100658,
+        "text": "What is Clarissaâs last name on âClarissa Explains It Allâ?",
+        "question_number": 3,
+        "eliminated": "12,915",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "362,898",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225459,
+            "text": "Heart",
+            "correct": false,
+            "count": "97,406",
+            "percent": "28.04%"
+          },
+          {
+            "id": 225461,
+            "text": "Dearest",
+            "correct": false,
+            "count": "28,259",
+            "percent": "8.14%"
+          },
+          {
+            "id": 225463,
+            "text": "Darling",
+            "correct": true,
+            "count": "221,689",
+            "percent": "63.82%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/2/3",
+        "game_link": "/us/game/2019-04-18/2",
+        "correct_answers": 221689,
+        "incorrect_answers": 125665,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100674,
+        "text": "What is an official name of this formidable final stage from a hit Nick game show?",
+        "question_number": 4,
+        "eliminated": "18,574",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "345,517",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225484,
+            "text": "Olmecâs Temple",
+            "correct": false,
+            "count": "103,114",
+            "percent": "30.98%"
+          },
+          {
+            "id": 225486,
+            "text": "Physical Challenge",
+            "correct": false,
+            "count": "39,681",
+            "percent": "11.92%"
+          },
+          {
+            "id": 225490,
+            "text": "Aggro Crag",
+            "correct": true,
+            "count": "190,003",
+            "percent": "57.09%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/2/4",
+        "game_link": "/us/game/2019-04-18/2",
+        "correct_answers": 190003,
+        "incorrect_answers": 142795,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100690,
+        "text": "How does Rocko describe âlaundry dayâ at the end of this scene?",
+        "question_number": 5,
+        "eliminated": "24,327",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "322,358",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225508,
+            "text": "The dirtiest day ever",
+            "correct": false,
+            "count": "53,311",
+            "percent": "16.86%"
+          },
+          {
+            "id": 225512,
+            "text": "A very dangerous day",
+            "correct": true,
+            "count": "168,375",
+            "percent": "53.25%"
+          },
+          {
+            "id": 225516,
+            "text": "Worst day of the week",
+            "correct": false,
+            "count": "94,483",
+            "percent": "29.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/2/5",
+        "game_link": "/us/game/2019-04-18/2",
+        "correct_answers": 168375,
+        "incorrect_answers": 147794,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100705,
+        "text": "According to Marc Summers, which of these was in the original recipe for green slime?",
+        "question_number": 6,
+        "eliminated": "50,472",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "273,583",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225531,
+            "text": "Orange juice concentrate",
+            "correct": false,
+            "count": "44,828",
+            "percent": "15.53%"
+          },
+          {
+            "id": 225536,
+            "text": "Kool-Aid",
+            "correct": false,
+            "count": "118,658",
+            "percent": "41.1%"
+          },
+          {
+            "id": 225544,
+            "text": "Pudding",
+            "correct": true,
+            "count": "125,242",
+            "percent": "43.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/2/6",
+        "game_link": "/us/game/2019-04-18/2",
+        "correct_answers": 125242,
+        "incorrect_answers": 163486,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100722,
+        "text": "Which of these is NOT one of Alex Mackâs superpowers on âThe Secret World of Alex Mackâ?",
+        "question_number": 7,
+        "eliminated": "161,789",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "115,578",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225557,
+            "text": "Shooting electricity",
+            "correct": false,
+            "count": "71,508",
+            "percent": "29.0%"
+          },
+          {
+            "id": 225559,
+            "text": "Teleportation",
+            "correct": true,
+            "count": "105,862",
+            "percent": "42.93%"
+          },
+          {
+            "id": 225562,
+            "text": "Telekinesis",
+            "correct": false,
+            "count": "69,224",
+            "percent": "28.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/2/7",
+        "game_link": "/us/game/2019-04-18/2",
+        "correct_answers": 105862,
+        "incorrect_answers": 140732,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100738,
+        "text": "The star of what film once appeared on an episode of âAre You Afraid of the Darkâ?",
+        "question_number": 8,
+        "eliminated": "66,839",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "67,035",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225581,
+            "text": "Donnie Darko",
+            "correct": false,
+            "count": "34,020",
+            "percent": "26.44%"
+          },
+          {
+            "id": 225583,
+            "text": "The Notebook",
+            "correct": true,
+            "count": "66,987",
+            "percent": "52.06%"
+          },
+          {
+            "id": 225586,
+            "text": "A Star Is Born",
+            "correct": false,
+            "count": "27,659",
+            "percent": "21.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/2/8",
+        "game_link": "/us/game/2019-04-18/2",
+        "correct_answers": 66987,
+        "incorrect_answers": 61679,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100754,
+        "text": "Which of these was NOT a recurring sketch on âAll Thatâ?",
+        "question_number": 9,
+        "eliminated": "25,737",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "49,961",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225603,
+            "text": "Cheese Police",
+            "correct": false,
+            "count": "15,680",
+            "percent": "21.32%"
+          },
+          {
+            "id": 225606,
+            "text": "The UBS Guy",
+            "correct": true,
+            "count": "49,961",
+            "percent": "67.93%"
+          },
+          {
+            "id": 225612,
+            "text": "Loud Librarian",
+            "correct": false,
+            "count": "7,910",
+            "percent": "10.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/2/9",
+        "game_link": "/us/game/2019-04-18/2",
+        "correct_answers": 49961,
+        "incorrect_answers": 23590,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100769,
+        "text": "When Sponge competes in a trivia contest on âSalute Your Shorts,â what is the final winning question about?",
+        "question_number": 10,
+        "eliminated": "21,144",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "32,055",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225626,
+            "text": "Giraffeâs tongue",
+            "correct": true,
+            "count": "32,055",
+            "percent": "63.82%"
+          },
+          {
+            "id": 225628,
+            "text": "George Michael",
+            "correct": false,
+            "count": "4,763",
+            "percent": "9.48%"
+          },
+          {
+            "id": 225631,
+            "text": "Pituitary gland",
+            "correct": false,
+            "count": "13,413",
+            "percent": "26.7%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/2/10",
+        "game_link": "/us/game/2019-04-18/2",
+        "correct_answers": 32055,
+        "incorrect_answers": 18176,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100786,
+        "text": "Which of these animated shows debuted on Nickelodeon first?",
+        "question_number": 11,
+        "eliminated": "16,879",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "18,069",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225650,
+            "text": "The Wild Thornberrys",
+            "correct": false,
+            "count": "3,012",
+            "percent": "8.69%"
+          },
+          {
+            "id": 225653,
+            "text": "CatDog",
+            "correct": false,
+            "count": "13,570",
+            "percent": "39.16%"
+          },
+          {
+            "id": 225660,
+            "text": "The Angry Beavers",
+            "correct": true,
+            "count": "18,069",
+            "percent": "52.15%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/2/11",
+        "game_link": "/us/game/2019-04-18/2",
+        "correct_answers": 18069,
+        "incorrect_answers": 16582,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100801,
+        "text": "Of these members of the Midnight Society, who told the most stories on âAre You Afraid of the Dark?â",
+        "question_number": 12,
+        "eliminated": "19,166",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "2,166",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225675,
+            "text": "Kiki",
+            "correct": false,
+            "count": "9,040",
+            "percent": "42.92%"
+          },
+          {
+            "id": 225679,
+            "text": "Sam",
+            "correct": false,
+            "count": "9,857",
+            "percent": "46.8%"
+          },
+          {
+            "id": 225686,
+            "text": "Betty Ann",
+            "correct": true,
+            "count": "2,166",
+            "percent": "10.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/2/12",
+        "game_link": "/us/game/2019-04-18/2",
+        "correct_answers": 2166,
+        "incorrect_answers": 18897,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100821,
+        "text": "According to the showâs creator, âHey Arnold!â is set in what geographical area?",
+        "question_number": 13,
+        "eliminated": "5,464",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "682",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225703,
+            "text": "New Jersey",
+            "correct": false,
+            "count": "4,341",
+            "percent": "71.76%"
+          },
+          {
+            "id": 225710,
+            "text": "Pacific Northwest",
+            "correct": true,
+            "count": "682",
+            "percent": "11.27%"
+          },
+          {
+            "id": 225713,
+            "text": "New England",
+            "correct": false,
+            "count": "1,026",
+            "percent": "16.96%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/2/13",
+        "game_link": "/us/game/2019-04-18/2",
+        "correct_answers": 682,
+        "incorrect_answers": 5367,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100833,
+        "text": "Which pair of Nicktoons characters was voiced by the same actor?",
+        "question_number": 14,
+        "eliminated": "518",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "516",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225722,
+            "text": "SpongeBob / Stimpy",
+            "correct": false,
+            "count": "234",
+            "percent": "23.1%"
+          },
+          {
+            "id": 225723,
+            "text": "Oblina / Chuckie",
+            "correct": true,
+            "count": "516",
+            "percent": "50.94%"
+          },
+          {
+            "id": 225727,
+            "text": "Doug / Daggett",
+            "correct": false,
+            "count": "263",
+            "percent": "25.96%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/2/14",
+        "game_link": "/us/game/2019-04-18/2",
+        "correct_answers": 516,
+        "incorrect_answers": 497,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 100852,
+        "text": "This classic Nick song repeatedly refers to works by which performer?",
+        "question_number": 15,
+        "eliminated": "267",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "291",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 225752,
+            "text": "Pete Seeger",
+            "correct": false,
+            "count": "168",
+            "percent": "30.27%"
+          },
+          {
+            "id": 225756,
+            "text": "Johnny Mathis",
+            "correct": false,
+            "count": "96",
+            "percent": "17.3%"
+          },
+          {
+            "id": 225761,
+            "text": "Burl Ives",
+            "correct": true,
+            "count": "291",
+            "percent": "52.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-04-18/2/15",
+        "game_link": "/us/game/2019-04-18/2",
+        "correct_answers": 291,
+        "incorrect_answers": 264,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 97353,
+    "show_id": 10494,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-04-19T01:30:00Z",
+    "direct_link": "/us/game/2019-04-18/3",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "2,230",
+      "currency": "$",
+      "average_prize": "0.45"
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-04-18/3/1",
+        "question_number": 1,
+        "text": "Aaahh!!!",
+        "answer": [
+          "REAL",
+          "MONSTERS"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "S",
+          "T"
+        ],
+        "game_link": "/us/game/2019-04-18/3",
+        "eliminated": 38438,
+        "advancing": 138690,
+        "correct_answers": 138690,
+        "incorrect_answers": 38438
+      },
+      {
+        "direct_link": "/us/game/2019-04-18/3/2",
+        "question_number": 2,
+        "text": "Pete & Pete Insult",
+        "answer": [
+          "HEY",
+          "BLOWHOLE"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-04-18/3",
+        "eliminated": 50430,
+        "advancing": 89126,
+        "correct_answers": 89126,
+        "incorrect_answers": 50430
+      },
+      {
+        "direct_link": "/us/game/2019-04-18/3/3",
+        "question_number": 3,
+        "text": "Spooky group",
+        "answer": [
+          "MIDNIGHT",
+          "SOCIETY"
+        ],
+        "initial_letters": [
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "M",
+          "T"
+        ],
+        "game_link": "/us/game/2019-04-18/3",
+        "eliminated": 51646,
+        "advancing": 39525,
+        "correct_answers": 39525,
+        "incorrect_answers": 51646
+      },
+      {
+        "direct_link": "/us/game/2019-04-18/3/4",
+        "question_number": 4,
+        "text": "Games Gang",
+        "answer": [
+          "WILD",
+          "&",
+          "CRAZY",
+          "KIDS"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "Y"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "R"
+        ],
+        "game_link": "/us/game/2019-04-18/3",
+        "eliminated": 19889,
+        "advancing": 21857,
+        "correct_answers": 21857,
+        "incorrect_answers": 19889
+      },
+      {
+        "direct_link": "/us/game/2019-04-18/3/5",
+        "question_number": 5,
+        "text": "Hospitable Greeting",
+        "answer": [
+          "WELCOME",
+          "TO",
+          "GOOD",
+          "BURGER"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "W"
+        ],
+        "game_link": "/us/game/2019-04-18/3",
+        "eliminated": 9451,
+        "advancing": 13744,
+        "correct_answers": 13744,
+        "incorrect_answers": 9451
+      },
+      {
+        "direct_link": "/us/game/2019-04-18/3/6",
+        "question_number": 6,
+        "text": "Small Holiday?",
+        "answer": [
+          "A",
+          "RUGRATS",
+          "PASSOVER"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "G"
+        ],
+        "game_link": "/us/game/2019-04-18/3",
+        "eliminated": 2536,
+        "advancing": 12321,
+        "correct_answers": 12321,
+        "incorrect_answers": 2536
+      },
+      {
+        "direct_link": "/us/game/2019-04-18/3/7",
+        "question_number": 7,
+        "text": "Breakfast Superhero",
+        "answer": [
+          "POWDERED",
+          "TOAST",
+          "MAN"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "T"
+        ],
+        "game_link": "/us/game/2019-04-18/3",
+        "eliminated": 3052,
+        "advancing": 9532,
+        "correct_answers": 9532,
+        "incorrect_answers": 3052
+      },
+      {
+        "direct_link": "/us/game/2019-04-18/3/8",
+        "question_number": 8,
+        "text": "French Teacher",
+        "answer": [
+          "PIERRE",
+          "ESCARGOT"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "T"
+        ],
+        "game_link": "/us/game/2019-04-18/3",
+        "eliminated": 1396,
+        "advancing": 8586,
+        "correct_answers": 8586,
+        "incorrect_answers": 1396
+      },
+      {
+        "direct_link": "/us/game/2019-04-18/3/9",
+        "question_number": 9,
+        "text": "Marc Summersâ Question",
+        "answer": [
+          "WHAT",
+          "WOULD",
+          "YOU",
+          "DO?"
+        ],
+        "initial_letters": [
+          " ",
+          "?",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "L",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-04-18/3",
+        "eliminated": 183,
+        "advancing": 8658,
+        "correct_answers": 8658,
+        "incorrect_answers": 183
+      },
+      {
+        "direct_link": "/us/game/2019-04-18/3/10",
+        "question_number": 10,
+        "text": "Caped Heroes",
+        "answer": [
+          "QUAILMAN",
+          "&",
+          "QUAILDOG"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "Q"
+        ],
+        "game_link": "/us/game/2019-04-18/3",
+        "eliminated": 2893,
+        "advancing": 5803,
+        "correct_answers": 5803,
+        "incorrect_answers": 2893
+      },
+      {
+        "direct_link": "/us/game/2019-04-18/3/11",
+        "question_number": 11,
+        "text": "Competitor Intro",
+        "answer": [
+          "SPILL",
+          "YOUR",
+          "GUTS"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "G",
+          "O"
+        ],
+        "game_link": "/us/game/2019-04-18/3",
+        "eliminated": 1884,
+        "advancing": 4694,
+        "correct_answers": 4694,
+        "incorrect_answers": 1884
+      },
+      {
+        "direct_link": "/us/game/2019-04-18/3/12",
+        "question_number": 12,
+        "text": "Camp Duo",
+        "answer": [
+          "DONKEY",
+          "LIPS",
+          "&",
+          "",
+          "BUDNICK"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "U",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-04-18/3",
+        "eliminated": 3018,
+        "advancing": 2230,
+        "correct_answers": 2230,
+        "incorrect_answers": 3018
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

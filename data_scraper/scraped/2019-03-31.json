@@ -1,0 +1,1031 @@
+[
+  {
+    "id": 91166,
+    "show_id": 10207,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "10,000",
+    "currency": "$",
+    "start_time": "2019-04-01T01:00:00Z",
+    "direct_link": "/us/game/2019-03-31/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,011",
+      "currency": "$",
+      "average_prize": "4.97"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 94165,
+        "text": "An old saying advises not to count what before theyâve hatched?",
+        "question_number": 1,
+        "eliminated": "-17,092",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "444,654",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215723,
+            "text": "Chickens",
+            "correct": true,
+            "count": "421,232",
+            "percent": "98.52%"
+          },
+          {
+            "id": 215724,
+            "text": "Steamed hams",
+            "correct": false,
+            "count": "4,188",
+            "percent": "0.98%"
+          },
+          {
+            "id": 215726,
+            "text": "Schemes",
+            "correct": false,
+            "count": "2,142",
+            "percent": "0.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-31/1/1",
+        "game_link": "/us/game/2019-03-31/1",
+        "correct_answers": 421232,
+        "incorrect_answers": 6330,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94183,
+        "text": "Which is NOT a stack of cards included with a standard Monopoly board game?",
+        "question_number": 2,
+        "eliminated": "6,874",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "439,453",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215747,
+            "text": "Chance",
+            "correct": false,
+            "count": "8,338",
+            "percent": "1.93%"
+          },
+          {
+            "id": 215748,
+            "text": "Community Chest",
+            "correct": false,
+            "count": "12,050",
+            "percent": "2.79%"
+          },
+          {
+            "id": 215749,
+            "text": "Casino",
+            "correct": true,
+            "count": "411,015",
+            "percent": "95.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-31/1/2",
+        "game_link": "/us/game/2019-03-31/1",
+        "correct_answers": 411015,
+        "incorrect_answers": 20388,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94195,
+        "text": "Which of these conflicts did the US enter first?",
+        "question_number": 3,
+        "eliminated": "25,344",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "415,798",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215765,
+            "text": "World War I",
+            "correct": false,
+            "count": "20,508",
+            "percent": "4.88%"
+          },
+          {
+            "id": 215766,
+            "text": "Civil War",
+            "correct": false,
+            "count": "108,649",
+            "percent": "25.83%"
+          },
+          {
+            "id": 215767,
+            "text": "War of 1812",
+            "correct": true,
+            "count": "291,431",
+            "percent": "69.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-31/1/3",
+        "game_link": "/us/game/2019-03-31/1",
+        "correct_answers": 291431,
+        "incorrect_answers": 129157,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94214,
+        "text": "Cuticles are most closely associated with which body part?",
+        "question_number": 4,
+        "eliminated": "8,051",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "416,341",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215795,
+            "text": "Lungs",
+            "correct": false,
+            "count": "5,753",
+            "percent": "1.41%"
+          },
+          {
+            "id": 215797,
+            "text": "Abdomen",
+            "correct": false,
+            "count": "4,231",
+            "percent": "1.04%"
+          },
+          {
+            "id": 215800,
+            "text": "Hands",
+            "correct": true,
+            "count": "398,306",
+            "percent": "97.55%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-31/1/4",
+        "game_link": "/us/game/2019-03-31/1",
+        "correct_answers": 398306,
+        "incorrect_answers": 9984,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94227,
+        "text": "Of these sporting events, which occurs in the shortest amount of total standard game time?",
+        "question_number": 5,
+        "eliminated": "89,076",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "328,287",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215813,
+            "text": "NCAA basketball",
+            "correct": true,
+            "count": "135,298",
+            "percent": "39.13%"
+          },
+          {
+            "id": 215814,
+            "text": "High school football",
+            "correct": false,
+            "count": "117,262",
+            "percent": "33.92%"
+          },
+          {
+            "id": 215815,
+            "text": "NHL hockey",
+            "correct": false,
+            "count": "93,182",
+            "percent": "26.95%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-31/1/5",
+        "game_link": "/us/game/2019-03-31/1",
+        "correct_answers": 135298,
+        "incorrect_answers": 210444,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94244,
+        "text": "Which of these Nickelodeon cartoons aired by far the most episodes?",
+        "question_number": 6,
+        "eliminated": "51,733",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "302,079",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215840,
+            "text": "Doug",
+            "correct": false,
+            "count": "20,464",
+            "percent": "6.02%"
+          },
+          {
+            "id": 215841,
+            "text": "Rugrats",
+            "correct": true,
+            "count": "270,772",
+            "percent": "79.64%"
+          },
+          {
+            "id": 215842,
+            "text": "The Ren & Stimpy Show",
+            "correct": false,
+            "count": "48,764",
+            "percent": "14.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-31/1/6",
+        "game_link": "/us/game/2019-03-31/1",
+        "correct_answers": 270772,
+        "incorrect_answers": 69228,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94259,
+        "text": "The fur of all tabby cats always includes which of these?",
+        "question_number": 7,
+        "eliminated": "230,569",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "79,658",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215861,
+            "text": "âMâ on forehead",
+            "correct": true,
+            "count": "79,544",
+            "percent": "26.54%"
+          },
+          {
+            "id": 215863,
+            "text": "Orange stripes",
+            "correct": false,
+            "count": "186,972",
+            "percent": "62.38%"
+          },
+          {
+            "id": 215867,
+            "text": "Spots",
+            "correct": false,
+            "count": "33,223",
+            "percent": "11.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-31/1/7",
+        "game_link": "/us/game/2019-03-31/1",
+        "correct_answers": 79544,
+        "incorrect_answers": 220195,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94277,
+        "text": "Which of these words is of Chinese origin?",
+        "question_number": 8,
+        "eliminated": "66,202",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "49,400",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215888,
+            "text": "Sausage",
+            "correct": false,
+            "count": "10,992",
+            "percent": "9.69%"
+          },
+          {
+            "id": 215892,
+            "text": "Ketchup",
+            "correct": true,
+            "count": "49,398",
+            "percent": "43.53%"
+          },
+          {
+            "id": 215899,
+            "text": "Dumpling",
+            "correct": false,
+            "count": "53,094",
+            "percent": "46.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-31/1/8",
+        "game_link": "/us/game/2019-03-31/1",
+        "correct_answers": 49398,
+        "incorrect_answers": 64086,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94295,
+        "text": "The longest regularly scheduled airline flight links what cities?",
+        "question_number": 9,
+        "eliminated": "22,736",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "36,159",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215916,
+            "text": "Tokyo / Lisbon",
+            "correct": false,
+            "count": "6,768",
+            "percent": "11.75%"
+          },
+          {
+            "id": 215921,
+            "text": "Singapore / Newark",
+            "correct": true,
+            "count": "36,159",
+            "percent": "62.78%"
+          },
+          {
+            "id": 215926,
+            "text": "Auckland / Frankfurt",
+            "correct": false,
+            "count": "14,668",
+            "percent": "25.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-31/1/9",
+        "game_link": "/us/game/2019-03-31/1",
+        "correct_answers": 36159,
+        "incorrect_answers": 21436,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94307,
+        "text": "Which continent is home to the worldâs largest freshwater lake by surface area?",
+        "question_number": 10,
+        "eliminated": "25,006",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "15,270",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215933,
+            "text": "Africa",
+            "correct": false,
+            "count": "6,301",
+            "percent": "16.03%"
+          },
+          {
+            "id": 215935,
+            "text": "North America",
+            "correct": true,
+            "count": "15,270",
+            "percent": "38.85%"
+          },
+          {
+            "id": 215939,
+            "text": "Asia",
+            "correct": false,
+            "count": "17,731",
+            "percent": "45.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-31/1/10",
+        "game_link": "/us/game/2019-03-31/1",
+        "correct_answers": 15270,
+        "incorrect_answers": 24032,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94324,
+        "text": "The 1994 film âIt Runs in the Familyâ is a sequel with almost none of the original actors of what?",
+        "question_number": 11,
+        "eliminated": "8,297",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "13,408",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215957,
+            "text": "Dirty Dancing",
+            "correct": false,
+            "count": "2,539",
+            "percent": "12.15%"
+          },
+          {
+            "id": 215959,
+            "text": "A Christmas Story",
+            "correct": true,
+            "count": "13,408",
+            "percent": "64.17%"
+          },
+          {
+            "id": 215962,
+            "text": "Mr. Mom",
+            "correct": false,
+            "count": "4,947",
+            "percent": "23.68%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-31/1/11",
+        "game_link": "/us/game/2019-03-31/1",
+        "correct_answers": 13408,
+        "incorrect_answers": 7486,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94339,
+        "text": "In which of these places was the âDragon Stormâ observed?",
+        "question_number": 12,
+        "eliminated": "3,092",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "11,837",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 215981,
+            "text": "Middle Earth",
+            "correct": false,
+            "count": "904",
+            "percent": "6.09%"
+          },
+          {
+            "id": 215982,
+            "text": "Westeros",
+            "correct": false,
+            "count": "2,106",
+            "percent": "14.18%"
+          },
+          {
+            "id": 215989,
+            "text": "Saturn",
+            "correct": true,
+            "count": "11,837",
+            "percent": "79.73%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-31/1/12",
+        "game_link": "/us/game/2019-03-31/1",
+        "correct_answers": 11837,
+        "incorrect_answers": 3010,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94357,
+        "text": "Which of these composers is NOT considered Baroque?",
+        "question_number": 13,
+        "eliminated": "3,023",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "9,206",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 216007,
+            "text": "Johann Sebastian Bach",
+            "correct": false,
+            "count": "783",
+            "percent": "6.53%"
+          },
+          {
+            "id": 216010,
+            "text": "Ludwig van Beethoven",
+            "correct": true,
+            "count": "9,206",
+            "percent": "76.72%"
+          },
+          {
+            "id": 216019,
+            "text": "George Frideric Handel",
+            "correct": false,
+            "count": "2,011",
+            "percent": "16.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-31/1/13",
+        "game_link": "/us/game/2019-03-31/1",
+        "correct_answers": 9206,
+        "incorrect_answers": 2794,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94372,
+        "text": "Of these countries, whose national flag displays the countryâs shape?",
+        "question_number": 14,
+        "eliminated": "1,833",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "7,874",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 216032,
+            "text": "Philippines",
+            "correct": false,
+            "count": "399",
+            "percent": "4.17%"
+          },
+          {
+            "id": 216036,
+            "text": "Cyprus",
+            "correct": true,
+            "count": "7,874",
+            "percent": "82.27%"
+          },
+          {
+            "id": 216040,
+            "text": "Laos",
+            "correct": false,
+            "count": "1,298",
+            "percent": "13.56%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-31/1/14",
+        "game_link": "/us/game/2019-03-31/1",
+        "correct_answers": 7874,
+        "incorrect_answers": 1697,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 94387,
+        "text": "What expensive gift is J.Lo mad about at the start of her music video for âLove Donât Cost a Thingâ?",
+        "question_number": 15,
+        "eliminated": "6,090",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "2,011",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 216053,
+            "text": "Cell phone",
+            "correct": false,
+            "count": "868",
+            "percent": "11.25%"
+          },
+          {
+            "id": 216056,
+            "text": "Diamond ring",
+            "correct": false,
+            "count": "4,834",
+            "percent": "62.67%"
+          },
+          {
+            "id": 216061,
+            "text": "Bracelet",
+            "correct": true,
+            "count": "2,011",
+            "percent": "26.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-03-31/1/15",
+        "game_link": "/us/game/2019-03-31/1",
+        "correct_answers": 2011,
+        "incorrect_answers": 5702,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 91309,
+    "show_id": 10251,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-04-01T01:30:00Z",
+    "direct_link": "/us/game/2019-03-31/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "20,013",
+      "currency": "$",
+      "average_prize": "0.05"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-03-31/2/1",
+        "question_number": 1,
+        "text": "Sweet & Salty",
+        "answer": [
+          "CARAMEL",
+          "POPCORN"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "P"
+        ],
+        "game_link": "/us/game/2019-03-31/2",
+        "eliminated": 20777,
+        "advancing": 175677,
+        "correct_answers": 175677,
+        "incorrect_answers": 20777
+      },
+      {
+        "direct_link": "/us/game/2019-03-31/2/2",
+        "question_number": 2,
+        "text": "Summer Sport",
+        "answer": [
+          "SOFTBALL"
+        ],
+        "initial_letters": [
+          "S"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "L"
+        ],
+        "game_link": "/us/game/2019-03-31/2",
+        "eliminated": 4596,
+        "advancing": 172857,
+        "correct_answers": 172857,
+        "incorrect_answers": 4596
+      },
+      {
+        "direct_link": "/us/game/2019-03-31/2/3",
+        "question_number": 3,
+        "text": "Short Career",
+        "answer": [
+          "ONE-HIT",
+          "WONDER"
+        ],
+        "initial_letters": [
+          "-",
+          " ",
+          "N"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "R"
+        ],
+        "game_link": "/us/game/2019-03-31/2",
+        "eliminated": 41845,
+        "advancing": 131081,
+        "correct_answers": 131081,
+        "incorrect_answers": 41845
+      },
+      {
+        "direct_link": "/us/game/2019-03-31/2/4",
+        "question_number": 4,
+        "text": "Kitchen Doohickey",
+        "answer": [
+          "GARLIC",
+          "PRESS"
+        ],
+        "initial_letters": [
+          " ",
+          "C"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "R"
+        ],
+        "game_link": "/us/game/2019-03-31/2",
+        "eliminated": 25972,
+        "advancing": 108566,
+        "correct_answers": 108566,
+        "incorrect_answers": 25972
+      },
+      {
+        "direct_link": "/us/game/2019-03-31/2/5",
+        "question_number": 5,
+        "text": "â90s Hair Accessory",
+        "answer": [
+          "BUTTERFLY",
+          "CLIP"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "L"
+        ],
+        "game_link": "/us/game/2019-03-31/2",
+        "eliminated": 29536,
+        "advancing": 81055,
+        "correct_answers": 81055,
+        "incorrect_answers": 29536
+      },
+      {
+        "direct_link": "/us/game/2019-03-31/2/6",
+        "question_number": 6,
+        "text": "Better Pay Attention!",
+        "answer": [
+          "YOU",
+          "SNOOZE,",
+          "YOU",
+          "LOSE"
+        ],
+        "initial_letters": [
+          " ",
+          ",",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "N"
+        ],
+        "game_link": "/us/game/2019-03-31/2",
+        "eliminated": 12193,
+        "advancing": 71487,
+        "correct_answers": 71487,
+        "incorrect_answers": 12193
+      },
+      {
+        "direct_link": "/us/game/2019-03-31/2/7",
+        "question_number": 7,
+        "text": "Just Like Dad",
+        "answer": [
+          "CHIP",
+          "OFF",
+          "THE",
+          "OLD",
+          "BLOCK"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "F",
+          "H"
+        ],
+        "game_link": "/us/game/2019-03-31/2",
+        "eliminated": 19403,
+        "advancing": 53528,
+        "correct_answers": 53528,
+        "incorrect_answers": 19403
+      },
+      {
+        "direct_link": "/us/game/2019-03-31/2/8",
+        "question_number": 8,
+        "text": "Breakfast Maker",
+        "answer": [
+          "SHORT",
+          "ORDER",
+          "COOK"
+        ],
+        "initial_letters": [
+          " ",
+          "K"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "R"
+        ],
+        "game_link": "/us/game/2019-03-31/2",
+        "eliminated": 7562,
+        "advancing": 49269,
+        "correct_answers": 49269,
+        "incorrect_answers": 7562
+      },
+      {
+        "direct_link": "/us/game/2019-03-31/2/9",
+        "question_number": 9,
+        "text": "School Supply",
+        "answer": [
+          "PENCIL",
+          "SHARPENER"
+        ],
+        "initial_letters": [
+          " ",
+          "E"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "C"
+        ],
+        "game_link": "/us/game/2019-03-31/2",
+        "eliminated": 2568,
+        "advancing": 48121,
+        "correct_answers": 48121,
+        "incorrect_answers": 2568
+      },
+      {
+        "direct_link": "/us/game/2019-03-31/2/10",
+        "question_number": 10,
+        "text": "Not the Whole Problem",
+        "answer": [
+          "TIP",
+          "OF",
+          "THE",
+          "ICEBERG"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "F"
+        ],
+        "game_link": "/us/game/2019-03-31/2",
+        "eliminated": 4158,
+        "advancing": 44530,
+        "correct_answers": 44530,
+        "incorrect_answers": 4158
+      },
+      {
+        "direct_link": "/us/game/2019-03-31/2/11",
+        "question_number": 11,
+        "text": "Spelled-Out Acronym",
+        "answer": [
+          "IN",
+          "CASE",
+          "YOU",
+          "MISSED",
+          "IT"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "S",
+          "T"
+        ],
+        "game_link": "/us/game/2019-03-31/2",
+        "eliminated": 15023,
+        "advancing": 30533,
+        "correct_answers": 30533,
+        "incorrect_answers": 15023
+      },
+      {
+        "direct_link": "/us/game/2019-03-31/2/12",
+        "question_number": 12,
+        "text": "Philosophical Phrase",
+        "answer": [
+          "GRIN",
+          "AND",
+          "BEAR",
+          "IT"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-03-31/2",
+        "eliminated": 7199,
+        "advancing": 27251,
+        "correct_answers": 27251,
+        "incorrect_answers": 7199
+      },
+      {
+        "direct_link": "/us/game/2019-03-31/2/13",
+        "question_number": 13,
+        "text": "Northern Dog Breed",
+        "answer": [
+          "SIBERIAN",
+          "HUSKY"
+        ],
+        "initial_letters": [
+          " ",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "K",
+          "U"
+        ],
+        "game_link": "/us/game/2019-03-31/2",
+        "eliminated": 2263,
+        "advancing": 27086,
+        "correct_answers": 27086,
+        "incorrect_answers": 2263
+      },
+      {
+        "direct_link": "/us/game/2019-03-31/2/14",
+        "question_number": 14,
+        "text": "Too Easy",
+        "answer": [
+          "THATâS",
+          "A",
+          "NO",
+          "BRAINER"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          "S"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "I"
+        ],
+        "game_link": "/us/game/2019-03-31/2",
+        "eliminated": 2902,
+        "advancing": 24932,
+        "correct_answers": 24932,
+        "incorrect_answers": 2902
+      },
+      {
+        "direct_link": "/us/game/2019-03-31/2/15",
+        "question_number": 15,
+        "text": "Blew You Off",
+        "answer": [
+          "GAVE",
+          "YOU",
+          "THE",
+          "COLD",
+          "SHOULDER"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "V",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-03-31/2",
+        "eliminated": 5828,
+        "advancing": 20013,
+        "correct_answers": 20013,
+        "incorrect_answers": 5828
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

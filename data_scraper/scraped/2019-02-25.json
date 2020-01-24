@@ -1,0 +1,1350 @@
+[
+  {
+    "id": 57374,
+    "show_id": 9730,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-02-26T00:00:00Z",
+    "direct_link": "/us/game/2019-02-25/1",
+    "time": " 7:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,792",
+      "currency": "$",
+      "average_prize": "0.36"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 48772,
+        "text": "What team just snapped an 18-game home losing streak?",
+        "question_number": 1,
+        "eliminated": "-4,847",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "117,375",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146211,
+            "text": "New York Knicks",
+            "correct": true,
+            "count": "103,332",
+            "percent": "91.83%"
+          },
+          {
+            "id": 146214,
+            "text": "Harlem Globetrotters",
+            "correct": false,
+            "count": "3,842",
+            "percent": "3.41%"
+          },
+          {
+            "id": 146218,
+            "text": "Monstars",
+            "correct": false,
+            "count": "5,354",
+            "percent": "4.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/1/1",
+        "game_link": "/us/game/2019-02-25/1",
+        "correct_answers": 103332,
+        "incorrect_answers": 9196,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48781,
+        "text": "Which of these terms describes this popular high jump technique?",
+        "question_number": 2,
+        "eliminated": "484",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "116,950",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146237,
+            "text": "Fosbury Flop",
+            "correct": true,
+            "count": "89,442",
+            "percent": "79.05%"
+          },
+          {
+            "id": 146239,
+            "text": "Spinderella",
+            "correct": false,
+            "count": "6,337",
+            "percent": "5.6%"
+          },
+          {
+            "id": 146244,
+            "text": "Jumping Jack Flash",
+            "correct": false,
+            "count": "17,366",
+            "percent": "15.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/1/2",
+        "game_link": "/us/game/2019-02-25/1",
+        "correct_answers": 89442,
+        "incorrect_answers": 23703,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48790,
+        "text": "The NBA Hall of Famer known as âThe Admiralâ played his entire career for what team?",
+        "question_number": 3,
+        "eliminated": "1,727",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "115,226",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146263,
+            "text": "Dallas Mavericks",
+            "correct": false,
+            "count": "11,935",
+            "percent": "10.91%"
+          },
+          {
+            "id": 146266,
+            "text": "San Antonio Spurs",
+            "correct": true,
+            "count": "82,578",
+            "percent": "75.48%"
+          },
+          {
+            "id": 146269,
+            "text": "Houston Rockets",
+            "correct": false,
+            "count": "14,897",
+            "percent": "13.62%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/1/3",
+        "game_link": "/us/game/2019-02-25/1",
+        "correct_answers": 82578,
+        "incorrect_answers": 26832,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48797,
+        "text": "What former quarterback received an exemption to play golf in the AT&T Byron Nelson tournament?",
+        "question_number": 4,
+        "eliminated": "1,066",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "114,203",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146286,
+            "text": "Tony Romo",
+            "correct": true,
+            "count": "73,057",
+            "percent": "68.22%"
+          },
+          {
+            "id": 146287,
+            "text": "Steve Young",
+            "correct": false,
+            "count": "13,782",
+            "percent": "12.87%"
+          },
+          {
+            "id": 146291,
+            "text": "Peyton Manning",
+            "correct": false,
+            "count": "20,248",
+            "percent": "18.91%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/1/4",
+        "game_link": "/us/game/2019-02-25/1",
+        "correct_answers": 73057,
+        "incorrect_answers": 34030,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48805,
+        "text": "Who is the youngest captain to win the Stanley Cup?",
+        "question_number": 5,
+        "eliminated": "2,259",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "111,992",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146308,
+            "text": "Sidney Crosby",
+            "correct": true,
+            "count": "60,312",
+            "percent": "56.57%"
+          },
+          {
+            "id": 146310,
+            "text": "Wayne Gretzky",
+            "correct": false,
+            "count": "29,419",
+            "percent": "27.59%"
+          },
+          {
+            "id": 146313,
+            "text": "Mark Messier",
+            "correct": false,
+            "count": "16,883",
+            "percent": "15.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/1/5",
+        "game_link": "/us/game/2019-02-25/1",
+        "correct_answers": 60312,
+        "incorrect_answers": 46302,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48815,
+        "text": "What mixed martial arts legend just announced his retirement?",
+        "question_number": 6,
+        "eliminated": "8,690",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "103,456",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146336,
+            "text": "Georges St-Pierre",
+            "correct": true,
+            "count": "59,209",
+            "percent": "56.98%"
+          },
+          {
+            "id": 146341,
+            "text": "Brock Lesnar",
+            "correct": false,
+            "count": "18,673",
+            "percent": "17.97%"
+          },
+          {
+            "id": 146345,
+            "text": "Anderson Silva",
+            "correct": false,
+            "count": "26,028",
+            "percent": "25.05%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/1/6",
+        "game_link": "/us/game/2019-02-25/1",
+        "correct_answers": 59209,
+        "incorrect_answers": 44701,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48823,
+        "text": "Who won NFL Coach of the Year for three different teams?",
+        "question_number": 7,
+        "eliminated": "76,561",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "27,667",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146361,
+            "text": "John Fox",
+            "correct": false,
+            "count": "11,377",
+            "percent": "11.68%"
+          },
+          {
+            "id": 146367,
+            "text": "Chuck Knox",
+            "correct": true,
+            "count": "21,420",
+            "percent": "21.99%"
+          },
+          {
+            "id": 146372,
+            "text": "Bill Parcells",
+            "correct": false,
+            "count": "64,598",
+            "percent": "66.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/1/7",
+        "game_link": "/us/game/2019-02-25/1",
+        "correct_answers": 21420,
+        "incorrect_answers": 75975,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48831,
+        "text": "MMA legend Fedor Emelianenko has NOT won a fight in what promotion?",
+        "question_number": 8,
+        "eliminated": "24,277",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "13,439",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146385,
+            "text": "UFC",
+            "correct": true,
+            "count": "13,150",
+            "percent": "36.03%"
+          },
+          {
+            "id": 146389,
+            "text": "Bellator",
+            "correct": false,
+            "count": "7,613",
+            "percent": "20.86%"
+          },
+          {
+            "id": 146393,
+            "text": "Pride",
+            "correct": false,
+            "count": "15,735",
+            "percent": "43.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/1/8",
+        "game_link": "/us/game/2019-02-25/1",
+        "correct_answers": 13150,
+        "incorrect_answers": 23348,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48837,
+        "text": "Who was the first pitcher to win the Rookie of the Year, MVP, and Cy Young awards?",
+        "question_number": 9,
+        "eliminated": "9,068",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "8,442",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146404,
+            "text": "Bob Gibson",
+            "correct": false,
+            "count": "3,249",
+            "percent": "19.67%"
+          },
+          {
+            "id": 146407,
+            "text": "Nolan Ryan",
+            "correct": false,
+            "count": "4,823",
+            "percent": "29.21%"
+          },
+          {
+            "id": 146413,
+            "text": "Don Newcombe",
+            "correct": true,
+            "count": "8,442",
+            "percent": "51.12%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/1/9",
+        "game_link": "/us/game/2019-02-25/1",
+        "correct_answers": 8442,
+        "incorrect_answers": 8072,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48844,
+        "text": "Which horse was an undefeated Triple Crown winner?",
+        "question_number": 10,
+        "eliminated": "4,234",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,974",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146427,
+            "text": "American Pharoah",
+            "correct": false,
+            "count": "1,887",
+            "percent": "20.86%"
+          },
+          {
+            "id": 146429,
+            "text": "Justify",
+            "correct": true,
+            "count": "4,974",
+            "percent": "54.99%"
+          },
+          {
+            "id": 146433,
+            "text": "Secretariat",
+            "correct": false,
+            "count": "2,184",
+            "percent": "24.15%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/1/10",
+        "game_link": "/us/game/2019-02-25/1",
+        "correct_answers": 4974,
+        "incorrect_answers": 4071,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48852,
+        "text": "Who is the only tennis player to win a medal at four separate Olympic Games?",
+        "question_number": 11,
+        "eliminated": "1,484",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,312",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146451,
+            "text": "Venus Williams",
+            "correct": true,
+            "count": "4,312",
+            "percent": "75.56%"
+          },
+          {
+            "id": 146454,
+            "text": "Martina Navratilova",
+            "correct": false,
+            "count": "751",
+            "percent": "13.16%"
+          },
+          {
+            "id": 146461,
+            "text": "Maria Sharapova",
+            "correct": false,
+            "count": "644",
+            "percent": "11.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/1/11",
+        "game_link": "/us/game/2019-02-25/1",
+        "correct_answers": 4312,
+        "incorrect_answers": 1395,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48860,
+        "text": "What team holds the current record for going the longest without appearing in the playoffs?",
+        "question_number": 12,
+        "eliminated": "1,777",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,792",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146475,
+            "text": "Seattle Mariners",
+            "correct": true,
+            "count": "2,792",
+            "percent": "62.61%"
+          },
+          {
+            "id": 146476,
+            "text": "Sacramento Kings",
+            "correct": false,
+            "count": "717",
+            "percent": "16.08%"
+          },
+          {
+            "id": 146477,
+            "text": "Cleveland Browns",
+            "correct": false,
+            "count": "950",
+            "percent": "21.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/1/12",
+        "game_link": "/us/game/2019-02-25/1",
+        "correct_answers": 2792,
+        "incorrect_answers": 1667,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 57493,
+    "show_id": 9793,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "2,500",
+    "currency": "$",
+    "start_time": "2019-02-26T02:00:00Z",
+    "direct_link": "/us/game/2019-02-25/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Marvel",
+        "slug": "marvel"
+      },
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "questions": [
+      {
+        "id": 48868,
+        "text": "In the Marvel Universe, the nation of Wakanda is known for having reserves of what valuable substance?",
+        "question_number": 1,
+        "eliminated": "-14,366",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "506,520",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146499,
+            "text": "HQ Extra Lives",
+            "correct": false,
+            "count": "4,007",
+            "percent": "0.82%"
+          },
+          {
+            "id": 146500,
+            "text": "Mickey Mouse hats",
+            "correct": false,
+            "count": "3,523",
+            "percent": "0.72%"
+          },
+          {
+            "id": 146501,
+            "text": "Vibranium",
+            "correct": true,
+            "count": "483,849",
+            "percent": "98.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/2/1",
+        "game_link": "/us/game/2019-02-25/2",
+        "correct_answers": 483849,
+        "incorrect_answers": 7530,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48875,
+        "text": "What is Captain Americaâs real name?",
+        "question_number": 2,
+        "eliminated": "379",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "506,400",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146520,
+            "text": "Steve Rogers",
+            "correct": true,
+            "count": "477,200",
+            "percent": "96.12%"
+          },
+          {
+            "id": 146521,
+            "text": "Gerard Depardieu",
+            "correct": false,
+            "count": "8,649",
+            "percent": "1.74%"
+          },
+          {
+            "id": 146522,
+            "text": "Clark Kent",
+            "correct": false,
+            "count": "10,638",
+            "percent": "2.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/2/2",
+        "game_link": "/us/game/2019-02-25/2",
+        "correct_answers": 477200,
+        "incorrect_answers": 19287,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48883,
+        "text": "In âInfinity War,â on what hand does Thanos wear the Infinity Gauntlet?",
+        "question_number": 3,
+        "eliminated": "2,137",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "504,267",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146544,
+            "text": "Right",
+            "correct": false,
+            "count": "129,849",
+            "percent": "26.52%"
+          },
+          {
+            "id": 146547,
+            "text": "Left",
+            "correct": true,
+            "count": "321,224",
+            "percent": "65.6%"
+          },
+          {
+            "id": 146550,
+            "text": "Both",
+            "correct": false,
+            "count": "38,598",
+            "percent": "7.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/2/3",
+        "game_link": "/us/game/2019-02-25/2",
+        "correct_answers": 321224,
+        "incorrect_answers": 168447,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48891,
+        "text": "What does Nick Fury specifically want to talk about in the post-credits scene of âIron Manâ?",
+        "question_number": 4,
+        "eliminated": "10,730",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "493,619",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146568,
+            "text": "The Iron Man suit",
+            "correct": false,
+            "count": "95,396",
+            "percent": "20.19%"
+          },
+          {
+            "id": 146569,
+            "text": "Steve Rogers",
+            "correct": false,
+            "count": "26,026",
+            "percent": "5.51%"
+          },
+          {
+            "id": 146570,
+            "text": "The Avenger Initiative",
+            "correct": true,
+            "count": "351,157",
+            "percent": "74.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/2/4",
+        "game_link": "/us/game/2019-02-25/2",
+        "correct_answers": 351157,
+        "incorrect_answers": 121422,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48901,
+        "text": "Who lives in the Sanctum Sanctorum?",
+        "question_number": 5,
+        "eliminated": "11,992",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "482,092",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146595,
+            "text": "Star-Lord",
+            "correct": false,
+            "count": "50,709",
+            "percent": "10.76%"
+          },
+          {
+            "id": 146598,
+            "text": "Carol Danvers",
+            "correct": false,
+            "count": "22,476",
+            "percent": "4.77%"
+          },
+          {
+            "id": 146600,
+            "text": "Doctor Strange",
+            "correct": true,
+            "count": "398,085",
+            "percent": "84.47%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/2/5",
+        "game_link": "/us/game/2019-02-25/2",
+        "correct_answers": 398085,
+        "incorrect_answers": 73185,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48908,
+        "text": "Where was the original Wasp trapped in âAnt-Man and the Waspâ?",
+        "question_number": 6,
+        "eliminated": "25,849",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "457,026",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146617,
+            "text": "Hala",
+            "correct": false,
+            "count": "24,475",
+            "percent": "5.29%"
+          },
+          {
+            "id": 146619,
+            "text": "Quantum Realm",
+            "correct": true,
+            "count": "391,832",
+            "percent": "84.76%"
+          },
+          {
+            "id": 146621,
+            "text": "The Nine Realms",
+            "correct": false,
+            "count": "45,992",
+            "percent": "9.95%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/2/6",
+        "game_link": "/us/game/2019-02-25/2",
+        "correct_answers": 391832,
+        "incorrect_answers": 70467,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48916,
+        "text": "Which Guardians character does NOT disappear in the final scenes of âAvengers: Infinity Warâ?",
+        "question_number": 7,
+        "eliminated": "186,967",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "272,483",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146643,
+            "text": "Groot",
+            "correct": false,
+            "count": "91,994",
+            "percent": "20.81%"
+          },
+          {
+            "id": 146644,
+            "text": "Drax",
+            "correct": false,
+            "count": "85,032",
+            "percent": "19.24%"
+          },
+          {
+            "id": 146645,
+            "text": "Rocket",
+            "correct": true,
+            "count": "264,950",
+            "percent": "59.95%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/2/7",
+        "game_link": "/us/game/2019-02-25/2",
+        "correct_answers": 264950,
+        "incorrect_answers": 177026,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48923,
+        "text": "In which MCU film does Hulk first say, âHulk smashâ?",
+        "question_number": 8,
+        "eliminated": "185,534",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "126,928",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146664,
+            "text": "The Avengers",
+            "correct": false,
+            "count": "106,605",
+            "percent": "34.94%"
+          },
+          {
+            "id": 146665,
+            "text": "The Incredible Hulk",
+            "correct": true,
+            "count": "126,824",
+            "percent": "41.56%"
+          },
+          {
+            "id": 146666,
+            "text": "Thor: Ragnarok",
+            "correct": false,
+            "count": "71,722",
+            "percent": "23.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/2/8",
+        "game_link": "/us/game/2019-02-25/2",
+        "correct_answers": 126824,
+        "incorrect_answers": 178327,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48932,
+        "text": "Which of these films is set the earliest in the MCU timeline?",
+        "question_number": 9,
+        "eliminated": "86,745",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "97,470",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146689,
+            "text": "Doctor Strange",
+            "correct": false,
+            "count": "38,488",
+            "percent": "21.59%"
+          },
+          {
+            "id": 146692,
+            "text": "Ant-Man",
+            "correct": false,
+            "count": "42,344",
+            "percent": "23.75%"
+          },
+          {
+            "id": 146695,
+            "text": "Guardians of the Galaxy",
+            "correct": true,
+            "count": "97,470",
+            "percent": "54.67%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/2/9",
+        "game_link": "/us/game/2019-02-25/2",
+        "correct_answers": 97470,
+        "incorrect_answers": 80832,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48940,
+        "text": "Which of these villains is wearing a jean jacket in his introduction scene?",
+        "question_number": 10,
+        "eliminated": "40,172",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "73,385",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146713,
+            "text": "Killmonger",
+            "correct": true,
+            "count": "73,385",
+            "percent": "65.55%"
+          },
+          {
+            "id": 146716,
+            "text": "Justin Hammer",
+            "correct": false,
+            "count": "16,683",
+            "percent": "14.9%"
+          },
+          {
+            "id": 146720,
+            "text": "Ego",
+            "correct": false,
+            "count": "21,893",
+            "percent": "19.55%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/2/10",
+        "game_link": "/us/game/2019-02-25/2",
+        "correct_answers": 73385,
+        "incorrect_answers": 38576,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48950,
+        "text": "What does Tony Stark say after this moment?",
+        "question_number": 11,
+        "eliminated": "38,691",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "41,499",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146744,
+            "text": "Took you long enough.",
+            "correct": false,
+            "count": "26,540",
+            "percent": "33.37%"
+          },
+          {
+            "id": 146745,
+            "text": "I got nothing.",
+            "correct": true,
+            "count": "41,499",
+            "percent": "52.18%"
+          },
+          {
+            "id": 146748,
+            "text": "Nice one.",
+            "correct": false,
+            "count": "11,484",
+            "percent": "14.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/2/11",
+        "game_link": "/us/game/2019-02-25/2",
+        "correct_answers": 41499,
+        "incorrect_answers": 38024,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 48955,
+        "text": "According to the post-credits scene in the most recent live-action âSpider-Man,â what is a valuable quality?",
+        "question_number": 12,
+        "eliminated": "13,007",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "36,108",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 146760,
+            "text": "Strength",
+            "correct": false,
+            "count": "4,535",
+            "percent": "9.42%"
+          },
+          {
+            "id": 146761,
+            "text": "Patience",
+            "correct": true,
+            "count": "36,108",
+            "percent": "75.02%"
+          },
+          {
+            "id": 146762,
+            "text": "Growth",
+            "correct": false,
+            "count": "7,485",
+            "percent": "15.55%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-25/2/12",
+        "game_link": "/us/game/2019-02-25/2",
+        "correct_answers": 36108,
+        "incorrect_answers": 12020,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 57596,
+    "show_id": 9795,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-02-26T02:30:00Z",
+    "direct_link": "/us/game/2019-02-25/3",
+    "currency": "$",
+    "prize": "2,500",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "71.69"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "73.87"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "74.37"
+        },
+        {
+          "number": "13,605",
+          "amount": "0.17",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.16718106995884774,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:30 pm",
+    "game_number": 3,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Comic Book Night",
+        "slug": "comic-book-night"
+      }
+    ],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-02-25/3/1",
+        "question_number": 1,
+        "text": "Impressive Sound",
+        "answer": [
+          "KAPOW!"
+        ],
+        "initial_letters": [
+          "!",
+          "K"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "P"
+        ],
+        "game_link": "/us/game/2019-02-25/3",
+        "eliminated": 13553,
+        "advancing": 188428,
+        "correct_answers": 188428,
+        "incorrect_answers": 13553
+      },
+      {
+        "direct_link": "/us/game/2019-02-25/3/2",
+        "question_number": 2,
+        "text": "They Fill the Page",
+        "answer": [
+          "PANELS"
+        ],
+        "initial_letters": [
+          "P"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "E"
+        ],
+        "game_link": "/us/game/2019-02-25/3",
+        "eliminated": 80802,
+        "advancing": 108571,
+        "correct_answers": 108571,
+        "incorrect_answers": 80802
+      },
+      {
+        "direct_link": "/us/game/2019-02-25/3/3",
+        "question_number": 3,
+        "text": "Powerful Lady",
+        "answer": [
+          "SUPERGIRL"
+        ],
+        "initial_letters": [
+          "S"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "P"
+        ],
+        "game_link": "/us/game/2019-02-25/3",
+        "eliminated": 7505,
+        "advancing": 106068,
+        "correct_answers": 106068,
+        "incorrect_answers": 7505
+      },
+      {
+        "direct_link": "/us/game/2019-02-25/3/4",
+        "question_number": 4,
+        "text": "Famous Team",
+        "answer": [
+          "FANTASTIC",
+          "FOUR"
+        ],
+        "initial_letters": [
+          " ",
+          "F"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "I"
+        ],
+        "game_link": "/us/game/2019-02-25/3",
+        "eliminated": 4511,
+        "advancing": 101976,
+        "correct_answers": 101976,
+        "incorrect_answers": 4511
+      },
+      {
+        "direct_link": "/us/game/2019-02-25/3/5",
+        "question_number": 5,
+        "text": "Frenemies",
+        "answer": [
+          "BETTY",
+          "&",
+          "VERONICA"
+        ],
+        "initial_letters": [
+          " ",
+          "&",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "R"
+        ],
+        "game_link": "/us/game/2019-02-25/3",
+        "eliminated": 37046,
+        "advancing": 65249,
+        "correct_answers": 65249,
+        "incorrect_answers": 37046
+      },
+      {
+        "direct_link": "/us/game/2019-02-25/3/6",
+        "question_number": 6,
+        "text": "A Lot to Take In",
+        "answer": [
+          "GRAPHIC",
+          "NOVEL"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "N"
+        ],
+        "game_link": "/us/game/2019-02-25/3",
+        "eliminated": 43993,
+        "advancing": 24724,
+        "correct_answers": 24724,
+        "incorrect_answers": 43993
+      },
+      {
+        "direct_link": "/us/game/2019-02-25/3/7",
+        "question_number": 7,
+        "text": "Carefully Worded",
+        "answer": [
+          "SPEECH",
+          "BALLOON"
+        ],
+        "initial_letters": [
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "C"
+        ],
+        "game_link": "/us/game/2019-02-25/3",
+        "eliminated": 6794,
+        "advancing": 23860,
+        "correct_answers": 23860,
+        "incorrect_answers": 6794
+      },
+      {
+        "direct_link": "/us/game/2019-02-25/3/8",
+        "question_number": 8,
+        "text": "Incorrect Observations",
+        "answer": [
+          "ITâS",
+          "A",
+          "BIRD,",
+          "ITâS",
+          "A",
+          "PLANE"
+        ],
+        "initial_letters": [
+          "â",
+          " ",
+          ",",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "I"
+        ],
+        "game_link": "/us/game/2019-02-25/3",
+        "eliminated": 4104,
+        "advancing": 20882,
+        "correct_answers": 20882,
+        "incorrect_answers": 4104
+      },
+      {
+        "direct_link": "/us/game/2019-02-25/3/9",
+        "question_number": 9,
+        "text": "Popular Series",
+        "answer": [
+          "THE",
+          "DARK",
+          "KNIGHT",
+          "RETURNS"
+        ],
+        "initial_letters": [
+          " ",
+          "H"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "I"
+        ],
+        "game_link": "/us/game/2019-02-25/3",
+        "eliminated": 5162,
+        "advancing": 16572,
+        "correct_answers": 16572,
+        "incorrect_answers": 5162
+      },
+      {
+        "direct_link": "/us/game/2019-02-25/3/10",
+        "question_number": 10,
+        "text": "Origin Story Key Player",
+        "answer": [
+          "RADIOACTIVE",
+          "SPIDER"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "R"
+        ],
+        "game_link": "/us/game/2019-02-25/3",
+        "eliminated": 4431,
+        "advancing": 13608,
+        "correct_answers": 13608,
+        "incorrect_answers": 4431
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

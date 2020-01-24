@@ -1,0 +1,961 @@
+[
+  {
+    "id": 101747,
+    "show_id": 10707,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "5,000",
+    "currency": "$",
+    "start_time": "2019-05-12T01:00:00Z",
+    "direct_link": "/us/game/2019-05-11/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,506",
+      "currency": "$",
+      "average_prize": "3.32"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Smarter Day",
+        "slug": "smarter-day"
+      }
+    ],
+    "questions": [
+      {
+        "id": 105563,
+        "text": "Which of these companies did NOT recently have an IPO?",
+        "question_number": 1,
+        "eliminated": "-6,460",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "229,044",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232817,
+            "text": "Uber",
+            "correct": false,
+            "count": "45,571",
+            "percent": "21.23%"
+          },
+          {
+            "id": 232818,
+            "text": "Lyft",
+            "correct": false,
+            "count": "41,893",
+            "percent": "19.51%"
+          },
+          {
+            "id": 232819,
+            "text": "Amazon",
+            "correct": true,
+            "count": "127,218",
+            "percent": "59.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-11/1/1",
+        "game_link": "/us/game/2019-05-11/1",
+        "correct_answers": 127218,
+        "incorrect_answers": 87464,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105571,
+        "text": "Though they work differently than humans, what animal has five âheartsâ?",
+        "question_number": 2,
+        "eliminated": "4,985",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "224,681",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232829,
+            "text": "Blue whale",
+            "correct": false,
+            "count": "75,005",
+            "percent": "35.98%"
+          },
+          {
+            "id": 232830,
+            "text": "Earthworm",
+            "correct": true,
+            "count": "123,375",
+            "percent": "59.19%"
+          },
+          {
+            "id": 232831,
+            "text": "Cobra",
+            "correct": false,
+            "count": "10,069",
+            "percent": "4.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-11/1/2",
+        "game_link": "/us/game/2019-05-11/1",
+        "correct_answers": 123375,
+        "incorrect_answers": 85074,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105577,
+        "text": "Which of these is the deepest ocean in the world?",
+        "question_number": 3,
+        "eliminated": "2,552",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "223,276",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232838,
+            "text": "Indian Ocean",
+            "correct": false,
+            "count": "36,246",
+            "percent": "17.7%"
+          },
+          {
+            "id": 232839,
+            "text": "Atlantic Ocean",
+            "correct": false,
+            "count": "40,237",
+            "percent": "19.65%"
+          },
+          {
+            "id": 232843,
+            "text": "Pacific Ocean",
+            "correct": true,
+            "count": "128,305",
+            "percent": "62.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-11/1/3",
+        "game_link": "/us/game/2019-05-11/1",
+        "correct_answers": 128305,
+        "incorrect_answers": 76483,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105585,
+        "text": "What is carbon paper typically used for?",
+        "question_number": 4,
+        "eliminated": "3,689",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "219,766",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232850,
+            "text": "Diamond polishing",
+            "correct": false,
+            "count": "10,489",
+            "percent": "5.21%"
+          },
+          {
+            "id": 232851,
+            "text": "Copying text",
+            "correct": true,
+            "count": "171,332",
+            "percent": "85.13%"
+          },
+          {
+            "id": 232852,
+            "text": "Dating fossils",
+            "correct": false,
+            "count": "19,448",
+            "percent": "9.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-11/1/4",
+        "game_link": "/us/game/2019-05-11/1",
+        "correct_answers": 171332,
+        "incorrect_answers": 29937,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105593,
+        "text": "Yoknapatawpha County is a fictional location that can be found in which work?",
+        "question_number": 5,
+        "eliminated": "13,877",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "206,081",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232862,
+            "text": "The Sound and the Fury",
+            "correct": true,
+            "count": "54,216",
+            "percent": "28.84%"
+          },
+          {
+            "id": 232863,
+            "text": "The Call of the Wild",
+            "correct": false,
+            "count": "46,530",
+            "percent": "24.75%"
+          },
+          {
+            "id": 232865,
+            "text": "Last of the Mohicans",
+            "correct": false,
+            "count": "87,232",
+            "percent": "46.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-11/1/5",
+        "game_link": "/us/game/2019-05-11/1",
+        "correct_answers": 54216,
+        "incorrect_answers": 133762,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105601,
+        "text": "Which of these countries was officially neutral during the entirety of both World Wars?",
+        "question_number": 6,
+        "eliminated": "16,295",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "190,670",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232874,
+            "text": "Spain",
+            "correct": true,
+            "count": "67,107",
+            "percent": "36.23%"
+          },
+          {
+            "id": 232875,
+            "text": "Ireland",
+            "correct": false,
+            "count": "75,775",
+            "percent": "40.91%"
+          },
+          {
+            "id": 232877,
+            "text": "Turkey",
+            "correct": false,
+            "count": "42,343",
+            "percent": "22.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-11/1/6",
+        "game_link": "/us/game/2019-05-11/1",
+        "correct_answers": 67107,
+        "incorrect_answers": 118118,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105609,
+        "text": "Cubing the radius and then multiplying by 4/3 of pi calculates the volume of what?",
+        "question_number": 7,
+        "eliminated": "58,651",
+        "category": "Math",
+        "category_slug": "math",
+        "advancing": "133,338",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232886,
+            "text": "Sphere",
+            "correct": true,
+            "count": "101,345",
+            "percent": "57.82%"
+          },
+          {
+            "id": 232887,
+            "text": "Torus",
+            "correct": false,
+            "count": "10,823",
+            "percent": "6.17%"
+          },
+          {
+            "id": 232889,
+            "text": "Cone",
+            "correct": false,
+            "count": "63,111",
+            "percent": "36.01%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-11/1/7",
+        "game_link": "/us/game/2019-05-11/1",
+        "correct_answers": 101345,
+        "incorrect_answers": 73934,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105617,
+        "text": "Which of these words has an anagram that is also its synonym?",
+        "question_number": 8,
+        "eliminated": "87,531",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "50,024",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232898,
+            "text": "Aye",
+            "correct": true,
+            "count": "46,478",
+            "percent": "35.9%"
+          },
+          {
+            "id": 232900,
+            "text": "Pit",
+            "correct": false,
+            "count": "44,249",
+            "percent": "34.18%"
+          },
+          {
+            "id": 232903,
+            "text": "Ram",
+            "correct": false,
+            "count": "38,734",
+            "percent": "29.92%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-11/1/8",
+        "game_link": "/us/game/2019-05-11/1",
+        "correct_answers": 46478,
+        "incorrect_answers": 82983,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105625,
+        "text": "In what country was the man in this photo born?",
+        "question_number": 9,
+        "eliminated": "29,765",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "29,604",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232910,
+            "text": "Mexico",
+            "correct": false,
+            "count": "4,129",
+            "percent": "7.13%"
+          },
+          {
+            "id": 232912,
+            "text": "Cuba",
+            "correct": false,
+            "count": "24,312",
+            "percent": "41.97%"
+          },
+          {
+            "id": 232914,
+            "text": "Argentina",
+            "correct": true,
+            "count": "29,485",
+            "percent": "50.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-11/1/9",
+        "game_link": "/us/game/2019-05-11/1",
+        "correct_answers": 29485,
+        "incorrect_answers": 28441,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105633,
+        "text": "What country has a holiday known as âGirlsâ Dayâ that involves complicated doll displays?",
+        "question_number": 10,
+        "eliminated": "9,187",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "22,761",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232922,
+            "text": "Finland",
+            "correct": false,
+            "count": "7,024",
+            "percent": "22.35%"
+          },
+          {
+            "id": 232923,
+            "text": "Japan",
+            "correct": true,
+            "count": "22,749",
+            "percent": "72.4%"
+          },
+          {
+            "id": 232924,
+            "text": "South Africa",
+            "correct": false,
+            "count": "1,650",
+            "percent": "5.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-11/1/10",
+        "game_link": "/us/game/2019-05-11/1",
+        "correct_answers": 22749,
+        "incorrect_answers": 8674,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105641,
+        "text": "Which of these major-party US presidential candidates was NOT also a US vice president?",
+        "question_number": 11,
+        "eliminated": "9,279",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "14,497",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232934,
+            "text": "Walter Mondale",
+            "correct": false,
+            "count": "3,137",
+            "percent": "14.45%"
+          },
+          {
+            "id": 232935,
+            "text": "Hubert Humphrey",
+            "correct": false,
+            "count": "4,075",
+            "percent": "18.77%"
+          },
+          {
+            "id": 232936,
+            "text": "George McGovern",
+            "correct": true,
+            "count": "14,497",
+            "percent": "66.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-11/1/11",
+        "game_link": "/us/game/2019-05-11/1",
+        "correct_answers": 14497,
+        "incorrect_answers": 7212,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105649,
+        "text": "Which of these words has an anagram that is also its antonym?",
+        "question_number": 12,
+        "eliminated": "5,766",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "10,112",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232946,
+            "text": "Reserved",
+            "correct": false,
+            "count": "2,737",
+            "percent": "17.54%"
+          },
+          {
+            "id": 232947,
+            "text": "United",
+            "correct": true,
+            "count": "10,112",
+            "percent": "64.81%"
+          },
+          {
+            "id": 232948,
+            "text": "Editor",
+            "correct": false,
+            "count": "2,754",
+            "percent": "17.65%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-11/1/12",
+        "game_link": "/us/game/2019-05-11/1",
+        "correct_answers": 10112,
+        "incorrect_answers": 5491,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105657,
+        "text": "Which of these three famed philosophers was born first?",
+        "question_number": 13,
+        "eliminated": "4,411",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "6,957",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232958,
+            "text": "Ralph Waldo Emerson",
+            "correct": true,
+            "count": "6,957",
+            "percent": "61.94%"
+          },
+          {
+            "id": 232959,
+            "text": "Friedrich Nietzsche",
+            "correct": false,
+            "count": "2,501",
+            "percent": "22.27%"
+          },
+          {
+            "id": 232960,
+            "text": "Karl Marx",
+            "correct": false,
+            "count": "1,774",
+            "percent": "15.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-11/1/13",
+        "game_link": "/us/game/2019-05-11/1",
+        "correct_answers": 6957,
+        "incorrect_answers": 4275,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105665,
+        "text": "Which of these wars did NOT last the amount of time its name indicates?",
+        "question_number": 14,
+        "eliminated": "1,455",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "6,767",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232970,
+            "text": "Thirty Yearsâ War",
+            "correct": false,
+            "count": "323",
+            "percent": "3.99%"
+          },
+          {
+            "id": 232971,
+            "text": "Eighty Yearsâ War",
+            "correct": false,
+            "count": "1,006",
+            "percent": "12.43%"
+          },
+          {
+            "id": 232972,
+            "text": "Hundred Yearsâ War",
+            "correct": true,
+            "count": "6,767",
+            "percent": "83.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-11/1/14",
+        "game_link": "/us/game/2019-05-11/1",
+        "correct_answers": 6767,
+        "incorrect_answers": 1329,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 105673,
+        "text": "The original meaning of âberserkâ was related to what?",
+        "question_number": 15,
+        "eliminated": "5,624",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "1,506",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 232982,
+            "text": "King",
+            "correct": false,
+            "count": "3,998",
+            "percent": "59.49%"
+          },
+          {
+            "id": 232984,
+            "text": "Place",
+            "correct": false,
+            "count": "1,216",
+            "percent": "18.1%"
+          },
+          {
+            "id": 232986,
+            "text": "Outfit",
+            "correct": true,
+            "count": "1,506",
+            "percent": "22.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-05-11/1/15",
+        "game_link": "/us/game/2019-05-11/1",
+        "correct_answers": 1506,
+        "incorrect_answers": 5214,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 101818,
+    "show_id": 10782,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-05-12T01:30:00Z",
+    "direct_link": "/us/game/2019-05-11/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "12,340",
+      "currency": "$",
+      "average_prize": "0.08"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Smarter Day",
+        "slug": "smarter-day"
+      }
+    ],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-05-11/2/1",
+        "question_number": 1,
+        "text": "Ant-Man",
+        "answer": [
+          "A",
+          "BUGâS",
+          "LIFE"
+        ],
+        "initial_letters": [
+          " ",
+          "â",
+          "A"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "S"
+        ],
+        "game_link": "/us/game/2019-05-11/2",
+        "eliminated": 18109,
+        "advancing": 84697,
+        "correct_answers": 84697,
+        "incorrect_answers": 18109
+      },
+      {
+        "direct_link": "/us/game/2019-05-11/2/2",
+        "question_number": 2,
+        "text": "Childâs Play",
+        "answer": [
+          "TOY",
+          "STORY"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "S",
+          "T"
+        ],
+        "game_link": "/us/game/2019-05-11/2",
+        "eliminated": 3699,
+        "advancing": 82097,
+        "correct_answers": 82097,
+        "incorrect_answers": 3699
+      },
+      {
+        "direct_link": "/us/game/2019-05-11/2/3",
+        "question_number": 3,
+        "text": "Iron Man",
+        "answer": [
+          "ROBOCOP"
+        ],
+        "initial_letters": [
+          "R"
+        ],
+        "to_reveal_letters": [
+          "O",
+          "P"
+        ],
+        "game_link": "/us/game/2019-05-11/2",
+        "eliminated": 5002,
+        "advancing": 77163,
+        "correct_answers": 77163,
+        "incorrect_answers": 5002
+      },
+      {
+        "direct_link": "/us/game/2019-05-11/2/4",
+        "question_number": 4,
+        "text": "Total Recall",
+        "answer": [
+          "MARS",
+          "ATTACKS"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "M"
+        ],
+        "game_link": "/us/game/2019-05-11/2",
+        "eliminated": 11226,
+        "advancing": 66154,
+        "correct_answers": 66154,
+        "incorrect_answers": 11226
+      },
+      {
+        "direct_link": "/us/game/2019-05-11/2/5",
+        "question_number": 5,
+        "text": "Avatar",
+        "answer": [
+          "MY",
+          "BLUE",
+          "HEAVEN"
+        ],
+        "initial_letters": [
+          " ",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-05-11/2",
+        "eliminated": 44330,
+        "advancing": 22515,
+        "correct_answers": 22515,
+        "incorrect_answers": 44330
+      },
+      {
+        "direct_link": "/us/game/2019-05-11/2/6",
+        "question_number": 6,
+        "text": "Groundhog Day",
+        "answer": [
+          "THE",
+          "DO-OVER"
+        ],
+        "initial_letters": [
+          " ",
+          "-",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "R",
+          "V"
+        ],
+        "game_link": "/us/game/2019-05-11/2",
+        "eliminated": 2245,
+        "advancing": 24084,
+        "correct_answers": 24084,
+        "incorrect_answers": 2245
+      },
+      {
+        "direct_link": "/us/game/2019-05-11/2/7",
+        "question_number": 7,
+        "text": "Airborne",
+        "answer": [
+          "BLADE",
+          "RUNNER"
+        ],
+        "initial_letters": [
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "D"
+        ],
+        "game_link": "/us/game/2019-05-11/2",
+        "eliminated": 2706,
+        "advancing": 21572,
+        "correct_answers": 21572,
+        "incorrect_answers": 2706
+      },
+      {
+        "direct_link": "/us/game/2019-05-11/2/8",
+        "question_number": 8,
+        "text": "First Man",
+        "answer": [
+          "MAN",
+          "ON",
+          "THE",
+          "MOON"
+        ],
+        "initial_letters": [
+          " ",
+          "M"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "T"
+        ],
+        "game_link": "/us/game/2019-05-11/2",
+        "eliminated": 782,
+        "advancing": 21092,
+        "correct_answers": 21092,
+        "incorrect_answers": 782
+      },
+      {
+        "direct_link": "/us/game/2019-05-11/2/9",
+        "question_number": 9,
+        "text": "Inception",
+        "answer": [
+          "WHAT",
+          "DREAMS",
+          "MAY",
+          "COME"
+        ],
+        "initial_letters": [
+          " ",
+          "R"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "M"
+        ],
+        "game_link": "/us/game/2019-05-11/2",
+        "eliminated": 6870,
+        "advancing": 14329,
+        "correct_answers": 14329,
+        "incorrect_answers": 6870
+      },
+      {
+        "direct_link": "/us/game/2019-05-11/2/10",
+        "question_number": 10,
+        "text": "Saturday Night Fever",
+        "answer": [
+          "THE",
+          "LAST",
+          "DAYS",
+          "OF",
+          "DISCO"
+        ],
+        "initial_letters": [
+          " ",
+          "Y"
+        ],
+        "to_reveal_letters": [
+          "H",
+          "T"
+        ],
+        "game_link": "/us/game/2019-05-11/2",
+        "eliminated": 2552,
+        "advancing": 13166,
+        "correct_answers": 13166,
+        "incorrect_answers": 2552
+      },
+      {
+        "direct_link": "/us/game/2019-05-11/2/11",
+        "question_number": 11,
+        "text": "Almost Famous",
+        "answer": [
+          "THE",
+          "FAULT",
+          "IN",
+          "OUR",
+          "STARS"
+        ],
+        "initial_letters": [
+          " ",
+          "U"
+        ],
+        "to_reveal_letters": [
+          "E",
+          "H"
+        ],
+        "game_link": "/us/game/2019-05-11/2",
+        "eliminated": 1516,
+        "advancing": 12268,
+        "correct_answers": 12268,
+        "incorrect_answers": 1516
+      },
+      {
+        "direct_link": "/us/game/2019-05-11/2/12",
+        "question_number": 12,
+        "text": "Avengers: Endgame",
+        "answer": [
+          "THE",
+          "NEVERENDING",
+          "STORY"
+        ],
+        "initial_letters": [
+          " ",
+          "T"
+        ],
+        "to_reveal_letters": [
+          "N",
+          "S"
+        ],
+        "game_link": "/us/game/2019-05-11/2",
+        "eliminated": 460,
+        "advancing": 12340,
+        "correct_answers": 12340,
+        "incorrect_answers": 460
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

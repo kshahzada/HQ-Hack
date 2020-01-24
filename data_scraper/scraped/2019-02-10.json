@@ -1,0 +1,935 @@
+[
+  {
+    "id": 51674,
+    "show_id": 9594,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "10,000",
+    "currency": "$",
+    "start_time": "2019-02-11T02:00:00Z",
+    "direct_link": "/us/game/2019-02-10/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,505",
+      "currency": "$",
+      "average_prize": "3.99"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Grammys",
+        "slug": "grammys"
+      },
+      {
+        "name": "Music",
+        "slug": "music"
+      }
+    ],
+    "questions": [
+      {
+        "id": 46330,
+        "text": "Who is the musical artist featured in this video?",
+        "question_number": 1,
+        "eliminated": "-10,140",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "424,438",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 138885,
+            "text": "Christina Aguilera",
+            "correct": false,
+            "count": "20,752",
+            "percent": "5.01%"
+          },
+          {
+            "id": 138886,
+            "text": "Adele",
+            "correct": true,
+            "count": "388,265",
+            "percent": "93.72%"
+          },
+          {
+            "id": 138887,
+            "text": "Janet Jackson",
+            "correct": false,
+            "count": "5,281",
+            "percent": "1.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-10/1/1",
+        "game_link": "/us/game/2019-02-10/1",
+        "correct_answers": 388265,
+        "incorrect_answers": 26033,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46338,
+        "text": "What is the name of this song?",
+        "question_number": 2,
+        "eliminated": "3,585",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "421,115",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 138909,
+            "text": "Hey Jude",
+            "correct": false,
+            "count": "17,889",
+            "percent": "4.36%"
+          },
+          {
+            "id": 138910,
+            "text": "Sicko Mode",
+            "correct": true,
+            "count": "370,848",
+            "percent": "90.29%"
+          },
+          {
+            "id": 138911,
+            "text": "Baby Shark",
+            "correct": false,
+            "count": "22,013",
+            "percent": "5.36%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-10/1/2",
+        "game_link": "/us/game/2019-02-10/1",
+        "correct_answers": 370848,
+        "incorrect_answers": 39902,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46347,
+        "text": "What now-regular stunt did P!nk premiere during her 2010 Grammys performance?",
+        "question_number": 3,
+        "eliminated": "15,920",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "405,347",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 138936,
+            "text": "Aerial gymnastics",
+            "correct": true,
+            "count": "329,955",
+            "percent": "85.33%"
+          },
+          {
+            "id": 138937,
+            "text": "Fire juggling",
+            "correct": false,
+            "count": "35,155",
+            "percent": "9.09%"
+          },
+          {
+            "id": 138938,
+            "text": "Unicycle riding",
+            "correct": false,
+            "count": "21,572",
+            "percent": "5.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-10/1/3",
+        "game_link": "/us/game/2019-02-10/1",
+        "correct_answers": 329955,
+        "incorrect_answers": 56727,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46356,
+        "text": "This Ariana Grande song prominently samples from what musical?",
+        "question_number": 4,
+        "eliminated": "29,753",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "376,277",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 138963,
+            "text": "Hamilton",
+            "correct": false,
+            "count": "96,612",
+            "percent": "25.06%"
+          },
+          {
+            "id": 138965,
+            "text": "The Phantom of the Opera",
+            "correct": false,
+            "count": "89,018",
+            "percent": "23.09%"
+          },
+          {
+            "id": 138967,
+            "text": "The Sound of Music",
+            "correct": true,
+            "count": "199,966",
+            "percent": "51.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-10/1/4",
+        "game_link": "/us/game/2019-02-10/1",
+        "correct_answers": 199966,
+        "incorrect_answers": 185630,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46362,
+        "text": "What song did Lady Gaga perform at the Grammys when she came out of this egg?",
+        "question_number": 5,
+        "eliminated": "26,393",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "351,258",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 138981,
+            "text": "Bad Romance",
+            "correct": false,
+            "count": "43,099",
+            "percent": "12.08%"
+          },
+          {
+            "id": 138983,
+            "text": "Just Dance",
+            "correct": false,
+            "count": "11,832",
+            "percent": "3.32%"
+          },
+          {
+            "id": 138986,
+            "text": "Born This Way",
+            "correct": true,
+            "count": "301,892",
+            "percent": "84.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-10/1/5",
+        "game_link": "/us/game/2019-02-10/1",
+        "correct_answers": 301892,
+        "incorrect_answers": 54931,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46372,
+        "text": "Snake imagery features prominently in the video for which Taylor Swift song?",
+        "question_number": 6,
+        "eliminated": "155,350",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "197,321",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139006,
+            "text": "Bad Blood",
+            "correct": false,
+            "count": "128,136",
+            "percent": "38.92%"
+          },
+          {
+            "id": 139010,
+            "text": "Look What You Made Me Do",
+            "correct": true,
+            "count": "186,717",
+            "percent": "56.71%"
+          },
+          {
+            "id": 139016,
+            "text": "Blank Space",
+            "correct": false,
+            "count": "14,393",
+            "percent": "4.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-10/1/6",
+        "game_link": "/us/game/2019-02-10/1",
+        "correct_answers": 186717,
+        "incorrect_answers": 142529,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46377,
+        "text": "Which of these seven-member K-pop groups is responsible for this song?",
+        "question_number": 7,
+        "eliminated": "35,858",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "176,736",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139026,
+            "text": "BTS",
+            "correct": true,
+            "count": "176,736",
+            "percent": "83.95%"
+          },
+          {
+            "id": 139031,
+            "text": "iKON",
+            "correct": false,
+            "count": "19,248",
+            "percent": "9.14%"
+          },
+          {
+            "id": 139036,
+            "text": "GOT7",
+            "correct": false,
+            "count": "14,542",
+            "percent": "6.91%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-10/1/7",
+        "game_link": "/us/game/2019-02-10/1",
+        "correct_answers": 176736,
+        "incorrect_answers": 33790,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46386,
+        "text": "What concluded this Grammys performance from Nicki Minaj?",
+        "question_number": 8,
+        "eliminated": "52,746",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "126,727",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139053,
+            "text": "Communion",
+            "correct": false,
+            "count": "8,416",
+            "percent": "4.74%"
+          },
+          {
+            "id": 139055,
+            "text": "Baptism",
+            "correct": false,
+            "count": "42,268",
+            "percent": "23.82%"
+          },
+          {
+            "id": 139060,
+            "text": "Exorcism",
+            "correct": true,
+            "count": "126,727",
+            "percent": "71.43%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-10/1/8",
+        "game_link": "/us/game/2019-02-10/1",
+        "correct_answers": 126727,
+        "incorrect_answers": 50684,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46394,
+        "text": "What Grammy award did Jennifer Lopez win the year she wore this iconic dress?",
+        "question_number": 9,
+        "eliminated": "49,174",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "86,461",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139077,
+            "text": "Best Dance Performance",
+            "correct": false,
+            "count": "19,970",
+            "percent": "14.9%"
+          },
+          {
+            "id": 139079,
+            "text": "Best Pop Performance",
+            "correct": false,
+            "count": "27,605",
+            "percent": "20.6%"
+          },
+          {
+            "id": 139082,
+            "text": "No award",
+            "correct": true,
+            "count": "86,461",
+            "percent": "64.51%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-10/1/9",
+        "game_link": "/us/game/2019-02-10/1",
+        "correct_answers": 86461,
+        "incorrect_answers": 47575,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46402,
+        "text": "Who won the first Grammy for Album of the Year in this millennium?",
+        "question_number": 10,
+        "eliminated": "67,683",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "26,978",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139099,
+            "text": "Radiohead",
+            "correct": false,
+            "count": "22,811",
+            "percent": "25.32%"
+          },
+          {
+            "id": 139102,
+            "text": "Mariah Carey",
+            "correct": false,
+            "count": "40,307",
+            "percent": "44.74%"
+          },
+          {
+            "id": 139106,
+            "text": "Steely Dan",
+            "correct": true,
+            "count": "26,978",
+            "percent": "29.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-10/1/10",
+        "game_link": "/us/game/2019-02-10/1",
+        "correct_answers": 26978,
+        "incorrect_answers": 63118,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46410,
+        "text": "Where is the band behind this music video from?",
+        "question_number": 11,
+        "eliminated": "10,666",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "29,348",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139123,
+            "text": "Australia",
+            "correct": true,
+            "count": "29,348",
+            "percent": "73.99%"
+          },
+          {
+            "id": 139125,
+            "text": "Canada",
+            "correct": false,
+            "count": "3,981",
+            "percent": "10.04%"
+          },
+          {
+            "id": 139128,
+            "text": "England",
+            "correct": false,
+            "count": "6,334",
+            "percent": "15.97%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-10/1/11",
+        "game_link": "/us/game/2019-02-10/1",
+        "correct_answers": 29348,
+        "incorrect_answers": 10315,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46416,
+        "text": "What did this win a Grammy for?",
+        "question_number": 12,
+        "eliminated": "14,298",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "16,564",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139143,
+            "text": "Music Video",
+            "correct": false,
+            "count": "5,844",
+            "percent": "19.1%"
+          },
+          {
+            "id": 139145,
+            "text": "Pop Solo Performance",
+            "correct": false,
+            "count": "8,183",
+            "percent": "26.75%"
+          },
+          {
+            "id": 139148,
+            "text": "Dance Recording",
+            "correct": true,
+            "count": "16,564",
+            "percent": "54.15%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-10/1/12",
+        "game_link": "/us/game/2019-02-10/1",
+        "correct_answers": 16564,
+        "incorrect_answers": 14027,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46424,
+        "text": "What famous artistic work is this music video about to recreate?",
+        "question_number": 13,
+        "eliminated": "3,052",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "15,830",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139166,
+            "text": "The Thinker",
+            "correct": false,
+            "count": "1,140",
+            "percent": "6.09%"
+          },
+          {
+            "id": 139172,
+            "text": "The Last Supper",
+            "correct": true,
+            "count": "15,830",
+            "percent": "84.5%"
+          },
+          {
+            "id": 139177,
+            "text": "Madame X",
+            "correct": false,
+            "count": "1,763",
+            "percent": "9.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-10/1/13",
+        "game_link": "/us/game/2019-02-10/1",
+        "correct_answers": 15830,
+        "incorrect_answers": 2903,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46435,
+        "text": "Which musician from this Grammy-winning hit song has a hat company?",
+        "question_number": 14,
+        "eliminated": "1,880",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "14,380",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139193,
+            "text": "Rob Thomas",
+            "correct": false,
+            "count": "902",
+            "percent": "5.58%"
+          },
+          {
+            "id": 139199,
+            "text": "Carlos Santana",
+            "correct": true,
+            "count": "14,380",
+            "percent": "88.89%"
+          },
+          {
+            "id": 139205,
+            "text": "Neither",
+            "correct": false,
+            "count": "895",
+            "percent": "5.53%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-10/1/14",
+        "game_link": "/us/game/2019-02-10/1",
+        "correct_answers": 14380,
+        "incorrect_answers": 1797,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 46440,
+        "text": "This yearâs Grammys host wrote this song subtitled for what family member?",
+        "question_number": 15,
+        "eliminated": "12,234",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "2,505",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 139213,
+            "text": "Grandma",
+            "correct": true,
+            "count": "2,505",
+            "percent": "17.13%"
+          },
+          {
+            "id": 139218,
+            "text": "Brother",
+            "correct": false,
+            "count": "9,314",
+            "percent": "63.68%"
+          },
+          {
+            "id": 139224,
+            "text": "Father",
+            "correct": false,
+            "count": "2,808",
+            "percent": "19.2%"
+          }
+        ],
+        "direct_link": "/us/game/2019-02-10/1/15",
+        "game_link": "/us/game/2019-02-10/1",
+        "correct_answers": 2505,
+        "incorrect_answers": 12122,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 51819,
+    "show_id": 9608,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-02-11T02:20:00Z",
+    "direct_link": "/us/game/2019-02-10/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "currency": "$",
+      "winners": [
+        {
+          "number": "1",
+          "amount": "100.00",
+          "time": "42.10"
+        },
+        {
+          "number": "2",
+          "amount": "75.00",
+          "time": "54.98"
+        },
+        {
+          "number": "3",
+          "amount": "50.00",
+          "time": "56.68"
+        },
+        {
+          "number": "10,786",
+          "amount": "0.07",
+          "time": "0.00"
+        }
+      ],
+      "average_prize": 0.07183242191120585,
+      "top_players_prize": 225.0
+    },
+    "time": " 9:20 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-02-10/2/1",
+        "question_number": 1,
+        "text": "US State",
+        "answer": [
+          "MARYLAND"
+        ],
+        "initial_letters": [
+          "M"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "N"
+        ],
+        "game_link": "/us/game/2019-02-10/2",
+        "eliminated": 24263,
+        "advancing": 171856,
+        "correct_answers": 171856,
+        "incorrect_answers": 24263
+      },
+      {
+        "direct_link": "/us/game/2019-02-10/2/2",
+        "question_number": 2,
+        "text": "Source of Info",
+        "answer": [
+          "NEWSPAPER"
+        ],
+        "initial_letters": [
+          "N"
+        ],
+        "to_reveal_letters": [
+          "R",
+          "W"
+        ],
+        "game_link": "/us/game/2019-02-10/2",
+        "eliminated": 7944,
+        "advancing": 165175,
+        "correct_answers": 165175,
+        "incorrect_answers": 7944
+      },
+      {
+        "direct_link": "/us/game/2019-02-10/2/3",
+        "question_number": 3,
+        "text": "Geometric Shape",
+        "answer": [
+          "OCTAGON"
+        ],
+        "initial_letters": [
+          "O"
+        ],
+        "to_reveal_letters": [
+          "C",
+          "T"
+        ],
+        "game_link": "/us/game/2019-02-10/2",
+        "eliminated": 4374,
+        "advancing": 160864,
+        "correct_answers": 160864,
+        "incorrect_answers": 4374
+      },
+      {
+        "direct_link": "/us/game/2019-02-10/2/4",
+        "question_number": 4,
+        "text": "Roommate Complaint",
+        "answer": [
+          "DIRTY",
+          "DISHES"
+        ],
+        "initial_letters": [
+          " ",
+          "D"
+        ],
+        "to_reveal_letters": [
+          "T",
+          "Y"
+        ],
+        "game_link": "/us/game/2019-02-10/2",
+        "eliminated": 7857,
+        "advancing": 153130,
+        "correct_answers": 153130,
+        "incorrect_answers": 7857
+      },
+      {
+        "direct_link": "/us/game/2019-02-10/2/5",
+        "question_number": 5,
+        "text": "Happening Right Now",
+        "answer": [
+          "BLACK",
+          "HISTORY",
+          "MONTH"
+        ],
+        "initial_letters": [
+          " ",
+          "B"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "K"
+        ],
+        "game_link": "/us/game/2019-02-10/2",
+        "eliminated": 67415,
+        "advancing": 86028,
+        "correct_answers": 86028,
+        "incorrect_answers": 67415
+      },
+      {
+        "direct_link": "/us/game/2019-02-10/2/6",
+        "question_number": 6,
+        "text": "Grammy Category",
+        "answer": [
+          "BEST",
+          "POP",
+          "VOCAL",
+          "ALBUM"
+        ],
+        "initial_letters": [
+          " ",
+          "L"
+        ],
+        "to_reveal_letters": [
+          "A",
+          "S"
+        ],
+        "game_link": "/us/game/2019-02-10/2",
+        "eliminated": 54000,
+        "advancing": 35126,
+        "correct_answers": 35126,
+        "incorrect_answers": 54000
+      },
+      {
+        "direct_link": "/us/game/2019-02-10/2/7",
+        "question_number": 7,
+        "text": "Modern Annoyance",
+        "answer": [
+          "LOSING",
+          "ONE",
+          "AIRPOD"
+        ],
+        "initial_letters": [
+          " ",
+          "I"
+        ],
+        "to_reveal_letters": [
+          "D",
+          "N"
+        ],
+        "game_link": "/us/game/2019-02-10/2",
+        "eliminated": 18169,
+        "advancing": 20093,
+        "correct_answers": 20093,
+        "incorrect_answers": 18169
+      },
+      {
+        "direct_link": "/us/game/2019-02-10/2/8",
+        "question_number": 8,
+        "text": "Animal Feature",
+        "answer": [
+          "RACCOON",
+          "BANDIT",
+          "MASK"
+        ],
+        "initial_letters": [
+          " ",
+          "O"
+        ],
+        "to_reveal_letters": [
+          "B",
+          "S"
+        ],
+        "game_link": "/us/game/2019-02-10/2",
+        "eliminated": 9098,
+        "advancing": 12422,
+        "correct_answers": 12422,
+        "incorrect_answers": 9098
+      },
+      {
+        "direct_link": "/us/game/2019-02-10/2/9",
+        "question_number": 9,
+        "text": "Good News for Baseball Fans",
+        "answer": [
+          "SPRING",
+          "TRAINING",
+          "STARTS",
+          "SOON"
+        ],
+        "initial_letters": [
+          " ",
+          "G"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "S"
+        ],
+        "game_link": "/us/game/2019-02-10/2",
+        "eliminated": 2107,
+        "advancing": 11412,
+        "correct_answers": 11412,
+        "incorrect_answers": 2107
+      },
+      {
+        "direct_link": "/us/game/2019-02-10/2/10",
+        "question_number": 10,
+        "text": "Take a Seat Kids",
+        "answer": [
+          "CRISS-CROSS",
+          "APPLESAUCE"
+        ],
+        "initial_letters": [
+          "-",
+          " ",
+          "P"
+        ],
+        "to_reveal_letters": [
+          "I",
+          "U"
+        ],
+        "game_link": "/us/game/2019-02-10/2",
+        "eliminated": 902,
+        "advancing": 10789,
+        "correct_answers": 10789,
+        "incorrect_answers": 902
+      }
+    ],
+    "has_top_3": true,
+    "practice": null,
+    "surveys": [],
+    "show": {
+      "game_type": "words",
+      "show_type": "hq-words"
+    }
+  }
+]

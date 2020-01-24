@@ -1,0 +1,1235 @@
+[
+  {
+    "id": 139814,
+    "show_id": 12871,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-11-05T01:00:00Z",
+    "direct_link": "/us/game/2019-11-04/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "4,989",
+      "currency": "$",
+      "average_prize": "0.20"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 156969,
+        "text": "In soccer, a âhat trickâ refers to what?",
+        "question_number": 1,
+        "eliminated": "-3,215",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "53,662",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309926,
+            "text": "Stealing refereeâs hat",
+            "correct": false,
+            "count": "349",
+            "percent": "0.73%"
+          },
+          {
+            "id": 309927,
+            "text": "Wearing three hats",
+            "correct": false,
+            "count": "454",
+            "percent": "0.95%"
+          },
+          {
+            "id": 309929,
+            "text": "Scoring three goals",
+            "correct": true,
+            "count": "47,154",
+            "percent": "98.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/1/1",
+        "game_link": "/us/game/2019-11-04/1",
+        "correct_answers": 47154,
+        "incorrect_answers": 803,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156977,
+        "text": "Which track event does NOT involve landing in a sand pit?",
+        "question_number": 2,
+        "eliminated": "2,319",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "51,464",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309938,
+            "text": "High jump",
+            "correct": true,
+            "count": "41,071",
+            "percent": "84.52%"
+          },
+          {
+            "id": 309940,
+            "text": "Long jump",
+            "correct": false,
+            "count": "1,386",
+            "percent": "2.85%"
+          },
+          {
+            "id": 309942,
+            "text": "Triple jump",
+            "correct": false,
+            "count": "6,137",
+            "percent": "12.63%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/1/2",
+        "game_link": "/us/game/2019-11-04/1",
+        "correct_answers": 41071,
+        "incorrect_answers": 7523,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156985,
+        "text": "What is the name of the painted area that protects a hockey goalie?",
+        "question_number": 3,
+        "eliminated": "4,422",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "47,307",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309950,
+            "text": "Red Zone",
+            "correct": false,
+            "count": "6,005",
+            "percent": "12.67%"
+          },
+          {
+            "id": 309952,
+            "text": "Slot",
+            "correct": false,
+            "count": "2,997",
+            "percent": "6.33%"
+          },
+          {
+            "id": 309953,
+            "text": "Crease",
+            "correct": true,
+            "count": "38,377",
+            "percent": "81.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/1/3",
+        "game_link": "/us/game/2019-11-04/1",
+        "correct_answers": 38377,
+        "incorrect_answers": 9002,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 156993,
+        "text": "In a 4-3 defense, the â3â denotes the number of players in what positional grouping?",
+        "question_number": 4,
+        "eliminated": "10,043",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "37,710",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309962,
+            "text": "Secondary",
+            "correct": false,
+            "count": "9,957",
+            "percent": "23.23%"
+          },
+          {
+            "id": 309963,
+            "text": "Linebacker",
+            "correct": true,
+            "count": "30,512",
+            "percent": "71.2%"
+          },
+          {
+            "id": 309965,
+            "text": "Wide receivers",
+            "correct": false,
+            "count": "2,386",
+            "percent": "5.57%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/1/4",
+        "game_link": "/us/game/2019-11-04/1",
+        "correct_answers": 30512,
+        "incorrect_answers": 12343,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157001,
+        "text": "Which of these pitchers won the most consecutive Cy Young Awards?",
+        "question_number": 5,
+        "eliminated": "11,755",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "26,915",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309974,
+            "text": "Greg Maddux",
+            "correct": true,
+            "count": "20,856",
+            "percent": "56.66%"
+          },
+          {
+            "id": 309976,
+            "text": "John Smoltz",
+            "correct": false,
+            "count": "11,921",
+            "percent": "32.39%"
+          },
+          {
+            "id": 309979,
+            "text": "Justin Verlander",
+            "correct": false,
+            "count": "4,031",
+            "percent": "10.95%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/1/5",
+        "game_link": "/us/game/2019-11-04/1",
+        "correct_answers": 20856,
+        "incorrect_answers": 15952,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157009,
+        "text": "Which golf major is always played in the same location?",
+        "question_number": 6,
+        "eliminated": "2,175",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "26,091",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309986,
+            "text": "The PGA Championship",
+            "correct": false,
+            "count": "576",
+            "percent": "2.11%"
+          },
+          {
+            "id": 309988,
+            "text": "The Masters",
+            "correct": true,
+            "count": "25,145",
+            "percent": "91.96%"
+          },
+          {
+            "id": 309991,
+            "text": "The British Open",
+            "correct": false,
+            "count": "1,623",
+            "percent": "5.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/1/6",
+        "game_link": "/us/game/2019-11-04/1",
+        "correct_answers": 25145,
+        "incorrect_answers": 2199,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157017,
+        "text": "What shape is associated with the submission move used here by Donald Cerrone?",
+        "question_number": 7,
+        "eliminated": "3,695",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "22,703",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 309998,
+            "text": "Rhombus",
+            "correct": false,
+            "count": "2,050",
+            "percent": "7.96%"
+          },
+          {
+            "id": 309999,
+            "text": "Triangle",
+            "correct": true,
+            "count": "21,682",
+            "percent": "84.15%"
+          },
+          {
+            "id": 310002,
+            "text": "Octagon",
+            "correct": false,
+            "count": "2,035",
+            "percent": "7.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/1/7",
+        "game_link": "/us/game/2019-11-04/1",
+        "correct_answers": 21682,
+        "incorrect_answers": 4085,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157025,
+        "text": "Which team has NOT been based both in the AL and the NL?",
+        "question_number": 8,
+        "eliminated": "4,078",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "19,385",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310010,
+            "text": "Braves",
+            "correct": true,
+            "count": "18,352",
+            "percent": "81.0%"
+          },
+          {
+            "id": 310013,
+            "text": "Astros",
+            "correct": false,
+            "count": "1,651",
+            "percent": "7.29%"
+          },
+          {
+            "id": 310017,
+            "text": "Brewers",
+            "correct": false,
+            "count": "2,655",
+            "percent": "11.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/1/8",
+        "game_link": "/us/game/2019-11-04/1",
+        "correct_answers": 18352,
+        "incorrect_answers": 4306,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157033,
+        "text": "What player gave an inspirational rain delay speech in game 7 of the 2016 World Series?",
+        "question_number": 9,
+        "eliminated": "4,591",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "15,903",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310022,
+            "text": "Ichiro",
+            "correct": false,
+            "count": "1,108",
+            "percent": "5.73%"
+          },
+          {
+            "id": 310024,
+            "text": "Kyle Schwarber",
+            "correct": false,
+            "count": "3,277",
+            "percent": "16.95%"
+          },
+          {
+            "id": 310025,
+            "text": "Jason Heyward",
+            "correct": true,
+            "count": "14,949",
+            "percent": "77.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/1/9",
+        "game_link": "/us/game/2019-11-04/1",
+        "correct_answers": 14949,
+        "incorrect_answers": 4385,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157041,
+        "text": "Since 2000, what conference is 2nd to the SEC in college football national championships?",
+        "question_number": 10,
+        "eliminated": "3,554",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "14,142",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310034,
+            "text": "Pac 12",
+            "correct": false,
+            "count": "2,093",
+            "percent": "12.48%"
+          },
+          {
+            "id": 310038,
+            "text": "ACC",
+            "correct": true,
+            "count": "13,369",
+            "percent": "79.72%"
+          },
+          {
+            "id": 310042,
+            "text": "Mountain West",
+            "correct": false,
+            "count": "1,308",
+            "percent": "7.8%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/1/10",
+        "game_link": "/us/game/2019-11-04/1",
+        "correct_answers": 13369,
+        "incorrect_answers": 3401,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157049,
+        "text": "Who are the only women in the open era to face off in four straight grand slam finals?",
+        "question_number": 11,
+        "eliminated": "7,047",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "8,660",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310046,
+            "text": "Graf / Navratilova",
+            "correct": false,
+            "count": "3,652",
+            "percent": "25.7%"
+          },
+          {
+            "id": 310047,
+            "text": "King / Seles",
+            "correct": false,
+            "count": "1,899",
+            "percent": "13.36%"
+          },
+          {
+            "id": 310050,
+            "text": "Venus / Serena",
+            "correct": true,
+            "count": "8,660",
+            "percent": "60.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/1/11",
+        "game_link": "/us/game/2019-11-04/1",
+        "correct_answers": 8660,
+        "incorrect_answers": 5551,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157057,
+        "text": "Which one of these players did NOT lead the NBA in scoring for a season during the â90s?",
+        "question_number": 12,
+        "eliminated": "8,301",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,989",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310058,
+            "text": "Jason Kidd",
+            "correct": true,
+            "count": "4,989",
+            "percent": "39.46%"
+          },
+          {
+            "id": 310059,
+            "text": "Allen Iverson",
+            "correct": false,
+            "count": "4,932",
+            "percent": "39.01%"
+          },
+          {
+            "id": 310061,
+            "text": "David Robinson",
+            "correct": false,
+            "count": "2,721",
+            "percent": "21.52%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/1/12",
+        "game_link": "/us/game/2019-11-04/1",
+        "correct_answers": 4989,
+        "incorrect_answers": 7653,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2226,
+        "game_id": 139814,
+        "question": "Should Matt host HQ sports again?",
+        "results": [
+          {
+            "id": 13066,
+            "display_count": "68",
+            "vote_count": 12478,
+            "text": "Hell yeah!"
+          },
+          {
+            "id": 13069,
+            "display_count": "13",
+            "vote_count": 2372,
+            "text": "No way"
+          },
+          {
+            "id": 13072,
+            "display_count": "19",
+            "vote_count": 3538,
+            "text": "Only LG plz"
+          }
+        ],
+        "created_at": "2019-11-05T01:11:34Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 139874,
+    "show_id": 12861,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-11-05T02:00:00Z",
+    "direct_link": "/us/game/2019-11-04/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,625",
+      "currency": "$",
+      "average_prize": "0.62"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "questions": [
+      null,
+      {
+        "id": 157065,
+        "text": "What nickname is this character known by?",
+        "question_number": 2,
+        "eliminated": "3,380",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "99,234",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310070,
+            "text": "Bill the Butcher",
+            "correct": true,
+            "count": "86,047",
+            "percent": "91.33%"
+          },
+          {
+            "id": 310071,
+            "text": "Bob the Builder",
+            "correct": false,
+            "count": "3,057",
+            "percent": "3.24%"
+          },
+          {
+            "id": 310072,
+            "text": "Brutus the Bloodaxe",
+            "correct": false,
+            "count": "5,110",
+            "percent": "5.42%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/2/2",
+        "game_link": "/us/game/2019-11-04/2",
+        "correct_answers": 86047,
+        "incorrect_answers": 8167,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157073,
+        "text": "âThe Irishmanâ marks the first time Scorsese directed what actor?",
+        "question_number": 3,
+        "eliminated": "14,032",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "85,352",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310082,
+            "text": "Harvey Keitel",
+            "correct": false,
+            "count": "18,723",
+            "percent": "20.64%"
+          },
+          {
+            "id": 310083,
+            "text": "Joe Pesci",
+            "correct": false,
+            "count": "11,836",
+            "percent": "13.05%"
+          },
+          {
+            "id": 310084,
+            "text": "Al Pacino",
+            "correct": true,
+            "count": "60,167",
+            "percent": "66.32%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/2/3",
+        "game_link": "/us/game/2019-11-04/2",
+        "correct_answers": 60167,
+        "incorrect_answers": 30559,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157081,
+        "text": "Which Scorsese movie dropped the most F-bombs?",
+        "question_number": 4,
+        "eliminated": "17,633",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "68,590",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310094,
+            "text": "Casino",
+            "correct": false,
+            "count": "11,572",
+            "percent": "14.26%"
+          },
+          {
+            "id": 310095,
+            "text": "Goodfellas",
+            "correct": false,
+            "count": "9,839",
+            "percent": "12.13%"
+          },
+          {
+            "id": 310096,
+            "text": "The Wolf of Wall Street",
+            "correct": true,
+            "count": "59,714",
+            "percent": "73.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/2/4",
+        "game_link": "/us/game/2019-11-04/2",
+        "correct_answers": 59714,
+        "incorrect_answers": 21411,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157089,
+        "text": "Which Beatle did Scorsese direct a documentary about?",
+        "question_number": 5,
+        "eliminated": "25,572",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "44,701",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310106,
+            "text": "John",
+            "correct": false,
+            "count": "23,297",
+            "percent": "34.13%"
+          },
+          {
+            "id": 310107,
+            "text": "George",
+            "correct": true,
+            "count": "38,014",
+            "percent": "55.69%"
+          },
+          {
+            "id": 310109,
+            "text": "Paul",
+            "correct": false,
+            "count": "6,949",
+            "percent": "10.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/2/5",
+        "game_link": "/us/game/2019-11-04/2",
+        "correct_answers": 38014,
+        "incorrect_answers": 30246,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157097,
+        "text": "Which frequent Scorsese collaborator introduced him to Leonardo DiCaprio?",
+        "question_number": 6,
+        "eliminated": "21,376",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "25,524",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310118,
+            "text": "Harvey Keitel",
+            "correct": false,
+            "count": "10,668",
+            "percent": "23.72%"
+          },
+          {
+            "id": 310119,
+            "text": "Joe Pesci",
+            "correct": false,
+            "count": "14,634",
+            "percent": "32.53%"
+          },
+          {
+            "id": 310120,
+            "text": "Robert De Niro",
+            "correct": true,
+            "count": "19,680",
+            "percent": "43.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/2/6",
+        "game_link": "/us/game/2019-11-04/2",
+        "correct_answers": 19680,
+        "incorrect_answers": 25302,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157105,
+        "text": "What was the first Academy Award given to a Scorsese film?",
+        "question_number": 7,
+        "eliminated": "9,903",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "17,900",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310130,
+            "text": "Best Original Screenplay",
+            "correct": false,
+            "count": "5,388",
+            "percent": "19.97%"
+          },
+          {
+            "id": 310131,
+            "text": "Best Editing",
+            "correct": false,
+            "count": "6,461",
+            "percent": "23.95%"
+          },
+          {
+            "id": 310132,
+            "text": "Best Actress",
+            "correct": true,
+            "count": "15,129",
+            "percent": "56.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/2/7",
+        "game_link": "/us/game/2019-11-04/2",
+        "correct_answers": 15129,
+        "incorrect_answers": 11849,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157113,
+        "text": "Who voices this lion?",
+        "question_number": 8,
+        "eliminated": "12,644",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "8,245",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310142,
+            "text": "Martin Scorsese",
+            "correct": false,
+            "count": "3,498",
+            "percent": "17.13%"
+          },
+          {
+            "id": 310143,
+            "text": "Robert De Niro",
+            "correct": false,
+            "count": "12,464",
+            "percent": "61.04%"
+          },
+          {
+            "id": 310144,
+            "text": "Harvey Keitel",
+            "correct": true,
+            "count": "4,459",
+            "percent": "21.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/2/8",
+        "game_link": "/us/game/2019-11-04/2",
+        "correct_answers": 4459,
+        "incorrect_answers": 15962,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157121,
+        "text": "What has Scorsese called his âmost violentâ film?",
+        "question_number": 9,
+        "eliminated": "4,275",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "9,234",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310154,
+            "text": "The Wolf of Wall Street",
+            "correct": false,
+            "count": "288",
+            "percent": "2.18%"
+          },
+          {
+            "id": 310155,
+            "text": "The Age of Innocence",
+            "correct": true,
+            "count": "6,161",
+            "percent": "46.73%"
+          },
+          {
+            "id": 310156,
+            "text": "Gangs of New York",
+            "correct": false,
+            "count": "6,734",
+            "percent": "51.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/2/9",
+        "game_link": "/us/game/2019-11-04/2",
+        "correct_answers": 6161,
+        "incorrect_answers": 7022,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157129,
+        "text": "What was reportedly banned from âThe Departedâ set?",
+        "question_number": 10,
+        "eliminated": "2,874",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "7,756",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310166,
+            "text": "Alcohol",
+            "correct": false,
+            "count": "836",
+            "percent": "8.11%"
+          },
+          {
+            "id": 310167,
+            "text": "Jelly beans",
+            "correct": false,
+            "count": "3,604",
+            "percent": "34.96%"
+          },
+          {
+            "id": 310169,
+            "text": "Celtics gear",
+            "correct": true,
+            "count": "5,869",
+            "percent": "56.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/2/10",
+        "game_link": "/us/game/2019-11-04/2",
+        "correct_answers": 5869,
+        "incorrect_answers": 4440,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157137,
+        "text": "Margot Robbie sustained what injury on the set of âThe Wolf of Wall Streetâ?",
+        "question_number": 11,
+        "eliminated": "3,772",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "5,235",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310178,
+            "text": "Paper cuts",
+            "correct": true,
+            "count": "5,235",
+            "percent": "59.23%"
+          },
+          {
+            "id": 310179,
+            "text": "Bronchitis",
+            "correct": false,
+            "count": "835",
+            "percent": "9.45%"
+          },
+          {
+            "id": 310180,
+            "text": "Second degree burn",
+            "correct": false,
+            "count": "2,769",
+            "percent": "31.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/2/11",
+        "game_link": "/us/game/2019-11-04/2",
+        "correct_answers": 5235,
+        "incorrect_answers": 3604,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157145,
+        "text": "Which of these pop starsâ first major film roles was directed by Scorsese?",
+        "question_number": 12,
+        "eliminated": "1,554",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "5,290",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310190,
+            "text": "Jewel",
+            "correct": false,
+            "count": "566",
+            "percent": "8.36%"
+          },
+          {
+            "id": 310191,
+            "text": "Gwen Stefani",
+            "correct": true,
+            "count": "5,290",
+            "percent": "78.15%"
+          },
+          {
+            "id": 310193,
+            "text": "Ricky Martin",
+            "correct": false,
+            "count": "913",
+            "percent": "13.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/2/12",
+        "game_link": "/us/game/2019-11-04/2",
+        "correct_answers": 5290,
+        "incorrect_answers": 1479,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157153,
+        "text": "Steven Spielberg originally developed âCape Fearâ before trading it with Scorsese for what project?",
+        "question_number": 13,
+        "eliminated": "1,177",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "5,014",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310202,
+            "text": "Jurassic Park",
+            "correct": false,
+            "count": "374",
+            "percent": "6.17%"
+          },
+          {
+            "id": 310203,
+            "text": "Schindlerâs List",
+            "correct": true,
+            "count": "5,014",
+            "percent": "82.7%"
+          },
+          {
+            "id": 310204,
+            "text": "Saving Private Ryan",
+            "correct": false,
+            "count": "675",
+            "percent": "11.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/2/13",
+        "game_link": "/us/game/2019-11-04/2",
+        "correct_answers": 5014,
+        "incorrect_answers": 1049,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157161,
+        "text": "During the filming of âTaxi Driver,â New York City was enduring what?",
+        "question_number": 14,
+        "eliminated": "2,271",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "3,502",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310214,
+            "text": "Subway shutdown",
+            "correct": false,
+            "count": "118",
+            "percent": "2.08%"
+          },
+          {
+            "id": 310215,
+            "text": "Sanitation strike",
+            "correct": true,
+            "count": "3,502",
+            "percent": "61.62%"
+          },
+          {
+            "id": 310216,
+            "text": "Rolling blackouts",
+            "correct": false,
+            "count": "2,063",
+            "percent": "36.3%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/2/14",
+        "game_link": "/us/game/2019-11-04/2",
+        "correct_answers": 3502,
+        "incorrect_answers": 2181,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 157169,
+        "text": "Which Scorsese film is rated R despite having zero F-bombs?",
+        "question_number": 15,
+        "eliminated": "3,554",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "1,625",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 310226,
+            "text": "Cape Fear",
+            "correct": false,
+            "count": "1,476",
+            "percent": "29.08%"
+          },
+          {
+            "id": 310229,
+            "text": "Silence",
+            "correct": true,
+            "count": "1,625",
+            "percent": "32.02%"
+          },
+          {
+            "id": 310233,
+            "text": "The King of Comedy",
+            "correct": false,
+            "count": "1,974",
+            "percent": "38.9%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-04/2/15",
+        "game_link": "/us/game/2019-11-04/2",
+        "correct_answers": 1625,
+        "incorrect_answers": 3450,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 2234,
+        "game_id": 139874,
+        "question": " âA love story is like a song. Itâs beautiful while it lasts.â",
+        "results": [
+          {
+            "id": 13114,
+            "display_count": "18",
+            "vote_count": 4341,
+            "text": "After Hours"
+          },
+          {
+            "id": 13118,
+            "display_count": "42",
+            "vote_count": 10020,
+            "text": "Last Waltz"
+          },
+          {
+            "id": 13116,
+            "display_count": "39",
+            "vote_count": 9360,
+            "text": "New York, New York"
+          }
+        ],
+        "created_at": "2019-11-05T02:03:29Z"
+      },
+      {
+        "id": 2238,
+        "game_id": 139874,
+        "question": "âSome men dream the future. He built it.â ",
+        "results": [
+          {
+            "id": 13143,
+            "display_count": "7",
+            "vote_count": 2144,
+            "text": "Silence"
+          },
+          {
+            "id": 13138,
+            "display_count": "75",
+            "vote_count": 24521,
+            "text": "The Aviator"
+          },
+          {
+            "id": 13140,
+            "display_count": "19",
+            "vote_count": 6222,
+            "text": "The Irishman"
+          }
+        ],
+        "created_at": "2019-11-05T02:04:05Z"
+      },
+      {
+        "id": 2230,
+        "game_id": 139874,
+        "question": "âThree decades of life in the Mafia.â",
+        "results": [
+          {
+            "id": 13090,
+            "display_count": "21",
+            "vote_count": 4743,
+            "text": "Casino"
+          },
+          {
+            "id": 13094,
+            "display_count": "70",
+            "vote_count": 16044,
+            "text": "Goodfellas"
+          },
+          {
+            "id": 13092,
+            "display_count": "9",
+            "vote_count": 2024,
+            "text": "Mean Streets"
+          }
+        ],
+        "created_at": "2019-11-05T02:02:43Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

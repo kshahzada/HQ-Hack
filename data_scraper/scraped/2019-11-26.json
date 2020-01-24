@@ -1,0 +1,950 @@
+[
+  {
+    "id": 141646,
+    "show_id": 13017,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-11-27T02:00:00Z",
+    "direct_link": "/us/game/2019-11-26/1",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,182",
+      "currency": "$",
+      "average_prize": "0.85"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 159252,
+        "text": "What is this characterâs name?",
+        "question_number": 1,
+        "eliminated": "-7,286",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "100,777",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313334,
+            "text": "Harry Potter",
+            "correct": false,
+            "count": "1,993",
+            "percent": "2.23%"
+          },
+          {
+            "id": 313335,
+            "text": "Olaf",
+            "correct": true,
+            "count": "86,467",
+            "percent": "96.73%"
+          },
+          {
+            "id": 313336,
+            "text": "James Bond",
+            "correct": false,
+            "count": "929",
+            "percent": "1.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-26/1/1",
+        "game_link": "/us/game/2019-11-26/1",
+        "correct_answers": 86467,
+        "incorrect_answers": 2922,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159254,
+        "text": "Calling someone what animal implies they are a coward?",
+        "question_number": 2,
+        "eliminated": "1,253",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "99,591",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313337,
+            "text": "Pig",
+            "correct": false,
+            "count": "1,813",
+            "percent": "2.01%"
+          },
+          {
+            "id": 313338,
+            "text": "Chicken",
+            "correct": true,
+            "count": "86,409",
+            "percent": "95.71%"
+          },
+          {
+            "id": 313339,
+            "text": "Rat",
+            "correct": false,
+            "count": "2,064",
+            "percent": "2.29%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-26/1/2",
+        "game_link": "/us/game/2019-11-26/1",
+        "correct_answers": 86409,
+        "incorrect_answers": 3877,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159256,
+        "text": "What chain caused chaos this summer when they sold out of spicy chicken sandwiches?",
+        "question_number": 3,
+        "eliminated": "3,313",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "96,315",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313340,
+            "text": "KFC",
+            "correct": false,
+            "count": "7,099",
+            "percent": "7.92%"
+          },
+          {
+            "id": 313341,
+            "text": "McDonald's",
+            "correct": false,
+            "count": "1,650",
+            "percent": "1.84%"
+          },
+          {
+            "id": 313342,
+            "text": "Popeyes",
+            "correct": true,
+            "count": "80,890",
+            "percent": "90.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-26/1/3",
+        "game_link": "/us/game/2019-11-26/1",
+        "correct_answers": 80890,
+        "incorrect_answers": 8749,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159258,
+        "text": "Who are these glasses named for?",
+        "question_number": 4,
+        "eliminated": "6,444",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "89,986",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313343,
+            "text": "Groucho Marx",
+            "correct": true,
+            "count": "77,961",
+            "percent": "88.07%"
+          },
+          {
+            "id": 313344,
+            "text": "Geraldo Rivera",
+            "correct": false,
+            "count": "1,647",
+            "percent": "1.86%"
+          },
+          {
+            "id": 313345,
+            "text": "Charlie Chaplin",
+            "correct": false,
+            "count": "8,913",
+            "percent": "10.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-26/1/4",
+        "game_link": "/us/game/2019-11-26/1",
+        "correct_answers": 77961,
+        "incorrect_answers": 10560,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159260,
+        "text": "Which Muppet appeared before Congress?",
+        "question_number": 5,
+        "eliminated": "9,818",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "80,597",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313346,
+            "text": "Sam the Eagle",
+            "correct": false,
+            "count": "13,449",
+            "percent": "15.99%"
+          },
+          {
+            "id": 313347,
+            "text": "Miss Piggy",
+            "correct": false,
+            "count": "14,240",
+            "percent": "16.93%"
+          },
+          {
+            "id": 313348,
+            "text": "Kermit the Frog",
+            "correct": true,
+            "count": "56,410",
+            "percent": "67.08%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-26/1/5",
+        "game_link": "/us/game/2019-11-26/1",
+        "correct_answers": 56410,
+        "incorrect_answers": 27689,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159262,
+        "text": "What ingredient might be used in a traditional ballotine?",
+        "question_number": 6,
+        "eliminated": "23,970",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "57,733",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313349,
+            "text": "Calamari",
+            "correct": false,
+            "count": "4,789",
+            "percent": "6.32%"
+          },
+          {
+            "id": 313350,
+            "text": "Vanilla extract",
+            "correct": false,
+            "count": "33,964",
+            "percent": "44.85%"
+          },
+          {
+            "id": 313351,
+            "text": "Duck",
+            "correct": true,
+            "count": "36,981",
+            "percent": "48.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-26/1/6",
+        "game_link": "/us/game/2019-11-26/1",
+        "correct_answers": 36981,
+        "incorrect_answers": 38753,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159264,
+        "text": "Which animal can hibernate?",
+        "question_number": 7,
+        "eliminated": "4,058",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "56,952",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313352,
+            "text": "Deer",
+            "correct": false,
+            "count": "2,169",
+            "percent": "3.69%"
+          },
+          {
+            "id": 313353,
+            "text": "Giraffes",
+            "correct": false,
+            "count": "1,503",
+            "percent": "2.56%"
+          },
+          {
+            "id": 313354,
+            "text": "Hedgehogs",
+            "correct": true,
+            "count": "55,094",
+            "percent": "93.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-26/1/7",
+        "game_link": "/us/game/2019-11-26/1",
+        "correct_answers": 55094,
+        "incorrect_answers": 3672,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159266,
+        "text": "What role in Balanchineâs version of the Nutcracker is NOT usually played by a child?",
+        "question_number": 8,
+        "eliminated": "37,043",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "20,644",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313355,
+            "text": "Dewdrop",
+            "correct": true,
+            "count": "8,369",
+            "percent": "15.49%"
+          },
+          {
+            "id": 313356,
+            "text": "Marie",
+            "correct": false,
+            "count": "7,032",
+            "percent": "13.01%"
+          },
+          {
+            "id": 313357,
+            "text": "The Nutcracker",
+            "correct": false,
+            "count": "38,637",
+            "percent": "71.5%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-26/1/8",
+        "game_link": "/us/game/2019-11-26/1",
+        "correct_answers": 8369,
+        "incorrect_answers": 45669,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159268,
+        "text": "What kind of bear is Smokey Bear?",
+        "question_number": 9,
+        "eliminated": "10,395",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "18,385",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313358,
+            "text": "Polar bear",
+            "correct": false,
+            "count": "96",
+            "percent": "0.35%"
+          },
+          {
+            "id": 313359,
+            "text": "Black bear",
+            "correct": true,
+            "count": "10,484",
+            "percent": "37.76%"
+          },
+          {
+            "id": 313360,
+            "text": "Grizzly bear",
+            "correct": false,
+            "count": "17,183",
+            "percent": "61.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-26/1/9",
+        "game_link": "/us/game/2019-11-26/1",
+        "correct_answers": 10484,
+        "incorrect_answers": 17279,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159270,
+        "text": "Which childrenâs story is of English origin?",
+        "question_number": 10,
+        "eliminated": "6,355",
+        "category": "Literature",
+        "category_slug": "literature",
+        "advancing": "15,403",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313361,
+            "text": "Little Red Riding Hood",
+            "correct": false,
+            "count": "4,536",
+            "percent": "21.74%"
+          },
+          {
+            "id": 313362,
+            "text": "Humpty Dumpty",
+            "correct": true,
+            "count": "8,881",
+            "percent": "42.56%"
+          },
+          {
+            "id": 313363,
+            "text": "The Princess and the Pea",
+            "correct": false,
+            "count": "7,449",
+            "percent": "35.7%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-26/1/10",
+        "game_link": "/us/game/2019-11-26/1",
+        "correct_answers": 8881,
+        "incorrect_answers": 11985,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159272,
+        "text": "Where can you find the Fallen Astronaut sculpture?",
+        "question_number": 11,
+        "eliminated": "15,942",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "2,344",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313364,
+            "text": "Smithsonian Museum",
+            "correct": false,
+            "count": "5,049",
+            "percent": "28.89%"
+          },
+          {
+            "id": 313365,
+            "text": "Kennedy Center",
+            "correct": false,
+            "count": "10,082",
+            "percent": "57.69%"
+          },
+          {
+            "id": 313366,
+            "text": "Moonâs surface",
+            "correct": true,
+            "count": "2,344",
+            "percent": "13.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-26/1/11",
+        "game_link": "/us/game/2019-11-26/1",
+        "correct_answers": 2344,
+        "incorrect_answers": 15131,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159274,
+        "text": "Which Beethoven composition was NOT performed during his lifetime?",
+        "question_number": 12,
+        "eliminated": "3,789",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "5,936",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313367,
+            "text": "FÃ¼r Elise",
+            "correct": true,
+            "count": "5,936",
+            "percent": "62.27%"
+          },
+          {
+            "id": 313368,
+            "text": "Moonlight Sonata",
+            "correct": false,
+            "count": "1,923",
+            "percent": "20.17%"
+          },
+          {
+            "id": 313369,
+            "text": "Adelaide",
+            "correct": false,
+            "count": "1,673",
+            "percent": "17.55%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-26/1/12",
+        "game_link": "/us/game/2019-11-26/1",
+        "correct_answers": 5936,
+        "incorrect_answers": 3596,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159276,
+        "text": "The actor behind which â70s TV character later played Santa Claus in a movie?",
+        "question_number": 13,
+        "eliminated": "2,777",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "5,437",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313370,
+            "text": "Lou Grant",
+            "correct": true,
+            "count": "5,437",
+            "percent": "67.62%"
+          },
+          {
+            "id": 313371,
+            "text": "Greg Brady",
+            "correct": false,
+            "count": "754",
+            "percent": "9.38%"
+          },
+          {
+            "id": 313372,
+            "text": "Jack Tripper",
+            "correct": false,
+            "count": "1,849",
+            "percent": "23.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-26/1/13",
+        "game_link": "/us/game/2019-11-26/1",
+        "correct_answers": 5437,
+        "incorrect_answers": 2603,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159278,
+        "text": "Which president was a volunteer firefighter?",
+        "question_number": 14,
+        "eliminated": "4,219",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "3,179",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313373,
+            "text": "Jimmy Carter",
+            "correct": false,
+            "count": "1,789",
+            "percent": "24.41%"
+          },
+          {
+            "id": 313374,
+            "text": "George Washington",
+            "correct": true,
+            "count": "3,179",
+            "percent": "43.37%"
+          },
+          {
+            "id": 313375,
+            "text": "James Madison",
+            "correct": false,
+            "count": "2,362",
+            "percent": "32.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-26/1/14",
+        "game_link": "/us/game/2019-11-26/1",
+        "correct_answers": 3179,
+        "incorrect_answers": 4151,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 159280,
+        "text": "Which iconic New York City buildings is closest to the end of the Macy's Thanksgiving Day Parade route?",
+        "question_number": 15,
+        "eliminated": "4,998",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,182",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 313376,
+            "text": "Empire State Building",
+            "correct": true,
+            "count": "1,182",
+            "percent": "20.17%"
+          },
+          {
+            "id": 313377,
+            "text": "Chrysler Building",
+            "correct": false,
+            "count": "930",
+            "percent": "15.87%"
+          },
+          {
+            "id": 313378,
+            "text": "Radio City Music Hall",
+            "correct": false,
+            "count": "3,747",
+            "percent": "63.95%"
+          }
+        ],
+        "direct_link": "/us/game/2019-11-26/1/15",
+        "game_link": "/us/game/2019-11-26/1",
+        "correct_answers": 1182,
+        "incorrect_answers": 4677,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  },
+  {
+    "id": 141664,
+    "show_id": 13035,
+    "active": false,
+    "game_type": "words",
+    "start_time": "2019-11-27T02:30:00Z",
+    "direct_link": "/us/game/2019-11-26/2",
+    "currency": "$",
+    "prize": "1,000",
+    "summary": {
+      "winner_count": "12,701",
+      "currency": "$",
+      "average_prize": "0.08"
+    },
+    "time": " 9:30 pm",
+    "game_number": 2,
+    "country": "us",
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "rounds": [
+      {
+        "direct_link": "/us/game/2019-11-26/2/1",
+        "question_number": 1,
+        "text": "Peanut...Cup",
+        "answer": [
+          "BUTTER"
+        ],
+        "initial_letters": [
+          "\"B\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "R"
+        ],
+        "game_link": "/us/game/2019-11-26/2",
+        "eliminated": 1258,
+        "advancing": 41018,
+        "correct_answers": 41018,
+        "incorrect_answers": 1258
+      },
+      {
+        "direct_link": "/us/game/2019-11-26/2/2",
+        "question_number": 2,
+        "text": "I think...I am",
+        "answer": [
+          "THEREFORE"
+        ],
+        "initial_letters": [
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "H",
+          "O"
+        ],
+        "game_link": "/us/game/2019-11-26/2",
+        "eliminated": 3969,
+        "advancing": 37263,
+        "correct_answers": 37263,
+        "incorrect_answers": 3969
+      },
+      {
+        "direct_link": "/us/game/2019-11-26/2/3",
+        "question_number": 3,
+        "text": "Itâs...Science",
+        "answer": [
+          "NOT",
+          "ROCKET"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"E\""
+        ],
+        "to_reveal_letters": [
+          "C",
+          "N"
+        ],
+        "game_link": "/us/game/2019-11-26/2",
+        "eliminated": 3038,
+        "advancing": 34518,
+        "correct_answers": 34518,
+        "incorrect_answers": 3038
+      },
+      {
+        "direct_link": "/us/game/2019-11-26/2/4",
+        "question_number": 4,
+        "text": "One...Of Solitude",
+        "answer": [
+          "HUNDRED",
+          "YEARS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"D\""
+        ],
+        "to_reveal_letters": [
+          "N",
+          "R"
+        ],
+        "game_link": "/us/game/2019-11-26/2",
+        "eliminated": 5715,
+        "advancing": 29051,
+        "correct_answers": 29051,
+        "incorrect_answers": 5715
+      },
+      {
+        "direct_link": "/us/game/2019-11-26/2/5",
+        "question_number": 5,
+        "text": "Be...Afraid",
+        "answer": [
+          "AFRAID,",
+          "BE",
+          "VERY"
+        ],
+        "initial_letters": [
+          "\",\"",
+          "\" \"",
+          "\"I\""
+        ],
+        "to_reveal_letters": [
+          "B",
+          "R"
+        ],
+        "game_link": "/us/game/2019-11-26/2",
+        "eliminated": 4476,
+        "advancing": 25112,
+        "correct_answers": 25112,
+        "incorrect_answers": 4476
+      },
+      {
+        "direct_link": "/us/game/2019-11-26/2/6",
+        "question_number": 6,
+        "text": "From...Sea",
+        "answer": [
+          "SEA",
+          "TO",
+          "SHINING"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "G"
+        ],
+        "game_link": "/us/game/2019-11-26/2",
+        "eliminated": 616,
+        "advancing": 25126,
+        "correct_answers": 25126,
+        "incorrect_answers": 616
+      },
+      {
+        "direct_link": "/us/game/2019-11-26/2/7",
+        "question_number": 7,
+        "text": "A...Closet",
+        "answer": [
+          "SKELETON",
+          "IN",
+          "THE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"T\""
+        ],
+        "to_reveal_letters": [
+          "E",
+          "N"
+        ],
+        "game_link": "/us/game/2019-11-26/2",
+        "eliminated": 2881,
+        "advancing": 22304,
+        "correct_answers": 22304,
+        "incorrect_answers": 2881
+      },
+      {
+        "direct_link": "/us/game/2019-11-26/2/8",
+        "question_number": 8,
+        "text": "Between...Place",
+        "answer": [
+          "A",
+          "ROCK",
+          "AND",
+          "A",
+          "HARD"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"N\""
+        ],
+        "to_reveal_letters": [
+          "D",
+          "O"
+        ],
+        "game_link": "/us/game/2019-11-26/2",
+        "eliminated": 875,
+        "advancing": 21935,
+        "correct_answers": 21935,
+        "incorrect_answers": 875
+      },
+      {
+        "direct_link": "/us/game/2019-11-26/2/9",
+        "question_number": 9,
+        "text": "All... Gold",
+        "answer": [
+          "THAT",
+          "GLITTERS",
+          "IS",
+          "NOT"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"G\""
+        ],
+        "to_reveal_letters": [
+          "I",
+          "R"
+        ],
+        "game_link": "/us/game/2019-11-26/2",
+        "eliminated": 1356,
+        "advancing": 20745,
+        "correct_answers": 20745,
+        "incorrect_answers": 1356
+      },
+      {
+        "direct_link": "/us/game/2019-11-26/2/10",
+        "question_number": 10,
+        "text": "A...Words",
+        "answer": [
+          "PICTURE",
+          "IS",
+          "WORTH",
+          "A",
+          "THOUSAND"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"D\""
+        ],
+        "to_reveal_letters": [
+          "P",
+          "U"
+        ],
+        "game_link": "/us/game/2019-11-26/2",
+        "eliminated": 3785,
+        "advancing": 17293,
+        "correct_answers": 17293,
+        "incorrect_answers": 3785
+      },
+      {
+        "direct_link": "/us/game/2019-11-26/2/11",
+        "question_number": 11,
+        "text": "Between...Sea",
+        "answer": [
+          "THE",
+          "DEVIL",
+          "AND",
+          "THE",
+          "DEEP",
+          "BLUE"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"V\""
+        ],
+        "to_reveal_letters": [
+          "N",
+          "P"
+        ],
+        "game_link": "/us/game/2019-11-26/2",
+        "eliminated": 2773,
+        "advancing": 15760,
+        "correct_answers": 15760,
+        "incorrect_answers": 2773
+      },
+      {
+        "direct_link": "/us/game/2019-11-26/2/12",
+        "question_number": 12,
+        "text": "A...Thing",
+        "answer": [
+          "LITTLE",
+          "KNOWLEDGE",
+          "IS",
+          "A",
+          "DANGEROUS"
+        ],
+        "initial_letters": [
+          "\" \"",
+          "\"U\""
+        ],
+        "to_reveal_letters": [
+          "D",
+          "N"
+        ],
+        "game_link": "/us/game/2019-11-26/2",
+        "eliminated": 4106,
+        "advancing": 12701,
+        "correct_answers": 12701,
+        "incorrect_answers": 4106
+      }
+    ],
+    "has_top_3": false,
+    "practice": null,
+    "surveys": [],
+    "show": null
+  }
+]

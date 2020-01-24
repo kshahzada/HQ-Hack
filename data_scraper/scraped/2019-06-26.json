@@ -1,0 +1,1385 @@
+[
+  {
+    "id": 116548,
+    "show_id": 11532,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-06-27T00:00:00Z",
+    "direct_link": "/us/game/2019-06-26/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "5,543",
+      "currency": "$",
+      "average_prize": "0.18"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 123643,
+        "text": "Which of these is NOT a typical position on a soccer team?",
+        "question_number": 1,
+        "eliminated": "-5,236",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "87,873",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 259937,
+            "text": "Sweeper",
+            "correct": false,
+            "count": "5,247",
+            "percent": "6.35%"
+          },
+          {
+            "id": 259938,
+            "text": "Striker",
+            "correct": false,
+            "count": "1,467",
+            "percent": "1.78%"
+          },
+          {
+            "id": 259939,
+            "text": "Stickler",
+            "correct": true,
+            "count": "75,923",
+            "percent": "91.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/1/1",
+        "game_link": "/us/game/2019-06-26/1",
+        "correct_answers": 75923,
+        "incorrect_answers": 6714,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 123659,
+        "text": "Of these hits, which is the rarest in Major League Baseball?",
+        "question_number": 2,
+        "eliminated": "1,511",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "86,419",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 259961,
+            "text": "Triple",
+            "correct": true,
+            "count": "72,590",
+            "percent": "87.17%"
+          },
+          {
+            "id": 259962,
+            "text": "Home run",
+            "correct": false,
+            "count": "8,471",
+            "percent": "10.17%"
+          },
+          {
+            "id": 259964,
+            "text": "Double",
+            "correct": false,
+            "count": "2,212",
+            "percent": "2.66%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/1/2",
+        "game_link": "/us/game/2019-06-26/1",
+        "correct_answers": 72590,
+        "incorrect_answers": 10683,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 123675,
+        "text": "What is the nickname of the player who scored this goal?",
+        "question_number": 3,
+        "eliminated": "3,811",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "82,698",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 259986,
+            "text": "Sid the Kid",
+            "correct": false,
+            "count": "8,009",
+            "percent": "9.77%"
+          },
+          {
+            "id": 259988,
+            "text": "Super Mario",
+            "correct": true,
+            "count": "59,023",
+            "percent": "72.01%"
+          },
+          {
+            "id": 259993,
+            "text": "The Great One",
+            "correct": false,
+            "count": "14,938",
+            "percent": "18.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/1/3",
+        "game_link": "/us/game/2019-06-26/1",
+        "correct_answers": 59023,
+        "incorrect_answers": 22947,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      null,
+      {
+        "id": 123691,
+        "text": "Mets manager Mickey Callaway cursed out a reporter on Sunday who said what to him?",
+        "question_number": 5,
+        "eliminated": "6,061",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "73,010",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260009,
+            "text": "Some team, huh?",
+            "correct": false,
+            "count": "14,462",
+            "percent": "20.11%"
+          },
+          {
+            "id": 260010,
+            "text": "Adios, amigo",
+            "correct": false,
+            "count": "10,886",
+            "percent": "15.14%"
+          },
+          {
+            "id": 260011,
+            "text": "See you tomorrow!",
+            "correct": true,
+            "count": "46,562",
+            "percent": "64.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/1/5",
+        "game_link": "/us/game/2019-06-26/1",
+        "correct_answers": 46562,
+        "incorrect_answers": 25348,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 123693,
+        "text": "Which mountain range does NOT feature in the Tour de France?",
+        "question_number": 6,
+        "eliminated": "5,952",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "67,388",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260012,
+            "text": "Pyrenees",
+            "correct": false,
+            "count": "8,234",
+            "percent": "12.15%"
+          },
+          {
+            "id": 260013,
+            "text": "Alps",
+            "correct": false,
+            "count": "7,839",
+            "percent": "11.57%"
+          },
+          {
+            "id": 260015,
+            "text": "Ural",
+            "correct": true,
+            "count": "51,676",
+            "percent": "76.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/1/6",
+        "game_link": "/us/game/2019-06-26/1",
+        "correct_answers": 51676,
+        "incorrect_answers": 16073,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 123710,
+        "text": "What is the largest current MLB stadium by seating capacity?",
+        "question_number": 7,
+        "eliminated": "9,878",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "58,804",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260037,
+            "text": "Yankee Stadium",
+            "correct": false,
+            "count": "7,564",
+            "percent": "11.81%"
+          },
+          {
+            "id": 260041,
+            "text": "Coors Field",
+            "correct": false,
+            "count": "12,800",
+            "percent": "19.99%"
+          },
+          {
+            "id": 260049,
+            "text": "Dodger Stadium",
+            "correct": true,
+            "count": "43,666",
+            "percent": "68.2%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/1/7",
+        "game_link": "/us/game/2019-06-26/1",
+        "correct_answers": 43666,
+        "incorrect_answers": 20364,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 123727,
+        "text": "Megan Rapinoe sent the US past Spain to the World Cup quarterfinals by scoring two goals in what way?",
+        "question_number": 8,
+        "eliminated": "6,221",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "53,216",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260064,
+            "text": "Header",
+            "correct": false,
+            "count": "4,338",
+            "percent": "7.78%"
+          },
+          {
+            "id": 260066,
+            "text": "Free kick",
+            "correct": false,
+            "count": "4,100",
+            "percent": "7.35%"
+          },
+          {
+            "id": 260068,
+            "text": "Penalty kick",
+            "correct": true,
+            "count": "47,327",
+            "percent": "84.87%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/1/8",
+        "game_link": "/us/game/2019-06-26/1",
+        "correct_answers": 47327,
+        "incorrect_answers": 8438,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 123742,
+        "text": "What nation had a player picked in the first round of the NBA Draft for the first time this year?",
+        "question_number": 9,
+        "eliminated": "15,737",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "37,825",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260085,
+            "text": "Brazil",
+            "correct": false,
+            "count": "4,699",
+            "percent": "9.25%"
+          },
+          {
+            "id": 260087,
+            "text": "Japan",
+            "correct": true,
+            "count": "35,725",
+            "percent": "70.34%"
+          },
+          {
+            "id": 260089,
+            "text": "Italy",
+            "correct": false,
+            "count": "10,364",
+            "percent": "20.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/1/9",
+        "game_link": "/us/game/2019-06-26/1",
+        "correct_answers": 35725,
+        "incorrect_answers": 15063,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 123757,
+        "text": "Who is the only golfer to hold two back-to-back major championships simultaneously?",
+        "question_number": 10,
+        "eliminated": "8,525",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "30,450",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260108,
+            "text": "Tiger Woods",
+            "correct": false,
+            "count": "2,400",
+            "percent": "6.52%"
+          },
+          {
+            "id": 260109,
+            "text": "Jack Nicklaus",
+            "correct": false,
+            "count": "4,009",
+            "percent": "10.88%"
+          },
+          {
+            "id": 260110,
+            "text": "Brooks Koepka",
+            "correct": true,
+            "count": "30,423",
+            "percent": "82.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/1/10",
+        "game_link": "/us/game/2019-06-26/1",
+        "correct_answers": 30423,
+        "incorrect_answers": 6409,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 123773,
+        "text": "Who leads non-active tennis players in menâs Grand Slam singles events won?",
+        "question_number": 11,
+        "eliminated": "6,836",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "24,802",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260132,
+            "text": "Rod Laver",
+            "correct": false,
+            "count": "2,507",
+            "percent": "8.1%"
+          },
+          {
+            "id": 260134,
+            "text": "Pete Sampras",
+            "correct": true,
+            "count": "24,802",
+            "percent": "80.13%"
+          },
+          {
+            "id": 260137,
+            "text": "Bjorn Borg",
+            "correct": false,
+            "count": "3,645",
+            "percent": "11.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/1/11",
+        "game_link": "/us/game/2019-06-26/1",
+        "correct_answers": 24802,
+        "incorrect_answers": 6152,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 123791,
+        "text": "Before Aaron Judge, who was the last player 6â7â or taller to hit leadoff?",
+        "question_number": 12,
+        "eliminated": "20,854",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "5,543",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260159,
+            "text": "Richie Sexson",
+            "correct": false,
+            "count": "8,245",
+            "percent": "31.84%"
+          },
+          {
+            "id": 260160,
+            "text": "Frank Howard",
+            "correct": true,
+            "count": "5,543",
+            "percent": "21.4%"
+          },
+          {
+            "id": 260163,
+            "text": "Tony Clark",
+            "correct": false,
+            "count": "12,111",
+            "percent": "46.76%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/1/12",
+        "game_link": "/us/game/2019-06-26/1",
+        "correct_answers": 5543,
+        "incorrect_answers": 20356,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 375,
+        "game_id": 116548,
+        "question": "What do you eat first at a baseball game?",
+        "results": [
+          {
+            "id": 2269,
+            "display_count": "74",
+            "vote_count": 25783,
+            "text": "ð­ð­ð­"
+          },
+          {
+            "id": 2272,
+            "display_count": "9",
+            "vote_count": 3194,
+            "text": "ððð"
+          },
+          {
+            "id": 2276,
+            "display_count": "16",
+            "vote_count": 5704,
+            "text": "ð¿ð¿ð¿"
+          }
+        ],
+        "created_at": "2019-06-27T00:11:22Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 116661,
+    "show_id": 11594,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "200,000",
+    "currency": "$",
+    "start_time": "2019-06-27T01:30:00Z",
+    "direct_link": "/us/game/2019-06-26/2",
+    "time": " 9:30 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Restarted Game",
+        "slug": "restarted-game"
+      },
+      {
+        "name": "Checkpoints",
+        "slug": "checkpoints"
+      }
+    ],
+    "questions": [
+      {
+        "id": 123805,
+        "text": "According to reports, NBC is paying about $500 million to take what show back from Netflix?",
+        "question_number": 1,
+        "eliminated": "-185",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "199,451",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260180,
+            "text": "ALF",
+            "correct": false,
+            "count": "6,643",
+            "percent": "3.63%"
+          },
+          {
+            "id": 260181,
+            "text": "The Office",
+            "correct": true,
+            "count": "172,791",
+            "percent": "94.36%"
+          },
+          {
+            "id": 260182,
+            "text": "Sweet Valley High",
+            "correct": false,
+            "count": "3,684",
+            "percent": "2.01%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/2/1",
+        "game_link": "/us/game/2019-06-26/2",
+        "correct_answers": 172791,
+        "incorrect_answers": 10327,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 123819,
+        "text": "Who typically travels on the United Statesâ âAir Force Twoâ?",
+        "question_number": 2,
+        "eliminated": "4,527",
+        "category": "Civics",
+        "category_slug": "civics",
+        "advancing": "195,378",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260201,
+            "text": "President-elect",
+            "correct": false,
+            "count": "10,802",
+            "percent": "5.68%"
+          },
+          {
+            "id": 260202,
+            "text": "First lady",
+            "correct": false,
+            "count": "11,988",
+            "percent": "6.3%"
+          },
+          {
+            "id": 260203,
+            "text": "Vice president",
+            "correct": true,
+            "count": "167,493",
+            "percent": "88.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/2/2",
+        "game_link": "/us/game/2019-06-26/2",
+        "correct_answers": 167493,
+        "incorrect_answers": 22790,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 123833,
+        "text": "What is the correct spelling of this word?",
+        "question_number": 3,
+        "eliminated": "9,006",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "186,651",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260222,
+            "text": "Harrassment",
+            "correct": false,
+            "count": "30,108",
+            "percent": "16.2%"
+          },
+          {
+            "id": 260223,
+            "text": "Harassment",
+            "correct": true,
+            "count": "144,259",
+            "percent": "77.62%"
+          },
+          {
+            "id": 260224,
+            "text": "Harrasment",
+            "correct": false,
+            "count": "11,486",
+            "percent": "6.18%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/2/3",
+        "game_link": "/us/game/2019-06-26/2",
+        "correct_answers": 144259,
+        "incorrect_answers": 41594,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 123853,
+        "text": "What is a non-hypotenuse side of a right triangle called?",
+        "question_number": 4,
+        "eliminated": "13,440",
+        "category": "Math",
+        "category_slug": "math",
+        "advancing": "173,776",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260252,
+            "text": "Leg",
+            "correct": true,
+            "count": "117,967",
+            "percent": "66.25%"
+          },
+          {
+            "id": 260253,
+            "text": "Strait",
+            "correct": false,
+            "count": "35,987",
+            "percent": "20.21%"
+          },
+          {
+            "id": 260254,
+            "text": "Hypertenuse",
+            "correct": false,
+            "count": "24,121",
+            "percent": "13.55%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/2/4",
+        "game_link": "/us/game/2019-06-26/2",
+        "correct_answers": 117967,
+        "incorrect_answers": 60108,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 123867,
+        "text": "What restaurant chain is in a scale of storm severity used by FEMA?",
+        "question_number": 5,
+        "eliminated": "15,268",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "159,362",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260273,
+            "text": "Dairy Queen",
+            "correct": false,
+            "count": "22,423",
+            "percent": "13.74%"
+          },
+          {
+            "id": 260275,
+            "text": "A&W",
+            "correct": false,
+            "count": "22,096",
+            "percent": "13.54%"
+          },
+          {
+            "id": 260278,
+            "text": "Waffle House",
+            "correct": true,
+            "count": "118,661",
+            "percent": "72.72%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/2/5",
+        "game_link": "/us/game/2019-06-26/2",
+        "correct_answers": 118661,
+        "incorrect_answers": 44519,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 123883,
+        "text": "Wendy Kaufman was most famous as what beverage spokesperson?",
+        "question_number": 6,
+        "eliminated": "12,934",
+        "category": "Business",
+        "category_slug": "business",
+        "advancing": "147,506",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260296,
+            "text": "Snapple Lady",
+            "correct": true,
+            "count": "127,636",
+            "percent": "82.73%"
+          },
+          {
+            "id": 260299,
+            "text": "Pepsi Girl",
+            "correct": false,
+            "count": "16,391",
+            "percent": "10.62%"
+          },
+          {
+            "id": 260300,
+            "text": "Lead Fantana",
+            "correct": false,
+            "count": "10,247",
+            "percent": "6.64%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/2/6",
+        "game_link": "/us/game/2019-06-26/2",
+        "correct_answers": 127636,
+        "incorrect_answers": 26638,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 123901,
+        "text": "Which of these cable channels was NOT launched by Ted Turnerâs company?",
+        "question_number": 7,
+        "eliminated": "32,702",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "115,982",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260328,
+            "text": "TBN",
+            "correct": true,
+            "count": "88,351",
+            "percent": "61.69%"
+          },
+          {
+            "id": 260332,
+            "text": "TCM",
+            "correct": false,
+            "count": "37,935",
+            "percent": "26.49%"
+          },
+          {
+            "id": 260334,
+            "text": "TNT",
+            "correct": false,
+            "count": "16,940",
+            "percent": "11.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/2/7",
+        "game_link": "/us/game/2019-06-26/2",
+        "correct_answers": 88351,
+        "incorrect_answers": 54875,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 123917,
+        "text": "Which of these is the subtitle to a âSupermanâ film?",
+        "question_number": 8,
+        "eliminated": "42,721",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "77,499",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260349,
+            "text": "The Quest for Peace",
+            "correct": true,
+            "count": "54,867",
+            "percent": "47.41%"
+          },
+          {
+            "id": 260352,
+            "text": "The Fury of Zod",
+            "correct": false,
+            "count": "18,718",
+            "percent": "16.17%"
+          },
+          {
+            "id": 260355,
+            "text": "A New Beginning",
+            "correct": false,
+            "count": "42,145",
+            "percent": "36.42%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/2/8",
+        "game_link": "/us/game/2019-06-26/2",
+        "correct_answers": 54867,
+        "incorrect_answers": 60863,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 123927,
+        "text": "Which song was neither the opening nor closing track on the album it was first released on?",
+        "question_number": 9,
+        "eliminated": "64,494",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "20,109",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260363,
+            "text": "I Want It That Way",
+            "correct": true,
+            "count": "20,109",
+            "percent": "26.92%"
+          },
+          {
+            "id": 260364,
+            "text": "Immigrant Song",
+            "correct": false,
+            "count": "27,838",
+            "percent": "37.27%"
+          },
+          {
+            "id": 260365,
+            "text": "Champagne Supernova",
+            "correct": false,
+            "count": "26,754",
+            "percent": "35.81%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/2/9",
+        "game_link": "/us/game/2019-06-26/2",
+        "correct_answers": 20109,
+        "incorrect_answers": 54592,
+        "savage": true,
+        "checkpoint": {
+          "round_number": 9,
+          "players_left": 12690,
+          "players_left_formatted": "12,690",
+          "num_winners": 7419,
+          "num_winners_formatted": "7,419",
+          "prize": 0.13,
+          "prize_formatted": "$0.13",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 123943,
+        "text": "Published in 1848, the âDeclaration of Sentimentsâ was a document in favor of what?",
+        "question_number": 10,
+        "eliminated": "10,147",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "8,962",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260387,
+            "text": "Abolition",
+            "correct": false,
+            "count": "2,153",
+            "percent": "16.55%"
+          },
+          {
+            "id": 260389,
+            "text": "Prohibition",
+            "correct": false,
+            "count": "1,906",
+            "percent": "14.65%"
+          },
+          {
+            "id": 260392,
+            "text": "Womenâs rights",
+            "correct": true,
+            "count": "8,948",
+            "percent": "68.79%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/2/10",
+        "game_link": "/us/game/2019-06-26/2",
+        "correct_answers": 8948,
+        "incorrect_answers": 4059,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 123960,
+        "text": "Which of these cities is NOT part of the âTexas Triangleâ?",
+        "question_number": 11,
+        "eliminated": "2,812",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "7,600",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260412,
+            "text": "El Paso",
+            "correct": true,
+            "count": "7,601",
+            "percent": "73.41%"
+          },
+          {
+            "id": 260414,
+            "text": "Arlington",
+            "correct": false,
+            "count": "1,526",
+            "percent": "14.74%"
+          },
+          {
+            "id": 260416,
+            "text": "College Station",
+            "correct": false,
+            "count": "1,227",
+            "percent": "11.85%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/2/11",
+        "game_link": "/us/game/2019-06-26/2",
+        "correct_answers": 7601,
+        "incorrect_answers": 2753,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 123975,
+        "text": "Which US president served with the oldest US vice president ever elected?",
+        "question_number": 12,
+        "eliminated": "5,594",
+        "category": "History",
+        "category_slug": "history",
+        "advancing": "3,179",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260435,
+            "text": "Harry S. Truman",
+            "correct": true,
+            "count": "3,179",
+            "percent": "36.6%"
+          },
+          {
+            "id": 260436,
+            "text": "Barack Obama",
+            "correct": false,
+            "count": "1,823",
+            "percent": "20.99%"
+          },
+          {
+            "id": 260437,
+            "text": "Gerald Ford",
+            "correct": false,
+            "count": "3,683",
+            "percent": "42.41%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/2/12",
+        "game_link": "/us/game/2019-06-26/2",
+        "correct_answers": 3179,
+        "incorrect_answers": 5506,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 123991,
+        "text": "What name appears in what is now believed to be the first-ever video game Easter Egg?",
+        "question_number": 13,
+        "eliminated": "4,781",
+        "category": "Games",
+        "category_slug": "games",
+        "advancing": "904",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260459,
+            "text": "Warren",
+            "correct": false,
+            "count": "2,648",
+            "percent": "46.87%"
+          },
+          {
+            "id": 260460,
+            "text": "Ed",
+            "correct": false,
+            "count": "2,097",
+            "percent": "37.12%"
+          },
+          {
+            "id": 260461,
+            "text": "Ron",
+            "correct": true,
+            "count": "905",
+            "percent": "16.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/2/13",
+        "game_link": "/us/game/2019-06-26/2",
+        "correct_answers": 905,
+        "incorrect_answers": 4745,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 13,
+          "players_left": 382,
+          "players_left_formatted": "382",
+          "num_winners": 518,
+          "num_winners_formatted": "518",
+          "prize": 2.22,
+          "prize_formatted": "$2.22",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 124012,
+        "text": "Elvis Presley won Grammys for performances in the equivalent of which modern-day category?",
+        "question_number": 14,
+        "eliminated": "268",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "112",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260495,
+            "text": "Rock",
+            "correct": false,
+            "count": "165",
+            "percent": "52.22%"
+          },
+          {
+            "id": 260497,
+            "text": "Blues",
+            "correct": false,
+            "count": "39",
+            "percent": "12.34%"
+          },
+          {
+            "id": 260499,
+            "text": "Gospel",
+            "correct": true,
+            "count": "112",
+            "percent": "35.44%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/2/14",
+        "game_link": "/us/game/2019-06-26/2",
+        "correct_answers": 112,
+        "incorrect_answers": 204,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 124023,
+        "text": "In the Southern Cone region, which capital is the largest by city population?",
+        "question_number": 15,
+        "eliminated": "83",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "28",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260507,
+            "text": "Montevideo",
+            "correct": false,
+            "count": "21",
+            "percent": "19.27%"
+          },
+          {
+            "id": 260509,
+            "text": "Buenos Aires",
+            "correct": false,
+            "count": "60",
+            "percent": "55.05%"
+          },
+          {
+            "id": 260511,
+            "text": "Santiago",
+            "correct": true,
+            "count": "28",
+            "percent": "25.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/2/15",
+        "game_link": "/us/game/2019-06-26/2",
+        "correct_answers": 28,
+        "incorrect_answers": 81,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 124039,
+        "text": "Which part of the human spine has the smallest number of vertebrae?",
+        "question_number": 16,
+        "eliminated": "17",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "11",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260531,
+            "text": "Thoracic",
+            "correct": false,
+            "count": "12",
+            "percent": "42.86%"
+          },
+          {
+            "id": 260532,
+            "text": "Lumbar",
+            "correct": true,
+            "count": "11",
+            "percent": "39.29%"
+          },
+          {
+            "id": 260533,
+            "text": "Cervical",
+            "correct": false,
+            "count": "5",
+            "percent": "17.86%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/2/16",
+        "game_link": "/us/game/2019-06-26/2",
+        "correct_answers": 11,
+        "incorrect_answers": 17,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 124056,
+        "text": "The lead singer of the first Western pop act to visit China is responsible for which hit?",
+        "question_number": 17,
+        "eliminated": "6",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "5",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 260559,
+            "text": "Praying for Time",
+            "correct": true,
+            "count": "5",
+            "percent": "45.45%"
+          },
+          {
+            "id": 260562,
+            "text": "Blaze of Glory",
+            "correct": false,
+            "count": "3",
+            "percent": "27.27%"
+          },
+          {
+            "id": 260570,
+            "text": "SexyBack",
+            "correct": false,
+            "count": "3",
+            "percent": "27.27%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-26/2/17",
+        "game_link": "/us/game/2019-06-26/2",
+        "correct_answers": 5,
+        "incorrect_answers": 6,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 17,
+          "players_left": 0,
+          "players_left_formatted": "0",
+          "num_winners": 5,
+          "num_winners_formatted": "5",
+          "prize": 600.0,
+          "prize_formatted": "$600",
+          "currency": "$"
+        },
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 399,
+        "game_id": 116661,
+        "question": "\"If I donât have some cake soon, I might die.\"",
+        "results": [
+          {
+            "id": 2415,
+            "display_count": "18",
+            "vote_count": 13047,
+            "text": "Oscar"
+          },
+          {
+            "id": 2417,
+            "display_count": "31",
+            "vote_count": 22579,
+            "text": "Phyllis"
+          },
+          {
+            "id": 2413,
+            "display_count": "52",
+            "vote_count": 37986,
+            "text": "Stanley"
+          }
+        ],
+        "created_at": "2019-06-27T01:29:13Z"
+      },
+      {
+        "id": 392,
+        "game_id": 116661,
+        "question": "\"I talk a lot, so Iâve learned to tune myself out.\"",
+        "results": [
+          {
+            "id": 2380,
+            "display_count": "18",
+            "vote_count": 11692,
+            "text": "Darryl"
+          },
+          {
+            "id": 2373,
+            "display_count": "24",
+            "vote_count": 15832,
+            "text": "Erin"
+          },
+          {
+            "id": 2368,
+            "display_count": "58",
+            "vote_count": 38591,
+            "text": "Kelly"
+          }
+        ],
+        "created_at": "2019-06-27T01:28:47Z"
+      },
+      {
+        "id": 383,
+        "game_id": 116661,
+        "question": "\"Thereâs too many people on this Earth. We need a new plague.\"",
+        "results": [
+          {
+            "id": 2329,
+            "display_count": "19",
+            "vote_count": 12097,
+            "text": "Creed"
+          },
+          {
+            "id": 2317,
+            "display_count": "66",
+            "vote_count": 41974,
+            "text": "Dwight"
+          },
+          {
+            "id": 2320,
+            "display_count": "15",
+            "vote_count": 9298,
+            "text": "Michael"
+          }
+        ],
+        "created_at": "2019-06-27T01:28:22Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 9,
+        "players_left": 12690,
+        "players_left_formatted": "12,690",
+        "num_winners": 7419,
+        "num_winners_formatted": "7,419",
+        "prize": 0.13,
+        "prize_formatted": "$0.13",
+        "currency": "$"
+      },
+      {
+        "round_number": 13,
+        "players_left": 382,
+        "players_left_formatted": "382",
+        "num_winners": 518,
+        "num_winners_formatted": "518",
+        "prize": 2.22,
+        "prize_formatted": "$2.22",
+        "currency": "$"
+      },
+      {
+        "round_number": 17,
+        "players_left": 0,
+        "players_left_formatted": "0",
+        "num_winners": 5,
+        "num_winners_formatted": "5",
+        "prize": 600.0,
+        "prize_formatted": "$600",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "5,114.43",
+    "total_checkpoint_winners": "7,942",
+    "smallest_checkpoint_prize": "$0.13",
+    "largest_checkpoint_prize": "$600",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

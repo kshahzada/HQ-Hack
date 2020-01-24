@@ -1,0 +1,1749 @@
+[
+  {
+    "id": 135979,
+    "show_id": 12615,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-10-09T19:00:00Z",
+    "direct_link": "/us/game/2019-10-09/1",
+    "time": " 3:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "3,359",
+      "currency": "$",
+      "average_prize": "0.30"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Music",
+        "slug": "music"
+      },
+      {
+        "name": "HQ Tunes",
+        "slug": "hq-tunes"
+      }
+    ],
+    "questions": [
+      {
+        "id": 151779,
+        "text": "What is the name of this song?",
+        "question_number": 1,
+        "eliminated": "-4,437",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "66,171",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302141,
+            "text": "Player's Ball",
+            "correct": false,
+            "count": "2,884",
+            "percent": "5.32%"
+          },
+          {
+            "id": 302142,
+            "text": "Laffy Taffy",
+            "correct": false,
+            "count": "2,364",
+            "percent": "4.36%"
+          },
+          {
+            "id": 302143,
+            "text": "Little Red Corvette",
+            "correct": true,
+            "count": "48,931",
+            "percent": "90.31%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/1/1",
+        "game_link": "/us/game/2019-10-09/1",
+        "correct_answers": 48931,
+        "incorrect_answers": 5248,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "f4c3c722-d206-4295-9c50-ec7aa9d704a4",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/f4c3c722-d206-4295-9c50-ec7aa9d704a4.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164611Z&X-Amz-SignedHeaders=host&X-Amz-Signature=f7e6bef48b76890b110b02c1ec02ca5f12aac9d5a04615dfd59ef8bd4ffa6df5",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 151787,
+        "text": "Who produced this song?",
+        "question_number": 2,
+        "eliminated": "1,213",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "65,054",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302153,
+            "text": "Taylor Swift",
+            "correct": false,
+            "count": "3,017",
+            "percent": "5.39%"
+          },
+          {
+            "id": 302155,
+            "text": "DJ Khaled",
+            "correct": true,
+            "count": "51,796",
+            "percent": "92.61%"
+          },
+          {
+            "id": 302158,
+            "text": "Adele",
+            "correct": false,
+            "count": "1,114",
+            "percent": "1.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/1/2",
+        "game_link": "/us/game/2019-10-09/1",
+        "correct_answers": 51796,
+        "incorrect_answers": 4131,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "7d933d84-9703-43e9-9356-77eaae39f803",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/7d933d84-9703-43e9-9356-77eaae39f803.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164611Z&X-Amz-SignedHeaders=host&X-Amz-Signature=b2c84bde502a5ebbd5b6a4e8b0eb8558f5cd2f33eaf63c2572002138cc17f459",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 151795,
+        "text": "Which singing competition recently hired this artist?",
+        "question_number": 3,
+        "eliminated": "8,167",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "56,929",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302165,
+            "text": "American Idol",
+            "correct": false,
+            "count": "9,729",
+            "percent": "17.74%"
+          },
+          {
+            "id": 302168,
+            "text": "The Voice",
+            "correct": true,
+            "count": "40,588",
+            "percent": "74.0%"
+          },
+          {
+            "id": 302169,
+            "text": "The X Factor",
+            "correct": false,
+            "count": "4,530",
+            "percent": "8.26%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/1/3",
+        "game_link": "/us/game/2019-10-09/1",
+        "correct_answers": 40588,
+        "incorrect_answers": 14259,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "14afda56-c8e4-4cae-a640-cb10ac405e0f",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/14afda56-c8e4-4cae-a640-cb10ac405e0f.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164611Z&X-Amz-SignedHeaders=host&X-Amz-Signature=5e59f2a3ce63163b5aabcd2a77f5d9a19b9a5c34354e219f917e6272f8a1b2c6",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 151803,
+        "text": "Which other song is also by this band?",
+        "question_number": 4,
+        "eliminated": "6,178",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "51,320",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302177,
+            "text": "Give It Away",
+            "correct": true,
+            "count": "43,391",
+            "percent": "85.12%"
+          },
+          {
+            "id": 302180,
+            "text": "Plush",
+            "correct": false,
+            "count": "2,720",
+            "percent": "5.34%"
+          },
+          {
+            "id": 302184,
+            "text": "Creep",
+            "correct": false,
+            "count": "4,865",
+            "percent": "9.54%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/1/4",
+        "game_link": "/us/game/2019-10-09/1",
+        "correct_answers": 43391,
+        "incorrect_answers": 7585,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "224e46b2-a16c-467e-b5c3-bde060a2aacc",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/224e46b2-a16c-467e-b5c3-bde060a2aacc.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164611Z&X-Amz-SignedHeaders=host&X-Amz-Signature=7990fee8bf1328372e45203aee1bec20f578abdf52301944192d184492605248",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 151811,
+        "text": "Who did this artist share the stage with at Super Bowl 50?",
+        "question_number": 5,
+        "eliminated": "8,496",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "43,111",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302189,
+            "text": "Beyonce",
+            "correct": true,
+            "count": "35,904",
+            "percent": "76.61%"
+          },
+          {
+            "id": 302193,
+            "text": "Alanis Morrisette",
+            "correct": false,
+            "count": "1,069",
+            "percent": "2.28%"
+          },
+          {
+            "id": 302197,
+            "text": "Pink",
+            "correct": false,
+            "count": "9,895",
+            "percent": "21.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/1/5",
+        "game_link": "/us/game/2019-10-09/1",
+        "correct_answers": 35904,
+        "incorrect_answers": 10964,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "8f4e3a80-116d-4622-b847-77fc73119beb",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/8f4e3a80-116d-4622-b847-77fc73119beb.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164612Z&X-Amz-SignedHeaders=host&X-Amz-Signature=3b8d5189929d9a604e9edb33b225d1df02c9f438b9fe4267287f9db716c53384",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 151819,
+        "text": "Which hit album does this song appear on?",
+        "question_number": 6,
+        "eliminated": "4,038",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "39,747",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302201,
+            "text": "When I Get Home",
+            "correct": false,
+            "count": "1,969",
+            "percent": "4.83%"
+          },
+          {
+            "id": 302205,
+            "text": "CrazySexyCool",
+            "correct": true,
+            "count": "35,947",
+            "percent": "88.2%"
+          },
+          {
+            "id": 302209,
+            "text": "The Blueprint III",
+            "correct": false,
+            "count": "2,840",
+            "percent": "6.97%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/1/6",
+        "game_link": "/us/game/2019-10-09/1",
+        "correct_answers": 35947,
+        "incorrect_answers": 4809,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "3b9a19b2-2812-4a8a-ae61-da56cb8ac08b",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/3b9a19b2-2812-4a8a-ae61-da56cb8ac08b.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164612Z&X-Amz-SignedHeaders=host&X-Amz-Signature=ecbbef08959276e1820c33487289b19a8cbcf363dcb87d296ffce15e907ea5b4",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 151827,
+        "text": "Which movie featured this hit song?",
+        "question_number": 7,
+        "eliminated": "2,559",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "37,948",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302213,
+            "text": "Furious 7",
+            "correct": true,
+            "count": "36,462",
+            "percent": "94.94%"
+          },
+          {
+            "id": 302216,
+            "text": "The Transporter",
+            "correct": false,
+            "count": "857",
+            "percent": "2.23%"
+          },
+          {
+            "id": 302218,
+            "text": "Mission Impossible: 6",
+            "correct": false,
+            "count": "1,088",
+            "percent": "2.83%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/1/7",
+        "game_link": "/us/game/2019-10-09/1",
+        "correct_answers": 36462,
+        "incorrect_answers": 1945,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "570e16cc-cc29-4375-beeb-163e008d00de",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/570e16cc-cc29-4375-beeb-163e008d00de.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164612Z&X-Amz-SignedHeaders=host&X-Amz-Signature=4ca960d449842a1b89ff55b0da9c198c4a6a33e4350092bfddac33412fed40f9",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 151835,
+        "text": "Which album does this pop hit appear on?",
+        "question_number": 8,
+        "eliminated": "21,917",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "16,203",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302225,
+            "text": "Title",
+            "correct": true,
+            "count": "12,879",
+            "percent": "36.29%"
+          },
+          {
+            "id": 302227,
+            "text": "Treat Myself",
+            "correct": false,
+            "count": "10,153",
+            "percent": "28.6%"
+          },
+          {
+            "id": 302231,
+            "text": "Thank You",
+            "correct": false,
+            "count": "12,462",
+            "percent": "35.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/1/8",
+        "game_link": "/us/game/2019-10-09/1",
+        "correct_answers": 12879,
+        "incorrect_answers": 22615,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "afc8f515-7238-4c38-adb7-f836bfc061b4",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/afc8f515-7238-4c38-adb7-f836bfc061b4.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164612Z&X-Amz-SignedHeaders=host&X-Amz-Signature=10727e3021c0e36c35c2d0c94531a2ddb78ad755c04c4980e4cd48c5c6756bd0",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 151843,
+        "text": "Who sings this song?",
+        "question_number": 9,
+        "eliminated": "6,823",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "13,098",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302237,
+            "text": "Tone Loc",
+            "correct": false,
+            "count": "1,585",
+            "percent": "8.63%"
+          },
+          {
+            "id": 302240,
+            "text": "Bone Thugs Nâ Harmony",
+            "correct": false,
+            "count": "5,403",
+            "percent": "29.41%"
+          },
+          {
+            "id": 302244,
+            "text": "The Pharcyde",
+            "correct": true,
+            "count": "11,382",
+            "percent": "61.96%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/1/9",
+        "game_link": "/us/game/2019-10-09/1",
+        "correct_answers": 11382,
+        "incorrect_answers": 6988,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "575a7ec6-7be9-4b81-b7ce-ecf1b1c86da9",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/575a7ec6-7be9-4b81-b7ce-ecf1b1c86da9.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164612Z&X-Amz-SignedHeaders=host&X-Amz-Signature=1f480220a21a0c9ae5bcaf8ac5ccfda85009d30b8e7f5375b8e05db93a96c5f2",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 151851,
+        "text": "What was this artistâs second-biggest hit on the Billboard Hot 100?",
+        "question_number": 10,
+        "eliminated": "3,286",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "11,222",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302249,
+            "text": "Hands On Me",
+            "correct": false,
+            "count": "925",
+            "percent": "6.59%"
+          },
+          {
+            "id": 302253,
+            "text": "White Houses",
+            "correct": false,
+            "count": "2,823",
+            "percent": "20.12%"
+          },
+          {
+            "id": 302257,
+            "text": "Ordinary Day",
+            "correct": true,
+            "count": "10,281",
+            "percent": "73.28%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/1/10",
+        "game_link": "/us/game/2019-10-09/1",
+        "correct_answers": 10281,
+        "incorrect_answers": 3748,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "ffc8a4db-f4c0-4a2f-9ffd-612d24eec4a8",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/ffc8a4db-f4c0-4a2f-9ffd-612d24eec4a8.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164612Z&X-Amz-SignedHeaders=host&X-Amz-Signature=d7cfda267fe07095c8248bc53936fbea4aed04fbe92b7762853f1f6ac155e8dc",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 151859,
+        "text": "What is the name of the character that this singer played in a 2018 film?",
+        "question_number": 11,
+        "eliminated": "1,731",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "10,723",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302261,
+            "text": "Teddy",
+            "correct": false,
+            "count": "612",
+            "percent": "5.1%"
+          },
+          {
+            "id": 302264,
+            "text": "Ally",
+            "correct": true,
+            "count": "10,723",
+            "percent": "89.43%"
+          },
+          {
+            "id": 302268,
+            "text": "Katie",
+            "correct": false,
+            "count": "655",
+            "percent": "5.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/1/11",
+        "game_link": "/us/game/2019-10-09/1",
+        "correct_answers": 10723,
+        "incorrect_answers": 1267,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "a94ad87e-1f86-456a-be62-a01cb148864a",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/a94ad87e-1f86-456a-be62-a01cb148864a.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164612Z&X-Amz-SignedHeaders=host&X-Amz-Signature=75398519955754d913d92122ba241631ca92e6c56131b5454c91cd3d13c72844",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      },
+      {
+        "id": 151867,
+        "text": "This singer wrote which of these songs?",
+        "question_number": 12,
+        "eliminated": "8,005",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "3,359",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302273,
+            "text": "Silver Springs",
+            "correct": true,
+            "count": "3,359",
+            "percent": "31.08%"
+          },
+          {
+            "id": 302276,
+            "text": "Everywhere",
+            "correct": false,
+            "count": "958",
+            "percent": "8.86%"
+          },
+          {
+            "id": 302280,
+            "text": "Donât Stop",
+            "correct": false,
+            "count": "6,492",
+            "percent": "60.06%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/1/12",
+        "game_link": "/us/game/2019-10-09/1",
+        "correct_answers": 3359,
+        "incorrect_answers": 7450,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": {
+          "media_id": "b659838e-f3f1-4608-a841-ab8a602ad0cb",
+          "presigned": "https://s3.amazonaws.com/hqreview-production/media/decrypted/b659838e-f3f1-4608-a841-ab8a602ad0cb.mp4?X-Amz-Expires=86400&Content-Type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFN2SVV5PWCINTEQ%2F20200124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200124T164612Z&X-Amz-SignedHeaders=host&X-Amz-Signature=a621e163db67b6c078e868e937c98e350eec5f6b5713d405cb4ffccc070da348",
+          "type": "video",
+          "content_type": "video/mp4"
+        }
+      }
+    ],
+    "practice": null,
+    "surveys": [],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-tunes"
+    }
+  },
+  {
+    "id": 136039,
+    "show_id": 12612,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-10-10T00:00:00Z",
+    "direct_link": "/us/game/2019-10-09/2",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,568",
+      "currency": "$",
+      "average_prize": "0.64"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 151875,
+        "text": "What is the first play that happens in every hockey game?",
+        "question_number": 1,
+        "eliminated": "-5,613",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "55,614",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302285,
+            "text": "Jump puck",
+            "correct": false,
+            "count": "3,579",
+            "percent": "7.64%"
+          },
+          {
+            "id": 302288,
+            "text": "Kick off",
+            "correct": false,
+            "count": "1,355",
+            "percent": "2.89%"
+          },
+          {
+            "id": 302291,
+            "text": "Face off",
+            "correct": true,
+            "count": "41,884",
+            "percent": "89.46%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/2/1",
+        "game_link": "/us/game/2019-10-09/2",
+        "correct_answers": 41884,
+        "incorrect_answers": 4934,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151883,
+        "text": "Who pulled off this rare goal directly from the face off?",
+        "question_number": 2,
+        "eliminated": "1,210",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "54,438",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302297,
+            "text": "PÃ©pe Lemieux",
+            "correct": false,
+            "count": "2,003",
+            "percent": "4.17%"
+          },
+          {
+            "id": 302301,
+            "text": "Mario Lemiuex",
+            "correct": true,
+            "count": "40,757",
+            "percent": "84.89%"
+          },
+          {
+            "id": 302305,
+            "text": "Claude Lemiuex",
+            "correct": false,
+            "count": "5,253",
+            "percent": "10.94%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/2/2",
+        "game_link": "/us/game/2019-10-09/2",
+        "correct_answers": 40757,
+        "incorrect_answers": 7256,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151891,
+        "text": "If two players tie in the voting for the Hart Trophy, what is the tiebreaker for the MVP?",
+        "question_number": 3,
+        "eliminated": "7,390",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "47,084",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302309,
+            "text": "First place votes",
+            "correct": true,
+            "count": "23,709",
+            "percent": "52.31%"
+          },
+          {
+            "id": 302313,
+            "text": "Team wins",
+            "correct": false,
+            "count": "14,504",
+            "percent": "32.0%"
+          },
+          {
+            "id": 302317,
+            "text": "Total number of ballots",
+            "correct": false,
+            "count": "7,111",
+            "percent": "15.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/2/3",
+        "game_link": "/us/game/2019-10-09/2",
+        "correct_answers": 23709,
+        "incorrect_answers": 21615,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151899,
+        "text": "Which of these teams was NOT originally a Canadian franchise?",
+        "question_number": 4,
+        "eliminated": "7,913",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "39,531",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302321,
+            "text": "Arizona Coyotes",
+            "correct": false,
+            "count": "8,120",
+            "percent": "19.4%"
+          },
+          {
+            "id": 302324,
+            "text": "Carolina Hurricanes",
+            "correct": true,
+            "count": "24,848",
+            "percent": "59.38%"
+          },
+          {
+            "id": 302327,
+            "text": "Colorado Avalanche",
+            "correct": false,
+            "count": "8,877",
+            "percent": "21.21%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/2/4",
+        "game_link": "/us/game/2019-10-09/2",
+        "correct_answers": 24848,
+        "incorrect_answers": 16997,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151907,
+        "text": "After Alex Ovechkin and his 659 goals, who is the NHLâs next active leading goal scorer?",
+        "question_number": 5,
+        "eliminated": "10,301",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "29,770",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302333,
+            "text": "Patrick Marleau",
+            "correct": true,
+            "count": "18,044",
+            "percent": "52.2%"
+          },
+          {
+            "id": 302335,
+            "text": "Ilya Kovalchuk",
+            "correct": false,
+            "count": "4,655",
+            "percent": "13.47%"
+          },
+          {
+            "id": 302339,
+            "text": "Sidney Crosby",
+            "correct": false,
+            "count": "11,870",
+            "percent": "34.34%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/2/5",
+        "game_link": "/us/game/2019-10-09/2",
+        "correct_answers": 18044,
+        "incorrect_answers": 16525,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151915,
+        "text": "Among qualifying players, what goalkeeper gave up the fewest goals per game last season?",
+        "question_number": 6,
+        "eliminated": "10,159",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "20,523",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302345,
+            "text": "Ben Bishop",
+            "correct": false,
+            "count": "8,926",
+            "percent": "32.86%"
+          },
+          {
+            "id": 302349,
+            "text": "Jordan Binnington",
+            "correct": true,
+            "count": "8,356",
+            "percent": "30.76%"
+          },
+          {
+            "id": 302353,
+            "text": "Pekka Rinne",
+            "correct": false,
+            "count": "9,884",
+            "percent": "36.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/2/6",
+        "game_link": "/us/game/2019-10-09/2",
+        "correct_answers": 8356,
+        "incorrect_answers": 18810,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151923,
+        "text": "Which NHL team played the most consecutive seasons in which they did not win the Stanley Cup?",
+        "question_number": 7,
+        "eliminated": "5,397",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "16,435",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302357,
+            "text": "Buffalo Sabres",
+            "correct": false,
+            "count": "4,862",
+            "percent": "24.84%"
+          },
+          {
+            "id": 302360,
+            "text": "Toronto Maple Leafs",
+            "correct": false,
+            "count": "4,166",
+            "percent": "21.28%"
+          },
+          {
+            "id": 302364,
+            "text": "New York Rangers",
+            "correct": true,
+            "count": "10,546",
+            "percent": "53.88%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/2/7",
+        "game_link": "/us/game/2019-10-09/2",
+        "correct_answers": 10546,
+        "incorrect_answers": 9028,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151931,
+        "text": "Which of these achievements did Sidney Crosby NOT pull off his rookie year?",
+        "question_number": 8,
+        "eliminated": "6,431",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "10,628",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302369,
+            "text": "100 points",
+            "correct": false,
+            "count": "1,908",
+            "percent": "12.25%"
+          },
+          {
+            "id": 302372,
+            "text": "50 goals",
+            "correct": true,
+            "count": "7,172",
+            "percent": "46.05%"
+          },
+          {
+            "id": 302377,
+            "text": "100 PIM",
+            "correct": false,
+            "count": "6,493",
+            "percent": "41.69%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/2/8",
+        "game_link": "/us/game/2019-10-09/2",
+        "correct_answers": 7172,
+        "incorrect_answers": 8401,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151939,
+        "text": "What is the only team to get within one win of a Stanley Cup without eventually taking home the trophy?",
+        "question_number": 9,
+        "eliminated": "3,856",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "8,431",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302381,
+            "text": "San Jose Sharks",
+            "correct": false,
+            "count": "2,627",
+            "percent": "22.76%"
+          },
+          {
+            "id": 302384,
+            "text": "Vancouver Canucks",
+            "correct": true,
+            "count": "6,089",
+            "percent": "52.76%"
+          },
+          {
+            "id": 302387,
+            "text": "Ottawa Senators",
+            "correct": false,
+            "count": "2,826",
+            "percent": "24.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/2/9",
+        "game_link": "/us/game/2019-10-09/2",
+        "correct_answers": 6089,
+        "incorrect_answers": 5453,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151947,
+        "text": "Of the women to have their names engraved on the Stanley Cup, what position was held by the first?",
+        "question_number": 10,
+        "eliminated": "3,589",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "5,268",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302393,
+            "text": "Assistant coach",
+            "correct": false,
+            "count": "1,400",
+            "percent": "16.89%"
+          },
+          {
+            "id": 302396,
+            "text": "Team owner",
+            "correct": false,
+            "count": "3,775",
+            "percent": "45.53%"
+          },
+          {
+            "id": 302399,
+            "text": "Team president",
+            "correct": true,
+            "count": "3,116",
+            "percent": "37.58%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/2/10",
+        "game_link": "/us/game/2019-10-09/2",
+        "correct_answers": 3116,
+        "incorrect_answers": 5175,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151955,
+        "text": "What teamâs current head coach scored the most goals in his career?",
+        "question_number": 11,
+        "eliminated": "3,761",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "2,415",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302405,
+            "text": "Arizona Coyotes",
+            "correct": false,
+            "count": "1,599",
+            "percent": "27.16%"
+          },
+          {
+            "id": 302407,
+            "text": "Dallas Stars",
+            "correct": false,
+            "count": "1,873",
+            "percent": "31.82%"
+          },
+          {
+            "id": 302411,
+            "text": "Carolina Hurricanes",
+            "correct": true,
+            "count": "2,415",
+            "percent": "41.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/2/11",
+        "game_link": "/us/game/2019-10-09/2",
+        "correct_answers": 2415,
+        "incorrect_answers": 3472,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151963,
+        "text": "What is the only team to win the Stanley Cup in a game 7 overtime?",
+        "question_number": 12,
+        "eliminated": "2,581",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,568",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302417,
+            "text": "Chicago Blackhawks",
+            "correct": false,
+            "count": "1,276",
+            "percent": "31.76%"
+          },
+          {
+            "id": 302419,
+            "text": "LA Kings",
+            "correct": false,
+            "count": "1,174",
+            "percent": "29.22%"
+          },
+          {
+            "id": 302423,
+            "text": "Detroit Red Wings",
+            "correct": true,
+            "count": "1,568",
+            "percent": "39.02%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/2/12",
+        "game_link": "/us/game/2019-10-09/2",
+        "correct_answers": 1568,
+        "incorrect_answers": 2450,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1977,
+        "game_id": 136039,
+        "question": "Which of this year's cup favorites are most likely to blow it?",
+        "results": [
+          {
+            "id": 11592,
+            "display_count": "30",
+            "vote_count": 3472,
+            "text": "Golden Knights"
+          },
+          {
+            "id": 11584,
+            "display_count": "31",
+            "vote_count": 3537,
+            "text": "Lightning"
+          },
+          {
+            "id": 11588,
+            "display_count": "39",
+            "vote_count": 4562,
+            "text": "Maple Leafs"
+          }
+        ],
+        "created_at": "2019-10-10T00:11:37Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 136099,
+    "show_id": 12229,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 3,
+    "prize": "1,500",
+    "currency": "$",
+    "start_time": "2019-10-10T01:00:00Z",
+    "direct_link": "/us/game/2019-10-09/3",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "2,108",
+      "currency": "$",
+      "average_prize": "0.71"
+    },
+    "countries": [
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [],
+    "questions": [
+      {
+        "id": 151971,
+        "text": "To reduce eye strain, Instagram recently introduced what âmodeâ?",
+        "question_number": 1,
+        "eliminated": "-8,064",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "122,417",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302429,
+            "text": "Beast mode",
+            "correct": false,
+            "count": "2,232",
+            "percent": "2.05%"
+          },
+          {
+            "id": 302430,
+            "text": "Dark mode",
+            "correct": true,
+            "count": "106,056",
+            "percent": "97.34%"
+          },
+          {
+            "id": 302432,
+            "text": "Pie a la mode",
+            "correct": false,
+            "count": "668",
+            "percent": "0.61%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/3/1",
+        "game_link": "/us/game/2019-10-09/3",
+        "correct_answers": 106056,
+        "incorrect_answers": 2900,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151979,
+        "text": "Which of these is a kind of tree?",
+        "question_number": 2,
+        "eliminated": "1,663",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "120,815",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302441,
+            "text": "Weeping willow",
+            "correct": true,
+            "count": "108,975",
+            "percent": "98.24%"
+          },
+          {
+            "id": 302443,
+            "text": "Chuckling chestnut",
+            "correct": false,
+            "count": "1,024",
+            "percent": "0.92%"
+          },
+          {
+            "id": 302447,
+            "text": "Screaming sycamore",
+            "correct": false,
+            "count": "930",
+            "percent": "0.84%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/3/2",
+        "game_link": "/us/game/2019-10-09/3",
+        "correct_answers": 108975,
+        "incorrect_answers": 1954,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151987,
+        "text": "Where is the police station known as Scotland Yard?",
+        "question_number": 3,
+        "eliminated": "14,272",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "106,582",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302453,
+            "text": "London",
+            "correct": true,
+            "count": "83,935",
+            "percent": "76.43%"
+          },
+          {
+            "id": 302457,
+            "text": "Glasgow",
+            "correct": false,
+            "count": "12,567",
+            "percent": "11.44%"
+          },
+          {
+            "id": 302460,
+            "text": "Edinburgh",
+            "correct": false,
+            "count": "13,320",
+            "percent": "12.13%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/3/3",
+        "game_link": "/us/game/2019-10-09/3",
+        "correct_answers": 83935,
+        "incorrect_answers": 25887,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 151995,
+        "text": "What body part is commonly called the âvoice boxâ?",
+        "question_number": 4,
+        "eliminated": "5,979",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "101,231",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302465,
+            "text": "Esophagus",
+            "correct": false,
+            "count": "3,219",
+            "percent": "3.18%"
+          },
+          {
+            "id": 302469,
+            "text": "Larynx",
+            "correct": true,
+            "count": "94,907",
+            "percent": "93.78%"
+          },
+          {
+            "id": 302472,
+            "text": "Pharynx",
+            "correct": false,
+            "count": "3,080",
+            "percent": "3.04%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/3/4",
+        "game_link": "/us/game/2019-10-09/3",
+        "correct_answers": 94907,
+        "incorrect_answers": 6299,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152003,
+        "text": "The actor seen here is now famous for being on what show?",
+        "question_number": 5,
+        "eliminated": "29,394",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "72,239",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302477,
+            "text": "Succession",
+            "correct": true,
+            "count": "58,074",
+            "percent": "59.56%"
+          },
+          {
+            "id": 302480,
+            "text": "The Big Bang Theory",
+            "correct": false,
+            "count": "16,890",
+            "percent": "17.32%"
+          },
+          {
+            "id": 302484,
+            "text": "Brooklyn Nine-Nine",
+            "correct": false,
+            "count": "22,537",
+            "percent": "23.11%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/3/5",
+        "game_link": "/us/game/2019-10-09/3",
+        "correct_answers": 58074,
+        "incorrect_answers": 39427,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152011,
+        "text": "Who designed this postage stamp?",
+        "question_number": 6,
+        "eliminated": "20,549",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "56,426",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302489,
+            "text": "Roger Dean",
+            "correct": false,
+            "count": "3,387",
+            "percent": "4.56%"
+          },
+          {
+            "id": 302490,
+            "text": "Peter Max",
+            "correct": true,
+            "count": "44,182",
+            "percent": "59.49%"
+          },
+          {
+            "id": 302493,
+            "text": "Andy Warhol",
+            "correct": false,
+            "count": "26,699",
+            "percent": "35.95%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/3/6",
+        "game_link": "/us/game/2019-10-09/3",
+        "correct_answers": 44182,
+        "incorrect_answers": 30086,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152019,
+        "text": "Which of these phrases contains an example of a stranded preposition?",
+        "question_number": 7,
+        "eliminated": "18,277",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "39,805",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302501,
+            "text": "Have you ate yet?",
+            "correct": false,
+            "count": "8,614",
+            "percent": "16.62%"
+          },
+          {
+            "id": 302504,
+            "text": "Where are you at?",
+            "correct": true,
+            "count": "31,866",
+            "percent": "61.49%"
+          },
+          {
+            "id": 302508,
+            "text": "Just idly stand there",
+            "correct": false,
+            "count": "11,347",
+            "percent": "21.89%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/3/7",
+        "game_link": "/us/game/2019-10-09/3",
+        "correct_answers": 31866,
+        "incorrect_answers": 19961,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152027,
+        "text": "Which of these dishes named for people is a dessert?",
+        "question_number": 8,
+        "eliminated": "16,223",
+        "category": "Cuisine",
+        "category_slug": "cuisine",
+        "advancing": "25,811",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302513,
+            "text": "Biscuit Tortoni",
+            "correct": true,
+            "count": "21,871",
+            "percent": "54.3%"
+          },
+          {
+            "id": 302515,
+            "text": "Eggs Sardou",
+            "correct": false,
+            "count": "6,125",
+            "percent": "15.21%"
+          },
+          {
+            "id": 302518,
+            "text": "Woolton pie",
+            "correct": false,
+            "count": "12,280",
+            "percent": "30.49%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/3/8",
+        "game_link": "/us/game/2019-10-09/3",
+        "correct_answers": 21871,
+        "incorrect_answers": 18405,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 8,
+          "players_left": 23153,
+          "players_left_formatted": "23,153",
+          "num_winners": 6284,
+          "num_winners_formatted": "6,284",
+          "prize": 0.03,
+          "prize_formatted": "$0.03",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 152035,
+        "text": "Which of these races offers an award to the competitor who finishes last?",
+        "question_number": 9,
+        "eliminated": "12,820",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "15,618",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302525,
+            "text": "Tour de France",
+            "correct": true,
+            "count": "12,503",
+            "percent": "55.94%"
+          },
+          {
+            "id": 302526,
+            "text": "New York Marathon",
+            "correct": false,
+            "count": "7,615",
+            "percent": "34.07%"
+          },
+          {
+            "id": 302530,
+            "text": "Indianapolis 500",
+            "correct": false,
+            "count": "2,233",
+            "percent": "9.99%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/3/9",
+        "game_link": "/us/game/2019-10-09/3",
+        "correct_answers": 12503,
+        "incorrect_answers": 9848,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152043,
+        "text": "What horror filmâs original director also directed multiple filmed segments for âMister Rogersâ Neighborhoodâ?",
+        "question_number": 10,
+        "eliminated": "5,137",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "12,589",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302537,
+            "text": "The Hills Have Eyes",
+            "correct": false,
+            "count": "2,531",
+            "percent": "15.16%"
+          },
+          {
+            "id": 302538,
+            "text": "Dawn of the Dead",
+            "correct": true,
+            "count": "10,657",
+            "percent": "63.84%"
+          },
+          {
+            "id": 302540,
+            "text": "Hellraiser",
+            "correct": false,
+            "count": "3,506",
+            "percent": "21.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/3/10",
+        "game_link": "/us/game/2019-10-09/3",
+        "correct_answers": 10657,
+        "incorrect_answers": 6037,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 10,
+          "players_left": 11037,
+          "players_left_formatted": "11,037",
+          "num_winners": 3193,
+          "num_winners_formatted": "3,193",
+          "prize": 0.1,
+          "prize_formatted": "$0.10",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 152051,
+        "text": "The name of the villain in âBill & Tedâs Bogus Journeyâ is whose name backwards?",
+        "question_number": 11,
+        "eliminated": "10,241",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "2,993",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302549,
+            "text": "Screenwriter",
+            "correct": true,
+            "count": "2,993",
+            "percent": "28.35%"
+          },
+          {
+            "id": 302553,
+            "text": "Executive producer",
+            "correct": false,
+            "count": "3,547",
+            "percent": "33.6%"
+          },
+          {
+            "id": 302556,
+            "text": "Director",
+            "correct": false,
+            "count": "4,018",
+            "percent": "38.06%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/3/11",
+        "game_link": "/us/game/2019-10-09/3",
+        "correct_answers": 2993,
+        "incorrect_answers": 7565,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 152059,
+        "text": "Which of these is NOT a Parisian landmark?",
+        "question_number": 12,
+        "eliminated": "4,859",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "2,108",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 302561,
+            "text": "La Conciergerie",
+            "correct": false,
+            "count": "2,693",
+            "percent": "39.58%"
+          },
+          {
+            "id": 302564,
+            "text": "Place VendÃ´me",
+            "correct": false,
+            "count": "2,003",
+            "percent": "29.44%"
+          },
+          {
+            "id": 302567,
+            "text": "ChÃ¢teau de Chillon",
+            "correct": true,
+            "count": "2,108",
+            "percent": "30.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-10-09/3/12",
+        "game_link": "/us/game/2019-10-09/3",
+        "correct_answers": 2108,
+        "incorrect_answers": 4696,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 1985,
+        "game_id": 136099,
+        "question": "Where is it illegal to have a picnic in a cemetery?",
+        "results": [
+          {
+            "id": 11640,
+            "display_count": "22",
+            "vote_count": 9157,
+            "text": "Montana"
+          },
+          {
+            "id": 11636,
+            "display_count": "42",
+            "vote_count": 17252,
+            "text": "New Hampshire"
+          },
+          {
+            "id": 11632,
+            "display_count": "35",
+            "vote_count": 14345,
+            "text": "Rhode Island"
+          }
+        ],
+        "created_at": "2019-10-10T01:03:59Z"
+      },
+      {
+        "id": 1981,
+        "game_id": 136099,
+        "question": "Where is it illegal to use profanity while driving?",
+        "results": [
+          {
+            "id": 11614,
+            "display_count": "38",
+            "vote_count": 12586,
+            "text": "Idaho"
+          },
+          {
+            "id": 11611,
+            "display_count": "34",
+            "vote_count": 11274,
+            "text": "Kansas"
+          },
+          {
+            "id": 11608,
+            "display_count": "27",
+            "vote_count": 9026,
+            "text": "Maryland"
+          }
+        ],
+        "created_at": "2019-10-10T01:03:14Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 8,
+        "players_left": 23153,
+        "players_left_formatted": "23,153",
+        "num_winners": 6284,
+        "num_winners_formatted": "6,284",
+        "prize": 0.03,
+        "prize_formatted": "$0.03",
+        "currency": "$"
+      },
+      {
+        "round_number": 10,
+        "players_left": 11037,
+        "players_left_formatted": "11,037",
+        "num_winners": 3193,
+        "num_winners_formatted": "3,193",
+        "prize": 0.1,
+        "prize_formatted": "$0.10",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "507.82",
+    "total_checkpoint_winners": "9,477",
+    "smallest_checkpoint_prize": "$0.03",
+    "largest_checkpoint_prize": "$0.10",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]

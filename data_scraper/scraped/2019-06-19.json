@@ -1,0 +1,1434 @@
+[
+  {
+    "id": 114899,
+    "show_id": 11348,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 1,
+    "prize": "1,000",
+    "currency": "$",
+    "start_time": "2019-06-20T00:00:00Z",
+    "direct_link": "/us/game/2019-06-19/1",
+    "time": " 8:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "1,580",
+      "currency": "$",
+      "average_prize": "0.63"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HQ Sports",
+        "slug": "hq-sports"
+      }
+    ],
+    "questions": [
+      {
+        "id": 121096,
+        "text": "Which of these baseball fielders usually plays farthest from home plate?",
+        "question_number": 1,
+        "eliminated": "-1,960",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "86,389",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256118,
+            "text": "Shortstop",
+            "correct": false,
+            "count": "2,759",
+            "percent": "3.42%"
+          },
+          {
+            "id": 256119,
+            "text": "Third baseman",
+            "correct": false,
+            "count": "2,946",
+            "percent": "3.65%"
+          },
+          {
+            "id": 256120,
+            "text": "Left fielder",
+            "correct": true,
+            "count": "74,903",
+            "percent": "92.92%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/1/1",
+        "game_link": "/us/game/2019-06-19/1",
+        "correct_answers": 74903,
+        "incorrect_answers": 5705,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121115,
+        "text": "Which of these players has changed teams this NFL offseason?",
+        "question_number": 2,
+        "eliminated": "2,193",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "84,515",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256145,
+            "text": "Dak Prescott",
+            "correct": false,
+            "count": "3,651",
+            "percent": "4.5%"
+          },
+          {
+            "id": 256146,
+            "text": "Khalil Mack",
+            "correct": false,
+            "count": "6,592",
+            "percent": "8.13%"
+          },
+          {
+            "id": 256147,
+            "text": "Antonio Brown",
+            "correct": true,
+            "count": "70,830",
+            "percent": "87.37%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/1/2",
+        "game_link": "/us/game/2019-06-19/1",
+        "correct_answers": 70830,
+        "incorrect_answers": 10243,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121123,
+        "text": "What technique is demonstrated in this clip?",
+        "question_number": 3,
+        "eliminated": "4,268",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "80,339",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256157,
+            "text": "Cross check",
+            "correct": false,
+            "count": "10,302",
+            "percent": "12.96%"
+          },
+          {
+            "id": 256158,
+            "text": "Back check",
+            "correct": false,
+            "count": "7,202",
+            "percent": "9.06%"
+          },
+          {
+            "id": 256159,
+            "text": "Hip check",
+            "correct": true,
+            "count": "61,999",
+            "percent": "77.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/1/3",
+        "game_link": "/us/game/2019-06-19/1",
+        "correct_answers": 61999,
+        "incorrect_answers": 17504,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121139,
+        "text": "Who is now the all-time leader in FIFA World Cup scoring?",
+        "question_number": 4,
+        "eliminated": "10,015",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "70,542",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256181,
+            "text": "Marta",
+            "correct": true,
+            "count": "40,475",
+            "percent": "53.89%"
+          },
+          {
+            "id": 256182,
+            "text": "Samantha Kerr",
+            "correct": false,
+            "count": "11,513",
+            "percent": "15.33%"
+          },
+          {
+            "id": 256183,
+            "text": "Abby Wambach",
+            "correct": false,
+            "count": "23,116",
+            "percent": "30.78%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/1/4",
+        "game_link": "/us/game/2019-06-19/1",
+        "correct_answers": 40475,
+        "incorrect_answers": 34629,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121156,
+        "text": "Which of golfâs majors is most often played on a links-style course?",
+        "question_number": 5,
+        "eliminated": "6,443",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "64,610",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256207,
+            "text": "US Open",
+            "correct": false,
+            "count": "7,245",
+            "percent": "10.82%"
+          },
+          {
+            "id": 256209,
+            "text": "PGA Championship",
+            "correct": false,
+            "count": "8,590",
+            "percent": "12.83%"
+          },
+          {
+            "id": 256210,
+            "text": "British Open",
+            "correct": true,
+            "count": "51,124",
+            "percent": "76.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/1/5",
+        "game_link": "/us/game/2019-06-19/1",
+        "correct_answers": 51124,
+        "incorrect_answers": 15835,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121169,
+        "text": "Which of these pitchers has NOT won an MVP?",
+        "question_number": 6,
+        "eliminated": "18,723",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "46,253",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256226,
+            "text": "Max Scherzer",
+            "correct": true,
+            "count": "25,822",
+            "percent": "42.28%"
+          },
+          {
+            "id": 256227,
+            "text": "Clayton Kershaw",
+            "correct": false,
+            "count": "27,556",
+            "percent": "45.12%"
+          },
+          {
+            "id": 256228,
+            "text": "Justin Verlander",
+            "correct": false,
+            "count": "7,697",
+            "percent": "12.6%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/1/6",
+        "game_link": "/us/game/2019-06-19/1",
+        "correct_answers": 25822,
+        "incorrect_answers": 35253,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121187,
+        "text": "Who was the youngest player to reach 30,000 career points in the NBA?",
+        "question_number": 7,
+        "eliminated": "23,096",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "25,448",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256253,
+            "text": "Wilt Chamberlain",
+            "correct": false,
+            "count": "5,157",
+            "percent": "11.49%"
+          },
+          {
+            "id": 256254,
+            "text": "Kobe Bryant",
+            "correct": true,
+            "count": "11,747",
+            "percent": "26.17%"
+          },
+          {
+            "id": 256255,
+            "text": "LeBron James",
+            "correct": false,
+            "count": "27,990",
+            "percent": "62.35%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/1/7",
+        "game_link": "/us/game/2019-06-19/1",
+        "correct_answers": 11747,
+        "incorrect_answers": 33147,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121201,
+        "text": "Who is the only woman to ever score in six straight World Cup matches?",
+        "question_number": 8,
+        "eliminated": "8,325",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "19,246",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256275,
+            "text": "Abby Wambach",
+            "correct": false,
+            "count": "3,627",
+            "percent": "13.94%"
+          },
+          {
+            "id": 256280,
+            "text": "Mia Hamm",
+            "correct": false,
+            "count": "5,501",
+            "percent": "21.14%"
+          },
+          {
+            "id": 256286,
+            "text": "Carli Lloyd",
+            "correct": true,
+            "count": "16,898",
+            "percent": "64.93%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/1/8",
+        "game_link": "/us/game/2019-06-19/1",
+        "correct_answers": 16898,
+        "incorrect_answers": 9128,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121218,
+        "text": "Between 1999 and 2007, who was the only player besides Tiger to win PGA Player of the Year?",
+        "question_number": 9,
+        "eliminated": "10,519",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "9,242",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256301,
+            "text": "Phil Mickelson",
+            "correct": false,
+            "count": "3,838",
+            "percent": "20.95%"
+          },
+          {
+            "id": 256302,
+            "text": "Vijay Singh",
+            "correct": true,
+            "count": "9,087",
+            "percent": "49.6%"
+          },
+          {
+            "id": 256303,
+            "text": "Jim Furyk",
+            "correct": false,
+            "count": "5,396",
+            "percent": "29.45%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/1/9",
+        "game_link": "/us/game/2019-06-19/1",
+        "correct_answers": 9087,
+        "incorrect_answers": 9234,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121234,
+        "text": "The most recent top overall pick in the WNBA Draft came from what school?",
+        "question_number": 10,
+        "eliminated": "4,069",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "5,998",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256323,
+            "text": "Baylor",
+            "correct": false,
+            "count": "2,940",
+            "percent": "29.79%"
+          },
+          {
+            "id": 256326,
+            "text": "UConn",
+            "correct": false,
+            "count": "938",
+            "percent": "9.51%"
+          },
+          {
+            "id": 256329,
+            "text": "Notre Dame",
+            "correct": true,
+            "count": "5,990",
+            "percent": "60.7%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/1/10",
+        "game_link": "/us/game/2019-06-19/1",
+        "correct_answers": 5990,
+        "incorrect_answers": 3878,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121250,
+        "text": "Which MLB single-season record is held by journeyman pitcher Phil Hughes?",
+        "question_number": 11,
+        "eliminated": "2,464",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "4,253",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256347,
+            "text": "Strikeout-to-walk ratio",
+            "correct": true,
+            "count": "4,253",
+            "percent": "64.06%"
+          },
+          {
+            "id": 256349,
+            "text": "Wild pitches",
+            "correct": false,
+            "count": "909",
+            "percent": "13.69%"
+          },
+          {
+            "id": 256351,
+            "text": "Home runs allowed",
+            "correct": false,
+            "count": "1,477",
+            "percent": "22.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/1/11",
+        "game_link": "/us/game/2019-06-19/1",
+        "correct_answers": 4253,
+        "incorrect_answers": 2386,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121267,
+        "text": "Who was the last man besides Djokovic, Federer, or Nadal to win a Grand Slam tournament?",
+        "question_number": 12,
+        "eliminated": "3,504",
+        "category": "Sports",
+        "category_slug": "sports",
+        "advancing": "1,580",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256372,
+            "text": "Marin Cilic",
+            "correct": false,
+            "count": "1,218",
+            "percent": "24.21%"
+          },
+          {
+            "id": 256376,
+            "text": "Stan Wawrinka",
+            "correct": true,
+            "count": "1,580",
+            "percent": "31.41%"
+          },
+          {
+            "id": 256378,
+            "text": "Andy Murray",
+            "correct": false,
+            "count": "2,233",
+            "percent": "44.38%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/1/12",
+        "game_link": "/us/game/2019-06-19/1",
+        "correct_answers": 1580,
+        "incorrect_answers": 3451,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 295,
+        "game_id": 114899,
+        "question": "How far will GSW go next season?",
+        "results": [
+          {
+            "id": 1790,
+            "display_count": "30",
+            "vote_count": 6615,
+            "text": "First round"
+          },
+          {
+            "id": 1804,
+            "display_count": "32",
+            "vote_count": 7197,
+            "text": "NBA Finals"
+          },
+          {
+            "id": 1797,
+            "display_count": "38",
+            "vote_count": 8453,
+            "text": "W Conf. Finals"
+          }
+        ],
+        "created_at": "2019-06-20T00:11:21Z"
+      }
+    ],
+    "checkpoints": [],
+    "total_checkpoint_prize": null,
+    "total_checkpoint_winners": null,
+    "smallest_checkpoint_prize": null,
+    "largest_checkpoint_prize": null,
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq-sports"
+    }
+  },
+  {
+    "id": 115017,
+    "show_id": 11288,
+    "active": false,
+    "game_type": "trivia",
+    "game_number": 2,
+    "prize": "150,000",
+    "currency": "$",
+    "start_time": "2019-06-20T01:00:00Z",
+    "direct_link": "/us/game/2019-06-19/2",
+    "time": " 9:00 pm",
+    "country": "us",
+    "summary": {
+      "winner_count": "0",
+      "currency": "$",
+      "average_prize": "0.00"
+    },
+    "countries": [
+      {
+        "name": "the United Kingdom",
+        "code": "uk"
+      },
+      {
+        "name": "the United States",
+        "code": "us"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Checkpoints",
+        "slug": "checkpoints"
+      }
+    ],
+    "questions": [
+      {
+        "id": 121283,
+        "text": "Which of these is software commonly used to digitally retouch photos?",
+        "question_number": 1,
+        "eliminated": "-840",
+        "category": "Tech",
+        "category_slug": "tech",
+        "advancing": "265,329",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256397,
+            "text": "Fotomat",
+            "correct": false,
+            "count": "2,646",
+            "percent": "1.05%"
+          },
+          {
+            "id": 256398,
+            "text": "Automat",
+            "correct": false,
+            "count": "1,873",
+            "percent": "0.75%"
+          },
+          {
+            "id": 256399,
+            "text": "Photoshop",
+            "correct": true,
+            "count": "246,536",
+            "percent": "98.2%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/2/1",
+        "game_link": "/us/game/2019-06-19/2",
+        "correct_answers": 246536,
+        "incorrect_answers": 4519,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121292,
+        "text": "Bumblebees typically feast on what part of a flower?",
+        "question_number": 2,
+        "eliminated": "5,001",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "260,526",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256410,
+            "text": "Petals",
+            "correct": false,
+            "count": "5,374",
+            "percent": "2.1%"
+          },
+          {
+            "id": 256413,
+            "text": "Nectar",
+            "correct": true,
+            "count": "244,553",
+            "percent": "95.76%"
+          },
+          {
+            "id": 256417,
+            "text": "Stems",
+            "correct": false,
+            "count": "5,463",
+            "percent": "2.14%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/2/2",
+        "game_link": "/us/game/2019-06-19/2",
+        "correct_answers": 244553,
+        "incorrect_answers": 10837,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121312,
+        "text": "The element known as âfoolâs goldâ is technically what?",
+        "question_number": 3,
+        "eliminated": "21,530",
+        "category": "Science",
+        "category_slug": "science",
+        "advancing": "239,262",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256442,
+            "text": "Rose gold",
+            "correct": false,
+            "count": "9,637",
+            "percent": "3.85%"
+          },
+          {
+            "id": 256444,
+            "text": "Copper",
+            "correct": false,
+            "count": "37,992",
+            "percent": "15.18%"
+          },
+          {
+            "id": 256446,
+            "text": "Pyrite",
+            "correct": true,
+            "count": "202,632",
+            "percent": "80.97%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/2/3",
+        "game_link": "/us/game/2019-06-19/2",
+        "correct_answers": 202632,
+        "incorrect_answers": 47629,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121324,
+        "text": "Which of these terms refers to a recognizable grouping of stars?",
+        "question_number": 4,
+        "eliminated": "33,437",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "207,160",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256460,
+            "text": "Asteroid",
+            "correct": false,
+            "count": "76,583",
+            "percent": "33.29%"
+          },
+          {
+            "id": 256461,
+            "text": "Asterism",
+            "correct": true,
+            "count": "139,669",
+            "percent": "60.71%"
+          },
+          {
+            "id": 256464,
+            "text": "Asterisk",
+            "correct": false,
+            "count": "13,805",
+            "percent": "6.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/2/4",
+        "game_link": "/us/game/2019-06-19/2",
+        "correct_answers": 139669,
+        "incorrect_answers": 90388,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121343,
+        "text": "Which of these celebrity chefs was first known as âThe Naked Chefâ?",
+        "question_number": 5,
+        "eliminated": "27,941",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "181,715",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256487,
+            "text": "Jamie Oliver",
+            "correct": true,
+            "count": "153,271",
+            "percent": "75.84%"
+          },
+          {
+            "id": 256490,
+            "text": "Nigella Lawson",
+            "correct": false,
+            "count": "21,570",
+            "percent": "10.67%"
+          },
+          {
+            "id": 256495,
+            "text": "Curtis Stone",
+            "correct": false,
+            "count": "27,252",
+            "percent": "13.48%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/2/5",
+        "game_link": "/us/game/2019-06-19/2",
+        "correct_answers": 153271,
+        "incorrect_answers": 48822,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121355,
+        "text": "Which of these is considered a botanical nut?",
+        "question_number": 6,
+        "eliminated": "82,869",
+        "category": "Nature",
+        "category_slug": "nature",
+        "advancing": "101,115",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256505,
+            "text": "Macadamia",
+            "correct": false,
+            "count": "63,845",
+            "percent": "36.02%"
+          },
+          {
+            "id": 256506,
+            "text": "Brazil nut",
+            "correct": false,
+            "count": "65,590",
+            "percent": "37.01%"
+          },
+          {
+            "id": 256507,
+            "text": "Chestnut",
+            "correct": true,
+            "count": "47,796",
+            "percent": "26.97%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/2/6",
+        "game_link": "/us/game/2019-06-19/2",
+        "correct_answers": 47796,
+        "incorrect_answers": 129435,
+        "savage": true,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121374,
+        "text": "What is the use of âtemperaâ in art, as seen in this painting?",
+        "question_number": 7,
+        "eliminated": "39,848",
+        "category": "Art & Design",
+        "category_slug": "art-and-design",
+        "advancing": "72,495",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256533,
+            "text": "Large scale",
+            "correct": false,
+            "count": "7,908",
+            "percent": "7.25%"
+          },
+          {
+            "id": 256535,
+            "text": "Egg binding",
+            "correct": true,
+            "count": "56,696",
+            "percent": "52.0%"
+          },
+          {
+            "id": 256540,
+            "text": "Warm colors",
+            "correct": false,
+            "count": "44,436",
+            "percent": "40.75%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/2/7",
+        "game_link": "/us/game/2019-06-19/2",
+        "correct_answers": 56696,
+        "incorrect_answers": 52344,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121387,
+        "text": "The lead of which TV show made their acting debut in the Disney Channel Original âGotta Kick It Up!â?",
+        "question_number": 8,
+        "eliminated": "30,507",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "46,178",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256553,
+            "text": "Crazy Ex-Girlfriend",
+            "correct": false,
+            "count": "6,907",
+            "percent": "9.45%"
+          },
+          {
+            "id": 256554,
+            "text": "Jane the Virgin",
+            "correct": false,
+            "count": "26,663",
+            "percent": "36.48%"
+          },
+          {
+            "id": 256555,
+            "text": "Ugly Betty",
+            "correct": true,
+            "count": "39,527",
+            "percent": "54.07%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/2/8",
+        "game_link": "/us/game/2019-06-19/2",
+        "correct_answers": 39527,
+        "incorrect_answers": 33570,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121403,
+        "text": "Which of these words used to refer to both male and female children?",
+        "question_number": 9,
+        "eliminated": "41,094",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "9,482",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256577,
+            "text": "Boy",
+            "correct": false,
+            "count": "10,316",
+            "percent": "20.85%"
+          },
+          {
+            "id": 256579,
+            "text": "Girl",
+            "correct": true,
+            "count": "9,482",
+            "percent": "19.17%"
+          },
+          {
+            "id": 256584,
+            "text": "Neither",
+            "correct": false,
+            "count": "29,671",
+            "percent": "59.98%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/2/9",
+        "game_link": "/us/game/2019-06-19/2",
+        "correct_answers": 9482,
+        "incorrect_answers": 39987,
+        "savage": true,
+        "checkpoint": {
+          "round_number": 9,
+          "players_left": 6005,
+          "players_left_formatted": "6,005",
+          "num_winners": 3473,
+          "num_winners_formatted": "3,473",
+          "prize": 0.27,
+          "prize_formatted": "$0.27",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 121420,
+        "text": "What did Mama Cass allegedly sing instead of âI began to prayâ in âCalifornia Dreamingâ?",
+        "question_number": 10,
+        "eliminated": "3,591",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "4,885",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256603,
+            "text": "I ran and played",
+            "correct": false,
+            "count": "755",
+            "percent": "11.89%"
+          },
+          {
+            "id": 256605,
+            "text": "I pretend to pray",
+            "correct": true,
+            "count": "4,886",
+            "percent": "76.92%"
+          },
+          {
+            "id": 256606,
+            "text": "I found a way",
+            "correct": false,
+            "count": "711",
+            "percent": "11.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/2/10",
+        "game_link": "/us/game/2019-06-19/2",
+        "correct_answers": 4886,
+        "incorrect_answers": 1466,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121437,
+        "text": "The director of Broadwayâs âThe Lion Kingâ also directed which of these Shakespearean movies?",
+        "question_number": 11,
+        "eliminated": "1,477",
+        "category": "Movies",
+        "category_slug": "movies",
+        "advancing": "3,846",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256631,
+            "text": "Hamlet",
+            "correct": false,
+            "count": "315",
+            "percent": "5.96%"
+          },
+          {
+            "id": 256632,
+            "text": "Titus Andronicus",
+            "correct": true,
+            "count": "3,847",
+            "percent": "72.82%"
+          },
+          {
+            "id": 256633,
+            "text": "Othello",
+            "correct": false,
+            "count": "1,121",
+            "percent": "21.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/2/11",
+        "game_link": "/us/game/2019-06-19/2",
+        "correct_answers": 3847,
+        "incorrect_answers": 1436,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121451,
+        "text": "Which of these gems contains the fewest elements?",
+        "question_number": 12,
+        "eliminated": "549",
+        "category": "Language",
+        "category_slug": "language",
+        "advancing": "3,818",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256649,
+            "text": "Sapphire",
+            "correct": false,
+            "count": "118",
+            "percent": "2.72%"
+          },
+          {
+            "id": 256650,
+            "text": "Diamond",
+            "correct": true,
+            "count": "3,819",
+            "percent": "88.04%"
+          },
+          {
+            "id": 256651,
+            "text": "Ruby",
+            "correct": false,
+            "count": "401",
+            "percent": "9.24%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/2/12",
+        "game_link": "/us/game/2019-06-19/2",
+        "correct_answers": 3819,
+        "incorrect_answers": 519,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121468,
+        "text": "Which movie stars the oldest female artist to top Billboardâs Hot 100?",
+        "question_number": 13,
+        "eliminated": "2,557",
+        "category": "Entertainment",
+        "category_slug": "entertainment",
+        "advancing": "1,626",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256676,
+            "text": "Evita",
+            "correct": false,
+            "count": "732",
+            "percent": "17.67%"
+          },
+          {
+            "id": 256677,
+            "text": "The Way We Were",
+            "correct": false,
+            "count": "1,785",
+            "percent": "43.08%"
+          },
+          {
+            "id": 256678,
+            "text": "Moonstruck",
+            "correct": true,
+            "count": "1,626",
+            "percent": "39.25%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/2/13",
+        "game_link": "/us/game/2019-06-19/2",
+        "correct_answers": 1626,
+        "incorrect_answers": 2517,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 13,
+          "players_left": 895,
+          "players_left_formatted": "895",
+          "num_winners": 727,
+          "num_winners_formatted": "727",
+          "prize": 1.24,
+          "prize_formatted": "$1.24",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 121485,
+        "text": "Which of these famous doctors does NOT have a medical degree?",
+        "question_number": 14,
+        "eliminated": "769",
+        "category": "Culture",
+        "category_slug": "culture",
+        "advancing": "123",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256699,
+            "text": "Dr. Phil",
+            "correct": false,
+            "count": "395",
+            "percent": "47.14%"
+          },
+          {
+            "id": 256704,
+            "text": "Dr. Seuss",
+            "correct": true,
+            "count": "123",
+            "percent": "14.68%"
+          },
+          {
+            "id": 256708,
+            "text": "Dr. Martens",
+            "correct": false,
+            "count": "320",
+            "percent": "38.19%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/2/14",
+        "game_link": "/us/game/2019-06-19/2",
+        "correct_answers": 123,
+        "incorrect_answers": 715,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121499,
+        "text": "This inauguration dress was controversial for what reason?",
+        "question_number": 15,
+        "eliminated": "86",
+        "category": "Fashion",
+        "category_slug": "fashion",
+        "advancing": "37",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256721,
+            "text": "Foreign designer",
+            "correct": false,
+            "count": "48",
+            "percent": "39.34%"
+          },
+          {
+            "id": 256725,
+            "text": "Worn already",
+            "correct": true,
+            "count": "37",
+            "percent": "30.33%"
+          },
+          {
+            "id": 256728,
+            "text": "Arms on display",
+            "correct": false,
+            "count": "37",
+            "percent": "30.33%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/2/15",
+        "game_link": "/us/game/2019-06-19/2",
+        "correct_answers": 37,
+        "incorrect_answers": 85,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121516,
+        "text": "Which of these sitcoms was NOT based directly on a British TV show?",
+        "question_number": 16,
+        "eliminated": "12",
+        "category": "TV",
+        "category_slug": "tv",
+        "advancing": "25",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256746,
+            "text": "Sanford and Son",
+            "correct": false,
+            "count": "6",
+            "percent": "16.67%"
+          },
+          {
+            "id": 256749,
+            "text": "All in the Family",
+            "correct": false,
+            "count": "4",
+            "percent": "11.11%"
+          },
+          {
+            "id": 256753,
+            "text": "Good Times",
+            "correct": true,
+            "count": "26",
+            "percent": "72.22%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/2/16",
+        "game_link": "/us/game/2019-06-19/2",
+        "correct_answers": 26,
+        "incorrect_answers": 10,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      },
+      {
+        "id": 121531,
+        "text": "Which of these European capitals is closest to London?",
+        "question_number": 17,
+        "eliminated": "10",
+        "category": "Geography",
+        "category_slug": "geography",
+        "advancing": "13",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256769,
+            "text": "Amsterdam",
+            "correct": false,
+            "count": "9",
+            "percent": "39.13%"
+          },
+          {
+            "id": 256770,
+            "text": "Paris",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 256771,
+            "text": "Brussels",
+            "correct": true,
+            "count": "14",
+            "percent": "60.87%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/2/17",
+        "game_link": "/us/game/2019-06-19/2",
+        "correct_answers": 14,
+        "incorrect_answers": 9,
+        "savage": false,
+        "checkpoint": {
+          "round_number": 17,
+          "players_left": 1,
+          "players_left_formatted": "1",
+          "num_winners": 12,
+          "num_winners_formatted": "12",
+          "prize": 230.77,
+          "prize_formatted": "$230.77",
+          "currency": "$"
+        },
+        "media_element": null
+      },
+      {
+        "id": 121547,
+        "text": "Which of these songs did John Lennon and Elton John perform together at Lennonâs final concert performance?",
+        "question_number": 18,
+        "eliminated": "1",
+        "category": "Music",
+        "category_slug": "music",
+        "advancing": "0",
+        "game_type": "trivia",
+        "answers": [
+          {
+            "id": 256793,
+            "text": "Imagine",
+            "correct": false,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 256794,
+            "text": "I Saw Her Standing There",
+            "correct": true,
+            "count": "0",
+            "percent": "0.0%"
+          },
+          {
+            "id": 256795,
+            "text": "Come Together",
+            "correct": false,
+            "count": "1",
+            "percent": "100.0%"
+          }
+        ],
+        "direct_link": "/us/game/2019-06-19/2/18",
+        "game_link": "/us/game/2019-06-19/2",
+        "correct_answers": 0,
+        "incorrect_answers": 1,
+        "savage": false,
+        "checkpoint": null,
+        "media_element": null
+      }
+    ],
+    "practice": null,
+    "surveys": [
+      {
+        "id": 303,
+        "game_id": 115017,
+        "question": "Of these actors who have played Batman, which is your favorite?",
+        "results": [
+          {
+            "id": 1837,
+            "display_count": "46",
+            "vote_count": 35968,
+            "text": "Christian Bale"
+          },
+          {
+            "id": 1848,
+            "display_count": "16",
+            "vote_count": 12381,
+            "text": "George Clooney"
+          },
+          {
+            "id": 1841,
+            "display_count": "39",
+            "vote_count": 30683,
+            "text": "Michael Keaton"
+          }
+        ],
+        "created_at": "2019-06-20T01:03:18Z"
+      },
+      {
+        "id": 311,
+        "game_id": 115017,
+        "question": "What would Garfield do next?",
+        "results": [
+          {
+            "id": 1885,
+            "display_count": "14",
+            "vote_count": 13309,
+            "text": "Dab"
+          },
+          {
+            "id": 1891,
+            "display_count": "29",
+            "vote_count": 28786,
+            "text": "Kick Odie "
+          },
+          {
+            "id": 1887,
+            "display_count": "57",
+            "vote_count": 56419,
+            "text": "Sleep"
+          }
+        ],
+        "created_at": "2019-06-20T01:04:07Z"
+      }
+    ],
+    "checkpoints": [
+      {
+        "round_number": 17,
+        "players_left": 1,
+        "players_left_formatted": "1",
+        "num_winners": 12,
+        "num_winners_formatted": "12",
+        "prize": 230.77,
+        "prize_formatted": "$230.77",
+        "currency": "$"
+      },
+      {
+        "round_number": 9,
+        "players_left": 6005,
+        "players_left_formatted": "6,005",
+        "num_winners": 3473,
+        "num_winners_formatted": "3,473",
+        "prize": 0.27,
+        "prize_formatted": "$0.27",
+        "currency": "$"
+      },
+      {
+        "round_number": 13,
+        "players_left": 895,
+        "players_left_formatted": "895",
+        "num_winners": 727,
+        "num_winners_formatted": "727",
+        "prize": 1.24,
+        "prize_formatted": "$1.24",
+        "currency": "$"
+      }
+    ],
+    "total_checkpoint_prize": "4,608.43",
+    "total_checkpoint_winners": "4,212",
+    "smallest_checkpoint_prize": "$0.27",
+    "largest_checkpoint_prize": "$230.77",
+    "show": {
+      "game_type": "trivia",
+      "show_type": "hq"
+    }
+  }
+]
