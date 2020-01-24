@@ -8,9 +8,6 @@ from datetime import datetime as dt
 from lxml import html
 import re
 import json
- 
-API_URI = "https://vision.googleapis.com/v1/images:annotate"
-API_KEY = "AIzaSyAy-Twv2K3ukFiMfRHMWhjG9ZSP0h9RJ_A"
 
 camera_port = 0
 ramp_frames = 60
